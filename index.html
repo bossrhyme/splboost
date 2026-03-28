@@ -2,550 +2,427 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SPL Boost — 1012 Takas, Saklama ve Operasyon İşlemleri</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>SPL Boost — Sermaye Piyasası Sınav Hazırlık</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-:root{
-  --ink:#0d0d0d;
-  --cream:#f5f0e8;
-  --gold:#c9a84c;
-  --gold-light:#e8d49a;
-  --red:#b03030;
-  --green:#1e6b3c;
-  --bg:#faf8f3;
-  --card:#ffffff;
-  --border:#ddd8cc;
-  --muted:#7a7060;
-  --nav-h:60px;
-}
+:root{--ink:#0d0d0d;--cream:#f5f0e8;--gold:#c9a84c;--gold-light:#e8d49a;--red:#b03030;--green:#1e6b3c;--bg:#faf8f3;--card:#ffffff;--border:#ddd8cc;--muted:#7a7060;}
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:'Source Sans 3',sans-serif;background:var(--bg);color:var(--ink);min-height:100vh}
-
-/* NAV */
-nav{position:sticky;top:0;z-index:100;background:var(--ink);border-bottom:2px solid var(--gold);display:flex;align-items:center;height:var(--nav-h);padding:0 16px;gap:4px;overflow-x:auto;scrollbar-width:none}
-nav::-webkit-scrollbar{display:none}
-.nav-brand{font-family:'Playfair Display',serif;color:var(--gold);font-size:1.1rem;white-space:nowrap;margin-right:12px;flex-shrink:0}
-.nav-brand span{color:#fff;font-size:.75rem;font-family:'IBM Plex Mono',monospace;display:block;line-height:1}
-.tab-btn{background:none;border:1px solid transparent;color:#ccc;padding:6px 14px;border-radius:4px;cursor:pointer;font-family:'Source Sans 3',sans-serif;font-size:.85rem;white-space:nowrap;flex-shrink:0;transition:all .2s}
-.tab-btn:hover{color:#fff;border-color:rgba(201,168,76,.4)}
-.tab-btn.active{background:var(--gold);color:var(--ink);font-weight:600;border-color:var(--gold)}
-.nav-score{margin-left:auto;flex-shrink:0;font-family:'IBM Plex Mono',monospace;font-size:.8rem;color:var(--gold-light);white-space:nowrap}
-
-/* MAIN */
-main{max-width:900px;margin:0 auto;padding:28px 16px 60px}
-
-/* PAGES */
-.page{display:none}.page.active{display:block}
-
-/* KONU ÖZETİ */
-.summary-header{text-align:center;margin-bottom:32px}
-.summary-header h1{font-family:'Playfair Display',serif;font-size:2rem;color:var(--ink)}
-.summary-header p{color:var(--muted);margin-top:6px}
-
-.accordion{border:1px solid var(--border);border-radius:8px;margin-bottom:12px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.04)}
-.acc-head{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;cursor:pointer;background:var(--card);transition:background .15s}
+.topnav{position:sticky;top:0;z-index:200;background:var(--ink);border-bottom:2px solid var(--gold);height:56px;display:flex;align-items:center;padding:0 20px;gap:14px}
+.brand{font-family:'Playfair Display',serif;color:var(--gold);font-size:1.15rem;white-space:nowrap;cursor:pointer;flex-shrink:0}
+.brand span{display:block;font-family:'IBM Plex Mono',monospace;font-size:.65rem;color:#aaa;line-height:1}
+.breadcrumb{display:flex;align-items:center;gap:6px;font-size:.82rem;color:#888;overflow:hidden;flex:1;min-width:0}
+.breadcrumb .sep{color:#555}.breadcrumb .bc{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;cursor:pointer;transition:color .15s}.breadcrumb .bc:hover{color:var(--gold)}.breadcrumb .bc.active{color:var(--gold-light)}
+.nav-score{margin-left:auto;font-family:'IBM Plex Mono',monospace;font-size:.8rem;color:var(--gold-light);white-space:nowrap;flex-shrink:0}
+.screen{display:none}.screen.active{display:block}
+main{max-width:960px;margin:0 auto;padding:32px 16px 80px}
+.home-hero{text-align:center;margin-bottom:40px;padding:40px 0 0}
+.home-hero h1{font-family:'Playfair Display',serif;font-size:2.4rem;line-height:1.2}
+.home-hero p{color:var(--muted);margin-top:10px;font-size:1.05rem}
+.home-hero .badge{display:inline-block;background:var(--gold);color:var(--ink);font-family:'IBM Plex Mono',monospace;font-size:.72rem;padding:3px 10px;border-radius:20px;margin-top:12px}
+.sec-label{font-family:'IBM Plex Mono',monospace;font-size:.7rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase;margin:28px 0 12px}
+.lic-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+.lic-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px 22px;cursor:pointer;transition:all .2s;position:relative;overflow:hidden}
+.lic-card::before{content:'';position:absolute;top:0;left:0;width:4px;height:100%;background:var(--gold);opacity:0;transition:opacity .2s}
+.lic-card:hover:not(.locked){border-color:var(--gold);box-shadow:0 4px 16px rgba(201,168,76,.15);transform:translateY(-2px)}.lic-card:hover:not(.locked)::before{opacity:1}
+.lic-card.locked{opacity:.55;cursor:default}
+.lic-num{font-family:'IBM Plex Mono',monospace;font-size:.7rem;color:var(--gold);margin-bottom:6px}
+.lic-title{font-family:'Playfair Display',serif;font-size:1.05rem;line-height:1.3;margin-bottom:8px}
+.lic-topics{font-size:.8rem;color:var(--muted);line-height:1.5}
+.lic-badge{display:inline-block;margin-top:10px;font-size:.7rem;font-family:'IBM Plex Mono',monospace;padding:2px 8px;border-radius:3px}
+.lic-badge.ready{background:#e6f4ec;color:var(--green)}.lic-badge.soon{background:#f5f0e0;color:#a08020}
+.back-btn{background:none;border:1px solid var(--border);color:var(--muted);padding:5px 12px;border-radius:4px;cursor:pointer;font-size:.82rem;margin-bottom:14px;transition:all .15s;font-family:'Source Sans 3',sans-serif}
+.back-btn:hover{border-color:var(--gold);color:var(--ink)}
+.lic-hdr h2{font-family:'Playfair Display',serif;font-size:1.9rem}.lic-hdr p{color:var(--muted);margin-top:5px}
+.topic-list{display:flex;flex-direction:column;gap:8px}
+.topic-row{background:var(--card);border:1px solid var(--border);border-radius:8px;display:flex;align-items:center;padding:14px 18px;cursor:pointer;transition:all .18s;gap:14px}
+.topic-row:hover:not(.locked){border-color:var(--gold);box-shadow:0 2px 8px rgba(201,168,76,.12)}.topic-row.locked{opacity:.5;cursor:default}
+.t-code{font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:var(--gold);flex-shrink:0;width:40px}
+.t-name{font-weight:500;font-size:.97rem;flex:1}
+.t-arr{color:var(--muted);font-size:.85rem}
+.topic-hdr h3{font-family:'Playfair Display',serif;font-size:1.6rem}.topic-hdr p{color:var(--muted);margin-top:4px}
+.vtabs{display:flex;gap:8px;margin:20px 0;flex-wrap:wrap}
+.vtab{padding:8px 20px;border-radius:6px;border:1px solid var(--border);background:var(--card);cursor:pointer;font-size:.88rem;font-weight:500;transition:all .18s;font-family:'Source Sans 3',sans-serif}
+.vtab:hover{border-color:var(--gold)}.vtab.active{background:var(--gold);color:var(--ink);border-color:var(--gold)}
+.vpanel{display:none}.vpanel.active{display:block}
+.accordion{border:1px solid var(--border);border-radius:8px;margin-bottom:10px;overflow:hidden}
+.acc-head{display:flex;justify-content:space-between;align-items:center;padding:13px 18px;cursor:pointer;background:var(--card);transition:background .15s}
 .acc-head:hover{background:#f0ece2}
-.acc-head h3{font-family:'Playfair Display',serif;font-size:1rem;color:var(--ink)}
-.acc-head .acc-num{font-family:'IBM Plex Mono',monospace;font-size:.75rem;color:var(--gold);margin-right:10px}
-.acc-arrow{color:var(--gold);font-size:1.1rem;transition:transform .25s}
+.acc-head h3{font-family:'Playfair Display',serif;font-size:.97rem;color:var(--ink)}
+.acc-num{font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:var(--gold);margin-right:8px}
+.acc-arrow{color:var(--gold);transition:transform .22s}
 .accordion.open .acc-arrow{transform:rotate(180deg)}
-.acc-body{display:none;padding:0 18px 18px;background:var(--card)}
+.acc-body{display:none;padding:0 18px 16px;background:var(--card);font-size:.93rem}
 .accordion.open .acc-body{display:block}
-.acc-body ul{padding-left:20px;margin-top:8px}
-.acc-body li{margin-bottom:7px;line-height:1.55;font-size:.95rem}
-.acc-body .highlight{background:#fffae8;border-left:3px solid var(--gold);padding:8px 12px;border-radius:0 4px 4px 0;margin:10px 0;font-size:.9rem}
-.acc-body strong{color:var(--ink)}
-.tag{display:inline-block;background:var(--gold);color:var(--ink);font-size:.7rem;font-family:'IBM Plex Mono',monospace;padding:1px 6px;border-radius:3px;margin-right:4px;font-weight:500}
-
-/* TEST */
-.test-header{text-align:center;margin-bottom:28px}
-.test-header h2{font-family:'Playfair Display',serif;font-size:1.75rem}
-.test-header p{color:var(--muted);margin-top:4px;font-size:.95rem}
-
-.progress-bar{height:6px;background:var(--border);border-radius:3px;margin-bottom:24px;overflow:hidden}
-.progress-fill{height:100%;background:var(--gold);border-radius:3px;transition:width .3s}
-
-.q-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:20px;margin-bottom:16px;box-shadow:0 1px 4px rgba(0,0,0,.04)}
-.q-num{font-family:'IBM Plex Mono',monospace;font-size:.75rem;color:var(--gold);margin-bottom:6px}
-.q-text{font-size:1rem;font-weight:500;line-height:1.5;margin-bottom:14px}
-.options{display:flex;flex-direction:column;gap:8px}
-.opt{display:flex;align-items:flex-start;gap:10px;padding:10px 14px;border:1px solid var(--border);border-radius:6px;cursor:pointer;transition:all .15s;font-size:.93rem;line-height:1.4}
-.opt:hover:not(.disabled){background:#f5f0e8;border-color:var(--gold)}
-.opt.correct{background:#e6f4ec;border-color:var(--green);color:var(--green)}
-.opt.wrong{background:#fdeaea;border-color:var(--red);color:var(--red)}
-.opt.disabled{cursor:default}
-.opt-letter{font-family:'IBM Plex Mono',monospace;font-weight:500;flex-shrink:0;margin-top:1px}
-.explanation{display:none;margin-top:10px;padding:10px 14px;background:#fffae8;border-left:3px solid var(--gold);border-radius:0 4px 4px 0;font-size:.88rem;line-height:1.5;color:#4a3f20}
-.explanation.show{display:block}
-
-.test-actions{display:flex;justify-content:space-between;align-items:center;margin-top:24px;flex-wrap:wrap;gap:12px}
-.btn{padding:10px 24px;border-radius:6px;border:none;cursor:pointer;font-family:'Source Sans 3',sans-serif;font-size:.95rem;font-weight:600;transition:all .2s}
+.acc-body ul{padding-left:18px;margin-top:8px}.acc-body li{margin-bottom:6px;line-height:1.55}
+.highlight{background:#fffae8;border-left:3px solid var(--gold);padding:8px 12px;border-radius:0 4px 4px 0;margin:10px 0;font-size:.88rem;line-height:1.5}
+.prog-bar{height:5px;background:var(--border);border-radius:3px;margin-bottom:22px;overflow:hidden}
+.prog-fill{height:100%;background:var(--gold);border-radius:3px;transition:width .3s}
+.q-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:20px;margin-bottom:14px}
+.q-num{font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:var(--gold);margin-bottom:5px}
+.q-text{font-size:.97rem;font-weight:500;line-height:1.5;margin-bottom:13px}
+.opts{display:flex;flex-direction:column;gap:7px}
+.opt{display:flex;align-items:flex-start;gap:10px;padding:9px 13px;border:1px solid var(--border);border-radius:6px;cursor:pointer;transition:all .13s;font-size:.9rem;line-height:1.4}
+.opt:hover:not(.dis){background:#f5f0e8;border-color:var(--gold)}
+.opt.ok{background:#e6f4ec;border-color:var(--green);color:var(--green)}
+.opt.no{background:#fdeaea;border-color:var(--red);color:var(--red)}
+.opt.dis{cursor:default}
+.opt-l{font-family:'IBM Plex Mono',monospace;font-weight:500;flex-shrink:0}
+.exp{display:none;margin-top:9px;padding:9px 13px;background:#fffae8;border-left:3px solid var(--gold);border-radius:0 4px 4px 0;font-size:.85rem;line-height:1.5;color:#4a3f20}
+.exp.show{display:block}
+.result-sc{display:none;text-align:center;padding:36px 16px}.result-sc.show{display:block}
+.rc{width:110px;height:110px;border-radius:50%;border:3px solid var(--gold);display:flex;flex-direction:column;align-items:center;justify-content:center;margin:0 auto 18px;font-family:'IBM Plex Mono',monospace}
+.rc .big{font-size:1.9rem;color:var(--gold)}.rc .small{font-size:.75rem;color:var(--muted)}
+.rmsg{font-family:'Playfair Display',serif;font-size:1.35rem;margin-bottom:6px}
+.rsub{color:var(--muted);margin-bottom:22px;font-size:.9rem}
+.btn{padding:9px 22px;border-radius:6px;border:none;cursor:pointer;font-family:'Source Sans 3',sans-serif;font-size:.9rem;font-weight:600;transition:all .18s}
 .btn-gold{background:var(--gold);color:var(--ink)}.btn-gold:hover{background:#b8943f}
-.btn-outline{background:none;border:1px solid var(--border);color:var(--ink)}.btn-outline:hover{border-color:var(--gold)}
-.score-badge{font-family:'IBM Plex Mono',monospace;font-size:.9rem;background:var(--ink);color:var(--gold);padding:6px 14px;border-radius:4px}
-
-/* RESULT */
-.result-screen{display:none;text-align:center;padding:40px 20px}
-.result-screen.show{display:block}
-.result-circle{width:120px;height:120px;border-radius:50%;border:4px solid var(--gold);display:flex;flex-direction:column;align-items:center;justify-content:center;margin:0 auto 20px;font-family:'IBM Plex Mono',monospace}
-.result-circle .big{font-size:2rem;font-weight:500;color:var(--gold)}
-.result-circle .small{font-size:.8rem;color:var(--muted)}
-.result-msg{font-family:'Playfair Display',serif;font-size:1.4rem;margin-bottom:8px}
-.result-sub{color:var(--muted);margin-bottom:24px}
+.coming{text-align:center;padding:60px 20px;color:var(--muted)}.coming .ic{font-size:3rem;margin-bottom:16px}.coming h3{font-family:'Playfair Display',serif;font-size:1.4rem;color:var(--ink);margin-bottom:8px}
 </style>
 </head>
 <body>
-
-<nav>
-  <div class="nav-brand">SPL Boost <span>1012 Takas &amp; Saklama</span></div>
-  <button class="tab-btn active" onclick="showPage('ozet')">📚 Konu Özeti</button>
-  <button class="tab-btn" onclick="showPage('t1')">Test 1</button>
-  <button class="tab-btn" onclick="showPage('t2')">Test 2</button>
-  <button class="tab-btn" onclick="showPage('t3')">Test 3</button>
-  <button class="tab-btn" onclick="showPage('t4')">Test 4</button>
-  <button class="tab-btn" onclick="showPage('t5')">Test 5</button>
-  <div class="nav-score" id="globalScore">✦ 0 / 0</div>
+<nav class="topnav">
+  <div class="brand" onclick="goHome()">SPL Boost<span>Sınav Hazırlık</span></div>
+  <div class="breadcrumb" id="bc"></div>
+  <div class="nav-score" id="gscore">✦ 0 / 0</div>
 </nav>
-
 <main>
-
-<!-- KONU ÖZETİ -->
-<div class="page active" id="page-ozet">
-  <div class="summary-header">
-    <h1>Konu Özeti</h1>
-    <p>1012 — Takas, Saklama ve Operasyon İşlemleri</p>
+<div class="screen active" id="screen-home">
+  <div class="home-hero">
+    <h1>Sermaye Piyasası<br>Sınav Hazırlık</h1>
+    <p>Konu özetleri ve pratik testlerle lisans sınavına hazırlan</p>
+    <div class="badge">9 Lisans Türü · Konu Özeti · 100 Soru / Konu</div>
   </div>
-
-  <!-- BÖLÜM 1 -->
-  <div class="accordion" onclick="toggleAcc(this)">
-    <div class="acc-head">
-      <div><span class="acc-num">01</span><h3 style="display:inline">Temel Kavramlar ve Tanımlar</h3></div>
-      <span class="acc-arrow">▾</span>
-    </div>
-    <div class="acc-body">
-      <ul>
-        <li><strong>Takas (Settlement):</strong> Alım-satım işleminin tamamlanması; nakit ve sermaye piyasası aracının el değiştirmesi.</li>
-        <li><strong>Saklama (Custody):</strong> Sermaye piyasası araçlarının kaydi ortamda güvenle tutulması ve korunması hizmeti.</li>
-        <li><strong>Kaydileştirme:</strong> Fiziksel senetlerin elektronik kayda alınması. MKK tarafından yürütülür.</li>
-        <li><strong>Merkezi Kayıt Kuruluşu (MKK):</strong> Türkiye'de kaydi sistemin merkezi; pay, fon, bono kayıtlarını tutar.</li>
-        <li><strong>Takasbank:</strong> Borsa İstanbul'da işlem gören menkul kıymetlerin takas ve saklama işlemlerini yürüten merkezi takas kuruluşu; aynı zamanda Merkezi Karşı Taraf (MKT) işlevi görür.</li>
-        <li><strong>Merkezi Karşı Taraf (MKT/CCP):</strong> Alıcıya karşı satıcı, satıcıya karşı alıcı konumuna giren kuruluş. Karşı taraf riskini ortadan kaldırır.</li>
-        <li><strong>Başlangıç Teminatı (Initial Margin):</strong> Pozisyon açılırken yatırılan teminat.</li>
-        <li><strong>Değişim Teminatı (Variation Margin):</strong> Günlük kar/zarar farkları nedeniyle oluşan nakit akışı (mark-to-market).</li>
-        <li><strong>Garanti Fonu:</strong> Temerrüt halinde kullanılmak üzere MKT üyelerinin toplu katkısıyla oluşturulan fon.</li>
-        <li><strong>Temerrüt:</strong> Takas yükümlülüğünü zamanında yerine getirememek.</li>
-        <li><strong>Netleştirme (Netting):</strong> Aynı üyenin birden fazla işleminin bakiye hesaplanarak tek teslimata indirgenmesi.</li>
-      </ul>
-      <div class="highlight">⚡ DVP (Delivery vs Payment): Ödeme ve teslimatın eş zamanlı gerçekleşmesi ilkesi. Likidite riski ve anapara riskini azaltır.</div>
-    </div>
+  <div class="sec-label">Lisans Türünü Seç</div>
+  <div class="lic-grid" id="licGrid"></div>
+</div>
+<div class="screen" id="screen-lic">
+  <div class="lic-hdr" style="margin-bottom:28px">
+    <button class="back-btn" onclick="goHome()">← Lisanslara Dön</button>
+    <h2 id="lic-title"></h2><p id="lic-sub"></p>
   </div>
-
-  <!-- BÖLÜM 2 -->
-  <div class="accordion" onclick="toggleAcc(this)">
-    <div class="acc-head">
-      <div><span class="acc-num">02</span><h3 style="display:inline">MKK — Merkezi Kayıt Kuruluşu</h3></div>
-      <span class="acc-arrow">▾</span>
-    </div>
-    <div class="acc-body">
-      <ul>
-        <li><strong>Hukuki Dayanak:</strong> SPKn Madde 81 ve MKK Yönetmeliği.</li>
-        <li><strong>Sermaye Yapısı:</strong> Takasbank en fazla <strong>%75</strong>, BİST en fazla <strong>%50</strong>, TSPB en fazla <strong>%10</strong> pay sahibi olabilir.</li>
-        <li><strong>Üyelik Türleri:</strong> Aracı kurum, banka (yatırım), portföy yönetim şirketi, ihraçcılar ve diğer SPK onaylı kurumlar üye olabilir.</li>
-        <li><strong>Hesap Türleri:</strong> Yatırımcı hesabı (bireysel), havuz hesabı (toplu), emanet hesabı.</li>
-        <li><strong>Kaydileştirme İlkesi:</strong> Tüm işlemler elektronik; fiziksel senet iptal edilir, hak sahibi MKK sicilinden tespit edilir.</li>
-        <li><strong>Sermaye Artırımı:</strong> Bedelli ve bedelsiz artırımlar MKK sistemi üzerinden gerçekleştirilir; hak sahiplerine kaydi olarak dağıtılır.</li>
-        <li><strong>İpotekli Kayıt:</strong> MKK nezdinde hisse senetleri üzerine rehin tesis edilebilir; taşınmaz ipoteği gibi tescil işlemi yapılır.</li>
-      </ul>
-      <div class="highlight">📌 MKK üyeliğinden çıkarma: Üyelik koşullarını kaybeden ya da yükümlülüklerini yerine getirmeyen üyelerin üyeliği SPK kararıyla sonlandırılabilir.</div>
-    </div>
+  <div class="sec-label">Konu Başlıkları</div>
+  <div class="topic-list" id="topicList"></div>
+</div>
+<div class="screen" id="screen-topic">
+  <div class="topic-hdr" style="margin-bottom:8px">
+    <h3 id="topic-title"></h3><p id="topic-sub"></p>
   </div>
-
-  <!-- BÖLÜM 3 -->
-  <div class="accordion" onclick="toggleAcc(this)">
-    <div class="acc-head">
-      <div><span class="acc-num">03</span><h3 style="display:inline">Merkezi Takas — MTK / MKT Düzenlemeleri</h3></div>
-      <span class="acc-arrow">▾</span>
-    </div>
-    <div class="acc-body">
-      <ul>
-        <li><strong>MTK (Merkezi Takas Kuruluşu):</strong> Takasbank; borsa ve teşkilatlanmış piyasalardaki işlemlerin takasını gerçekleştirir.</li>
-        <li><strong>MKT (Merkezi Karşı Taraf):</strong> Takasbank aynı zamanda MKT olarak alıcının satıcısı, satıcının alıcısı olur — karşı taraf riskini üstlenir.</li>
-        <li><strong>Üyelik Türleri:</strong>
-          <ul>
-            <li>Genel Takas Üyesi: Kendi ve müşteri adına takas</li>
-            <li>Doğrudan Takas Üyesi: Yalnızca kendi adına takas</li>
-            <li>Müşteri Takas Üyesi: Sadece belirli müşteriler için</li>
-          </ul>
-        </li>
-        <li><strong>Temerrüt Yönetim Kaskadı:</strong> 1) Üye teminatı → 2) Garanti fonu katkısı → 3) MTK özsermayesi (skin-in-the-game) → 4) Diğer üyelerin garanti fonu katkısı.</li>
-        <li><strong>Zorunlu Üyelik Sona Erdirme:</strong> Temerrüde düşen veya teminat yükümlülüğünü yerine getirmeyen üye sistemden çıkarılır.</li>
-        <li><strong>Pozisyon Kapatma Yetkisi:</strong> Temerrüt halinde MTK, üyenin açık pozisyonlarını piyasada kapatabilir.</li>
-      </ul>
-      <div class="highlight">⚖️ Genel Yönetmelik gereği MTK/MKT olmak için SPK lisansı zorunludur. Yabancı MTK'lar SPK onayıyla Türkiye'de faaliyet gösterebilir.</div>
-    </div>
-  </div>
-
-  <!-- BÖLÜM 4 -->
-  <div class="accordion" onclick="toggleAcc(this)">
-    <div class="acc-head">
-      <div><span class="acc-num">04</span><h3 style="display:inline">Portföy Saklama Hizmeti</h3></div>
-      <span class="acc-arrow">▾</span>
-    </div>
-    <div class="acc-body">
-      <ul>
-        <li><strong>Portföy Saklayıcısı:</strong> Yatırım fonu varlıklarını saklayan, kontrol eden ve SPK'ya raporlayan kuruluş (banka veya Takasbank).</li>
-        <li><strong>Yükümlülükler:</strong> Varlık ayrımı, iç kontrol, nakit akışı takibi, pay/fon kayıt doğrulaması, düzenleyiciye raporlama.</li>
-        <li><strong>Portföy Yöneticisinden Bağımsızlık:</strong> Saklayıcı ve portföy yöneticisi aynı grupta olsa dahi operasyonel bağımsızlık şarttır.</li>
-        <li><strong>Portföy Saklayıcısı Değişimi:</strong> Değişim kararı en az <strong>90 gün</strong> önceden bildirilmelidir.</li>
-        <li><strong>Alt Saklayıcı:</strong> Yabancı varlıklar için yetkili alt saklayıcı kullanılabilir; sorumluluk ana saklayıcıda kalmaya devam eder.</li>
-        <li><strong>İç Kontrol Fonksiyonu:</strong> Fon içtüzüğüne ve yatırım sınırlarına uyumu sürekli denetler; ihlal tespitinde SPK'ya derhal bildirir.</li>
-        <li><strong>Saklama Ücreti:</strong> Fon içtüzüğünde belirlenir; saklayıcı fon varlıklarına doğrudan erişerek tahsil edebilir.</li>
-      </ul>
-      <div class="highlight">🔑 UCITS/AIFM uyumlu saklama: Avrupalı standartlara paralel olarak Türk mevzuatında da saklayıcının varlık iade yükümlülüğü ve tazminat sorumluluğu ön plana çıkar.</div>
-    </div>
-  </div>
-
-  <!-- BÖLÜM 5 -->
-  <div class="accordion" onclick="toggleAcc(this)">
-    <div class="acc-head">
-      <div><span class="acc-num">05</span><h3 style="display:inline">BİAŞ Pay Piyasası Takas ve Temerrüt</h3></div>
-      <span class="acc-arrow">▾</span>
-    </div>
-    <div class="acc-body">
-      <ul>
-        <li><strong>Takas Günü:</strong> Pay piyasasında işlem tarihi T+2 (iki iş günü sonra).</li>
-        <li><strong>Netleştirme:</strong> Aynı hisse senedinde alış ve satışlar netleştirilerek tek takas tutarına indirgenir.</li>
-        <li><strong>Temerrüt Sınırı:</strong> Takas günü saat <strong>14:00</strong>'e kadar yükümlülük karşılanmazsa temerrüt gerçekleşmiş sayılır.</li>
-        <li><strong>Temerrüt Cezası Formülü:</strong>
-          <br>Ceza = Borç Tutarı × Referans Faiz × Katsayı × (Süre / <strong>360</strong>)
-        </li>
-        <li><strong>Katsayılar (Pay):</strong>
-          <ul>
-            <li>16:46–17:30 arası temerrüt → katsayı: <strong>1</strong></li>
-            <li>17:31 sonrası → katsayı: <strong>3</strong></li>
-          </ul>
-        </li>
-        <li><strong>Mağduriyet Ödemesi:</strong> Temerrüt cezasının <strong>2/3</strong>'ü mağdur üyeye aktarılır.</li>
-        <li><strong>Transfer İşlemleri:</strong> Veraset, bağış, hukuki el koyma gibi borsa dışı payların MKK'dan MKK'ya aktarımı; Takasbank onayıyla gerçekleşir.</li>
-      </ul>
-      <div class="highlight">💡 Pay temerrüdünde alınan menkul kıymetler açık piyasadan satın alınır; alış fiyatı temerrüde düşen taraftan tahsil edilir.</div>
-    </div>
-  </div>
-
-  <!-- BÖLÜM 6 -->
-  <div class="accordion" onclick="toggleAcc(this)">
-    <div class="acc-head">
-      <div><span class="acc-num">06</span><h3 style="display:inline">Borçlanma Araçları Piyasası Takas ve Temerrüt</h3></div>
-      <span class="acc-arrow">▾</span>
-    </div>
-    <div class="acc-body">
-      <ul>
-        <li><strong>BAP (Borçlanma Araçları Piyasası):</strong> Devlet iç borçlanma senetleri ve özel sektör tahvillerinin alım-satım platformu.</li>
-        <li><strong>SWAP Piyasası:</strong> Döviz swap işlemlerinin yapıldığı, Takasbank'ın MKT işlevi gördüğü piyasa.</li>
-        <li><strong>Para Piyasası:</strong> Repo ve ters repo işlemlerinin gerçekleştirildiği Takasbank piyasası.</li>
-        <li><strong>Takas Prensibi:</strong> DVP (teslimat karşılığı ödeme) esasına göre çalışır; T+0 veya T+1 takas.</li>
-        <li><strong>BAP Temerrüt Katsayıları:</strong>
-          <ul>
-            <li>16:46–17:00 → katsayı: <strong>0,25</strong></li>
-            <li>17:01–17:30 → katsayı: <strong>0,50</strong></li>
-            <li>17:31+ → katsayı: <strong>3</strong></li>
-          </ul>
-        </li>
-        <li><strong>BAP Faiz Payda:</strong> Ceza hesabında <strong>365</strong> kullanılır (Pay'de 360).</li>
-        <li><strong>Repo İşlemleri:</strong> Repo vade sonunda geri alma taahhüdü ile gerçekleşir; temerrüt halinde fark tazminatı ödenir.</li>
-      </ul>
-      <div class="highlight">📐 Kritik fark: Pay piyasasında payda 360, BAP'ta payda 365 kullanılır. Bu sınav sorusudur!</div>
-    </div>
-  </div>
-
-  <!-- BÖLÜM 7 -->
-  <div class="accordion" onclick="toggleAcc(this)">
-    <div class="acc-head">
-      <div><span class="acc-num">07</span><h3 style="display:inline">VİOP — Türev Araçlarda Takas</h3></div>
-      <span class="acc-arrow">▾</span>
-    </div>
-    <div class="acc-body">
-      <ul>
-        <li><strong>Başlangıç Teminatı (VİOP):</strong> Sözleşme açılışında yatırılan teminat; %99,50 güven aralığı, 2 günlük elde tutma süresi baz alınarak hesaplanır.</li>
-        <li><strong>Değişim Teminatı:</strong> Günlük mark-to-market farkları nakit olarak tahsil/ödenir; vadeli işlem hesaplarına yansıtılır.</li>
-        <li><strong>TL Teminat Zorunluluğu:</strong> Başlangıç teminatının en az <strong>%50</strong>'si TL olmalıdır. İlave işlem teminatında bu oran <strong>%30</strong>'a düşer.</li>
-        <li><strong>Teminata Kabul Edilen Varlıklar:</strong> Nakit TL, USD/EUR, devlet tahvili, hisse senedi (iskontoyla), altın ve diğer onaylı varlıklar.</li>
-        <li><strong>Fiziki Teslimat:</strong> Emtia vadeli işlem sözleşmelerinde vade sonunda fiziksel teslim yapılabilir; Takasbank teslimat sürecini koordine eder.</li>
-        <li><strong>Zorunlu Temerrüt Bildirimi:</strong> Temerrüde düşen üye Takasbank'a derhal bildirim yapar; aksi hâlde ek ceza uygulanır.</li>
-        <li><strong>Pozisyon Limiti:</strong> Aşırı yoğunlaşmayı önlemek için Takasbank ve SPK tarafından azami pozisyon limiti belirlenir.</li>
-      </ul>
-      <div class="highlight">🔢 Değerleme Katsayısı Parametreleri: %99,90 güven aralığı, 2 iş günü likidite periyodu. (Başlangıç teminatı: %99,50 güven, 2 gün elde tutma — fark önemlidir!)</div>
-    </div>
-  </div>
-
-  <!-- BÖLÜM 8 -->
-  <div class="accordion" onclick="toggleAcc(this)">
-    <div class="acc-head">
-      <div><span class="acc-num">08</span><h3 style="display:inline">Takasbank Teminat Yönetimi ve Garanti Fonu</h3></div>
-      <span class="acc-arrow">▾</span>
-    </div>
-    <div class="acc-body">
-      <ul>
-        <li><strong>Garanti Fonu Amacı:</strong> Tek bir üyenin temerrüdünün tüm sistemi etkilememesi için oluşturulan toplu kaynak havuzu.</li>
-        <li><strong>Garanti Fonu Katkısı:</strong> Her üye, pozisyon büyüklüğüne orantılı olarak katkı yapar; Takasbank da "skin-in-the-game" payını koyar.</li>
-        <li><strong>Temerrüt Kaskadı Sırası:</strong>
-          <ol style="padding-left:20px;margin-top:6px">
-            <li>Temerrüde düşen üyenin teminatı</li>
-            <li>Temerrüde düşen üyenin garanti fonu katkısı</li>
-            <li>Takasbank özsermayesi (skin-in-the-game)</li>
-            <li>Kalan üyelerin garanti fonu katkıları (pro-rata)</li>
-          </ol>
-        </li>
-        <li><strong>Değerleme Katsayısı:</strong> Teminata kabul edilen varlıkların likidite ve fiyat riski dikkate alınarak uygulanan indirim oranı (haircut).</li>
-        <li><strong>Teminat İkamesi:</strong> Üye teminattaki varlığı başka bir kabul edilebilir varlıkla değiştirebilir; Takasbank onayı gereklidir.</li>
-        <li><strong>Stres Testi:</strong> MTK, düzenli stres testleri yaparak garanti fonu yeterliliğini ölçer ve SPK'ya raporlar.</li>
-        <li><strong>Faiz Getirisi:</strong> Nakit teminatlar Takasbank tarafından değerlendirilir; belirlenmiş oran üzerinden üyelere faiz ödenir.</li>
-      </ul>
-      <div class="highlight">⚠️ Sınav ipucu: Garanti fonu "son savunma" değildir; kaskadda 4. sırada yer alır. Takasbank özsermayesi (skin-in-the-game) garanti fonundan ÖNCE devreye girer.</div>
-    </div>
-  </div>
-
-</div><!-- /page-ozet -->
-
-<!-- TEST SAYFASINDAN ÖNCE JS BANKA VERİSİ -->
-<script>
-const BANKS = {
-  t1:[
-    {q:"MKK'nın sermaye yapısına göre, Takasbank'ın MKK'da sahip olabileceği azami pay oranı nedir?",o:["A) %25","B) %50","C) %75","D) %100"],a:2,e:"MKK Yönetmeliği'ne göre Takasbank MKK'da en fazla %75 paya sahip olabilir. BİST için bu sınır %50, TSPB için %10'dur."},
-    {q:"Kaydileştirilmiş sermaye piyasası araçlarında hak sahibinin tespiti nasıl yapılır?",o:["A) Fiziksel senet ibrazıyla","B) MKK sicil kayıtlarına göre","C) Aracı kurum defterlerine göre","D) Tapu sicil müdürlüğüne göre"],a:1,e:"Kaydileştirme sistemiyle fiziksel senetler ortadan kalkmıştır. Hak sahipliği MKK'nın elektronik sicil kayıtlarından tespit edilir."},
-    {q:"DVP (Delivery vs Payment) ilkesinin temel amacı nedir?",o:["A) Temerrüt cezasını artırmak","B) Ödeme ve teslimatı eş zamanlı gerçekleştirerek anapara riskini azaltmak","C) Takas süresini uzatmak","D) Netleştirme işlemini hızlandırmak"],a:1,e:"DVP ilkesi, menkul kıymet teslimatı ve nakit ödemenin eş anlı yapılmasını sağlayarak karşı tarafın yükümlülüğünü yerine getirmemesi riskini (anapara riski) ortadan kaldırır."},
-    {q:"Merkezi Karşı Taraf (MKT) işlevinin piyasaya sağladığı en önemli katkı hangisidir?",o:["A) İşlem hacmini artırır","B) Alıcı ve satıcı arasındaki karşı taraf riskini ortadan kaldırır","C) Komisyon maliyetlerini azaltır","D) Piyasa likiditesini sınırlar"],a:1,e:"MKT, alıcıya karşı satıcı, satıcıya karşı alıcı olarak işlem taraflarının arasına girerek karşı taraf riskini üstlenir ve sistematik riski azaltır."},
-    {q:"Netleştirme (netting) işleminin temel faydası nedir?",o:["A) Temerrüt cezasını artırır","B) Takas yükümlülüklerini azaltarak likidite ihtiyacını düşürür","C) Pozisyon limitlerini genişletir","D) Saklama maliyetini yükseltir"],a:1,e:"Netleştirme sayesinde aynı piyasada birden fazla işlemi bulunan üye, brüt yükümlülük yerine net bakiye üzerinden takas yapar; bu da sistem genelinde likidite ihtiyacını önemli ölçüde azaltır."},
-    {q:"Aşağıdakilerden hangisi MKK üyesi olamaz?",o:["A) Aracı kurum","B) Yatırım bankası","C) Ticari işletmeler (halka açık olmayan)","D) Portföy yönetim şirketi"],a:2,e:"MKK üyeliği yatırım hizmetleri sunan SPK lisanslı kuruluşlara, ihraçcılara ve belirli finansal kuruluşlara açıktır. Halka açık olmayan ticari işletmeler doğrudan üye olamaz."},
-    {q:"Başlangıç teminatı ile değişim teminatı arasındaki temel fark nedir?",o:["A) Başlangıç teminatı nakit, değişim teminatı menkul kıymettir","B) Başlangıç teminatı pozisyon açılışında yatırılır; değişim teminatı günlük kar/zarara göre oluşur","C) Değişim teminatı daha yüksek tutardadır","D) İkisi de aynı anda yatırılır"],a:1,e:"Başlangıç teminatı (initial margin) pozisyon açılırken peşin yatırılan güvencedir. Değişim teminatı (variation margin) ise mark-to-market hesabı sonucunda oluşan günlük kar-zarar farkını yansıtır."},
-    {q:"Takasbank'ın 'skin-in-the-game' uygulaması ne anlama gelir?",o:["A) Takasbank üyelerden komisyon tahsil eder","B) Takasbank kendi özsermayesinden temerrüt kaskadına katkı koyar","C) Takasbank yalnızca garanti fonunu yönetir","D) Takasbank tüm riskleri sigorta şirketine devreder"],a:1,e:"Skin-in-the-game kapsamında Takasbank, üyelerden önce kendi özsermayesinin bir bölümünü temerrüt durumunda sisteme sürerek 'oyunda çıkar sahibi' olduğunu ve sistemi iyi yönetmek için teşvik altında olduğunu gösterir."},
-    {q:"MKK sisteminde 'havuz hesabı' ne amaçla kullanılır?",o:["A) Bireysel yatırımcıların kişisel hesapları için","B) Birden fazla müşterinin varlıklarının topluca saklandığı hesap türü için","C) Yabancı yatırımcılara özel hesaplar için","D) Yalnızca devlet tahvillerinin saklanması için"],a:1,e:"Havuz hesabı, özellikle yabancı saklayıcıların veya aracıların müşteri varlıklarını birlikte tuttuğu toplu hesap türüdür. Bireysel yatırımcı hesabından farklı olarak kimlerin ne kadar hak sahibi olduğu alt kayıtlarda izlenir."},
-    {q:"Kaydileştirme sürecinde fiziksel senetlerin akıbeti nedir?",o:["A) Merkez bankasına teslim edilir","B) İptal edilerek imha edilir","C) Yatırımcıda saklanmaya devam eder","D) Mahkeme kasasına alınır"],a:1,e:"Kaydileştirme tamamlandığında fiziksel senetler hukuki geçerliliğini yitirir ve imha edilir. Haklara ilişkin tüm bilgiler MKK elektronik sicilinde tutulmaya başlanır."},
-    {q:"Aşağıdakilerden hangisi Takasbank'ın işlevleri arasında yer almaz?",o:["A) Merkezi takas","B) Merkezi saklama","C) Merkezi karşı taraf","D) Derecelendirme kuruluşu"],a:3,e:"Takasbank; merkezi takas, merkezi saklama ve merkezi karşı taraf işlevlerini üstlenir. Derecelendirme hizmeti ise Moody's, S&P, Fitch gibi bağımsız derecelendirme kuruluşlarına aittir."},
-    {q:"Rehin tesis edilen hisse senetleri MKK nezdinde nasıl kayıt altına alınır?",o:["A) Tapu siciline şerh düşülerek","B) Özel rehin hesabında kaydileştirilerek","C) Aracı kurum defterleriyle","D) Noterlik kaydıyla"],a:1,e:"MKK, sermaye piyasası araçları üzerine kurulan rehinleri kendi sicil sistemi üzerinde kaydeder; bu kayıt hukuki geçerlilik taşır ve tapu sicilinden bağımsızdır."},
-    {q:"SPK lisansı olmadan hangi işlev yerine getirilemez?",o:["A) Borsa üyeliği","B) Merkezi Karşı Taraf (MKT) veya Merkezi Takas Kuruluşu (MTK) faaliyeti","C) Portföy yönetimi","D) Yatırım danışmanlığı"],a:1,e:"Merkezi Takas Kuruluşlarının Kuruluş ve Çalışma Esasları Hakkında Genel Yönetmelik gereği MTK/MKT faaliyeti için SPK'dan özel lisans alınması zorunludur."},
-    {q:"Portföy saklayıcısını değiştirmek isteyen fon yöneticisi ne kadar önceden bildirimde bulunmalıdır?",o:["A) 30 gün","B) 60 gün","C) 90 gün","D) 120 gün"],a:2,e:"Portföy Saklama Tebliği'ne göre portföy saklayıcısı değişikliğinde yeni saklayıcıya geçiş en az 90 gün önceden bildirilmelidir."},
-    {q:"Temerrüt kaskadında Takasbank'ın 'skin-in-the-game' özsermayesi hangi sırada devreye girer?",o:["A) En son","B) Temerrüde düşen üyenin teminatından önce","C) Temerrüde düşen üyenin garanti fonu katkısından sonra, diğer üyelerin katkısından önce","D) Diğer üyelerin katkısından sonra"],a:2,e:"Temerrüt kaskadı: 1) Üye teminatı → 2) Üyenin garanti fonu katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin garanti fonu katkısı."},
-    {q:"Garanti fonuna katkı payı nasıl belirlenir?",o:["A) Eşit pay olarak tüm üyelere dağıtılır","B) Üyenin pozisyon büyüklüğü ve risk profiliyle orantılı olarak","C) Yalnızca büyük üyelerden tahsil edilir","D) Sabit bir ücret olarak belirlenir"],a:1,e:"Garanti fonu katkısı üyenin taşıdığı riskle orantılıdır; daha büyük pozisyonlar daha yüksek katkı gerektirir. Bu yapı ahlaki tehlikeyi (moral hazard) azaltır."},
-    {q:"Aşağıdakilerden hangisi MKT'nin karşı taraf riskini yönetmek için kullandığı araçlar arasında yer almaz?",o:["A) Başlangıç teminatı","B) Günlük mark-to-market","C) Garanti fonu","D) Karşı tarafın kredi notu"],a:3,e:"MKT risk yönetimi; başlangıç teminatı, değişim teminatı (mark-to-market), garanti fonu ve stres testlerine dayanır. Karşı tarafın kredi notu MKT sistemi tarafından birincil risk ölçütü olarak kullanılmaz."},
-    {q:"Değişim teminatının nakit olarak ödenmemesi durumunda ne olur?",o:["A) İşlem iptal edilir","B) Borç bir sonraki güne devredilir","C) Üye temerrüde düşmüş sayılır","D) Takasbank farkı üyeye bağışlar"],a:2,e:"Değişim teminatı zamanında karşılanmazsa üye takas yükümlülüğünü yerine getirmemiş sayılır ve temerrüt prosedürü başlar."},
-    {q:"MKK'da 'yatırımcı hesabı' ile 'emanet hesabı' arasındaki temel fark nedir?",o:["A) Yatırımcı hesabında menkul kıymet saklanamaz","B) Yatırımcı hesabı bireysel hak sahipliğini gösterirken emanet hesabı belirli kısıtlamalar taşır","C) Emanet hesabında faiz işler","D) İkisi arasında yasal fark yoktur"],a:1,e:"Yatırımcı hesabı doğrudan hak sahibini gösterir. Emanet hesabı ise rehin, haciz veya başka hukuki kısıtlamalar nedeniyle erişimi sınırlı olan varlıklar için kullanılır."},
-    {q:"Takasbank'ın Türkiye sermaye piyasasındaki merkezi rolü için en doğru tanım hangisidir?",o:["A) Yalnızca saklama hizmeti sunar","B) Hem merkezi takas hem de merkezi karşı taraf işlevini yerine getirir","C) Yalnızca repo işlemlerini yönetir","D) Sadece yabancı yatırımcılara hizmet verir"],a:1,e:"Takasbank hem MTK (merkezi takas) hem de MKT (merkezi karşı taraf) işlevlerini bünyesinde barındıran tek kuruluştur; Türkiye'nin temel piyasa altyapısını oluşturur."}
-  ],
-  t2:[
-    {q:"MTK üyeliğinde 'Genel Takas Üyesi' ile 'Doğrudan Takas Üyesi' arasındaki temel fark nedir?",o:["A) Genel takas üyesi daha yüksek sermaye gerektirir","B) Genel takas üyesi hem kendi hem müşteri adına takas yaparken, doğrudan üye yalnızca kendi adına takas yapar","C) Doğrudan takas üyesi daha geniş yetkilere sahiptir","D) İkisi arasında işlevsel fark yoktur"],a:1,e:"Genel Takas Üyesi müşterileri adına takas işlemi yapabilirken, Doğrudan Takas Üyesi yalnızca kendi hesabına işlem yapar; müşteri takası gerçekleştiremez."},
-    {q:"Portföy saklama hizmetinde saklayıcının temel yükümlülüğü nedir?",o:["A) Portföyü yönetmek","B) Fon varlıklarını korumak, kayıt altına almak ve iç kontrol sağlamak","C) Yatırımcılara getiri garantisi vermek","D) Fon dağıtım kanallarını yönetmek"],a:1,e:"Portföy saklayıcısı fon varlıklarını portföy yöneticisinden bağımsız olarak korur, kayıt tutar, nakit akışlarını izler ve yatırım kısıtlarına uyumu denetler."},
-    {q:"Portföy saklayıcısı değişiminde öngörülen asgari bildirim süresi kaç gündür?",o:["A) 30","B) 60","C) 90","D) 180"],a:2,e:"Portföy Saklama Tebliği gereği saklayıcı değişiminden en az 90 gün önce bildirim yapılmalıdır. Bu süre sorunsuz varlık devri için tanınmıştır."},
-    {q:"Portföy yöneticisi ile saklayıcının aynı finansal grup bünyesinde yer alması durumunda ne gereklidir?",o:["A) Aynı birimin yönetmesi yeterlidir","B) Operasyonel bağımsızlık şarttır","C) SPK özel izin verir","D) Bu durum yasal olarak yasaktır"],a:1,e:"Aynı grup şirketi olsalar bile portföy yöneticisi ve saklayıcı arasında operasyonel bağımsızlık zorunludur; çıkar çatışmasını ve içeriden ticareti önler."},
-    {q:"Aşağıdakilerden hangisi portföy saklayıcısı olabilir?",o:["A) Herhangi bir anonim şirket","B) Yalnızca aracı kurumlar","C) SPK tarafından yetkilendirilmiş bankalar ve Takasbank","D) Sigorta şirketleri"],a:2,e:"Portföy saklama hizmetini yalnızca SPK tarafından yetkilendirilmiş bankalar ve Takasbank verebilir. Aracı kurumlar ve diğer şirketler bu hizmeti sunamaz."},
-    {q:"Alt saklayıcı kullanımında asıl saklayıcının sorumluluğu nasıldır?",o:["A) Alt saklayıcıya devredilir","B) Tamamen ortadan kalkar","C) Ana saklayıcıda kalmaya devam eder","D) SPK üstlenir"],a:2,e:"Alt saklayıcı kullanılsa bile hukuki sorumluluk ana saklayıcıda kalır. Alt saklayıcı seçiminde gerekli özeni göstermek ana saklayıcının yükümlülüğüdür."},
-    {q:"MKT üyeliğinden çıkarılma hangi durumda gerçekleşir?",o:["A) İşlem hacmi düşünce","B) Sermaye yeterliliği kriterlerini kaybeden veya temerrüde düşen üye için","C) Rakip borsa kurulduğunda","D) Piyasa kapalı olduğunda"],a:1,e:"MTK/MKT Yönetmelikleri gereği sermaye yeterliliği şartlarını yitiren veya temerrüt durumuna düşen üyeler sistemden çıkarılır ve açık pozisyonları kapatılır."},
-    {q:"Merkezi Takas Kuruluşlarının Kuruluş ve Çalışma Esasları Hakkında Genel Yönetmelik'e göre yabancı MTK'lar Türkiye'de nasıl faaliyet gösterebilir?",o:["A) Herhangi bir izin gerekmez","B) Yalnızca Hazine onayıyla","C) SPK kararıyla","D) BDDK izniyle"],a:2,e:"Yabancı merkezi takas ve karşı taraf kuruluşlarının Türkiye'de faaliyet gösterebilmesi için SPK'nın özel kararı gereklidir."},
-    {q:"Portföy saklayıcısının iç kontrol işlevi kapsamında hangi durumda SPK'ya bildirim yapılmalıdır?",o:["A) Fon değeri artışında","B) Yatırım sınırı ihlali tespit edildiğinde","C) Saklama ücreti ödendiğinde","D) Portföy yöneticisi değiştiğinde"],a:1,e:"Saklayıcı, yatırım sınırlarına ve fon içtüzüğüne aykırılık tespit ettiğinde bunu derhal portföy yöneticisine ve SPK'ya bildirmekle yükümlüdür."},
-    {q:"Merkezi karşı tarafın temerrüt yönetimi sürecinde 'pozisyon kapatma' yetkisi kime aittir?",o:["A) Borsa yönetimine","B) SPK'ya","C) MTK'ya (Takasbank)","D) Hazine'ye"],a:2,e:"Temerrüt halinde MTK, temerrüde düşen üyenin açık pozisyonlarını piyasada kapatma yetkisine sahiptir. Bu yetki düzenleyici statünün doğal bir sonucudur."},
-    {q:"Stres testi sonucunda garanti fonunun yetersiz kaldığı tespit edilirse ne yapılır?",o:["A) İşlemler durdurulur","B) Takasbank derhal ek katkı talep eder ve SPK'ya raporlar","C) Kayıp sigorta şirketine aktarılır","D) Devlet garantisi devreye girer"],a:1,e:"MTK düzenli stres testleri yapar; sonuçta garanti fonu yetersizliği saptanırsa ek katkı talep edilir ve durum SPK'ya raporlanır."},
-    {q:"Portföy saklama ücretinin tahsili nasıl gerçekleşir?",o:["A) Yatırımcıdan ayrıca tahsil edilir","B) Devlet tarafından karşılanır","C) Fon içtüzüğünde belirlenen oran üzerinden fon varlıklarından doğrudan tahsil edilir","D) Portföy yöneticisi öder"],a:2,e:"Portföy saklama ücreti, fon içtüzüğünde belirtilen oran üzerinden fon toplam varlıklarından düzenli aralıklarla saklayıcıya ödenir."},
-    {q:"Genel Takas Üyesinin Doğrudan Takas Üyesine kıyasla ek yükümlülüğü nedir?",o:["A) Daha düşük teminat yatırması","B) Müşteri pozisyonlarını da garanti altına alması","C) Yalnızca kendi işlemlerini takaslaması","D) SPK lisansı gerekmemesi"],a:1,e:"Genel Takas Üyesi müşteri işlemlerini de takaslayabildiği için müşteri pozisyonlarına ilişkin riski de üstlenir; bu nedenle daha yüksek sermaye ve garanti fonu katkısı gerektirir."},
-    {q:"Portföy saklayıcısının 'varlık ayrımı' yükümlülüğü ne anlama gelir?",o:["A) Fon varlıklarını saklayıcının öz varlıklarından ayrı tutması","B) Farklı yatırım araçlarının ayrı raporlanması","C) Yerli ve yabancı varlıkların ayrımı","D) Fon ve saklayıcı arasındaki muhasebe ayrımı"],a:0,e:"Varlık ayrımı; fon müşterisine ait varlıkların saklayıcının kendi bilançosundan ve diğer müşteri varlıklarından ayrı tutulmasıdır. Bu sayede saklayıcının iflasında fon varlıkları korunur."},
-    {q:"Temerrüt yönetiminde 'pro-rata' ilkesi neyi ifade eder?",o:["A) En büyük üyenin tüm kaybı üstlenmesi","B) Kayıpların üyeler arasında pozisyon büyüklükleriyle orantılı dağıtılması","C) Takasbank'ın tüm kaybı karşılaması","D) SPK'nın hakem rolü üstlenmesi"],a:1,e:"Pro-rata dağıtımda temerrüt zararları, kalan üyelerin garanti fonu katkıları ile orantılı olarak paylaştırılır; bu yöntem adil ve önceden tahmin edilebilir bir zarar paylaşımı sağlar."},
-    {q:"Aşağıdakilerden hangisi MTK üyeliği için aranan temel koşullardan biridir?",o:["A) Borsada işlem görme zorunluluğu","B) Asgari sermaye yeterliliği ve operasyonel altyapı","C) Devlet garantisi","D) Uluslararası kredi notu"],a:1,e:"MTK üyeliği için asgari özkaynak, teknik altyapı, personel yeterliliği ve operasyonel kapasite koşulları aranır. Bu kriterler Takasbank ve SPK tarafından değerlendirilir."},
-    {q:"Portföy saklayıcısı hangi durumlarda nakit akışı takibi yapmakla yükümlüdür?",o:["A) Yalnızca vade sonunda","B) Yalnızca fon kapanışında","C) Sürekli olarak; tüm fon girdi ve çıktılarını izler","D) Yalnızca denetim dönemlerinde"],a:2,e:"Portföy saklayıcısı fon adına yapılan tüm nakit giriş ve çıkışlarını sürekli izler, içtüzüğe uygunluğunu denetler; bu süregelen bir yükümlülüktür."},
-    {q:"MKT temerrüt yönetiminde 'pozisyon devri' ne anlama gelir?",o:["A) Temerrüde düşen üyenin pozisyonlarının başka bir üyeye aktarılması","B) Pozisyonun vadesi beklenmesi","C) Pozisyonun hükümsüz sayılması","D) Teminatın iade edilmesi"],a:0,e:"Pozisyon devri, temerrüde düşen üyenin müşteri pozisyonlarının müşteri zararını asgariye indirmek amacıyla başka bir sağlıklı üyeye transfer edilmesidir."},
-    {q:"Merkezi Takas Kuruluşu olmanın piyasa bütünlüğü açısından en önemli katkısı nedir?",o:["A) Komisyon maliyetlerini artırmak","B) Anonim işlem imkânı sunmak","C) Tüm işlemlerin merkezi kayıt ve garantisiyle sistematik riski azaltmak","D) Piyasa derinliğini sınırlamak"],a:2,e:"MTK, tüm işlemlerin merkezi kayıt altında tutulmasını ve takas garantisini sağlayarak sistematik riski azaltır; piyasa bütünlüğünü ve yatırımcı güvenini artırır."},
-    {q:"Portföy saklayıcısının bağımsızlık ilkesinin ihlali durumunda ne olabilir?",o:["A) Sadece uyarı yazısı gönderilir","B) SPK lisansı iptal edilebilir ve idari para cezası uygulanabilir","C) Yalnızca fon yöneticisi uyarılır","D) Yatırımcılara bildirim yapılır"],a:1,e:"Bağımsızlık ilkesinin ihlali ciddi bir düzenleme ihlali sayılır; SPK idari yaptırım uygulayabilir, lisansı askıya alabilir veya iptal edebilir."}
-  ],
-  t3:[
-    {q:"BİAŞ Pay Piyasası'nda takas günü (settlement date) hangi kuraldır?",o:["A) T+0","B) T+1","C) T+2","D) T+3"],a:2,e:"Pay Piyasası'nda işlemler T+2 esasıyla takas edilir; yani işlem gününden iki iş günü sonra nakit ve menkul kıymet el değiştirir."},
-    {q:"Pay piyasasında temerrüt cezası hesabında kullanılan payda (gün bazı) kaçtır?",o:["A) 360","B) 365","C) 252","D) 300"],a:0,e:"Pay piyasası temerrüt cezası formülünde gün bazı olarak 360 kullanılır. BAP'ta ise 365 kullanılır — bu fark sınavda sıkça sorulur."},
-    {q:"Pay piyasasında saat 17:31 ve sonrasında gerçekleşen temerrütlerde uygulanan katsayı kaçtır?",o:["A) 0,25","B) 1","C) 2","D) 3"],a:3,e:"17:31 ve sonrasında temerrüde düşen üyeye uygulanacak katsayı 3'tür. 16:46–17:30 arasındaki temerrütlerde katsayı 1'dir."},
-    {q:"Pay piyasasında mağduriyet ödemesi nasıl hesaplanır?",o:["A) Temerrüt cezasının tamamı","B) Temerrüt cezasının 1/3'ü","C) Temerrüt cezasının 2/3'ü","D) Temerrüt cezasının 1/2'si"],a:2,e:"Mağdur taraf, temerrüt cezasının 2/3'ü oranında mağduriyet ödemesi alır. Kalan 1/3 ise Takasbank'ta kalır."},
-    {q:"Netleştirme (netting) işlemi pay piyasasında nasıl uygulanır?",o:["A) Her işlem ayrı ayrı takaslanır","B) Aynı hisse senedinde alış ve satışlar bakiyeye indirgenerek tek tutarda takaslanır","C) Yalnızca büyük işlemlere uygulanır","D) Sadece kurumsal yatırımcılara uygulanır"],a:1,e:"Netleştirme ile aynı üyenin aynı hisse senedindeki alış ve satışları bakiyeye düşürülür, böylece brüt teslim yükümlülüğü yerine net tutar üzerinden takas yapılır."},
-    {q:"Pay piyasasında temerrüt sınırına hangi saatte ulaşılırsa temerrüt gerçekleşmiş sayılır?",o:["A) İşlem saatinde","B) T+1 gün saat 12:00","C) T+2 gün saat 14:00","D) T+2 gün saat 17:30"],a:2,e:"Takas günü (T+2) saat 14:00'e kadar yükümlülük karşılanmazsa temerrüt gerçekleşmiş sayılır ve prosedürler başlatılır."},
-    {q:"Pay piyasası temerrüdünde menkul kıymeti teslim edemeyen tarafın yükümlülüğü nasıl giderilir?",o:["A) İşlem iptal edilir","B) Menkul kıymet açık piyasadan satın alınarak alıcıya teslim edilir","C) Teslim tarihi bir hafta ötelenir","D) Yalnızca nakit tazminat ödenir"],a:1,e:"Menkul kıymet temerrüdünde Takasbank açık piyasadan alım yaparak alıcının yükümlülüğünü karşılar; açık piyasa alış maliyeti farkı temerrüt cezasına eklenerek temerrüde düşen taraftan tahsil edilir."},
-    {q:"Borsa dışı pay transferi (veraset, bağış vb.) için hangi kurum onayı gereklidir?",o:["A) SPK onayı","B) Mahkeme kararı","C) Takasbank onayı","D) BİST onayı"],a:2,e:"Veraset, bağış veya hukuki el koyma gibi borsa dışı pay transferleri Takasbank onayıyla ve MKK sistemi üzerinden gerçekleştirilir."},
-    {q:"Pay piyasasında 16:46–17:30 saatleri arasında temerrüt gerçekleşmesi halinde katsayı kaçtır?",o:["A) 0,25","B) 0,50","C) 1","D) 3"],a:2,e:"16:46–17:30 saatleri arasındaki temerrütlerde ceza hesabında kullanılan katsayı 1'dir. 17:31 sonrası için katsayı 3'e yükselmektedir."},
-    {q:"Pay piyasasında temerrüt prosedürü başlatıldığında Takasbank'ın ilk adımı nedir?",o:["A) Üyenin tüm işlemlerini durdurmak","B) Üyeye yazılı ihtar göndermek","C) Temerrüde düşen üyenin teminatını kullanmak","D) Garanti fonunu derhal aktarmak"],a:2,e:"Temerrüt prosedüründe ilk devreye giren kaynak temerrüde düşen üyenin kendi teminatıdır; teminat yetersiz kalırsa garanti fonu ve diğer kaynaklar sırayla kullanılır."},
-    {q:"T+2 takas döngüsünde 'T' ne anlama gelir?",o:["A) Temerrüt günü","B) İşlemin gerçekleştiği gün","C) Teminat yatırım günü","D) Transfer gününün kısaltması"],a:1,e:"T, işlemin gerçekleştiği tarih (trade date) anlamına gelir. T+2, işlem gününden iki iş günü sonra takas yapılacağını gösterir."},
-    {q:"Pay devri işlemlerinde 'transfer' ile 'takas' arasındaki fark nedir?",o:["A) Transfer borsa içinde, takas borsa dışında olur","B) Takas alım-satım işlemlerinin sonuçlandırılması, transfer ise borsa dışı hak devirlerini kapsar","C) İkisi tamamen aynı anlama gelir","D) Transfer yalnızca yabancı yatırımcılar için geçerlidir"],a:1,e:"Takas, borsa işlemlerinin T+2'de nakit ve menkul kıymet değişimiyle sonuçlandırılmasıdır. Transfer ise veraset, bağış, rehin çözüm gibi borsa dışı pay devri işlemlerini kapsar."},
-    {q:"Pay piyasasında temerrüt cezası formülü hangisidir?",o:["A) Borç × Faiz × Katsayı × (Gün/252)","B) Borç × Referans Faiz × Katsayı × (Gün/360)","C) Borç × Katsayı × (Gün/365)","D) Borç × Faiz/Katsayı × 30"],a:1,e:"Pay piyasası temerrüt cezası = Borç Tutarı × Referans Faiz Oranı × Katsayı × (Temerrüt Süresi / 360)."},
-    {q:"Mağduriyet ödemesinin yalnızca 2/3 olmasının gerekçesi nedir?",o:["A) 1/3'ü Takasbank'ın komisyonudur","B) Caydırıcılık ve sistem yönetim giderleri için bir pay Takasbank'ta bırakılır","C) 1/3'ü hazineye aktarılır","D) Herhangi bir gerekçe yoktur"],a:1,e:"Mağduriyet ödemesinde 2/3'ü mağdura verilirken 1/3'ü Takasbank'ta kalarak sistem yönetim maliyetleri ve caydırıcılık amacı taşır."},
-    {q:"Aynı işlem gününde aynı hisse için birden fazla alım yapılırsa takas yükümlülüğü nasıl belirlenir?",o:["A) Her işlem için ayrı ayrı teslim yapılır","B) Tüm alımlar netleştirilerek tek bir net alım tutarı üzerinden takas yapılır","C) Yalnızca en büyük işlem takaslanır","D) Müşteri seçimine bırakılır"],a:1,e:"Netleştirme uygulaması gereği aynı üyenin aynı gün aynı hisse için yaptığı tüm alımlar ve satışlar bakiyeye düşürülür; takas tek seferde net tutar üzerinden gerçekleşir."},
-    {q:"Pay piyasasında kısa satış (short selling) yapan bir yatırımcı T+2 tarihinde menkul kıymeti teslim edemezse ne olur?",o:["A) İşlem geçersiz sayılır","B) Otomatik olarak bir gün ertelenir","C) Temerrüde düşer ve temerrüt prosedürü başlar","D) Takasbank otomatik olarak senetleri ödünç verir"],a:2,e:"T+2 tarihinde teslim edilemeyen kısa satış pozisyonu temerrüt oluşturur; Takasbank prosedürler başlatır ve temerrüt cezası uygulanır."},
-    {q:"BİAŞ Pay Piyasası'nda takas garantisi kimin tarafından verilmektedir?",o:["A) BİST Yönetim Kurulu","B) SPK","C) Takasbank (MKT sıfatıyla)","D) Bireysel aracı kurumlar"],a:2,e:"Takasbank, MKT sıfatıyla tüm Pay Piyasası işlemlerinin takas garantisini üstlenir; herhangi bir üyenin temerrüdü halinde işlem karşı tarafını korur."},
-    {q:"Pay devri sonrasında mülkiyet değişikliği hangi anda hukuken geçerlilik kazanır?",o:["A) Alım-satım anlaşmasının imzalanmasıyla","B) Fiziksel senedin teslimi ile","C) MKK kayıt değişikliğinin tamamlanmasıyla","D) Tapu siciline işlenmesiyle"],a:2,e:"Kaydileştirilmiş ortamda pay mülkiyeti MKK sicilindeki kayıt değişikliğiyle hukuken geçerlilik kazanır; fiziksel senet veya imzalı sözleşme artık tek başına yeterli değildir."},
-    {q:"Temerrüde düşen üyenin garanti fonu katkısı önce mi yoksa Takasbank skin-in-the-game sonra mı kullanılır?",o:["A) Takasbank skin-in-the-game önce","B) Her ikisi eş anlı","C) Temerrüde düşen üyenin garanti fonu katkısı önce","D) Sıraya göre değil, miktara göre belirlenir"],a:2,e:"Kaskad: 1) Üye teminatı → 2) Üyenin garanti fonu katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin garanti fonu katkısı. Üyenin kendi katkısı Takasbank özsermayesinden önce gelir."},
-    {q:"Pay piyasasında referans faiz oranı nasıl belirlenir?",o:["A) Takasbank serbestçe belirler","B) SPK karar alarak belirler","C) Piyasa koşullarına göre Takasbank ve/veya TCMB politika faizi baz alınarak belirlenir","D) Yalnızca enflasyon oranına göre güncellenir"],a:2,e:"Temerrüt cezası hesaplamasında kullanılan referans faiz oranı piyasa koşullarına ve TCMB politika faizine paralel olarak Takasbank tarafından düzenli güncellenir."}
-  ],
-  t4:[
-    {q:"Borçlanma Araçları Piyasası (BAP) temerrüt cezasında kullanılan payda kaçtır?",o:["A) 360","B) 365","C) 252","D) 300"],a:1,e:"BAP temerrüt cezası hesabında gün bazı olarak 365 kullanılır. Pay piyasasından farklı olarak BAP'ta yıllık gün sayısı 365 baz alınır."},
-    {q:"BAP'ta saat 16:46–17:00 arası temerrütte uygulanan katsayı nedir?",o:["A) 0,10","B) 0,25","C) 0,50","D) 1"],a:1,e:"BAP temerrüt katsayıları: 16:46–17:00 arası → 0,25; 17:01–17:30 arası → 0,50; 17:31 sonrası → 3."},
-    {q:"BAP'ta saat 17:01–17:30 arası temerrütte uygulanan katsayı nedir?",o:["A) 0,25","B) 0,50","C) 1","D) 3"],a:1,e:"BAP'ta 17:01–17:30 arasındaki temerrütlerde katsayı 0,50'dir. Pay piyasasında ise bu saatlerde katsayı 1 uygulanır."},
-    {q:"VİOP'ta başlangıç teminatı hesaplamasında kullanılan güven aralığı ve elde tutma süresi nedir?",o:["A) %99,00 güven, 1 gün","B) %99,50 güven, 2 gün","C) %99,90 güven, 2 gün","D) %95,00 güven, 5 gün"],a:1,e:"VİOP başlangıç teminatı: %99,50 güven aralığı, 2 günlük elde tutma süresi baz alınarak hesaplanır."},
-    {q:"VİOP'ta teminata kabul edilen varlıklarda TL teminat zorunluluğu oranı nedir?",o:["A) %30","B) %40","C) %50","D) %75"],a:2,e:"VİOP'ta başlangıç teminatının en az %50'si TL nakit veya TL varlık olmalıdır. İlave işlem teminatında bu oran %30'a düşmektedir."},
-    {q:"VİOP'ta 'değişim teminatı' (variation margin) nasıl hesaplanır?",o:["A) Sözleşme değerinin sabit %5'i","B) Günlük fiyat farkına göre mark-to-market olarak","C) Aylık olarak yeniden hesaplanarak","D) Vade sonunda bir defaya mahsus"],a:1,e:"Değişim teminatı günlük uzlaşma fiyatına göre hesaplanan kar ve zarar farkları üzerinden nakit olarak tahsil veya ödenir (mark-to-market)."},
-    {q:"Takasbank teminat yönetiminde 'değerleme katsayısı' (haircut) neyi ifade eder?",o:["A) Temerrüt cezasının indirimi","B) Teminata kabul edilen varlığa uygulanan fiyat/likidite riski indirimi","C) Faiz oranı düzeltmesi","D) Kur farkı düzeltmesi"],a:1,e:"Haircut (değerleme katsayısı), teminata kabul edilen her varlık türü için likidite ve fiyat dalgalanması riski dikkate alınarak belirlenen indirim oranıdır; söz konusu oran nakit için sıfır, yüksek riskli varlıklar için daha yüksektir."},
-    {q:"VİOP'ta teminat değerleme katsayısı parametreleri nelerdir?",o:["A) %95,00 güven, 1 gün","B) %99,00 güven, 5 gün","C) %99,90 güven, 2 iş günü likidite periyodu","D) %99,50 güven, 3 gün"],a:2,e:"Değerleme katsayısı parametreleri: %99,90 güven aralığı, 2 iş günü likidite periyodu. Başlangıç teminatından farklı parametrelerdir — sınavda karıştırılır."},
-    {q:"Garanti fonunun temel işlevi nedir?",o:["A) Üyelere faiz geliri sağlamak","B) Tek bir üyenin temerrüdünün tüm sistemi etkilememesini sağlamak","C) İşlem hacmini artırmak","D) SPK denetim maliyetlerini karşılamak"],a:1,e:"Garanti fonu, herhangi bir üyenin temerrüdünde oluşan kaybın tüm sisteme yayılmasını önlemek amacıyla kurulan kolektif kaynak havuzudur."},
-    {q:"VİOP'ta fiziki teslimat sözleşmelerinde vade sonunda teslimat süreci kimin koordinasyonunda yapılır?",o:["A) BİST","B) SPK","C) Takasbank","D) Saklayıcı banka"],a:2,e:"VİOP'ta fiziki teslimat içeren emtia vadeli işlem sözleşmelerinde vade sonu teslimat sürecini Takasbank koordine eder ve takas garantisi verir."},
-    {q:"BAP ve SWAP piyasalarında Takasbank hangi sıfatla görev yapar?",o:["A) Sadece mesaj ileticisi","B) Merkezi Karşı Taraf (MKT)","C) Düzenleyici","D) Piyasa yapıcı"],a:1,e:"BAP ve SWAP piyasalarında da Takasbank MKT sıfatıyla karşı taraf riskini üstlenir; tüm işlemlerin karşı tarafı haline gelir."},
-    {q:"VİOP'ta bir üyenin teminat açığını kapatmaması durumunda hangi işlem yapılır?",o:["A) İşlem otomatik iptal edilir","B) Açık pozisyon bir sonraki güne devredilir","C) Zorunlu pozisyon kapatma (forced liquidation) uygulanır","D) SPK müdahale eder"],a:2,e:"Teminat açığını belirlenen sürede kapatmayan üyenin pozisyonları Takasbank tarafından zorla kapatılır; bu işlem 'zorunlu pozisyon kapatma' (forced liquidation) olarak adlandırılır."},
-    {q:"Takasbank Para Piyasası'nda repo işlemi ne anlama gelir?",o:["A) Menkul kıymeti geri alma taahhüdü olmaksızın satmak","B) Menkul kıymeti geri alma taahhüdüyle belirli bir süre için satmak","C) Kaldıraçlı hisse senedi alımı","D) Döviz vadeli alım"],a:1,e:"Repo, bir menkul kıymetin belirlenen bir vadede ve fiyattan geri alınmak üzere satılmasıdır. Ters repo ise satın alma taahhüdüyle alım yapmaktır."},
-    {q:"İlave işlem teminatında TL zorunluluk oranı kaçtır?",o:["A) %50","B) %40","C) %30","D) %20"],a:2,e:"VİOP'ta başlangıç teminatında TL zorunluluk %50 iken ilave işlem teminatında bu oran %30'a düşmektedir."},
-    {q:"Teminat yönetiminde 'teminat ikamesi' nedir?",o:["A) Teminatın tamamı iade edilir","B) Mevcut teminattaki varlığın başka kabul edilen bir varlıkla değiştirilmesi","C) Teminata yeni varlık eklenir","D) Teminat başka üyeye devredilir"],a:1,e:"Teminat ikamesi; üyenin mevcut teminat portföyündeki bir varlığı, Takasbank'ın onayıyla başka kabul edilebilir bir varlıkla değiştirmesidir."},
-    {q:"Hisse senedi teminata kabul edilirken hangi düzeltme uygulanır?",o:["A) Değerleme katsayısı (haircut) ile iskonto yapılır","B) Olduğu gibi piyasa fiyatından kabul edilir","C) Yalnızca borsa kapanış fiyatının iki katı üzerinden kabul edilir","D) Hisse senetleri teminata kabul edilmez"],a:0,e:"Hisse senetleri teminata kabul edilebilir; ancak fiyat dalgalanması ve likidite riski nedeniyle değerleme katsayısı (haircut) uygulanarak piyasa değerinden daha düşük bir teminat değeri belirlenir."},
-    {q:"Takasbank stres testini ne sıklıkla gerçekleştirmek zorundadır?",o:["A) Yılda bir kez","B) Piyasa koşullarına göre düzensiz","C) Düzenli aralıklarla (günlük veya en az haftalık)","D) Yalnızca kriz dönemlerinde"],a:2,e:"Takasbank'ın düzenleyici yükümlülükleri gereği stres testleri düzenli ve sık aralıklarla (genellikle günlük) yapılır; sonuçlar SPK'ya raporlanır."},
-    {q:"VİOP'ta nakit olmayan teminatlara (DİBS, altın vb.) haircut uygulanmasının temel gerekçesi nedir?",o:["A) Takasbank gelir elde etmek ister","B) Fiyat düşüşü ve likidite riski nedeniyle teminat değerinin aşınabileceği ihtimali","C) SPK zorunlu kılar","D) Piyasa yapıcıları korumak için"],a:1,e:"Nakit dışı teminatlara haircut uygulanır çünkü temerrüt durumunda bu varlıkların fiyatı düşebilir veya hızla nakde çevrilmesi güçleşebilir; haircut bu risklere karşı tampon görevi görür."},
-    {q:"BAP'ta temerrüt cezasının saat 17:31 sonrasında katsayının 3'e yükselmesinin amacı nedir?",o:["A) Daha fazla gelir elde etmek","B) Geç saatte temerrütleri caydırarak takas döngüsünü korumak","C) BİST işlemlerini yavaşlatmak","D) Yabancı yatırımcıları piyasadan çıkarmak"],a:1,e:"Katsayının saat 17:31 sonrası 3'e çıkması güçlü bir caydırıcı işlevi görür; üyeleri takas gününü tamamlamadan sistemi kapatmadan önce yükümlülüklerini yerine getirmeye zorlar."},
-    {q:"Garanti fonu katkısının düzenli güncellenmesinin nedeni nedir?",o:["A) Yalnızca yasal zorunluluk","B) Üye pozisyon büyüklükleri ve piyasa oynaklığı değiştikçe risk profili değiştiği için","C) Vergi avantajı sağlamak için","D) Takasbank'ın karını artırmak için"],a:1,e:"Garanti fonu katkıları periyodik olarak güncellenir; çünkü üyelerin pozisyon büyüklükleri, piyasa oynaklığı ve risk profilleri sürekli değişmekte, bu da fon yeterliliğini doğrudan etkilemektedir."}
-  ],
-  t5:[
-    {q:"BİST'te Merkezi Karşı Taraf işlevi yürüten kuruluş aşağıdakilerden hangisidir?",o:["A) MKK","B) SPK","C) Takasbank","D) BDDK"],a:2,e:"Takasbank, Borsa İstanbul'daki tüm organize piyasalarda Merkezi Karşı Taraf (MKT) sıfatıyla faaliyet gösterir; tüm işlemlerin takas garantisini üstlenir."},
-    {q:"Pay piyasası ile BAP arasında temerrüt cezası hesabındaki en belirgin fark nedir?",o:["A) Katsayılar aynı ama referans faiz farklı","B) Pay 360 gün bazı, BAP 365 gün bazı kullanır","C) BAP'ta temerrüt cezası yoktur","D) Pay piyasasında katsayı 0,25'e kadar düşer"],a:1,e:"Pay piyasasında ceza formülü paydasında 360 kullanılırken BAP'ta 365 kullanılır. Katsayılar da farklıdır: BAP'ta daha kademeli (0,25 / 0,50 / 3) bir yapı var."},
-    {q:"Takasbank'ın 'Para Piyasası'nda yürüttüğü temel işlem türü hangisidir?",o:["A) Hisse senedi alım satımı","B) Döviz alım satımı","C) Repo ve ters repo","D) Vadeli emtia işlemleri"],a:2,e:"Takasbank Para Piyasası, kurumlar arası repo ve ters repo işlemlerinin organize edildiği, Takasbank'ın MKT işlevi gördüğü bir piyasadır."},
-    {q:"VİOP'ta 'ilave işlem teminatı' hangi durumda talep edilir?",o:["A) Günlük işlem limiti aşıldığında","B) Piyasa oynaklığı arttığında ve başlangıç teminatı yetersiz kaldığında","C) Üye yeni sözleşme açtığında","D) Faiz oranı değiştiğinde"],a:1,e:"İlave işlem teminatı, başlangıç teminatının piyasa koşullarına göre yetersiz kaldığı veya oynaklığın aşırı yükseldiği durumlarda Takasbank tarafından talep edilir."},
-    {q:"MKK sermaye yapısında BİST'in sahip olabileceği azami pay oranı nedir?",o:["A) %25","B) %50","C) %75","D) %10"],a:1,e:"MKK Yönetmeliği'ne göre BİST, MKK'da en fazla %50 paya sahip olabilir. Takasbank için bu sınır %75, TSPB için %10'dur."},
-    {q:"Takasbank'ın MKT olarak takas garantisi vermesinin yatırımcı açısından en önemli faydası nedir?",o:["A) Komisyon maliyetini azaltır","B) Anonimlik sağlar","C) Karşı taraf temerrüdünden kaynaklanan riski ortadan kaldırır","D) Pozisyon limitlerini artırır"],a:2,e:"MKT takas garantisi, bir tarafın temerrüde düşmesi halinde diğer tarafın yükümlülüğünün Takasbank tarafından karşılanmasını güvence altına alır; yatırımcı karşı taraf riskine maruz kalmaz."},
-    {q:"Aşağıdaki teminat türlerinden hangisi VİOP'ta teminata kabul edilmez?",o:["A) Döviz (USD/EUR)","B) Devlet iç borçlanma senetleri","C) Kripto para","D) Altın"],a:2,e:"VİOP'ta teminata kabul edilen varlıklar: TL, USD, EUR, DİBS, altın ve Takasbank tarafından onaylanan diğer varlıklardır. Kripto para Takasbank teminat sistemi kapsamında kabul görmez."},
-    {q:"Pay piyasası temerrüdünde mağduriyet ödemesinin amacı nedir?",o:["A) Takasbank'ın gelirini artırmak","B) Mağdur üyenin takas gecikmesinden kaynaklanan kaybını kısmen telafi etmek","C) SPK'ya aktarım sağlamak","D) Temerrüde düşen üyeye yardım etmek"],a:1,e:"Mağduriyet ödemesi, teslim alamayan (alıcı) tarafın uğradığı likidite ve fırsat maliyetini kısmen telafi etmek amacıyla temerrüt cezasının 2/3'ünden oluşur."},
-    {q:"Portföy Saklama Tebliği kapsamında iç kontrol yükümlülüğü kime aittir?",o:["A) Portföy yöneticisine","B) Portföy saklayıcısına","C) BİST'e","D) Yatırımcıya"],a:1,e:"Portföy saklayıcısı, fon içtüzüğüne ve yatırım kısıtlarına uyumu sürekli denetlemekle yükümlüdür; bu iç kontrol işlevi saklayıcının asli görevlerinden biridir."},
-    {q:"VİOP'ta değişim teminatı (variation margin) hangi zaman diliminde ödenmek zorundadır?",o:["A) Haftalık","B) Vade sonunda","C) Belirlenen günlük uzlaşma sonrası belirlenen sürede (genellikle ertesi gün sabahı)","D) Aylık"],a:2,e:"Günlük uzlaşma fiyatı belirlendikten sonra hesaplanan değişim teminatı, belirlenen takas saatine kadar (genellikle ertesi gün sabahı) nakit olarak ödenmek zorundadır."},
-    {q:"Takasbank stres testlerinin sonucunda hangi bilgi SPK'ya raporlanır?",o:["A) Üye isim listesi","B) Garanti fonu yeterliliği ve senaryo analizi sonuçları","C) Piyasa fiyatları","D) Faiz oranı tahminleri"],a:1,e:"Stres testi raporları garanti fonunun farklı piyasa kriz senaryolarında yeterli olup olmadığını gösterir; bu raporlar periyodik olarak SPK'ya sunulur."},
-    {q:"Borçlanma Araçları Piyasası'nda takas prensibi hangisidir?",o:["A) Peşin ödeme prensibi","B) DVP (Delivery vs Payment — Teslimat Karşılığı Ödeme)","C) Vadeli ödeme prensibi","D) Netleştirmesiz brüt takas"],a:1,e:"BAP da Pay Piyasası gibi DVP prensibine göre çalışır; menkul kıymet teslimatı ve nakit ödemesi eş zamanlı gerçekleştirilir."},
-    {q:"TSPB'nin MKK sermayesinde sahip olabileceği azami pay oranı nedir?",o:["A) %25","B) %20","C) %15","D) %10"],a:3,e:"TSPB (Türkiye Sermaye Piyasaları Birliği) MKK'da en fazla %10 paya sahip olabilir."},
-    {q:"VİOP'ta bir sözleşmede uzun pozisyon (long) tutan yatırımcının günlük uzlaşma fiyatı düştüğünde değişim teminatı ne yönde etkilenir?",o:["A) Teminat iade alır (değişim teminatı pozitif)","B) Teminat ödemek zorunda kalır (değişim teminatı negatif)","C) Değişim teminatı etkilenmez","D) Başlangıç teminatı iptal edilir"],a:1,e:"Uzun pozisyondaki yatırımcı fiyat düşüşünde kayıp yazar; bu kayıp değişim teminatı olarak nakden ödenmesi gereken bir borç doğurur."},
-    {q:"MKK sisteminde rehin tesisinin hukuki sonucu nedir?",o:["A) Hisse senedi sahibi değişir","B) Rehin konusu menkul kıymet üzerinde sınırlı ayni hak kurulur ve MKK'ya tescil edilir","C) Hisse senedinin temettü hakkı alacaklıya geçer","D) Menkul kıymet geçici olarak iptal edilir"],a:1,e:"MKK üzerinden tesis edilen rehin, menkul kıymet üzerinde sınırlı ayni hak kurulmasını sağlar ve tescille üçüncü kişilere karşı da geçerli hale gelir. Mülkiyet sahibinde kalmaya devam eder."},
-    {q:"Takasbank 'SWAP Piyasası'nda aşağıdakilerden hangisini gerçekleştirir?",o:["A) Hisse senedi değişimi","B) Döviz swap işlemlerinin MKT sıfatıyla takasını","C) Emtia swapı","D) Faiz swapı için aracılık hizmeti"],a:1,e:"Takasbank SWAP Piyasası döviz swap işlemlerine odaklanır; Takasbank bu piyasada da MKT sıfatıyla karşı taraf riskini üstlenir."},
-    {q:"VİOP'ta bir üyenin temerrüt halinde hangi kaynak en son devreye girer?",o:["A) Üyenin başlangıç teminatı","B) Takasbank skin-in-the-game","C) Diğer üyelerin garanti fonu katkıları","D) Üyenin garanti fonu katkısı"],a:2,e:"Temerrüt kaskadında en son devreye giren kaynak diğer sağlıklı üyelerin garanti fonu katkılarıdır. Sıra: 1-Üye teminatı, 2-Üye garanti fonu, 3-Takasbank skin-in-the-game, 4-Diğer üyeler garanti fonu."},
-    {q:"Pay piyasası temerrüdünde açık piyasadan alım yapılırken fiyat farkı nasıl hesaba katılır?",o:["A) Fark Takasbank tarafından karşılanır","B) Fark temerrüde düşen üyeden tahsil edilir","C) Fark mağdura ek tazminat olarak ödenir","D) Fark sigorta şirketinden talep edilir"],a:1,e:"Temerrüt halinde açık piyasadan yapılan alımda oluşan fiyat farkı (temerrüt fiyatı ile piyasa fiyatı arasındaki fark) temerrüde düşen üyeden tahsil edilir."},
-    {q:"Kaydileştirme sisteminin en temel avantajı nedir?",o:["A) Fiziksel senet basım maliyetini artırır","B) Sahtekârlık ve kayıp riskini ortadan kaldırır, transfer hızını artırır","C) Piyasayı yabancı yatırımcılara kapatır","D) Takas sürecini uzatır"],a:1,e:"Kaydileştirme fiziksel senet sahteciliği, çalınma ve kayıp riskini tamamen ortadan kaldırır; elektronik kayıt sayesinde mülkiyet devri anlık ve güvenli biçimde gerçekleştirilir."},
-    {q:"Takasbank'ın tüm piyasalardaki rolünü en doğru özetleyen ifade hangisidir?",o:["A) Yalnızca aracı kurum denetimi yapar","B) Türkiye sermaye piyasalarının merkezi takas, saklama ve karşı taraf altyapısını sağlar","C) Yalnızca devlet tahvili işlemlerini yürütür","D) Menkul kıymet fiyatlaması yapar"],a:1,e:"Takasbank; pay, borçlanma araçları, türev ve repo piyasalarında merkezi takas (MTK), merkezi karşı taraf (MKT) ve saklama hizmetleri sunarak Türkiye sermaye piyasalarının temel altyapısını oluşturur."}
-  ]
-};
-
-// Global state
-let globalCorrect=0, globalTotal=0;
-const testState={};
-
-function updateGlobalScore(){
-  document.getElementById('globalScore').textContent=`✦ ${globalCorrect} / ${globalTotal}`;
-}
-
-function showPage(id){
-  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
-  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
-  document.getElementById('page-'+id).classList.add('active');
-  event.target.classList.add('active');
-  if(id!=='ozet' && !testState[id]){initTest(id);}
-}
-
-function toggleAcc(el){
-  el.classList.toggle('open');
-}
-
-function initTest(tid){
-  testState[tid]={answered:0,correct:0,done:false};
-  renderTest(tid);
-}
-
-function renderTest(tid){
-  const qs=BANKS[tid];
-  const page=document.getElementById('page-'+tid);
-  const tnum=tid.replace('t','');
-  let html=`
-    <div class="test-header">
-      <h2>Test ${tnum}</h2>
-      <p>Takas, Saklama ve Operasyon İşlemleri — 20 Soru</p>
-    </div>
-    <div class="progress-bar"><div class="progress-fill" id="prog-${tid}" style="width:0%"></div></div>
-    <div id="questions-${tid}">`;
-  qs.forEach((q,i)=>{
-    html+=`<div class="q-card" id="qcard-${tid}-${i}">
-      <div class="q-num">Soru ${i+1} / 20</div>
-      <div class="q-text">${q.q}</div>
-      <div class="options" id="opts-${tid}-${i}">
-        ${q.o.map((o,j)=>`<div class="opt" id="opt-${tid}-${i}-${j}" onclick="answer('${tid}',${i},${j})">
-          <span class="opt-letter">${['A','B','C','D'][j]})</span><span>${o.replace(/^[ABCD]\) /,'')}</span>
-        </div>`).join('')}
-      </div>
-      <div class="explanation" id="exp-${tid}-${i}">${q.e}</div>
-    </div>`;
-  });
-  html+=`</div>
-    <div class="result-screen" id="result-${tid}">
-      <div class="result-circle"><div class="big" id="rscore-${tid}">0/20</div><div class="small">puan</div></div>
-      <div class="result-msg" id="rmsg-${tid}"></div>
-      <div class="result-sub" id="rsub-${tid}"></div>
-      <button class="btn btn-gold" onclick="restartTest('${tid}')">Tekrar Çöz</button>
-    </div>`;
-  page.innerHTML=html;
-}
-
-function answer(tid,qi,chosen){
-  const q=BANKS[tid][qi];
-  if(document.getElementById(`opt-${tid}-${qi}-0`).classList.contains('disabled')) return;
-  const opts=document.querySelectorAll(`#opts-${tid}-${qi} .opt`);
-  opts.forEach(o=>o.classList.add('disabled'));
-  opts[chosen].classList.add(chosen===q.a?'correct':'wrong');
-  if(chosen!==q.a) opts[q.a].classList.add('correct');
-  document.getElementById(`exp-${tid}-${qi}`).classList.add('show');
-
-  const st=testState[tid];
-  st.answered++;
-  const isCorrect=chosen===q.a;
-  if(isCorrect) st.correct++;
-
-  // global
-  globalTotal++;
-  if(isCorrect) globalCorrect++;
-  updateGlobalScore();
-
-  // progress
-  const pct=(st.answered/20)*100;
-  document.getElementById(`prog-${tid}`).style.width=pct+'%';
-
-  if(st.answered===20 && !st.done){
-    st.done=true;
-    setTimeout(()=>showResult(tid),600);
-  }
-}
-
-function showResult(tid){
-  document.getElementById(`questions-${tid}`).style.display='none';
-  const sc=testState[tid].correct;
-  const rs=document.getElementById(`result-${tid}`);
-  rs.classList.add('show');
-  document.getElementById(`rscore-${tid}`).textContent=`${sc}/20`;
-  const pct=Math.round((sc/20)*100);
-  let msg='',sub='';
-  if(pct>=85){msg='Mükemmel! 🏆';sub='Konuya çok iyi hâkimsiniz.';}
-  else if(pct>=70){msg='İyi iş! 👍';sub='Birkaç konu üzerinde çalışmaya devam edin.';}
-  else if(pct>=50){msg='Geliştirilebilir 📚';sub='Konu özetini tekrar gözden geçirin.';}
-  else{msg='Daha fazla çalışma gerekli 💪';sub='Konu özetini ve notları tekrar okuyun.';}
-  document.getElementById(`rmsg-${tid}`).textContent=msg;
-  document.getElementById(`rsub-${tid}`).textContent=`${pct}% başarı — ${sub}`;
-}
-
-function restartTest(tid){
-  // Undo global counters for this test
-  const st=testState[tid];
-  globalTotal-=st.answered;
-  globalCorrect-=st.correct;
-  updateGlobalScore();
-  testState[tid]=null;
-  initTest(tid);
-  document.querySelector(`#page-${tid} .result-screen`)?.classList.remove('show');
-}
-</script>
-
-<!-- TEST PAGES -->
-<div class="page" id="page-t1"><p style="text-align:center;padding:40px;color:var(--muted)">Yükleniyor...</p></div>
-<div class="page" id="page-t2"><p style="text-align:center;padding:40px;color:var(--muted)">Yükleniyor...</p></div>
-<div class="page" id="page-t3"><p style="text-align:center;padding:40px;color:var(--muted)">Yükleniyor...</p></div>
-<div class="page" id="page-t4"><p style="text-align:center;padding:40px;color:var(--muted)">Yükleniyor...</p></div>
-<div class="page" id="page-t5"><p style="text-align:center;padding:40px;color:var(--muted)">Yükleniyor...</p></div>
-
+  <div class="vtabs" id="vtabs"></div>
+  <div id="vpanels"></div>
+</div>
 </main>
+<script>
+const L=[
+  {id:'d1',title:'Sermaye Piyasası Faaliyetleri Düzey 1',short:'Düzey 1',edu:'2 yıllık',ready:true,topics:[
+    {code:'1001',name:'Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları',ready:false},
+    {code:'1002',name:'Sermaye Piyasası Araçları 1',ready:false},
+    {code:'1003',name:'Yatırım Kuruluşları',ready:false},
+    {code:'1012',name:'Takas, Saklama ve Operasyon İşlemleri',ready:true}]},
+  {id:'d2',title:'Sermaye Piyasası Faaliyetleri Düzey 2',short:'Düzey 2',edu:'4 yıllık',ready:true,topics:[
+    {code:'2001',name:'Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları',ready:false},
+    {code:'2002',name:'Sermaye Piyasası Araçları 1',ready:false},
+    {code:'2003',name:'Sermaye Piyasası Araçları 2',ready:false},
+    {code:'2004',name:'Yatırım Kuruluşları',ready:false},
+    {code:'2005',name:'Finansal Piyasalar',ready:false},
+    {code:'1012',name:'Takas, Saklama ve Operasyon İşlemleri',ready:true},
+    {code:'2007',name:'Finansal Yönetim ve Mali Analiz',ready:false},
+    {code:'2008',name:'Ticaret Hukuku',ready:false},
+    {code:'2009',name:'Muhasebe ve Finansal Raporlama',ready:false}]},
+  {id:'d3',title:'Sermaye Piyasası Faaliyetleri Düzey 3',short:'Düzey 3',edu:'4 yıllık',ready:true,topics:[
+    {code:'3001',name:'Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları',ready:false},
+    {code:'3002',name:'Sermaye Piyasası Araçları 1',ready:false},
+    {code:'3003',name:'Sermaye Piyasası Araçları 2',ready:false},
+    {code:'3004',name:'Yatırım Kuruluşları',ready:false},
+    {code:'3005',name:'Finansal Piyasalar',ready:false},
+    {code:'1012',name:'Takas, Saklama ve Operasyon İşlemleri',ready:true},
+    {code:'3007',name:'Finansal Yönetim ve Mali Analiz',ready:false},
+    {code:'3008',name:'Ticaret Hukuku',ready:false},
+    {code:'3009',name:'Muhasebe ve Finansal Raporlama',ready:false},
+    {code:'3010',name:'Genel Ekonomi',ready:false},
+    {code:'3011',name:'Temel Finans Matematiği ve Değerleme Yöntemleri',ready:false},
+    {code:'3012',name:'Kurumlarda ve Sermaye Piyasasında Vergilendirme',ready:false}]},
+  {id:'turev',title:'Türev Araçlar Lisansı',short:'Türev Araçlar',edu:'4 yıllık',ready:false,topics:[
+    {code:'T01',name:'Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları',ready:false},
+    {code:'T02',name:'Sermaye Piyasası Araçları 1',ready:false},
+    {code:'T03',name:'Sermaye Piyasası Araçları 2',ready:false},
+    {code:'T04',name:'Yatırım Kuruluşları',ready:false},
+    {code:'T05',name:'Finansal Piyasalar',ready:false},
+    {code:'T06',name:'Temel Finans Matematiği ve Değerleme Yöntemleri',ready:false},
+    {code:'T07',name:'Türev Araçlar, Piyasalar ve Risk Yönetimi',ready:false},
+    {code:'T08',name:'Kurumlarda ve Sermaye Piyasasında Vergilendirme',ready:false}]},
+  {id:'kredi',title:'Kredi Derecelendirme Lisansı',short:'Kredi Derecelendirme',edu:'4 yıllık',ready:false,topics:[
+    {code:'K01',name:'Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları',ready:false},
+    {code:'K02',name:'Temel Finans Matematiği ve Değerleme Yöntemleri',ready:false},
+    {code:'K03',name:'Ticaret Hukuku',ready:false},
+    {code:'K04',name:'Muhasebe ve Finansal Raporlama',ready:false},
+    {code:'K05',name:'Kredi Derecelendirmesi',ready:false}]},
+  {id:'kurumsal',title:'Kurumsal Yönetim Derecelendirme Lisansı',short:'Kurumsal Yönetim',edu:'4 yıllık',ready:false,topics:[
+    {code:'KY01',name:'Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları',ready:false},
+    {code:'KY02',name:'Temel Finans Matematiği ve Değerleme Yöntemleri',ready:false},
+    {code:'KY03',name:'Ticaret Hukuku',ready:false},
+    {code:'KY04',name:'Muhasebe ve Finansal Raporlama',ready:false},
+    {code:'KY05',name:'Kurumsal Yönetim',ready:false}]},
+  {id:'konut',title:'Konut Değerleme Lisansı',short:'Konut Değerleme',edu:'2 yıllık',ready:false,topics:[
+    {code:'KD01',name:'Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları',ready:false},
+    {code:'KD02',name:'Gayrimenkul Değerleme Esasları',ready:false}]},
+  {id:'gay',title:'Gayrimenkul Değerleme Lisansı',short:'Gayrimenkul Değerleme',edu:'4 yıllık',ready:false,topics:[
+    {code:'GD01',name:'Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları',ready:false},
+    {code:'GD02',name:'Gayrimenkul Değerleme Esasları',ready:false},
+    {code:'GD03',name:'İnşaat ve Gayrimenkul Muhasebesi',ready:false},
+    {code:'GD04',name:'Gayrimenkul Mevzuatı',ready:false}]},
+  {id:'bs',title:'Bilgi Sistemleri Bağımsız Denetim Lisansı',short:'Bilgi Sistemleri',edu:'4 yıllık',ready:false,topics:[
+    {code:'BS01',name:'Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları',ready:false},
+    {code:'BS02',name:'Bilgi Sistemleri Yönetimi ve Denetimi',ready:false},
+    {code:'BS03',name:'Bilgi Sistemleri Geliştirilmesi ve Uygulanması',ready:false},
+    {code:'BS04',name:'Bilgi Sistemleri İşletimi',ready:false},
+    {code:'BS05',name:'Bilgi Sistemleri Güvenliği',ready:false}]}
+];
+
+const C={
+'1012':{
+summary:[
+{num:'01',title:'Temel Kavramlar ve Tanımlar',body:'<ul><li><strong>Takas:</strong> Alım-satım işleminin nakit ve menkul kıymet el değiştirmesiyle tamamlanması.</li><li><strong>Saklama:</strong> Sermaye piyasası araçlarının kaydi ortamda tutulması.</li><li><strong>Kaydileştirme:</strong> Fiziksel senetlerin elektronik kayda alınması — MKK tarafından yürütülür.</li><li><strong>MKK:</strong> Merkezi Kayıt Kuruluşu; pay, fon, bono kayıtlarını tutar.</li><li><strong>Takasbank:</strong> Borsa işlemlerinin takas ve saklamasını yürüten merkezi kuruluş; aynı zamanda MKT.</li><li><strong>MKT (Merkezi Karşı Taraf):</strong> Alıcıya satıcı, satıcıya alıcı olarak karşı taraf riskini üstlenen yapı.</li><li><strong>Başlangıç Teminatı:</strong> Pozisyon açılırken yatırılan teminat.</li><li><strong>Değişim Teminatı:</strong> Günlük kar/zarar farkı (mark-to-market).</li><li><strong>Garanti Fonu:</strong> Temerrüt halinde kullanılan toplu katkı havuzu.</li><li><strong>Netleştirme:</strong> Aynı üyenin işlemlerini bakiyeye düşürerek tek takasa indirgemek.</li></ul><div class="highlight">⚡ <strong>DVP</strong> (Delivery vs Payment): Ödeme ve teslimatın eş zamanlı yapılması — anapara riskini ortadan kaldırır.</div>'},
+{num:'02',title:'MKK — Merkezi Kayıt Kuruluşu',body:'<ul><li><strong>Sermaye sınırları:</strong> Takasbank max <strong>%75</strong>, BİST max <strong>%50</strong>, TSPB max <strong>%10</strong>.</li><li><strong>Üyeler:</strong> Aracı kurumlar, bankalar, portföy yönetim şirketleri, ihraçcılar.</li><li><strong>Hesap türleri:</strong> Yatırımcı hesabı (bireysel), havuz hesabı (toplu), emanet hesabı.</li><li>Kaydileştirmede fiziksel senet iptal edilir; hak sahipliği MKK sicilinden belirlenir.</li><li>Hisse senetleri üzerine MKK nezdinde sınırlı ayni hak (rehin) tesis edilebilir.</li></ul><div class="highlight">📌 Üyelikten çıkarma: Koşulları yitiren üyenin üyeliği SPK kararıyla sona erdirilir.</div>'},
+{num:'03',title:'MTK / MKT Düzenlemeleri',body:'<ul><li><strong>Üyelik türleri:</strong> Genel Takas Üyesi (kendi + müşteri) · Doğrudan Takas Üyesi (yalnızca kendi) · Müşteri Takas Üyesi.</li><li><strong>Temerrüt kaskadı:</strong> 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı.</li><li>Temerrüt halinde MTK açık pozisyonları piyasada kapatma yetkisine sahiptir.</li><li>Yabancı MTK'lar SPK onayıyla Türkiye'de faaliyet gösterebilir.</li></ul><div class="highlight">⚖️ MTK/MKT olmak için SPK lisansı zorunludur.</div>'},
+{num:'04',title:'Portföy Saklama Hizmeti',body:'<ul><li><strong>Saklayıcı:</strong> SPK yetkili bankalar ve Takasbank.</li><li><strong>Değişim bildirimi:</strong> En az <strong>90 gün</strong> önceden yapılmalıdır.</li><li><strong>Operasyonel bağımsızlık:</strong> Aynı grupta olsalar bile saklayıcı ve portföy yöneticisi bağımsız çalışır.</li><li>İhlal tespitinde saklayıcı derhal SPK'ya bildirim yapar.</li><li>Alt saklayıcı kullanılsa bile sorumluluk ana saklayıcıda kalır.</li></ul>'},
+{num:'05',title:'BİAŞ Pay Piyasası Takas & Temerrüt',body:'<ul><li><strong>Takas günü:</strong> T+2.</li><li><strong>Temerrüt eşiği:</strong> T+2 saat 14:00.</li><li><strong>Katsayılar:</strong> 16:46–17:30 → <strong>1</strong> · 17:31+ → <strong>3</strong>.</li><li><strong>Ceza formülü:</strong> Borç × Referans Faiz × Katsayı × (Gün / <strong>360</strong>).</li><li><strong>Mağduriyet ödemesi:</strong> Temerrüt cezasının <strong>2/3'ü</strong> mağdur üyeye aktarılır.</li></ul><div class="highlight">💡 Temerrütte menkul kıymet açık piyasadan alınır; fark temerrüde düşen taraftan tahsil edilir.</div>'},
+{num:'06',title:'BAP Takas & Temerrüt',body:'<ul><li><strong>BAP:</strong> DİBS ve özel tahvillerin alım-satım platformu; DVP esasıyla T+0 veya T+1 takas.</li><li><strong>Katsayılar:</strong> 16:46–17:00 → <strong>0,25</strong> · 17:01–17:30 → <strong>0,50</strong> · 17:31+ → <strong>3</strong>.</li><li><strong>Gün bazı:</strong> BAP temerrüt cezasında payda <strong>365</strong>.</li><li>SWAP Piyasası: Döviz swap işlemleri.</li><li>Para Piyasası: Repo ve ters repo işlemleri.</li></ul><div class="highlight">📐 <strong>Kritik fark:</strong> Pay → payda 360 · BAP → payda 365!</div>'},
+{num:'07',title:'VİOP — Türev Araçlarda Takas',body:'<ul><li><strong>Başlangıç teminatı:</strong> %99,50 güven, 2 günlük elde tutma.</li><li><strong>Değerleme katsayısı parametreleri:</strong> %99,90 güven, 2 iş günü likidite periyodu.</li><li><strong>TL zorunluluğu:</strong> Başlangıç teminatının en az <strong>%50</strong>'si TL; ilave işlem teminatında <strong>%30</strong>.</li><li>Günlük mark-to-market değişim teminatı nakit olarak tahsil/ödenir.</li><li>Fiziki teslimat sözleşmelerinde Takasbank koordine eder.</li></ul><div class="highlight">🔢 %99,50 (başlangıç teminatı) ≠ %99,90 (değerleme katsayısı)</div>'},
+{num:'08',title:'Teminat Yönetimi & Garanti Fonu',body:'<ul><li><strong>Teminata kabul edilenler:</strong> TL, USD/EUR, DİBS, hisse senedi (iskontoyla), altın.</li><li><strong>Haircut:</strong> Fiyat/likidite riski için teminata uygulanan indirim oranı.</li><li><strong>GF katkısı:</strong> Pozisyon büyüklüğüyle orantılı; düzenli güncellenir.</li><li><strong>Kaskad:</strong> 1) Üye teminatı → 2) GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı.</li><li>Stres testleri düzenli yapılır ve SPK'ya raporlanır.</li></ul><div class="highlight">⚠️ Takasbank özsermayesi garanti fonundan ÖNCE devreye girer.</div>'}
+],
+tests:{
+t1:[
+{q:"MKK'nın sermaye yapısına göre, Takasbank'ın MKK'da sahip olabileceği azami pay oranı nedir?",o:["A) %25","B) %50","C) %75","D) %100"],a:2,e:"MKK Yönetmeliği'ne göre Takasbank MKK'da en fazla %75 paya sahip olabilir. BİST için %50, TSPB için %10'dur."},
+{q:"DVP (Delivery vs Payment) ilkesinin temel amacı nedir?",o:["A) Temerrüt cezasını artırmak","B) Ödeme ve teslimatı eş zamanlı gerçekleştirerek anapara riskini azaltmak","C) Takas süresini uzatmak","D) Netleştirme işlemini hızlandırmak"],a:1,e:"DVP ilkesi, menkul kıymet teslimatı ve nakit ödemenin eş anlı yapılmasını sağlayarak anapara riskini ortadan kaldırır."},
+{q:"Merkezi Karşı Taraf (MKT) işlevinin piyasaya sağladığı en önemli katkı hangisidir?",o:["A) İşlem hacmini artırır","B) Alıcı ve satıcı arasındaki karşı taraf riskini ortadan kaldırır","C) Komisyon maliyetlerini azaltır","D) Piyasa likiditesini sınırlar"],a:1,e:"MKT, alıcıya karşı satıcı, satıcıya karşı alıcı olarak karşı taraf riskini üstlenir ve sistematik riski azaltır."},
+{q:"Netleştirme (netting) işleminin temel faydası nedir?",o:["A) Temerrüt cezasını artırır","B) Takas yükümlülüklerini azaltarak likidite ihtiyacını düşürür","C) Pozisyon limitlerini genişletir","D) Saklama maliyetini yükseltir"],a:1,e:"Netleştirme sayesinde üye, brüt yükümlülük yerine net bakiye üzerinden takas yapar; likidite ihtiyacı önemli ölçüde azalır."},
+{q:"Kaydileştirilmiş sermaye piyasası araçlarında hak sahibinin tespiti nasıl yapılır?",o:["A) Fiziksel senet ibrazıyla","B) MKK sicil kayıtlarına göre","C) Aracı kurum defterlerine göre","D) Tapu sicil müdürlüğüne göre"],a:1,e:"Kaydileştirme sistemiyle fiziksel senetler ortadan kalkmıştır. Hak sahipliği MKK'nın elektronik sicil kayıtlarından tespit edilir."},
+{q:"Aşağıdakilerden hangisi MKK üyesi olamaz?",o:["A) Aracı kurum","B) Yatırım bankası","C) Halka açık olmayan ticari işletmeler","D) Portföy yönetim şirketi"],a:2,e:"MKK üyeliği SPK lisanslı kuruluşlara, ihraçcılara ve belirli finansal kuruluşlara açıktır. Halka açık olmayan ticari işletmeler doğrudan üye olamaz."},
+{q:"Başlangıç teminatı ile değişim teminatı arasındaki temel fark nedir?",o:["A) Başlangıç teminatı nakit, değişim teminatı menkul kıymettir","B) Başlangıç teminatı pozisyon açılışında yatırılır; değişim teminatı günlük kar/zarara göre oluşur","C) Değişim teminatı daha yüksek tutardadır","D) İkisi de aynı anda yatırılır"],a:1,e:"Başlangıç teminatı (initial margin) pozisyon açılırken yatırılan güvencedir. Değişim teminatı (variation margin) günlük mark-to-market hesabı sonucunda oluşan farkı yansıtır."},
+{q:"Takasbank'ın 'skin-in-the-game' uygulaması ne anlama gelir?",o:["A) Takasbank üyelerden komisyon tahsil eder","B) Takasbank kendi özsermayesinden temerrüt kaskadına katkı koyar","C) Takasbank yalnızca garanti fonunu yönetir","D) Takasbank tüm riskleri sigorta şirketine devreder"],a:1,e:"Skin-in-the-game kapsamında Takasbank, kendi özsermayesinin bir bölümünü temerrüt durumunda sisteme sürerek sorumluluğunu paylaşır."},
+{q:"MKK sisteminde 'havuz hesabı' ne amaçla kullanılır?",o:["A) Bireysel yatırımcıların kişisel hesapları için","B) Birden fazla müşterinin varlıklarının topluca saklandığı hesap türü için","C) Yabancı yatırımcılara özel hesaplar için","D) Yalnızca devlet tahvillerinin saklanması için"],a:1,e:"Havuz hesabı, yabancı saklayıcıların veya aracıların müşteri varlıklarını birlikte tuttuğu toplu hesap türüdür; bireysel hak sahipliği alt kayıtlarda izlenir."},
+{q:"Kaydileştirme sürecinde fiziksel senetlerin akıbeti nedir?",o:["A) Merkez bankasına teslim edilir","B) İptal edilerek imha edilir","C) Yatırımcıda saklanmaya devam eder","D) Mahkeme kasasına alınır"],a:1,e:"Kaydileştirme tamamlandığında fiziksel senetler hukuki geçerliliğini yitirir ve imha edilir."},
+{q:"Aşağıdakilerden hangisi Takasbank'ın işlevleri arasında yer almaz?",o:["A) Merkezi takas","B) Merkezi saklama","C) Merkezi karşı taraf","D) Kredi derecelendirme"],a:3,e:"Takasbank; merkezi takas, merkezi saklama ve merkezi karşı taraf işlevlerini üstlenir. Derecelendirme hizmeti bağımsız kuruluşlara aittir."},
+{q:"SPK lisansı olmadan hangi işlev yerine getirilemez?",o:["A) Borsa üyeliği","B) Merkezi Karşı Taraf (MKT) veya Merkezi Takas Kuruluşu (MTK) faaliyeti","C) Portföy yönetimi","D) Yatırım danışmanlığı"],a:1,e:"Genel Yönetmelik gereği MTK/MKT faaliyeti için SPK'dan özel lisans alınması zorunludur."},
+{q:"Portföy saklayıcısını değiştirmek isteyen fon yöneticisi ne kadar önceden bildirimde bulunmalıdır?",o:["A) 30 gün","B) 60 gün","C) 90 gün","D) 120 gün"],a:2,e:"Portföy Saklama Tebliği'ne göre saklayıcı değişikliğinde en az 90 gün önceden bildirim yapılmalıdır."},
+{q:"Temerrüt kaskadında Takasbank skin-in-the-game hangi sırada devreye girer?",o:["A) En son","B) Temerrüde düşen üyenin teminatından önce","C) Temerrüde düşen üyenin GF katkısından sonra, diğer üyelerin katkısından önce","D) Diğer üyelerin katkısından sonra"],a:2,e:"Kaskad: 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı."},
+{q:"Garanti fonuna katkı payı nasıl belirlenir?",o:["A) Eşit pay olarak tüm üyelere dağıtılır","B) Üyenin pozisyon büyüklüğü ve risk profiliyle orantılı olarak","C) Yalnızca büyük üyelerden tahsil edilir","D) Sabit bir ücret olarak belirlenir"],a:1,e:"Garanti fonu katkısı üyenin taşıdığı riskle orantılıdır; daha büyük pozisyonlar daha yüksek katkı gerektirir."},
+{q:"MKT'nin karşı taraf riskini yönetmek için kullandığı araçlar arasında yer almayan hangisidir?",o:["A) Başlangıç teminatı","B) Günlük mark-to-market","C) Garanti fonu","D) Karşı tarafın kredi notu"],a:3,e:"MKT risk yönetimi; başlangıç teminatı, değişim teminatı, garanti fonu ve stres testlerine dayanır. Karşı tarafın bireysel kredi notu birincil risk ölçütü değildir."},
+{q:"Değişim teminatının ödenmemesi durumunda ne olur?",o:["A) İşlem iptal edilir","B) Borç bir sonraki güne devredilir","C) Üye temerrüde düşmüş sayılır","D) Takasbank farkı bağışlar"],a:2,e:"Değişim teminatı zamanında karşılanmazsa üye temerrüde düşmüş sayılır ve prosedür başlar."},
+{q:"Rehin tesis edilen hisse senetleri MKK nezdinde nasıl kayıt altına alınır?",o:["A) Tapu siciline şerh düşülerek","B) Özel rehin hesabında kaydileştirilerek","C) Aracı kurum defterleriyle","D) Noterlik kaydıyla"],a:1,e:"MKK, sermaye piyasası araçları üzerine kurulan rehinleri kendi sicil sistemi üzerinde kaydeder; bu kayıt tapu sicilinden bağımsız hukuki geçerlilik taşır."},
+{q:"MKK'da 'yatırımcı hesabı' ile 'emanet hesabı' arasındaki temel fark nedir?",o:["A) Yatırımcı hesabında menkul kıymet saklanamaz","B) Yatırımcı hesabı bireysel hak sahipliğini gösterirken emanet hesabı belirli kısıtlamalar taşır","C) Emanet hesabında faiz işler","D) İkisi arasında yasal fark yoktur"],a:1,e:"Yatırımcı hesabı doğrudan hak sahibini gösterir. Emanet hesabı ise rehin, haciz veya başka hukuki kısıtlamalara konu olan varlıklar için kullanılır."},
+{q:"Takasbank'ın Türkiye sermaye piyasasındaki merkezi rolü için en doğru tanım hangisidir?",o:["A) Yalnızca saklama hizmeti sunar","B) Hem merkezi takas hem de merkezi karşı taraf işlevini yerine getirir","C) Yalnızca repo işlemlerini yönetir","D) Sadece yabancı yatırımcılara hizmet verir"],a:1,e:"Takasbank hem MTK (merkezi takas) hem de MKT (merkezi karşı taraf) işlevlerini bünyesinde barındıran tek kuruluştur."}
+],
+t2:[
+{q:"MTK üyeliğinde 'Genel Takas Üyesi' ile 'Doğrudan Takas Üyesi' arasındaki temel fark nedir?",o:["A) Genel takas üyesi daha yüksek sermaye gerektirir","B) Genel takas üyesi hem kendi hem müşteri adına takas yaparken, doğrudan üye yalnızca kendi adına takas yapar","C) Doğrudan takas üyesi daha geniş yetkilere sahiptir","D) İkisi arasında işlevsel fark yoktur"],a:1,e:"Genel Takas Üyesi müşterileri adına takas işlemi yapabilirken, Doğrudan Takas Üyesi yalnızca kendi hesabına işlem yapar."},
+{q:"Portföy saklama hizmetinde saklayıcının temel yükümlülüğü nedir?",o:["A) Portföyü yönetmek","B) Fon varlıklarını korumak, kayıt altına almak ve iç kontrol sağlamak","C) Yatırımcılara getiri garantisi vermek","D) Fon dağıtım kanallarını yönetmek"],a:1,e:"Portföy saklayıcısı fon varlıklarını portföy yöneticisinden bağımsız olarak korur, kayıt tutar, nakit akışlarını izler ve yatırım kısıtlarına uyumu denetler."},
+{q:"Portföy saklayıcısı değişiminde öngörülen asgari bildirim süresi kaç gündür?",o:["A) 30","B) 60","C) 90","D) 180"],a:2,e:"Portföy Saklama Tebliği gereği saklayıcı değişiminden en az 90 gün önce bildirim yapılmalıdır."},
+{q:"Portföy yöneticisi ile saklayıcının aynı finansal grup bünyesinde yer alması durumunda ne gereklidir?",o:["A) Aynı birimin yönetmesi yeterlidir","B) Operasyonel bağımsızlık şarttır","C) SPK özel izin verir","D) Bu durum yasal olarak yasaktır"],a:1,e:"Aynı grup şirketi olsalar bile portföy yöneticisi ve saklayıcı arasında operasyonel bağımsızlık zorunludur."},
+{q:"Aşağıdakilerden hangisi portföy saklayıcısı olabilir?",o:["A) Herhangi bir anonim şirket","B) Yalnızca aracı kurumlar","C) SPK tarafından yetkilendirilmiş bankalar ve Takasbank","D) Sigorta şirketleri"],a:2,e:"Portföy saklama hizmetini yalnızca SPK tarafından yetkilendirilmiş bankalar ve Takasbank verebilir."},
+{q:"Alt saklayıcı kullanımında asıl saklayıcının sorumluluğu nasıldır?",o:["A) Alt saklayıcıya devredilir","B) Tamamen ortadan kalkar","C) Ana saklayıcıda kalmaya devam eder","D) SPK üstlenir"],a:2,e:"Alt saklayıcı kullanılsa bile hukuki sorumluluk ana saklayıcıda kalır."},
+{q:"MKT üyeliğinden çıkarılma hangi durumda gerçekleşir?",o:["A) İşlem hacmi düşünce","B) Sermaye yeterliliği kriterlerini kaybeden veya temerrüde düşen üye için","C) Rakip borsa kurulduğunda","D) Piyasa kapalı olduğunda"],a:1,e:"Sermaye yeterliliği şartlarını yitiren veya temerrüt durumuna düşen üyeler sistemden çıkarılır."},
+{q:"Yabancı MTK'lar Türkiye'de nasıl faaliyet gösterebilir?",o:["A) Herhangi bir izin gerekmez","B) Yalnızca Hazine onayıyla","C) SPK kararıyla","D) BDDK izniyle"],a:2,e:"Yabancı merkezi takas ve karşı taraf kuruluşlarının Türkiye'de faaliyet göstermesi için SPK'nın özel kararı gereklidir."},
+{q:"Portföy saklayıcısının iç kontrol işlevi kapsamında hangi durumda SPK'ya bildirim yapılmalıdır?",o:["A) Fon değeri artışında","B) Yatırım sınırı ihlali tespit edildiğinde","C) Saklama ücreti ödendiğinde","D) Portföy yöneticisi değiştiğinde"],a:1,e:"Saklayıcı, yatırım sınırlarına aykırılık tespit ettiğinde derhal portföy yöneticisine ve SPK'ya bildirme yükümlülüğü taşır."},
+{q:"Temerrüt yönetiminde 'pozisyon kapatma' yetkisi kime aittir?",o:["A) Borsa yönetimine","B) SPK'ya","C) MTK'ya (Takasbank)","D) Hazine'ye"],a:2,e:"Temerrüt halinde MTK, temerrüde düşen üyenin açık pozisyonlarını piyasada kapatma yetkisine sahiptir."},
+{q:"Stres testi sonucunda garanti fonunun yetersiz kaldığı tespit edilirse ne yapılır?",o:["A) İşlemler durdurulur","B) Takasbank ek katkı talep eder ve SPK'ya raporlar","C) Kayıp sigorta şirketine aktarılır","D) Devlet garantisi devreye girer"],a:1,e:"MTK düzenli stres testleri yapar; yetersizlik saptanırsa ek katkı talep edilir ve SPK'ya raporlanır."},
+{q:"Portföy saklama ücretinin tahsili nasıl gerçekleşir?",o:["A) Yatırımcıdan ayrıca tahsil edilir","B) Devlet tarafından karşılanır","C) Fon içtüzüğünde belirlenen oran üzerinden fon varlıklarından doğrudan tahsil edilir","D) Portföy yöneticisi öder"],a:2,e:"Portföy saklama ücreti fon içtüzüğünde belirtilen oran üzerinden fon varlıklarından düzenli aralıklarla saklayıcıya ödenir."},
+{q:"Portföy saklayıcısının 'varlık ayrımı' yükümlülüğü ne anlama gelir?",o:["A) Fon varlıklarını saklayıcının öz varlıklarından ayrı tutması","B) Farklı yatırım araçlarının ayrı raporlanması","C) Yerli ve yabancı varlıkların ayrımı","D) Fon ve saklayıcı arasındaki muhasebe ayrımı"],a:0,e:"Varlık ayrımı; fon müşterisine ait varlıkların saklayıcının kendi bilançosundan ve diğer müşteri varlıklarından ayrı tutulmasıdır."},
+{q:"Temerrüt yönetiminde 'pro-rata' ilkesi neyi ifade eder?",o:["A) En büyük üyenin tüm kaybı üstlenmesi","B) Kayıpların üyeler arasında pozisyon büyüklükleriyle orantılı dağıtılması","C) Takasbank'ın tüm kaybı karşılaması","D) SPK'nın hakem rolü üstlenmesi"],a:1,e:"Pro-rata dağıtımda temerrüt zararları, kalan üyelerin garanti fonu katkıları ile orantılı olarak paylaştırılır."},
+{q:"MTK üyeliği için aranan temel koşullardan biri hangisidir?",o:["A) Borsada işlem görme zorunluluğu","B) Asgari sermaye yeterliliği ve operasyonel altyapı","C) Devlet garantisi","D) Uluslararası kredi notu"],a:1,e:"MTK üyeliği için asgari özkaynak, teknik altyapı, personel yeterliliği ve operasyonel kapasite koşulları aranır."},
+{q:"Portföy saklayıcısının bağımsızlık ilkesinin ihlali durumunda ne olabilir?",o:["A) Sadece uyarı yazısı gönderilir","B) SPK lisansı iptal edilebilir ve idari para cezası uygulanabilir","C) Yalnızca fon yöneticisi uyarılır","D) Yatırımcılara bildirim yapılır"],a:1,e:"Bağımsızlık ilkesinin ihlali ciddi bir düzenleme ihlali sayılır; SPK idari yaptırım uygulayabilir, lisansı askıya alabilir veya iptal edebilir."},
+{q:"Portföy saklayıcısı hangi durumlarda nakit akışı takibi yapmakla yükümlüdür?",o:["A) Yalnızca vade sonunda","B) Yalnızca fon kapanışında","C) Sürekli olarak; tüm fon girdi ve çıktılarını izler","D) Yalnızca denetim dönemlerinde"],a:2,e:"Portföy saklayıcısı fon adına yapılan tüm nakit giriş ve çıkışlarını sürekli izler, içtüzüğe uygunluğunu denetler."},
+{q:"MKT temerrüt yönetiminde 'pozisyon devri' ne anlama gelir?",o:["A) Temerrüde düşen üyenin pozisyonlarının başka bir üyeye aktarılması","B) Pozisyonun vadesi beklenmesi","C) Pozisyonun hükümsüz sayılması","D) Teminatın iade edilmesi"],a:0,e:"Pozisyon devri, temerrüde düşen üyenin müşteri pozisyonlarının müşteri zararını asgariye indirmek amacıyla sağlıklı bir üyeye transfer edilmesidir."},
+{q:"Genel Takas Üyesinin Doğrudan Takas Üyesine kıyasla ek yükümlülüğü nedir?",o:["A) Daha düşük teminat yatırması","B) Müşteri pozisyonlarını da garanti altına alması","C) Yalnızca kendi işlemlerini takaslaması","D) SPK lisansı gerekmemesi"],a:1,e:"Genel Takas Üyesi müşteri işlemlerini de takaslayabildiği için müşteri pozisyonlarına ilişkin riski de üstlenir."},
+{q:"Merkezi Takas Kuruluşu olmanın piyasa bütünlüğü açısından en önemli katkısı nedir?",o:["A) Komisyon maliyetlerini artırmak","B) Anonim işlem imkânı sunmak","C) Tüm işlemlerin merkezi kayıt ve garantisiyle sistematik riski azaltmak","D) Piyasa derinliğini sınırlamak"],a:2,e:"MTK, tüm işlemlerin merkezi kayıt altında tutulmasını ve takas garantisini sağlayarak sistematik riski azaltır."}
+],
+t3:[
+{q:"BİAŞ Pay Piyasası'nda takas günü (settlement date) hangi kuraldır?",o:["A) T+0","B) T+1","C) T+2","D) T+3"],a:2,e:"Pay Piyasası'nda işlemler T+2 esasıyla takas edilir."},
+{q:"Pay piyasasında temerrüt cezası hesabında kullanılan payda (gün bazı) kaçtır?",o:["A) 360","B) 365","C) 252","D) 300"],a:0,e:"Pay piyasası temerrüt cezası formülünde gün bazı olarak 360 kullanılır. BAP'ta ise 365 kullanılır."},
+{q:"Pay piyasasında saat 17:31 ve sonrasında gerçekleşen temerrütlerde uygulanan katsayı kaçtır?",o:["A) 0,25","B) 1","C) 2","D) 3"],a:3,e:"17:31 ve sonrasında temerrüde düşen üyeye uygulanan katsayı 3'tür. 16:46–17:30 arasında katsayı 1'dir."},
+{q:"Pay piyasasında mağduriyet ödemesi nasıl hesaplanır?",o:["A) Temerrüt cezasının tamamı","B) Temerrüt cezasının 1/3'ü","C) Temerrüt cezasının 2/3'ü","D) Temerrüt cezasının 1/2'si"],a:2,e:"Mağdur taraf, temerrüt cezasının 2/3'ü oranında mağduriyet ödemesi alır. Kalan 1/3 Takasbank'ta kalır."},
+{q:"Netleştirme (netting) işlemi pay piyasasında nasıl uygulanır?",o:["A) Her işlem ayrı ayrı takaslanır","B) Aynı hisse senedinde alış ve satışlar bakiyeye indirgenerek tek tutarda takaslanır","C) Yalnızca büyük işlemlere uygulanır","D) Sadece kurumsal yatırımcılara uygulanır"],a:1,e:"Netleştirme ile aynı üyenin aynı hisse senedindeki alış ve satışları bakiyeye düşürülür; net tutar üzerinden takas yapılır."},
+{q:"Pay piyasasında temerrüt sınırına hangi saatte ulaşılırsa temerrüt gerçekleşmiş sayılır?",o:["A) İşlem saatinde","B) T+1 gün saat 12:00","C) T+2 gün saat 14:00","D) T+2 gün saat 17:30"],a:2,e:"Takas günü (T+2) saat 14:00'e kadar yükümlülük karşılanmazsa temerrüt gerçekleşmiş sayılır."},
+{q:"Pay piyasası temerrüdünde menkul kıymeti teslim edemeyen tarafın yükümlülüğü nasıl giderilir?",o:["A) İşlem iptal edilir","B) Menkul kıymet açık piyasadan satın alınarak alıcıya teslim edilir","C) Teslim tarihi bir hafta ötelenir","D) Yalnızca nakit tazminat ödenir"],a:1,e:"Takasbank açık piyasadan alım yaparak alıcının yükümlülüğünü karşılar; alış maliyeti farkı temerrüde düşen taraftan tahsil edilir."},
+{q:"Borsa dışı pay transferi (veraset, bağış vb.) için hangi kurum onayı gereklidir?",o:["A) SPK onayı","B) Mahkeme kararı","C) Takasbank onayı","D) BİST onayı"],a:2,e:"Veraset, bağış veya hukuki el koyma gibi borsa dışı pay transferleri Takasbank onayıyla ve MKK sistemi üzerinden gerçekleştirilir."},
+{q:"Pay piyasasında 16:46–17:30 saatleri arasında temerrüt gerçekleşmesi halinde katsayı kaçtır?",o:["A) 0,25","B) 0,50","C) 1","D) 3"],a:2,e:"16:46–17:30 saatleri arasındaki temerrütlerde ceza hesabında kullanılan katsayı 1'dir."},
+{q:"Pay piyasasında temerrüt prosedürü başlatıldığında Takasbank'ın ilk adımı nedir?",o:["A) Üyenin tüm işlemlerini durdurmak","B) Üyeye yazılı ihtar göndermek","C) Temerrüde düşen üyenin teminatını kullanmak","D) Garanti fonunu derhal aktarmak"],a:2,e:"Temerrüt prosedüründe ilk devreye giren kaynak temerrüde düşen üyenin kendi teminatıdır."},
+{q:"T+2 takas döngüsünde 'T' ne anlama gelir?",o:["A) Temerrüt günü","B) İşlemin gerçekleştiği gün","C) Teminat yatırım günü","D) Transfer gününün kısaltması"],a:1,e:"T, işlemin gerçekleştiği tarih (trade date) anlamına gelir."},
+{q:"Pay devri işlemlerinde 'transfer' ile 'takas' arasındaki fark nedir?",o:["A) Transfer borsa içinde, takas borsa dışında olur","B) Takas alım-satım işlemlerinin sonuçlandırılması, transfer ise borsa dışı hak devirlerini kapsar","C) İkisi tamamen aynı anlama gelir","D) Transfer yalnızca yabancı yatırımcılar için geçerlidir"],a:1,e:"Takas borsa işlemlerinin T+2'de sonuçlandırılmasıdır. Transfer ise veraset, bağış gibi borsa dışı pay devri işlemlerini kapsar."},
+{q:"Pay piyasasında temerrüt cezası formülü hangisidir?",o:["A) Borç × Faiz × Katsayı × (Gün/252)","B) Borç × Referans Faiz × Katsayı × (Gün/360)","C) Borç × Katsayı × (Gün/365)","D) Borç × Faiz/Katsayı × 30"],a:1,e:"Pay piyasası temerrüt cezası = Borç Tutarı × Referans Faiz Oranı × Katsayı × (Temerrüt Süresi / 360)."},
+{q:"Mağduriyet ödemesinin yalnızca 2/3 olmasının gerekçesi nedir?",o:["A) 1/3'ü Takasbank'ın komisyonudur","B) Caydırıcılık ve sistem yönetim giderleri için bir pay Takasbank'ta bırakılır","C) 1/3'ü hazineye aktarılır","D) Herhangi bir gerekçe yoktur"],a:1,e:"Mağduriyet ödemesinde 2/3'ü mağdura verilirken 1/3'ü Takasbank'ta kalarak sistem yönetim maliyetleri ve caydırıcılık amacı taşır."},
+{q:"Kısa satış yapan bir yatırımcı T+2 tarihinde menkul kıymeti teslim edemezse ne olur?",o:["A) İşlem geçersiz sayılır","B) Otomatik olarak bir gün ertelenir","C) Temerrüde düşer ve temerrüt prosedürü başlar","D) Takasbank otomatik olarak senetleri ödünç verir"],a:2,e:"T+2 tarihinde teslim edilemeyen pozisyon temerrüt oluşturur."},
+{q:"BİAŞ Pay Piyasası'nda takas garantisi kimin tarafından verilmektedir?",o:["A) BİST Yönetim Kurulu","B) SPK","C) Takasbank (MKT sıfatıyla)","D) Bireysel aracı kurumlar"],a:2,e:"Takasbank, MKT sıfatıyla tüm Pay Piyasası işlemlerinin takas garantisini üstlenir."},
+{q:"Pay devri sonrasında mülkiyet değişikliği hangi anda hukuken geçerlilik kazanır?",o:["A) Alım-satım anlaşmasının imzalanmasıyla","B) Fiziksel senedin teslimi ile","C) MKK kayıt değişikliğinin tamamlanmasıyla","D) Tapu siciline işlenmesiyle"],a:2,e:"Pay mülkiyeti MKK sicilindeki kayıt değişikliğiyle hukuken geçerlilik kazanır."},
+{q:"Temerrüde düşen üyenin GF katkısı mı yoksa Takasbank skin-in-the-game mi önce kullanılır?",o:["A) Takasbank skin-in-the-game önce","B) Her ikisi eş anlı","C) Temerrüde düşen üyenin GF katkısı önce","D) Sıraya göre değil, miktara göre belirlenir"],a:2,e:"Kaskad: 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı."},
+{q:"Netleştirme uygulamasında aynı gün aynı hisse için birden fazla alım yapılırsa nasıl belirlenir?",o:["A) Her işlem için ayrı ayrı teslim yapılır","B) Tüm alımlar netleştirilerek tek bir net tutar üzerinden takas yapılır","C) Yalnızca en büyük işlem takaslanır","D) Müşteri seçimine bırakılır"],a:1,e:"Netleştirme uygulaması gereği aynı üyenin aynı gün aynı hisse için yaptığı alımlar ve satışlar bakiyeye düşürülür."},
+{q:"Pay piyasasında referans faiz oranı nasıl belirlenir?",o:["A) Takasbank serbestçe belirler","B) SPK karar alarak belirler","C) TCMB politika faizi baz alınarak Takasbank tarafından belirlenir","D) Yalnızca enflasyon oranına göre güncellenir"],a:2,e:"Temerrüt cezası hesaplamasında kullanılan referans faiz oranı piyasa koşullarına ve TCMB politika faizine paralel olarak Takasbank tarafından düzenli güncellenir."}
+],
+t4:[
+{q:"Borçlanma Araçları Piyasası (BAP) temerrüt cezasında kullanılan payda kaçtır?",o:["A) 360","B) 365","C) 252","D) 300"],a:1,e:"BAP temerrüt cezası hesabında gün bazı olarak 365 kullanılır. Pay piyasasında 360 kullanılır."},
+{q:"BAP'ta saat 16:46–17:00 arası temerrütte uygulanan katsayı nedir?",o:["A) 0,10","B) 0,25","C) 0,50","D) 1"],a:1,e:"BAP temerrüt katsayıları: 16:46–17:00 → 0,25; 17:01–17:30 → 0,50; 17:31+ → 3."},
+{q:"BAP'ta saat 17:01–17:30 arası temerrütte uygulanan katsayı nedir?",o:["A) 0,25","B) 0,50","C) 1","D) 3"],a:1,e:"BAP'ta 17:01–17:30 arasındaki temerrütlerde katsayı 0,50'dir."},
+{q:"VİOP'ta başlangıç teminatı hesaplamasında kullanılan güven aralığı ve elde tutma süresi nedir?",o:["A) %99,00 güven, 1 gün","B) %99,50 güven, 2 gün","C) %99,90 güven, 2 gün","D) %95,00 güven, 5 gün"],a:1,e:"VİOP başlangıç teminatı: %99,50 güven aralığı, 2 günlük elde tutma süresi."},
+{q:"VİOP'ta teminata kabul edilen varlıklarda TL teminat zorunluluğu oranı nedir?",o:["A) %30","B) %40","C) %50","D) %75"],a:2,e:"VİOP'ta başlangıç teminatının en az %50'si TL olmalıdır. İlave işlem teminatında bu oran %30'a düşmektedir."},
+{q:"VİOP'ta 'değişim teminatı' nasıl hesaplanır?",o:["A) Sözleşme değerinin sabit %5'i","B) Günlük fiyat farkına göre mark-to-market olarak","C) Aylık olarak yeniden hesaplanarak","D) Vade sonunda bir defaya mahsus"],a:1,e:"Değişim teminatı günlük uzlaşma fiyatına göre hesaplanan kar ve zarar farkları üzerinden nakit olarak tahsil veya ödenir."},
+{q:"Takasbank teminat yönetiminde 'değerleme katsayısı' (haircut) neyi ifade eder?",o:["A) Temerrüt cezasının indirimi","B) Teminata kabul edilen varlığa uygulanan fiyat/likidite riski indirimi","C) Faiz oranı düzeltmesi","D) Kur farkı düzeltmesi"],a:1,e:"Haircut, teminata kabul edilen her varlık türü için likidite ve fiyat dalgalanması riski dikkate alınarak belirlenen indirim oranıdır."},
+{q:"VİOP'ta teminat değerleme katsayısı parametreleri nelerdir?",o:["A) %95,00 güven, 1 gün","B) %99,00 güven, 5 gün","C) %99,90 güven, 2 iş günü likidite periyodu","D) %99,50 güven, 3 gün"],a:2,e:"Değerleme katsayısı parametreleri: %99,90 güven aralığı, 2 iş günü likidite periyodu."},
+{q:"Garanti fonunun temel işlevi nedir?",o:["A) Üyelere faiz geliri sağlamak","B) Tek bir üyenin temerrüdünün tüm sistemi etkilememesini sağlamak","C) İşlem hacmini artırmak","D) SPK denetim maliyetlerini karşılamak"],a:1,e:"Garanti fonu, herhangi bir üyenin temerrüdünde oluşan kaybın tüm sisteme yayılmasını önlemek amacıyla kurulan kolektif kaynak havuzudur."},
+{q:"VİOP'ta fiziki teslimat sözleşmelerinde vade sonu teslimat süreci kimin koordinasyonunda yapılır?",o:["A) BİST","B) SPK","C) Takasbank","D) Saklayıcı banka"],a:2,e:"VİOP'ta fiziki teslimat içeren emtia vadeli işlem sözleşmelerinde vade sonu teslimat sürecini Takasbank koordine eder."},
+{q:"BAP ve SWAP piyasalarında Takasbank hangi sıfatla görev yapar?",o:["A) Sadece mesaj ileticisi","B) Merkezi Karşı Taraf (MKT)","C) Düzenleyici","D) Piyasa yapıcı"],a:1,e:"BAP ve SWAP piyasalarında da Takasbank MKT sıfatıyla karşı taraf riskini üstlenir."},
+{q:"VİOP'ta bir üyenin teminat açığını kapatmaması durumunda ne yapılır?",o:["A) İşlem otomatik iptal edilir","B) Açık pozisyon bir sonraki güne devredilir","C) Zorunlu pozisyon kapatma (forced liquidation) uygulanır","D) SPK müdahale eder"],a:2,e:"Teminat açığını belirlenen sürede kapatmayan üyenin pozisyonları Takasbank tarafından zorla kapatılır."},
+{q:"Takasbank Para Piyasası'nda repo işlemi ne anlama gelir?",o:["A) Menkul kıymeti geri alma taahhüdü olmaksızın satmak","B) Menkul kıymeti geri alma taahhüdüyle belirli bir süre için satmak","C) Kaldıraçlı hisse senedi alımı","D) Döviz vadeli alım"],a:1,e:"Repo, bir menkul kıymetin belirlenen bir vadede geri alınmak üzere satılmasıdır."},
+{q:"İlave işlem teminatında TL zorunluluk oranı kaçtır?",o:["A) %50","B) %40","C) %30","D) %20"],a:2,e:"VİOP'ta başlangıç teminatında TL zorunluluk %50 iken ilave işlem teminatında bu oran %30'a düşmektedir."},
+{q:"Teminat yönetiminde 'teminat ikamesi' nedir?",o:["A) Teminatın tamamı iade edilir","B) Mevcut teminattaki varlığın başka kabul edilen bir varlıkla değiştirilmesi","C) Teminata yeni varlık eklenir","D) Teminat başka üyeye devredilir"],a:1,e:"Teminat ikamesi; üyenin mevcut teminat portföyündeki bir varlığı Takasbank onayıyla başka kabul edilebilir bir varlıkla değiştirmesidir."},
+{q:"Hisse senedi teminata kabul edilirken hangi düzeltme uygulanır?",o:["A) Değerleme katsayısı (haircut) ile iskonto yapılır","B) Olduğu gibi piyasa fiyatından kabul edilir","C) Yalnızca borsa kapanış fiyatının iki katı üzerinden kabul edilir","D) Hisse senetleri teminata kabul edilmez"],a:0,e:"Hisse senetleri teminata kabul edilebilir; ancak değerleme katsayısı (haircut) uygulanarak iskontolu teminat değeri belirlenir."},
+{q:"Takasbank stres testini ne sıklıkla gerçekleştirmek zorundadır?",o:["A) Yılda bir kez","B) Piyasa koşullarına göre düzensiz","C) Düzenli aralıklarla (günlük veya en az haftalık)","D) Yalnızca kriz dönemlerinde"],a:2,e:"Takasbank'ın düzenleyici yükümlülükleri gereği stres testleri düzenli ve sık aralıklarla yapılır; sonuçlar SPK'ya raporlanır."},
+{q:"VİOP'ta nakit olmayan teminatlara haircut uygulanmasının gerekçesi nedir?",o:["A) Takasbank gelir elde etmek ister","B) Fiyat düşüşü ve likidite riski nedeniyle teminat değerinin aşınabileceği ihtimali","C) SPK zorunlu kılar","D) Piyasa yapıcıları korumak için"],a:1,e:"Nakit dışı teminatlara haircut uygulanır çünkü temerrüt durumunda bu varlıkların fiyatı düşebilir veya nakde çevrilmesi güçleşebilir."},
+{q:"BAP'ta temerrüt cezasının saat 17:31 sonrasında katsayının 3'e yükselmesinin amacı nedir?",o:["A) Daha fazla gelir elde etmek","B) Geç saatte temerrütleri caydırarak takas döngüsünü korumak","C) BİST işlemlerini yavaşlatmak","D) Yabancı yatırımcıları çıkarmak"],a:1,e:"Katsayının 3'e çıkması güçlü bir caydırıcı işlevi görür; üyeleri belirlenen sürede yükümlülüklerini yerine getirmeye zorlar."},
+{q:"Garanti fonu katkısının düzenli güncellenmesinin nedeni nedir?",o:["A) Yalnızca yasal zorunluluk","B) Üye pozisyon büyüklükleri ve piyasa oynaklığı değiştikçe risk profili değiştiği için","C) Vergi avantajı sağlamak için","D) Takasbank'ın karını artırmak için"],a:1,e:"Garanti fonu katkıları periyodik olarak güncellenir; üyelerin pozisyon büyüklükleri ve piyasa oynaklığı sürekli değişmektedir."}
+],
+t5:[
+{q:"BİST'te Merkezi Karşı Taraf işlevi yürüten kuruluş hangisidir?",o:["A) MKK","B) SPK","C) Takasbank","D) BDDK"],a:2,e:"Takasbank, Borsa İstanbul'daki tüm organize piyasalarda Merkezi Karşı Taraf (MKT) sıfatıyla faaliyet gösterir."},
+{q:"Pay piyasası ile BAP arasında temerrüt cezası hesabındaki en belirgin fark nedir?",o:["A) Katsayılar aynı ama referans faiz farklı","B) Pay 360 gün bazı, BAP 365 gün bazı kullanır","C) BAP'ta temerrüt cezası yoktur","D) Pay piyasasında katsayı 0,25'e kadar düşer"],a:1,e:"Pay piyasasında ceza formülü paydasında 360 kullanılırken BAP'ta 365 kullanılır."},
+{q:"Takasbank'ın Para Piyasası'nda yürüttüğü temel işlem türü hangisidir?",o:["A) Hisse senedi alım satımı","B) Döviz alım satımı","C) Repo ve ters repo","D) Vadeli emtia işlemleri"],a:2,e:"Takasbank Para Piyasası, kurumlar arası repo ve ters repo işlemlerinin organize edildiği piyasadır."},
+{q:"VİOP'ta 'ilave işlem teminatı' hangi durumda talep edilir?",o:["A) Günlük işlem limiti aşıldığında","B) Piyasa oynaklığı arttığında ve başlangıç teminatı yetersiz kaldığında","C) Üye yeni sözleşme açtığında","D) Faiz oranı değiştiğinde"],a:1,e:"İlave işlem teminatı, başlangıç teminatının yetersiz kaldığı durumlarda Takasbank tarafından talep edilir."},
+{q:"MKK sermaye yapısında BİST'in sahip olabileceği azami pay oranı nedir?",o:["A) %25","B) %50","C) %75","D) %10"],a:1,e:"MKK Yönetmeliği'ne göre BİST, MKK'da en fazla %50 paya sahip olabilir."},
+{q:"Takasbank'ın MKT olarak takas garantisi vermesinin yatırımcı açısından en önemli faydası nedir?",o:["A) Komisyon maliyetini azaltır","B) Anonimlik sağlar","C) Karşı taraf temerrüdünden kaynaklanan riski ortadan kaldırır","D) Pozisyon limitlerini artırır"],a:2,e:"MKT takas garantisi, bir tarafın temerrüde düşmesi halinde diğer tarafın yükümlülüğünün Takasbank tarafından karşılanmasını güvence altına alır."},
+{q:"Aşağıdaki teminat türlerinden hangisi VİOP'ta teminata kabul edilmez?",o:["A) Döviz (USD/EUR)","B) Devlet iç borçlanma senetleri","C) Kripto para","D) Altın"],a:2,e:"VİOP'ta teminata kabul edilen varlıklar: TL, USD, EUR, DİBS, altın ve onaylı diğer varlıklardır. Kripto para kabul görmez."},
+{q:"Pay piyasası temerrüdünde mağduriyet ödemesinin amacı nedir?",o:["A) Takasbank'ın gelirini artırmak","B) Mağdur üyenin takas gecikmesinden kaynaklanan kaybını kısmen telafi etmek","C) SPK'ya aktarım sağlamak","D) Temerrüde düşen üyeye yardım etmek"],a:1,e:"Mağduriyet ödemesi, teslim alamayan tarafın likidite ve fırsat maliyetini kısmen telafi etmek amacıyla temerrüt cezasının 2/3'ünden oluşur."},
+{q:"Portföy Saklama Tebliği kapsamında iç kontrol yükümlülüğü kime aittir?",o:["A) Portföy yöneticisine","B) Portföy saklayıcısına","C) BİST'e","D) Yatırımcıya"],a:1,e:"Portföy saklayıcısı, fon içtüzüğüne ve yatırım kısıtlarına uyumu sürekli denetlemekle yükümlüdür."},
+{q:"VİOP'ta değişim teminatı hangi zaman diliminde ödenmek zorundadır?",o:["A) Haftalık","B) Vade sonunda","C) Günlük uzlaşma sonrası belirlenen sürede","D) Aylık"],a:2,e:"Günlük uzlaşma fiyatı belirlendikten sonra hesaplanan değişim teminatı, belirlenen takas saatine kadar nakit olarak ödenmek zorundadır."},
+{q:"Takasbank stres testlerinin sonucunda hangi bilgi SPK'ya raporlanır?",o:["A) Üye isim listesi","B) Garanti fonu yeterliliği ve senaryo analizi sonuçları","C) Piyasa fiyatları","D) Faiz oranı tahminleri"],a:1,e:"Stres testi raporları garanti fonunun farklı kriz senaryolarında yeterli olup olmadığını gösterir; periyodik olarak SPK'ya sunulur."},
+{q:"Borçlanma Araçları Piyasası'nda takas prensibi hangisidir?",o:["A) Peşin ödeme prensibi","B) DVP (Teslimat Karşılığı Ödeme)","C) Vadeli ödeme prensibi","D) Netleştirmesiz brüt takas"],a:1,e:"BAP da Pay Piyasası gibi DVP prensibine göre çalışır; menkul kıymet teslimatı ve nakit ödemesi eş zamanlı gerçekleştirilir."},
+{q:"TSPB'nin MKK sermayesinde sahip olabileceği azami pay oranı nedir?",o:["A) %25","B) %20","C) %15","D) %10"],a:3,e:"TSPB (Türkiye Sermaye Piyasaları Birliği) MKK'da en fazla %10 paya sahip olabilir."},
+{q:"VİOP'ta uzun pozisyon (long) tutan yatırımcının günlük uzlaşma fiyatı düştüğünde değişim teminatı ne yönde etkilenir?",o:["A) Teminat iade alır","B) Teminat ödemek zorunda kalır","C) Değişim teminatı etkilenmez","D) Başlangıç teminatı iptal edilir"],a:1,e:"Uzun pozisyondaki yatırımcı fiyat düşüşünde kayıp yazar; bu kayıp değişim teminatı olarak ödenmesi gereken bir borç doğurur."},
+{q:"MKK sisteminde rehin tesisinin hukuki sonucu nedir?",o:["A) Hisse senedi sahibi değişir","B) Rehin konusu menkul kıymet üzerinde sınırlı ayni hak kurulur ve MKK'ya tescil edilir","C) Temettü hakkı alacaklıya geçer","D) Menkul kıymet geçici olarak iptal edilir"],a:1,e:"MKK üzerinden tesis edilen rehin, menkul kıymet üzerinde sınırlı ayni hak kurulmasını sağlar ve tescille üçüncü kişilere karşı geçerli hale gelir."},
+{q:"Takasbank 'SWAP Piyasası'nda aşağıdakilerden hangisini gerçekleştirir?",o:["A) Hisse senedi değişimi","B) Döviz swap işlemlerinin MKT sıfatıyla takasını","C) Emtia swapı","D) Faiz swapı için aracılık hizmeti"],a:1,e:"Takasbank SWAP Piyasası döviz swap işlemlerine odaklanır; Takasbank bu piyasada da MKT sıfatıyla karşı taraf riskini üstlenir."},
+{q:"VİOP'ta bir üyenin temerrüt halinde hangi kaynak en son devreye girer?",o:["A) Üyenin başlangıç teminatı","B) Takasbank skin-in-the-game","C) Diğer üyelerin garanti fonu katkıları","D) Üyenin garanti fonu katkısı"],a:2,e:"Temerrüt kaskadında en son devreye giren kaynak diğer sağlıklı üyelerin garanti fonu katkılarıdır."},
+{q:"Pay piyasası temerrüdünde açık piyasadan alım yapılırken fiyat farkı nasıl hesaba katılır?",o:["A) Fark Takasbank tarafından karşılanır","B) Fark temerrüde düşen üyeden tahsil edilir","C) Fark mağdura ek tazminat olarak ödenir","D) Fark sigorta şirketinden talep edilir"],a:1,e:"Temerrüt halinde açık piyasadan yapılan alımda oluşan fiyat farkı temerrüde düşen üyeden tahsil edilir."},
+{q:"Kaydileştirme sisteminin en temel avantajı nedir?",o:["A) Fiziksel senet basım maliyetini artırır","B) Sahtekârlık ve kayıp riskini ortadan kaldırır, transfer hızını artırır","C) Piyasayı yabancı yatırımcılara kapatır","D) Takas sürecini uzatır"],a:1,e:"Kaydileştirme fiziksel senet sahteciliği, çalınma ve kayıp riskini tamamen ortadan kaldırır."},
+{q:"Takasbank'ın tüm piyasalardaki rolünü en doğru özetleyen ifade hangisidir?",o:["A) Yalnızca aracı kurum denetimi yapar","B) Türkiye sermaye piyasalarının merkezi takas, saklama ve karşı taraf altyapısını sağlar","C) Yalnızca devlet tahvili işlemlerini yürütür","D) Menkul kıymet fiyatlaması yapar"],a:1,e:"Takasbank; pay, borçlanma araçları, türev ve repo piyasalarında MTK, MKT ve saklama hizmetleri sunarak Türkiye sermaye piyasalarının temel altyapısını oluşturur."}
+]}
+}};
+
+let curL=null,curT=null;
+let gC=0,gT=0;
+const TS={};
+
+function showSc(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById('screen-'+id).classList.add('active');}
+function updBC(){
+  let h='';
+  if(curL)h+=`<span class="sep">›</span><span class="bc" onclick="goL('${curL.id}')">${curL.short}</span>`;
+  if(curT)h+=`<span class="sep">›</span><span class="bc active">${curT.name}</span>`;
+  document.getElementById('bc').innerHTML=h;
+}
+function goHome(){curL=null;curT=null;updBC();showSc('home');}
+function goL(id){curL=L.find(l=>l.id===id);curT=null;updBC();renderLic();showSc('lic');}
+function goTopic(lid,tc){curL=L.find(l=>l.id===lid);curT=curL.topics.find(t=>t.code===tc);updBC();renderTopic();showSc('topic');}
+function updGS(){document.getElementById('gscore').textContent='✦ '+gC+' / '+gT;}
+
+function renderHome(){
+  document.getElementById('licGrid').innerHTML=L.map(l=>{
+    const rc=l.topics.filter(t=>t.ready).length;
+    return `<div class="lic-card${!l.ready?' locked':''}" ${l.ready?'onclick="goL(''+l.id+'')"':''}>
+      <div class="lic-num">${l.topics.length} konu · ${l.edu} mezuniyet</div>
+      <div class="lic-title">${l.title}</div>
+      <div class="lic-topics">${l.topics.slice(0,3).map(t=>t.name).join(' · ')}${l.topics.length>3?' · ...':''}</div>
+      <div class="lic-badge ${!l.ready?'soon':'ready'}">${!l.ready?'Yakında':rc+' konu hazır'}</div>
+    </div>`;
+  }).join('');
+}
+
+function renderLic(){
+  document.getElementById('lic-title').textContent=curL.title;
+  document.getElementById('lic-sub').textContent=curL.topics.length+' sınav konusu · '+curL.edu+' yükseköğretim';
+  document.getElementById('topicList').innerHTML=curL.topics.map(t=>`
+    <div class="topic-row${!t.ready?' locked':''}" ${t.ready?'onclick="goTopic(''+curL.id+'',''+t.code+'')"':''}>
+      <span class="t-code">${t.code}</span>
+      <span class="t-name">${t.name}</span>
+      <span class="t-arr">${!t.ready?'<span style="font-size:.75rem;color:#bbb">Yakında</span>':'›'}</span>
+    </div>`).join('');
+}
+
+function renderTopic(){
+  document.getElementById('topic-title').textContent=curT.name;
+  document.getElementById('topic-sub').textContent='Ders kodu: '+curT.code;
+  const con=C[curT.code];
+  const tabs=document.getElementById('vtabs');
+  const panels=document.getElementById('vpanels');
+  if(!con){tabs.innerHTML='';panels.innerHTML='<div class="coming"><div class="ic">🚧</div><h3>Hazırlanıyor</h3><p>Bu konu için içerik yakında eklenecektir.</p></div>';return;}
+  const td=[{id:'ozet',label:'📚 Konu Özeti'},{id:'t1',label:'Test 1'},{id:'t2',label:'Test 2'},{id:'t3',label:'Test 3'},{id:'t4',label:'Test 4'},{id:'t5',label:'Test 5'}];
+  tabs.innerHTML=td.map((t,i)=>`<button class="vtab${i===0?' active':''}" id="vt-${t.id}" onclick="sV('${t.id}')">${t.label}</button>`).join('');
+  panels.innerHTML=td.map((t,i)=>`<div class="vpanel${i===0?' active':''}" id="vp-${t.id}"></div>`).join('');
+  document.getElementById('vp-ozet').innerHTML=con.summary.map(s=>`
+    <div class="accordion" onclick="this.classList.toggle('open')">
+      <div class="acc-head"><div><span class="acc-num">${s.num}</span><h3 style="display:inline">${s.title}</h3></div><span class="acc-arrow">▾</span></div>
+      <div class="acc-body">${s.body}</div>
+    </div>`).join('');
+  ['t1','t2','t3','t4','t5'].forEach(tid=>renderTest(document.getElementById('vp-'+tid),tid,curT.code));
+}
+
+function sV(vid){
+  document.querySelectorAll('.vtab').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('.vpanel').forEach(p=>p.classList.remove('active'));
+  document.getElementById('vt-'+vid).classList.add('active');
+  document.getElementById('vp-'+vid).classList.add('active');
+}
+
+function renderTest(panel,tid,tc){
+  const qs=C[tc]?.tests?.[tid];
+  if(!qs){panel.innerHTML='<div class="coming"><div class="ic">🚧</div><h3>Yakında</h3></div>';return;}
+  const key=tc+'-'+tid;
+  const tn=tid.replace('t','');
+  let h=`<div style="text-align:center;margin-bottom:22px"><h3 style="font-family:'Playfair Display',serif;font-size:1.5rem">Test ${tn}</h3><p style="color:var(--muted);margin-top:4px;font-size:.9rem">20 Soru — Takas, Saklama ve Operasyon İşlemleri</p></div>
+  <div class="prog-bar"><div class="prog-fill" id="pg-${key}" style="width:0%"></div></div>
+  <div id="qs-${key}">`;
+  qs.forEach((q,i)=>{
+    h+=`<div class="q-card"><div class="q-num">Soru ${i+1} / 20</div><div class="q-text">${q.q}</div><div class="opts" id="op-${key}-${i}">
+    ${q.o.map((o,j)=>`<div class="opt" id="o-${key}-${i}-${j}" onclick="ans('${key}',${i},${j},'${tc}','${tid}')"><span class="opt-l">${['A','B','C','D'][j]})</span><span>${o.replace(/^[ABCD]\) /,'')}</span></div>`).join('')}
+    </div><div class="exp" id="ex-${key}-${i}">${q.e}</div></div>`;
+  });
+  h+=`</div><div class="result-sc" id="rs-${key}"><div class="rc"><div class="big" id="rb-${key}">0/20</div><div class="small">puan</div></div>
+  <div class="rmsg" id="rm-${key}"></div><div class="rsub" id="rsub-${key}"></div>
+  <button class="btn btn-gold" onclick="restart('${key}','${tc}','${tid}')">Tekrar Çöz</button></div>`;
+  panel.innerHTML=h;
+  TS[key]={ans:0,cor:0,done:false};
+}
+
+function ans(key,qi,ch,tc,tid){
+  const q=C[tc].tests[tid][qi];
+  const el=document.getElementById(`o-${key}-${qi}-0`);
+  if(!el||el.classList.contains('dis'))return;
+  document.querySelectorAll(`#op-${key}-${qi} .opt`).forEach((o,j)=>{
+    o.classList.add('dis');
+    if(j===ch)o.classList.add(ch===q.a?'ok':'no');
+    if(j===q.a&&ch!==q.a)o.classList.add('ok');
+  });
+  document.getElementById(`ex-${key}-${qi}`).classList.add('show');
+  const st=TS[key];st.ans++;const ok=ch===q.a;if(ok)st.cor++;
+  gT++;if(ok)gC++;updGS();
+  document.getElementById(`pg-${key}`).style.width=(st.ans/20*100)+'%';
+  if(st.ans===20&&!st.done){st.done=true;setTimeout(()=>showR(key),600);}
+}
+
+function showR(key){
+  document.getElementById(`qs-${key}`).style.display='none';
+  const sc=TS[key].cor,pct=Math.round(sc/20*100);
+  document.getElementById(`rb-${key}`).textContent=sc+'/20';
+  const msgs=[[85,'Mükemmel! 🏆'],[70,'İyi iş! 👍'],[50,'Geliştirilebilir 📚'],[0,'Daha fazla çalışma gerekli 💪']];
+  document.getElementById(`rm-${key}`).textContent=msgs.find(([p])=>pct>=p)[1];
+  document.getElementById(`rsub-${key}`).textContent='%'+pct+' başarı';
+  document.getElementById(`rs-${key}`).classList.add('show');
+}
+
+function restart(key,tc,tid){
+  const st=TS[key];gT-=st.ans;gC-=st.cor;updGS();
+  const panel=document.getElementById('vp-'+tid);
+  renderTest(panel,tid,tc);
+}
+
+renderHome();
+</script>
 </body>
 </html>
