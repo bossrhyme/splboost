@@ -38,22 +38,20 @@ html{background:var(--bg);color:var(--fg);font-family:var(--font);font-size:14px
 main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
 
 /* ── HOME HERO ── */
-.hero{padding:48px 0 40px}
-.hero-badge{display:inline-flex;align-items:center;gap:6px;background:var(--accent-bg);border:1px solid var(--bdr2);color:var(--accent);font-size:.72rem;font-weight:500;padding:4px 12px;border-radius:20px;margin-bottom:18px}
-.hero-badge-dot{width:6px;height:6px;border-radius:50%;background:var(--accent);animation:pulse 2s ease-in-out infinite}
+.hero{padding:48px 0 40px;text-align:center}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
 .hero h1{font-size:2.5rem;font-weight:600;line-height:1.15;letter-spacing:-.04em;color:var(--fg);margin-bottom:12px}
 .hero h1 em{font-style:italic;color:var(--accent2)}
-.hero p{font-size:.95rem;color:var(--fg2);max-width:500px;line-height:1.7}
-.hero-stats{display:flex;gap:0;margin-top:28px;background:var(--bg2);border:1px solid var(--bdr);border-radius:var(--radius-lg);overflow:hidden;width:fit-content;box-shadow:var(--shadow)}
-.hero-stat{padding:12px 20px;display:flex;flex-direction:column;gap:2px;border-right:1px solid var(--bdr)}
+.hero p{font-size:.95rem;color:var(--fg2);line-height:1.7}
+.hero-stats{display:inline-flex;gap:0;margin-top:28px;background:var(--bg2);border:1px solid var(--bdr);border-radius:var(--radius-lg);overflow:hidden;box-shadow:var(--shadow)}
+.hero-stat{padding:12px 28px;display:flex;flex-direction:column;gap:2px;border-right:1px solid var(--bdr)}
 .hero-stat:last-child{border-right:none}
 .hero-stat-n{font-size:1.1rem;font-weight:600;color:var(--fg);letter-spacing:-.02em;font-family:var(--mono)}
 .hero-stat-l{font-size:.7rem;color:var(--fg3)}
 .hero-divider{height:1px;background:var(--bdr);margin:0 0 32px}
 
 /* ── LIC GRID ── */
-.sec-label{font-size:.72rem;font-weight:500;color:var(--fg3);letter-spacing:.06em;text-transform:uppercase;margin-bottom:14px}
+.sec-label{font-size:.82rem;font-weight:700;color:var(--fg);letter-spacing:.04em;text-transform:uppercase;margin-bottom:14px;text-align:center}
 .lic-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));gap:12px}
 .lic-card{background:var(--bg2);border:1px solid var(--bdr);border-radius:var(--radius-lg);padding:18px 20px;cursor:pointer;transition:all .2s;box-shadow:var(--shadow);position:relative}
 .lic-card:not(.locked):hover{border-color:var(--bdr2);box-shadow:var(--shadow-lg);transform:translateY(-2px)}
@@ -161,10 +159,9 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
 <main>
   <div class="screen on" id="sc-home">
     <div class="hero">
-      <div class="hero-badge"><span class="hero-badge-dot"></span>2025–2026 Sınav Dönemi</div>
       <h1>Sermaye Piyasası<br><em>Sınavlarına Hazırlık</em></h1>
-      <p>Konu özetleri ve pratik testlerle lisans sınavlarına hazırlan. Gözü yormayan, odak öncelikli tasarım.</p>
-      <div class="hero-stats" id="heroStats"></div>
+      <p>Konu özetleri ve pratik testlerle lisans sınavlarına hazırlan.</p>
+      <div style="display:flex;justify-content:center"><div class="hero-stats" id="heroStats"></div></div>
     </div>
     <div class="hero-divider"></div>
     <div class="sec-label">Lisans Türü Seç</div>
@@ -206,12 +203,11 @@ $$('backBtn').onclick=goHome;
 
 function renderHome(){
   const totalTopics=new Set(L.flatMap(l=>l.topics.map(t=>t.code))).size;
-  const readyLics=L.filter(l=>l.ready).length;
+  const totalQ=Object.values(C).reduce((s,c)=>s+Object.values(c.tests||{}).reduce((ss,qs)=>ss+qs.length,0),0);
   $$('heroStats').innerHTML=[
     [L.length,'Lisans'],
     [totalTopics,'Konu'],
-    ['500+','Soru'],
-    [readyLics,'Hazır']
+    [totalQ,'Soru']
   ].map(([n,l])=>`<div class="hero-stat"><span class="hero-stat-n">${n}</span><span class="hero-stat-l">${l}</span></div>`).join('');
   $$('licGrid').innerHTML=L.map(l=>{
     const rc=l.topics.filter(t=>t.ready).length;
