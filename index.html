@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>SPL Boost — Linear Pastel</title>
+<title>SPL Boost — SPL için hızlandırıcın</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%236c56e8'/><path d='M8 22L16 10L24 22' stroke='white' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round' fill='none'/></svg>">
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{
@@ -144,6 +145,23 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
 .btn:hover{background:var(--accent);color:#fff}
 .soon-p{text-align:center;padding:60px 20px;color:var(--fg3)}
 .soon-p h3{font-size:.95rem;font-weight:500;color:var(--fg2);margin-bottom:5px}
+
+/* ── FOOTER ── */
+.footer{margin-top:60px;border-top:1px solid var(--bdr);padding:32px 20px;background:var(--bg2)}
+.footer-inner{max-width:900px;margin:0 auto;display:flex;align-items:flex-start;justify-content:space-between;gap:32px;flex-wrap:wrap}
+.footer-brand{display:flex;flex-direction:column;gap:8px}
+.footer-logo{display:flex;align-items:center;gap:8px}
+.footer-logo-mark{width:26px;height:26px;border-radius:8px;background:var(--accent);display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.footer-logo-text{font-size:.95rem;font-weight:700;color:var(--fg)}
+.footer-tagline{font-size:.82rem;color:var(--fg3);max-width:240px;line-height:1.5}
+.footer-cols{display:flex;gap:48px;flex-wrap:wrap}
+.footer-col h4{font-size:.78rem;font-weight:700;color:var(--fg);letter-spacing:.05em;text-transform:uppercase;margin-bottom:10px}
+.footer-col ul{list-style:none;display:flex;flex-direction:column;gap:6px}
+.footer-col li{font-size:.85rem;color:var(--fg3)}
+.footer-col li span{color:var(--fg2);cursor:default}
+.footer-bottom{max-width:900px;margin:24px auto 0;padding-top:20px;border-top:1px solid var(--bdr);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.footer-bottom p{font-size:.78rem;color:var(--fg3)}
+.footer-bottom-badge{font-family:var(--mono);font-size:.7rem;color:var(--accent);background:var(--accent-bg);border:1px solid var(--bdr2);padding:3px 8px;border-radius:20px}
 </style>
 </head>
 <body>
@@ -187,7 +205,7 @@ L.forEach(l => { l.title = l.titleTR; });
 let cL=null,cT=null,gC=0,gT=0;
 const TS={};
 function $$(id){return document.getElementById(id)}
-function showSc(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('on'));$$('sc-'+id).classList.add('on');window.scrollTo(0,0)}
+function showSc(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('on'));$$('sc-'+id).classList.add('on');window.scrollTo(0,0);const f=document.getElementById('mainFooter');if(f)f.style.display=id==='home'?'block':'none';}
 function updBC(){
   let h='';
   if(cL)h+=`<span class="sep">›</span><span class="crumb" data-lid="${cL.id}">${cL.short}</span>`;
@@ -293,5 +311,52 @@ function showResult(key){
 }
 renderHome();
 </script>
+
+<footer class="footer" id="mainFooter">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo">
+        <div class="footer-logo-mark">
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M3 10L7 4L11 10" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </div>
+        <span class="footer-logo-text">SPL Boost</span>
+      </div>
+      <p class="footer-tagline">Sermaye piyasası lisans sınavları için konu özetleri ve pratik testler.</p>
+    </div>
+    <div class="footer-cols">
+      <div class="footer-col">
+        <h4>Lisanslar</h4>
+        <ul>
+          <li><span>Düzey 1 Lisansı</span></li>
+          <li><span>Düzey 2 Lisansı</span></li>
+          <li><span>Düzey 3 Lisansı</span></li>
+          <li><span style="opacity:.45">Türev Araçlar</span></li>
+          <li><span style="opacity:.45">Kredi Derecelendirme</span></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>İçerik</h4>
+        <ul>
+          <li><span>Konu Özetleri</span></li>
+          <li><span>Pratik Testler</span></li>
+          <li><span>500+ Soru</span></li>
+          <li><span>35 Konu Başlığı</span></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Hakkında</h4>
+        <ul>
+          <li><span>SPL sınavlarına yönelik</span></li>
+          <li><span>hazırlanmış bağımsız</span></li>
+          <li><span>çalışma platformu.</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2025 SPL Boost — SPL Lisanslama Kuruluşu ile resmi bağlantısı yoktur.</p>
+    <span class="footer-bottom-badge">Beta</span>
+  </div>
+</footer>
 </body>
 </html>
