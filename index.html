@@ -156,7 +156,7 @@ $id('backBtn1').onclick=goHome;
 
 function renderHome(){
   // Build hero stats
-  const totalTopics = L.reduce((s,l)=>s+l.topics.length,0);
+  const totalTopics = new Set(L.flatMap(l=>l.topics.map(t=>t.code))).size;
   const stats = [
     L.length + ' Lisans Türü',
     totalTopics + ' Alt Başlık',
