@@ -239,6 +239,13 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
 .footer-bottom{max-width:900px;margin:24px auto 0;padding-top:20px;border-top:1px solid var(--bdr);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
 .footer-bottom p{font-size:.78rem;color:var(--fg3)}
 .footer-bottom-badge{font-family:var(--mono);font-size:.7rem;color:var(--accent);background:var(--accent-bg);border:1px solid var(--bdr2);padding:3px 8px;border-radius:20px}
+
+/* ── AD SLOTS ── */
+.ad-slot{width:100%;background:var(--bg2);border:1px dashed var(--bdr2);border-radius:var(--radius-lg);display:flex;align-items:center;justify-content:center;color:var(--fg3);font-family:var(--mono);font-size:.7rem;letter-spacing:.06em}
+.ad-slot-hero{height:90px;margin:0 0 28px}
+.ad-slot-inline{height:80px;margin:20px 0}
+.ad-slot-result{height:100px;margin:20px 0}
+.ad-slot-sponsor{height:72px;margin:0 0 32px}
 </style>
 </head>
 <body>
@@ -259,6 +266,7 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
       <div style="display:flex;justify-content:center"><div class="hero-stats" id="heroStats"></div></div>
     </div>
     <div class="hero-divider"></div>
+    <div class="ad-slot ad-slot-hero">Reklam · 728×90</div>
     <div class="sec-label">Lisans Türü Seç</div>
     <div class="lic-grid" id="licGrid"></div>
   </div>
@@ -282,7 +290,7 @@ L.forEach(l => { l.title = l.titleTR; });
 let cL=null,cT=null,gC=0,gT=0;
 const TS={};
 function $$(id){return document.getElementById(id)}
-function showSc(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('on'));$$('sc-'+id).classList.add('on');window.scrollTo(0,0);const f=document.getElementById('mainFooter');if(f)f.style.display=id==='home'?'block':'none';}
+function showSc(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('on'));$$('sc-'+id).classList.add('on');window.scrollTo(0,0);const f=document.getElementById('mainFooter');if(f)f.style.display=id==='home'?'block':'none';const sp=document.getElementById('adSponsor');if(sp)sp.style.display=id==='home'?'flex':'none';}
 function updBC(){
   let h='';
   if(cL)h+=`<span class="sep">›</span><span class="crumb" data-lid="${cL.id}">${cL.short}</span>`;
@@ -344,7 +352,11 @@ function renderTopic(){
   tabs.innerHTML=td.map((t,i)=>`<button class="vtab${i===0?' on':''}" data-vid="${t.id}">${t.label}</button>`).join('');
   panels.innerHTML=td.map((t,i)=>`<div class="vpanel${i===0?' on':''}" id="vp-${t.id}"></div>`).join('');
   tabs.querySelectorAll('.vtab').forEach(btn=>{btn.onclick=()=>{tabs.querySelectorAll('.vtab').forEach(b=>b.classList.remove('on'));panels.querySelectorAll('.vpanel').forEach(p=>p.classList.remove('on'));btn.classList.add('on');$$('vp-'+btn.dataset.vid).classList.add('on')}});
-  $$('vp-ozet').innerHTML=con.summary.map(s=>`<div class="acc" onclick="this.classList.toggle('op')"><div class="ach"><div class="ach-l"><span class="ach-num">${s.num}</span><h3>${s.title}</h3></div><span class="ach-arr">▾</span></div><div class="acb">${s.body}</div></div>`).join('');
+  $$('vp-ozet').innerHTML=con.summary.map((s,i)=>{
+    const acc=`<div class="acc" onclick="this.classList.toggle('op')"><div class="ach"><div class="ach-l"><span class="ach-num">${s.num}</span><h3>${s.title}</h3></div><span class="ach-arr">▾</span></div><div class="acb">${s.body}</div></div>`;
+    const adAfter=(i===2||i===5)?`<div class="ad-slot ad-slot-inline">Reklam · Native Kart</div>`:'';
+    return acc+adAfter;
+  }).join('');
   ['t1','t2','t3','t4','t5'].forEach(tid=>renderTest(tid,cT.code));
 }
 
@@ -366,6 +378,12 @@ function renderTest(tid,tc){
   panel.innerHTML=h;
   panel.querySelectorAll('.opt').forEach(opt=>{opt.onclick=()=>doAns(opt.dataset.key,+opt.dataset.qi,+opt.dataset.j,opt.dataset.tc,opt.dataset.tid)});
   panel.querySelector('.btn').onclick=function(){const st=TS[this.dataset.key];gT-=st.ans;gC-=st.cor;renderTest(this.dataset.tid,this.dataset.tc)};
+  const adDiv=document.createElement('div');
+  adDiv.className='ad-slot ad-slot-result';
+  adDiv.id='adResult-'+key;
+  adDiv.textContent='Reklam · Test Sonu CTA';
+  adDiv.style.display='none';
+  panel.appendChild(adDiv);
 }
 function doAns(key,qi,ch,tc,tid){
   const q=C[tc].tests[tid][qi];
@@ -380,6 +398,7 @@ function doAns(key,qi,ch,tc,tid){
 }
 function showResult(key){
   $$('qs-'+key).style.display='none';
+  const ar=document.getElementById('adResult-'+key);if(ar)ar.style.display='flex';
   const sc=TS[key].cor,pct=Math.round(sc/20*100);
   $$('rb-'+key).textContent=sc+'/20';
   $$('rm-'+key).textContent=pct>=85?'Mükemmel! 🎉':pct>=70?'İyi iş! 👏':pct>=50?'Geliştirilebilir 📖':'Daha fazla çalışma 💪';
@@ -389,6 +408,7 @@ function showResult(key){
 renderHome();
 </script>
 
+<div class="ad-slot ad-slot-sponsor" id="adSponsor">Sponsorlar · Logo Bandı</div>
 <footer class="footer" id="mainFooter">
   <div class="footer-inner">
     <div class="footer-brand">
