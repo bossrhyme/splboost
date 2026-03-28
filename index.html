@@ -269,16 +269,19 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
     <div class="ad-slot ad-slot-hero">Reklam · 728×90</div>
     <div class="sec-label">Lisans Türü Seç</div>
     <div class="lic-grid" id="licGrid"></div>
+    <div class="ad-slot ad-slot-sponsor" style="margin-top:48px">Sponsorlar · Logo Bandı</div>
   </div>
   <div class="screen" id="sc-lic">
     <button class="back-btn" id="backBtn">← Tüm Lisanslar</button>
     <div class="lic-hdr"><h2 id="licTitle"></h2><p id="licSub"></p></div>
     <div class="tlist" id="tlist"></div>
+    <div class="ad-slot ad-slot-sponsor" style="margin-top:48px">Sponsorlar · Logo Bandı</div>
   </div>
   <div class="screen" id="sc-topic">
     <div class="topic-hdr"><h3 id="topicTitle"></h3><p id="topicSub"></p></div>
     <div class="vtabs" id="vtabs"></div>
     <div id="vpanels"></div>
+    <div class="ad-slot ad-slot-sponsor" style="margin-top:48px">Sponsorlar · Logo Bandı</div>
   </div>
 </main>
 <script>
@@ -290,7 +293,7 @@ L.forEach(l => { l.title = l.titleTR; });
 let cL=null,cT=null,gC=0,gT=0;
 const TS={};
 function $$(id){return document.getElementById(id)}
-function showSc(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('on'));$$('sc-'+id).classList.add('on');window.scrollTo(0,0);const f=document.getElementById('mainFooter');if(f)f.style.display=id==='home'?'block':'none';const sp=document.getElementById('adSponsor');if(sp)sp.style.display=id==='home'?'flex':'none';}
+function showSc(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('on'));$$('sc-'+id).classList.add('on');window.scrollTo(0,0);}
 function updBC(){
   let h='';
   if(cL)h+=`<span class="sep">›</span><span class="crumb" data-lid="${cL.id}">${cL.short}</span>`;
@@ -408,7 +411,6 @@ function showResult(key){
 renderHome();
 </script>
 
-<div class="ad-slot ad-slot-sponsor" id="adSponsor">Sponsorlar · Logo Bandı</div>
 <footer class="footer" id="mainFooter">
   <div class="footer-inner">
     <div class="footer-brand">
