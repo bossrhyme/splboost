@@ -23,7 +23,9 @@ main{max-width:960px;margin:0 auto;padding:32px 16px 80px}
 .hero{text-align:center;padding:40px 0 36px}
 .hero h1{font-family:'Playfair Display',serif;font-size:2.4rem;line-height:1.2}
 .hero p{color:var(--muted);margin-top:10px;font-size:1.05rem}
-.hero .badge{display:inline-block;background:var(--gold);color:var(--ink);font-family:'IBM Plex Mono',monospace;font-size:.72rem;padding:3px 12px;border-radius:20px;margin-top:12px}
+.stats{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:0;margin-top:18px;background:var(--ink);border-radius:30px;display:inline-flex;padding:0 4px}
+.stat{font-family:'IBM Plex Mono',monospace;font-size:.75rem;color:var(--gold2);padding:7px 16px;white-space:nowrap}
+.stat-sep{color:#444;font-size:.9rem;line-height:1}
 .slabel{font-family:'IBM Plex Mono',monospace;font-size:.7rem;color:var(--gold);letter-spacing:.08em;text-transform:uppercase;margin:24px 0 12px}
 .lgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
 .lcard{background:var(--card);border:1px solid var(--bdr);border-radius:10px;padding:20px 22px;cursor:pointer;transition:all .2s;position:relative;overflow:hidden}
@@ -98,9 +100,9 @@ main{max-width:960px;margin:0 auto;padding:32px 16px 80px}
 <main>
   <div class="sc on" id="sc-home">
     <div class="hero">
-      <h1>Sermaye Piyasası<br>Sınav Hazırlık</h1>
-      <p>Konu özetleri ve pratik testlerle lisans sınavına hazırlan</p>
-      <div class="badge">9 Lisans Türü · Konu Özeti · 100 Soru / Konu</div>
+      <h1>Sermaye Piyasası<br>Sınavlarına Hazırlık</h1>
+      <p>Konu özetleri ve pratik testlerle lisans sınavlarına hazırlan</p>
+      <div class="stats" id="heroStats"></div>
     </div>
     <div class="slabel">Lisans Türünü Seç</div>
     <div class="lgrid" id="lgrid"></div>
@@ -153,6 +155,18 @@ $id('brandBtn').onclick=goHome;
 $id('backBtn1').onclick=goHome;
 
 function renderHome(){
+  // Build hero stats
+  const totalTopics = L.reduce((s,l)=>s+l.topics.length,0);
+  const stats = [
+    L.length + ' Lisans Türü',
+    totalTopics + ' Alt Başlık',
+    'Konu Özetleri',
+    'Testler'
+  ];
+  $id('heroStats').innerHTML = stats.map((s,i)=>
+    (i>0?'<span class="stat-sep">·</span>':'')+`<span class="stat">${s}</span>`
+  ).join('');
+
   $id('lgrid').innerHTML=L.map(l=>{
     const rc=l.topics.filter(t=>t.ready).length;
     const topicList=l.topics.map(t=>`<li>${t.name}</li>`).join('');
