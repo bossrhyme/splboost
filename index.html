@@ -379,8 +379,8 @@ function renderTopic(){
   const extData=EXT[cT.code];
   if(!extData){extPanel.innerHTML='<div class="soon-p"><h3>Hazırlanıyor</h3><p>Genişletilmiş içerik yakında eklenecektir.</p></div>';}
   else{
-    extPanel.innerHTML=extData.map(sec=>`
-      <div class="acc" onclick="this.classList.toggle('op')">
+    extPanel.innerHTML=extData.map((sec,i)=>{
+      const acc=`<div class="acc" onclick="this.classList.toggle('op')">
         <div class="ach"><div class="ach-l"><span class="ach-num">${sec.num}</span><h3>${sec.title}</h3></div><span class="ach-arr">▾</span></div>
         <div class="acb">${sec.sections.map(s=>`
           <div class="ext-section">
@@ -388,7 +388,10 @@ function renderTopic(){
             <div class="ext-section-body">${s.content}</div>
           </div>`).join('')}
         </div>
-      </div>`).join('');
+      </div>`;
+      const adAfter=(i===2||i===5)?`<div class="ad-slot ad-slot-inline">Reklam · Native Kart</div>`:'';
+      return acc+adAfter;
+    }).join('');
   }
   ['t1','t2','t3','t4','t5'].forEach(tid=>renderTest(tid,cT.code));
 }
