@@ -325,7 +325,8 @@ function updGS(){document.getElementById('gscore').textContent='✦ '+gC+' / '+g
 function renderHome(){
   document.getElementById('licGrid').innerHTML=L.map(l=>{
     const rc=l.topics.filter(t=>t.ready).length;
-    return `<div class="lic-card${!l.ready?' locked':''}" ${l.ready?'onclick="goL(''+l.id+'')"':''}>
+    const clickAttr = l.ready ? `onclick="goL('${l.id}')"` : '';
+    return `<div class="lic-card${!l.ready?' locked':''}" ${clickAttr}>
       <div class="lic-num">${l.topics.length} konu · ${l.edu} mezuniyet</div>
       <div class="lic-title">${l.title}</div>
       <div class="lic-topics">${l.topics.slice(0,3).map(t=>t.name).join(' · ')}${l.topics.length>3?' · ...':''}</div>
@@ -337,12 +338,13 @@ function renderHome(){
 function renderLic(){
   document.getElementById('lic-title').textContent=curL.title;
   document.getElementById('lic-sub').textContent=curL.topics.length+' sınav konusu · '+curL.edu+' yükseköğretim';
-  document.getElementById('topicList').innerHTML=curL.topics.map(t=>`
-    <div class="topic-row${!t.ready?' locked':''}" ${t.ready?'onclick="goTopic(''+curL.id+'',''+t.code+'')"':''}>
+  document.getElementById('topicList').innerHTML=curL.topics.map(t=>{
+    const ca=t.ready?`onclick="goTopic('${curL.id}','${t.code}')"` :'';
+    return `<div class="topic-row${!t.ready?' locked':''}" ${ca}>
       <span class="t-code">${t.code}</span>
       <span class="t-name">${t.name}</span>
       <span class="t-arr">${!t.ready?'<span style="font-size:.75rem;color:#bbb">Yakında</span>':'›'}</span>
-    </div>`).join('');
+    </div>`;}).join('');
 }
 
 function renderTopic(){
