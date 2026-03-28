@@ -363,23 +363,34 @@ function renderTopic(){
   ['t1','t2','t3','t4','t5'].forEach(tid=>renderTest(tid,cT.code));
 }
 
+function shuffle(arr){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+
 function renderTest(tid,tc){
   const panel=$$('vp-'+tid);
   const qs=C[tc]?.tests?.[tid];
   if(!qs){panel.innerHTML='<div class="soon-p"><h3>Yakında</h3></div>';return}
   const key=tc+'-'+tid,tn=tid.replace('t','');
-  TS[key]={ans:0,cor:0,done:false};
-  let h=`<div class="test-hdr"><h3>Test ${tn}</h3><p>${qs.length} soru · Takas, Saklama ve Operasyon İşlemleri</p></div>
+
+  // Soruları karıştır, her soru için şıkları da karıştır
+  const shuffled=shuffle(qs).map(q=>{
+    const indices=shuffle([0,1,2,3]);
+    const newOpts=indices.map(i=>q.o[i]);
+    const newAnswer=indices.indexOf(q.a);
+    return {...q,o:newOpts,a:newAnswer,e:q.e};
+  });
+
+  TS[key]={ans:0,cor:0,done:false,shuffled};
+  let h=`<div class="test-hdr"><h3>Test ${tn}</h3><p>${shuffled.length} soru · Takas, Saklama ve Operasyon İşlemleri</p></div>
   <div class="pg"><div class="pgf" id="pg-${key}" style="width:0%"></div></div>
   <div id="qs-${key}">`;
-  qs.forEach((q,i)=>{
-    h+=`<div class="qcard"><div class="qn">Soru ${i+1} / ${qs.length}</div><div class="qt">${q.q}</div><div class="opts" id="op-${key}-${i}">
-    ${q.o.map((o,j)=>`<div class="opt" data-qi="${i}" data-j="${j}" data-key="${key}" data-tc="${tc}" data-tid="${tid}"><span class="optl">${['A','B','C','D'][j]}</span><span>${o.replace(/^[A-D]\)\s*/,'')}</span></div>`).join('')}
+  shuffled.forEach((q,i)=>{
+    h+=`<div class="qcard"><div class="qn">Soru ${i+1} / ${shuffled.length}</div><div class="qt">${q.q}</div><div class="opts" id="op-${key}-${i}">
+    ${q.o.map((o,j)=>`<div class="opt" data-qi="${i}" data-j="${j}" data-key="${key}"><span class="optl">${['A','B','C','D'][j]}</span><span>${o.replace(/^[A-D]\)\s*/,'')}</span></div>`).join('')}
     </div><div class="ep" id="ep-${key}-${i}">${q.e}</div></div>`;
   });
   h+=`</div><div class="result" id="rs-${key}"><div class="result-ring"><div class="result-score" id="rb-${key}">0/20</div><div class="result-pct">puan</div></div><div class="result-msg" id="rm-${key}"></div><div class="result-sub" id="rsub-${key}"></div><button class="btn" data-key="${key}" data-tc="${tc}" data-tid="${tid}">Tekrar Çöz</button></div>`;
   panel.innerHTML=h;
-  panel.querySelectorAll('.opt').forEach(opt=>{opt.onclick=()=>doAns(opt.dataset.key,+opt.dataset.qi,+opt.dataset.j,opt.dataset.tc,opt.dataset.tid)});
+  panel.querySelectorAll('.opt').forEach(opt=>{opt.onclick=()=>doAns(opt.dataset.key,+opt.dataset.qi,+opt.dataset.j)});
   panel.querySelector('.btn').onclick=function(){const st=TS[this.dataset.key];gT-=st.ans;gC-=st.cor;renderTest(this.dataset.tid,this.dataset.tc)};
   const adDiv=document.createElement('div');
   adDiv.className='ad-slot ad-slot-result';
@@ -388,16 +399,16 @@ function renderTest(tid,tc){
   adDiv.style.display='none';
   panel.appendChild(adDiv);
 }
-function doAns(key,qi,ch,tc,tid){
-  const q=C[tc].tests[tid][qi];
+function doAns(key,qi,ch){
+  const q=TS[key].shuffled[qi];
   const opts=document.querySelectorAll(`#op-${key}-${qi} .opt`);
   if(opts[0]?.classList.contains('dis'))return;
   opts.forEach((o,j)=>{o.classList.add('dis');if(j===ch)o.classList.add(ch===q.a?'ok':'no');if(j===q.a&&ch!==q.a)o.classList.add('ok')});
   $$('ep-'+key+'-'+qi).classList.add('on');
   const st=TS[key];st.ans++;const ok=ch===q.a;if(ok)st.cor++;
   gT++;if(ok)gC++;
-  $$('pg-'+key).style.width=(st.ans/C[tc].tests[tid].length*100)+'%';
-  if(st.ans===C[tc].tests[tid].length&&!st.done){st.done=true;setTimeout(()=>showResult(key),600)}
+  $$('pg-'+key).style.width=(st.ans/st.shuffled.length*100)+'%';
+  if(st.ans===st.shuffled.length&&!st.done){st.done=true;setTimeout(()=>showResult(key),600)}
 }
 function showResult(key){
   $$('qs-'+key).style.display='none';
