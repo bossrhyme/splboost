@@ -259,6 +259,45 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
 .ad-slot-inline{height:80px;margin:20px 0}
 .ad-slot-result{height:100px;margin:20px 0}
 .ad-slot-sponsor{height:72px;margin:0 0 32px}
+
+/* ── ANALYTICS ── */
+.analytics-bar{width:100%;background:var(--bg2);border:1px solid var(--bdr);border-radius:var(--radius-lg);display:flex;overflow:hidden;box-shadow:var(--shadow);margin-bottom:28px}
+.ab-cell{flex:1;padding:14px 18px;display:flex;flex-direction:column;gap:4px;border-right:1px solid var(--bdr)}
+.ab-cell:last-child{border-right:none}
+.ab-icon{width:28px;height:28px;border-radius:8px;display:flex;align-items:center;justify-content:center;margin-bottom:6px}
+.ab-n{font-family:var(--mono);font-size:1.35rem;font-weight:500;color:var(--fg);letter-spacing:-.02em}
+.ab-label{font-size:.75rem;color:var(--fg3)}
+.ab-delta{font-size:.68rem;font-family:var(--mono);color:var(--green);display:flex;align-items:center;gap:3px;margin-top:1px}
+.resume-chip{display:inline-flex;align-items:center;gap:8px;background:var(--accent-bg);border:1px solid var(--bdr2);border-radius:20px;padding:6px 14px;font-size:.8rem;color:var(--accent);cursor:pointer;margin-top:14px;transition:all .15s}
+.resume-chip:hover{background:var(--bdr2)}
+.resume-chip-dot{width:7px;height:7px;border-radius:50%;background:var(--accent);animation:rp 2s ease-in-out infinite}
+@keyframes rp{0%,100%{opacity:1}50%{opacity:.35}}
+.topic-stats-bar{background:var(--bg2);border:1px solid var(--bdr);border-radius:var(--radius);padding:10px 16px;display:flex;align-items:center;flex-wrap:wrap;gap:0;margin-bottom:18px;box-shadow:var(--shadow)}
+.tsb-item{display:flex;align-items:center;gap:6px;font-size:.8rem;color:var(--fg2);padding:0 14px;border-right:1px solid var(--bdr)}
+.tsb-item:first-child{padding-left:0}
+.tsb-item:last-child{border-right:none}
+.tsb-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
+.tsb-num{font-family:var(--mono);font-weight:500;color:var(--fg);margin:0 2px}
+.acc-views{font-family:var(--mono);font-size:.68rem;color:var(--fg3);background:var(--bg3);border:1px solid var(--bdr);padding:2px 7px;border-radius:20px;margin-left:auto;flex-shrink:0;white-space:nowrap}
+.test-history-card{background:var(--bg2);border:1px solid var(--bdr);border-radius:var(--radius);padding:11px 16px;display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;box-shadow:var(--shadow);margin-bottom:14px}
+.th-label{font-size:.72rem;color:var(--fg3);font-family:var(--mono)}
+.th-scores{display:flex;gap:5px;align-items:center;flex-wrap:wrap}
+.th-score{font-family:var(--mono);font-size:.73rem;padding:3px 8px;border-radius:5px;border:1px solid var(--bdr);background:var(--bg3);color:var(--fg2)}
+.th-score.good{background:var(--green-bg);border-color:var(--green-bdr);color:var(--green)}
+.th-score.mid{background:#fffbeb;border-color:#fde68a;color:#b45309}
+.th-reset{font-size:.7rem;color:var(--fg3);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+.th-reset:hover{color:var(--accent)}
+/* ── COOKIE BANNER ── */
+.cookie-banner{position:fixed;bottom:0;left:0;right:0;z-index:9999;background:var(--fg);border-top:1px solid #2a2050;padding:16px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;transform:translateY(110%);transition:transform .35s cubic-bezier(.4,0,.2,1)}
+.cookie-banner.show{transform:translateY(0)}
+.cb-text{font-size:.82rem;color:#ccc;flex:1;min-width:200px;line-height:1.55}
+.cb-text a{color:var(--accent2);text-decoration:none}
+.cb-text a:hover{text-decoration:underline}
+.cb-btns{display:flex;gap:8px;flex-shrink:0}
+.cb-accept{background:var(--accent);color:#fff;border:none;padding:8px 18px;border-radius:var(--radius);font-family:var(--font);font-size:.82rem;font-weight:600;cursor:pointer;transition:background .15s}
+.cb-accept:hover{background:var(--accent2)}
+.cb-decline{background:transparent;color:#888;border:1px solid #444;padding:8px 14px;border-radius:var(--radius);font-family:var(--font);font-size:.82rem;cursor:pointer;transition:all .15s}
+.cb-decline:hover{border-color:#666;color:#bbb}
 </style>
 </head>
 <body>
@@ -279,6 +318,39 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
       <div style="display:flex;justify-content:center"><div class="hero-stats" id="heroStats"></div></div>
     </div>
     <div class="hero-divider"></div>
+    <div class="analytics-bar" id="analyticsBar">
+      <div class="ab-cell">
+        <div class="ab-icon" style="background:var(--accent-bg)">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+        </div>
+        <div class="ab-n" id="abVisitors">—</div>
+        <div class="ab-label">Tekil ziyaretçi</div>
+        <div class="ab-delta">↑ toplam oturum</div>
+      </div>
+      <div class="ab-cell">
+        <div class="ab-icon" style="background:var(--green-bg)">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--green)" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12c0 5-4 9-9 9s-9-4-9-9 4-9 9-9c1.5 0 2.9.4 4.1 1"/></svg>
+        </div>
+        <div class="ab-n" id="abSummaries">—</div>
+        <div class="ab-label">Özet görüntüleme</div>
+        <div class="ab-delta">↑ akordeon açılışı</div>
+      </div>
+      <div class="ab-cell">
+        <div class="ab-icon" style="background:#fef3c7">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#d97706" stroke-width="2"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
+        </div>
+        <div class="ab-n" id="abTests">—</div>
+        <div class="ab-label">Test çözme</div>
+        <div class="ab-delta" style="color:#d97706">↑ tamamlanan test</div>
+      </div>
+    </div>
+    <div id="resumeWrap" style="display:none;text-align:center;margin-bottom:20px">
+      <div class="resume-chip" id="resumeChip" onclick="handleResume()">
+        <span class="resume-chip-dot"></span>
+        <span id="resumeText">Kaldığın yerden devam et</span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+      </div>
+    </div>
     <div class="ad-slot ad-slot-hero">Reklam · 728×90</div>
     <div class="sec-label">Lisans Türü Seç</div>
     <div class="lic-grid" id="licGrid"></div>
@@ -292,6 +364,11 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
   </div>
   <div class="screen" id="sc-topic">
     <div class="topic-hdr"><h3 id="topicTitle"></h3><p id="topicSub"></p></div>
+    <div class="topic-stats-bar" id="topicStatsBar" style="display:none">
+      <div class="tsb-item"><div class="tsb-dot" style="background:var(--accent)"></div>Bu konuyu <span class="tsb-num" id="tsbReads">0</span> kez okudu</div>
+      <div class="tsb-item"><div class="tsb-dot" style="background:var(--green)"></div>Testler <span class="tsb-num" id="tsbTests">0</span> kez çözüldü</div>
+      <div class="tsb-item"><div class="tsb-dot" style="background:#d97706"></div>Ort. başarı <span class="tsb-num" id="tsbAvg">—</span></div>
+    </div>
     <div class="vtabs" id="vtabs"></div>
     <div id="vpanels"></div>
     <div class="ad-slot ad-slot-sponsor" style="margin-top:48px">Sponsorlar · Logo Bandı</div>
@@ -344,6 +421,7 @@ function renderHome(){
     </div>`;
   }).join('');
   $$('licGrid').querySelectorAll('.lic-card:not(.locked)').forEach(el=>{el.onclick=()=>goL(el.dataset.lid)});
+  refreshGlobalStats();
 }
 
 function renderLic(){
@@ -370,7 +448,7 @@ function renderTopic(){
   panels.innerHTML=td.map((t,i)=>`<div class="vpanel${i===0?' on':''}" id="vp-${t.id}"></div>`).join('');
   tabs.querySelectorAll('.vtab').forEach(btn=>{btn.onclick=()=>{tabs.querySelectorAll('.vtab').forEach(b=>b.classList.remove('on'));panels.querySelectorAll('.vpanel').forEach(p=>p.classList.remove('on'));btn.classList.add('on');$$('vp-'+btn.dataset.vid).classList.add('on')}});
   $$('vp-ozet').innerHTML=con.summary.map((s,i)=>{
-    const acc=`<div class="acc"><div class="ach" onclick="this.closest('.acc').classList.toggle('op')"><div class="ach-l"><span class="ach-num">${s.num}</span><h3>${s.title}</h3></div><span class="ach-arr">▾</span></div><div class="acb">${s.body}</div></div>`;
+    const acc=`<div class="acc"><div class="ach" onclick="this.closest('.acc').classList.toggle('op');trackAccordion('${cT.code}','${s.num}')"><div class="ach-l"><span class="ach-num">${s.num}</span><h3>${s.title}</h3></div><span class="acc-views" id="avb-${cT.code}-${s.num}" style="opacity:.3">0 görüntüleme</span><span class="ach-arr">▾</span></div><div class="acb">${s.body}</div></div>`;
     const adAfter=(i===2||i===5)?`<div class="ad-slot ad-slot-inline">Reklam · Native Kart</div>`:'';
     return acc+adAfter;
   }).join('');
@@ -393,6 +471,13 @@ function renderTopic(){
       return acc+adAfter;
     }).join('');
   }
+  /* Analytics: test history card */
+  if(!document.getElementById('testHistoryCard')){
+    const thc=document.createElement('div');
+    thc.className='test-history-card';thc.id='testHistoryCard';thc.style.display='none';
+    $$('vpanels').insertBefore(thc,$$('vpanels').firstChild);
+  }
+  renderTestHistory(cT.code);
   ['t1','t2','t3','t4','t5'].forEach(tid=>renderTest(tid,cT.code));
 }
 
@@ -451,7 +536,169 @@ function showResult(key){
   $$('rm-'+key).textContent=pct>=85?'Mükemmel! 🎉':pct>=70?'İyi iş! 👏':pct>=50?'Geliştirilebilir 📖':'Daha fazla çalışma 💪';
   $$('rsub-'+key).textContent='%'+pct+' başarı';
   $$('rs-'+key).classList.add('on');
+  /* Analytics: test tamamlandı */
+  const parts=key.split('-');
+  if(parts.length>=2){const tc=parts[0],tid=parts.slice(1).join('-');trackTestComplete(tc,tid,sc);}
 }
+
+/* ══════════════════════════════════════════════════
+   SPL BOOST — ANALYTICS ENGINE v1.0
+   Tüm veriler localStorage'da. Sunucu gerektirmez.
+   Anahtarlar: spl_ prefix ile başlar.
+══════════════════════════════════════════════════ */
+
+const LS = {
+  get:(k,d=0)=>{try{return JSON.parse(localStorage.getItem('spl_'+k))??d}catch{return d}},
+  set:(k,v)=>{try{localStorage.setItem('spl_'+k,JSON.stringify(v))}catch{}},
+  inc:(k)=>{const v=LS.get(k,0);LS.set(k,v+1);return v+1},
+  del:(k)=>{try{localStorage.removeItem('spl_'+k)}catch{}}
+};
+
+/* ── Global stats refresh ── */
+function refreshGlobalStats(){
+  const vis=LS.get('visitors',1);
+  const sum=LS.get('summaries',0);
+  const tst=LS.get('tests_done',0);
+  animCount('abVisitors',vis);
+  animCount('abSummaries',sum);
+  animCount('abTests',tst);
+  /* Resume chip */
+  const last=LS.get('last',null);
+  if(last&&last.label){
+    $$('resumeWrap').style.display='block';
+    $$('resumeText').textContent='Devam et: '+last.label;
+  }
+}
+
+function animCount(id,target){
+  const el=document.getElementById(id);
+  if(!el)return;
+  const start=parseInt(el.textContent.replace(/\D/g,''))||0;
+  if(start===target){el.textContent=target.toLocaleString('tr-TR');return;}
+  let cur=start;
+  const steps=20,diff=target-start;
+  const step=Math.ceil(Math.abs(diff)/steps);
+  const timer=setInterval(()=>{
+    cur+=diff>0?step:-step;
+    if((diff>0&&cur>=target)||(diff<0&&cur<=target)){cur=target;clearInterval(timer);}
+    el.textContent=cur.toLocaleString('tr-TR');
+  },25);
+}
+
+function handleResume(){
+  const last=LS.get('last',null);
+  if(!last)return;
+  if(last.lic&&last.tc){goT(last.lic,last.tc);}
+  else if(last.lic){goL(last.lic);}
+}
+
+/* ── Topic stats refresh ── */
+function refreshTopicStats(tc){
+  const bar=document.getElementById('topicStatsBar');
+  if(!bar)return;
+  bar.style.display='flex';
+  const reads=LS.get('topic_'+tc+'_reads',0);
+  const tests=LS.get('topic_'+tc+'_tests',0);
+  const scores=LS.get('scores',{});
+  const vals=Object.entries(scores).filter(([k])=>k.startsWith(tc+'-')).map(([,v])=>v);
+  const avg=vals.length?Math.round(vals.reduce((a,b)=>a+b,0)/vals.length*5):null;
+  $$('tsbReads').textContent=reads;
+  $$('tsbTests').textContent=tests;
+  $$('tsbAvg').textContent=avg?'%'+avg:'—';
+}
+
+/* ── Accordion view tracking ── */
+function trackAccordion(tc,num){
+  LS.inc('acc_'+tc+'_'+num);
+  LS.inc('summaries');
+  LS.inc('topic_'+tc+'_reads');
+  refreshGlobalStats();
+  /* update badge */
+  const el=document.getElementById('avb-'+tc+'-'+num);
+  if(el){const c=LS.get('acc_'+tc+'_'+num,0);el.textContent=c+' görüntüleme';}
+}
+
+/* ── Test score tracking ── */
+function trackTestComplete(tc,tid,score){
+  const scores=LS.get('scores',{});
+  scores[tc+'-'+tid]=score;
+  LS.set('scores',scores);
+  LS.inc('tests_done');
+  LS.inc('topic_'+tc+'_tests');
+  refreshGlobalStats();
+  if(cT&&cT.code===tc)refreshTopicStats(tc);
+  renderTestHistory(tc);
+}
+
+/* ── Test history card ── */
+function renderTestHistory(tc){
+  const el=document.getElementById('testHistoryCard');
+  if(!el)return;
+  const scores=LS.get('scores',{});
+  const chips=[1,2,3,4,5].map(i=>{
+    const k=tc+'-t'+i,v=scores[k];
+    if(v===undefined)return `<span class="th-score">T${i}: —</span>`;
+    const cls=v>=14?'good':v>=10?'mid':'';
+    return `<span class="th-score ${cls}">T${i}: ${v}/20</span>`;
+  }).join('');
+  el.innerHTML=`<div style="display:flex;flex-direction:column;gap:2px"><div style="font-size:.82rem;font-weight:600">Geçmiş Skorların</div><div class="th-label">Bu konudaki test geçmişin</div></div>
+  <div class="th-scores">${chips}</div>
+  <span class="th-reset" onclick="resetScores('${tc}')">Sıfırla</span>`;
+  el.style.display='flex';
+}
+
+function resetScores(tc){
+  const scores=LS.get('scores',{});
+  Object.keys(scores).filter(k=>k.startsWith(tc+'-')).forEach(k=>delete scores[k]);
+  LS.set('scores',scores);
+  renderTestHistory(tc);
+  refreshTopicStats(tc);
+}
+
+/* ── Last visited tracker ── */
+function trackPageVisit(lic,tc,label){
+  LS.set('last',{lic,tc,label});
+}
+
+/* ══════════════════════════════════════════════
+   COOKIE CONSENT
+══════════════════════════════════════════════ */
+function cookieInit(){
+  const consent=localStorage.getItem('spl_consent_analytics');
+  if(consent===null){
+    /* İlk ziyaret — 3 saniye sonra göster */
+    setTimeout(()=>{
+      const b=document.getElementById('cookieBanner');
+      if(b)b.classList.add('show');
+    },3000);
+  }
+}
+
+function cookieAccept(){
+  localStorage.setItem('spl_consent_analytics','true');
+  localStorage.setItem('spl_consent_marketing','true');
+  hideBanner();
+  /* Analitik consent alındı → buraya GA/AdSense loader eklenebilir */
+}
+
+function cookieDecline(){
+  localStorage.setItem('spl_consent_analytics','false');
+  localStorage.setItem('spl_consent_marketing','false');
+  hideBanner();
+}
+
+function hideBanner(){
+  const b=document.getElementById('cookieBanner');
+  if(b)b.classList.remove('show');
+}
+
+/* ── Sayfa yüklenişinde init ── */
+window.addEventListener('load',()=>{
+  LS.inc('visitors');
+  refreshGlobalStats();
+  cookieInit();
+});
+
 renderHome();
 </script>
 
@@ -501,5 +748,15 @@ renderHome();
     <span class="footer-bottom-badge">Beta</span>
   </div>
 </footer>
+<div class="cookie-banner" id="cookieBanner">
+  <div class="cb-text">
+    SPL Boost, sınav ilerlemenizi kaydetmek için zorunlu ve deneyiminizi iyileştirmek için analitik çerezler kullanır.
+    <a href="#" onclick="return false">Gizlilik Politikası</a>
+  </div>
+  <div class="cb-btns">
+    <button class="cb-decline" onclick="cookieDecline()">Yalnızca zorunlu</button>
+    <button class="cb-accept" onclick="cookieAccept()">Tümünü kabul et</button>
+  </div>
+</div>
 </body>
 </html>
