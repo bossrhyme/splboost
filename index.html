@@ -331,11 +331,11 @@ $$('brandBtn').onclick=goHome;
 $$('backBtn').onclick=goHome;
 
 function renderHome(){
-  const totalTopics=new Set(L.flatMap(l=>l.topics.map(t=>t.code))).size;
+  const totalTopics=Object.keys(C).length;
   const totalQ=Object.values(C).reduce((s,c)=>s+Object.values(c.tests||{}).reduce((ss,qs)=>ss+qs.length,0),0);
   $$('heroStats').innerHTML=[
     [L.length,'Lisans'],
-    [totalTopics,'Konu'],
+    [totalTopics,'Ders'],
     [totalQ,'Soru']
   ].map(([n,l])=>`<div class="hero-stat"><span class="hero-stat-n">${n}</span><span class="hero-stat-l">${l}</span></div>`).join('');
   $$('licGrid').innerHTML=L.map(l=>{
