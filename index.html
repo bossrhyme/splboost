@@ -398,7 +398,7 @@ function renderTopic(){
       return acc+adAfter;
     }).join('');
   }
-  ['t1','t2','t3','t4','t5'].forEach(tid=>renderTest(tid,cT.code));
+  ['t1','t2','t3','t4','t5'].forEach(tid=>renderTest(tid,contentCode));
 }
 
 function shuffle(arr){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
@@ -418,7 +418,7 @@ function renderTest(tid,tc){
   });
 
   TS[key]={ans:0,cor:0,done:false,shuffled};
-  let h=`<div class="test-hdr"><h3>Test ${tn}</h3><p>${shuffled.length} soru · Takas, Saklama ve Operasyon İşlemleri</p></div>
+  let h=`<div class="test-hdr"><h3>Test ${tn}</h3><p>${shuffled.length} soru · ${cT.name}</p></div>
   <div class="pg"><div class="pgf" id="pg-${key}" style="width:0%"></div></div>
   <div id="qs-${key}">`;
   shuffled.forEach((q,i)=>{
