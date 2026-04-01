@@ -331,7 +331,7 @@ $$('brandBtn').onclick=goHome;
 $$('backBtn').onclick=goHome;
 
 function renderHome(){
-  const totalTopics=new Set(L.flatMap(l=>l.topics.map(t=>t.code))).size;
+  const totalTopics=new Set(L.flatMap(l=>l.topics.map(t=>ALIAS[t.code]||t.code))).size;
   const totalQ=Object.values(C).reduce((s,c)=>s+Object.values(c.tests||{}).reduce((ss,qs)=>ss+qs.length,0),0);
   $$('heroStats').innerHTML=[
     [L.length,'Lisans'],
