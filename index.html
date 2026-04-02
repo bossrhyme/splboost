@@ -371,7 +371,6 @@ function renderHome(){
     return `<div class="lic-card${l.ready?'':' locked'}" data-lid="${l.id}">
       <div class="lic-card-top">
         <div class="lic-card-title">${l.title}</div>
-        <div class="lic-badge ${l.ready?'ready':'soon'}">${l.ready?'Hazır':'Yakında'}</div>
       </div>
       <ul class="lic-topics">${l.topics.map(t=>`<li>${t.name}</li>`).join('')}</ul>
       <div class="lic-card-footer">
