@@ -145,7 +145,7 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
 .lic-topics li::before{content:'';display:block;width:3px;height:3px;border-radius:50%;background:var(--accent2);flex-shrink:0;margin-top:7px;opacity:.6}
 .lic-topics li:last-child{border-bottom:none}
 .lic-card-footer{display:flex;align-items:center;justify-content:space-between;margin-top:12px;padding-top:10px;border-top:1px solid var(--bdr)}
-.lic-card-count{font-size:.78rem;color:var(--fg3);font-family:var(--mono)}
+.lic-card-count{font-size:.78rem;color:var(--fg3);font-family:var(--mono)}.lic-card-count.all-done{color:#4ade80;font-weight:600}
 .lic-card-arrow{font-size:.8rem;color:var(--accent);opacity:0;transition:opacity .2s}
 .lic-card:not(.locked):hover .lic-card-arrow{opacity:1}
 
@@ -153,9 +153,9 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
 .back-btn{display:inline-flex;align-items:center;gap:7px;font-size:.88rem;color:var(--fg3);cursor:pointer;margin-bottom:28px;transition:color .15s;padding:6px 12px;border:1px solid var(--bdr);border-radius:var(--radius);background:var(--bg2)}
 .back-btn:hover{color:var(--accent);border-color:var(--bdr2)}
 .topic-nav{display:flex;gap:10px;margin-bottom:4px}
-.lic-hdr{margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid var(--bdr)}
-.lic-hdr h2{font-size:1.85rem;font-weight:600;letter-spacing:-.03em;margin-bottom:6px}
-.lic-hdr p{font-size:.85rem;color:var(--fg3);font-family:var(--mono)}
+.lic-hdr{margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid var(--bdr);text-align:center}
+.lic-hdr h2{font-size:1.85rem;font-weight:600;letter-spacing:-.03em;margin-bottom:6px;text-align:center}
+.lic-hdr p{font-size:.85rem;color:var(--fg3);font-family:var(--mono);text-align:center}
 .tlist{display:flex;flex-direction:column;gap:6px}
 .trow{background:var(--bg2);border:1px solid var(--bdr);border-radius:var(--radius);padding:13px 18px;display:flex;align-items:center;gap:12px;cursor:pointer;transition:all .18s;box-shadow:var(--shadow)}
 .trow:not(.locked):hover{border-color:var(--bdr2);box-shadow:var(--shadow-lg)}
@@ -375,7 +375,7 @@ function renderHome(){
       </div>
       <ul class="lic-topics">${l.topics.map(t=>`<li>${t.name}</li>`).join('')}</ul>
       <div class="lic-card-footer">
-        <span class="lic-card-count">${l.topics.length} konu${rc>0?' · '+rc+' hazır':''}</span>
+        <span class="lic-card-count${rc===l.topics.length?' all-done':''}">${rc===l.topics.length?'✓ Tüm konular hazır':l.topics.length+' konu'+(rc>0?' · '+rc+' hazır':'')}</span>
         <span class="lic-card-arrow">→</span>
       </div>
     </div>`;
@@ -385,7 +385,8 @@ function renderHome(){
 
 function renderLic(){
   $$('licTitle').textContent=cL.title;
-  $$('licSub').textContent=cL.topics.length+' konu başlığı';
+  const allReady=cL.topics.every(t=>t.ready);
+  $$('licSub').textContent=allReady?'✓ Tüm '+cL.topics.length+' konu hazır':cL.topics.length+' konu başlığı';
   $$('tlist').innerHTML=cL.topics.map(t=>{
     return `<div class="trow${t.ready?'':' locked'}" data-tc="${t.code}">
       <span class="tcode">${t.code}</span>
