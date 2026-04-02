@@ -152,6 +152,7 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
 /* ── LIC PAGE ── */
 .back-btn{display:inline-flex;align-items:center;gap:7px;font-size:.88rem;color:var(--fg3);cursor:pointer;margin-bottom:28px;transition:color .15s;padding:6px 12px;border:1px solid var(--bdr);border-radius:var(--radius);background:var(--bg2)}
 .back-btn:hover{color:var(--accent);border-color:var(--bdr2)}
+.topic-nav{display:flex;gap:10px;margin-bottom:4px}
 .lic-hdr{margin-bottom:28px;padding-bottom:24px;border-bottom:1px solid var(--bdr)}
 .lic-hdr h2{font-size:1.85rem;font-weight:600;letter-spacing:-.03em;margin-bottom:6px}
 .lic-hdr p{font-size:.85rem;color:var(--fg3);font-family:var(--mono)}
@@ -297,6 +298,10 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
     <div class="ad-slot ad-slot-sponsor" style="margin-top:48px">Sponsorlar · Logo Bandı</div>
   </div>
   <div class="screen" id="sc-topic">
+    <div class="topic-nav">
+      <button class="back-btn" id="topicBackBtn">← Lisansa Dön</button>
+      <button class="back-btn" id="topicHomeBtn">⌂ Ana Sayfa</button>
+    </div>
     <div class="topic-hdr"><h3 id="topicTitle"></h3><p id="topicSub"></p></div>
     <div class="vtabs" id="vtabs"></div>
     <div id="vpanels"></div>
@@ -335,6 +340,8 @@ function goL(id){cL=L.find(l=>l.id===id);cT=null;updBC();renderLic();showSc('lic
 function goT(lid,code){cL=L.find(l=>l.id===lid);cT=cL.topics.find(t=>t.code===code);updBC();renderTopic();showSc('topic')}
 $$('brandBtn').onclick=goHome;
 $$('backBtn').onclick=goHome;
+$$('topicBackBtn').onclick=()=>{if(cL)goL(cL.id);else goHome()};
+$$('topicHomeBtn').onclick=goHome;
 
 function renderHome(){
   const totalTopics=new Set(L.flatMap(l=>l.topics.map(t=>ALIAS[t.code]||t.code))).size;
