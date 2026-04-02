@@ -309,6 +309,7 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
   </div>
 </main>
 <script>
+window.onerror=function(msg,src,line,col,err){document.body.innerHTML='<pre style="color:red;padding:20px">HATA: '+msg+'\nSatır: '+line+'\n'+err+'</pre>';return true};
 
 /* ── İçerik alias haritası: farklı lisanslardaki aynı PDF ── */
 const ALIAS = {
