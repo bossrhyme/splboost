@@ -465,6 +465,19 @@ let cL=null,cT=null,gC=0,gT=0;
 const TS={};
 function $$(id){return document.getElementById(id)}
 function showSc(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('on'));$$('sc-'+id).classList.add('on');window.scrollTo(0,0);}
+
+function pushURL(){
+  if(cT){
+    const p=new URLSearchParams();
+    p.set('lid',cL.id);
+    p.set('topic',cT.code);
+    history.pushState({},'','?'+p.toString());
+  } else if(cL){
+    history.pushState({},'','?lid='+cL.id);
+  } else {
+    history.pushState({},'','?');
+  }
+}
 function updBC(){
   let h='';
   if(cL)h+=`<span class="sep">›</span><span class="crumb" data-lid="${cL.id}">${cL.short}</span>`;
@@ -472,9 +485,36 @@ function updBC(){
   $$('bc').innerHTML=h;
   $$('bc').querySelectorAll('[data-lid]').forEach(el=>{el.onclick=()=>goL(el.dataset.lid)});
 }
-function goHome(){cL=null;cT=null;updBC();showSc('home')}
-function goL(id){cL=L.find(l=>l.id===id);cT=null;updBC();renderLic();showSc('lic')}
-function goT(lid,code){cL=L.find(l=>l.id===lid);cT=cL.topics.find(t=>t.code===code);updBC();renderTopic();showSc('topic')}
+function goHome(){cL=null;cT=null;updBC();showSc('home');history.pushState({},'','?');}
+function goL(id){cL=L.find(l=>l.id===id);cT=null;updBC();renderLic();showSc('lic');pushURL();}
+function goT(lid,code){cL=L.find(l=>l.id===lid);cT=cL.topics.find(t=>t.code===code);updBC();renderTopic();showSc('topic');pushURL();}
+// URL'den başlangıç state'ini yükle
+(function initFromURL(){
+  const p=new URLSearchParams(location.search);
+  const lid=p.get('lid'), topicCode=p.get('topic');
+  if(topicCode){
+    // Önce lisansı bul
+    let foundL = lid ? L.find(l=>l.id===lid) : null;
+    if(!foundL){
+      // ALIAS veya direkt code üzerinden tüm lisanslarda ara
+      const resolvedCode = ALIAS[topicCode]||topicCode;
+      foundL = L.find(l=>l.topics.some(t=>(ALIAS[t.code]||t.code)===resolvedCode || t.code===topicCode));
+    }
+    if(foundL){
+      const topicObj = foundL.topics.find(t=>t.code===topicCode) ||
+                       foundL.topics.find(t=>(ALIAS[t.code]||t.code)===(ALIAS[topicCode]||topicCode));
+      if(topicObj && topicObj.ready){
+        cL=foundL; cT=topicObj; updBC(); renderTopic(); showSc('topic'); return;
+      }
+    }
+  }
+  if(lid){
+    const foundL2=L.find(l=>l.id===lid);
+    if(foundL2 && foundL2.ready){cL=foundL2;cT=null;updBC();renderLic();showSc('lic');return;}
+  }
+  goHome();
+})();
+
 $$('brandBtn').onclick=goHome;
 $$('backBtn').onclick=goHome;
 $$('topicBackBtn').onclick=()=>{if(cL)goL(cL.id);else goHome()};
