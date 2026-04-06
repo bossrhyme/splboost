@@ -381,12 +381,12 @@ main{max-width:900px;margin:0 auto;padding:36px 20px 80px}
 </head>
 <body>
 <nav class="nav">
-  <div class="nav-logo" id="brandBtn">
+  <a class="nav-logo" id="brandBtn" href="?" style="text-decoration:none">
     <div class="nav-logo-mark">
       <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M3 10L7 4L11 10" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
     </div>
     <span class="nav-logo-text">SPL Boost</span>
-  </div>
+  </a>
   <div class="nav-bc" id="bc"></div>
 </nav>
 <main>
@@ -515,7 +515,7 @@ function goT(lid,code){cL=L.find(l=>l.id===lid);cT=cL.topics.find(t=>t.code===co
   goHome();
 })();
 
-$$('brandBtn').onclick=goHome;
+$$('brandBtn').onclick=function(e){e.preventDefault();goHome();};
 $$('backBtn').onclick=goHome;
 $$('topicBackBtn').onclick=()=>{if(cL)goL(cL.id);else goHome()};
 $$('topicHomeBtn').onclick=goHome;
