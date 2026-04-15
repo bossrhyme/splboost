@@ -605,7 +605,8 @@ function renderTopic(){
   const con=C[contentCode];
   const tabs=$$('vtabs'),panels=$$('vpanels');
   if(!con){tabs.innerHTML='';panels.innerHTML='<div class="soon-p"><h3>Hazırlanıyor</h3><p>İçerik yakında eklenecektir.</p></div>';return}
-  const td=[{id:'ozet',label:'📚 Konu Özeti'},{id:'ozet-gen',label:'📖 Genişletilmiş Özet'},{id:'t1',label:'Test 1'},{id:'t2',label:'Test 2'},{id:'t3',label:'Test 3'},{id:'t4',label:'Test 4'},{id:'t5',label:'Test 5'}];
+  const availTests=['t1','t2','t3','t4','t5'].filter(tid=>con?.tests?.[tid]);
+  const td=[{id:'ozet',label:'📚 Konu Özeti'},{id:'ozet-gen',label:'📖 Genişletilmiş Özet'},...availTests.map((tid,i)=>({id:tid,label:'Test '+(i+1)}))];
   tabs.innerHTML=td.map((t,i)=>`<button class="vtab${i===0?' on':''}" data-vid="${t.id}">${t.label}</button>`).join('');
   panels.innerHTML=td.map((t,i)=>`<div class="vpanel${i===0?' on':''}" id="vp-${t.id}"></div>`).join('');
   tabs.querySelectorAll('.vtab').forEach(btn=>{btn.onclick=()=>{tabs.querySelectorAll('.vtab').forEach(b=>b.classList.remove('on'));panels.querySelectorAll('.vpanel').forEach(p=>p.classList.remove('on'));btn.classList.add('on');$$('vp-'+btn.dataset.vid).classList.add('on')}});
@@ -633,7 +634,7 @@ function renderTopic(){
       return acc+adAfter;
     }).join('');
   }
-  ['t1','t2','t3','t4','t5'].forEach(tid=>renderTest(tid,contentCode));
+  availTests.forEach(tid=>renderTest(tid,contentCode));
 }
 
 function shuffle(arr){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
