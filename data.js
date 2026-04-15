@@ -33532,6 +33532,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_SIKT": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "Artırılmış Müşteri Kimlik Tespiti (EDD)",
+        "body": "<ul><li>EDD (Enhanced Due Diligence), yüksek riskli müşteri ve işlemler için standart KYC'nin ötesinde uygulanan kapsamlı doğrulama sürecidir.</li><li>Fon kaynağının ve servetin kaynağının belgelenmesi zorunludur.</li><li>Üst yönetim onayı ile izleme sıklığının artırılması EDD'nin temel unsurlarıdır.</li><li>FATF 19. Tavsiye EDD yükümlülüklerini düzenler.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "PEP (Siyasi Açıdan Maruz Kalmış Kişiler)",
+        "body": "<ul><li>PEP; devlet başkanı, bakan, milletvekili, yargıç, üst düzey kamu görevlisi gibi siyasi nüfuza sahip kişilerdir.</li><li>PEP'ler kamu kaynaklarına ve kararlarına yakınlıkları nedeniyle rüşvet ve yolsuzluk riski taşır.</li><li>Yurt içi ve yabancı PEP'ler, uluslararası kuruluş yöneticileri bu kapsamda değerlendirilir.</li><li>PEP statüsünün sona ermesi yükümlülükleri hemen kaldırmaz; risk bazlı süre uygulanır.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "PEP'lere Uygulanacak Tedbirler",
+        "body": "<ul><li>PEP müşterilerle iş ilişkisi kurulmadan önce üst yönetim onayı alınmalıdır.</li><li>Fon kaynağı ve servetin kaynağı araştırılıp belgelenmelidir.</li><li>İzleme sıklığı ve derinliği artırılmalıdır.</li><li>İş ilişkisi devam ettiği sürece PEP statüsü ve risk profili periyodik güncellenir.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "PEP ile İlişkili Kişiler",
+        "body": "<ul><li>PEP'lerin aile üyeleri (eş, çocuk, ebeveyn) ve yakın iş ortakları da artırılmış tedbire tabidir.</li><li>Bu kişiler doğrudan PEP olmasa da PEP'e yakınlıkları nedeniyle yüksek risk taşır.</li><li>FATF, PEP ile bağlantılı kişilere de EDD uygulanmasını tavsiye eder.</li><li>Yakın iş ortağı kavramı; ortak iş kurulan veya çıkar ilişkisi bulunan kişileri kapsar.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "EDD Gerektiren Diğer Durumlar",
+        "body": "<ul><li>Yüksek riskli ülkelerle ilgili işlemler EDD gerektirir.</li><li>Karmaşık, alışılmadık yüksek tutarlı ve açıklanamayan işlemler EDD kapsamındadır.</li><li>Tröst, offshore yapı ve anonim şirketlerle ilişkili işlemler artırılmış tedbir gerektirir.</li><li>Yeni teknolojiler ve anonim işlem kanallarının kullanımı da EDD tetikleyicisi olabilir.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "EDD (Enhanced Due Diligence) ne anlama gelir?",
+          "o": [
+            "A) Basitleştirilmiş müşteri kimlik tespiti",
+            "B) Artırılmış müşteri kimlik tespiti",
+            "C) Standart müşteri kimlik tespiti",
+            "D) Periyodik müşteri güncellemesi"
+          ],
+          "a": 1,
+          "e": "EDD, yüksek riskli müşteri ve işlemler için standart KYC'nin ötesinde uygulanan kapsamlı doğrulama sürecidir."
+        },
+        {
+          "q": "PEP kısaltması ne anlama gelir?",
+          "o": [
+            "A) Periyodik Etkinlik Planlaması",
+            "B) Siyasi Açıdan Maruz Kalmış Kişi",
+            "C) Portföy Değerlendirme Programı",
+            "D) Piyasa Erişim Protokolü"
+          ],
+          "a": 1,
+          "e": "PEP; Politically Exposed Person, yani Siyasi Açıdan Maruz Kalmış Kişi anlamına gelir."
+        },
+        {
+          "q": "PEP'ler neden yüksek risk taşır?",
+          "o": [
+            "A) Yüksek gelir düzeyleri nedeniyle",
+            "B) Kamu kaynaklarına ve kararlarına yakınlıkları nedeniyle rüşvet ve yolsuzluk riski taşırlar",
+            "C) Çok sayıda hesap açtıkları için",
+            "D) Uluslararası seyahat ettikleri için"
+          ],
+          "a": 1,
+          "e": "PEP'ler kamu kaynakları ve kararlarına yakınlıkları nedeniyle rüşvet ve yolsuzluk riski taşır."
+        },
+        {
+          "q": "PEP ile iş ilişkisi kurulmadan önce ne gereklidir?",
+          "o": [
+            "A) Müşterinin onayı",
+            "B) Üst yönetim onayı",
+            "C) Yalnızca uyum görevlisi onayı",
+            "D) MASAK'ın izni"
+          ],
+          "a": 1,
+          "e": "PEP müşterilerle iş ilişkisi kurulmadan önce üst yönetim onayı alınması zorunludur."
+        },
+        {
+          "q": "FATF'ın EDD yükümlülüklerini düzenleyen tavsiyesi hangisidir?",
+          "o": [
+            "A) 10. Tavsiye",
+            "B) 13. Tavsiye",
+            "C) 16. Tavsiye",
+            "D) 19. Tavsiye"
+          ],
+          "a": 3,
+          "e": "FATF'ın 19. Tavsiyesi EDD yükümlülüklerini ve PEP'lere uygulanacak tedbirleri düzenler."
+        },
+        {
+          "q": "PEP'lerin aile üyeleri EDD kapsamında mıdır?",
+          "o": [
+            "A) Hayır, yalnızca PEP'in kendisi EDD'ye tabidir",
+            "B) Evet, eş, çocuk ve ebeveyn gibi aile üyeleri de EDD'ye tabidir",
+            "C) Yalnızca eşleri EDD'ye tabidir",
+            "D) Yalnızca reşit olmayan çocukları EDD'ye tabidir"
+          ],
+          "a": 1,
+          "e": "PEP'lerin aile üyeleri (eş, çocuk, ebeveyn) doğrudan PEP olmasa da PEP'e yakınlıkları nedeniyle EDD kapsamındadır."
+        },
+        {
+          "q": "EDD kapsamında fon kaynağının belgelenmesinin amacı nedir?",
+          "o": [
+            "A) Müşterinin vergi durumunu kontrol etmek",
+            "B) Fonların meşru bir kaynaktan geldiğini doğrulamak",
+            "C) Müşteriye kredi limiti belirlemek",
+            "D) Müşterinin harcama alışkanlıklarını takip etmek"
+          ],
+          "a": 1,
+          "e": "Fon kaynağının belgelenmesi, transfer edilen fonların meşru bir kaynaktan geldiğini doğrulamak amacıyla yapılır."
+        },
+        {
+          "q": "PEP statüsünün sona ermesi yükümlülükleri hemen kaldırır mı?",
+          "o": [
+            "A) Evet, statü sona erince yükümlülükler derhal kalkar",
+            "B) Hayır, risk bazlı bir süre boyunca yükümlülükler devam eder",
+            "C) Yalnızca 1 yıl sonra kaldırılır",
+            "D) Yükümlülükler hiçbir zaman kalkmaz"
+          ],
+          "a": 1,
+          "e": "PEP statüsünün sona ermesi yükümlülükleri hemen kaldırmaz; risk bazlı değerlendirme sonucunda belirlenen bir süre boyunca izleme devam eder."
+        },
+        {
+          "q": "Yakın iş ortağı kavramı kimleri kapsar?",
+          "o": [
+            "A) Yalnızca PEP'in iş arkadaşlarını",
+            "B) PEP ile ortak iş kurulan veya çıkar ilişkisi bulunan kişileri",
+            "C) Yalnızca PEP'in çalışanlarını",
+            "D) Yalnızca PEP'in müşterilerini"
+          ],
+          "a": 1,
+          "e": "Yakın iş ortağı, PEP ile ortak iş kurulan veya çıkar ilişkisi bulunan kişileri kapsar."
+        },
+        {
+          "q": "Aşağıdakilerden hangisi EDD gerektiren bir durum değildir?",
+          "o": [
+            "A) Yüksek riskli ülkelerle işlemler",
+            "B) PEP müşteri",
+            "C) Düşük limitli tasarruf hesabı açılışı",
+            "D) Karmaşık ve açıklanamayan yüksek tutarlı işlemler"
+          ],
+          "a": 2,
+          "e": "Düşük limitli tasarruf hesabı açılışı düşük riskli kabul edilebilir; EDD değil SDD uygulanabilir."
+        },
+        {
+          "q": "EDD'de servetin kaynağı neden belgelenir?",
+          "o": [
+            "A) Müşteriye özel kampanya sunmak için",
+            "B) Müşterinin sahip olduğu varlıkların meşruiyetini doğrulamak için",
+            "C) Müşteriye kredi faizi belirlemek için",
+            "D) Vergi avantajı sağlamak için"
+          ],
+          "a": 1,
+          "e": "Servetin kaynağının belgelenmesi, müşterinin sahip olduğu varlıkların meşru yollarla edinildiğini doğrulamak amacıyla yapılır."
+        },
+        {
+          "q": "Yurt içi PEP'ler EDD kapsamına girer mi?",
+          "o": [
+            "A) Hayır, yalnızca yabancı PEP'ler EDD'ye tabidir",
+            "B) Evet, yurt içi ve yabancı PEP'lerin her ikisi de EDD kapsamındadır",
+            "C) Yalnızca siyasi parti üyeleri",
+            "D) Yalnızca emekli kamu görevlileri"
+          ],
+          "a": 1,
+          "e": "Hem yurt içi hem de yabancı PEP'ler ile uluslararası kuruluş yöneticileri EDD kapsamındadır."
+        },
+        {
+          "q": "Offshore yapılarla ilişkili işlemlerde hangi tedbir uygulanır?",
+          "o": [
+            "A) Basitleştirilmiş tedbir",
+            "B) Artırılmış tedbir (EDD)",
+            "C) Standart KYC",
+            "D) Hiçbir ek tedbir gerekmez"
+          ],
+          "a": 1,
+          "e": "Tröst, offshore yapı ve anonim şirketlerle ilişkili işlemler artırılmış müşteri kimlik tespiti (EDD) gerektirir."
+        },
+        {
+          "q": "EDD'de izleme sıklığı nasıl değişir?",
+          "o": [
+            "A) İzleme sıklığı azalır",
+            "B) İzleme sıklığı artar",
+            "C) İzleme sıklığı değişmez",
+            "D) İzleme tamamen kaldırılır"
+          ],
+          "a": 1,
+          "e": "EDD kapsamındaki müşterilerde izleme sıklığı ve derinliği artırılır."
+        },
+        {
+          "q": "Yeni teknolojiler ve anonim işlem kanalları EDD açısından nasıl değerlendirilir?",
+          "o": [
+            "A) Düşük riskli kabul edilir",
+            "B) EDD tetikleyicisi olabilir",
+            "C) SDD uygulanabilir",
+            "D) Hiçbir risk taşımaz"
+          ],
+          "a": 1,
+          "e": "Yeni teknolojiler ve anonim işlem kanallarının kullanımı EDD gerektirebilecek risk faktörleri arasında sayılır."
+        },
+        {
+          "q": "EDD kapsamındaki PEP'lerin risk profili ne sıklıkla güncellenir?",
+          "o": [
+            "A) Hiçbir zaman güncellenmez",
+            "B) Periyodik olarak güncellenir",
+            "C) Yalnızca 10 yılda bir",
+            "D) Yalnızca müşteri talep ettiğinde"
+          ],
+          "a": 1,
+          "e": "PEP müşterilerin risk profili ve PEP statüsü iş ilişkisi süresince periyodik olarak güncellenir."
+        },
+        {
+          "q": "Milletvekili PEP kapsamında mıdır?",
+          "o": [
+            "A) Hayır",
+            "B) Evet",
+            "C) Yalnızca bakan olanlar",
+            "D) Yalnızca parti başkanları"
+          ],
+          "a": 1,
+          "e": "Milletvekilleri siyasi nüfuza sahip kişiler olarak PEP kapsamında değerlendirilir."
+        },
+        {
+          "q": "EDD gerektiren karmaşık işlemlerde yükümlünün temel yükümlülüğü nedir?",
+          "o": [
+            "A) İşlemi otomatik reddetmek",
+            "B) İşlemin arka planını araştırıp belgelemek ve gerekirse ŞİB yapmak",
+            "C) MASAK'tan izin almak",
+            "D) Müşteriyi bilgilendirmek"
+          ],
+          "a": 1,
+          "e": "Karmaşık ve açıklanamayan işlemlerde yükümlü arka planı araştırıp belgelemek ve gerekirse ŞİB yapmak zorundadır."
+        },
+        {
+          "q": "EDD kapsamında üst yönetim onayının amacı nedir?",
+          "o": [
+            "A) Yüksek riskli ilişkilerin yönetim düzeyinde onaylanarak hesap verebilirliğin sağlanması",
+            "B) Yalnızca iç denetim kaydı oluşturmak",
+            "C) Müşteriye özel kredi koşulları belirlemek",
+            "D) MASAK ile iletişim kurmak"
+          ],
+          "a": 0,
+          "e": "Üst yönetim onayı, yüksek riskli ilişkilerin yönetim düzeyinde onaylanmasını ve hesap verebilirliği sağlamak amacıyla zorunludur."
+        },
+        {
+          "q": "Uluslararası kuruluş yöneticileri PEP kapsamında mıdır?",
+          "o": [
+            "A) Hayır",
+            "B) Evet",
+            "C) Yalnızca BM çalışanları",
+            "D) Yalnızca IMF yöneticileri"
+          ],
+          "a": 1,
+          "e": "Uluslararası kuruluş yöneticileri de PEP kapsamında değerlendirilir."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -36733,6 +36986,50 @@ window.__EXT = {
         {
           "heading": "Dikkat Gereken Hususlar",
           "content": "<p>SDD kararı <strong>gerekçesiyle birlikte belgelenmelidir.</strong> Şüphe belirdiğinde standart KYC veya EDD'ye geçilmelidir. SDD uygulanan müşteri kategorileri yazılı politikalarda açıkça tanımlanmalıdır. FATF, risk düşük olduğunda SDD'ye olanak tanır ancak standart dışı uygulamalara izin vermez.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_SIKT": [
+    {
+      "num": "01",
+      "title": "EDD ve PEP Kavramları",
+      "sections": [
+        {
+          "heading": "Artırılmış Müşteri Kimlik Tespiti (EDD)",
+          "content": "<p><strong>EDD (Enhanced Due Diligence)</strong>, yüksek riskli müşteri ve işlemler için standart KYC'nin ötesinde uygulanan kapsamlı doğrulama sürecidir. Temel unsurları: <strong>üst yönetim onayı, fon kaynağı ve servet kaynağının belgelenmesi, artırılmış izleme.</strong> FATF 19. Tavsiye EDD yükümlülüklerini düzenler.</p>"
+        },
+        {
+          "heading": "PEP Tanımı ve Kapsamı",
+          "content": "<p><strong>PEP (Politically Exposed Person — Siyasi Açıdan Maruz Kalmış Kişi)</strong>; devlet başkanı, bakan, milletvekili, yargıç ve üst düzey kamu görevlileri gibi siyasi nüfuza sahip kişilerdir. Yurt içi PEP, yabancı PEP ve uluslararası kuruluş yöneticilerinin tamamı bu kapsama girer. PEP statüsünün sona ermesi yükümlülükleri hemen kaldırmaz.</p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "PEP ve İlişkili Kişilere Uygulanacak Tedbirler",
+      "sections": [
+        {
+          "heading": "PEP'lere Tedbirler",
+          "content": "<p>(1) İş ilişkisi öncesi <strong>üst yönetim onayı.</strong> (2) Fon ve servet kaynağının belgelenmesi. (3) Artırılmış izleme. (4) Periyodik risk profili güncellemesi.</p>"
+        },
+        {
+          "heading": "İlişkili Kişiler",
+          "content": "<p>PEP'lerin <strong>aile üyeleri</strong> (eş, çocuk, ebeveyn) ve <strong>yakın iş ortakları</strong> da EDD kapsamındadır. Doğrudan PEP olmayan bu kişiler, PEP'e yakınlıkları nedeniyle yüksek risk taşır.</p>"
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "title": "EDD Gerektiren Diğer Durumlar",
+      "sections": [
+        {
+          "heading": "Tetikleyici Faktörler",
+          "content": "<p>EDD gerektiren diğer durumlar: <strong>yüksek riskli ülkelerle işlemler, karmaşık ve açıklanamayan yüksek tutarlı işlemler, tröst/offshore/anonim yapılar, yeni teknolojiler ve anonim işlem kanalları.</strong></p>"
+        },
+        {
+          "heading": "EDD Süreci",
+          "content": "<p>EDD kapsamında işlemin arka planı araştırılıp belgelenir; gerektiğinde ŞİB yapılır. Tüm kararlar ve gerekçeler kayıt altına alınmalıdır.</p>"
         }
       ]
     }
