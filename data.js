@@ -34038,6 +34038,1120 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_M2_KARMA": {
+    "tests": {
+      "t1": [
+        {
+          "q": "Uyum birimi kurma zorunluluğunun birincil hukuki kaynağı hangisidir?",
+          "o": [
+            "A) 5549 sayılı Kanun ve Tedbirler Yönetmeliği",
+            "B) Vergi Usul Kanunu",
+            "C) Türk Ticaret Kanunu",
+            "D) İş Kanunu"
+          ],
+          "a": 0,
+          "e": "Uyum birimi kurma yükümlülüğü 5549 sayılı Kanun ve Tedbirler Yönetmeliği'ne dayanmaktadır."
+        },
+        {
+          "q": "Uyum birimi hangi risk kategorileriyle öncelikli olarak ilgilenir?",
+          "o": [
+            "A) Piyasa riski ve kur riski",
+            "B) Faiz oranı riski",
+            "C) Likidite riski",
+            "D) SGA, TF ve KİSYF riskleri"
+          ],
+          "a": 3,
+          "e": "Uyum birimi öncelikli olarak SGA, TF ve KİSYF riskleriyle ilgilenir."
+        },
+        {
+          "q": "Aşağıdakilerden hangisi uyum biriminin birincil çıktısı değildir?",
+          "o": [
+            "A) Şüpheli işlem bildirimleri",
+            "B) Yıllık kâr-zarar raporu",
+            "C) Uyum iç raporları",
+            "D) Risk değerlendirme raporları"
+          ],
+          "a": 1,
+          "e": "Yıllık kâr-zarar raporu muhasebe çıktısıdır; uyum biriminin çıktıları ŞİB, uyum raporları ve risk değerlendirmeleridir."
+        },
+        {
+          "q": "Uyum biriminin SGA/TF dışında ayrıca uyum sağlaması gereken alan nedir?",
+          "o": [
+            "A) Çevre standartları",
+            "B) İş sağlığı ve güvenliği",
+            "C) KİSYF (Kitle İmha Silahlarının Yayılmasının Finansmanı)",
+            "D) Tüketici haklarının korunması"
+          ],
+          "a": 2,
+          "e": "Uyum birimi SGA ve TF'nin yanı sıra KİSYF alanında da uyum yükümlülüklerini yerine getirmekten sorumludur."
+        },
+        {
+          "q": "Uyum görevlisi kurumda hangi statüde yer alır?",
+          "o": [
+            "A) Orta kademe yönetici",
+            "B) Üst düzey yönetici statüsünde, doğrudan üst yönetime raporlayan görevli",
+            "C) Operasyon birimine bağlı uzman",
+            "D) Sadece danışman sıfatıyla görev yapan kişi"
+          ],
+          "a": 1,
+          "e": "Uyum görevlisi üst düzey yönetici statüsündedir ve doğrudan genel müdür veya yönetim kuruluna raporlar."
+        },
+        {
+          "q": "Çıkar çatışması yasağı kapsamında uyum görevlisi hangi görevleri üstlenemez?",
+          "o": [
+            "A) Üst yönetime rapor sunmak",
+            "B) İç denetimle koordinasyon yapmak",
+            "C) Satış, pazarlama veya iş geliştirme gibi gelir getirici ticari görevler",
+            "D) Personel eğitimi organize etmek"
+          ],
+          "a": 2,
+          "e": "Uyum görevlisi, gelir getirici ticari görevler üstlenemez; aksi hâlde bağımsızlık ilkesi ihlal edilir."
+        },
+        {
+          "q": "Uyum görevlisi ŞİB sürecinde hangi rolü üstlenir?",
+          "o": [
+            "A) ŞİB bildirimini müşteriye iletir",
+            "B) ŞİB'lerin değerlendirilmesi, hazırlanması ve MASAK'a iletilmesini koordine eder",
+            "C) ŞİB için mahkeme kararı alır",
+            "D) ŞİB konusu işlemi derhal iptal eder"
+          ],
+          "a": 1,
+          "e": "Uyum görevlisi ŞİB'lerin doğru değerlendirilmesini, hazırlanmasını ve MASAK'a zamanında iletilmesini koordine eder."
+        },
+        {
+          "q": "Uyum görevlisinin uyum programına katkısı nasıl tanımlanır?",
+          "o": [
+            "A) Programı yalnızca onaylar",
+            "B) Programı oluşturur, yönetir, günceller ve etkinliğini izler",
+            "C) Programı yalnızca personele dağıtır",
+            "D) Programı sadece dış denetimde kullanır"
+          ],
+          "a": 1,
+          "e": "Uyum görevlisi uyum programını oluşturmak, uygulamak, güncellemek ve etkinliğini izlemekten sorumludur."
+        },
+        {
+          "q": "Uyum görevlisi lisanslama sınavını Türkiye'de hangi kurum düzenlemektedir?",
+          "o": [
+            "A) MASAK",
+            "B) BDDK",
+            "C) SPK (Sermaye Piyasası Kurulu)",
+            "D) Hazine ve Maliye Bakanlığı"
+          ],
+          "a": 2,
+          "e": "Uyum Görevlisi Yetkilendirme Sınavı, SPK (Sermaye Piyasası Kurulu) bünyesinde düzenlenmektedir."
+        },
+        {
+          "q": "SPK lisanslı sermaye piyasası kuruluşlarında uyum görevlisinin lisans sahibi olma zorunluluğu neden önemlidir?",
+          "o": [
+            "A) Kârlılığı artırmak için",
+            "B) Uyum görevlisinin yeterliliğini ve profesyonelliğini güvence altına almak için",
+            "C) Vergi avantajı sağlamak için",
+            "D) Rakip kurumlardan üstünlük elde etmek için"
+          ],
+          "a": 1,
+          "e": "Lisanslama zorunluluğu, uyum görevlilerinin gerekli bilgi ve beceri düzeyine sahip olmasını güvence altına alır."
+        },
+        {
+          "q": "Lisans kişiye özgü olup başkasına devredilemez ifadesi ne anlama gelir?",
+          "o": [
+            "A) Lisans yalnızca belirli bir kurumda kullanılabilir",
+            "B) Lisans sahibi kişi değiştiğinde yeni kişinin kendi adına lisans alması gerekir",
+            "C) Lisans yalnızca kamu kurumlarında geçerlidir",
+            "D) Lisans her yıl yenilenmek zorundadır"
+          ],
+          "a": 1,
+          "e": "Lisans; bireysel uyum görevlisine ait olup devredilemez. Kurum değişikliğinde yeni görevlinin kendi lisansı bulunmalıdır."
+        },
+        {
+          "q": "Eğitim kayıtlarının belgelenmesi neden önemlidir?",
+          "o": [
+            "A) Müşterilere gösterilmesi için",
+            "B) Denetim süreçlerinde uyum yükümlülüklerinin yerine getirildiğinin ispatlanması için",
+            "C) Rakip kurumlara karşı rekabet avantajı sağlamak için",
+            "D) Yalnızca iç eğitim arşivleri için"
+          ],
+          "a": 1,
+          "e": "Eğitim kayıtları; sürekli eğitim yükümlülüğünün denetim süreçlerinde kanıtlanması açısından kritik öneme sahiptir."
+        },
+        {
+          "q": "Uyum programının hazırlanma zorunluluğunun hukuki dayanağı nedir?",
+          "o": [
+            "A) Türk Ticaret Kanunu",
+            "B) Tedbirler Yönetmeliği",
+            "C) İş Kanunu",
+            "D) Vergi Usul Kanunu"
+          ],
+          "a": 1,
+          "e": "Uyum programı hazırlama zorunluluğu, Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Yönetmeliği'ne dayanmaktadır."
+        },
+        {
+          "q": "Uyum programının yazılı olması zorunluluğunun amacı nedir?",
+          "o": [
+            "A) Müşterilere dağıtılması için",
+            "B) Denetimde kanıt oluşturması ve tutarlı uygulama sağlaması için",
+            "C) Rakip firmalara gösterilmesi için",
+            "D) Yalnızca arşiv oluşturmak için"
+          ],
+          "a": 1,
+          "e": "Yazılı uyum programı; uygulamada tutarlılık sağlar ve denetim süreçlerinde yükümlülüklerin yerine getirildiğinin kanıtını oluşturur."
+        },
+        {
+          "q": "Uyum programında 'işlem izleme' bileşeni neyi kapsar?",
+          "o": [
+            "A) Personelin iş performansını izlemek",
+            "B) Müşteri işlemlerinin SGA/TF riski açısından sürekli takip edilmesi",
+            "C) Borsadaki fiyat hareketlerini izlemek",
+            "D) Rekabet ortamını analiz etmek"
+          ],
+          "a": 1,
+          "e": "İşlem izleme; müşteri işlemlerinin olağandışı veya şüpheli örüntüler açısından otomatik veya manuel olarak sürekli takip edilmesidir."
+        },
+        {
+          "q": "Uyum programının hedef kitlesi kimdir?",
+          "o": [
+            "A) Yalnızca üst yönetim",
+            "B) Yalnızca uyum birimi çalışanları",
+            "C) SGA/TF riskiyle temas eden tüm personel",
+            "D) Yalnızca müşteri ilişkileri personeli"
+          ],
+          "a": 2,
+          "e": "Uyum programı, SGA/TF riskiyle doğrudan veya dolaylı temas eden tüm personeli kapsamalıdır."
+        },
+        {
+          "q": "Risk bazlı yaklaşım (RBA) SGA/TF mücadelesi bağlamında ne anlama gelir?",
+          "o": [
+            "A) Tüm müşterilere aynı önlemlerin uygulanması",
+            "B) Riskin büyüklüğüyle orantılı önlem ve kaynak tahsisi yapılması",
+            "C) Yalnızca yüksek riskli müşterilerin kabul edilmesi",
+            "D) Yalnızca büyük işlemlerin izlenmesi"
+          ],
+          "a": 1,
+          "e": "Risk bazlı yaklaşım; yükümlünün maruz kaldığı SGA/TF riskini tespit ederek riskle orantılı önlemler almasını gerektirir."
+        },
+        {
+          "q": "Aşağıdakilerden hangisi 'önleyici kontrol' kapsamına girer?",
+          "o": [
+            "A) ŞİB yapılması",
+            "B) İşlem durdurma",
+            "C) Müşteri kabulünde risk değerlendirmesi yapılması",
+            "D) Müşteri ilişkisini sonlandırma"
+          ],
+          "a": 2,
+          "e": "Önleyici kontroller; müşteri kabulü aşamasında risk değerlendirmesi, işlem limitleri gibi riski baştan engellemeye yönelik tedbirlerdir."
+        },
+        {
+          "q": "Otomatik işlem izleme sistemlerinde 'kural tabanlı uyarı' ne anlama gelir?",
+          "o": [
+            "A) Sistemin tüm işlemleri durdurması",
+            "B) Önceden tanımlanmış eşik veya örüntüleri aşan işlemlerde sistem tarafından uyarı üretilmesi",
+            "C) Her işlem için manuel inceleme yapılması",
+            "D) Yalnızca büyük tutarlı işlemlerin kaydedilmesi"
+          ],
+          "a": 1,
+          "e": "Kural tabanlı uyarı; önceden belirlenen risk eşiklerini (tutar, sıklık, coğrafya vb.) aşan işlemlerde otomatik uyarı oluşturan mekanizmadır."
+        },
+        {
+          "q": "Risk değerlendirmesinde ürün/hizmet bazlı risk faktörü neyi kapsar?",
+          "o": [
+            "A) Ürünün fiyatını",
+            "B) Sunulan ürün veya hizmetin anonimlik, karmaşıklık gibi SGA/TF açısından taşıdığı riski",
+            "C) Ürünün kâr marjını",
+            "D) Ürünün pazar payını"
+          ],
+          "a": 1,
+          "e": "Ürün/hizmet riski; anonimlik (nakit, kripto), karmaşıklık (off-shore yapılar) ve kötüye kullanım potansiyeli açısından değerlendirilir."
+        }
+      ],
+      "t2": [
+        {
+          "q": "Bağımsızlık ilkesi gereği uyum birimi hangi birimlerden ayrı faaliyet göstermelidir?",
+          "o": [
+            "A) Yalnızca iç denetim biriminden",
+            "B) Çıkar çatışması yaratabilecek satış ve operasyon birimlerinden",
+            "C) Hiçbir birimden ayrı olmak zorunda değildir",
+            "D) Yalnızca muhasebe biriminden"
+          ],
+          "a": 1,
+          "e": "Uyum birimi, çıkar çatışması yaratabilecek ticari birimlerden bağımsız çalışmalıdır."
+        },
+        {
+          "q": "Çıkar çatışması yasağı kapsamında uyum birimi aşağıdakilerden hangisini yapmamalıdır?",
+          "o": [
+            "A) ŞİB koordinasyonu",
+            "B) Personel eğitimi organize etmek",
+            "C) Ticari pazarlama ve satış hedefleri olan roller üstlenmek",
+            "D) Risk değerlendirmesi yapmak"
+          ],
+          "a": 2,
+          "e": "Ticari roller çıkar çatışması yaratarak uyum biriminin bağımsızlığını zedeler."
+        },
+        {
+          "q": "Uyum birimi bulundurmayan bir finansal yükümlü hangi sonuçla karşılaşabilir?",
+          "o": [
+            "A) Piyasa kaybı",
+            "B) Vergi artışı",
+            "C) İdari yaptırım ve denetim otoritesinin müdahalesi",
+            "D) Kâr düşüşü"
+          ],
+          "a": 2,
+          "e": "Uyum birimi bulundurmayan yükümlüler idari para cezası ve denetim müdahalesiyle karşılaşabilir."
+        },
+        {
+          "q": "Uyum biriminin yapısal kurulumunda en belirleyici etken nedir?",
+          "o": [
+            "A) Kurumun bulunduğu şehir",
+            "B) Kurucu ortakların milliyeti",
+            "C) Uyum biriminin çalışan sayısı",
+            "D) Kurumun faaliyet ölçeği, risk profili ve yükümlülük kapsamı"
+          ],
+          "a": 3,
+          "e": "Risk bazlı yaklaşım gereği uyum biriminin yapısı kurumun büyüklüğüne, risk profiline ve faaliyet kapsamına göre belirlenir."
+        },
+        {
+          "q": "Uyum görevlisinin atanmasında karar yetkisi kime aittir?",
+          "o": [
+            "A) MASAK",
+            "B) SPK",
+            "C) Yükümlünün yönetim kurulu veya genel müdürü",
+            "D) Emniyet teşkilatı"
+          ],
+          "a": 2,
+          "e": "Uyum görevlisi, yükümlü kuruluşun yönetim kurulu veya genel müdürü tarafından atanır."
+        },
+        {
+          "q": "Uyum görevlisinin geçici yokluğunda ne yapılmalıdır?",
+          "o": [
+            "A) MASAK geçici olarak görevi devralır",
+            "B) Uyum faaliyetleri askıya alınır",
+            "C) Görev için vekil atanır",
+            "D) Yönetim kurulu üyelerinden biri görevi üstlenir"
+          ],
+          "a": 2,
+          "e": "Uyum görevlisinin geçici ayrılığında veya yokluğunda vekil atanması zorunludur."
+        },
+        {
+          "q": "Uyum görevlisinin ihlallerden kaynaklanan sorumluluğu nedir?",
+          "o": [
+            "A) Hiçbir kişisel sorumluluğu yoktur",
+            "B) Yalnızca cezai sorumluluk doğar",
+            "C) İdari ve hukuki sorumluluk doğabilir",
+            "D) Yalnızca disiplin cezasıyla sınırlıdır"
+          ],
+          "a": 2,
+          "e": "Uyum görevlisi, mevzuat yükümlülüklerinin ihlali hâlinde idari ve hukuki sorumlulukla karşılaşabilir."
+        },
+        {
+          "q": "Uyum görevlisi risk değerlendirmesini hangi sıklıkla yapmalıdır?",
+          "o": [
+            "A) Yalnızca müşteri şikayeti gelince",
+            "B) Yalnızca yıl sonunda",
+            "C) Düzenli aralıklarla ve risk değişimi ya da mevzuat güncellemelerinde",
+            "D) Yalnızca dış denetim öncesinde"
+          ],
+          "a": 2,
+          "e": "Risk değerlendirmesi düzenli aralıklarla ve kurumun risk profilini değiştirebilecek gelişmeler karşısında yenilenir."
+        },
+        {
+          "q": "Uyum Görevlisi Yetkilendirme Sınavı kaç modülden oluşmaktadır?",
+          "o": [
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+          ],
+          "a": 1,
+          "e": "Sınav iki modülden oluşur: Modül 1 (SGA/TF/KİSYF mevzuatı) ve Modül 2 (uyum yönetimi, müşterinin tanınması, denetim)."
+        },
+        {
+          "q": "Lisanssız uyum görevlisi çalıştıran bir kuruluş hangi yaptırımla karşılaşabilir?",
+          "o": [
+            "A) Yalnızca uyarı alır",
+            "B) İdari para cezası ve denetim müdahalesi",
+            "C) Vergi artışı",
+            "D) Müşteri kaybı"
+          ],
+          "a": 1,
+          "e": "Lisanssız uyum görevlisi çalıştırmak, ilgili mevzuat çerçevesinde idari para cezasına ve denetim müdahalesine yol açabilir."
+        },
+        {
+          "q": "Lisansın iptali hangi durumlarda söz konusu olabilir?",
+          "o": [
+            "A) Yalnızca emeklilik hâlinde",
+            "B) Lisans ihlali veya ağır mesleki kusur hâlinde SPK tarafından",
+            "C) Kurum değişikliğinde otomatik olarak",
+            "D) Yalnızca mahkeme kararıyla"
+          ],
+          "a": 1,
+          "e": "SPK, lisans ihlali veya ağır mesleki kusur durumunda lisansı iptal edebilir."
+        },
+        {
+          "q": "Uyum görevlisi lisansı hangi sektörde öncelikli zorunluluk doğurmaktadır?",
+          "o": [
+            "A) Tarım sektörü",
+            "B) İnşaat sektörü",
+            "C) Sermaye piyasası ve finansal hizmetler sektörü",
+            "D) Perakende sektörü"
+          ],
+          "a": 2,
+          "e": "Uyum görevlisi lisansı öncelikli olarak sermaye piyasası ve finansal hizmetler sektöründe (aracı kurumlar, portföy yönetim şirketleri vb.) zorunludur."
+        },
+        {
+          "q": "Uyum programının zorunlu unsurları arasında hangisi yer almaz?",
+          "o": [
+            "A) Müşterinin tanınması politikaları",
+            "B) Personel ücret politikası",
+            "C) Şüpheli işlem bildirimi prosedürleri",
+            "D) Risk değerlendirmesi mekanizması"
+          ],
+          "a": 1,
+          "e": "Personel ücret politikası uyum programının değil, insan kaynakları yönetiminin konusudur."
+        },
+        {
+          "q": "Uyum programı kapsamında iç kontrol mekanizması ne sağlar?",
+          "o": [
+            "A) Müşteri memnuniyetini artırır",
+            "B) SGA/TF prosedürlerinin etkin biçimde uygulandığını izler ve test eder",
+            "C) Kârlılığı izler",
+            "D) Piyasa fiyatlarını takip eder"
+          ],
+          "a": 1,
+          "e": "İç kontrol mekanizması, uyum prosedürlerinin doğru uygulanıp uygulanmadığını sürekli izler ve test eder."
+        },
+        {
+          "q": "İç denetim uyum programı açısından ne zaman devreye girer?",
+          "o": [
+            "A) Yalnızca dışarıdan denetim geldiğinde",
+            "B) Programın tüm bileşenlerinin etkin uygulanıp uygulanmadığını düzenli olarak bağımsız biçimde denetlemek üzere",
+            "C) Yalnızca ŞİB yapıldıktan sonra",
+            "D) Yalnızca yıl sonunda"
+          ],
+          "a": 1,
+          "e": "İç denetim, uyum programının tüm bileşenlerinin düzenli aralıklarla bağımsız değerlendirmesini yapar."
+        },
+        {
+          "q": "Uyum programı ile uyum birimi arasındaki temel ilişki nedir?",
+          "o": [
+            "A) İkisi aynı kavramdır",
+            "B) Uyum programı yazılı çerçevedir; uyum birimi bu çerçeveyi hayata geçiren organizasyonel yapıdır",
+            "C) Uyum birimi yalnızca büyük bankalarda zorunludur",
+            "D) Uyum programı yalnızca dışarıdan hazırlanabilir"
+          ],
+          "a": 1,
+          "e": "Uyum programı politika ve prosedürlerden oluşan yazılı çerçevedir; uyum birimi bu programı yürüten organizasyonel yapıdır."
+        },
+        {
+          "q": "Risk değerlendirmesinde dikkate alınan temel faktörler hangileridir?",
+          "o": [
+            "A) Yalnızca müşteri yaşı ve cinsiyeti",
+            "B) Müşteri, ürün/hizmet, işlem kanalı ve coğrafi risk faktörleri",
+            "C) Yalnızca işlem tutarı",
+            "D) Yalnızca müşterinin mesleği"
+          ],
+          "a": 1,
+          "e": "Risk değerlendirmesi; müşteri profili, sunulan ürün/hizmetler, kullanılan dağıtım kanalları ve coğrafi faktörler bazında yapılır."
+        },
+        {
+          "q": "Aşağıdakilerden hangisi 'tespit edici kontrol' kapsamına girer?",
+          "o": [
+            "A) Müşteri kabulü politikası",
+            "B) İşlem izleme ve uyarı sistemleri",
+            "C) Müşteri ilişkisini sonlandırma",
+            "D) İşlem limitleri belirleme"
+          ],
+          "a": 1,
+          "e": "Tespit edici kontroller; zaten gerçekleşmekte olan şüpheli durumları ortaya çıkarmaya yönelik mekanizmalardır (işlem izleme, uyarı sistemleri, periyodik gözden geçirme)."
+        },
+        {
+          "q": "Coğrafi risk faktörü risk değerlendirmesinde nasıl kullanılır?",
+          "o": [
+            "A) Yalnızca müşterinin ikamet adresine bakılır",
+            "B) Yüksek riskli veya yaptırıma tabi ülkelerle bağlantılı işlemler daha yüksek risk düzeyine atanır",
+            "C) Coğrafi risk faktörü dikkate alınmaz",
+            "D) Yalnızca yurt dışı işlemler değerlendirilir"
+          ],
+          "a": 1,
+          "e": "Yüksek riskli ülkeler (FATF gri listesi, yaptırıma tabi ülkeler) veya offshore merkezlerle bağlantılı işlemler daha yüksek risk düzeyinde değerlendirilir."
+        },
+        {
+          "q": "Risk bazlı yaklaşımda 'orantılılık ilkesi' ne anlama gelir?",
+          "o": [
+            "A) Tüm müşterilere eşit kaynak tahsis edilmesi",
+            "B) Uygulanan tedbirlerin tespit edilen riskle orantılı olması",
+            "C) Yalnızca büyük kurumlara yükümlülük getirilmesi",
+            "D) Risk arttıkça kaynakların azaltılması"
+          ],
+          "a": 1,
+          "e": "Orantılılık ilkesi; düşük riskli alanlarda sınırlı kaynak harcanırken yüksek riskli alanlarda daha kapsamlı tedbirlerin alınmasını gerektirir."
+        }
+      ],
+      "t3": [
+        {
+          "q": "Uyum birimi organizasyonel olarak kime raporlama yapar?",
+          "o": [
+            "A) Satış müdürüne",
+            "B) Muhasebe birimine",
+            "C) İnsan kaynakları yöneticisine",
+            "D) Genel müdür veya yönetim kuruluna"
+          ],
+          "a": 3,
+          "e": "Uyum birimi doğrudan genel müdür veya yönetim kuruluna raporlama yapar."
+        },
+        {
+          "q": "Uyum biriminin iç denetimle ilişkisi nasıl tanımlanır?",
+          "o": [
+            "A) Uyum birimi iç denetimi yönetir",
+            "B) İç denetim uyum birimini yönetir",
+            "C) Uyum birimi bağımsız çalışır; uyum programı iç denetime tabi olabilir",
+            "D) İkisi aynı birim altında birleşir"
+          ],
+          "a": 2,
+          "e": "Uyum birimi iç denetimden bağımsız çalışır; ancak uyum programının etkinliği iç denetim tarafından değerlendirilebilir."
+        },
+        {
+          "q": "Finansal grup bünyesinde ana ortaklığın uyum konusundaki rolü nedir?",
+          "o": [
+            "A) Bağlı şirketlere uyum görevlisi atar",
+            "B) Bağlı şirketlerin tüm ŞİB'lerini doğrudan gönderir",
+            "C) Grup genelinde uyum koordinasyonunu sağlar ve standartları belirler",
+            "D) Bağlı şirketlerin uyum birimlerini kapatır"
+          ],
+          "a": 2,
+          "e": "Ana ortaklık, finansal grup genelinde uyum koordinasyonunu üstlenir ve ortak standartlar belirler."
+        },
+        {
+          "q": "Uyum birimi hangi durumlarda risk değerlendirmesi yapar?",
+          "o": [
+            "A) Yalnızca dış denetim talebi üzerine",
+            "B) Yeni ürün/hizmet, değişen müşteri kategorisi veya mevzuat değişikliği gibi durumlarda düzenli olarak",
+            "C) Yalnızca yıl sonunda",
+            "D) Yalnızca ŞİB yapıldıktan sonra"
+          ],
+          "a": 1,
+          "e": "Risk değerlendirmesi yeni ürün/hizmet, değişen müşteri profili veya mevzuat güncellemeleri durumunda ve düzenli aralıklarla yapılmalıdır."
+        },
+        {
+          "q": "Uyum görevlisi ataması ve değişikliği hangi makama bildirilmelidir?",
+          "o": [
+            "A) Adalet Bakanlığı",
+            "B) MASAK",
+            "C) SPK",
+            "D) Hazine ve Maliye Bakanlığı vergi dairesi"
+          ],
+          "a": 1,
+          "e": "Uyum görevlisi atama ve değişikliklerinin MASAK'a bildirilmesi zorunludur; aksi hâlde idari yaptırım uygulanabilir."
+        },
+        {
+          "q": "Uyum görevlisi mevzuat değişikliklerinde ne yapmalıdır?",
+          "o": [
+            "A) Değişiklikleri yalnızca iç denetim birimine bildirir",
+            "B) Değişiklikleri takip eder ve kurumu etkileyecek güncellemeleri üst yönetime bildirir",
+            "C) Değişiklikler için MASAK'tan talimat bekler",
+            "D) Değişiklikler personele doğrudan duyurulmaz"
+          ],
+          "a": 1,
+          "e": "Uyum görevlisi mevzuat değişikliklerini sürekli takip eder ve kurumu etkileyecek güncellemeleri üst yönetime zamanında bildirir."
+        },
+        {
+          "q": "Uyum görevlisinin raporlama sıklığı nasıl belirlenir?",
+          "o": [
+            "A) Her gün rapor vermek zorundadır",
+            "B) Kurum iç düzenlemelerine ve yetkili makam talimatlarına göre",
+            "C) Yılda bir kez yeterlidir",
+            "D) MASAK haftalık rapor ister"
+          ],
+          "a": 1,
+          "e": "Raporlama sıklığı kurumun iç düzenlemelerine ve yetkili makamların taleplerine göre belirlenir."
+        },
+        {
+          "q": "Uyum görevlisinin çıkar çatışması durumunu fark etmesi hâlinde ne yapmalıdır?",
+          "o": [
+            "A) Durumu gizlemelidir",
+            "B) Durumu derhal üst yönetime bildirmeli ve çatışmadan uzak durmalıdır",
+            "C) Sadece iç denetim birimine bildirmelidir",
+            "D) Yalnızca MASAK'a bildirmelidir"
+          ],
+          "a": 1,
+          "e": "Çıkar çatışması durumunun derhal üst yönetime bildirilmesi ve görevin tarafsızlıkla sürdürülmesi esastır."
+        },
+        {
+          "q": "Sınavın Modül 1'i hangi konuları kapsamaktadır?",
+          "o": [
+            "A) Uyum programı yönetimi ve müşterinin tanınması",
+            "B) Vergi hukuku ve muhasebe",
+            "C) SGA, TF ve KİSYF temel mevzuatı",
+            "D) Sermaye piyasası araçları"
+          ],
+          "a": 2,
+          "e": "Modül 1; suç gelirlerinin aklanması (SGA), terörizmin finansmanı (TF) ve KİSYF temel mevzuatını kapsar."
+        },
+        {
+          "q": "Sınava girebilmek için asgari eğitim şartı nedir?",
+          "o": [
+            "A) Ortaöğretim (lise) mezuniyeti",
+            "B) Herhangi bir eğitim şartı yoktur",
+            "C) En az lisans (üniversite) mezuniyeti",
+            "D) Yalnızca hukuk veya iktisat fakültesi mezunları girebilir"
+          ],
+          "a": 2,
+          "e": "Sınava giriş için en az lisans (üniversite) mezuniyeti şartı aranmaktadır."
+        },
+        {
+          "q": "Farklı kuruluş türlerinde (sigorta, bankacılık vb.) lisanslama gereksinimleri nasıl farklılaşabilir?",
+          "o": [
+            "A) Tüm kurumlar için aynı SPK sınavı yeterlidir",
+            "B) İlgili sektörün düzenleyici otoritesi ek gereksinimler öngörebilir",
+            "C) Yalnızca banka uyum görevlileri sınava tabi tutulur",
+            "D) Sigorta şirketlerinde uyum görevlisi lisansı zorunlu değildir"
+          ],
+          "a": 1,
+          "e": "Sektörüne göre BDDK, Sigortacılık Genel Müdürlüğü gibi otoriteler SPK lisansına ek gereksinimler öngörebilir."
+        },
+        {
+          "q": "Sınav başarısı sonrası lisansın aktif hâle gelmesi için ne gereklidir?",
+          "o": [
+            "A) Sınav günü lisans otomatik verilir",
+            "B) Resmi başvuru ve tescil işlemlerinin tamamlanması",
+            "C) 1 yıl beklenmesi",
+            "D) Yönetim kurulu onayı yeterlidir"
+          ],
+          "a": 1,
+          "e": "Sınav başarısı yeterli olmaz; resmi başvuru ve tescil işlemlerinin tamamlanmasıyla lisans aktif hâle gelir."
+        },
+        {
+          "q": "Uyum programı ne sıklıkla güncellenmelidir?",
+          "o": [
+            "A) 5 yılda bir",
+            "B) Yalnızca denetim öncesinde",
+            "C) En az yılda bir ve risk/mevzuat değişikliklerinde",
+            "D) Hiç güncellenmesi gerekmez"
+          ],
+          "a": 2,
+          "e": "Uyum programı en az yılda bir gözden geçirilmeli; mevzuat değişikliği veya risk profilindeki önemli değişimlerde derhal güncellenmelidir."
+        },
+        {
+          "q": "Ana ortaklığın finansal grup uyum programındaki rolü nedir?",
+          "o": [
+            "A) Bağlı kuruluşlara uyum görevlisi atar",
+            "B) Bağlı kuruluşların tüm ŞİB'lerini doğrudan gönderir",
+            "C) Grup genelinde uyum standardlarını belirler ve koordinasyonu sağlar",
+            "D) Bağlı kuruluşların uyum birimlerini yönetir"
+          ],
+          "a": 2,
+          "e": "Ana ortaklık, grup genelinde geçerli olacak uyum standartlarını belirler ve bağlı kuruluşların bu standartlara uyumunu koordine eder."
+        },
+        {
+          "q": "Kurum politikaları ve prosedürleri uyum programında neden kritik öneme sahiptir?",
+          "o": [
+            "A) Müşteri şikayetlerini azaltmak için",
+            "B) SGA/TF yükümlülüklerinin sistematik ve tutarlı biçimde yerine getirilmesini sağlamak için",
+            "C) Kârlılığı artırmak için",
+            "D) Personel devir hızını düşürmek için"
+          ],
+          "a": 1,
+          "e": "Yazılı politika ve prosedürler; uyum yükümlülüklerinin tüm personel tarafından tutarlı biçimde uygulanmasını sağlar."
+        },
+        {
+          "q": "Uyum programı hazırlamayan yükümlü ne tür bir yaptırımla karşılaşabilir?",
+          "o": [
+            "A) Vergi cezası",
+            "B) İdari para cezası ve denetim otoritesi müdahalesi",
+            "C) Yalnızca uyarı mektubu",
+            "D) Kâr kaybı"
+          ],
+          "a": 1,
+          "e": "Tedbirler Yönetmeliği kapsamındaki yükümlülükleri yerine getirmeyen kuruluşlar idari para cezası ve denetim müdahalesiyle karşılaşabilir."
+        },
+        {
+          "q": "Risk değerlendirmesinin ne sıklıkla güncellenmesi gerekir?",
+          "o": [
+            "A) Yalnızca yeni müşteri kabulünde",
+            "B) Yalnızca yıl sonunda",
+            "C) Düzenli aralıklarla ve risk profilini etkileyen değişikliklerde",
+            "D) Hiç güncellenmesi gerekmez"
+          ],
+          "a": 2,
+          "e": "Risk değerlendirmesi düzenli aralıklarla ve kurumun risk profilini değiştirebilecek gelişmeler (yeni ürün, yeni müşteri segmenti, mevzuat değişikliği) karşısında güncellenir."
+        },
+        {
+          "q": "'Düzeltici kontrol' kavramı neyi ifade eder?",
+          "o": [
+            "A) Risk değerlendirmesi yapılması",
+            "B) İşlem izleme uyarısı oluşturulması",
+            "C) ŞİB, işlem durdurma veya müşteri ilişkisini sonlandırma gibi sonradan alınan önlemler",
+            "D) Müşteri kabul politikasının güncellenmesi"
+          ],
+          "a": 2,
+          "e": "Düzeltici kontroller; şüpheli durum tespit edildikten sonra uygulanan önlemlerdir: ŞİB, işlem durdurma, ilişkiyi sonlandırma."
+        },
+        {
+          "q": "Risk değerlendirmesinin yazılı olması neden önemlidir?",
+          "o": [
+            "A) Müşterilere dağıtılması için",
+            "B) Denetim süreçlerinde kanıt oluşturması ve tutarlı uygulama sağlaması için",
+            "C) Rakiplere gösterilmesi için",
+            "D) Yalnızca arşiv oluşturmak için"
+          ],
+          "a": 1,
+          "e": "Yazılı risk değerlendirmesi; denetim süreçlerinde uyumun kanıtlanmasını sağlar ve kurumun risk yönetimindeki tutarlılığını destekler."
+        },
+        {
+          "q": "Müşteri risk profilinin güncellenmesini gerektiren durumlar hangileridir?",
+          "o": [
+            "A) Yalnızca müşterinin doğum günü",
+            "B) Müşterinin işlem örüntüsündeki önemli değişimler, yeni ürün kullanımı veya coğrafi hareketlilik",
+            "C) Yalnızca müşteri şikayeti",
+            "D) Yalnızca hesap bakiyesindeki artış"
+          ],
+          "a": 1,
+          "e": "Müşteri risk profili; işlem örüntüsündeki önemli değişimler, yeni ürün/hizmet kullanımı, yabancı ülke bağlantısı gibi gelişmelerde güncellenir."
+        }
+      ],
+      "t4": [
+        {
+          "q": "Aşağıdaki kurumlardan hangisi uyum birimi kurmakla yükümlüdür?",
+          "o": [
+            "A) Küçük market işletmecisi",
+            "B) Tarım kooperatifi",
+            "C) Katılım bankası",
+            "D) Belediye şirketi"
+          ],
+          "a": 2,
+          "e": "Katılım bankaları 5549 sayılı Kanun kapsamında uyum birimi kurmakla yükümlüdür."
+        },
+        {
+          "q": "Küçük ölçekli yükümlüler uyum birimini nasıl kurmalıdır?",
+          "o": [
+            "A) Büyük bankalarla aynı yapıyı oluşturmak zorundadır",
+            "B) Risk bazlı yaklaşım çerçevesinde ölçeğe uygun orantılı yapı kurabilir",
+            "C) Hiçbir yükümlülükleri yoktur",
+            "D) Yalnızca MASAK'a kayıt yaptırmak yeterlidir"
+          ],
+          "a": 1,
+          "e": "Risk bazlı yaklaşım gereği küçük yükümlüler ölçeğine uygun orantılı bir yapı kurabilir."
+        },
+        {
+          "q": "Uyum biriminin bağımsızlığını korumak için kaçınılması gereken görev hangisidir?",
+          "o": [
+            "A) Üst yönetime rapor sunmak",
+            "B) ŞİB koordinasyonu yapmak",
+            "C) İş geliştirme ve satış hedefleri olan ticari roller üstlenmek",
+            "D) Personel eğitimi vermek"
+          ],
+          "a": 2,
+          "e": "Ticari roller çıkar çatışması yaratarak uyum biriminin tarafsızlığını zedeler."
+        },
+        {
+          "q": "'Uyum programı' ile 'uyum birimi' arasındaki temel fark nedir?",
+          "o": [
+            "A) İkisi aynı kavramdır",
+            "B) Uyum programı yazılı politika bütünüdür; uyum birimi bu programı yürüten organizasyonel yapıdır",
+            "C) Uyum birimi yalnızca büyük bankalarda zorunludur",
+            "D) Uyum programı yalnızca MASAK'a gönderilen belgelerdir"
+          ],
+          "a": 1,
+          "e": "Uyum programı yazılı politika ve prosedürler bütünüdür; uyum birimi bu çerçeveyi hayata geçiren organizasyonel yapıdır."
+        },
+        {
+          "q": "Uyum görevlisinin eğitim niteliği açısından asgari şart nedir?",
+          "o": [
+            "A) Lise mezuniyeti yeterlidir",
+            "B) Herhangi bir eğitim şartı aranmaz",
+            "C) En az lisans (üniversite) mezuniyeti gerekir",
+            "D) Yalnızca hukuk fakültesi mezunları atanabilir"
+          ],
+          "a": 2,
+          "e": "Uyum görevlisi atanması için en az lisans mezuniyeti şartı aranmaktadır."
+        },
+        {
+          "q": "Büyük ölçekli bir finansal kurumda birden fazla uyum görevlisi atanabilir mi?",
+          "o": [
+            "A) Hayır, yasal olarak yasaktır",
+            "B) Evet, kurumun büyüklüğü ve yapısı bunu gerektirebilir",
+            "C) Yalnızca bankalar için mümkündür",
+            "D) Yalnızca uluslararası şubeler için mümkündür"
+          ],
+          "a": 1,
+          "e": "Kurumun ölçeğine ve yapısına göre birden fazla lisanslı uyum görevlisi atanabilir."
+        },
+        {
+          "q": "Uyum görevlisi ile iç denetim birimi arasındaki ilişki nasıl kurulmalıdır?",
+          "o": [
+            "A) Uyum görevlisi iç denetimi yönetir",
+            "B) İç denetim uyum görevlisine bağlıdır",
+            "C) Uyum görevlisi bağımsız çalışır; ancak uyum programının denetimi iç denetime tabi olabilir",
+            "D) İkisi aynı kişi tarafından yönetilmelidir"
+          ],
+          "a": 2,
+          "e": "Uyum görevlisi iç denetimden bağımsız çalışır; ancak uyum programının etkinliği iç denetim tarafından değerlendirilebilir."
+        },
+        {
+          "q": "Aşağıdakilerden hangisi uyum görevlisinin atanma koşulları arasında yer almaz?",
+          "o": [
+            "A) En az lisans mezuniyeti",
+            "B) Finans, hukuk veya uyum/denetim alanında deneyim tercih edilmesi",
+            "C) Aynı kurumda en az 20 yıl çalışmış olmak",
+            "D) SPK lisanslama sisteminde belirlenmiş yeterlilikleri sağlamak"
+          ],
+          "a": 2,
+          "e": "20 yıl çalışmış olmak yasal bir şart değildir; mezuniyet düzeyi ve ilgili deneyim önem taşır."
+        },
+        {
+          "q": "Sınavın Modül 2'si hangi konuları kapsamaktadır?",
+          "o": [
+            "A) Vergi uyumu ve muhasebe standartları",
+            "B) Uyum yönetimi, müşterinin tanınması, denetim ve diğer yükümlülükler",
+            "C) Sermaye piyasası araçları ve değerleme",
+            "D) Bankacılık operasyonları"
+          ],
+          "a": 1,
+          "e": "Modül 2; uyum yönetimi, müşterinin tanınması (KYC), yükümlülük denetimi ve diğer uyum yükümlülüklerini kapsar."
+        },
+        {
+          "q": "Lisans yenileme için ne yapılması gerekmektedir?",
+          "o": [
+            "A) Sınavı yeniden geçmek zorunludur",
+            "B) Belirlenen süre içinde yenileme başvurusu yapılmalı ve sürekli eğitim koşulları karşılanmalıdır",
+            "C) Yalnızca MASAK'a başvuru yapılması yeterlidir",
+            "D) Lisansın otomatik yenilenmesi için herhangi bir işlem gerekmez"
+          ],
+          "a": 1,
+          "e": "Lisansın geçerliliği için belirlenen süre içinde yenileme başvurusu yapılmalı ve sürekli eğitim gereklilikleri yerine getirilmelidir."
+        },
+        {
+          "q": "Uyum görevlisi sınavına giriş için hangi alan deneyimi tercih edilmektedir?",
+          "o": [
+            "A) Yalnızca IT (bilgi teknolojileri)",
+            "B) Finans, hukuk veya uyum/denetim alanı",
+            "C) Yalnızca pazarlama",
+            "D) Yalnızca muhasebe"
+          ],
+          "a": 1,
+          "e": "Finans, hukuk, uyum veya denetim alanında deneyim, uyum görevlisi adaylığında tercih edilen niteliktir."
+        },
+        {
+          "q": "Birden fazla kuruluşta eş zamanlı uyum görevlisi olarak çalışmak mümkün müdür?",
+          "o": [
+            "A) Evet, sınırsız sayıda kuruluşta görev yapılabilir",
+            "B) Mevzuat ve çıkar çatışması kuralları çerçevesinde değerlendirilir; genellikle kısıtlıdır",
+            "C) Hayır, kesinlikle yasaktır",
+            "D) Yalnızca aynı finansal grup içinde mümkündür"
+          ],
+          "a": 1,
+          "e": "Eş zamanlı görev; çıkar çatışması kuralları ve mevzuat çerçevesinde değerlendirilir. Genellikle bağımsızlık ilkesi nedeniyle kısıtlıdır."
+        },
+        {
+          "q": "'Risk bazlı yaklaşım' uyum programında ne anlama gelir?",
+          "o": [
+            "A) Tüm müşterilere aynı prosedürlerin uygulanması",
+            "B) Kaynakların ve önlemlerin riskin büyüklüğüyle orantılı biçimde tahsis edilmesi",
+            "C) Yalnızca yüksek riskli müşterilerin kabul edilmesi",
+            "D) Yalnızca düşük riskli işlemlerin izlenmesi"
+          ],
+          "a": 1,
+          "e": "Risk bazlı yaklaşım; kuruluşun maruz kaldığı SGA/TF riskiyle orantılı önlemler almasını gerektirir. Düşük riskli alanlarda basit, yüksek riskli alanlarda güçlendirilmiş tedbirler uygulanır."
+        },
+        {
+          "q": "Personel eğitimi uyum programının hangi bileşenine karşılık gelir?",
+          "o": [
+            "A) Risk değerlendirmesi bileşeni",
+            "B) İç kontrol bileşeni",
+            "C) Farkındalık ve eğitim bileşeni",
+            "D) Müşteri kabulü bileşeni"
+          ],
+          "a": 2,
+          "e": "Personel eğitimi, uyum programının farkındalık ve eğitim bileşeni kapsamında yer alır."
+        },
+        {
+          "q": "Uyum programı değişikliği yapıldığında çalışanlara nasıl duyurulmalıdır?",
+          "o": [
+            "A) Hiç bildirim gerekmez",
+            "B) Yalnızca yöneticilere bildirim yeterlidir",
+            "C) Tüm ilgili personele zamanında ve etkin iletişim kanallarıyla duyurulmalıdır",
+            "D) Yalnızca yazılı posta ile gönderilebilir"
+          ],
+          "a": 2,
+          "e": "Uyum programı değişiklikleri tüm ilgili personele zamanında ve anlaşılır biçimde duyurulmalıdır."
+        },
+        {
+          "q": "'Müşteri kabulü politikası' uyum programında hangi soruları yanıtlamalıdır?",
+          "o": [
+            "A) Yalnızca müşterinin yaşını",
+            "B) Müşteriden hangi kimlik bilgilerinin alınacağını, risk sınıfının nasıl belirleneceğini ve hangi durumlarda müşterinin kabul edileceğini",
+            "C) Yalnızca müşterinin gelir düzeyini",
+            "D) Yalnızca coğrafi konumu"
+          ],
+          "a": 1,
+          "e": "Müşteri kabul politikası; kimlik doğrulama, risk sınıflandırması ve kabul/ret kriterlerini kapsamalıdır."
+        },
+        {
+          "q": "Düşük riskli müşteri için uygulanacak tedbirler nasıl belirlenir?",
+          "o": [
+            "A) Yüksek riskli müşteriyle aynı tedbirler uygulanır",
+            "B) Hiçbir tedbir uygulanmaz",
+            "C) Risk bazlı yaklaşım çerçevesinde basitleştirilmiş tedbirler uygulanabilir",
+            "D) Yalnızca beyan alınması yeterlidir"
+          ],
+          "a": 2,
+          "e": "RBA çerçevesinde düşük riskli müşterilere basitleştirilmiş tedbirler uygulanabilir; ancak temel KYC yükümlülükleri geçerliliğini korur."
+        },
+        {
+          "q": "Risk raporlamasında uyum görevlisinin sorumluluğu nedir?",
+          "o": [
+            "A) Yalnızca dış denetçilere rapor sunmak",
+            "B) Risk değerlendirme sonuçlarını ve önemli bulguları üst yönetime raporlamak",
+            "C) Sadece MASAK'a rapor göndermek",
+            "D) Müşterileri bilgilendirmek"
+          ],
+          "a": 1,
+          "e": "Uyum görevlisi; risk değerlendirme sonuçlarını, önemli bulguları ve trendleri üst yönetime (genel müdür/yönetim kurulu) düzenli olarak raporlar."
+        },
+        {
+          "q": "Yüksek riskli bir müşteri için RBA çerçevesinde ne yapılmalıdır?",
+          "o": [
+            "A) Basitleştirilmiş tedbirler uygulanır",
+            "B) Müşteri doğrudan reddedilir",
+            "C) Güçlendirilmiş müşteri durum tespiti (EDD) ve artırılmış izleme uygulanır",
+            "D) Standart tedbirler yeterlidir"
+          ],
+          "a": 2,
+          "e": "Yüksek risk düzeyli müşteriler için güçlendirilmiş müşteri durum tespiti (Enhanced Due Diligence) ve daha sıkı işlem izleme uygulanır."
+        },
+        {
+          "q": "Aşağıdaki hangi durum 'yüksek risk' işareti (red flag) olarak değerlendirilebilir?",
+          "o": [
+            "A) Müşterinin düzenli maaş ödemesi alması",
+            "B) Müşterinin geliriyle orantısız büyük nakit para yatırması",
+            "C) Müşterinin uzun süreli banka müşterisi olması",
+            "D) Müşterinin birden fazla hesap açması"
+          ],
+          "a": 1,
+          "e": "Gelirle orantısız büyük nakit para hareketi, SGA açısından tipik bir yüksek risk işaretidir (red flag)."
+        }
+      ],
+      "t5": [
+        {
+          "q": "Uyum biriminin ŞİB sürecindeki temel rolü nedir?",
+          "o": [
+            "A) Müşteriye bildirim yapmak",
+            "B) ŞİB'lerin MASAK'a eksiksiz ve zamanında iletilmesini koordine etmek",
+            "C) ŞİB kararını mahkemeye taşımak",
+            "D) İşlemi otomatik olarak durdurmak"
+          ],
+          "a": 1,
+          "e": "Uyum birimi, ŞİB'lerin MASAK'a doğru ve zamanında iletilmesini koordine etmekten sorumludur."
+        },
+        {
+          "q": "Uyum biriminin personel eğitimi işlevi kapsamında hedef kitle kimdir?",
+          "o": [
+            "A) Yalnızca yönetim kurulu üyeleri",
+            "B) Yalnızca yeni işe başlayan personel",
+            "C) Tüm ilgili personel düzenli olarak",
+            "D) Yalnızca uyum departmanı çalışanları"
+          ],
+          "a": 2,
+          "e": "Etkin bir uyum programı için tüm ilgili personelin SGA/TF konularında düzenli eğitim alması sağlanmalıdır."
+        },
+        {
+          "q": "Tedbirler Yönetmeliği hangi kanuna dayanmaktadır?",
+          "o": [
+            "A) Vergi Usul Kanunu",
+            "B) 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun",
+            "C) Türk Ticaret Kanunu",
+            "D) 6362 sayılı Sermaye Piyasası Kanunu"
+          ],
+          "a": 1,
+          "e": "Tedbirler Yönetmeliği, 5549 sayılı Kanun'un verdiği yetkiye dayanılarak çıkarılmıştır."
+        },
+        {
+          "q": "Uyum biriminin kurumsal değere katkısı nasıl tanımlanır?",
+          "o": [
+            "A) Satış gelirlerini artırır",
+            "B) Kârlılığı doğrudan yükseltir",
+            "C) SGA/TF/KİSYF risklerini yöneterek kurumu yaptırım ve itibar riskinden korur",
+            "D) Müşteri sayısını çoğaltır"
+          ],
+          "a": 2,
+          "e": "Uyum birimi, finansal kurumu idari yaptırım, hukuki süreç ve itibar kaybı riskinden koruyarak kurumsal değere katkı sağlar."
+        },
+        {
+          "q": "Aşağıdakilerden hangisi uyum görevlisinin temel görevleri arasında yer almaz?",
+          "o": [
+            "A) ŞİB'lerin MASAK'a iletilmesini sağlamak",
+            "B) Personele SGA/TF eğitimi vermek",
+            "C) Müşterilere kredi tahsis etmek",
+            "D) Risk değerlendirmesi yaparak raporlamak"
+          ],
+          "a": 2,
+          "e": "Kredi tahsisi uyum görevlisinin değil, kredi/pazarlama birimlerinin görevidir."
+        },
+        {
+          "q": "Uyum görevlisinin yetkili makamlarla ilişkisi nasıldır?",
+          "o": [
+            "A) Denetim süreçlerinde kurumu temsil eden yetkili muhataptır",
+            "B) Yalnızca yazılı yazışma yapabilir",
+            "C) Hiçbir ilişki kuramaz",
+            "D) Yalnızca mahkeme aracılığıyla iletişim kurar"
+          ],
+          "a": 0,
+          "e": "Uyum görevlisi, MASAK ve diğer denetim otoritelerinin gerçekleştirdiği süreçlerde kurumu temsil eden yetkili muhataptır."
+        },
+        {
+          "q": "Uyum görevlisinin bildirim yükümlülüğünü yerine getirmemesi ne sonuç doğurur?",
+          "o": [
+            "A) Yalnızca uyarı yazısı gönderilir",
+            "B) İdari para cezası ve denetim müdahalesi doğabilir",
+            "C) Yalnızca iç disiplin soruşturması açılır",
+            "D) Herhangi bir sonucu olmaz"
+          ],
+          "a": 1,
+          "e": "Atama/değişiklik bildiriminin MASAK'a yapılmaması idari para cezasına ve denetim müdahalesine yol açabilir."
+        },
+        {
+          "q": "Uyum görevlisinin kurumsal yönetimdeki konumunun önemi nedir?",
+          "o": [
+            "A) Kârlılık hedeflerini belirler",
+            "B) SGA/TF risklerinin kurum genelinde etkin yönetilmesini güvence altına alır",
+            "C) Müşteri portföyünü yönetir",
+            "D) Bütçe hazırlar"
+          ],
+          "a": 1,
+          "e": "Uyum görevlisi, kurumun SGA/TF/KİSYF risklerini sistematik ve etkin biçimde yönetmesini sağlayan kilit konumdaki kişidir."
+        },
+        {
+          "q": "Her iki modülden de geçer not alınamaması hâlinde ne olur?",
+          "o": [
+            "A) Yalnızca geçilen modül için lisans verilir",
+            "B) İki modülden de geçer not alınması zorunlu olduğundan lisans verilmez",
+            "C) Geçilen modülün lisansı 3 yıl geçerlidir",
+            "D) Başka bir sınava girme zorunluluğu yoktur"
+          ],
+          "a": 1,
+          "e": "Lisans alınabilmesi için her iki modülden de geçer not alınması şarttır."
+        },
+        {
+          "q": "Sürekli eğitim kapsamında uyum görevlileri hangi içeriklere sahip eğitimlere katılmalıdır?",
+          "o": [
+            "A) Yalnızca muhasebe kursları",
+            "B) SGA/TF/KİSYF alanındaki güncel gelişmeleri kapsayan eğitimler",
+            "C) Yalnızca yabancı dil kursları",
+            "D) Yalnızca yönetim becerileri seminerleri"
+          ],
+          "a": 1,
+          "e": "Sürekli eğitim; SGA, TF ve KİSYF alanındaki mevzuat değişikliklerini ve güncel gelişmeleri kapsayan içeriklerden oluşmalıdır."
+        },
+        {
+          "q": "Lisanslama sisteminin temel amacı nedir?",
+          "o": [
+            "A) Uyum görevlisi sayısını sınırlamak",
+            "B) Uyum görevlilerinin mesleki yeterliliklerini standartlaştırmak ve güvence altına almak",
+            "C) Kamu kurumlarına istihdam sağlamak",
+            "D) Sınav geliri elde etmek"
+          ],
+          "a": 1,
+          "e": "Lisanslama sistemi; uyum görevlilerinin SGA/TF alanındaki bilgi ve beceri düzeyini standartlaştırarak profesyonelliği güvence altına alır."
+        },
+        {
+          "q": "Lisanslama sürecinde sınav içeriğini ve formatını belirleyen kurum hangisidir?",
+          "o": [
+            "A) MASAK",
+            "B) BDDK",
+            "C) SPK",
+            "D) Türkiye Bankacılık Birliği"
+          ],
+          "a": 2,
+          "e": "Uyum görevlisi yetkilendirme sınavının içeriğini ve formatını SPK belirlemektedir."
+        },
+        {
+          "q": "Finansal grup uyum programında hangi kural geçerlidir?",
+          "o": [
+            "A) Her zaman yerel mevzuat geçerlidir",
+            "B) Her zaman grup standardı geçerlidir",
+            "C) Grup standardı ile yerel mevzuat arasında daha katı olan uygulanır",
+            "D) İki standart arasındaki fark göz ardı edilir"
+          ],
+          "a": 2,
+          "e": "Finansal gruplarda grup standardı ile yerel mevzuat arasında çelişki olması hâlinde daha kısıtlayıcı olan kural uygulanır."
+        },
+        {
+          "q": "Küçük ölçekli bir yükümlü uyum programını nasıl oluşturmalıdır?",
+          "o": [
+            "A) Büyük bankalarla birebir aynı programı kullanmalıdır",
+            "B) Risk bazlı yaklaşımla faaliyet hacmi ve risk profiliyle orantılı, basit bir program oluşturabilir",
+            "C) Program oluşturması gerekmez",
+            "D) Yalnızca ŞİB prosedürü yeterlidir"
+          ],
+          "a": 1,
+          "e": "Risk bazlı yaklaşım çerçevesinde küçük yükümlüler, büyüklükleriyle orantılı basitleştirilmiş bir uyum programı oluşturabilir."
+        },
+        {
+          "q": "Uyum programının etkinliğini ölçen temel göstergeler nelerdir?",
+          "o": [
+            "A) Kâr marjı ve müşteri sayısı",
+            "B) Doğru ŞİB sayısı, eğitim tamamlanma oranı, denetim bulguları ve risk azalma trendi",
+            "C) Yalnızca çalışan memnuniyeti",
+            "D) Yalnızca müşteri şikayet sayısı"
+          ],
+          "a": 1,
+          "e": "Uyum programı etkinliği; ŞİB kalitesi, eğitim tamamlanma oranları, iç denetim bulguları ve risk profilindeki değişimle ölçülür."
+        },
+        {
+          "q": "Uyum programının temel hedefi hangi ifadeyle en doğru biçimde özetlenebilir?",
+          "o": [
+            "A) Kurumun kârlılığını artırmak",
+            "B) Müşteri sayısını çoğaltmak",
+            "C) SGA, TF ve KİSYF risklerine karşı kurumu korumak ve yasal yükümlülükleri yerine getirmek",
+            "D) Personel devir hızını azaltmak"
+          ],
+          "a": 2,
+          "e": "Uyum programının temel amacı; SGA, TF ve KİSYF risklerine karşı kurumsal koruma sağlamak ve yasal yükümlülüklerin eksiksiz yerine getirilmesini güvence altına almaktır."
+        },
+        {
+          "q": "İşlem izleme sisteminin temel amacı nedir?",
+          "o": [
+            "A) Müşteri memnuniyetini artırmak",
+            "B) Olağandışı veya şüpheli işlem örüntülerini tespit etmek",
+            "C) İşlem maliyetlerini azaltmak",
+            "D) Personel verimliliğini ölçmek"
+          ],
+          "a": 1,
+          "e": "İşlem izleme sistemi; müşterinin beklenen işlem profiliyle uyumsuz, olağandışı veya açıklanamayan işlemleri tespit etmek amacıyla kullanılır."
+        },
+        {
+          "q": "Kurumun genel risk profilini izlemek ve stratejik kararlar almak kimin sorumluluğundadır?",
+          "o": [
+            "A) Uyum biriminin",
+            "B) İç denetim biriminin",
+            "C) Yönetim kurulunun",
+            "D) Muhasebe biriminin"
+          ],
+          "a": 2,
+          "e": "Yönetim kurulu, kurumun genel SGA/TF risk profilini izlemek ve bu alanda stratejik kararlar almakla sorumludur."
+        },
+        {
+          "q": "İşlem izlemede 'olağandışı işlem' nasıl tanımlanır?",
+          "o": [
+            "A) Tutarı 1.000 TL'yi aşan her işlem",
+            "B) Müşterinin beklenen profili, geçmişi veya faaliyet türüyle uyumsuz olan işlemler",
+            "C) Yalnızca yurt dışı transferler",
+            "D) Yalnızca nakit işlemler"
+          ],
+          "a": 1,
+          "e": "Olağandışı işlem; müşterinin bilinen profili, geçmiş işlem örüntüsü veya faaliyet türüyle açıklanamayan ya da uyumsuz olan işlemlerdir."
+        },
+        {
+          "q": "Risk izleme ve kontrolün nihai amacı nedir?",
+          "o": [
+            "A) Kârlılığı artırmak",
+            "B) SGA ve TF suçlarını önlemek, tespit etmek ve raporlamak",
+            "C) Müşteri sayısını artırmak",
+            "D) Operasyon maliyetlerini düşürmek"
+          ],
+          "a": 1,
+          "e": "Risk izleme ve kontrolün nihai amacı; SGA ve TF suçlarının kurumun kanalları üzerinden gerçekleşmesini önlemek, oluşan şüpheleri tespit etmek ve yetkili makamlara bildirmektir."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
