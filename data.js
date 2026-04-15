@@ -31508,6 +31508,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_DENI": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "Denetim Sistemi ve Yetkili Kuruluşlar",
+        "body": "<ul><li>Uyum mevzuatına ilişkin denetimler MASAK, BDDK, SPK ve Hazine & Maliye Bakanlığı gibi kurumlarca yürütülür.</li><li>MASAK birincil AML/CFT denetim otoritesi olup yerinde inceleme ve uzaktan gözetim yapabilir.</li><li>Sektörel denetim otoriteleri (BDDK, SPK vb.) kendi yetki alanlarındaki yükümlüleri denetler.</li><li>Uluslararası karşılıklı değerlendirmeler FATF tarafından gerçekleştirilir.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "Yerinde Denetim",
+        "body": "<ul><li>Denetçiler kurum nezdinde belgeler, sistemler ve süreçleri inceler.</li><li>KYC dosyaları, ŞİB kayıtları, eğitim belgeleri ve yönetim kurulu kararları inceleme kapsamındadır.</li><li>Denetim öncesi hazırlık, denetim süreci ve denetim sonrası raporlama olmak üzere üç aşamadan oluşur.</li><li>Bulgular resmi denetim raporuyla kuruma tebliğ edilir.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "Uzaktan (Off-site) Gözetim",
+        "body": "<ul><li>Kurum merkezine gidilmeksizin veri, rapor ve beyannameler üzerinden yürütülen denetim türüdür.</li><li>Yükümlüler, belirlenen formatlarda periyodik raporlar göndermek zorundadır.</li><li>Anormal örüntüler, işlem tutarsızlıkları uzaktan gözetimle tespit edilir.</li><li>Uzaktan gözetim sonuçları yerinde denetime geçişi tetikleyebilir.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "Denetim Kapsamı ve Değerlendirme Kriterleri",
+        "body": "<ul><li>KYC/CDD süreçlerinin etkinliği, ŞİB kalitesi ve eğitim programları değerlendirilir.</li><li>Risk bazlı yaklaşım (RBA) kapsamında kurumun kendi risk değerlendirmesinin yeterliliği incelenir.</li><li>Uyum programının yazılı, uygulanabilir ve güncel olması beklenir.</li><li>Üst yönetim ve yönetim kurulunun uyum taahhüdü ayrıca değerlendirilir.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "Denetim Sonuçları ve Takip",
+        "body": "<ul><li>Denetim bulgularına göre kurumdan eylem planı (action plan) talep edilebilir.</li><li>Hafif bulgular yazılı uyarı ile sonuçlanabilirken ciddi bulgular idari yaptırımlara yol açar.</li><li>Kurumlar, belirlenen süre içinde eksiklikleri gidermek ve kanıtlayıcı belgeleri sunmak zorundadır.</li><li>Tekrarlayan ihlaller daha ağır yaptırımları beraberinde getirir.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "MASAK'ın AML/CFT alanındaki temel rolü nedir?",
+          "o": [
+            "A) Yalnızca cezai kovuşturma başlatmak",
+            "B) Yükümlüleri denetlemek ve uyum politikalarını yönlendirmek",
+            "C) Yalnızca uluslararası raporlar yayımlamak",
+            "D) Sermaye piyasası araçlarını onaylamak"
+          ],
+          "a": 1,
+          "e": "MASAK, Türkiye'nin birincil AML/CFT denetim otoritesi olarak yükümlüleri denetler ve uyum politikalarını yönlendirir."
+        },
+        {
+          "q": "Yerinde denetimde hangi belgeler incelenir?",
+          "o": [
+            "A) Yalnızca finansal tablolar",
+            "B) KYC dosyaları, ŞİB kayıtları, eğitim belgeleri ve yönetim kurulu kararları",
+            "C) Yalnızca vergi beyannameleri",
+            "D) Yalnızca muhasebe kayıtları"
+          ],
+          "a": 1,
+          "e": "Yerinde denetimde KYC dosyaları, ŞİB kayıtları, eğitim belgeleri ve yönetim kurulu kararları inceleme kapsamına girer."
+        },
+        {
+          "q": "Uzaktan (off-site) gözetim nasıl gerçekleştirilir?",
+          "o": [
+            "A) Kurum merkezine gidilerek",
+            "B) Veri, rapor ve beyannameler üzerinden kurum merkezine gidilmeksizin",
+            "C) Yalnızca şüpheli işlem bildirimleri incelenerek",
+            "D) Müşteri ziyaretleri yapılarak"
+          ],
+          "a": 1,
+          "e": "Uzaktan gözetim, kurum merkezine gidilmeksizin veri, rapor ve beyannameler üzerinden yürütülen denetim türüdür."
+        },
+        {
+          "q": "Uluslararası karşılıklı değerlendirmeleri hangi kuruluş gerçekleştirir?",
+          "o": [
+            "A) IMF",
+            "B) Dünya Bankası",
+            "C) FATF",
+            "D) BIS"
+          ],
+          "a": 2,
+          "e": "FATF (Finansal Eylem Görev Gücü), üye ülkelerin AML/CFT sistemlerini karşılıklı değerlendirme süreciyle denetler."
+        },
+        {
+          "q": "Denetim öncesi hazırlık aşamasında kurumdan ne beklenir?",
+          "o": [
+            "A) Tüm çalışanların işten çıkarılması",
+            "B) İlgili belgelerin, dosyaların ve sistemlerin denetime hazır hale getirilmesi",
+            "C) Yalnızca mali tabloların hazırlanması",
+            "D) Tüm işlemlerin durdurulması"
+          ],
+          "a": 1,
+          "e": "Denetim öncesi hazırlıkta ilgili belgeler, dosyalar ve sistemler denetime hazır hale getirilir."
+        },
+        {
+          "q": "Uzaktan gözetim sonuçlarının tetikleyebileceği süreç nedir?",
+          "o": [
+            "A) Lisans otomatik iptal edilir",
+            "B) Yerinde denetime geçilebilir",
+            "C) Kurum kapatılır",
+            "D) Suç duyurusunda bulunulur"
+          ],
+          "a": 1,
+          "e": "Uzaktan gözetimde tespit edilen anormallikler yerinde denetime geçişi tetikleyebilir."
+        },
+        {
+          "q": "Denetim kapsamında risk bazlı yaklaşım (RBA) değerlendirmesinde ne incelenir?",
+          "o": [
+            "A) Kurumun kârlılık oranları",
+            "B) Kurumun kendi risk değerlendirmesinin yeterliliği",
+            "C) Kurumun pazar payı",
+            "D) Kurumun çalışan sayısı"
+          ],
+          "a": 1,
+          "e": "RBA değerlendirmesinde kurumun kendi yaptığı risk değerlendirmesinin yeterliliği ve güncelliği incelenir."
+        },
+        {
+          "q": "Denetim bulgularına yanıt olarak kurumdan ne talep edilebilir?",
+          "o": [
+            "A) Faaliyet izninin iadesi",
+            "B) Eylem planı (action plan) hazırlanması",
+            "C) Yönetim kurulunun değiştirilmesi",
+            "D) Tüm müşteri hesaplarının kapatılması"
+          ],
+          "a": 1,
+          "e": "Denetim bulgularına göre otoriteler kurumdan eksiklikleri gidermek üzere eylem planı hazırlamasını talep edebilir."
+        },
+        {
+          "q": "Hafif denetim bulgularının tipik sonucu nedir?",
+          "o": [
+            "A) Lisans iptali",
+            "B) Yazılı uyarı",
+            "C) Cezai kovuşturma",
+            "D) Faaliyetlerin durdurulması"
+          ],
+          "a": 1,
+          "e": "Hafif nitelikteki bulgular genellikle yazılı uyarı ile sonuçlanır; ciddi ihlaller daha ağır yaptırımlara yol açar."
+        },
+        {
+          "q": "Periyodik raporlama yükümlülüğü hangi denetim türüyle ilişkilidir?",
+          "o": [
+            "A) Yerinde denetim",
+            "B) Uzaktan gözetim",
+            "C) FATF değerlendirmesi",
+            "D) Cezai soruşturma"
+          ],
+          "a": 1,
+          "e": "Uzaktan gözetimde yükümlüler belirlenen formatlarda periyodik raporlar göndermek zorundadır."
+        },
+        {
+          "q": "Uyum programının denetimde kabul görmesi için hangi özellikleri taşıması gerekir?",
+          "o": [
+            "A) Yalnızca yazılı olması yeterlidir",
+            "B) Yazılı, uygulanabilir ve güncel olması gerekir",
+            "C) Yalnızca uygulanabilir olması gerekir",
+            "D) Yönetim kurulunca imzalanmış olması tek koşuldur"
+          ],
+          "a": 1,
+          "e": "Uyum programının denetimde kabul görmesi için yazılı, uygulanabilir ve güncel olması beklenir."
+        },
+        {
+          "q": "Sektörel denetim otoritelerinin (BDDK, SPK) yetki alanı nasıl tanımlanır?",
+          "o": [
+            "A) Tüm sektörleri kapsar",
+            "B) Yalnızca kendi yetki alanlarındaki yükümlüleri denetlerler",
+            "C) Yalnızca yabancı kurumları denetlerler",
+            "D) MASAK'ın altında görev yaparlar ve bağımsız değildirler"
+          ],
+          "a": 1,
+          "e": "BDDK, SPK gibi sektörel otoriteler kendi yetki alanlarındaki yükümlüleri denetler; MASAK ile koordineli çalışırlar."
+        },
+        {
+          "q": "Tekrarlayan ihlallerin sonucu nedir?",
+          "o": [
+            "A) Daha hafif yaptırımlar uygulanır",
+            "B) Daha ağır yaptırımlar gündeme gelir",
+            "C) İhlaller kayıt altına alınmaz",
+            "D) Otomatik af uygulanır"
+          ],
+          "a": 1,
+          "e": "Tekrarlayan ihlaller, daha ağır idari ve hukuki yaptırımları beraberinde getirir."
+        },
+        {
+          "q": "Denetim raporunun kuruma tebliği hangi aşamada gerçekleşir?",
+          "o": [
+            "A) Denetim öncesinde",
+            "B) Denetim sürecinde",
+            "C) Denetim sonrası raporlama aşamasında",
+            "D) Eylem planı hazırlandıktan sonra"
+          ],
+          "a": 2,
+          "e": "Denetim bulguları, denetim süreci tamamlandıktan sonra resmi denetim raporuyla kuruma tebliğ edilir."
+        },
+        {
+          "q": "Üst yönetim ve yönetim kurulunun uyum taahhüdü neden denetimde ayrıca değerlendirilir?",
+          "o": [
+            "A) Yasal bir zorunluluk olmadığı için",
+            "B) Uyum kültürünün kurumun en üst kademesinden başlaması gerektiği için",
+            "C) Yalnızca hissedar memnuniyeti açısından",
+            "D) Muhasebe standartları gerektirdiği için"
+          ],
+          "a": 1,
+          "e": "Etkin uyum kültürü kurumun en üst kademesinden başlar; bu nedenle üst yönetim ve yönetim kurulunun taahhüdü denetimde ayrıca incelenir."
+        },
+        {
+          "q": "Denetçilerin ŞİB kayıtlarını incelemesinin amacı nedir?",
+          "o": [
+            "A) Kurumun gelirini hesaplamak",
+            "B) Şüpheli işlem bildirimlerinin kalitesini ve zamanında yapılıp yapılmadığını değerlendirmek",
+            "C) Müşteri memnuniyetini ölçmek",
+            "D) Vergi uyumunu kontrol etmek"
+          ],
+          "a": 1,
+          "e": "ŞİB kayıtları, bildirimlerin kalitesi, eksiksizliği ve zamanında yapılıp yapılmadığı açısından denetimde incelenir."
+        },
+        {
+          "q": "Denetimde eksiklik tespit edildiğinde kurumun tepkisi için belirlenen süreye uyulmaması ne sonuç doğurur?",
+          "o": [
+            "A) Süre otomatik uzatılır",
+            "B) Ek yaptırım uygulanabilir",
+            "C) Bulgular kaydedilmez",
+            "D) Eylem planı iptal edilir"
+          ],
+          "a": 1,
+          "e": "Belirlenen sürede eksikliklerin giderilmemesi ve kanıtlayıcı belge sunulmaması ek yaptırım uygulanmasına yol açabilir."
+        },
+        {
+          "q": "Denetimde incelenen eğitim belgelerinin önemi nedir?",
+          "o": [
+            "A) Çalışanların maaş düzeylerini kanıtlar",
+            "B) Kurumun AML/CFT konularında çalışanlarını eğitip eğitmediğini ortaya koyar",
+            "C) Çalışanların akademik diplomalarını kanıtlar",
+            "D) İşe alım süreçlerinin belgelenmesini sağlar"
+          ],
+          "a": 1,
+          "e": "Eğitim belgeleri, yükümlünün AML/CFT eğitim yükümlülüğünü yerine getirip getirmediğini kanıtlar."
+        },
+        {
+          "q": "Denetim sürecinde anormal işlem örüntülerinin tespitinde hangi yöntem önce devreye girer?",
+          "o": [
+            "A) Yerinde denetim",
+            "B) Uzaktan gözetim",
+            "C) FATF karşılıklı değerlendirmesi",
+            "D) Cezai soruşturma"
+          ],
+          "a": 1,
+          "e": "Anormal işlem örüntüleri ve tutarsızlıklar genellikle uzaktan gözetimle tespit edilir; bu durum yerinde denetime geçişi tetikleyebilir."
+        },
+        {
+          "q": "Uyum denetiminde kurumun KYC dosyalarında eksiklik tespit edilmesi hangi yükümlülüğün ihlali anlamına gelir?",
+          "o": [
+            "A) Raporlama yükümlülüğü",
+            "B) Müşteri kimlik tespiti (KYC) yükümlülüğü",
+            "C) Sermaye yeterliliği yükümlülüğü",
+            "D) Vergi beyanı yükümlülüğü"
+          ],
+          "a": 1,
+          "e": "KYC dosyalarındaki eksiklikler, müşteri kimlik tespiti (KYC/CDD) yükümlülüğünün yerine getirilmediğini gösterir."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -34381,6 +34634,40 @@ window.__EXT = {
         {
           "heading": "Yaptırım Türleri",
           "content": "<p>İhlal durumunda uygulanabilecek yaptırımlar şunlardır: (1) <strong>Uyarı</strong> ve tebligat. (2) <strong>İdari para cezası:</strong> İhlalin niteliğine göre belirlenen tutarlar. (3) <strong>Faaliyet izni iptali:</strong> Ciddi ve tekrarlayan ihlallerde lisans iptali gündeme gelebilir. (4) <strong>Cezai yaptırım:</strong> Kasıtlı ihlallerde savcılığa suç duyurusunda bulunulabilir.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_DENI": [
+    {
+      "num": "01",
+      "title": "Denetim Sistemi",
+      "sections": [
+        {
+          "heading": "Yetkili Denetim Kurumları",
+          "content": "<p>AML/CFT uyum denetimleri; <strong>MASAK</strong> (birincil otorite), <strong>BDDK</strong> (bankacılık), <strong>SPK</strong> (sermaye piyasası), <strong>Sigortacılık Genel Müdürlüğü</strong> ve <strong>Hazine &amp; Maliye Bakanlığı</strong> tarafından ilgili mevzuat çerçevesinde yürütülür.</p>"
+        },
+        {
+          "heading": "Yerinde ve Uzaktan Denetim",
+          "content": "<p><strong>Yerinde denetim:</strong> Denetçilerin kurumda bulunarak KYC dosyaları, ŞİB kayıtları, eğitim belgeleri ve yönetim kurulu kararlarını incelemesi. Üç aşamalıdır: hazırlık → denetim → raporlama.<br><strong>Uzaktan gözetim:</strong> Kurum merkezine gidilmeksizin periyodik raporlar ve veri setleri üzerinden yürütülür; anormal örüntüler tespit edildiğinde yerinde denetime geçilebilir.</p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "Denetim Kapsamı ve Sonuçları",
+      "sections": [
+        {
+          "heading": "Değerlendirme Kriterleri",
+          "content": "<p>Denetimde şu unsurlar değerlendirilir: (1) KYC/CDD süreçlerinin etkinliği. (2) ŞİB kalitesi ve zamanında bildirim. (3) Eğitim programlarının varlığı ve düzenliliği. (4) Risk bazlı yaklaşımın (RBA) kurumsal risk iştahıyla uyumu. (5) Üst yönetim ve yönetim kurulunun uyum taahhüdü.</p>"
+        },
+        {
+          "heading": "Bulgular ve Takip Süreci",
+          "content": "<p>Denetim bulguları resmi raporla tebliğ edilir. Kurumdan <strong>eylem planı</strong> talep edilebilir. Hafif bulgular yazılı uyarıyla sonuçlanırken, ciddi veya tekrarlayan ihlaller idari yaptırım aşamasına taşınır. Belirlenen sürede eksikliklerin giderilmemesi ek yaptırım doğurur.</p>"
+        },
+        {
+          "heading": "FATF Karşılıklı Değerlendirme",
+          "content": "<p>FATF, üye ülkelerin AML/CFT sistemlerini belirli aralıklarla <strong>karşılıklı değerlendirme (mutual evaluation)</strong> süreciyle inceler. Değerlendirme raporları kamuoyuyla paylaşılır ve ülkelerin gri/siyah listeye alınmasını etkileyebilir.</p>"
         }
       ]
     }
