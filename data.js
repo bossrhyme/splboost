@@ -32014,6 +32014,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_BILGI": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "Bilgi Verme Yükümlülüğü",
+        "body": "<ul><li>Yükümlüler, MASAK ve yetkili makamların talepleri doğrultusunda bilgi ve belge sunmak zorundadır.</li><li>Bilgi verme yükümlülüğü; müşteri bilgileri, işlem kayıtları ve iç raporları kapsar.</li><li>Talepler yazılı ya da elektronik yollarla iletilir; yanıt süreleri mevzuatla belirlenir.</li><li>Bilgi vermekten kaçınmak veya yanıltıcı bilgi sunmak idari ve cezai yaptırım gerektirir.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "Sır Saklama ve Korunma (Tipping-Off Yasağı)",
+        "body": "<ul><li>Şüpheli işlem bildirimi yapıldığında müşteri veya üçüncü kişiler bilgilendirilemez (tipping-off yasağı).</li><li>Bildirim yapan çalışan ve kurumlar yasal koruma altındadır; iyi niyetli bildirimlerde hukuki sorumluluk doğmaz.</li><li>Sır saklama yükümlülüğü ŞİB bilgisinin gizliliğini güvence altına alır.</li><li>İhlali halinde cezai yaptırım söz konusudur.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "Kayıt Muhafaza Yükümlülüğü",
+        "body": "<ul><li>İşlemlere ait kimlik tespiti belgeleri ve yazışmalar <b>5 yıl</b> süreyle saklanmalıdır.</li><li>Süre, işlemin gerçekleştiği veya iş ilişkisinin sona erdiği tarihten itibaren başlar.</li><li>Fiziksel ya da elektronik ortamda saklanabilir; erişilebilirlik ve bütünlük şarttır.</li><li>Yetkililerin talebi üzerine derhal sunulabilir olmalıdır.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "Bilgi Paylaşımı — Grup İçi ve Uluslararası",
+        "body": "<ul><li>Finansal grup bünyesindeki şirketler, AML/CFT amaçlı bilgi paylaşabilir.</li><li>Uluslararası bilgi paylaşımı ikili anlaşmalar ve EGMONT Grubu kanalıyla sağlanır.</li><li>Paylaşılan bilgiler yalnızca AML/CFT amaçlarıyla kullanılabilir; üçüncü taraflara aktarılamaz.</li><li>Ülke mevzuatının izin verdiği ölçüde bilgi paylaşımı yapılır.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "İç Bildirim ve Raporlama Hiyerarşisi",
+        "body": "<ul><li>Şüpheli durumları fark eden çalışanlar uyum görevlisine iç bildirim yapar.</li><li>Uyum görevlisi değerlendirme sonucunda MASAK'a dış bildirim (ŞİB) yapar ya da yapmayı reddeder.</li><li>Ret kararı gerekçesiyle birlikte kayıt altına alınmalıdır.</li><li>İç bildirim sistemi gizli, erişilebilir ve işlevsel olmalıdır.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "Tipping-off yasağı ne anlama gelir?",
+          "o": [
+            "A) Müşteriye sunulan ürünlerin listelenmesi",
+            "B) ŞİB yapıldığının müşteri veya üçüncü kişilere bildirilememesi",
+            "C) Uyum görevlisinin üst yönetime rapor vermesi",
+            "D) MASAK'ın kamuoyuna bilgi vermesi"
+          ],
+          "a": 1,
+          "e": "Tipping-off yasağı, şüpheli işlem bildirimi yapıldığında müşterinin veya ilgili kişilerin bu konuda bilgilendirilmesini yasaklar."
+        },
+        {
+          "q": "Kimlik tespiti belgeleri ve işlem kayıtları ne kadar süre muhafaza edilmelidir?",
+          "o": [
+            "A) 2 yıl",
+            "B) 3 yıl",
+            "C) 5 yıl",
+            "D) 10 yıl"
+          ],
+          "a": 2,
+          "e": "5549 sayılı Kanun uyarınca kayıtlar işlem tarihinden ya da iş ilişkisinin sona erdiği tarihten itibaren 5 yıl süreyle saklanmalıdır."
+        },
+        {
+          "q": "İyi niyetli ŞİB yapan çalışanlar hukuki açıdan nasıl korunur?",
+          "o": [
+            "A) Hiçbir koruma sağlanmaz",
+            "B) Yasal koruma altındadır; bildirimden dolayı hukuki sorumluluk doğmaz",
+            "C) Yalnızca üst yönetim korunur",
+            "D) Yalnızca anonim bildirimler koruma kapsamındadır"
+          ],
+          "a": 1,
+          "e": "İyi niyetli ŞİB yapan çalışanlar ve kurumlar yasal koruma altında olup bildirimden dolayı hukuki sorumlulukla karşılaşmazlar."
+        },
+        {
+          "q": "MASAK'ın bilgi talebine yanıt vermekten kaçınmak ne sonuç doğurur?",
+          "o": [
+            "A) Hiçbir yaptırım uygulanmaz",
+            "B) İdari ve cezai yaptırım gerektirebilir",
+            "C) Yalnızca yazılı uyarı verilir",
+            "D) Yalnızca konu kayıt altına alınır"
+          ],
+          "a": 1,
+          "e": "Bilgi vermekten kaçınmak veya yanıltıcı bilgi sunmak idari ve cezai yaptırıma yol açabilir."
+        },
+        {
+          "q": "Grup içi bilgi paylaşımının AML/CFT açısından amacı nedir?",
+          "o": [
+            "A) Rakip kurumlara bilgi sağlamak",
+            "B) Finansal grup bünyesinde uyum etkinliğini artırmak",
+            "C) Müşteri verilerini ticari amaçlarla kullanmak",
+            "D) Vergi planlaması yapmak"
+          ],
+          "a": 1,
+          "e": "Grup içi bilgi paylaşımı, AML/CFT uyumunu güçlendirmek amacıyla finansal grup şirketleri arasında gerçekleştirilir."
+        },
+        {
+          "q": "Uluslararası AML/CFT bilgi paylaşımı hangi kanallarla sağlanır?",
+          "o": [
+            "A) Yalnızca BM kararlarıyla",
+            "B) İkili anlaşmalar ve EGMONT Grubu kanalıyla",
+            "C) Yalnızca FATF kanalıyla",
+            "D) Yalnızca AB direktifleriyle"
+          ],
+          "a": 1,
+          "e": "Uluslararası bilgi paylaşımı ikili anlaşmalar ve Mali İstihbarat Birimleri ağı olan EGMONT Grubu kanalıyla sağlanır."
+        },
+        {
+          "q": "Şüpheli durumu fark eden çalışanın ilk adımı ne olmalıdır?",
+          "o": [
+            "A) Doğrudan MASAK'a bildirmek",
+            "B) Uyum görevlisine iç bildirim yapmak",
+            "C) Müşteriyi bilgilendirmek",
+            "D) Hesabı hemen kapatmak"
+          ],
+          "a": 1,
+          "e": "Şüpheli durumu fark eden çalışan önce uyum görevlisine iç bildirim yapar; MASAK'a dış bildirim uyum görevlisi tarafından değerlendirme sonrası yapılır."
+        },
+        {
+          "q": "Uyum görevlisi ŞİB yapmama kararı aldığında ne yapmalıdır?",
+          "o": [
+            "A) Müşteriyi bilgilendirmelidir",
+            "B) Kararı gerekçesiyle birlikte kayıt altına almalıdır",
+            "C) Üst yönetime bildirim yapmamalıdır",
+            "D) Hesabı hemen kapatmalıdır"
+          ],
+          "a": 1,
+          "e": "ŞİB yapmama kararı gerekçesiyle birlikte kayıt altına alınmalıdır."
+        },
+        {
+          "q": "Kayıt muhafaza süresinin başlangıç noktası nedir?",
+          "o": [
+            "A) Müşteri hesabının açıldığı tarih",
+            "B) İşlemin gerçekleştiği ya da iş ilişkisinin sona erdiği tarih",
+            "C) Uyum görevlisinin atandığı tarih",
+            "D) Yıllık denetim tarihi"
+          ],
+          "a": 1,
+          "e": "5 yıllık muhafaza süresi işlemin gerçekleştiği veya iş ilişkisinin sona erdiği tarihten itibaren işlemeye başlar."
+        },
+        {
+          "q": "Grup içi paylaşılan AML/CFT bilgileri nasıl kullanılabilir?",
+          "o": [
+            "A) Ticari pazarlama amacıyla kullanılabilir",
+            "B) Yalnızca AML/CFT amaçlarıyla kullanılabilir",
+            "C) Üçüncü taraflara serbestçe aktarılabilir",
+            "D) Düzenleyici kurumlara satılabilir"
+          ],
+          "a": 1,
+          "e": "Grup içi paylaşılan AML/CFT bilgileri yalnızca AML/CFT amaçlarıyla kullanılabilir; başka amaçlarla kullanılamaz."
+        },
+        {
+          "q": "Tipping-off yasağını ihlal etmenin sonucu nedir?",
+          "o": [
+            "A) Hiçbir sonucu yoktur",
+            "B) Cezai yaptırım söz konusu olabilir",
+            "C) Yalnızca yazılı uyarı verilir",
+            "D) Yalnızca dahili disiplin işlemi uygulanır"
+          ],
+          "a": 1,
+          "e": "Tipping-off yasağının ihlali cezai yaptırıma yol açabilir."
+        },
+        {
+          "q": "Belgelerin elektronik ortamda saklanması kabul edilir mi?",
+          "o": [
+            "A) Hayır, yalnızca fiziksel saklama geçerlidir",
+            "B) Evet, erişilebilirlik ve bütünlük sağlandığı sürece elektronik saklama kabul edilir",
+            "C) Yalnızca bankalar için geçerlidir",
+            "D) Yalnızca uluslararası işlemler için geçerlidir"
+          ],
+          "a": 1,
+          "e": "Belgeler fiziksel ya da elektronik ortamda saklanabilir; önemli olan erişilebilirlik ve bütünlüğün korunmasıdır."
+        },
+        {
+          "q": "Bilgi talebine yanıt sürelerini kim belirler?",
+          "o": [
+            "A) Kurum kendi süresini serbestçe belirler",
+            "B) Mevzuat",
+            "C) Müşteri",
+            "D) Uluslararası kuruluşlar"
+          ],
+          "a": 1,
+          "e": "MASAK ve yetkili makamların bilgi taleplerine yanıt süreleri ilgili mevzuatla belirlenir."
+        },
+        {
+          "q": "İç bildirim sisteminin temel özellikleri nelerdir?",
+          "o": [
+            "A) Kamuya açık ve ücretli olmalıdır",
+            "B) Gizli, erişilebilir ve işlevsel olmalıdır",
+            "C) Yalnızca yazılı başvuruya açık olmalıdır",
+            "D) Yalnızca üst yönetimin erişebileceği şekilde olmalıdır"
+          ],
+          "a": 1,
+          "e": "Etkili bir iç bildirim sistemi gizli, erişilebilir ve işlevsel nitelikte olmalıdır."
+        },
+        {
+          "q": "EGMONT Grubu'nun AML/CFT alanındaki rolü nedir?",
+          "o": [
+            "A) Uluslararası vergi denetimi yapmak",
+            "B) Mali istihbarat birimlerinin bilgi paylaşımını kolaylaştırmak",
+            "C) Ülkeleri kara listeye almak",
+            "D) Küresel döviz rezervlerini yönetmek"
+          ],
+          "a": 1,
+          "e": "EGMONT Grubu, ülkelerin Mali İstihbarat Birimlerinin (MİB) AML/CFT bilgi paylaşımını kolaylaştıran uluslararası bir ağdır."
+        },
+        {
+          "q": "Kayıtların yetkililere sunulabilirliği açısından ne gereklidir?",
+          "o": [
+            "A) Kayıtların arşivlenmesi yeterlidir",
+            "B) Talep üzerine derhal sunulabilir olması gerekir",
+            "C) Yalnızca 6 ay içinde sunulabilir olması yeterlidir",
+            "D) Yalnızca dijital kopya yeterlidir"
+          ],
+          "a": 1,
+          "e": "Muhafaza edilen kayıtlar, yetkililerin talebi üzerine derhal sunulabilir erişilebilirlikte olmalıdır."
+        },
+        {
+          "q": "Yanıltıcı bilgi sunulması hangi sonucu doğurur?",
+          "o": [
+            "A) Hiçbir yaptırım yoktur",
+            "B) İdari ve cezai yaptırım gerektirebilir",
+            "C) Yalnızca sözlü ihtar yapılır",
+            "D) Yalnızca para cezası uygulanır"
+          ],
+          "a": 1,
+          "e": "MASAK'a yanıltıcı bilgi sunmak idari ve cezai yaptırıma konu olabilir."
+        },
+        {
+          "q": "Sır saklama yükümlülüğü hangi konuyu kapsar?",
+          "o": [
+            "A) Müşteri hesap bakiyeleri",
+            "B) ŞİB bilgisinin gizliliği",
+            "C) Kurumun yıllık geliri",
+            "D) Çalışan maaş bilgileri"
+          ],
+          "a": 1,
+          "e": "Sır saklama yükümlülüğü özellikle ŞİB bilgisinin gizliliğini güvence altına almak amacıyla düzenlenmiştir."
+        },
+        {
+          "q": "Uyum görevlisi, çalışandan gelen iç bildirimi değerlendirip ne yapar?",
+          "o": [
+            "A) Otomatik olarak MASAK'a bildirir",
+            "B) Değerlendirme sonucunda ŞİB yapar ya da yapmamayı gerekçesiyle kayıt altına alır",
+            "C) Müşteriyi bilgilendirir",
+            "D) Hesabı dondurur"
+          ],
+          "a": 1,
+          "e": "Uyum görevlisi iç bildirimi değerlendirir; MASAK'a dış bildirim yapabilir ya da yapmama kararını gerekçesiyle kayıt altına alır."
+        },
+        {
+          "q": "Kayıt muhafaza yükümlülüğünün temel amacı nedir?",
+          "o": [
+            "A) Vergi gelirlerini artırmak",
+            "B) Soruşturma ve denetimler için kanıt sağlamak",
+            "C) Müşteri memnuniyetini ölçmek",
+            "D) Kurumun kârlılığını artırmak"
+          ],
+          "a": 1,
+          "e": "Kayıt muhafaza yükümlülüğü, olası soruşturma ve denetimlerde kanıt sağlanması amacıyla düzenlenmiştir."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -34965,6 +35218,50 @@ window.__EXT = {
         {
           "heading": "Kamuoyu Açıklaması",
           "content": "<p>Cezaların kamuoyuyla paylaşılması (<em>name &amp; shame</em>) kuruma ciddi itibar kaybı yaşatabilir. AML/CFT uyumu yalnızca hukuki değil, itibar güvencesidir de.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_BILGI": [
+    {
+      "num": "01",
+      "title": "Bilgi Verme Yükümlülüğü ve Tipping-Off Yasağı",
+      "sections": [
+        {
+          "heading": "Bilgi Verme Yükümlülüğü",
+          "content": "<p>Yükümlüler, <strong>MASAK</strong> ve yetkili makamların yazılı ya da elektronik taleplerini yanıt süresi içinde karşılamak zorundadır. Talep kapsamı müşteri bilgileri, işlem kayıtları ve iç raporları içerir. Bilgi vermekten kaçınmak ya da yanıltıcı bilgi sunmak idari ve cezai yaptırım gerektirir.</p>"
+        },
+        {
+          "heading": "Tipping-Off Yasağı ve Yasal Koruma",
+          "content": "<p>ŞİB yapıldığında ilgili müşteri veya üçüncü kişiler <strong>kesinlikle bilgilendirilemez</strong> (tipping-off yasağı). İyi niyetli bildirim yapan çalışan ve kurumlar yasal koruma altındadır; bildirimden dolayı hukuki sorumluluk doğmaz. Yasak ihlali cezai yaptırıma konu olur.</p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "Kayıt Muhafaza Yükümlülüğü",
+      "sections": [
+        {
+          "heading": "Süre ve Kapsam",
+          "content": "<p>Kimlik tespiti belgeleri ve işlem kayıtları, işlem tarihinden veya iş ilişkisinin sona erdiği tarihten itibaren <strong>5 yıl</strong> süreyle saklanmalıdır. Fiziksel ya da elektronik ortam kabul edilir; erişilebilirlik ve bütünlük zorunludur.</p>"
+        },
+        {
+          "heading": "Sunulabilirlik",
+          "content": "<p>Kayıtlar, yetkililerin talebi üzerine <strong>derhal sunulabilir</strong> durumda olmalıdır. Bu gereklilik, soruşturma ve denetimlerde kanıt sağlama amacı taşır.</p>"
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "title": "Bilgi Paylaşımı ve İç Bildirim Sistemi",
+      "sections": [
+        {
+          "heading": "Grup İçi ve Uluslararası Paylaşım",
+          "content": "<p>Finansal grup şirketleri AML/CFT amaçlı bilgi paylaşabilir; paylaşılan bilgiler yalnızca bu amaçla kullanılabilir. Uluslararası paylaşım <strong>ikili anlaşmalar</strong> ve <strong>EGMONT Grubu</strong> kanalıyla gerçekleştirilir.</p>"
+        },
+        {
+          "heading": "İç Bildirim Hiyerarşisi",
+          "content": "<p>Çalışan şüpheli durumu <strong>uyum görevlisine</strong> iç bildirim yoluyla iletir. Uyum görevlisi değerlendirip MASAK'a ŞİB yapar ya da yapmama kararını gerekçesiyle kayıt altına alır. İç bildirim sistemi gizli, erişilebilir ve işlevsel olmalıdır.</p>"
         }
       ]
     }
