@@ -31761,6 +31761,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_IPC": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "İdari Para Cezasının Hukuki Dayanağı",
+        "body": "<ul><li>5549 sayılı Kanun AML/CFT ihlalleri için idari para cezası öngörür.</li><li>Cezalar MASAK kararıyla verilir; itiraz yolu açıktır.</li><li>Her yıl yeniden değerleme oranıyla güncellenir ve Resmî Gazete'de yayımlanarak yürürlüğe girer.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "Ceza Türleri",
+        "body": "<ul><li><b>Kimlik tespiti eksikliği:</b> Her işlem için ayrı para cezası.</li><li><b>ŞİB yapılmaması:</b> Daha yüksek tutarlarda ceza.</li><li><b>Kayıt muhafaza ihlali:</b> Belgelerin saklanmaması.</li><li><b>Eğitim yükümlülüğü ihlali:</b> Ek idari ceza.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "Cezayı Etkileyen Faktörler",
+        "body": "<ul><li>Kasıtlı ihlal daha ağır ceza doğurur; ihmal daha hafif değerlendirilir.</li><li>Tekrarlayan ihlaller cezayı katlar.</li><li>Kurumun büyüklüğü ve ihlalden elde edilen menfaat dikkate alınır.</li><li>Gönüllü bildirim hafifletici unsur sayılabilir.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "Lisans İptali ve Diğer Yaptırımlar",
+        "body": "<ul><li>Ağır ve tekrarlayan ihlallerde <b>faaliyet izni iptali</b> mümkündür.</li><li>Sorumlu yöneticilere bireysel ceza uygulanabilir.</li><li>Kasıtlı ihlallerde <b>cezai kovuşturma</b> başlatılabilir.</li><li>Bankacılıkta BDDK eş güdümlü yaptırım uygulayabilir.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "İtiraz ve İdari Süreç",
+        "body": "<ul><li>60 gün içinde idare mahkemesine itiraz edilebilir.</li><li>Mahkeme yürütmeyi durdurabilir.</li><li>Kesinleşen cezalar Hazine'ye gelir kaydedilir.</li><li>Name &amp; shame uygulaması itibar kaybına neden olur.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "5549 sayılı Kanun kapsamında idari para cezaları kim tarafından verilir?",
+          "o": [
+            "A) SPK",
+            "B) MASAK",
+            "C) BDDK",
+            "D) Hazine ve Maliye Bakanı"
+          ],
+          "a": 1,
+          "e": "İdari para cezaları 5549 sayılı Kanun kapsamında MASAK kararıyla verilir."
+        },
+        {
+          "q": "İdari para cezalarının her yıl güncellenmesinin dayanağı nedir?",
+          "o": [
+            "A) Merkez Bankası faiz kararı",
+            "B) Yeniden değerleme oranı",
+            "C) FATF tavsiyeleri",
+            "D) AB direktifleri"
+          ],
+          "a": 1,
+          "e": "Ceza miktarları her yıl yeniden değerleme oranıyla güncellenir."
+        },
+        {
+          "q": "Şüpheli işlem bildiriminin yapılmaması hangi yaptırıma yol açar?",
+          "o": [
+            "A) Yalnızca yazılı uyarı",
+            "B) İdari para cezası",
+            "C) Yalnızca eğitim yükümlülüğü",
+            "D) Hiçbir yaptırım uygulanmaz"
+          ],
+          "a": 1,
+          "e": "ŞİB yükümlülüğünün yerine getirilmemesi idari para cezasına yol açar."
+        },
+        {
+          "q": "İhlalin kasıtlı olması ceza miktarını nasıl etkiler?",
+          "o": [
+            "A) Cezayı azaltır",
+            "B) Cezayı artırır",
+            "C) Ceza miktarını değiştirmez",
+            "D) Cezai kovuşturmayı engeller"
+          ],
+          "a": 1,
+          "e": "Kasıtlı ihlaller daha ağır yaptırımlara konu olur."
+        },
+        {
+          "q": "İdari para cezasına itiraz için süre ne kadardır?",
+          "o": [
+            "A) 15 gün",
+            "B) 30 gün",
+            "C) 60 gün",
+            "D) 90 gün"
+          ],
+          "a": 2,
+          "e": "Ceza kararına 60 gün içinde idare mahkemesinde itiraz edilebilir."
+        },
+        {
+          "q": "İtiraz sürecinde idare mahkemesi cezanın yürütmesini durdurabilir mi?",
+          "o": [
+            "A) Hayır, ceza kesin ve derhal uygulanır",
+            "B) Evet, mahkeme yürütmeyi durdurabilir",
+            "C) Yalnızca MASAK onaylı durumlarda",
+            "D) Yalnızca bankalar için geçerlidir"
+          ],
+          "a": 1,
+          "e": "İtiraz sürecinde mahkeme cezanın yürütmesini durdurabilir."
+        },
+        {
+          "q": "Kesinleşen idari para cezaları nereye gelir kaydedilir?",
+          "o": [
+            "A) MASAK bütçesine",
+            "B) Hazine'ye",
+            "C) SPK'ya",
+            "D) Merkez Bankası'na"
+          ],
+          "a": 1,
+          "e": "Kesinleşen idari para cezaları Hazine'ye gelir kaydedilir."
+        },
+        {
+          "q": "Name and shame uygulaması hangi sonucu doğurur?",
+          "o": [
+            "A) Ceza miktarını azaltır",
+            "B) Kuruma itibar kaybı yaşatır",
+            "C) İtiraz hakkını ortadan kaldırır",
+            "D) Resmî Gazete yayımını engeller"
+          ],
+          "a": 1,
+          "e": "Cezaların kamuoyuyla paylaşılması kurumun itibar kaybetmesine neden olabilir."
+        },
+        {
+          "q": "Kasıtlı ihlaller durumunda MASAK hangi ek adımı atabilir?",
+          "o": [
+            "A) Otomatik olarak lisansı iptal eder",
+            "B) Savcılığa suç duyurusunda bulunarak cezai kovuşturma başlatabilir",
+            "C) Kurumu doğrudan kapatır",
+            "D) Müşteri hesaplarını dondurur"
+          ],
+          "a": 1,
+          "e": "Kasıtlı ihlallerde MASAK savcılığa suç duyurusunda bulunabilir."
+        },
+        {
+          "q": "Kayıt muhafaza yükümlülüğünün ihlali hangi yaptırımı doğurur?",
+          "o": [
+            "A) Hiçbir yaptırım uygulanmaz",
+            "B) İdari para cezası uygulanır",
+            "C) Yalnızca uyarı verilir",
+            "D) Lisans otomatik askıya alınır"
+          ],
+          "a": 1,
+          "e": "Kayıt saklama yükümlülüğünün ihlali idari para cezasına yol açar."
+        },
+        {
+          "q": "İhlalin tekrarlanması ceza miktarını nasıl etkiler?",
+          "o": [
+            "A) Ceza miktarı değişmez",
+            "B) Ceza miktarı azalır",
+            "C) Ceza katlanarak artabilir",
+            "D) Yalnızca yazılı uyarı yapılır"
+          ],
+          "a": 2,
+          "e": "Tekrarlayan ihlaller durumunda ceza miktarı katlanarak artabilir."
+        },
+        {
+          "q": "Bireysel ceza hangi durumda uygulanabilir?",
+          "o": [
+            "A) Yalnızca küçük ihlallerde",
+            "B) Sorumlu yöneticilere ağır ihlaller durumunda",
+            "C) Yalnızca müşterilere",
+            "D) Yalnızca dış denetçilere"
+          ],
+          "a": 1,
+          "e": "Ağır ihlallerde sorumlu yöneticilere bireysel idari para cezası uygulanabilir."
+        },
+        {
+          "q": "Gönüllü bildirim ceza sürecini nasıl etkiler?",
+          "o": [
+            "A) Hiçbir etkisi yoktur",
+            "B) Hafifletici unsur sayılabilir",
+            "C) Cezayı tamamen ortadan kaldırır",
+            "D) Cezayı artırır"
+          ],
+          "a": 1,
+          "e": "İhlalin tespitinden önce gönüllü bildirim hafifletici unsur olarak değerlendirilebilir."
+        },
+        {
+          "q": "Faaliyet izni iptali hangi koşulda gündeme gelebilir?",
+          "o": [
+            "A) Her küçük ihlalde",
+            "B) Ağır ve tekrarlayan ihlallerde",
+            "C) Yalnızca yabancı sermayeli kurumlarda",
+            "D) Hiçbir zaman uygulanmaz"
+          ],
+          "a": 1,
+          "e": "Faaliyet izni iptali ağır ve tekrarlayan ihlallerde uygulanabilecek en ağır yaptırımdır."
+        },
+        {
+          "q": "Cezanın Resmî Gazete'de yayımlanmasının hukuki önemi nedir?",
+          "o": [
+            "A) Ceza henüz kesinleşmemiştir",
+            "B) Ceza bu tarihten itibaren yürürlüğe girer",
+            "C) Sadece bilgilendirme amaçlıdır",
+            "D) Yayım zorunlu değildir"
+          ],
+          "a": 1,
+          "e": "İdari para cezaları Resmî Gazete'de yayımlanarak yürürlüğe girer."
+        },
+        {
+          "q": "Eğitim yükümlülüğünün yerine getirilmemesi nasıl sonuçlanır?",
+          "o": [
+            "A) Hiçbir yaptırım uygulanmaz",
+            "B) İdari para cezası uygulanır",
+            "C) Yalnızca uyarı verilir",
+            "D) Yalnızca sözlü ihtar yapılır"
+          ],
+          "a": 1,
+          "e": "AML/CFT eğitim yükümlülüğünün ihlali idari para cezasına konu olabilir."
+        },
+        {
+          "q": "Bankacılık sektöründe MASAK ile hangi kurum eş güdümlü yaptırım uygulayabilir?",
+          "o": [
+            "A) SPK",
+            "B) BDDK",
+            "C) Hazine ve Maliye Bakanlığı",
+            "D) Merkez Bankası"
+          ],
+          "a": 1,
+          "e": "Bankacılık sektöründe BDDK, MASAK ile eş güdümlü yaptırım uygulayabilir."
+        },
+        {
+          "q": "İhlalin büyüklüğü ceza miktarını etkiler mi?",
+          "o": [
+            "A) Hayır, sabit bir ceza uygulanır",
+            "B) Evet, ihlalden elde edilen menfaat ve kurumun büyüklüğü dikkate alınır",
+            "C) Yalnızca kurumun büyüklüğü dikkate alınır",
+            "D) Yalnızca ihlalden elde edilen menfaat dikkate alınır"
+          ],
+          "a": 1,
+          "e": "Ceza miktarı belirlenirken ihlalden elde edilen menfaat ve kurumun büyüklüğü dikkate alınır."
+        },
+        {
+          "q": "Kimlik tespiti eksikliğinde ceza nasıl hesaplanır?",
+          "o": [
+            "A) Tek sabit tutar uygulanır",
+            "B) Her işlem için ayrı ayrı alt sınırdan aşağı olmamak üzere ceza uygulanır",
+            "C) Toplam gelir üzerinden hesaplanır",
+            "D) Ceza hesaplanmaz, uyarı yapılır"
+          ],
+          "a": 1,
+          "e": "Kimlik tespiti eksikliğinde her işlem için ayrı ayrı belirlenen alt sınırdan aşağı olmamak üzere ceza uygulanır."
+        },
+        {
+          "q": "İdari para cezasının temel amacı nedir?",
+          "o": [
+            "A) Yalnızca devlet geliri elde etmek",
+            "B) Yükümlüleri caydırmak ve AML/CFT uyumunu güçlendirmek",
+            "C) Yalnızca itibar yönetimi sağlamak",
+            "D) Uluslararası baskıyı karşılamak"
+          ],
+          "a": 1,
+          "e": "İdari para cezaları caydırıcılık ve AML/CFT uyum standartlarını güçlendirme amacıyla uygulanır."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -34668,6 +34921,50 @@ window.__EXT = {
         {
           "heading": "FATF Karşılıklı Değerlendirme",
           "content": "<p>FATF, üye ülkelerin AML/CFT sistemlerini belirli aralıklarla <strong>karşılıklı değerlendirme (mutual evaluation)</strong> süreciyle inceler. Değerlendirme raporları kamuoyuyla paylaşılır ve ülkelerin gri/siyah listeye alınmasını etkileyebilir.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_IPC": [
+    {
+      "num": "01",
+      "title": "İdari Para Cezasının Hukuki Çerçevesi",
+      "sections": [
+        {
+          "heading": "Yasal Dayanak ve Uygulama",
+          "content": "<p>5549 sayılı Kanun'un ilgili maddeleri, AML/CFT ihlalleri için idari para cezası öngörür. Cezalar <strong>MASAK</strong> kararıyla verilir; her yıl yeniden değerleme oranıyla güncellenir ve Resmî Gazete'de yayımlanarak yürürlüğe girer.</p>"
+        },
+        {
+          "heading": "Ceza Türleri",
+          "content": "<p>(1) <strong>Kimlik tespiti eksikliği:</strong> Her işlem için ayrı ceza. (2) <strong>ŞİB yapılmaması:</strong> Daha yüksek tutarlarda ceza. (3) <strong>Kayıt muhafaza ihlali.</strong> (4) <strong>Eğitim yükümlülüğü ihlali.</strong></p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "Cezayı Etkileyen Faktörler ve Ağır Yaptırımlar",
+      "sections": [
+        {
+          "heading": "Artırıcı ve Hafifletici Unsurlar",
+          "content": "<p>Dikkate alınan faktörler: <strong>kasıt/ihmal ayrımı, tekrarlama, kurumun büyüklüğü, ihlalden elde edilen menfaat.</strong> Gönüllü bildirim hafifletici sayılabilir.</p>"
+        },
+        {
+          "heading": "Lisans İptali ve Cezai Kovuşturma",
+          "content": "<p>Ağır ve tekrarlayan ihlallerde <strong>faaliyet izni iptali</strong> gündeme gelebilir. Sorumlu yöneticilere bireysel ceza uygulanabilir. Kasıtlı ihlallerde MASAK savcılığa suç duyurusunda bulunabilir.</p>"
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "title": "İtiraz ve İdari Süreç",
+      "sections": [
+        {
+          "heading": "İtiraz Hakkı",
+          "content": "<p>Ceza kararına <strong>60 gün</strong> içinde idare mahkemesinde itiraz edilebilir. Mahkeme yürütmeyi durdurabilir. Kesinleşen cezalar Hazine'ye gelir kaydedilir.</p>"
+        },
+        {
+          "heading": "Kamuoyu Açıklaması",
+          "content": "<p>Cezaların kamuoyuyla paylaşılması (<em>name &amp; shame</em>) kuruma ciddi itibar kaybı yaşatabilir. AML/CFT uyumu yalnızca hukuki değil, itibar güvencesidir de.</p>"
         }
       ]
     }
