@@ -33785,6 +33785,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_UKT": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "UKT Nedir? Genel Esaslar",
+        "body": "<ul><li>UKT (Uluslararası Yaptırımlar ve Kara Para ile Terörün Finansmanının Önlenmesi), Türkiye'nin uluslararası yaptırım rejimine uyum sürecini düzenler.</li><li>BM Güvenlik Konseyi kararları, AB yaptırımları ve OFAC listeleri temel kaynaklar arasındadır.</li><li>Türkiye'de yaptırım listeleri MASAK ve Hazine & Maliye Bakanlığı kanalıyla yayımlanır.</li><li>Yükümlüler, yaptırım listelerini düzenli taramalı ve listedeki kişi/kuruluşlarla işlem yapmamalıdır.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "Yaptırım Listeleri ve Tarama Yükümlülüğü",
+        "body": "<ul><li>BM, AB, OFAC ve Türkiye'nin ulusal listeleri düzenli güncellenen başlıca kaynaklardır.</li><li>Müşteri kabul, işlem onayı ve periyodik taramalarda liste kontrolü zorunludur.</li><li>Liste taraması otomatik yazılım sistemleriyle yapılabilir; manuel tarama da kabul edilir.</li><li>Listelerde isim benzerliği (false positive) sonuçları titizlikle incelenmelidir.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "Dondurma Yükümlülüğü",
+        "body": "<ul><li>Yaptırım listesindeki kişi veya kuruluşa ait varlıklar derhal dondurulmalıdır.</li><li>Dondurma kararı önceden izin gerektirmez; otomatik uygulama esastır.</li><li>Dondurma işlemi MASAK'a ve ilgili makamlara derhal bildirilmelidir.</li><li>Dondurma ile işlem reddi farklı kavramlardır; dondurma varlıkların saklanması anlamına gelir.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "Terörün Finansmanının Önlenmesinde UKT",
+        "body": "<ul><li>Terörün finansmanı suçunu düzenleyen 7262 sayılı Kanun UKT yükümlülüklerini içerir.</li><li>Terör örgütü üyelerine veya yararına işlem yapmak suçtur.</li><li>Şüpheli terör finansmanı işlemleri derhal ŞİB ve ilgili makamlara bildirilmelidir.</li><li>Terör finansmanı riski yüksek kişi/kuruluşlarla EDD uygulanır.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "UKT Kapsamında Sıkılaştırılmış Tedbirler",
+        "body": "<ul><li>Yaptırım listelerine yakın risk kategorilerinde EDD uygulanır.</li><li>Yüksek riskli ülke vatandaşları ve bu ülkelerle bağlantılı işlemler artırılmış tedbire tabidir.</li><li>Yükümlüler, UKT politikası oluşturmalı, çalışanları eğitmeli ve yaptırım ihlali raporlaması yapmalıdır.</li><li>İhlal durumunda ağır idari ve cezai yaptırımlar uygulanır; uluslararası itibar riski söz konusudur.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "UKT kısaltması ne anlama gelir?",
+          "o": [
+            "A) Uluslararası Kira Tazminat",
+            "B) Uluslararası Yaptırımlar ve Kara Para ile Terörün Finansmanının Önlenmesi",
+            "C) Ulusal Kayıt Takip",
+            "D) Uluslararası Kontrol Tüzüğü"
+          ],
+          "a": 1,
+          "e": "UKT; Uluslararası Yaptırımlar ve Kara Para ile Terörün Finansmanının Önlenmesi süreçlerini ifade eder."
+        },
+        {
+          "q": "Türkiye'de yaptırım listelerini yayımlayan kurumlar hangileridir?",
+          "o": [
+            "A) SPK ve BDDK",
+            "B) MASAK ve Hazine & Maliye Bakanlığı",
+            "C) Merkez Bankası ve Maliye Bakanlığı",
+            "D) Yalnızca MASAK"
+          ],
+          "a": 1,
+          "e": "Türkiye'de yaptırım listeleri MASAK ve Hazine & Maliye Bakanlığı kanalıyla yayımlanır."
+        },
+        {
+          "q": "Yaptırım listesindeki bir kişi veya kuruluşa ait varlıklar tespit edildiğinde ne yapılmalıdır?",
+          "o": [
+            "A) Müşteriye bilgi verilir",
+            "B) Varlıklar derhal dondurulur ve ilgili makamlara bildirilir",
+            "C) İşlem standart prosedürle tamamlanır",
+            "D) Yalnızca MASAK'a rapor gönderilir"
+          ],
+          "a": 1,
+          "e": "Listede yer alan kişi/kuruluşa ait varlıklar derhal dondurulmalı ve MASAK ile ilgili makamlara bildirilmelidir."
+        },
+        {
+          "q": "Dondurma işlemi öncesinde resmi izin gerekli midir?",
+          "o": [
+            "A) Evet, MASAK onayı beklenir",
+            "B) Hayır, dondurma otomatik uygulanır",
+            "C) Yalnızca yabancı uyruklu kişiler için izin gerekir",
+            "D) Yalnızca mahkeme kararıyla uygulanabilir"
+          ],
+          "a": 1,
+          "e": "Dondurma işlemi önceden izin gerektirmez; yaptırım listesinde tespit üzerine otomatik olarak uygulanır."
+        },
+        {
+          "q": "Terörün finansmanını düzenleyen Türkiye'deki temel kanun hangisidir?",
+          "o": [
+            "A) 5549 sayılı Kanun",
+            "B) 6362 sayılı Kanun",
+            "C) 7262 sayılı Kanun",
+            "D) 4208 sayılı Kanun"
+          ],
+          "a": 2,
+          "e": "7262 sayılı Kanun, Türkiye'de terörün finansmanının önlenmesine ilişkin UKT yükümlülüklerini düzenler."
+        },
+        {
+          "q": "Başlıca uluslararası yaptırım kaynakları hangileridir?",
+          "o": [
+            "A) IMF, Dünya Bankası, BIS",
+            "B) BM Güvenlik Konseyi, AB ve OFAC listeleri",
+            "C) FATF, Egmont Grubu, Basel Komitesi",
+            "D) OECD, WTO, G20"
+          ],
+          "a": 1,
+          "e": "BM Güvenlik Konseyi kararları, AB yaptırımları ve ABD Hazine Bakanlığı'nın OFAC listeleri başlıca uluslararası yaptırım kaynaklarıdır."
+        },
+        {
+          "q": "Liste taramasında 'false positive' ne demektir?",
+          "o": [
+            "A) Gerçek bir yaptırım eşleşmesi",
+            "B) Listede kayıtlı kişiyle isim benzerliği olan ama aslında farklı kişi olan sonuçlar",
+            "C) Yazılım hatasından kaynaklanan sistem çöküşü",
+            "D) Dondurma kararının otomatik uygulanması"
+          ],
+          "a": 1,
+          "e": "False positive, yaptırım listesindeki isimle benzerlik gösteren ancak aslında farklı bir kişiyi işaret eden tarama sonucudur."
+        },
+        {
+          "q": "Müşteri kabul sürecinde liste taraması zorunlu mudur?",
+          "o": [
+            "A) Hayır, yalnızca şüpheli işlemlerde tarama yapılır",
+            "B) Evet, müşteri kabul aşamasında liste kontrolü zorunludur",
+            "C) Yalnızca kurumsal müşteriler için zorunludur",
+            "D) Yalnızca uluslararası işlemlerde zorunludur"
+          ],
+          "a": 1,
+          "e": "Müşteri kabul aşamasında liste taraması zorunludur; ayrıca işlem onayı ve periyodik taramalarda da kontrol yapılmalıdır."
+        },
+        {
+          "q": "Yaptırım listelerine yakın risk kategorilerinde hangi tedbir uygulanır?",
+          "o": [
+            "A) Basitleştirilmiş tedbir (SDD)",
+            "B) Artırılmış müşteri kimlik tespiti (EDD)",
+            "C) Standart KYC",
+            "D) Hiçbir ek tedbir gerekmez"
+          ],
+          "a": 1,
+          "e": "Yaptırım listelerine yakın risk kategorilerinde artırılmış müşteri kimlik tespiti (EDD) uygulanır."
+        },
+        {
+          "q": "Terör örgütü üyesine işlem yapmak Türkiye'de nasıl değerlendirilir?",
+          "o": [
+            "A) Yalnızca idari yaptırım",
+            "B) Suç kapsamında değerlendirilir",
+            "C) Yalnızca uyarı yapılır",
+            "D) Herhangi bir yaptırım uygulanmaz"
+          ],
+          "a": 1,
+          "e": "Terör örgütü üyelerine veya yararına işlem yapmak 7262 sayılı Kanun kapsamında suç olarak tanımlanmaktadır."
+        },
+        {
+          "q": "OFAC kısaltması ne anlama gelir?",
+          "o": [
+            "A) Uluslararası Finans Analiz Merkezi",
+            "B) ABD Hazine Bakanlığı Yabancı Varlıklar Kontrol Ofisi",
+            "C) Avrupa Finans Uyum Komitesi",
+            "D) Uluslararası Döviz Analiz Fonu"
+          ],
+          "a": 1,
+          "e": "OFAC; ABD Hazine Bakanlığı bünyesindeki Yabancı Varlıklar Kontrol Ofisi (Office of Foreign Assets Control) anlamına gelir."
+        },
+        {
+          "q": "Yükümlünün UKT politikası oluşturma yükümlülüğünün amacı nedir?",
+          "o": [
+            "A) Yalnızca iç denetim amaçlıdır",
+            "B) Kurumun yaptırım uyumunu sistematik ve belgelenmiş şekilde güvence altına almak",
+            "C) Yalnızca müşteri bilgilendirmesi için",
+            "D) Yalnızca MASAK talepleri için"
+          ],
+          "a": 1,
+          "e": "UKT politikası, kurumun yaptırım uyumunu sistematik ve belgelenmiş biçimde güvence altına almak amacıyla oluşturulur."
+        },
+        {
+          "q": "Varlık dondurma ile işlem reddi arasındaki fark nedir?",
+          "o": [
+            "A) İkisi aynı anlama gelir",
+            "B) Dondurma varlıkların saklanması; red ise işlemin gerçekleştirilmemesidir",
+            "C) Red dondurmanın alt kategorisidir",
+            "D) Yalnızca bankalar dondurma uygulayabilir"
+          ],
+          "a": 1,
+          "e": "Dondurma varlıkların saklanıp müşteriye iade edilmemesi anlamına gelirken işlem reddi o işlemin yapılmamasıdır."
+        },
+        {
+          "q": "Yüksek riskli ülke vatandaşlarıyla işlemlerde hangi tedbir uygulanır?",
+          "o": [
+            "A) İşlem otomatik reddedilir",
+            "B) Artırılmış tedbir uygulanır",
+            "C) Basitleştirilmiş tedbir uygulanır",
+            "D) Standart KYC yeterlidir"
+          ],
+          "a": 1,
+          "e": "Yüksek riskli ülke vatandaşları ve bu ülkelerle bağlantılı işlemler artırılmış tedbire tabidir."
+        },
+        {
+          "q": "Dondurma bildiriminin zamanlaması nasıl olmalıdır?",
+          "o": [
+            "A) 30 gün içinde yapılabilir",
+            "B) Derhal yapılmalıdır",
+            "C) Yıllık raporla bildirilir",
+            "D) Yalnızca müşteri itiraz ederse bildirim yapılır"
+          ],
+          "a": 1,
+          "e": "Dondurma işlemi gerçekleştikten sonra MASAK ve ilgili makamlara derhal bildirim yapılması zorunludur."
+        },
+        {
+          "q": "Yaptırım ihlalinin uluslararası boyutu neden önemlidir?",
+          "o": [
+            "A) Yalnızca ticari itibarı etkiler",
+            "B) Uluslararası muhabir ilişkilerinin kesilmesi ve ciddi itibar kayıplarına yol açabilir",
+            "C) Yalnızca vergi cezasına konu olur",
+            "D) Hiçbir uluslararası sonucu yoktur"
+          ],
+          "a": 1,
+          "e": "Yaptırım ihlalleri uluslararası muhabir ilişkilerinin kesilmesine ve ağır itibar kayıplarına yol açabilir."
+        },
+        {
+          "q": "Şüpheli terör finansmanı işleminde yükümlünün yükümlülüğü nedir?",
+          "o": [
+            "A) İşlemi tamamlayıp sonra bildirmek",
+            "B) Derhal ŞİB yapmak ve ilgili makamlara bildirmek",
+            "C) Yalnızca müşteriyi bilgilendirmek",
+            "D) İşlemi 30 gün bekletmek"
+          ],
+          "a": 1,
+          "e": "Şüpheli terör finansmanı işleminde yükümlü derhal ŞİB yapmalı ve ilgili makamlara bildirmelidir."
+        },
+        {
+          "q": "Periyodik liste taramasının amacı nedir?",
+          "o": [
+            "A) Müşteri memnuniyetini ölçmek",
+            "B) Mevcut müşterilerin yaptırım listelerine girip girmediğini düzenli kontrol etmek",
+            "C) Çalışan performansını değerlendirmek",
+            "D) Vergi uyumunu izlemek"
+          ],
+          "a": 1,
+          "e": "Periyodik tarama, mevcut müşterilerin yaptırım listelerine eklenip eklenmediğini düzenli aralıklarla kontrol etmek amacıyla yapılır."
+        },
+        {
+          "q": "UKT kapsamında çalışan eğitiminin içeriği ne olmalıdır?",
+          "o": [
+            "A) Yalnızca satış teknikleri",
+            "B) Yaptırım listeleri, dondurma prosedürleri ve şüpheli işlem bildirimi",
+            "C) Yalnızca müşteri ilişkileri",
+            "D) Yalnızca vergi mevzuatı"
+          ],
+          "a": 1,
+          "e": "UKT eğitimleri; yaptırım listeleri, dondurma prosedürleri ve şüpheli işlem bildirimi konularını kapsamalıdır."
+        },
+        {
+          "q": "BM Güvenlik Konseyi yaptırım kararlarına uyum Türkiye için neden zorunludur?",
+          "o": [
+            "A) BM üyeliği gönüllü uyum sağlamayı gerektirir",
+            "B) Türkiye BM üyesi olarak Güvenlik Konseyi kararlarını iç hukuka yansıtmak ve uygulamakla yükümlüdür",
+            "C) Yalnızca AB üyeliği kapsamında zorunludur",
+            "D) FATF baskısıyla zorunlu hale gelmiştir"
+          ],
+          "a": 1,
+          "e": "Türkiye BM üyesi olarak Güvenlik Konseyi yaptırım kararlarını iç hukuka yansıtmak ve uygulamakla yükümlüdür."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -37030,6 +37283,50 @@ window.__EXT = {
         {
           "heading": "EDD Süreci",
           "content": "<p>EDD kapsamında işlemin arka planı araştırılıp belgelenir; gerektiğinde ŞİB yapılır. Tüm kararlar ve gerekçeler kayıt altına alınmalıdır.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_UKT": [
+    {
+      "num": "01",
+      "title": "UKT Genel Esaslar ve Yaptırım Listeleri",
+      "sections": [
+        {
+          "heading": "UKT Nedir?",
+          "content": "<p><strong>UKT (Uluslararası Yaptırımlar ve Kara Para ile Terörün Finansmanının Önlenmesi)</strong>, Türkiye'nin uluslararası yaptırım rejimine uyum sürecini kapsar. Başlıca kaynaklar: <strong>BM Güvenlik Konseyi kararları, AB yaptırımları, OFAC listeleri.</strong> Türkiye'de listeler MASAK ve Hazine & Maliye Bakanlığı kanalıyla yayımlanır.</p>"
+        },
+        {
+          "heading": "Tarama Yükümlülüğü",
+          "content": "<p>Yükümlüler müşteri kabul, işlem onayı ve periyodik aşamalarda liste taraması yapmak zorundadır. Otomatik yazılım veya manuel tarama kabul edilir. <strong>False positive</strong> sonuçları (isim benzerliği) titizlikle incelenerek ayrıştırılmalıdır.</p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "Dondurma Yükümlülüğü ve Terörün Finansmanı",
+      "sections": [
+        {
+          "heading": "Varlık Dondurma",
+          "content": "<p>Listede yer alan kişi/kuruluşa ait varlıklar <strong>derhal ve önceden izin alınmaksızın dondurulur.</strong> Dondurma işlemi MASAK ve ilgili makamlara derhal bildirilmelidir. Dondurma (varlıkları saklamak) ile işlem reddi (işlemi yapmamak) farklı kavramlardır.</p>"
+        },
+        {
+          "heading": "Terörün Finansmanının Önlenmesi",
+          "content": "<p><strong>7262 sayılı Kanun</strong> terörün finansmanını düzenler. Terör örgütü üyelerine veya yararına işlem yapmak suçtur. Şüpheli terör finansmanı işlemlerinde derhal ŞİB yapılmalıdır. Yüksek riskli kişi/kuruluşlarla EDD uygulanır.</p>"
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "title": "UKT Kapsamında Sıkılaştırılmış Tedbirler",
+      "sections": [
+        {
+          "heading": "Artırılmış Tedbirler",
+          "content": "<p>Yaptırım listelerine yakın risk kategorilerinde ve yüksek riskli ülke vatandaşlarıyla ilgili işlemlerde <strong>EDD</strong> uygulanır. Karmaşık yapılar ve terör riski yüksek işlemlerde arka plan araştırması ve belgeleme zorunludur.</p>"
+        },
+        {
+          "heading": "Kurumsal Yükümlülükler",
+          "content": "<p>Yükümlüler; <strong>UKT politikası oluşturmalı, çalışanları eğitmeli ve ihlal raporlaması yapmalıdır.</strong> Yaptırım ihlalleri ağır idari ve cezai yaptırımlara ve uluslararası itibar kaybına yol açar.</p>"
         }
       ]
     }
