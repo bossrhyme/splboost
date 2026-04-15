@@ -32773,6 +32773,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_ODKI": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "Özel Dikkat Gerektiren İşlemler",
+        "body": "<ul><li>Yükümlüler, olağandışı veya karmaşık işlemlere özel dikkat göstermek zorundadır.</li><li>Ekonomik ya da meşru amacı olmayan işlemler; büyük nakit hareketleri, alışılmadık işlem örüntüleri ve coğrafi riskli ülkelerle yapılan işlemler bu kapsamdadır.</li><li>Özel dikkat; işlemin arka planının araştırılması ve gerektiğinde ŞİB yapılmasını gerektirir.</li><li>FATF 20. Tavsiye özel dikkat konularını düzenler.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "İşlem İzleme Sistemleri",
+        "body": "<ul><li>Yükümlüler, müşteri işlemlerini sürekli izleme kapasitesine sahip olmalıdır.</li><li>Otomatik izleme sistemleri (transaction monitoring) kural tabanlı veya yapay zeka destekli olabilir.</li><li>Sistem; eşik aşan işlemleri, hızlı fon aktarımlarını ve tutarsız davranışları tespit etmek için kurgulanır.</li><li>Uyarılar (alerts) uyum görevlisi tarafından incelenir ve gerekirse ŞİB yapılır.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "Muhabir Bankacılık İlişkileri",
+        "body": "<ul><li>Muhabir bankacılık; bir bankanın başka bir bankaya ülke içinde veya uluslararası alanda hizmet sunmasıdır.</li><li>Muhabir ilişkisi kurmadan önce karşı tarafın AML/CFT standartları değerlendirilmelidir.</li><li>Kabuk banka (shell bank) ile muhabir ilişkisi kurmak yasaktır.</li><li>FATF 13. Tavsiye muhabir bankacılık yükümlülüklerini düzenler.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "Kabuk Banka (Shell Bank) Yasağı",
+        "body": "<ul><li>Kabuk banka; fiziksel varlığı veya etkin yönetimi olmayan, düzenleyici denetime tabi tutulmayan bankadır.</li><li>Hiçbir yükümlü kabuk banka ile işlem yapamaz veya muhabir ilişkisi kuramaz.</li><li>Kabuk banka ilişkisi tespit edildiğinde mevcut ilişki derhal sonlandırılmalıdır.</li><li>5549 sayılı Kanun ve FATF tavsiyeleri bu yasağı açıkça düzenler.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "Yüksek Riskli Ülkelerle İşlemler",
+        "body": "<ul><li>FATF kara listesi (blacklist) ve gri listesi (greylist) ülkeleriyle işlemlerde artırılmış tedbirler uygulanır.</li><li>Bu ülkelerden gelen fon transferlerine özel dikkat gösterilir ve kaynak araştırılır.</li><li>Gerektiğinde işlem reddedilebilir veya ŞİB yapılır.</li><li>Ülke risk derecelendirmeleri düzenli olarak güncellenerek izlenir.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "Özel dikkat gerektiren işlemler kapsamında aşağıdakilerden hangisi yer alır?",
+          "o": [
+            "A) Düşük tutarlı rutin işlemler",
+            "B) Ekonomik amacı belirsiz büyük nakit hareketleri",
+            "C) Standart fatura ödemeleri",
+            "D) Düzenli maaş yatırma işlemleri"
+          ],
+          "a": 1,
+          "e": "Ekonomik ya da meşru amacı olmayan büyük nakit hareketleri, alışılmadık örüntüler ve riskli ülkelerle işlemler özel dikkat gerektiren durumlardır."
+        },
+        {
+          "q": "İşlem izleme sistemlerinin temel işlevi nedir?",
+          "o": [
+            "A) Müşterilere kredi skoru atamak",
+            "B) Müşteri işlemlerinde olağandışı durumları tespit etmek",
+            "C) Çalışan performansını ölçmek",
+            "D) Vergi raporları oluşturmak"
+          ],
+          "a": 1,
+          "e": "İşlem izleme sistemleri, müşteri davranış profiliyle tutarsız ve şüpheli işlemlerin tespitini sağlar."
+        },
+        {
+          "q": "Muhabir bankacılık ilişkisi kurulmadan önce ne değerlendirilmelidir?",
+          "o": [
+            "A) Karşı bankanın kârlılığı",
+            "B) Karşı bankanın AML/CFT standartları",
+            "C) Karşı bankanın müşteri sayısı",
+            "D) Karşı bankanın çalışan sayısı"
+          ],
+          "a": 1,
+          "e": "Muhabir bankacılık ilişkisi kurulmadan önce karşı tarafın AML/CFT uyum standartları değerlendirilmelidir."
+        },
+        {
+          "q": "Kabuk banka (shell bank) nasıl tanımlanır?",
+          "o": [
+            "A) Çok sayıda şubesi olan büyük bankalar",
+            "B) Fiziksel varlığı veya etkin yönetimi olmayan, düzenleyici denetime tabi tutulmayan banka",
+            "C) Yalnızca online hizmet veren bankalar",
+            "D) Yabancı sermayeli bankalar"
+          ],
+          "a": 1,
+          "e": "Kabuk banka; fiziksel mevcudiyeti ve etkin yönetimi olmayan, yetkili makam denetimi dışında kalan bankadır."
+        },
+        {
+          "q": "Kabuk banka ile muhabir ilişkisi kurmak mümkün müdür?",
+          "o": [
+            "A) Evet, ek bildirim şartıyla mümkündür",
+            "B) Hayır, kesinlikle yasaktır",
+            "C) Yalnızca MASAK onayıyla mümkündür",
+            "D) Yalnızca uluslararası muhabir ilişkilerinde yasaktır"
+          ],
+          "a": 1,
+          "e": "Kabuk banka ile muhabir bankacılık ilişkisi kurmak kesinlikle yasaktır."
+        },
+        {
+          "q": "FATF kara listesindeki ülkelerle işlemlerde hangi tedbir uygulanır?",
+          "o": [
+            "A) Basitleştirilmiş müşteri kimlik tespiti",
+            "B) Artırılmış tedbirler ve özel dikkat",
+            "C) Standart işlem prosedürleri",
+            "D) Hiçbir ek tedbir gerekmez"
+          ],
+          "a": 1,
+          "e": "FATF kara listesindeki ülkelerle yapılan işlemlerde artırılmış tedbirler ve özel dikkat uygulanması zorunludur."
+        },
+        {
+          "q": "İşlem izleme sisteminde oluşan uyarılar (alerts) kim tarafından incelenir?",
+          "o": [
+            "A) Müşteri",
+            "B) Uyum görevlisi",
+            "C) Yalnızca MASAK",
+            "D) Yalnızca üst yönetim"
+          ],
+          "a": 1,
+          "e": "İşlem izleme sistemi uyarıları uyum görevlisi tarafından incelenir; gerekli görüldüğünde ŞİB yapılır."
+        },
+        {
+          "q": "Kabuk banka ilişkisi tespit edildiğinde ne yapılmalıdır?",
+          "o": [
+            "A) İlişki sürdürülmeye devam edilir",
+            "B) Mevcut ilişki derhal sonlandırılmalıdır",
+            "C) Yalnızca MASAK'a bildirim yapılır",
+            "D) İlişki 6 ay içinde kademeli olarak bitirilir"
+          ],
+          "a": 1,
+          "e": "Kabuk banka ilişkisi tespit edildiğinde, yükümlü mevcut ilişkiyi derhal sonlandırmak zorundadır."
+        },
+        {
+          "q": "FATF'ın muhabir bankacılık yükümlülüklerini düzenleyen tavsiyesi hangisidir?",
+          "o": [
+            "A) 10. Tavsiye",
+            "B) 13. Tavsiye",
+            "C) 20. Tavsiye",
+            "D) 40. Tavsiye"
+          ],
+          "a": 1,
+          "e": "FATF'ın 13. Tavsiyesi muhabir bankacılık yükümlülüklerini düzenler."
+        },
+        {
+          "q": "FATF'ın özel dikkat konularını düzenleyen tavsiyesi hangisidir?",
+          "o": [
+            "A) 10. Tavsiye",
+            "B) 13. Tavsiye",
+            "C) 20. Tavsiye",
+            "D) 40. Tavsiye"
+          ],
+          "a": 2,
+          "e": "FATF'ın 20. Tavsiyesi, şüpheli işlem bildirimi dahil özel dikkat gerektiren işlemlere ilişkin hükümleri içerir."
+        },
+        {
+          "q": "Otomatik işlem izleme sistemleri hangi teknolojilerle desteklenebilir?",
+          "o": [
+            "A) Yalnızca manuel inceleme",
+            "B) Kural tabanlı sistemler veya yapay zeka",
+            "C) Yalnızca blockchain",
+            "D) Yalnızca kural tabanlı sistemler"
+          ],
+          "a": 1,
+          "e": "İşlem izleme sistemleri kural tabanlı yapılar veya yapay zeka destekli algoritmalarla çalışabilir."
+        },
+        {
+          "q": "Muhabir bankacılık ilişkisi nedir?",
+          "o": [
+            "A) Bir bankanın kendi şubeleri arasındaki para transferi",
+            "B) Bir bankanın başka bir bankaya yurt içi veya uluslararası hizmet sunması",
+            "C) İki bankanın birleşmesi",
+            "D) Bir bankanın müşteriye kredi açması"
+          ],
+          "a": 1,
+          "e": "Muhabir bankacılık, bir bankanın başka bir bankaya ülke içinde veya uluslararası düzeyde hizmet sunmasıdır."
+        },
+        {
+          "q": "Yüksek riskli ülkelerden gelen fon transferinde hangi adım atılmalıdır?",
+          "o": [
+            "A) Transfer otomatik reddedilir",
+            "B) Fonun kaynağı araştırılır ve gerekirse ŞİB yapılır",
+            "C) Transfer basitleştirilmiş prosedürle onaylanır",
+            "D) Hiçbir ek adım atılmaz"
+          ],
+          "a": 1,
+          "e": "Yüksek riskli ülkelerden gelen transferlerde fon kaynağı araştırılır; gerektiğinde işlem reddedilebilir ya da ŞİB yapılır."
+        },
+        {
+          "q": "FATF gri listesi ülkeleriyle işlemler nasıl değerlendirilir?",
+          "o": [
+            "A) Standart prosedür uygulanır",
+            "B) Artırılmış tedbirler uygulanır",
+            "C) İşlemler otomatik reddedilir",
+            "D) Muaf tutulur"
+          ],
+          "a": 1,
+          "e": "FATF gri listesindeki ülkelerle yapılan işlemlerde artırılmış tedbirler uygulanması gerekir."
+        },
+        {
+          "q": "İşlem izleme sistemi hangi türde işlemleri tespit etmek için kurgulanır?",
+          "o": [
+            "A) Düşük riskli müşteri işlemleri",
+            "B) Eşik aşan işlemler, hızlı fon aktarımları ve tutarsız davranışlar",
+            "C) Yalnızca nakit dışı işlemler",
+            "D) Yalnızca uluslararası işlemler"
+          ],
+          "a": 1,
+          "e": "İşlem izleme sistemi; eşik aşan işlemleri, hızlı fon aktarımlarını ve müşteri profiliyle tutarsız davranışları tespit etmek amacıyla kurgulanır."
+        },
+        {
+          "q": "Özel dikkat kapsamında işlemin arka planının araştırılmasından ne anlaşılır?",
+          "o": [
+            "A) Müşterinin kredi geçmişinin incelenmesi",
+            "B) İşlemin ekonomik veya ticari mantığının sorgulanması ve belgelenmesi",
+            "C) Müşterinin sosyal medya profilinin incelenmesi",
+            "D) Müşterinin vergi borçlarının kontrol edilmesi"
+          ],
+          "a": 1,
+          "e": "İşlemin arka planını araştırmak, ekonomik veya ticari meşruiyetinin sorgulanarak belgelenmesi anlamına gelir."
+        },
+        {
+          "q": "Ülke risk derecelendirmeleri ne sıklıkla güncellenmelidir?",
+          "o": [
+            "A) Hiçbir zaman güncellenmez",
+            "B) Düzenli olarak güncellenerek izlenir",
+            "C) Yalnızca 10 yılda bir",
+            "D) Yalnızca MASAK talebi üzerine"
+          ],
+          "a": 1,
+          "e": "Ülke risk derecelendirmeleri düzenli olarak güncellenmeli ve izlenmelidir."
+        },
+        {
+          "q": "Muhabir bankacılık ilişkisinde hangi belge ve analizler yapılmalıdır?",
+          "o": [
+            "A) Yalnızca muhabir bankanın bilanço analizi",
+            "B) Muhabir bankanın AML/CFT politika ve prosedürlerinin değerlendirilmesi",
+            "C) Yalnızca muhabir bankanın müşteri sayısının tespiti",
+            "D) Hiçbir ek analiz gerekmez"
+          ],
+          "a": 1,
+          "e": "Muhabir bankacılık ilişkisi öncesinde karşı bankanın AML/CFT politika ve prosedürleri değerlendirilmelidir."
+        },
+        {
+          "q": "Aşağıdakilerden hangisi alışılmadık işlem örüntüsüne örnek teşkil eder?",
+          "o": [
+            "A) Aylık düzenli maaş ödemesi",
+            "B) Profille uyumsuz anlık büyük nakit para yatırma ve hemen çekme",
+            "C) Standart kira ödemesi",
+            "D) Düzenli fatura ödemesi"
+          ],
+          "a": 1,
+          "e": "Müşteri profiliyle uyumsuz, kısa sürede büyük nakit yatırma ve çekme hareketi tipik bir alışılmadık işlem örüntüsüdür."
+        },
+        {
+          "q": "Kabuk banka yasağının temel gerekçesi nedir?",
+          "o": [
+            "A) Kabuk bankalar yüksek faiz uyguladığından",
+            "B) Fiziksel mevcudiyeti ve denetimi olmayan bankalar kara para aklamasına kolaylıkla araç olabilir",
+            "C) Kabuk bankalar yalnızca kripto varlıkla çalıştığından",
+            "D) Kabuk bankalar vergi avantajı sağladığından"
+          ],
+          "a": 1,
+          "e": "Kabuk bankalar yetkili makam denetimi dışında kaldıklarından ve fiziksel varlıkları bulunmadığından kara para aklamasına kolaylıkla araç olabilirler."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -35860,6 +36113,50 @@ window.__EXT = {
         {
           "heading": "Merkezi Kayıt Sistemi",
           "content": "<p>Türkiye'de <strong>merkezi gerçek faydalanıcı kayıt sistemi</strong> kurularak tüzel kişilerin gerçek faydalanıcı bilgilerinin yetkili makamlarla paylaşılması sağlanmıştır.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_ODKI": [
+    {
+      "num": "01",
+      "title": "Özel Dikkat Gerektiren İşlemler ve İzleme",
+      "sections": [
+        {
+          "heading": "Özel Dikkat Kapsamı",
+          "content": "<p>FATF 20. Tavsiye uyarınca yükümlüler, <strong>ekonomik ya da meşru amacı olmayan işlemlere</strong> özel dikkat göstermelidir. Bu kapsamda büyük nakit hareketleri, alışılmadık işlem örüntüleri ve riskli ülkelerle yapılan işlemler yer alır. Arka plan araştırması yapılmalı ve gerektiğinde ŞİB yoluna gidilmelidir.</p>"
+        },
+        {
+          "heading": "İşlem İzleme Sistemleri",
+          "content": "<p>Otomatik işlem izleme sistemleri; eşik aşan işlemler, hızlı fon aktarımları ve müşteri profiliyle tutarsız davranışları tespit etmek için kurgulanır. Kural tabanlı veya yapay zeka destekli olabilirler. Oluşan uyarılar <strong>uyum görevlisi</strong> tarafından incelenir.</p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "Muhabir Bankacılık ve Kabuk Banka Yasağı",
+      "sections": [
+        {
+          "heading": "Muhabir Bankacılık",
+          "content": "<p>Bir bankanın başka bir bankaya yurt içi veya uluslararası hizmet sunması olan <strong>muhabir bankacılık</strong> ilişkisi kurulmadan önce karşı tarafın AML/CFT standartları değerlendirilmelidir. FATF 13. Tavsiye bu yükümlülükleri düzenler.</p>"
+        },
+        {
+          "heading": "Kabuk Banka Yasağı",
+          "content": "<p><strong>Kabuk banka</strong>; fiziksel varlığı veya etkin yönetimi olmayan, düzenleyici denetime tabi tutulmayan bankadır. Kabuk banka ile muhabir ilişkisi kesinlikle <strong>yasaktır</strong>; tespit edildiğinde mevcut ilişki derhal sonlandırılmalıdır.</p>"
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "title": "Yüksek Riskli Ülkelerle İşlemler",
+      "sections": [
+        {
+          "heading": "FATF Listeleri",
+          "content": "<p>FATF <strong>kara listesi</strong> (yüksek risk, çağrı yapılan ülkeler) ve <strong>gri listesi</strong> (artırılmış izleme altındaki ülkeler) düzenli olarak yayımlanır. Bu ülkelerle işlemlerde artırılmış tedbirler uygulanır.</p>"
+        },
+        {
+          "heading": "Pratik Tedbirler",
+          "content": "<p>Yüksek riskli ülkelerden gelen fon transferlerinde kaynak araştırılır. Gerektiğinde işlem reddedilebilir ya da ŞİB yapılır. Ülke risk derecelendirmeleri düzenli izlenir ve güncellenir.</p>"
         }
       ]
     }
