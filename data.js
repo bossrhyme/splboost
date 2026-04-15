@@ -33279,6 +33279,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_BAS": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "Basitleştirilmiş Tedbirlerin Hukuki Dayanağı",
+        "body": "<ul><li>Risk bazlı yaklaşım (RBA) çerçevesinde düşük riskli durumlarda standart KYC yerine basitleştirilmiş müşteri kimlik tespiti (SDD) uygulanabilir.</li><li>FATF, düşük riskli müşteri ve ürünler için SDD uygulanmasına olanak tanır.</li><li>5549 sayılı Kanun ve MASAK yönetmelikleri basitleştirilmiş tedbirlerin koşullarını belirler.</li><li>Basitleştirilmiş tedbirler hiçbir zaman sıfır tedbir anlamına gelmez; temel KYC unsurları korunur.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "Düşük Riskli Müşteri ve Ürün Kategorileri",
+        "body": "<ul><li>Devlet ve kamu kurumları ile merkez bankaları genel olarak düşük riskli kabul edilir.</li><li>Düşük limitli tasarruf hesapları, zorunlu emeklilik ürünleri ve sosyal yardım ödemeleri düşük riskli ürünler arasındadır.</li><li>Lisanslı finansal kurumlar karşılıklı tanıma ilkesiyle düşük riskli değerlendirilebilir.</li><li>Coğrafi risk düşükse ve işlem profili sınırlıysa SDD uygulanabilir.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "Basitleştirilmiş Tedbirlerin Kapsamı",
+        "body": "<ul><li>SDD'de kimlik doğrulama bilgilerin toplanması ertelenebilir ancak iş ilişkisi başlamadan önce tamamlanmalıdır.</li><li>İzleme sıklığı ve derinliği azaltılabilir; ancak tamamen kaldırılamaz.</li><li>İşlem eşiği düşük tutularak tetikleyici kontroller sürdürülür.</li><li>Periyodik gözden geçirme yükümlülüğü korunur.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "SDD ile Standart KYC Arasındaki Farklar",
+        "body": "<ul><li>Standart KYC'de kimlik anında doğrulanırken SDD'de ek bir süre tanınabilir.</li><li>SDD'de müşteri profili daha dar kapsamlı tutulur; ancak temel bilgiler yine de toplanır.</li><li>İzleme otomatik sistemlerle sürdürülür; anormalliklerde standart prosedüre geçilir.</li><li>SDD kararı belgelenmelidir; gerekçesiz SDD uygulamak mevzuata aykırıdır.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "SDD Uygulamasında Dikkat Edilecek Hususlar",
+        "body": "<ul><li>SDD uygulanmasına karar verilmeden önce kurumun risk iştahı ve politikaları gözden geçirilmelidir.</li><li>Şüphe belirdiği anda SDD'den standart veya artırılmış tedbire (EDD) geçilmelidir.</li><li>SDD kararları denetimde belgelerle ispatlanabilir olmalıdır.</li><li>Yükümlü, SDD uyguladığı müşteri kategorilerini açıkça tanımlamalı ve yazılı hale getirmelidir.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "Basitleştirilmiş müşteri kimlik tespiti (SDD) hangi çerçevede uygulanır?",
+          "o": [
+            "A) Her müşteri için zorunlu olarak",
+            "B) Risk bazlı yaklaşım çerçevesinde düşük riskli durumlarda",
+            "C) Yalnızca yabancı uyruklu müşteriler için",
+            "D) Yalnızca kurumsal müşteriler için"
+          ],
+          "a": 1,
+          "e": "SDD, risk bazlı yaklaşım (RBA) çerçevesinde düşük risk tespit edilen müşteri ve işlemlere uygulanır."
+        },
+        {
+          "q": "Basitleştirilmiş tedbirler neyi garanti etmez?",
+          "o": [
+            "A) Düşük risk düzeyini",
+            "B) Sıfır tedbir uygulamasını",
+            "C) Belge azaltımını",
+            "D) İzleme sıklığının azaltılmasını"
+          ],
+          "a": 1,
+          "e": "Basitleştirilmiş tedbirler sıfır tedbir anlamına gelmez; temel KYC unsurları her koşulda korunur."
+        },
+        {
+          "q": "Aşağıdakilerden hangisi genel olarak düşük riskli müşteri kategorisinde kabul edilir?",
+          "o": [
+            "A) PEP (Siyasi Açıdan Maruz Kalmış Kişiler)",
+            "B) Devlet kurumları ve merkez bankaları",
+            "C) Yüksek nakit işlem yapan ticari işletmeler",
+            "D) Offshore şirketler"
+          ],
+          "a": 1,
+          "e": "Devlet ve kamu kurumları ile merkez bankaları genel olarak düşük riskli müşteri kategorisinde kabul edilir."
+        },
+        {
+          "q": "SDD'de kimlik doğrulama süreci nasıl işler?",
+          "o": [
+            "A) Kimlik doğrulama hiç yapılmaz",
+            "B) Bilgilerin toplanması ertelenebilir ancak iş ilişkisi başlamadan önce tamamlanmalıdır",
+            "C) Kimlik doğrulama 1 yıl sonra yapılabilir",
+            "D) Yalnızca sözlü beyan yeterlidir"
+          ],
+          "a": 1,
+          "e": "SDD'de kimlik bilgilerinin toplanması ertelenebilir; ancak iş ilişkisi başlamadan önce tamamlanması zorunludur."
+        },
+        {
+          "q": "SDD kararı alındığında bu karar nasıl belgelenir?",
+          "o": [
+            "A) Belgelenmesi gerekmez",
+            "B) Gerekçesiyle birlikte yazılı olarak kayıt altına alınır",
+            "C) Yalnızca sözlü onay yeterlidir",
+            "D) MASAK'a bildirilmesi yeterlidir"
+          ],
+          "a": 1,
+          "e": "SDD kararı gerekçesiyle birlikte belgelenmelidir; gerekçesiz SDD uygulamak mevzuata aykırıdır."
+        },
+        {
+          "q": "Şüphe belirdiğinde SDD uygulayan yükümlü ne yapmalıdır?",
+          "o": [
+            "A) SDD uygulamaya devam eder",
+            "B) Standart veya artırılmış tedbire (EDD) geçer",
+            "C) Hesabı derhal kapatır",
+            "D) MASAK'a otomatik bildirim yapar"
+          ],
+          "a": 1,
+          "e": "Şüphe belirdiği anda SDD'den standart KYC veya artırılmış tedbir (EDD) uygulamasına geçilmesi zorunludur."
+        },
+        {
+          "q": "Aşağıdakilerden hangisi düşük riskli ürün olarak değerlendirilebilir?",
+          "o": [
+            "A) Yüksek limitli offshore hesaplar",
+            "B) Zorunlu emeklilik ürünleri ve sosyal yardım ödemeleri",
+            "C) Anonim kripto varlık hesapları",
+            "D) PEP'e ait yatırım portföyleri"
+          ],
+          "a": 1,
+          "e": "Zorunlu emeklilik ürünleri ve sosyal yardım ödemeleri gibi sınırlı amaçlı ürünler düşük riskli kabul edilebilir."
+        },
+        {
+          "q": "SDD uygulanmasında coğrafi risk ne anlam taşır?",
+          "o": [
+            "A) Coğrafi risk SDD kararını etkilemez",
+            "B) Coğrafi risk düşükse SDD uygulaması kolaylaşır",
+            "C) Coğrafi risk yüksekse SDD zorunlu hale gelir",
+            "D) Coğrafi risk yalnızca bankacılıkta dikkate alınır"
+          ],
+          "a": 1,
+          "e": "Coğrafi risk düşük olması SDD uygulanmasını destekleyen faktörlerden biridir."
+        },
+        {
+          "q": "SDD ile standart KYC arasındaki temel fark nedir?",
+          "o": [
+            "A) SDD'de hiç belge toplanmaz",
+            "B) SDD'de izleme ve doğrulama sıklığı azaltılabilir ancak temel unsurlar korunur",
+            "C) SDD yalnızca tüzel kişilere uygulanır",
+            "D) SDD'de ŞİB yükümlülüğü ortadan kalkar"
+          ],
+          "a": 1,
+          "e": "SDD'de izleme ve doğrulama sıklığı azaltılabilir; ancak temel KYC unsurları korunur."
+        },
+        {
+          "q": "Lisanslı finansal kurumlar SDD kapsamında nasıl değerlendirilebilir?",
+          "o": [
+            "A) Her zaman yüksek riskli kabul edilir",
+            "B) Karşılıklı tanıma ilkesiyle düşük riskli değerlendirilebilir",
+            "C) Hiçbir koşulda SDD uygulanamaz",
+            "D) Yalnızca yurt içi lisanslı kurumlar düşük riskli kabul edilir"
+          ],
+          "a": 1,
+          "e": "Lisanslı finansal kurumlar, karşılıklı tanıma ilkesiyle düşük riskli değerlendirilerek SDD kapsamına alınabilir."
+        },
+        {
+          "q": "SDD uygulamasında periyodik gözden geçirme yükümlülüğü ne olur?",
+          "o": [
+            "A) Tamamen ortadan kalkar",
+            "B) Korunur",
+            "C) 10 yılda bir yapılır",
+            "D) Yalnızca MASAK talebi üzerine yapılır"
+          ],
+          "a": 1,
+          "e": "SDD uygulanmasında periyodik gözden geçirme yükümlülüğü korunur; temel izleme sürdürülür."
+        },
+        {
+          "q": "SDD kararını almadan önce yükümlü ne yapmalıdır?",
+          "o": [
+            "A) MASAK onayı almalıdır",
+            "B) Kurumun risk iştahı ve politikalarını gözden geçirmelidir",
+            "C) Müşteriden onay almalıdır",
+            "D) Yönetim kurulu kararı gerekmez"
+          ],
+          "a": 1,
+          "e": "SDD kararı alınmadan önce kurumun risk iştahı ve AML/CFT politikaları gözden geçirilmelidir."
+        },
+        {
+          "q": "Gerekçesiz SDD uygulamasının sonucu nedir?",
+          "o": [
+            "A) Hiçbir sonucu yoktur",
+            "B) Mevzuata aykırıdır ve yaptırıma konu olabilir",
+            "C) Yalnızca iç denetim notu düşer",
+            "D) Müşteri bilgilendirmesi yeterlidir"
+          ],
+          "a": 1,
+          "e": "Gerekçesiz SDD uygulaması mevzuata aykırı olup idari yaptırım gerektirebilir."
+        },
+        {
+          "q": "SDD uygulanan müşteri kategorileri nasıl belirlenmelidir?",
+          "o": [
+            "A) Her işlem bazında ayrı ayrı kararlaştırılır",
+            "B) Açıkça tanımlanarak yazılı hale getirilmelidir",
+            "C) Yalnızca sözlü onay yeterlidir",
+            "D) MASAK kararına bırakılır"
+          ],
+          "a": 1,
+          "e": "Yükümlü, SDD uygulayabileceği müşteri kategorilerini açıkça tanımlamalı ve yazılı politikalarında belirtmelidir."
+        },
+        {
+          "q": "SDD uygulamasında işlem eşikleri neden önemlidir?",
+          "o": [
+            "A) İşlem eşikleri SDD'de uygulanmaz",
+            "B) Tetikleyici kontroller sayesinde eşik aşan işlemlerde standart/artırılmış tedbire geçilir",
+            "C) İşlem eşikleri yalnızca EDD için geçerlidir",
+            "D) Eşik aşılsa da SDD devam ettirilir"
+          ],
+          "a": 1,
+          "e": "İşlem eşikleri sayesinde SDD kapsamındaki müşterilerde belirli bir tutarı aşan işlemler tetikleyici kontrollere tabi tutulur."
+        },
+        {
+          "q": "FATF'ın SDD konusundaki tutumu nedir?",
+          "o": [
+            "A) SDD'yi hiçbir koşulda onaylamaz",
+            "B) Düşük riskli durumlarda SDD uygulanmasına olanak tanır",
+            "C) Tüm müşteriler için SDD zorunludur",
+            "D) SDD yalnızca gelişmekte olan ülkeler için geçerlidir"
+          ],
+          "a": 1,
+          "e": "FATF, risk bazlı yaklaşım çerçevesinde düşük riskli müşteri ve ürünler için SDD uygulanmasına olanak tanır."
+        },
+        {
+          "q": "SDD ile izleme sıklığı nasıl değişir?",
+          "o": [
+            "A) İzleme tamamen kaldırılır",
+            "B) İzleme sıklığı ve derinliği azaltılabilir ancak tamamen kaldırılamaz",
+            "C) İzleme sıklığı artırılır",
+            "D) İzleme yalnızca yıllık yapılır"
+          ],
+          "a": 1,
+          "e": "SDD'de izleme sıklığı ve derinliği azaltılabilir; ancak izleme hiçbir zaman tamamen kaldırılamaz."
+        },
+        {
+          "q": "Sosyal yardım ödemeleri neden düşük riskli ürün sayılır?",
+          "o": [
+            "A) Tutarı her zaman düşük olduğundan",
+            "B) Kamu tarafından denetlenen, belirli amaçlı ve sınırlı kapsamlı ürünler olduğundan",
+            "C) Yalnızca belirli müşterilere sunulduğundan",
+            "D) Vergi avantajı sağladığından"
+          ],
+          "a": 1,
+          "e": "Sosyal yardım ödemeleri kamu denetiminde olan, belirli amaçlı ve sınırlı kapsamlı ürünler olduğundan düşük riskli kabul edilir."
+        },
+        {
+          "q": "SDD kararlarının denetimde nasıl kanıtlanması gerekir?",
+          "o": [
+            "A) Sözlü açıklama yeterlidir",
+            "B) Yazılı belgelerle ispatlanabilir olmalıdır",
+            "C) Yalnızca sistem kaydı yeterlidir",
+            "D) MASAK onayı belgesi yeterlidir"
+          ],
+          "a": 1,
+          "e": "SDD kararları ve gerekçeleri, denetimde yazılı belgelerle ispatlanabilir nitelikte olmalıdır."
+        },
+        {
+          "q": "Anormalliklerde SDD'den nasıl çıkılır?",
+          "o": [
+            "A) MASAK onayı beklenir",
+            "B) Otomatik olarak standart prosedüre geçilir",
+            "C) İşlem reddedilir",
+            "D) Müşteri bilgilendirilir"
+          ],
+          "a": 1,
+          "e": "İzleme sisteminde anormallik tespit edildiğinde SDD'den otomatik olarak standart KYC prosedürüne geçilir."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -36450,6 +36703,36 @@ window.__EXT = {
         {
           "heading": "Yasal Çerçeve",
           "content": "<p>7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK denetimine alınmıştır. VASP'lar SPK'ya kayıt olmak, KYC uygulamak ve ŞİB yapmak zorundadır. MASAK kripto varlık alanındaki AML/CFT uyumunu izler.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_BAS": [
+    {
+      "num": "01",
+      "title": "Basitleştirilmiş Tedbirlerin Temeli",
+      "sections": [
+        {
+          "heading": "Hukuki Dayanak ve Kapsam",
+          "content": "<p>Risk bazlı yaklaşım (RBA) çerçevesinde düşük riskli müşteri ve ürünlere <strong>Basitleştirilmiş Müşteri Kimlik Tespiti (SDD — Simplified Due Diligence)</strong> uygulanabilir. 5549 sayılı Kanun ve MASAK yönetmelikleri koşulları belirler. SDD sıfır tedbir anlamına gelmez; temel KYC unsurları korunur.</p>"
+        },
+        {
+          "heading": "Düşük Riskli Kategoriler",
+          "content": "<p>Düşük riskli müşteri örnekleri: <strong>devlet ve kamu kurumları, merkez bankaları, lisanslı finansal kurumlar.</strong> Düşük riskli ürün örnekleri: <strong>zorunlu emeklilik ürünleri, sosyal yardım ödemeleri, düşük limitli tasarruf hesapları.</strong></p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "SDD Uygulaması ve Standart KYC ile Farkları",
+      "sections": [
+        {
+          "heading": "SDD'nin Özellikleri",
+          "content": "<p>SDD'de kimlik bilgilerinin toplanması ertelenebilir; ancak iş ilişkisi başlamadan önce tamamlanmalıdır. İzleme sıklığı ve derinliği azaltılabilir; tamamen kaldırılamaz. Periyodik gözden geçirme yükümlülüğü korunur.</p>"
+        },
+        {
+          "heading": "Dikkat Gereken Hususlar",
+          "content": "<p>SDD kararı <strong>gerekçesiyle birlikte belgelenmelidir.</strong> Şüphe belirdiğinde standart KYC veya EDD'ye geçilmelidir. SDD uygulanan müşteri kategorileri yazılı politikalarda açıkça tanımlanmalıdır. FATF, risk düşük olduğunda SDD'ye olanak tanır ancak standart dışı uygulamalara izin vermez.</p>"
         }
       ]
     }
