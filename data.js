@@ -32520,6 +32520,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_FAYD": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "Başkası Adına İşlem Kavramı",
+        "body": "<ul><li>Bir kişi başkası adına veya hesabına hareket ediyorsa yükümlü hem asıl kişiyi hem de temsil edileni tespit etmelidir.</li><li>Vekalet, velayet, temsil ve güven ilişkileri başkası adına işlem kapsamına girer.</li><li>Yükümlü, temsil yetkisini doğrulamak zorundadır (vekâletname, mahkeme kararı vb.).</li><li>Temsil yetkisi doğrulanamıyorsa işlem yapılmamalıdır.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "Gerçek Faydalanıcı (Beneficial Owner) Kavramı",
+        "body": "<ul><li>Gerçek faydalanıcı; bir işlem veya şirket üzerinde nihai kontrolü veya mülkiyeti elinde bulunduran gerçek kişidir.</li><li>FATF eşiği: tüzel kişide %25 veya üzerinde pay veya kontrol hakkı.</li><li>Aracı kurumlar, holding yapıları veya nominee (aday) düzenlemeler arkasında gerçek faydalanıcı gizlenebilir.</li><li>Gerçek faydalanıcının tespit edilememesi işlemin reddini gerektirebilir.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "Gerçek Faydalanıcı Tespitinde Yöntemler",
+        "body": "<ul><li>Ortaklık yapısı belgeleri (pay defteri, ticaret sicil) incelenir.</li><li>Yönetim kurulu ve kontrol mekanizmaları değerlendirilir.</li><li>Karmaşık yapılarda katmanlı sahiplik şeması çıkarılır.</li><li>Beyan ve yemin beyanları destekleyici nitelikte kullanılabilir.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "Şeffaf Olmayan Yapılar ve Riskler",
+        "body": "<ul><li>Anonim hisse senetleri, taşıyıcı hisse senetleri ve gizli ortaklar şeffaflığı zedeler.</li><li>Tröstler, vakıflar ve offshore yapılar gerçek faydalanıcıyı gizlemek için kullanılabilir.</li><li>Yükümlü, şeffaf olmayan yapılara karşı artırılmış müşteri kimlik tespiti (EDD) uygulamalıdır.</li><li>FATF, taşıyıcı hisse senetlerinin kısıtlanmasını tavsiye eder.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "Kayıt ve Güncelleme Yükümlülüğü",
+        "body": "<ul><li>Gerçek faydalanıcı bilgileri kayıt altına alınır ve 5 yıl muhafaza edilir.</li><li>Sahiplik yapısında değişiklik olduğunda bilgiler güncellenir.</li><li>Türkiye'de merkezi gerçek faydalanıcı kayıt sistemi kurulmuştur.</li><li>Yanlış veya eksik bildirim idari yaptırıma yol açar.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "Başkası adına işlem yapılması durumunda yükümlünün yükümlülüğü nedir?",
+          "o": [
+            "A) Yalnızca işlem yapanın kimliğini tespit etmek",
+            "B) Hem işlem yapanın hem de temsil edilenin kimliğini tespit etmek",
+            "C) Yalnızca temsil edilenin kimliğini tespit etmek",
+            "D) Kimlik tespiti yapmadan işlemi gerçekleştirmek"
+          ],
+          "a": 1,
+          "e": "Başkası adına işlemde yükümlü hem işlemi yapan kişiyi hem de adına işlem yapılan kişiyi tespit etmelidir."
+        },
+        {
+          "q": "Gerçek faydalanıcı kimdir?",
+          "o": [
+            "A) İşlemi doğrudan gerçekleştiren kişi",
+            "B) Bir işlem veya şirket üzerinde nihai kontrolü veya mülkiyeti elinde bulunduran gerçek kişi",
+            "C) Yükümlünün çalışanı",
+            "D) İşlemin aracılığını yapan kurum"
+          ],
+          "a": 1,
+          "e": "Gerçek faydalanıcı, işlem veya yapı üzerindeki nihai kontrolü ya da mülkiyeti elinde bulunduran gerçek kişidir."
+        },
+        {
+          "q": "FATF'ın tüzel kişilerde gerçek faydalanıcı eşiği nedir?",
+          "o": [
+            "A) Yüzde 10",
+            "B) Yüzde 25",
+            "C) Yüzde 51",
+            "D) Yüzde 75"
+          ],
+          "a": 1,
+          "e": "FATF'a göre tüzel kişide yüzde 25 veya üzerinde pay veya kontrol hakkına sahip gerçek kişi faydalanıcı sayılır."
+        },
+        {
+          "q": "Temsil yetkisi doğrulanamıyorsa ne yapılmalıdır?",
+          "o": [
+            "A) İşlem yine de gerçekleştirilir",
+            "B) İşlem yapılmamalıdır",
+            "C) Yalnızca üst yönetim onayıyla işlem yapılır",
+            "D) Yalnızca MASAK'a bildirim yapılır"
+          ],
+          "a": 1,
+          "e": "Temsil yetkisi doğrulanamıyorsa yükümlü işlemi gerçekleştirmemelidir."
+        },
+        {
+          "q": "Gerçek faydalanıcı tespitinde hangi belgeler incelenir?",
+          "o": [
+            "A) Yalnızca vergi beyannamesi",
+            "B) Ortaklık yapısı belgeleri, pay defteri ve ticaret sicil kayıtları",
+            "C) Yalnızca banka hesap ekstresi",
+            "D) Yalnızca kira sözleşmesi"
+          ],
+          "a": 1,
+          "e": "Gerçek faydalanıcı tespitinde ortaklık yapısı belgeleri, pay defteri ve ticaret sicil kayıtları incelenir."
+        },
+        {
+          "q": "Taşıyıcı hisse senetleri AML açısından neden risk oluşturur?",
+          "o": [
+            "A) Yüksek değerli olduklarından",
+            "B) Gerçek sahibin gizlenmesine imkan tanıdıklarından",
+            "C) Yalnızca yabancı yatırımcılara satılabildiklerinden",
+            "D) Vergi avantajı sağladıklarından"
+          ],
+          "a": 1,
+          "e": "Taşıyıcı hisse senetleri hissenin kimin elinde olduğunu gizleyerek gerçek faydalanıcının tespitini zorlaştırır."
+        },
+        {
+          "q": "Şeffaf olmayan yapılara karşı hangi önlem uygulanmalıdır?",
+          "o": [
+            "A) İşlem reddedilmeli",
+            "B) Artırılmış müşteri kimlik tespiti (EDD) uygulanmalı",
+            "C) Yalnızca basit kimlik tespiti yeterli",
+            "D) Hiçbir ek önlem gerekmez"
+          ],
+          "a": 1,
+          "e": "Şeffaf olmayan yapılara (tröst, offshore vb.) karşı artırılmış müşteri kimlik tespiti (EDD) uygulanmalıdır."
+        },
+        {
+          "q": "Gerçek faydalanıcı bilgilerinin muhafaza süresi ne kadardır?",
+          "o": [
+            "A) 1 yıl",
+            "B) 3 yıl",
+            "C) 5 yıl",
+            "D) 10 yıl"
+          ],
+          "a": 2,
+          "e": "Gerçek faydalanıcı bilgileri kayıt altına alınır ve 5 yıl süreyle muhafaza edilir."
+        },
+        {
+          "q": "Türkiye'de gerçek faydalanıcı bilgileri için hangi sistem kurulmuştur?",
+          "o": [
+            "A) Merkezi vergi sicili",
+            "B) Merkezi gerçek faydalanıcı kayıt sistemi",
+            "C) Merkezi ipotek sicili",
+            "D) Merkezi nüfus kayıt sistemi"
+          ],
+          "a": 1,
+          "e": "Türkiye'de gerçek faydalanıcı bilgilerinin tutulması amacıyla merkezi gerçek faydalanıcı kayıt sistemi kurulmuştur."
+        },
+        {
+          "q": "Vekalet ilişkisi başkası adına işlem kapsamında mıdır?",
+          "o": [
+            "A) Hayır",
+            "B) Evet",
+            "C) Yalnızca noter vekâletleri",
+            "D) Yalnızca uluslararası vekâletler"
+          ],
+          "a": 1,
+          "e": "Vekalet, velayet, temsil ve güven ilişkileri başkası adına işlem kapsamına girer."
+        },
+        {
+          "q": "Holding yapılarının gerçek faydalanıcı tespitini zorlaştırması neden AML riski oluşturur?",
+          "o": [
+            "A) Holding yapıları yasal değildir",
+            "B) Katmanlı sahiplik nihai kontrolü gizleyebilir",
+            "C) Holdingler vergi avantajından yararlanamaz",
+            "D) Holdingler yalnızca yabancı yatırımcılar tarafından kurulabilir"
+          ],
+          "a": 1,
+          "e": "Karmaşık holding yapılarında katmanlı sahiplik, nihai kontrolü elinde bulunduran gerçek kişiyi gizleyebilir."
+        },
+        {
+          "q": "Offshore yapılar AML açısından neden dikkat gerektirir?",
+          "o": [
+            "A) Offshore yapılar otomatik olarak yasaldır",
+            "B) Gerçek faydalanıcıyı gizlemek amacıyla kullanılabilirler",
+            "C) Offshore yapılar yalnızca büyük şirketler tarafından kurulabilir",
+            "D) Offshore yapılar vergi avantajı sağlamaz"
+          ],
+          "a": 1,
+          "e": "Offshore yapılar, gerçek faydalanıcının kimliğini gizlemek amacıyla kullanılabildiğinden AML riski taşır."
+        },
+        {
+          "q": "Sahiplik yapısında değişiklik olduğunda gerçek faydalanıcı bilgileri ne zaman güncellenir?",
+          "o": [
+            "A) Hiçbir zaman güncellenmez",
+            "B) Değişiklik gerçekleştiğinde",
+            "C) Yalnızca 5 yılda bir",
+            "D) Yalnızca denetim öncesinde"
+          ],
+          "a": 1,
+          "e": "Sahiplik yapısındaki değişiklikler gerçek faydalanıcı bilgilerinin güncellenmesini zorunlu kılar."
+        },
+        {
+          "q": "Yanlış veya eksik gerçek faydalanıcı bildirimi hangi sonucu doğurur?",
+          "o": [
+            "A) Hiçbir yaptırım yoktur",
+            "B) İdari yaptırıma yol açar",
+            "C) Yalnızca uyarı verilir",
+            "D) Lisans otomatik iptal edilir"
+          ],
+          "a": 1,
+          "e": "Yanlış veya eksik gerçek faydalanıcı bildirimi idari yaptırıma yol açar."
+        },
+        {
+          "q": "Tröstlerin gerçek faydalanıcı tespitinde hangi zorluk ortaya çıkar?",
+          "o": [
+            "A) Tröstler kayıt yükümlülüğünden muaftır",
+            "B) Tröst yapısında faydalanıcı, kurucu ve yöneticinin farklı kişiler olması nedeniyle nihai kontrol belirsizleşebilir",
+            "C) Tröstler yalnızca kamu kurumları tarafından kurulabilir",
+            "D) Tröstler sermaye piyasasında işlem yapamaz"
+          ],
+          "a": 1,
+          "e": "Tröstlerde faydalanıcı, kurucu ve yönetici farklı kişiler olabildiğinden nihai kontrol belirsizleşerek tespit güçleşir."
+        },
+        {
+          "q": "Nominee (aday) düzenleme AML riski açısından neden önemlidir?",
+          "o": [
+            "A) Nominee düzenlemeler yasal değildir",
+            "B) Gerçek malikin kimliğini gizleyebilir",
+            "C) Yalnızca kamu ihalelerinde kullanılır",
+            "D) Vergi avantajı sağlar"
+          ],
+          "a": 1,
+          "e": "Nominee düzenlemeler, gerçek malikin yerine başka birinin isim vermesi nedeniyle gerçek faydalanıcının gizlenmesine imkan tanır."
+        },
+        {
+          "q": "Gerçek faydalanıcı beyanı hangi durumlarda destekleyici nitelik taşır?",
+          "o": [
+            "A) Belge sunulamadığında tek başına yeterlidir",
+            "B) Belge ile desteklenerek kullanıldığında",
+            "C) Yalnızca kamu kurumları için geçerlidir",
+            "D) Hiçbir hukuki değeri yoktur"
+          ],
+          "a": 1,
+          "e": "Gerçek faydalanıcı beyanı, belge ile desteklendiğinde tespiti güçlendiren destekleyici bir unsur olarak kullanılır."
+        },
+        {
+          "q": "FATF, taşıyıcı hisse senetleri konusunda ne tavsiye etmektedir?",
+          "o": [
+            "A) Taşıyıcı hisse senetlerinin teşvik edilmesi",
+            "B) Taşıyıcı hisse senetlerinin kısıtlanması",
+            "C) Taşıyıcı hisse senetlerinin yalnızca bankalara izin verilmesi",
+            "D) Taşıyıcı hisse senetlerinin uluslararası kullanımının genişletilmesi"
+          ],
+          "a": 1,
+          "e": "FATF, şeffaflık gerekçesiyle taşıyıcı hisse senetlerinin kısıtlanmasını tavsiye etmektedir."
+        },
+        {
+          "q": "Katmanlı sahiplik şemasının çıkarılması gerçek faydalanıcı tespitinde neden önemlidir?",
+          "o": [
+            "A) Şirketin pazar değerini hesaplamak için",
+            "B) Karmaşık yapılarda nihai kontrolü elinde bulunduran kişiyi ortaya çıkarmak için",
+            "C) Vergi planlaması yapmak için",
+            "D) Muhasebe kayıtlarını düzenlemek için"
+          ],
+          "a": 1,
+          "e": "Katmanlı sahiplik şeması, karmaşık yapılarda nihai faydalanıcının kimliğini ortaya çıkarabilmek için hazırlanır."
+        },
+        {
+          "q": "Yükümlü temsil yetkisini hangi belgelerle doğrulayabilir?",
+          "o": [
+            "A) Fatura ve banka ekstresi",
+            "B) Vekâletname veya mahkeme kararı",
+            "C) Yalnızca sözlü beyan",
+            "D) Vergi beyannamesi"
+          ],
+          "a": 1,
+          "e": "Temsil yetkisi; vekâletname, mahkeme kararı gibi resmi belgelerle doğrulanmalıdır."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -35559,6 +35812,54 @@ window.__EXT = {
         {
           "heading": "Periyodik Güncelleme",
           "content": "<p>Mevcut müşterilerin kimlik bilgileri <strong>risk bazlı periyotlarla</strong> güncellenir; yüksek riskli müşterilerde güncelleme sıklığı artırılır.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_FAYD": [
+    {
+      "num": "01",
+      "title": "Başkası Adına İşlem ve Temsil",
+      "sections": [
+        {
+          "heading": "Başkası Adına İşlem Nedir?",
+          "content": "<p>Bir kişinin başkası adına veya hesabına hareket etmesi durumunda yükümlü, <strong>hem işlem yapan kişiyi hem de temsil edileni</strong> tespit etmek zorundadır. Vekalet, velayet, temsil ve güven ilişkileri bu kapsama girer. Temsil yetkisi vekâletname veya mahkeme kararı gibi belgelerle doğrulanmalı; doğrulanamıyorsa işlem yapılmamalıdır.</p>"
+        },
+        {
+          "heading": "Temsil Yetkisinin Doğrulanması",
+          "content": "<p>Yükümlü, temsil yetkisini doğrulamak için vekâletname, mahkeme kararı veya benzeri resmi belgeler talep eder. Belge olmaksızın yalnızca sözlü beyana dayanmak yeterli değildir.</p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "Gerçek Faydalanıcı Tespiti",
+      "sections": [
+        {
+          "heading": "Gerçek Faydalanıcı Kavramı",
+          "content": "<p><strong>Gerçek faydalanıcı</strong>, bir işlem veya yapı üzerinde nihai kontrolü ya da mülkiyeti elinde bulunduran gerçek kişidir. FATF eşiği tüzel kişilerde <strong>yüzde 25</strong> veya üzeri pay ya da kontrol hakkıdır.</p>"
+        },
+        {
+          "heading": "Tespit Yöntemleri",
+          "content": "<p>Ortaklık yapısı belgeleri, pay defteri ve ticaret sicil kayıtları incelenir. Karmaşık yapılarda katmanlı sahiplik şeması hazırlanır. Beyan ve yemin beyanları destekleyici nitelikte kullanılabilir.</p>"
+        },
+        {
+          "heading": "Şeffaf Olmayan Yapılar",
+          "content": "<p>Anonim hisse senetleri, taşıyıcı hisse senetleri, tröstler, vakıflar ve offshore yapılar gerçek faydalanıcıyı gizlemek amacıyla kullanılabilir. Bu yapılara karşı <strong>artırılmış müşteri kimlik tespiti (EDD)</strong> uygulanmalıdır. FATF, taşıyıcı hisse senetlerinin kısıtlanmasını tavsiye eder.</p>"
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "title": "Kayıt, Güncelleme ve Türkiye Uygulaması",
+      "sections": [
+        {
+          "heading": "Muhafaza Yükümlülüğü",
+          "content": "<p>Gerçek faydalanıcı bilgileri kayıt altına alınır ve <strong>5 yıl</strong> süreyle saklanır. Sahiplik yapısındaki değişiklikler güncellemeyi tetikler; yanlış veya eksik bildirim idari yaptırıma yol açar.</p>"
+        },
+        {
+          "heading": "Merkezi Kayıt Sistemi",
+          "content": "<p>Türkiye'de <strong>merkezi gerçek faydalanıcı kayıt sistemi</strong> kurularak tüzel kişilerin gerçek faydalanıcı bilgilerinin yetkili makamlarla paylaşılması sağlanmıştır.</p>"
         }
       ]
     }
