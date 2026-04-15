@@ -33026,6 +33026,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_KRPT": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "Elektronik Fon Transferi (EFT) Kuralları",
+        "body": "<ul><li>EFT işlemlerinde gönderen ve alıcıya ait isim, hesap numarası ve adres bilgilerinin aktarılması zorunludur.</li><li>FATF 16. Tavsiye 'Travel Rule' (Seyahat Kuralı) olarak bilinen bu yükümlülüğü düzenler.</li><li>Bilgi eksikliği halinde aracı kuruluşlar işlemi askıya alabilir veya reddedebilir.</li><li>1.000 Euro/USD eşiğinin altında basitleştirilmiş kural uygulanabilir.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "Kripto Varlık Hizmet Sağlayıcıları (VASP)",
+        "body": "<ul><li>VASP (Virtual Asset Service Provider); kripto varlık alım-satım, transfer ve saklama hizmetleri sunan kuruluşlardır.</li><li>FATF, VASP'ların AML/CFT yükümlülüklerine tabi tutulması gerektiğini düzenler.</li><li>Türkiye'de kripto varlık hizmet sağlayıcıları SPK lisansına tabi tutulmuştur.</li><li>VASP'lar müşteri kimlik tespiti, ŞİB ve kayıt tutma yükümlülüklerini yerine getirmek zorundadır.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "Kripto Varlık Transferlerinde Travel Rule",
+        "body": "<ul><li>FATF Travel Rule, kripto varlık transferlerinde de gönderici ve alıcı bilgilerinin aktarılmasını zorunlu kılar.</li><li>VASP'tan VASP'a transferlerde bilgi paylaşımı zorunludur.</li><li>Unhosted wallet (kişisel cüzdan) işlemleri ekstra dikkat ve belgeleme gerektirir.</li><li>Eşik: 1.000 USD/EUR ve üzeri transferlerde Travel Rule zorunludur.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "Kripto Varlıklarda Risk Faktörleri",
+        "body": "<ul><li>Anonimlik ve takma adlılık kripto varlıkların temel AML risk unsurlarıdır.</li><li>Mixer/tumbler servisleri, anonimlik koinin kullanımı ve DeFi protokolleri izleme güçlüğü yaratır.</li><li>Hızlı uluslararası transferler kara para aklamanın katmanlama aşamasında sıkça kullanılır.</li><li>Blockchain analiz araçları şüpheli işlemlerin tespitinde kritik rol oynar.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "Türkiye'de Kripto Varlık Düzenlemesi",
+        "body": "<ul><li>7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK denetimine alınmıştır.</li><li>VASP'lar SPK'ya kayıt olmak, müşteri kimliğini doğrulamak ve şüpheli işlemleri bildirmek zorundadır.</li><li>Türkiye, MASAK aracılığıyla kripto varlık işlemlerinde AML/CFT uyumu izlemektedir.</li><li>Lisanssız faaliyet gösteren VASP'lara idari ve cezai yaptırım uygulanır.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "FATF Travel Rule (Seyahat Kuralı) hangi tavsiyede düzenlenmektedir?",
+          "o": [
+            "A) 10. Tavsiye",
+            "B) 13. Tavsiye",
+            "C) 16. Tavsiye",
+            "D) 20. Tavsiye"
+          ],
+          "a": 2,
+          "e": "FATF'ın 16. Tavsiyesi elektronik fon transferlerinde gönderici ve alıcı bilgilerinin aktarılması yükümlülüğünü düzenler."
+        },
+        {
+          "q": "VASP kısaltması ne anlama gelir?",
+          "o": [
+            "A) Vergi Analiz Servisi Programı",
+            "B) Sanal Varlık Hizmet Sağlayıcısı",
+            "C) Verimli Aktarım Sistemi Platformu",
+            "D) Veri Akışı ve Sigorta Programı"
+          ],
+          "a": 1,
+          "e": "VASP; Virtual Asset Service Provider, yani Sanal (Kripto) Varlık Hizmet Sağlayıcısı anlamına gelir."
+        },
+        {
+          "q": "Travel Rule'un kripto varlık transferlerinde uygulanma eşiği nedir?",
+          "o": [
+            "A) 100 USD",
+            "B) 500 USD",
+            "C) 1.000 USD/EUR",
+            "D) 10.000 USD"
+          ],
+          "a": 2,
+          "e": "Travel Rule, 1.000 USD/EUR ve üzerindeki kripto varlık transferlerinde zorunlu olarak uygulanır."
+        },
+        {
+          "q": "Unhosted wallet (kişisel cüzdan) işlemleri AML açısından neden dikkat gerektirir?",
+          "o": [
+            "A) Kişisel cüzdanlar yalnızca küçük tutarlar için kullanılır",
+            "B) İşlem karşı tarafının kimliğini doğrulamak güçtür",
+            "C) Kişisel cüzdanlar yasal değildir",
+            "D) Kişisel cüzdanlar yalnızca bankalar tarafından kullanılabilir"
+          ],
+          "a": 1,
+          "e": "Kişisel cüzdanlarla yapılan işlemlerde karşı tarafın kimliği doğrulanması güç olduğundan ekstra belgeleme ve dikkat gerekir."
+        },
+        {
+          "q": "Kripto varlıklarda mixer/tumbler servislerinin kullanımı neden AML riski taşır?",
+          "o": [
+            "A) Yüksek işlem ücreti aldıklarından",
+            "B) İşlem izini karıştırarak fon kaynağını gizler",
+            "C) Yalnızca küçük tutarlar için kullanılırlar",
+            "D) Yalnızca borsalar tarafından kullanılırlar"
+          ],
+          "a": 1,
+          "e": "Mixer/tumbler servisleri kripto varlık işlem izlerini karıştırarak fon kaynağını ve akışını gizler."
+        },
+        {
+          "q": "Türkiye'de kripto varlık hizmet sağlayıcıları hangi kurumun denetimine tabidir?",
+          "o": [
+            "A) MASAK",
+            "B) BDDK",
+            "C) SPK",
+            "D) Hazine ve Maliye Bakanlığı"
+          ],
+          "a": 2,
+          "e": "7518 sayılı Kanun ile Türkiye'de kripto varlık hizmet sağlayıcıları SPK denetimine ve lisans yükümlülüğüne tabi tutulmuştur."
+        },
+        {
+          "q": "VASP'tan VASP'a kripto transferlerde ne zorunludur?",
+          "o": [
+            "A) Yalnızca tutar bilgisinin paylaşılması",
+            "B) Gönderici ve alıcı bilgilerinin paylaşılması (Travel Rule)",
+            "C) Yalnızca alıcı bilgisinin paylaşılması",
+            "D) Hiçbir bilgi paylaşımı zorunlu değildir"
+          ],
+          "a": 1,
+          "e": "VASP'tan VASP'a transferlerde Travel Rule gereğince hem gönderici hem de alıcıya ait bilgilerin paylaşılması zorunludur."
+        },
+        {
+          "q": "Kripto varlıkların kara para aklamasının hangi aşamasında sıklıkla kullanıldığı belirtilir?",
+          "o": [
+            "A) Yerleştirme",
+            "B) Katmanlama",
+            "C) Entegrasyon",
+            "D) İzleme"
+          ],
+          "a": 1,
+          "e": "Hızlı ve uluslararası kripto varlık transferleri kara para aklamanın katmanlama (layering) aşamasında sıkça kullanılır."
+        },
+        {
+          "q": "Blockchain analiz araçlarının AML'deki rolü nedir?",
+          "o": [
+            "A) Kripto varlık fiyatlarını belirlemek",
+            "B) Şüpheli işlemleri ve cüzdan bağlantılarını tespit etmek",
+            "C) Yeni kripto para birimi oluşturmak",
+            "D) Vergi hesaplamak"
+          ],
+          "a": 1,
+          "e": "Blockchain analiz araçları, şüpheli işlemleri ve cüzdan bağlantılarını tespit etmekte kritik rol oynar."
+        },
+        {
+          "q": "Anonimlik artırıcı (privacy) coin kullanımı AML açısından neden risk taşır?",
+          "o": [
+            "A) Düşük değerli olduklarından",
+            "B) İşlem izlerini gizleyerek fon kaynağı ve akışını görünmez kılarlar",
+            "C) Yalnızca küçük miktarlarda kullanılabilirler",
+            "D) Merkezi borsalarda işlem görmediklerinden"
+          ],
+          "a": 1,
+          "e": "Privacy (anonimlik artırıcı) coinler, işlem izlerini gizleyerek fon kaynağı ve akışını görünmez kılar."
+        },
+        {
+          "q": "EFT işlemlerinde Travel Rule gereğince hangi bilgiler zorunlu olarak aktarılır?",
+          "o": [
+            "A) Yalnızca gönderen bilgisi",
+            "B) Yalnızca alıcı bilgisi",
+            "C) Gönderen ve alıcının isim, hesap numarası ve adres bilgileri",
+            "D) Yalnızca işlem tutarı"
+          ],
+          "a": 2,
+          "e": "Travel Rule gereğince EFT işlemlerinde hem gönderen hem de alıcının isim, hesap numarası ve adres bilgilerinin aktarılması zorunludur."
+        },
+        {
+          "q": "VASP'ların temel AML/CFT yükümlülükleri nelerdir?",
+          "o": [
+            "A) Yalnızca vergi beyannamesi vermek",
+            "B) Müşteri kimlik tespiti, şüpheli işlem bildirimi ve kayıt tutma",
+            "C) Yalnızca işlem hacmi raporlamak",
+            "D) Yalnızca MASAK'a kayıt olmak"
+          ],
+          "a": 1,
+          "e": "VASP'lar; müşteri kimlik tespiti (KYC), şüpheli işlem bildirimi (ŞİB) ve kayıt tutma yükümlülüklerini yerine getirmek zorundadır."
+        },
+        {
+          "q": "1.000 Euro/USD altındaki EFT transferlerinde ne uygulanabilir?",
+          "o": [
+            "A) Tam Travel Rule",
+            "B) Basitleştirilmiş kural",
+            "C) İşlem tamamen reddedilir",
+            "D) Hiçbir kural uygulanmaz"
+          ],
+          "a": 1,
+          "e": "1.000 Euro/USD altındaki transferlerde Travel Rule'un basitleştirilmiş versiyonu uygulanabilir."
+        },
+        {
+          "q": "DeFi (merkeziyetsiz finans) protokolleri AML açısından hangi riski taşır?",
+          "o": [
+            "A) Yüksek işlem maliyeti",
+            "B) Merkezi denetim olmaksızın anonim işlemlere imkan tanıması",
+            "C) Yalnızca küçük tutarlara izin vermesi",
+            "D) Geleneksel bankaları doğrudan etkilememesi"
+          ],
+          "a": 1,
+          "e": "DeFi protokolleri merkezi denetim mekanizması olmaksızın anonim işlemlere imkan tanıyarak AML riski oluşturur."
+        },
+        {
+          "q": "Lisanssız faaliyet gösteren VASP'lara Türkiye'de ne uygulanır?",
+          "o": [
+            "A) Hiçbir yaptırım uygulanmaz",
+            "B) İdari ve cezai yaptırım uygulanır",
+            "C) Yalnızca uyarı verilir",
+            "D) Yalnızca vergi cezası uygulanır"
+          ],
+          "a": 1,
+          "e": "Türkiye'de lisanssız faaliyet gösteren kripto varlık hizmet sağlayıcılarına idari ve cezai yaptırım uygulanır."
+        },
+        {
+          "q": "EFT'de bilgi eksikliği halinde aracı kuruluşun yetkisi nedir?",
+          "o": [
+            "A) İşlemi otomatik onaylamak",
+            "B) İşlemi askıya almak veya reddetmek",
+            "C) Yalnızca uyarı göndermek",
+            "D) MASAK'a eksik dosya iletmek"
+          ],
+          "a": 1,
+          "e": "EFT'de zorunlu bilgiler eksikse aracı kuruluş işlemi askıya alabilir ya da reddedebilir."
+        },
+        {
+          "q": "FATF kripto varlık düzenlemesinin odak noktası nedir?",
+          "o": [
+            "A) Kripto varlık fiyatlarını sabitlemek",
+            "B) VASP'ların AML/CFT yükümlülüklerine tabi tutulması",
+            "C) Kripto varlıkların yasaklanması",
+            "D) Kripto varlık vergisinin belirlenmesi"
+          ],
+          "a": 1,
+          "e": "FATF, VASP'ların AML/CFT yükümlülüklerine tabi tutulması ve Travel Rule'un uygulanması konusunda standartlar belirlemiştir."
+        },
+        {
+          "q": "7518 sayılı Kanun'un kripto varlık alanındaki temel yeniliği nedir?",
+          "o": [
+            "A) Kripto varlıkları tamamen yasaklamak",
+            "B) Kripto varlık hizmet sağlayıcılarını SPK lisansına tabi kılmak",
+            "C) Yalnızca yabancı VASP'ları düzenlemek",
+            "D) Kripto varlık vergisini düzenlemek"
+          ],
+          "a": 1,
+          "e": "7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK lisansına ve denetimine tabi tutulmuştur."
+        },
+        {
+          "q": "Kripto varlık transferinde gönderici VASP'ın yükümlülüğü nedir?",
+          "o": [
+            "A) Yalnızca alıcı VASP'ı bilgilendirmek",
+            "B) Alıcı VASP'a gönderici ve alıcı bilgilerini aktarmak",
+            "C) Yalnızca tutarı bildirmek",
+            "D) İşlemi MASAK'a bildirmek"
+          ],
+          "a": 1,
+          "e": "Gönderici VASP, Travel Rule gereğince alıcı VASP'a hem gönderici hem de alıcıya ait bilgileri aktarmak zorundadır."
+        },
+        {
+          "q": "Kripto varlıkların AML açısından temel risk unsuru nedir?",
+          "o": [
+            "A) Yüksek işlem maliyeti",
+            "B) Anonimlik ve takma adlılık",
+            "C) Düşük işlem hızı",
+            "D) Coğrafi kısıtlamalar"
+          ],
+          "a": 1,
+          "e": "Kripto varlıkların anonimlik ve takma adlılık özellikleri temel AML risk unsurlarıdır."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -36157,6 +36410,46 @@ window.__EXT = {
         {
           "heading": "Pratik Tedbirler",
           "content": "<p>Yüksek riskli ülkelerden gelen fon transferlerinde kaynak araştırılır. Gerektiğinde işlem reddedilebilir ya da ŞİB yapılır. Ülke risk derecelendirmeleri düzenli izlenir ve güncellenir.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_KRPT": [
+    {
+      "num": "01",
+      "title": "Elektronik Fon Transferi ve Travel Rule",
+      "sections": [
+        {
+          "heading": "Travel Rule Nedir?",
+          "content": "<p>FATF'ın <strong>16. Tavsiyesi</strong> ile düzenlenen Travel Rule (Seyahat Kuralı), EFT işlemlerinde <strong>gönderen ve alıcıya ait isim, hesap numarası ve adres bilgilerinin</strong> aktarılmasını zorunlu kılar. 1.000 EUR/USD altında basitleştirilmiş kural uygulanabilir. Bilgi eksikliğinde aracı kuruluş işlemi askıya alabilir veya reddedebilir.</p>"
+        },
+        {
+          "heading": "Kripto Varlık Transferlerinde Travel Rule",
+          "content": "<p>Travel Rule kripto varlık transferlerine de uygulanır. <strong>VASP'tan VASP'a</strong> transferlerde 1.000 USD/EUR eşiğini aşan işlemlerde gönderici ve alıcı bilgileri paylaşılmalıdır. Unhosted wallet işlemleri ekstra belgeleme gerektirir.</p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "VASP ve Kripto Varlık Risk Faktörleri",
+      "sections": [
+        {
+          "heading": "VASP Yükümlülükleri",
+          "content": "<p>VASP'lar; <strong>müşteri kimlik tespiti, ŞİB ve kayıt tutma</strong> yükümlülüklerine tabidir. Türkiye'de 7518 sayılı Kanun ile SPK lisansına tabi kılınmışlardır. Lisanssız faaliyet idari ve cezai yaptırıma konu olur.</p>"
+        },
+        {
+          "heading": "Risk Faktörleri",
+          "content": "<p>Kripto varlıklarda başlıca AML riskleri: <strong>anonimlik ve takma adlılık, mixer/tumbler servisleri, privacy coinler, DeFi protokolleri.</strong> Blockchain analiz araçları şüpheli işlem tespitinde kritik rol oynar.</p>"
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "title": "Türkiye'de Kripto Varlık Düzenlemesi",
+      "sections": [
+        {
+          "heading": "Yasal Çerçeve",
+          "content": "<p>7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK denetimine alınmıştır. VASP'lar SPK'ya kayıt olmak, KYC uygulamak ve ŞİB yapmak zorundadır. MASAK kripto varlık alanındaki AML/CFT uyumunu izler.</p>"
         }
       ]
     }
