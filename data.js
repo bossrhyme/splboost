@@ -32267,6 +32267,259 @@ window.__C = {
         }
       ]
     }
+  },
+  "UY2_KIM": {
+    "summary": [
+      {
+        "num": "01",
+        "title": "Kimlik Tespiti (KYC) Nedir?",
+        "body": "<ul><li>Kimlik tespiti (Know Your Customer), yükümlülerin müşterilerini ve işlemlerini tanıma sürecidir.</li><li>Müşteri kimliğinin doğrulanması kara para aklamanın önlenmesinde temel güvencedir.</li><li>KYC; kimlik doğrulama, müşteri profili oluşturma ve sürekli izlemeyi kapsar.</li><li>5549 sayılı Kanun ve ilgili yönetmelikler KYC yükümlülüklerini düzenler.</li></ul>"
+      },
+      {
+        "num": "02",
+        "title": "Kimlik Tespiti Zorunlu Olan Durumlar",
+        "body": "<ul><li>Hesap açılışında her müşteri için kimlik tespiti zorunludur.</li><li>Belirli bir tutarın üzerindeki işlemlerde (örn. 100.000 TL eşiği) kimlik tespiti yapılır.</li><li>Önceki tespitte şüphe ya da tutarsızlık varsa yeniden tespit gerekir.</li><li>Müşteri risk profilindeki önemli değişiklik kimlik güncellemesini tetikler.</li></ul>"
+      },
+      {
+        "num": "03",
+        "title": "Gerçek Kişilerde Kimlik Tespiti",
+        "body": "<ul><li>Ad, soyad, doğum tarihi, uyruk ve kimlik belgesi bilgileri toplanır.</li><li>Nüfus cüzdanı, pasaport veya sürücü belgesi gibi resmi belgeler esas alınır.</li><li>Adres doğrulaması (fatura, ikametgah belgesi) ek gereksinim olabilir.</li><li>Belge asılları veya noter onaylı kopyalar kabul edilir.</li></ul>"
+      },
+      {
+        "num": "04",
+        "title": "Tüzel Kişilerde Kimlik Tespiti",
+        "body": "<ul><li>Şirket unvanı, vergi kimlik numarası, kuruluş belgesi ve faaliyet adresi toplanır.</li><li>Temsil yetkisine sahip kişilerin kimlik tespiti ayrıca yapılır.</li><li>Gerçek faydalanıcılar (nihai kontrolü elinde bulunduranlar) tespit edilir.</li><li>Ticaret sicil kayıtları ve imza sirkülerleri belge olarak kullanılır.</li></ul>"
+      },
+      {
+        "num": "05",
+        "title": "Uzaktan Kimlik Tespiti ve Güncelleme",
+        "body": "<ul><li>Dijital kanallarla uzaktan kimlik tespitinde elektronik belge doğrulama sistemleri kullanılır.</li><li>Video görüşme, e-Devlet entegrasyonu ve biyometrik yöntemler kabul edilebilir.</li><li>Mevcut müşterilerin kimlik bilgileri risk bazlı periyotlarla güncellenir.</li><li>Yüksek riskli müşterilerde güncelleme sıklığı artırılır.</li></ul>"
+      }
+    ],
+    "tests": {
+      "t1": [
+        {
+          "q": "KYC (Know Your Customer) sürecinin temel amacı nedir?",
+          "o": [
+            "A) Müşterilere kredi limiti belirlemek",
+            "B) Müşteri kimliğini doğrulayarak kara para aklamanın önüne geçmek",
+            "C) Müşterilere ürün önermek",
+            "D) Çalışan performansını değerlendirmek"
+          ],
+          "a": 1,
+          "e": "KYC, müşteri kimliğinin doğrulanması yoluyla kara para aklama riskini azaltmayı amaçlar."
+        },
+        {
+          "q": "Hesap açılışında kimlik tespiti zorunlu mudur?",
+          "o": [
+            "A) Hayır, yalnızca yüksek tutarlı işlemlerde zorunludur",
+            "B) Evet, her müşteri için zorunludur",
+            "C) Yalnızca yabancı uyruklu müşteriler için zorunludur",
+            "D) Yalnızca kurumsal müşteriler için zorunludur"
+          ],
+          "a": 1,
+          "e": "Hesap açılışında tüm müşteriler için kimlik tespiti yasal zorunluluktur."
+        },
+        {
+          "q": "Gerçek kişilerde kimlik tespitinde hangi bilgiler toplanır?",
+          "o": [
+            "A) Yalnızca ad ve soyad",
+            "B) Ad, soyad, doğum tarihi, uyruk ve kimlik belgesi bilgileri",
+            "C) Yalnızca vergi kimlik numarası",
+            "D) Yalnızca adres bilgisi"
+          ],
+          "a": 1,
+          "e": "Gerçek kişilerden ad, soyad, doğum tarihi, uyruk ve kimlik belgesi bilgileri toplanır."
+        },
+        {
+          "q": "Tüzel kişilerde gerçek faydalanıcının tespiti neden gereklidir?",
+          "o": [
+            "A) Şirket kârının hesaplanması için",
+            "B) Nihai kontrolü elinde bulunduran kişinin ortaya çıkarılması ve AML riskinin azaltılması için",
+            "C) Çalışan sayısının belirlenmesi için",
+            "D) Vergi matrahının hesaplanması için"
+          ],
+          "a": 1,
+          "e": "Gerçek faydalanıcı tespiti, şirket arkasında kimin bulunduğunu ortaya çıkarmak ve AML riskini azaltmak amacıyla zorunludur."
+        },
+        {
+          "q": "Kimlik bilgilerinin yeniden tespit gerektirdiği durumlardan biri hangisidir?",
+          "o": [
+            "A) Müşterinin her yıl aynı işlemi yapması",
+            "B) Önceki tespitte şüphe veya tutarsızlık bulunması",
+            "C) Müşterinin 5 yıldır müşteri olması",
+            "D) İşlem tutarının düşük olması"
+          ],
+          "a": 1,
+          "e": "Önceki kimlik tespitinde şüphe ya da tutarsızlık tespit edilmesi yeniden tespit yapılmasını zorunlu kılar."
+        },
+        {
+          "q": "Tüzel kişilerde kimlik tespitinde hangi belgeler kullanılır?",
+          "o": [
+            "A) Yalnızca vergi beyannamesi",
+            "B) Ticaret sicil kayıtları ve imza sirkülerleri",
+            "C) Yalnızca banka hesap ekstresi",
+            "D) Yalnızca SGK kayıtları"
+          ],
+          "a": 1,
+          "e": "Tüzel kişilerde ticaret sicil kayıtları ve imza sirkülerleri kimlik tespitinde kullanılan temel belgelerdir."
+        },
+        {
+          "q": "Uzaktan kimlik tespitinde hangi yöntemler kullanılabilir?",
+          "o": [
+            "A) Yalnızca fiziksel belge teslimi",
+            "B) Video görüşme, e-Devlet entegrasyonu ve biyometrik yöntemler",
+            "C) Yalnızca posta yoluyla belge gönderimi",
+            "D) Yalnızca noter onaylı belgeler"
+          ],
+          "a": 1,
+          "e": "Uzaktan kimlik tespitinde video görüşme, e-Devlet entegrasyonu ve biyometrik yöntemler gibi dijital araçlar kullanılabilir."
+        },
+        {
+          "q": "Mevcut müşterilerin kimlik bilgileri ne zaman güncellenir?",
+          "o": [
+            "A) Hiçbir zaman güncellenmez",
+            "B) Risk bazlı periyotlarla ve profilde önemli değişiklik olduğunda",
+            "C) Yalnızca 10 yılda bir",
+            "D) Yalnızca müşteri talep ettiğinde"
+          ],
+          "a": 1,
+          "e": "Mevcut müşterilerin kimlik bilgileri risk bazlı periyotlarla ve profilde önemli değişiklik olduğunda güncellenir."
+        },
+        {
+          "q": "Temsil yetkisine sahip kişilerin kimlik tespiti hangi müşteri türünde ayrıca yapılır?",
+          "o": [
+            "A) Gerçek kişilerde",
+            "B) Tüzel kişilerde",
+            "C) Yalnızca kamu kurumlarında",
+            "D) Yalnızca yabancı şirketlerde"
+          ],
+          "a": 1,
+          "e": "Tüzel kişilerde, şirketi temsil yetkisine sahip kişilerin kimlik tespiti ayrıca yapılmalıdır."
+        },
+        {
+          "q": "Hangi belge türü gerçek kişi kimlik tespitinde geçerlidir?",
+          "o": [
+            "A) Diploma",
+            "B) Nüfus cüzdanı, pasaport veya sürücü belgesi",
+            "C) Kira sözleşmesi",
+            "D) Fatura"
+          ],
+          "a": 1,
+          "e": "Resmi kimlik belgesi olarak nüfus cüzdanı, pasaport veya sürücü belgesi kabul edilir."
+        },
+        {
+          "q": "Adres doğrulaması için hangi belgeler kullanılabilir?",
+          "o": [
+            "A) Diploma",
+            "B) Fatura veya ikametgah belgesi",
+            "C) Pasaport",
+            "D) İmza sirküleri"
+          ],
+          "a": 1,
+          "e": "Adres doğrulaması için fatura veya ikametgah belgesi kullanılabilir."
+        },
+        {
+          "q": "Yüksek riskli müşterilerde kimlik güncelleme sıklığı nasıl olmalıdır?",
+          "o": [
+            "A) Düşük riskli müşterilerle aynı",
+            "B) Daha sık güncelleme yapılır",
+            "C) Daha seyrek güncelleme yapılır",
+            "D) Hiçbir güncelleme yapılmaz"
+          ],
+          "a": 1,
+          "e": "Yüksek riskli müşterilerde kimlik bilgilerinin güncelleme sıklığı artırılmalıdır."
+        },
+        {
+          "q": "KYC kapsamında müşteri profili oluşturmanın önemi nedir?",
+          "o": [
+            "A) Pazarlama stratejisi geliştirmek",
+            "B) Olağandışı işlemleri tespit edebilmek için referans oluşturmak",
+            "C) Çalışan performansını ölçmek",
+            "D) Vergi planlaması yapmak"
+          ],
+          "a": 1,
+          "e": "Müşteri profili, olağandışı ve şüpheli işlemlerin tespitinde referans çerçevesi oluşturur."
+        },
+        {
+          "q": "Belirli bir tutarın üzerindeki işlemlerde kimlik tespiti zorunlu mudur?",
+          "o": [
+            "A) Hayır",
+            "B) Evet",
+            "C) Yalnızca yabancı para cinsinden işlemlerde",
+            "D) Yalnızca elektronik işlemlerde"
+          ],
+          "a": 1,
+          "e": "Belirli eşik tutarın (örn. 100.000 TL) üzerindeki işlemlerde kimlik tespiti zorunludur."
+        },
+        {
+          "q": "KYC sürecinde sürekli izlemenin amacı nedir?",
+          "o": [
+            "A) Müşterinin harcama alışkanlıklarını pazarlamaya aktarmak",
+            "B) Müşteri profiliyle tutarsız işlemleri tespit etmek",
+            "C) Müşteriye özel kampanyalar sunmak",
+            "D) Çalışan denetimi yapmak"
+          ],
+          "a": 1,
+          "e": "Sürekli izleme, müşterinin beklenen davranış profiliyle uyumsuz işlemlerin tespiti amacıyla yapılır."
+        },
+        {
+          "q": "Tüzel kişide faaliyet adresi kimlik tespitinde neden önemlidir?",
+          "o": [
+            "A) Posta gönderimi için",
+            "B) Şirketin gerçek varlığının ve faaliyetinin doğrulanması için",
+            "C) Vergi avantajı sağlamak için",
+            "D) Müşteri ilişkileri yönetimi için"
+          ],
+          "a": 1,
+          "e": "Faaliyet adresi, şirketin gerçek anlamda var olup olmadığını ve beyan edilen faaliyetlerini doğrulamak amacıyla toplanır."
+        },
+        {
+          "q": "5549 sayılı Kanun kapsamında KYC yükümlülüklerini yerine getirmeyen kuruma ne olur?",
+          "o": [
+            "A) Hiçbir yaptırım uygulanmaz",
+            "B) İdari para cezası ve diğer yaptırımlar uygulanır",
+            "C) Yalnızca müşteriye uyarı yapılır",
+            "D) Yalnızca iç denetim raporu düzenlenir"
+          ],
+          "a": 1,
+          "e": "KYC yükümlülüklerinin ihlali 5549 sayılı Kanun kapsamında idari para cezası dahil çeşitli yaptırımlara yol açar."
+        },
+        {
+          "q": "E-Devlet entegrasyonu kimlik tespitinde nasıl kullanılır?",
+          "o": [
+            "A) Vergi borçlarını sorgulamak için",
+            "B) Kişi kimlik bilgilerini resmi kaynaklardan elektronik olarak doğrulamak için",
+            "C) Müşteriye e-fatura göndermek için",
+            "D) Çalışan özlük dosyası oluşturmak için"
+          ],
+          "a": 1,
+          "e": "E-Devlet entegrasyonu, kişi kimlik bilgilerinin resmi kaynaklardan elektronik ortamda doğrulanmasında kullanılır."
+        },
+        {
+          "q": "Müşteri risk profilindeki önemli bir değişiklik ne gerektir?",
+          "o": [
+            "A) Hesabın kapatılması",
+            "B) Kimlik bilgilerinin güncellenmesi",
+            "C) Tüm işlemlerin durdurulması",
+            "D) MASAK'a otomatik bildirim"
+          ],
+          "a": 1,
+          "e": "Müşteri risk profilindeki önemli değişiklikler kimlik bilgilerinin güncellenmesini tetikler."
+        },
+        {
+          "q": "KYC sürecinde hangi üç temel unsur bulunur?",
+          "o": [
+            "A) Raporlama, denetim, yaptırım",
+            "B) Kimlik doğrulama, müşteri profili oluşturma ve sürekli izleme",
+            "C) Pazarlama, satış ve müşteri hizmetleri",
+            "D) Lisans, eğitim, denetim"
+          ],
+          "a": 1,
+          "e": "KYC süreci; kimlik doğrulama, müşteri profili oluşturma ve sürekli izleme olmak üzere üç temel unsurdan oluşur."
+        }
+      ]
+    }
   }
 };
 window.__EXT = {
@@ -35262,6 +35515,50 @@ window.__EXT = {
         {
           "heading": "İç Bildirim Hiyerarşisi",
           "content": "<p>Çalışan şüpheli durumu <strong>uyum görevlisine</strong> iç bildirim yoluyla iletir. Uyum görevlisi değerlendirip MASAK'a ŞİB yapar ya da yapmama kararını gerekçesiyle kayıt altına alır. İç bildirim sistemi gizli, erişilebilir ve işlevsel olmalıdır.</p>"
+        }
+      ]
+    }
+  ],
+  "UY2_KIM": [
+    {
+      "num": "01",
+      "title": "KYC Süreci ve Zorunlu Durumlar",
+      "sections": [
+        {
+          "heading": "KYC Nedir?",
+          "content": "<p><strong>Kimlik Tespiti (KYC — Know Your Customer)</strong>, yükümlülerin müşterilerini tanıma, kimliklerini doğrulama ve sürekli izleme sürecidir. 5549 sayılı Kanun ve ilgili yönetmelikler kapsamında zorunludur.</p>"
+        },
+        {
+          "heading": "Kimlik Tespiti Gereken Durumlar",
+          "content": "<p>(1) <strong>Hesap açılışı:</strong> Her müşteri için zorunlu. (2) <strong>Eşik aşan işlemler:</strong> Belirli tutarın üzerindeki işlemler. (3) <strong>Şüphe/tutarsızlık:</strong> Önceki tespitte sorun varsa. (4) <strong>Risk profili değişikliği:</strong> Önemli güncelleme gerektiren değişiklikler.</p>"
+        }
+      ]
+    },
+    {
+      "num": "02",
+      "title": "Gerçek ve Tüzel Kişilerde Kimlik Tespiti",
+      "sections": [
+        {
+          "heading": "Gerçek Kişiler",
+          "content": "<p>Toplanacak bilgiler: <strong>ad, soyad, doğum tarihi, uyruk, kimlik belgesi bilgileri.</strong> Nüfus cüzdanı, pasaport veya sürücü belgesi kabul edilir. Adres doğrulaması için fatura veya ikametgah belgesi kullanılabilir.</p>"
+        },
+        {
+          "heading": "Tüzel Kişiler",
+          "content": "<p>Şirket unvanı, vergi kimlik numarası, kuruluş belgesi ve faaliyet adresi toplanır. <strong>Temsil yetkisine sahip kişilerin</strong> ve <strong>gerçek faydalanıcıların</strong> kimlik tespiti ayrıca yapılır. Ticaret sicil kayıtları ve imza sirkülerleri belge olarak kullanılır.</p>"
+        }
+      ]
+    },
+    {
+      "num": "03",
+      "title": "Uzaktan Kimlik Tespiti ve Güncelleme",
+      "sections": [
+        {
+          "heading": "Dijital Yöntemler",
+          "content": "<p>Video görüşme, <strong>e-Devlet entegrasyonu</strong> ve biyometrik doğrulama uzaktan kimlik tespitinde kabul edilebilir yöntemlerdir.</p>"
+        },
+        {
+          "heading": "Periyodik Güncelleme",
+          "content": "<p>Mevcut müşterilerin kimlik bilgileri <strong>risk bazlı periyotlarla</strong> güncellenir; yüksek riskli müşterilerde güncelleme sıklığı artırılır.</p>"
         }
       ]
     }
