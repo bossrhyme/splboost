@@ -3,49 +3,49 @@ window.__C = {
     "summary": [
       {
         "num": "01",
-        "title": "Ticaret Şirketleri — Genel Hükümler (TTK md. 124-210)",
-        "body": "<ul><li><strong>Ticaret şirketleri türleri (TTK md. 124):</strong> Kollektif, komandit, anonim, limited ve kooperatif. Kollektif ile komandit → şahıs şirketi; anonim, limited ve kooperatif → sermaye şirketi.</li><li><strong>Ortak özellikler:</strong> Tüzel kişiliğe sahip olma, sınırlı sayı ilkesine bağlılık (numerus clausus), hak ehliyeti işletme konusuyla sınırlı değil (ultra vires kaldırıldı), kurulların elektronik ortamda yapılabilmesi.</li><li><strong>Sermaye koyma borcu ve yaptırımlar:</strong> Her ortak taahhüt ettiği sermayeyi koymakla yükümlü. Para borcunu yerine getirmeyen ortak temerrüde düşer; ıskat prosedürü uygulanabilir.</li><li><strong>Birleşme (TTK md. 136-158):</strong> Devralma yoluyla veya yeni kuruluş yoluyla. Birleşme kararı genel kurulda alınır; alacaklı çağrısı zorunlu. Alacaklıların alacakları güvence altına alınmadan birleşme tescil edilemez.</li><li><strong>Bölünme (TTK md. 159-179):</strong> Tam bölünme (şirket sona erer) ve kısmi bölünme (şirket devam eder). Pay sahipleri orantılı pay alır.</li><li><strong>Şirketler topluluğu (TTK md. 195-209):</strong> Hâkim şirket — bağlı şirket. Hâkimiyetin kötüye kullanılması yasak; bağlı şirketin zararı tazmin edilir. Tam hâkimiyette azınlık pay sahipleri ayrılma hakkı talep edebilir.</li></ul>"
+        "title": "Ticaret Şirketleri — Genel Hükümler (TTK (türk ticaret kanunu) md. 124-210)",
+        "body": "<ul><li><strong>Ticaret şirketleri türleri (TTK (türk ticaret kanunu) md. 124):</strong> Kollektif, komandit, anonim, limited ve kooperatif. Kollektif ile komandit → şahıs şirketi; anonim, limited ve kooperatif → sermaye şirketi.</li><li><strong>Ortak özellikler:</strong> Tüzel kişiliğe sahip olma, sınırlı sayı ilkesine bağlılık (numerus clausus), hak ehliyeti işletme konusuyla sınırlı değil (ultra vires kaldırıldı), kurulların elektronik ortamda yapılabilmesi.</li><li><strong>Sermaye koyma borcu ve yaptırımlar:</strong> Her ortak taahhüt ettiği sermayeyi koymakla yükümlü. Para borcunu yerine getirmeyen ortak temerrüde düşer; ıskat prosedürü uygulanabilir.</li><li><strong>Birleşme (TTK (türk ticaret kanunu) md. 136-158):</strong> Devralma yoluyla veya yeni kuruluş yoluyla. Birleşme kararı genel kurulda alınır; alacaklı çağrısı zorunlu. Alacaklıların alacakları güvence altına alınmadan birleşme tescil edilemez.</li><li><strong>Bölünme (TTK (türk ticaret kanunu) md. 159-179):</strong> Tam bölünme (şirket sona erer) ve kısmi bölünme (şirket devam eder). Pay sahipleri orantılı pay alır.</li><li><strong>Şirketler topluluğu (TTK (türk ticaret kanunu) md. 195-209):</strong> Hâkim şirket — bağlı şirket. Hâkimiyetin kötüye kullanılması yasak; bağlı şirketin zararı tazmin edilir. Tam hâkimiyette azınlık pay sahipleri ayrılma hakkı talep edebilir.</li></ul>"
       },
       {
         "num": "02",
         "title": "Anonim Şirketin Tanımı, Unsurları ve İlkeleri",
-        "body": "<ul><li><strong>TTK md. 329 tanımı:</strong> 'Sermayesi belirli ve paylara bölünmüş olan, borçlarından dolayı yalnız malvarlığıyla sorumlu bulunan şirkettir.' En az 1 pay sahibi, asgari 50.000 TL sermaye (halka açık olmayanda).</li><li><strong>Temel unsurlar:</strong> Belirli ve paylara bölünmüş esas sermaye · Yalnızca malvarlığıyla sorumluluk · Pay sahiplerinin sorumluluğu taahhüt ettikleri paya kadar sınırlı (tek borç ilkesi) · Ticaret unvanı · Tüzel kişilik ve ehliyet.</li><li><strong>Çoğunluk ilkesi:</strong> GK ve YK kararları salt çoğunlukla; bazı önemli kararlar nitelikli çoğunlukla alınır.</li><li><strong>Malvarlığı/sermaye koruma:</strong> Şirket kendi paylarını belli sınırlar içinde iktisap edebilir; kâr dağıtımı bozulmuş bilançoyla yapılamaz.</li><li><strong>Kamuyu aydınlatma:</strong> Finansal tablolar, faaliyet raporları ve özel durumlar kamuya açıklanır.</li><li><strong>Eşit işlem ilkesi:</strong> Aynı koşuldaki pay sahiplerine eşit davranılmak zorundadır. Pay sahiplerinin şirkete borçlanma yasağı (TTK md. 358).</li></ul>"
+        "body": "<ul><li><strong>TTK (türk ticaret kanunu) md. 329 tanımı:</strong> 'Sermayesi belirli ve paylara bölünmüş olan, borçlarından dolayı yalnız malvarlığıyla sorumlu bulunan şirkettir.' En az 1 pay sahibi, asgari 50.000 TL sermaye (halka açık olmayanda).</li><li><strong>Temel unsurlar:</strong> Belirli ve paylara bölünmüş esas sermaye · Yalnızca malvarlığıyla sorumluluk · Pay sahiplerinin sorumluluğu taahhüt ettikleri paya kadar sınırlı (tek borç ilkesi) · Ticaret unvanı · Tüzel kişilik ve ehliyet.</li><li><strong>Çoğunluk ilkesi:</strong> GK ve YK kararları salt çoğunlukla; bazı önemli kararlar nitelikli çoğunlukla alınır.</li><li><strong>Malvarlığı/sermaye koruma:</strong> Şirket kendi paylarını belli sınırlar içinde iktisap edebilir; kâr dağıtımı bozulmuş bilançoyla yapılamaz.</li><li><strong>Kamuyu aydınlatma:</strong> Finansal tablolar, faaliyet raporları ve özel durumlar kamuya açıklanır.</li><li><strong>Eşit işlem ilkesi:</strong> Aynı koşuldaki pay sahiplerine eşit davranılmak zorundadır. Pay sahiplerinin şirkete borçlanma yasağı (TTK (türk ticaret kanunu) md. 358).</li></ul>"
       },
       {
         "num": "03",
         "title": "Sürdürülebilir Finans ve Anonim Şirketler",
-        "body": "<ul><li><strong>ESG (Çevresel, Sosyal, Yönetişim):</strong> Çevresel risk, sosyal etkiler ve kurumsal yönetişim kalitesini değerlendiren uluslararası kriterler. Şirketlerin uzun vadeli sürdürülebilirliğini ölçer.</li><li><strong>TTK'da sürdürülebilirlik:</strong> Yönetim kurulu faaliyet raporunda çevresel ve sosyal sonuçlara ilişkin açıklama yapmakla yükümlü (TTK md. 516). Pay sahipleri hakları bağlamında şeffaflık.</li><li><strong>UFRS ve TMS uyumu:</strong> Bağımsız denetime tabi şirketler Uluslararası Finansal Raporlama Standartları ile uyumlu Türkiye Muhasebe Standartları'na göre finansal tablo hazırlar.</li><li><strong>Sürdürülebilir finans düzenlemeleri:</strong> AB Taksonomi Tüzüğü, SFDR (Sürdürülebilir Finans Açıklama Yönetmeliği) ve Türkiye'deki paralel gelişmeler. Yatırımcılar ESG uyumunu değerlendirirken şirket raporlarını temel alır.</li><li><strong>Anonim şirketlere etkileri:</strong> Raporlama yükümlülüklerinin artması, yatırımcı beklentilerinin değişmesi, uzun vadeli risk yönetiminin önplana çıkması.</li></ul>"
+        "body": "<ul><li><strong>ESG (Çevresel, Sosyal, Yönetişim):</strong> Çevresel risk, sosyal etkiler ve kurumsal yönetişim kalitesini değerlendiren uluslararası kriterler. Şirketlerin uzun vadeli sürdürülebilirliğini ölçer.</li><li><strong>TTK (türk ticaret kanunu)'da sürdürülebilirlik:</strong> Yönetim kurulu faaliyet raporunda çevresel ve sosyal sonuçlara ilişkin açıklama yapmakla yükümlü (TTK (türk ticaret kanunu) md. 516). Pay sahipleri hakları bağlamında şeffaflık.</li><li><strong>UFRS (uluslararası finansal raporlama standartları) ve TMS uyumu:</strong> Bağımsız denetime tabi şirketler Uluslararası Finansal Raporlama Standartları ile uyumlu Türkiye Muhasebe Standartları'na göre finansal tablo hazırlar.</li><li><strong>Sürdürülebilir finans düzenlemeleri:</strong> AB Taksonomi Tüzüğü, SFDR (Sürdürülebilir Finans Açıklama Yönetmeliği) ve Türkiye'deki paralel gelişmeler. Yatırımcılar ESG (çevresel, sosyal ve yönetişim) uyumunu değerlendirirken şirket raporlarını temel alır.</li><li><strong>Anonim şirketlere etkileri:</strong> Raporlama yükümlülüklerinin artması, yatırımcı beklentilerinin değişmesi, uzun vadeli risk yönetiminin önplana çıkması.</li></ul>"
       },
       {
         "num": "04",
         "title": "Anonim Şirketin Kuruluşu",
-        "body": "<ul><li><strong>Kurucu tanımı (TTK md. 337):</strong> Pay taahhüt edip esas sözleşmeyi imzalayan gerçek ve tüzel kişiler. En az 1 kurucu yeterli.</li><li><strong>Ani kuruluş:</strong> Tüm paylar kurucular tarafından taahhüt edilir; ödeme taahhüdü tescille başlar. En sık kullanılan yöntem.</li><li><strong>Halka arz taahhüdü yoluyla kuruluş:</strong> Payların bir kısmı halka arz edilir; SPK (sermaye piyasası kurulu) düzenlemeleri uygulanır.</li><li><strong>Kuruluşta izin:</strong> Bankacılık, sigortacılık gibi düzenlenmiş sektörlerde Bakanlar Kurulu/ilgili bakanlık izni gerekir.</li><li><strong>Tescil ve tüzel kişilik:</strong> Ticaret siciline tescille tüzel kişilik kazanılır. Tescilden önce şirket adına yapılan işlemler kurucuları bağlar (TTK md. 355).</li><li><strong>Kanuna karşı hile / devralma:</strong> Kuruluştan sonraki 2 yıl içinde gerçek değerinin %10'undan fazlasına tekabül eden ayni sermaye veya şirket devralma işlemleri GK onayı ve değerleme zorunluluğuna tabi.</li></ul>"
+        "body": "<ul><li><strong>Kurucu tanımı (TTK (türk ticaret kanunu) md. 337):</strong> Pay taahhüt edip esas sözleşmeyi imzalayan gerçek ve tüzel kişiler. En az 1 kurucu yeterli.</li><li><strong>Ani kuruluş:</strong> Tüm paylar kurucular tarafından taahhüt edilir; ödeme taahhüdü tescille başlar. En sık kullanılan yöntem.</li><li><strong>Halka arz taahhüdü yoluyla kuruluş:</strong> Payların bir kısmı halka arz edilir; SPK (sermaye piyasası kurulu) düzenlemeleri uygulanır.</li><li><strong>Kuruluşta izin:</strong> Bankacılık, sigortacılık gibi düzenlenmiş sektörlerde Bakanlar Kurulu/ilgili bakanlık izni gerekir.</li><li><strong>Tescil ve tüzel kişilik:</strong> Ticaret siciline tescille tüzel kişilik kazanılır. Tescilden önce şirket adına yapılan işlemler kurucuları bağlar (TTK (türk ticaret kanunu) md. 355).</li><li><strong>Kanuna karşı hile / devralma:</strong> Kuruluştan sonraki 2 yıl içinde gerçek değerinin %10'undan fazlasına tekabül eden ayni sermaye veya şirket devralma işlemleri GK onayı ve değerleme zorunluluğuna tabi.</li></ul>"
       },
       {
         "num": "05",
         "title": "Yönetim Kurulu",
-        "body": "<ul><li><strong>Yapı (TTK md. 359):</strong> En az 1 üye; tamamı gerçek kişilerden oluşur. Pay sahibi olması zorunlu değil. SPK (sermaye piyasası kurulu)'ya tabi halka açık şirketlerde bağımsız üye zorunluluğu var.</li><li><strong>Devredilemez ve vazgeçilemez görev ve yetkiler (TTK md. 375):</strong> Şirketin yönetimi, temsil yetkisinin devri, muhasebe sistemi kurma, finansal tablolar, genel kurulun toplanması ve tasfiye. Bu yetkiler devredilemez.</li><li><strong>Temsil yetkisi:</strong> YK şirketi temsil eder. Temsil yetkisi yazılı olarak iç yönergede belirtilen kişilere devredilebilir (TTK md. 370-371). 3. kişilere karşı imzaların tescil edilmesi gerekir.</li><li><strong>YK üyelerinin borçları:</strong> Özen ve bağlılık borcu. Rekabet yasağı (TTK md. 396). Şirkete borçlanma yasağı (TTK md. 395).</li><li><strong>YK üyelerinin sorumluluğu (TTK md. 553):</strong> Kanundan veya esas sözleşmeden doğan yükümlülüklerin ihlali → şirkete, pay sahiplerine ve alacaklılara karşı tazminat sorumluluğu. İbra ile sorumluluktan kurtulma.</li></ul>"
+        "body": "<ul><li><strong>Yapı (TTK (türk ticaret kanunu) md. 359):</strong> En az 1 üye; tamamı gerçek kişilerden oluşur. Pay sahibi olması zorunlu değil. SPK (sermaye piyasası kurulu)'ya tabi halka açık şirketlerde bağımsız üye zorunluluğu var.</li><li><strong>Devredilemez ve vazgeçilemez görev ve yetkiler (TTK (türk ticaret kanunu) md. 375):</strong> Şirketin yönetimi, temsil yetkisinin devri, muhasebe sistemi kurma, finansal tablolar, genel kurulun toplanması ve tasfiye. Bu yetkiler devredilemez.</li><li><strong>Temsil yetkisi:</strong> YK şirketi temsil eder. Temsil yetkisi yazılı olarak iç yönergede belirtilen kişilere devredilebilir (TTK (türk ticaret kanunu) md. 370-371). 3. kişilere karşı imzaların tescil edilmesi gerekir.</li><li><strong>YK üyelerinin borçları:</strong> Özen ve bağlılık borcu. Rekabet yasağı (TTK (türk ticaret kanunu) md. 396). Şirkete borçlanma yasağı (TTK (türk ticaret kanunu) md. 395).</li><li><strong>YK üyelerinin sorumluluğu (TTK (türk ticaret kanunu) md. 553):</strong> Kanundan veya esas sözleşmeden doğan yükümlülüklerin ihlali → şirkete, pay sahiplerine ve alacaklılara karşı tazminat sorumluluğu. İbra ile sorumluluktan kurtulma.</li></ul>"
       },
       {
         "num": "06",
         "title": "Genel Kurul",
-        "body": "<ul><li><strong>Genel kurulun yetkileri (TTK md. 408):</strong> Devredilemez yetkiler: esas sözleşme değişikliği, YK seçimi, kâr dağıtımı, YK ibra, denetçi seçimi, tasfiye. GK YK'ya talimat veremez.</li><li><strong>Toplantı türleri:</strong> Olağan (her yıl hesap dönemi içinde) ve olağanüstü. Çağrı: 15 gün önceden ilan.</li><li><strong>Oy hakkı:</strong> Her pay 1 oy. İmtiyazlı oy mümkün (en fazla 15 oy). Oy hakkından yoksunluk: şirketle işlem yapacak pay sahibi ilgili kararda oy kullanamaz.</li><li><strong>Toplantı ve karar yetersayıları:</strong> Normal kararlar — % 50+1 çoğunluk. Ağırlaştırılmış kararlar (esas sözleşme değişikliği, sermaye artırımı vb.): katılanların 2/3'ü.</li><li><strong>Genel kurul kararlarının sakatlığı:</strong> Butlan (hükümsüzlük) ve iptal davası. İptal davası: 3 ay içinde açılır; pay sahibi, YK ve denetçi açabilir.</li><li><strong>Elektronik genel kurul:</strong> EGKS (Elektronik Genel Kurul Sistemi) üzerinden katılım ve oy kullanma imkânı.</li></ul>"
+        "body": "<ul><li><strong>Genel kurulun yetkileri (TTK (türk ticaret kanunu) md. 408):</strong> Devredilemez yetkiler: esas sözleşme değişikliği, YK seçimi, kâr dağıtımı, YK ibra, denetçi seçimi, tasfiye. GK YK'ya talimat veremez.</li><li><strong>Toplantı türleri:</strong> Olağan (her yıl hesap dönemi içinde) ve olağanüstü. Çağrı: 15 gün önceden ilan.</li><li><strong>Oy hakkı:</strong> Her pay 1 oy. İmtiyazlı oy mümkün (en fazla 15 oy). Oy hakkından yoksunluk: şirketle işlem yapacak pay sahibi ilgili kararda oy kullanamaz.</li><li><strong>Toplantı ve karar yetersayıları:</strong> Normal kararlar — % 50+1 çoğunluk. Ağırlaştırılmış kararlar (esas sözleşme değişikliği, sermaye artırımı vb.): katılanların 2/3'ü.</li><li><strong>Genel kurul kararlarının sakatlığı:</strong> Butlan (hükümsüzlük) ve iptal davası. İptal davası: 3 ay içinde açılır; pay sahibi, YK ve denetçi açabilir.</li><li><strong>Elektronik genel kurul:</strong> EGKS (Elektronik Genel Kurul Sistemi) üzerinden katılım ve oy kullanma imkânı.</li></ul>"
       },
       {
         "num": "07",
         "title": "Bağımsız Denetim, Esas Sözleşme Değişiklikleri ve Menkul Kıymetler",
-        "body": "<ul><li><strong>Bağımsız denetim (TTK md. 397-406):</strong> KGK'ya (Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu) kayıtlı denetçi zorunluluğu. Dürüst resim ilkesi: finansal tablolar gerçek durumu yansıtmalı. Görüş yazısı türleri: olumlu, şartlı, olumsuz, görüş vermekten kaçınma.</li><li><strong>Sermaye artırımı türleri:</strong> İç kaynaktan (yedek akçe veya kârdan — bedelsiz artırım) ve dış kaynaklardan (nakit ödeme karşılığı — bedelli artırım) artırım. Yeni pay alma hakkı (rüçhan hakkı) pay sahiplerine öncelikli.</li><li><strong>Sermaye azaltımı:</strong> Alacaklıların korunması için ilan ve 3 ay bekleme zorunlu; talep halinde alacaklar teminat altına alınır.</li><li><strong>TTK'ya göre menkul kıymetler:</strong> Paylar, intifa senetleri, borçlanma araçları (tahvil, bono, finansman bonosu). TTK md. 504 vd. düzenlemeler.</li><li><strong>İntifa senetleri:</strong> Ortaklık hakkı vermez; kâr payı, tasfiye payı veya yeni pay alma hakkı sağlayabilir. Nama veya hamiline yazılı olabilir.</li></ul>"
+        "body": "<ul><li><strong>Bağımsız denetim (TTK (türk ticaret kanunu) md. 397-406):</strong> KGK (kamu gözetimi kurumu)'ya (Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu) kayıtlı denetçi zorunluluğu. Dürüst resim ilkesi: finansal tablolar gerçek durumu yansıtmalı. Görüş yazısı türleri: olumlu, şartlı, olumsuz, görüş vermekten kaçınma.</li><li><strong>Sermaye artırımı türleri:</strong> İç kaynaktan (yedek akçe veya kârdan — bedelsiz artırım) ve dış kaynaklardan (nakit ödeme karşılığı — bedelli artırım) artırım. Yeni pay alma hakkı (rüçhan hakkı) pay sahiplerine öncelikli.</li><li><strong>Sermaye azaltımı:</strong> Alacaklıların korunması için ilan ve 3 ay bekleme zorunlu; talep halinde alacaklar teminat altına alınır.</li><li><strong>TTK (türk ticaret kanunu)'ya göre menkul kıymetler:</strong> Paylar, intifa senetleri, borçlanma araçları (tahvil, bono, finansman bonosu). TTK (türk ticaret kanunu) md. 504 vd. düzenlemeler.</li><li><strong>İntifa senetleri:</strong> Ortaklık hakkı vermez; kâr payı, tasfiye payı veya yeni pay alma hakkı sağlayabilir. Nama veya hamiline yazılı olabilir.</li></ul>"
       },
       {
         "num": "08",
         "title": "Pay Sahipliği Hakları, Sona Erme ve Tasfiye",
-        "body": "<ul><li><strong>Pay sahipliği hakları — 2 temel grup:</strong><br>• Malvarlığı hakları: kâr payı hakkı, tasfiye payı hakkı, yeni pay alma hakkı (rüçhan), bedelsiz pay alma hakkı.<br>• Yönetim hakları: oy hakkı, GK'ya katılma, bilgi alma ve inceleme hakkı, iptal davası açma hakkı, özel denetçi atanmasını isteme hakkı, azınlık hakları.</li><li><strong>Pay devri:</strong> Hamiline yazılı pay — zilyetlik devriyle. Nama yazılı pay — yazılı devir beyanı + tescil. Bağlam (vinkülas yolu): esas sözleşmeyle devre kısıtlama; şirket haklı sebep olmaksızın onayı 3 ay içinde reddedemez.</li><li><strong>Şirketin kendi paylarını iktisabı:</strong> Ödenmiş sermayenin %10'unu geçemez; GK onayı zorunlu (TTK md. 379).</li><li><strong>Sona erme sebepleri (TTK md. 529):</strong> Süre dolumu, konu gerçekleşmesi/imkânsızlığı, GK kararı, iflas, mahkeme kararıyla fesih (organ eksikliği, kamu yararı).</li><li><strong>Tasfiye (TTK md. 536-548):</strong> Şirket sona erme kararından sonra tasfiye aşamasına girer. Tasfiye memuru atanır; aktifler paraya çevrilir, borçlar ödenir, kalan tasfiye payı pay sahiplerine dağıtılır.</li></ul>"
+        "body": "<ul><li><strong>Pay sahipliği hakları — 2 temel grup:</strong><br>• Malvarlığı hakları: kâr payı hakkı, tasfiye payı hakkı, yeni pay alma hakkı (rüçhan), bedelsiz pay alma hakkı.<br>• Yönetim hakları: oy hakkı, GK'ya katılma, bilgi alma ve inceleme hakkı, iptal davası açma hakkı, özel denetçi atanmasını isteme hakkı, azınlık hakları.</li><li><strong>Pay devri:</strong> Hamiline yazılı pay — zilyetlik devriyle. Nama yazılı pay — yazılı devir beyanı + tescil. Bağlam (vinkülas yolu): esas sözleşmeyle devre kısıtlama; şirket haklı sebep olmaksızın onayı 3 ay içinde reddedemez.</li><li><strong>Şirketin kendi paylarını iktisabı:</strong> Ödenmiş sermayenin %10'unu geçemez; GK onayı zorunlu (TTK (türk ticaret kanunu) md. 379).</li><li><strong>Sona erme sebepleri (TTK (türk ticaret kanunu) md. 529):</strong> Süre dolumu, konu gerçekleşmesi/imkânsızlığı, GK kararı, iflas, mahkeme kararıyla fesih (organ eksikliği, kamu yararı).</li><li><strong>Tasfiye (TTK (türk ticaret kanunu) md. 536-548):</strong> Şirket sona erme kararından sonra tasfiye aşamasına girer. Tasfiye memuru atanır; aktifler paraya çevrilir, borçlar ödenir, kalan tasfiye payı pay sahiplerine dağıtılır.</li></ul>"
       }
     ],
     "tests": {
       "t1": [
         {
-          "q": "TTK md. 124'e göre ticaret şirketleri kaç türdür ve hangileridir?",
+          "q": "TTK (türk ticaret kanunu) md. 124'e göre ticaret şirketleri kaç türdür ve hangileridir?",
           "o": [
             "A) 3 tür: anonim, limited, kooperatif",
             "B) 5 tür: kollektif, komandit, anonim, limited, kooperatif",
@@ -53,10 +53,10 @@ window.__C = {
             "D) 6 tür: kolektif, komandit, anonim, limited, kooperatif, adi ortaklık"
           ],
           "a": 1,
-          "e": "TTK md. 124/1'e göre ticaret şirketleri beş türdür: kollektif, komandit, anonim, limited ve kooperatif. Bunlardan kollektif ve komandit şirketler şahıs şirketi; anonim, limited ve kooperatif şirketler ise sermaye şirketi niteliğindedir."
+          "e": "TTK (türk ticaret kanunu) md. 124/1'e göre ticaret şirketleri beş türdür: kollektif, komandit, anonim, limited ve kooperatif. Bunlardan kollektif ve komandit şirketler şahıs şirketi; anonim, limited ve kooperatif şirketler ise sermaye şirketi niteliğindedir."
         },
         {
-          "q": "TTK kapsamında ticaret şirketlerinde 'sınırlı sayı ilkesi (numerus clausus)' ne anlama gelir?",
+          "q": "TTK (türk ticaret kanunu) kapsamında ticaret şirketlerinde 'sınırlı sayı ilkesi (numerus clausus)' ne anlama gelir?",
           "o": [
             "A) Şirketin pay sayısı sınırlıdır",
             "B) Kanunda sayılanlar dışında ticaret şirketi türü oluşturulamaz",
@@ -67,7 +67,7 @@ window.__C = {
           "e": "Sınırlı sayı (numerus clausus) ilkesi, ticaret şirketlerinin yalnızca kanunda sayılan türlerde kurulabileceğini ifade eder. Taraflar bu türlerin dışında, örneğin 'adi ortaklık' gibi bir ticaret şirketi oluşturamaz. Bu ilke hukukta öngörülebilirlik ve alacaklı güvencesi sağlar."
         },
         {
-          "q": "TTK'da 'ultra vires' ilkesinin kaldırılmış olması ne anlama gelir?",
+          "q": "TTK (türk ticaret kanunu)'da 'ultra vires' ilkesinin kaldırılmış olması ne anlama gelir?",
           "o": [
             "A) Şirket işletme konusu dışında işlem yapamaz",
             "B) Şirketin hak ehliyeti artık işletme konusuyla sınırlı değildir; şirket her türlü işlem yapabilir",
@@ -75,10 +75,10 @@ window.__C = {
             "D) Ultra vires hâlâ geçerli; sadece ceza hukuku alanında kaldırılmıştır"
           ],
           "a": 1,
-          "e": "Eski Ticaret Kanunu'nda 'ultra vires' ilkesi şirketin işletme konusu dışındaki işlemlerini geçersiz sayıyordu. 6102 sayılı TTK bu ilkeyi kaldırmış; şirketin hak ehliyetinin işletme konusuyla sınırlı olmadığını öngörmüştür. Böylece şirketin işletme konusu dışında yaptığı işlemler artık hükümsüz sayılmaz."
+          "e": "Eski Ticaret Kanunu'nda 'ultra vires' ilkesi şirketin işletme konusu dışındaki işlemlerini geçersiz sayıyordu. 6102 sayılı TTK (türk ticaret kanunu) bu ilkeyi kaldırmış; şirketin hak ehliyetinin işletme konusuyla sınırlı olmadığını öngörmüştür. Böylece şirketin işletme konusu dışında yaptığı işlemler artık hükümsüz sayılmaz."
         },
         {
-          "q": "TTK kapsamında birleşmede alacaklı koruması nasıl sağlanır?",
+          "q": "TTK (türk ticaret kanunu) kapsamında birleşmede alacaklı koruması nasıl sağlanır?",
           "o": [
             "A) Birleşme anında tüm borçlar ödenir",
             "B) Alacaklılar 3 kez gazete ilanıyla çağrılır; talep halinde alacaklar teminat altına alınmadan birleşme tescil edilemez",
@@ -86,10 +86,10 @@ window.__C = {
             "D) Yalnızca büyük alacaklılar korunur"
           ],
           "a": 1,
-          "e": "TTK'da birleşme, bölünme ve tür değiştirmede alacaklı koruması için üç kez ilan yapılarak alacaklılar bildirilir. İlan üzerine talepte bulunan alacaklıların alacakları ödenir veya teminat altına alınır. Bu güvence sağlanmadan işlem ticaret siciline tescil edilemez."
+          "e": "TTK (türk ticaret kanunu)'da birleşme, bölünme ve tür değiştirmede alacaklı koruması için üç kez ilan yapılarak alacaklılar bildirilir. İlan üzerine talepte bulunan alacaklıların alacakları ödenir veya teminat altına alınır. Bu güvence sağlanmadan işlem ticaret siciline tescil edilemez."
         },
         {
-          "q": "TTK'ya göre şirketler topluluğunda hâkim şirketin bağlı şirketi 'zarara uğratması' durumunda ne olur?",
+          "q": "TTK (türk ticaret kanunu)'ya göre şirketler topluluğunda hâkim şirketin bağlı şirketi 'zarara uğratması' durumunda ne olur?",
           "o": [
             "A) Hâkim şirketin sorumluluğu doğmaz; bu ticari risktir",
             "B) Hâkim şirket bağlı şirketin zararını aynı hesap dönemi içinde fiilen denkleştirmek veya denkleştirme hakkı tanımak zorundadır",
@@ -97,10 +97,10 @@ window.__C = {
             "D) Yalnızca bağlı şirketin azınlık pay sahipleri tazminat talep edebilir"
           ],
           "a": 1,
-          "e": "TTK md. 202/1'e göre hâkim şirket, hâkimiyetini bağlı şirket aleyhine kullanırsa bu zararı, aynı faaliyet yılı içinde gidermekle ya da giderilmesini sağlamakla; bu mümkün olmazsa bağlı şirkete o değerde istem hakkı tanımakla yükümlüdür."
+          "e": "TTK (türk ticaret kanunu) md. 202/1'e göre hâkim şirket, hâkimiyetini bağlı şirket aleyhine kullanırsa bu zararı, aynı faaliyet yılı içinde gidermekle ya da giderilmesini sağlamakla; bu mümkün olmazsa bağlı şirkete o değerde istem hakkı tanımakla yükümlüdür."
         },
         {
-          "q": "Anonim şirketin TTK md. 329'daki yasal tanımına göre hangi özellik öne çıkar?",
+          "q": "Anonim şirketin TTK (türk ticaret kanunu) md. 329'daki yasal tanımına göre hangi özellik öne çıkar?",
           "o": [
             "A) Ortaklardan birinin şahsen sorumlu olması",
             "B) Sermayesi belirli ve paylara bölünmüş olması; borçlardan yalnızca malvarlığıyla sorumlu bulunması",
@@ -108,7 +108,7 @@ window.__C = {
             "D) Devlet tarafından denetlenmesi"
           ],
           "a": 1,
-          "e": "TTK md. 329'daki anonim şirket tanımı: 'sermayesi belirli ve paylara bölünmüş olan, borçlarından dolayı yalnız malvarlığıyla sorumlu bulunan şirkettir.' Bu tanım iki temel unsuru ortaya koyar: belirli ve paylara bölünmüş sermaye ile şirketin yalnızca kendi malvarlığıyla sorumlu olması."
+          "e": "TTK (türk ticaret kanunu) md. 329'daki anonim şirket tanımı: 'sermayesi belirli ve paylara bölünmüş olan, borçlarından dolayı yalnız malvarlığıyla sorumlu bulunan şirkettir.' Bu tanım iki temel unsuru ortaya koyar: belirli ve paylara bölünmüş sermaye ile şirketin yalnızca kendi malvarlığıyla sorumlu olması."
         },
         {
           "q": "Anonim şirkette 'tek borç ilkesi' nedir?",
@@ -119,10 +119,10 @@ window.__C = {
             "D) Her pay sahibi şirket borçlarından eşit oranda sorumludur"
           ],
           "a": 1,
-          "e": "Tek borç ilkesi (TTK md. 329/2): pay sahiplerinin şirkete karşı olan tek borcu, taahhüt ettikleri sermaye payını ödemektir. Pay sahibi bu yükümlülüğün ötesinde şirket borçlarından şahsen sorumlu tutulamaz — bu anonim şirketin 'sınırlı sorumluluk' özelliğinin yansımasıdır."
+          "e": "Tek borç ilkesi (TTK (türk ticaret kanunu) md. 329/2): pay sahiplerinin şirkete karşı olan tek borcu, taahhüt ettikleri sermaye payını ödemektir. Pay sahibi bu yükümlülüğün ötesinde şirket borçlarından şahsen sorumlu tutulamaz — bu anonim şirketin 'sınırlı sorumluluk' özelliğinin yansımasıdır."
         },
         {
-          "q": "TTK'ya göre anonim şirketin kuruluşunda geçerli olan temel kuruluş türü hangisidir?",
+          "q": "TTK (türk ticaret kanunu)'ya göre anonim şirketin kuruluşunda geçerli olan temel kuruluş türü hangisidir?",
           "o": [
             "A) Halka arz yoluyla kuruluş",
             "B) Ani kuruluş (tüm payların kurucular tarafından taahhüt edilmesi)",
@@ -130,18 +130,18 @@ window.__C = {
             "D) Kademeli kuruluş (eski sisteme benzer)"
           ],
           "a": 1,
-          "e": "TTK'da anonim şirket kuruluşu iki yolla mümkündür: ani kuruluş ve halka arz taahhüdü yoluyla kuruluş. Ani kuruluşta tüm paylar kurucular tarafından taahhüt edilir; en yaygın ve pratik yöntemdir. Halka arz taahhüdü yoluyla kuruluşta ise payların bir kısmı kamuya açık bir arzla satılır."
+          "e": "TTK (türk ticaret kanunu)'da anonim şirket kuruluşu iki yolla mümkündür: ani kuruluş ve halka arz taahhüdü yoluyla kuruluş. Ani kuruluşta tüm paylar kurucular tarafından taahhüt edilir; en yaygın ve pratik yöntemdir. Halka arz taahhüdü yoluyla kuruluşta ise payların bir kısmı kamuya açık bir arzla satılır."
         },
         {
-          "q": "Anonim şirket yönetim kurulunun 'devredilemez ve vazgeçilemez' yetkileri TTK'nın hangi maddesinde düzenlenmiştir?",
+          "q": "Anonim şirket yönetim kurulunun 'devredilemez ve vazgeçilemez' yetkileri TTK (türk ticaret kanunu)'nın hangi maddesinde düzenlenmiştir?",
           "o": [
-            "A) TTK md. 329",
-            "B) TTK md. 375",
-            "C) TTK md. 408",
-            "D) TTK md. 553"
+            "A) TTK (türk ticaret kanunu) md. 329",
+            "B) TTK (türk ticaret kanunu) md. 375",
+            "C) TTK (türk ticaret kanunu) md. 408",
+            "D) TTK (türk ticaret kanunu) md. 553"
           ],
           "a": 1,
-          "e": "TTK md. 375, yönetim kurulunun devredilemez ve vazgeçilemez yetki ve görevlerini düzenler. Bu liste: üst düzey yönetim talimatları, muhasebe/finans düzeninin kurulması, müdür atama-görevden alma, faaliyet raporunun hazırlanması, GK toplantısının hazırlanması ve şirketin borca batıklığı halinde mahkemeye bildirim. Bu yetkiler hiçbir şekilde başkasına devredilemez."
+          "e": "TTK (türk ticaret kanunu) md. 375, yönetim kurulunun devredilemez ve vazgeçilemez yetki ve görevlerini düzenler. Bu liste: üst düzey yönetim talimatları, muhasebe/finans düzeninin kurulması, müdür atama-görevden alma, faaliyet raporunun hazırlanması, GK toplantısının hazırlanması ve şirketin borca batıklığı halinde mahkemeye bildirim. Bu yetkiler hiçbir şekilde başkasına devredilemez."
         },
         {
           "q": "Anonim şirkette genel kurulun 'devredilemez yetkileri' arasında hangisi yer almaz?",
@@ -152,7 +152,7 @@ window.__C = {
             "D) Kâr dağıtımı ve denetçi seçimi"
           ],
           "a": 2,
-          "e": "TTK md. 408'de genel kurulun devredilemez yetkileri sıralanmıştır: esas sözleşme değişikliği, YK üyelerinin seçimi ve azli, YK'nın ibra edilmesi, yıllık kâr payının belirlenmesi, denetçi seçimi, tasfiye ve benzeri stratejik kararlar. Günlük nakit akışı kararları ise YK'nın yönetim yetkisi kapsamındadır."
+          "e": "TTK (türk ticaret kanunu) md. 408'de genel kurulun devredilemez yetkileri sıralanmıştır: esas sözleşme değişikliği, YK üyelerinin seçimi ve azli, YK'nın ibra edilmesi, yıllık kâr payının belirlenmesi, denetçi seçimi, tasfiye ve benzeri stratejik kararlar. Günlük nakit akışı kararları ise YK'nın yönetim yetkisi kapsamındadır."
         },
         {
           "q": "Anonim şirkette bağımsız denetim görüş yazısı türleri arasında hangisi 'tablolar genel olarak doğru ancak belirli bir konuda sınırlı aykırılık var' anlamına gelir?",
@@ -166,7 +166,7 @@ window.__C = {
           "e": "Şartlı (sınırlı olumlu) görüş; denetçinin, finansal tabloların belirli bir konu veya sınırlı bir alan hariç olmak üzere genel itibarıyla dürüst resmi yansıttığı kanaatine vardığında kullandığı görüş türüdür. Olumsuz görüşte tablolar birçok önemli yönüyle yanıltıcıdır; görüş vermekten kaçınmada ise belirsizlik o denli kapsamlıdır ki herhangi bir görüş verilememektedir."
         },
         {
-          "q": "TTK md. 358'e göre pay sahiplerinin şirkete borçlanma yasağı neden getirilmiştir?",
+          "q": "TTK (türk ticaret kanunu) md. 358'e göre pay sahiplerinin şirkete borçlanma yasağı neden getirilmiştir?",
           "o": [
             "A) Vergi kaçakçılığını önlemek için",
             "B) Pay sahiplerinin şirket alacaklılarını dezavantajlı duruma düşürmesini ve şirket malvarlığını dolaylı yollardan boşaltmasını engellemek için",
@@ -174,7 +174,7 @@ window.__C = {
             "D) YK üyelerinin korunması amacıyla"
           ],
           "a": 1,
-          "e": "Pay sahiplerinin şirkete borçlanma yasağı (TTK md. 358), pay sahiplerinin şirkete kredi alarak aslında şirket kaynaklarını kendi lehlerine kullanmasını, şirket alacaklılarını zarara uğratmasını ve taahhüt edilen sermayenin fiilen şirkete kalmamasını önlemeyi amaçlar. Yasağa aykırı borçlanma işlemi geçersizdir."
+          "e": "Pay sahiplerinin şirkete borçlanma yasağı (TTK (türk ticaret kanunu) md. 358), pay sahiplerinin şirkete kredi alarak aslında şirket kaynaklarını kendi lehlerine kullanmasını, şirket alacaklılarını zarara uğratmasını ve taahhüt edilen sermayenin fiilen şirkete kalmamasını önlemeyi amaçlar. Yasağa aykırı borçlanma işlemi geçersizdir."
         },
         {
           "q": "Nama yazılı pay devrinde şirketin onayına bağlı olduğu ('bağlam/vinkülas') sistemde şirket onayı ne zaman reddedebilir?",
@@ -185,7 +185,7 @@ window.__C = {
             "D) Yalnızca yabancı uyruklu alıcılara karşı"
           ],
           "a": 1,
-          "e": "TTK md. 493/2: nama yazılı payları şirket onayına bağlayan bir düzenleme ('bağlam') söz konusu olduğunda şirket, haklı bir sebep olmaksızın devir talebini reddederse veya 3 ay içinde cevap vermezse, devir tescil edilmiş sayılır. Haklı sebepler esas sözleşmede önceden belirlenmiş olmalıdır."
+          "e": "TTK (türk ticaret kanunu) md. 493/2: nama yazılı payları şirket onayına bağlayan bir düzenleme ('bağlam') söz konusu olduğunda şirket, haklı bir sebep olmaksızın devir talebini reddederse veya 3 ay içinde cevap vermezse, devir tescil edilmiş sayılır. Haklı sebepler esas sözleşmede önceden belirlenmiş olmalıdır."
         },
         {
           "q": "GK kararlarında 'iptal davası' ile 'butlan' arasındaki temel fark nedir?",
@@ -199,7 +199,7 @@ window.__C = {
           "e": "Butlan kararlar: kamu düzenine, paysahibi hakların özüne veya şirketin temel yapısına aykırı kararlar herhangi bir süreye bağlı olmaksızın ve herkes tarafından ileri sürülebilir şekilde hükümsüzdür. İptal davası ise belirli kişiler tarafından 3 ay içinde açılmak zorundadır; bu süre geçirilirse karar geçerliliğini korur."
         },
         {
-          "q": "TTK'ya göre anonim şirketin tasfiyesinde tasfiye memuru kimdir?",
+          "q": "TTK (türk ticaret kanunu)'ya göre anonim şirketin tasfiyesinde tasfiye memuru kimdir?",
           "o": [
             "A) Her zaman mahkeme tarafından atanan bir bilirkişi",
             "B) GK tarafından atanır; atama yapılmazsa YK üyeleri tasfiye memuru sıfatını kazanır",
@@ -207,10 +207,10 @@ window.__C = {
             "D) Şirketin bağımsız denetçisi"
           ],
           "a": 1,
-          "e": "TTK md. 536'ya göre tasfiye memurları genel kurul tarafından seçilir. GK kararında veya esas sözleşmede başkası belirlenmemişse yönetim kurulu üyeleri, şirketin tasfiye memuru sıfatını kazanır. Mahkeme de gerektiğinde tasfiye memuru atayabilir."
+          "e": "TTK (türk ticaret kanunu) md. 536'ya göre tasfiye memurları genel kurul tarafından seçilir. GK kararında veya esas sözleşmede başkası belirlenmemişse yönetim kurulu üyeleri, şirketin tasfiye memuru sıfatını kazanır. Mahkeme de gerektiğinde tasfiye memuru atayabilir."
         },
         {
-          "q": "Anonim şirket kurucuları için TTK md. 354'te düzenlenen 'kuruluştan sonra devralma yasağı' kaç yıl için geçerlidir?",
+          "q": "Anonim şirket kurucuları için TTK (türk ticaret kanunu) md. 354'te düzenlenen 'kuruluştan sonra devralma yasağı' kaç yıl için geçerlidir?",
           "o": [
             "A) 1 yıl",
             "B) 2 yıl",
@@ -218,7 +218,7 @@ window.__C = {
             "D) 5 yıl"
           ],
           "a": 1,
-          "e": "TTK md. 354 uyarınca anonim şirketin kuruluşunu izleyen iki yıl içinde, bir işletmenin veya şirket için önemli olan bir varlığın gerçek değerinin %10'undan fazlasına tekabül eden bir bedel karşılığında devir alınması GK kararına ve değerleme zorunluluğuna tabidir."
+          "e": "TTK (türk ticaret kanunu) md. 354 uyarınca anonim şirketin kuruluşunu izleyen iki yıl içinde, bir işletmenin veya şirket için önemli olan bir varlığın gerçek değerinin %10'undan fazlasına tekabül eden bir bedel karşılığında devir alınması GK kararına ve değerleme zorunluluğuna tabidir."
         },
         {
           "q": "Anonim şirkette 'rüçhan hakkı' nedir?",
@@ -232,7 +232,7 @@ window.__C = {
           "e": "Rüçhan hakkı (yeni pay alma hakkı), anonim şirketin sermaye artırımında çıkarılacak payları mevcut pay sahiplerinin, ellerindeki paylarla orantılı olarak öncelikle satın alma hakkıdır. Bu hak oransallık ve eşit işlem ilkelerinin somut bir uygulamasıdır. Kısıtlanabilir veya kaldırılabilir; ancak bunun için GK'nın ağırlaştırılmış çoğunlukla haklı gerekçeye dayanan kararı şarttır."
         },
         {
-          "q": "TTK'ya göre anonim şirkette genel kurulun olağan toplantıya çağrılma süresi nedir?",
+          "q": "TTK (türk ticaret kanunu)'ya göre anonim şirkette genel kurulun olağan toplantıya çağrılma süresi nedir?",
           "o": [
             "A) 5 gün önceden",
             "B) 10 gün önceden",
@@ -240,7 +240,7 @@ window.__C = {
             "D) 30 gün önceden"
           ],
           "a": 2,
-          "e": "TTK md. 414: genel kurul toplantısına çağrı, toplantı gününden en az 15 gün önce ilan yoluyla yapılır. Bu süre esas sözleşmeyle uzatılabilir ancak kısaltılamaz. Çağrı; Türkiye Ticaret Sicili Gazetesi'nde ve şirketin internet sitesinde yayımlanır; ayrıca pay sahiplerine yazılı bildirim yapılması gerekebilir."
+          "e": "TTK (türk ticaret kanunu) md. 414: genel kurul toplantısına çağrı, toplantı gününden en az 15 gün önce ilan yoluyla yapılır. Bu süre esas sözleşmeyle uzatılabilir ancak kısaltılamaz. Çağrı; Türkiye Ticaret Sicili Gazetesi'nde ve şirketin internet sitesinde yayımlanır; ayrıca pay sahiplerine yazılı bildirim yapılması gerekebilir."
         },
         {
           "q": "Anonim şirket yönetim kurulunun olağan toplantı yetersayısı nedir?",
@@ -251,7 +251,7 @@ window.__C = {
             "D) YK başkanının tek başına karar alması yeterlidir"
           ],
           "a": 1,
-          "e": "TTK md. 390/1: yönetim kurulu, üye tam sayısının çoğunluğuyla toplanır ve toplantıya katılanların çoğunluğuyla karar alır. Örneğin 5 üyeli bir YK'da en az 3 üye toplantıya katılmalı; en az 3 üyenin oyu ile karar alınmalıdır."
+          "e": "TTK (türk ticaret kanunu) md. 390/1: yönetim kurulu, üye tam sayısının çoğunluğuyla toplanır ve toplantıya katılanların çoğunluğuyla karar alır. Örneğin 5 üyeli bir YK'da en az 3 üye toplantıya katılmalı; en az 3 üyenin oyu ile karar alınmalıdır."
         },
         {
           "q": "Anonim şirketin sona ermesi ardından tasfiye sürecinde alacaklı koruması nasıl sağlanır?",
@@ -262,12 +262,12 @@ window.__C = {
             "D) Tasfiyede alacaklı koruması öngörülmemiştir"
           ],
           "a": 1,
-          "e": "TTK md. 543'e göre tasfiye memurları, şirketin sona erdiğini tescil ve üç kez ilan yoluyla alacaklılara duyurur. Alacaklılar bildirilen alacakları talep eder; bu alacaklar ödenir veya güvence altına alınır. Tüm alacaklar karşılanmadan tasfiye payı pay sahiplerine dağıtılamaz."
+          "e": "TTK (türk ticaret kanunu) md. 543'e göre tasfiye memurları, şirketin sona erdiğini tescil ve üç kez ilan yoluyla alacaklılara duyurur. Alacaklılar bildirilen alacakları talep eder; bu alacaklar ödenir veya güvence altına alınır. Tüm alacaklar karşılanmadan tasfiye payı pay sahiplerine dağıtılamaz."
         }
       ],
       "t2": [
         {
-          "q": "TTK'da tam bölünme ile kısmi bölünme arasındaki temel fark nedir?",
+          "q": "TTK (türk ticaret kanunu)'da tam bölünme ile kısmi bölünme arasındaki temel fark nedir?",
           "o": [
             "A) Tam bölünmede şirket devam eder; kısmi bölünmede sona erer",
             "B) Tam bölünmede bölünen şirket sona erer; kısmi bölünmede devam eder",
@@ -292,12 +292,12 @@ window.__C = {
           "q": "Anonim şirketin esas sözleşmesine göre 'emredici hükümler ilkesi' ne anlama gelir?",
           "o": [
             "A) Şirket tüm devlet emirlerine uymak zorundadır",
-            "B) Esas sözleşme TTK'nın emredici hükümlerine aykırı düzenlemeler içeremez; bu hükümlerin ötesinde esneklik ancak izin verilen konularda mümkündür",
+            "B) Esas sözleşme TTK (türk ticaret kanunu)'nın emredici hükümlerine aykırı düzenlemeler içeremez; bu hükümlerin ötesinde esneklik ancak izin verilen konularda mümkündür",
             "C) Şirketin tüm kararları devlet onayına tabidir",
             "D) Emredici hükümler yalnızca büyük anonim şirketlere uygulanır"
           ],
           "a": 1,
-          "e": "Emredici hükümler ilkesi: anonim şirketlere ilişkin pek çok TTK hükmü emredici niteliktedir — taraflarca değiştirilemez. Esas sözleşme yalnızca kanunun 'isteğe bağlı' ya da 'esas sözleşmede düzenlenebilir' şeklinde belirlediği alanlarda serbestçe hüküm içerebilir."
+          "e": "Emredici hükümler ilkesi: anonim şirketlere ilişkin pek çok TTK (türk ticaret kanunu) hükmü emredici niteliktedir — taraflarca değiştirilemez. Esas sözleşme yalnızca kanunun 'isteğe bağlı' ya da 'esas sözleşmede düzenlenebilir' şeklinde belirlediği alanlarda serbestçe hüküm içerebilir."
         },
         {
           "q": "Anonim şirkette YK üyesinin 'özen borcu' için geçerli standart nedir?",
@@ -308,10 +308,10 @@ window.__C = {
             "D) Yalnızca zararı önleme yükümlülüğü"
           ],
           "a": 1,
-          "e": "TTK md. 369'a göre YK üyeleri, görevlerini tedbirli bir yöneticinin özeniyle yapmak ve şirketin menfaatlerini dürüstlükle gözetmekle yükümlüdür. Bu 'makul basiretli iş insanı' standardıdır. Ayrıca iş yargısı ilkesi (business judgment rule) çerçevesinde, dürüstlük kuralına uygun ve yeterli bilgiye dayanan yönetim kararları için YK üyeleri sonradan sorumlu tutulamaz."
+          "e": "TTK (türk ticaret kanunu) md. 369'a göre YK üyeleri, görevlerini tedbirli bir yöneticinin özeniyle yapmak ve şirketin menfaatlerini dürüstlükle gözetmekle yükümlüdür. Bu 'makul basiretli iş insanı' standardıdır. Ayrıca iş yargısı ilkesi (business judgment rule) çerçevesinde, dürüstlük kuralına uygun ve yeterli bilgiye dayanan yönetim kararları için YK üyeleri sonradan sorumlu tutulamaz."
         },
         {
-          "q": "TTK kapsamında bağlı şirketin azınlık pay sahipleri, tam hâkimiyette ne talep edebilir?",
+          "q": "TTK (türk ticaret kanunu) kapsamında bağlı şirketin azınlık pay sahipleri, tam hâkimiyette ne talep edebilir?",
           "o": [
             "A) Şirketin tasfiyesini",
             "B) Ayrılma bedeli (ayrılma hakkının kullanımı)",
@@ -319,10 +319,10 @@ window.__C = {
             "D) Hâkim şirketin ticaret sicilinden silinmesini"
           ],
           "a": 1,
-          "e": "TTK md. 208 uyarınca %100 hâkimiyetin söz konusu olduğu tam hâkimiyette, azınlık pay sahibi olarak kalan kişiler ayrılma bedelini talep etme hakkına sahiptir. Ayrılma bedeli, payların gerçek değeri üzerinden belirlenir. Bu düzenleme azınlık pay sahiplerini çoğunluğun baskısından korur."
+          "e": "TTK (türk ticaret kanunu) md. 208 uyarınca %100 hâkimiyetin söz konusu olduğu tam hâkimiyette, azınlık pay sahibi olarak kalan kişiler ayrılma bedelini talep etme hakkına sahiptir. Ayrılma bedeli, payların gerçek değeri üzerinden belirlenir. Bu düzenleme azınlık pay sahiplerini çoğunluğun baskısından korur."
         },
         {
-          "q": "Anonim şirkette halka açık olmayan bir şirket için asgari esas sermaye TTK'ya göre ne kadardır?",
+          "q": "Anonim şirkette halka açık olmayan bir şirket için asgari esas sermaye TTK (türk ticaret kanunu)'ya göre ne kadardır?",
           "o": [
             "A) 10.000 TL",
             "B) 50.000 TL",
@@ -330,7 +330,7 @@ window.__C = {
             "D) 250.000 TL"
           ],
           "a": 1,
-          "e": "TTK md. 332/1: anonim şirketin esas sermayesi en az elli bin Türk Lirasıdır. Kayıtlı sermaye sistemini kabul eden halka açık olmayan anonim şirketlerde ise başlangıç sermayesi en az yüz bin Türk Lirası olarak belirlenmiştir."
+          "e": "TTK (türk ticaret kanunu) md. 332/1: anonim şirketin esas sermayesi en az elli bin Türk Lirasıdır. Kayıtlı sermaye sistemini kabul eden halka açık olmayan anonim şirketlerde ise başlangıç sermayesi en az yüz bin Türk Lirası olarak belirlenmiştir."
         },
         {
           "q": "Anonim şirket genel kurulunda oy hakkı bakımından 'imtiyazlı oyun' üst sınırı nedir?",
@@ -341,7 +341,7 @@ window.__C = {
             "D) Sınır bulunmamaktadır"
           ],
           "a": 1,
-          "e": "TTK md. 479/2 uyarınca oy hakkında imtiyaz tanınabilir; ancak bir payın sahip olabileceği oy sayısı on beşi geçemez. Bu üst sınır, azınlık pay sahiplerinin haklarını aşırı ölçüde törpüleyecek hâkimiyetin önüne geçmek amacıyla koyulmuştur."
+          "e": "TTK (türk ticaret kanunu) md. 479/2 uyarınca oy hakkında imtiyaz tanınabilir; ancak bir payın sahip olabileceği oy sayısı on beşi geçemez. Bu üst sınır, azınlık pay sahiplerinin haklarını aşırı ölçüde törpüleyecek hâkimiyetin önüne geçmek amacıyla koyulmuştur."
         },
         {
           "q": "GK iptal davasında dava açma süresi dolduğunda kararın durumu ne olur?",
@@ -352,7 +352,7 @@ window.__C = {
             "D) Karar askıda kalır"
           ],
           "a": 1,
-          "e": "TTK md. 445-447: GK kararının iptali için 3 aylık hak düşürücü süre vardır. Bu süre, kararın tescil ve ilanı veya pay sahibinin karardan haberdar olduğu tarihten itibaren işler. Süre geçirildiğinde iptal davası açılamaz; ancak butlan (hükümsüzlük) niteliği taşıyan kararlara herhangi bir süre olmaksızın her zaman itiraz edilebilir."
+          "e": "TTK (türk ticaret kanunu) md. 445-447: GK kararının iptali için 3 aylık hak düşürücü süre vardır. Bu süre, kararın tescil ve ilanı veya pay sahibinin karardan haberdar olduğu tarihten itibaren işler. Süre geçirildiğinde iptal davası açılamaz; ancak butlan (hükümsüzlük) niteliği taşıyan kararlara herhangi bir süre olmaksızın her zaman itiraz edilebilir."
         },
         {
           "q": "'Dürüst resim ilkesi' bağımsız denetimde ne anlama gelir?",
@@ -363,18 +363,18 @@ window.__C = {
             "D) Denetçinin sadece kanuni zorunlulukları incelemesi"
           ],
           "a": 1,
-          "e": "Dürüst resim (true and fair view) ilkesi, finansal tabloların şirketin gerçek mali durumunu, faaliyet sonuçlarını ve nakit akışlarını tüm önemli yönleriyle yansıtması gerektiğini ifade eder. TTK md. 515 ve uluslararası muhasebe standartlarında temel ilke olarak yer alır. Yalnızca teknik mevzuata uyum yeterli değildir; tablolar gerçeği yansıtmalıdır."
+          "e": "Dürüst resim (true and fair view) ilkesi, finansal tabloların şirketin gerçek mali durumunu, faaliyet sonuçlarını ve nakit akışlarını tüm önemli yönleriyle yansıtması gerektiğini ifade eder. TTK (türk ticaret kanunu) md. 515 ve uluslararası muhasebe standartlarında temel ilke olarak yer alır. Yalnızca teknik mevzuata uyum yeterli değildir; tablolar gerçeği yansıtmalıdır."
         },
         {
           "q": "Anonim şirkette hamiline yazılı pay neden özellikli bir pay türüdür?",
           "o": [
             "A) Hamiline yazılı paylar devir yasağına tabidir",
-            "B) Devir için zilyetliğin (teslimin) yeterli olması; ancak MKK kaydı zorunluluğu",
+            "B) Devir için zilyetliğin (teslimin) yeterli olması; ancak MKK (merkezi kayıt kuruluşu) kaydı zorunluluğu",
             "C) Hamiline yazılı paylar sadece kuruculara aittir",
             "D) Hamiline yazılı paylar her zaman daha fazla temettü alır"
           ],
           "a": 1,
-          "e": "Hamiline yazılı paylar, devir bakımından en serbest pay türüdür: payın fiziken teslim edilmesi (zilyetlik devri) devir için yeterlidir; yazılı devir beyanı veya şirket onayı gerekmez. Ancak TTK değişiklikleriyle bu paylar için Merkezi Kayıt Kuruluşu'na (MKK) kaydettirme zorunluluğu getirilmiştir."
+          "e": "Hamiline yazılı paylar, devir bakımından en serbest pay türüdür: payın fiziken teslim edilmesi (zilyetlik devri) devir için yeterlidir; yazılı devir beyanı veya şirket onayı gerekmez. Ancak TTK (türk ticaret kanunu) değişiklikleriyle bu paylar için Merkezi Kayıt Kuruluşu'na (MKK (merkezi kayıt kuruluşu)) kaydettirme zorunluluğu getirilmiştir."
         },
         {
           "q": "Anonim şirkette 'intifa senedi' nedir?",
@@ -385,7 +385,7 @@ window.__C = {
             "D) Yalnızca kuruculara verilen senet"
           ],
           "a": 1,
-          "e": "İntifa senetleri (TTK md. 502): pay sahipliği hakkı vermez; sahibine kâr payı, tasfiye payı veya yeni pay alma gibi malvarlığı hakları sağlar. Belirli kişilere verilen hizmetlerin karşılığı veya kurucu menfaati olarak çıkarılabilir. Nama veya hamiline yazılı olabilir; oy hakkı yoktur."
+          "e": "İntifa senetleri (TTK (türk ticaret kanunu) md. 502): pay sahipliği hakkı vermez; sahibine kâr payı, tasfiye payı veya yeni pay alma gibi malvarlığı hakları sağlar. Belirli kişilere verilen hizmetlerin karşılığı veya kurucu menfaati olarak çıkarılabilir. Nama veya hamiline yazılı olabilir; oy hakkı yoktur."
         },
         {
           "q": "Anonim şirket kuruluşunda nakdi sermayenin ne kadarlık kısmı tescilden önce bankaya bloke edilmelidir?",
@@ -396,7 +396,7 @@ window.__C = {
             "D) %10'u"
           ],
           "a": 1,
-          "e": "TTK md. 345/1: anonim şirket kuruluşunda taahhüt edilen nakdi sermayenin en az %25'i, ticaret siciline tescilden önce bir bankada açılan özel hesaba bloke edilmelidir. Kalan %75'lik kısım tescilden itibaren 24 ay içinde ödenmesi yeterlidir."
+          "e": "TTK (türk ticaret kanunu) md. 345/1: anonim şirket kuruluşunda taahhüt edilen nakdi sermayenin en az %25'i, ticaret siciline tescilden önce bir bankada açılan özel hesaba bloke edilmelidir. Kalan %75'lik kısım tescilden itibaren 24 ay içinde ödenmesi yeterlidir."
         },
         {
           "q": "Anonim şirketin sona ermesinde 'organ eksikliği' sebebiyle fesih nasıl gerçekleşir?",
@@ -407,7 +407,7 @@ window.__C = {
             "D) YK kararıyla sona erer"
           ],
           "a": 1,
-          "e": "TTK md. 530: kanuni veya esas sözleşmeyle öngörülen organlardan birinin mevcut olmaması ve bunun oluşturulmasının da imkânsız görünmesi durumunda, herhangi bir ilgili kişi mahkemeden şirketin feshini isteyebilir. Mahkeme önce eksikliğin giderilmesi için süre tanır; giderilmezse fesih kararı verir."
+          "e": "TTK (türk ticaret kanunu) md. 530: kanuni veya esas sözleşmeyle öngörülen organlardan birinin mevcut olmaması ve bunun oluşturulmasının da imkânsız görünmesi durumunda, herhangi bir ilgili kişi mahkemeden şirketin feshini isteyebilir. Mahkeme önce eksikliğin giderilmesi için süre tanır; giderilmezse fesih kararı verir."
         },
         {
           "q": "Anonim şirkette pay sahibinin 'bilgi alma ve inceleme hakkı' kapsamı nedir?",
@@ -418,7 +418,7 @@ window.__C = {
             "D) Bilgi alma hakkı yalnızca mali tablolarla sınırlıdır"
           ],
           "a": 1,
-          "e": "TTK md. 437: pay sahibi GK toplantısında YK'dan şirket işlerine ilişkin bilgi talep edebilir. Bu hak sınırlandırılamaz veya ortadan kaldırılamaz. Ancak ticari sır ve şirkete zarar verebilecek bilgiler için YK makul gerekçeyle bilgi vermeyi reddedebilir. Red halinde pay sahibi mahkemeye başvurabilir."
+          "e": "TTK (türk ticaret kanunu) md. 437: pay sahibi GK toplantısında YK'dan şirket işlerine ilişkin bilgi talep edebilir. Bu hak sınırlandırılamaz veya ortadan kaldırılamaz. Ancak ticari sır ve şirkete zarar verebilecek bilgiler için YK makul gerekçeyle bilgi vermeyi reddedebilir. Red halinde pay sahibi mahkemeye başvurabilir."
         },
         {
           "q": "Anonim şirkette 'imtiyazlı pay' nedir ve hangi haklar imtiyazlı olabilir?",
@@ -429,7 +429,7 @@ window.__C = {
             "D) İmtiyazlı pay yalnızca tahvil piyasasında kullanılır"
           ],
           "a": 1,
-          "e": "İmtiyazlı pay (TTK md. 478): bazı paylara diğer paylara kıyasla belirli konularda üstünlük tanınabilir. Bu üstünlük kâr payında (daha yüksek temettü), oy hakkında (çok oy — en fazla 15 kat), tasfiye payında veya yeni pay alma hakkında olabilir. İmtiyazlı pay oluşturulması esas sözleşmeye dayanmalıdır."
+          "e": "İmtiyazlı pay (TTK (türk ticaret kanunu) md. 478): bazı paylara diğer paylara kıyasla belirli konularda üstünlük tanınabilir. Bu üstünlük kâr payında (daha yüksek temettü), oy hakkında (çok oy — en fazla 15 kat), tasfiye payında veya yeni pay alma hakkında olabilir. İmtiyazlı pay oluşturulması esas sözleşmeye dayanmalıdır."
         },
         {
           "q": "Anonim şirkette YK üyesinin 'rekabet yasağı' neden önemlidir?",
@@ -440,7 +440,7 @@ window.__C = {
             "D) Rekabet yasağı tazminat gerektirmez"
           ],
           "a": 1,
-          "e": "TTK md. 396: YK üyesi, GK'nın izni olmaksızın şirketle aynı konuda kendisi veya başkası hesabına işlem yapamaz; aynı konuda başka bir şirkete sınırsız sorumlu ortak sıfatıyla katılamaz. Bu yasak, YK üyesinin çıkarlarını şirketin çıkarlarının önüne koymasını önler — bağlılık borcunun somut uygulamasıdır."
+          "e": "TTK (türk ticaret kanunu) md. 396: YK üyesi, GK'nın izni olmaksızın şirketle aynı konuda kendisi veya başkası hesabına işlem yapamaz; aynı konuda başka bir şirkete sınırsız sorumlu ortak sıfatıyla katılamaz. Bu yasak, YK üyesinin çıkarlarını şirketin çıkarlarının önüne koymasını önler — bağlılık borcunun somut uygulamasıdır."
         },
         {
           "q": "Anonim şirkette 'pay defteri'nin önemi nedir?",
@@ -451,10 +451,10 @@ window.__C = {
             "D) Pay defterine kaydın hukuki önemi yoktur"
           ],
           "a": 1,
-          "e": "TTK md. 499: pay defteri şirkete kimin pay sahibi olduğunu gösteren yasal kayıttır. Nama yazılı pay sahipleri ve rehin alacaklıları pay defterine kaydedilir. Pay defterine kaydolunmayan kişi, pay sahipliği haklarını (oy, temettü, GK'ya katılım) kullanamaz. Bu kural nama yazılı payların güvenilirliğini ve belirliğini sağlar."
+          "e": "TTK (türk ticaret kanunu) md. 499: pay defteri şirkete kimin pay sahibi olduğunu gösteren yasal kayıttır. Nama yazılı pay sahipleri ve rehin alacaklıları pay defterine kaydedilir. Pay defterine kaydolunmayan kişi, pay sahipliği haklarını (oy, temettü, GK'ya katılım) kullanamaz. Bu kural nama yazılı payların güvenilirliğini ve belirliğini sağlar."
         },
         {
-          "q": "Anonim şirkette 'GK toplantısına katılamayan pay sahiplerinin' haklarını korumak için TTK hangi imkânı sunar?",
+          "q": "Anonim şirkette 'GK toplantısına katılamayan pay sahiplerinin' haklarını korumak için TTK (türk ticaret kanunu) hangi imkânı sunar?",
           "o": [
             "A) Pay sahibi katılmazsa haklarını kaybeder",
             "B) Temsil (vekâlet) yoluyla katılım, elektronik katılım (EGKS) ve bazı oylamalarda posta yoluyla oy kullanımı",
@@ -462,7 +462,7 @@ window.__C = {
             "D) GK kararları ancak tüm pay sahipleri katılırsa geçerlidir"
           ],
           "a": 1,
-          "e": "TTK md. 425-426: bir pay sahibi GK toplantısına bizzat katılamıyorsa yazılı bir vekâletname ile bir temsilci atayabilir. Ayrıca elektronik genel kurul sistemi (EGKS) üzerinden uzaktan katılım ve oy kullanma imkânı mevcuttur. Halka açık şirketlerde SPK (sermaye piyasası kurulu) mevzuatı posta yoluyla oy kullanımına da imkân tanıyabilir."
+          "e": "TTK (türk ticaret kanunu) md. 425-426: bir pay sahibi GK toplantısına bizzat katılamıyorsa yazılı bir vekâletname ile bir temsilci atayabilir. Ayrıca elektronik genel kurul sistemi (EGKS) üzerinden uzaktan katılım ve oy kullanma imkânı mevcuttur. Halka açık şirketlerde SPK (sermaye piyasası kurulu) mevzuatı posta yoluyla oy kullanımına da imkân tanıyabilir."
         },
         {
           "q": "Anonim şirkette 'sermaye azaltımında' alacaklıları korumak için öngörülen prosedür nedir?",
@@ -473,7 +473,7 @@ window.__C = {
             "D) Sermaye azaltımı yalnızca mahkeme onayıyla yapılabilir"
           ],
           "a": 1,
-          "e": "TTK md. 473-474: sermaye azaltımı kararından sonra alacaklılar üç kez ilan yoluyla çağrılır ve alacaklarını bildirmeleri istenir. Bildirilen alacaklar ödenir ya da güvence altına alınır. Bu yükümlülük yerine getirilmeden azaltım tescil edilemez. Böylece şirketin azalan sermayesi nedeniyle alacaklıların zarara uğraması önlenir."
+          "e": "TTK (türk ticaret kanunu) md. 473-474: sermaye azaltımı kararından sonra alacaklılar üç kez ilan yoluyla çağrılır ve alacaklarını bildirmeleri istenir. Bildirilen alacaklar ödenir ya da güvence altına alınır. Bu yükümlülük yerine getirilmeden azaltım tescil edilemez. Böylece şirketin azalan sermayesi nedeniyle alacaklıların zarara uğraması önlenir."
         },
         {
           "q": "Anonim şirkette 'YK üyelerinin şirkete karşı yarışan çıkarlarını yönetme' yükümlülüğü ne anlama gelir?",
@@ -484,7 +484,7 @@ window.__C = {
             "D) Çıkar çatışması yalnızca mali kazanımlar söz konusu olduğunda önemlidir"
           ],
           "a": 1,
-          "e": "TTK'nın bağlılık borcu (md. 369) çerçevesinde YK üyesi: kişisel çıkarının şirket çıkarıyla çatıştığı konularda bunu açıklamak, o konudaki YK kararında oy kullanmaktan ve görüşmelere katılmaktan çekilmek zorundadır. Aksi hâlde bu ihlal hem hukuki hem cezai sorumluluk doğurabilir."
+          "e": "TTK (türk ticaret kanunu)'nın bağlılık borcu (md. 369) çerçevesinde YK üyesi: kişisel çıkarının şirket çıkarıyla çatıştığı konularda bunu açıklamak, o konudaki YK kararında oy kullanmaktan ve görüşmelere katılmaktan çekilmek zorundadır. Aksi hâlde bu ihlal hem hukuki hem cezai sorumluluk doğurabilir."
         }
       ],
       "t3": [
@@ -494,10 +494,10 @@ window.__C = {
             "A) Büyük ölçekli her şirket hâkim sayılır",
             "B) Bir şirket, başka bir şirketin paylarının çoğunluğuna sahipse ya da yönetim kurulunu belirleyebiliyorsa hâkim şirkettir",
             "C) Yalnızca devlet destekli şirketler hâkim olabilir",
-            "D) Hâkim şirket kavramı TTK'da yer almamaktadır"
+            "D) Hâkim şirket kavramı TTK (türk ticaret kanunu)'da yer almamaktadır"
           ],
           "a": 1,
-          "e": "TTK md. 195: bir şirketin, başka bir şirkette doğrudan veya dolaylı olarak oy haklarının çoğunluğuna sahip olması veya yönetim kurulunun çoğunluğunu belirleme imkânına sahip bulunması durumunda birinci şirket hâkim, ikinci şirket bağlı şirket sayılır."
+          "e": "TTK (türk ticaret kanunu) md. 195: bir şirketin, başka bir şirkette doğrudan veya dolaylı olarak oy haklarının çoğunluğuna sahip olması veya yönetim kurulunun çoğunluğunu belirleme imkânına sahip bulunması durumunda birinci şirket hâkim, ikinci şirket bağlı şirket sayılır."
         },
         {
           "q": "Anonim şirkette 'kamuyu aydınlatma' yükümlülüğü kapsamında hangi belgeler zorunlu olarak hazırlanır?",
@@ -508,18 +508,18 @@ window.__C = {
             "D) Yönetim kurulunun toplantı tutanakları"
           ],
           "a": 1,
-          "e": "TTK md. 516-520: YK'nın düzenleme yükümlülüğünde bilanço, gelir tablosu ve yıllık faaliyet raporu zorunlu finansal belgelerdir. Faaliyet raporunda şirketin mali durumu, çevre ve sosyal etkileri yer alır. Halka açık şirketlerde SPK (sermaye piyasası kurulu) mevzuatı; kamuyu aydınlatma platformu (KAP), özel durum açıklamaları ve içsel bilgilere ilişkin ek yükümlülükler öngörmektedir."
+          "e": "TTK (türk ticaret kanunu) md. 516-520: YK'nın düzenleme yükümlülüğünde bilanço, gelir tablosu ve yıllık faaliyet raporu zorunlu finansal belgelerdir. Faaliyet raporunda şirketin mali durumu, çevre ve sosyal etkileri yer alır. Halka açık şirketlerde SPK (sermaye piyasası kurulu) mevzuatı; kamuyu aydınlatma platformu (KAP (kamuyu aydınlatma platformu)), özel durum açıklamaları ve içsel bilgilere ilişkin ek yükümlülükler öngörmektedir."
         },
         {
-          "q": "YK toplantı kararlarının 'geçersizliği' için TTK'da hangi yaptırım öngörülmüştür?",
+          "q": "YK toplantı kararlarının 'geçersizliği' için TTK (türk ticaret kanunu)'da hangi yaptırım öngörülmüştür?",
           "o": [
             "A) Her yanlış karar otomatik olarak geçersizdir",
             "B) Butlan (hükümsüzlük) ve iptal davası: kanuna veya esas sözleşmeye aykırı kararlar butlan ya da ihlale bağlı olarak iptal davası yoluyla geçersiz kılınabilir",
             "C) Yalnızca şirketin bağımsız denetçisi kararları geçersiz kılabilir",
-            "D) TTK'da YK kararlarının sakatlığına ilişkin hüküm yoktur"
+            "D) TTK (türk ticaret kanunu)'da YK kararlarının sakatlığına ilişkin hüküm yoktur"
           ],
           "a": 1,
-          "e": "TTK md. 392: YK kararları, kanuna veya esas sözleşmeye açıkça aykırıysa butlan (süresiz hükümsüzlük) söz konusudur. Bunun yanı sıra YK'nın usul kurallarına aykırı toplanması veya karar alması halinde etkilenen kişiler iptal veya geçersizlik davası açabilir. GK kararlarına kıyasla YK kararlarının sakatlığı daha az kapsamlı düzenlenmiştir."
+          "e": "TTK (türk ticaret kanunu) md. 392: YK kararları, kanuna veya esas sözleşmeye açıkça aykırıysa butlan (süresiz hükümsüzlük) söz konusudur. Bunun yanı sıra YK'nın usul kurallarına aykırı toplanması veya karar alması halinde etkilenen kişiler iptal veya geçersizlik davası açabilir. GK kararlarına kıyasla YK kararlarının sakatlığı daha az kapsamlı düzenlenmiştir."
         },
         {
           "q": "Sermaye artırımında 'iç kaynaklardan artırım (bedelsiz artırım)' ne anlama gelir?",
@@ -536,12 +536,12 @@ window.__C = {
           "q": "Anonim şirkette 'azınlık hakları' kapsamında pay sahibi hangi özel korumadan yararlanabilir?",
           "o": [
             "A) Azınlık pay sahipleri çoğunluğun kararlarını her zaman veto edebilir",
-            "B) TTK'da oy oranından bağımsız bireysel haklar ve belirli oranlarla korunan kolektif haklar mevcuttur — özel denetçi atanmasını isteme, ibra oylaması vb.",
+            "B) TTK (türk ticaret kanunu)'da oy oranından bağımsız bireysel haklar ve belirli oranlarla korunan kolektif haklar mevcuttur — özel denetçi atanmasını isteme, ibra oylaması vb.",
             "C) Azınlık hakları yalnızca halka açık şirketlerde geçerlidir",
             "D) Azınlık pay sahiplerine özel hak tanınmamıştır"
           ],
           "a": 1,
-          "e": "TTK, azınlık pay sahiplerine bireysel ve kolektif haklar tanır. Bireysel haklar: bilgi alma hakkı, iptal davası açma hakkı, özel denetçi atanmasını isteme hakkı (herhangi bir pay sahibi). Kolektif haklar: sermayenin %10'una sahip azınlık olağanüstü GK toplanmasını talep edebilir; %5 azınlık GK gündemine madde eklettirme hakkı taşır. Bu haklar çoğunlukçu kararların kötüye kullanılmasını önler."
+          "e": "TTK (türk ticaret kanunu), azınlık pay sahiplerine bireysel ve kolektif haklar tanır. Bireysel haklar: bilgi alma hakkı, iptal davası açma hakkı, özel denetçi atanmasını isteme hakkı (herhangi bir pay sahibi). Kolektif haklar: sermayenin %10'una sahip azınlık olağanüstü GK toplanmasını talep edebilir; %5 azınlık GK gündemine madde eklettirme hakkı taşır. Bu haklar çoğunlukçu kararların kötüye kullanılmasını önler."
         },
         {
           "q": "Anonim şirkette 'oy hakkından yoksunluk' hangi durumda ortaya çıkar?",
@@ -552,7 +552,7 @@ window.__C = {
             "D) Oy hakkından yoksunluk yalnızca YK üyelerine uygulanır"
           ],
           "a": 1,
-          "e": "TTK md. 436: bir pay sahibi şirketle işlem yapmasına veya onun aleyhine dava açılmasına ilişkin GK gündem maddelerinde oy kullanamaz. Bu yasak, pay sahibinin kendi özel çıkarını ön plana çıkararak şirket ve diğer pay sahiplerine zarar vermesini önlemek için getirilmiştir. Kötüye kullanılan oy nedeniyle zarar doğarsa tazminat gündeme gelebilir."
+          "e": "TTK (türk ticaret kanunu) md. 436: bir pay sahibi şirketle işlem yapmasına veya onun aleyhine dava açılmasına ilişkin GK gündem maddelerinde oy kullanamaz. Bu yasak, pay sahibinin kendi özel çıkarını ön plana çıkararak şirket ve diğer pay sahiplerine zarar vermesini önlemek için getirilmiştir. Kötüye kullanılan oy nedeniyle zarar doğarsa tazminat gündeme gelebilir."
         },
         {
           "q": "Anonim şirkette bağımsız denetçilerin 'bağımsızlık engellerine' örnek neler gösterilebilir?",
@@ -563,18 +563,18 @@ window.__C = {
             "D) Denetçinin kıdemli olması"
           ],
           "a": 1,
-          "e": "TTK md. 400: denetçide aranacak bağımsızlık engelleri şunlardır: denetlenecek şirkete pay sahibi olmak; son üç yılda şirketin yöneticisi, çalışanı veya denetçisi olmuş bulunmak; şirkete muhasebe, danışmanlık, değerleme gibi hizmet vermek; şirketle belirli maddi ilişkiler içinde olmak. Bu engeller denetçinin tarafsız bir değerlendirme yapmasını engeller."
+          "e": "TTK (türk ticaret kanunu) md. 400: denetçide aranacak bağımsızlık engelleri şunlardır: denetlenecek şirkete pay sahibi olmak; son üç yılda şirketin yöneticisi, çalışanı veya denetçisi olmuş bulunmak; şirkete muhasebe, danışmanlık, değerleme gibi hizmet vermek; şirketle belirli maddi ilişkiler içinde olmak. Bu engeller denetçinin tarafsız bir değerlendirme yapmasını engeller."
         },
         {
           "q": "Anonim şirkette 'elektronik genel kurul' (EGKS) nedir ve nasıl çalışır?",
           "o": [
             "A) Yalnızca internet üzerinden toplantı yapılabilir; fiziki toplantı gerçekleştirilemez",
-            "B) Pay sahipleri MKK bünyesindeki EGKS sistemi üzerinden toplantıya elektronik olarak katılabilir, öneride bulunabilir ve oy kullanabilir",
+            "B) Pay sahipleri MKK (merkezi kayıt kuruluşu) bünyesindeki EGKS sistemi üzerinden toplantıya elektronik olarak katılabilir, öneride bulunabilir ve oy kullanabilir",
             "C) Elektronik GK yalnızca küçük şirketlere özgüdür",
             "D) Elektronik GK karşı oylar için kullanılamaz"
           ],
           "a": 1,
-          "e": "TTK md. 1527 ve ilgili Yönetmelik: Elektronik Genel Kurul Sistemi (EGKS), Merkezi Kayıt Kuruluşu bünyesinde pay sahiplerinin GK toplantısına fiziki olarak katılmadan elektronik yollarla katılmasını, görüş bildirmesini ve oy kullanmasını sağlar. Bu sistem katılımı artırır ve pay sahipliği haklarının kullanımını kolaylaştırır."
+          "e": "TTK (türk ticaret kanunu) md. 1527 ve ilgili Yönetmelik: Elektronik Genel Kurul Sistemi (EGKS), Merkezi Kayıt Kuruluşu bünyesinde pay sahiplerinin GK toplantısına fiziki olarak katılmadan elektronik yollarla katılmasını, görüş bildirmesini ve oy kullanmasını sağlar. Bu sistem katılımı artırır ve pay sahipliği haklarının kullanımını kolaylaştırır."
         },
         {
           "q": "'Esas sözleşmenin değiştirilmesi' genel kurul kararının yanı sıra hangi ek koşul gerektirebilir?",
@@ -599,7 +599,7 @@ window.__C = {
           "e": "Tasfiye payı hakkı, pay sahiplerinin şirketin tasfiyesinde tüm borçlar ve yükümlülükler karşılandıktan sonra arta kalan net varlık üzerindeki orantılı paylarını talep etme hakkıdır. Bu hak kaldırılamaz; ancak esas sözleşmeyle imtiyazlı olarak düzenlenebilir (örneğin bazı paylara tasfiyede öncelikli ödeme)."
         },
         {
-          "q": "Anonim şirketin iflasına ilişkin TTK md. 633 uyarınca yönetim kurulunun yükümlülüğü nedir?",
+          "q": "Anonim şirketin iflasına ilişkin TTK (türk ticaret kanunu) md. 633 uyarınca yönetim kurulunun yükümlülüğü nedir?",
           "o": [
             "A) Şirketin iflas etmesi halinde YK üyelerinin tamamı şahsen sorumlu olur",
             "B) Borca batıklık durumu tespitinde mahkemeye derhal bildirim ve koruma tedbirlerinin alınması",
@@ -607,7 +607,7 @@ window.__C = {
             "D) İflas halinde YK otomatik olarak görevden düşer"
           ],
           "a": 1,
-          "e": "TTK md. 376-377 ve md. 633: yönetim kurulunun öz kaynak korumasına ilişkin yükümlülükleri kapsamında, şirketin borca batık olduğunu gösteren ara bilanço çıktığında YK mahkemeye bildirim yapmak zorundadır. Mahkeme gerekli koruma tedbirlerini alır. Bu yükümlülük YK'nın devredilemez görevleri arasında sayılmaktadır (TTK md. 375/f.1/g)."
+          "e": "TTK (türk ticaret kanunu) md. 376-377 ve md. 633: yönetim kurulunun öz kaynak korumasına ilişkin yükümlülükleri kapsamında, şirketin borca batık olduğunu gösteren ara bilanço çıktığında YK mahkemeye bildirim yapmak zorundadır. Mahkeme gerekli koruma tedbirlerini alır. Bu yükümlülük YK'nın devredilemez görevleri arasında sayılmaktadır (TTK (türk ticaret kanunu) md. 375/f.1/g)."
         },
         {
           "q": "Anonim şirkette 'halka arz taahhüdü yoluyla kuruluş' neden ani kuruluştan farklıdır?",
@@ -621,26 +621,26 @@ window.__C = {
           "e": "Halka arz taahhüdü yoluyla kuruluş, ani kuruluştan farklı olarak payların bir kısmının veya tamamının ilan yoluyla kamuya arz edilerek kuruluş sermayesinin tamamlanmasını öngörür. Bu kuruluş türünde SPK (sermaye piyasası kurulu) mevzuatı uygulanır, izahname zorunluluğu doğar ve daha kapsamlı kamuyu aydınlatma yükümlülükleri ortaya çıkar."
         },
         {
-          "q": "Sürdürülebilir finans bağlamında 'ESG' kısaltmasının açılımı ve şirket yönetimiyle ilişkisi nedir?",
+          "q": "Sürdürülebilir finans bağlamında 'ESG (çevresel, sosyal ve yönetişim)' kısaltmasının açılımı ve şirket yönetimiyle ilişkisi nedir?",
           "o": [
             "A) Ekonomik, Sosyal, Genel — yalnızca muhasebe kapsamında",
             "B) Çevresel (Environmental), Sosyal (Social), Yönetişim (Governance) — şirketin uzun vadeli sürdürülebilirliğini ve risk profilini değerlendiren kriterler",
-            "C) ESG yalnızca halka açık şirketler için geçerlidir",
-            "D) ESG sadece çevre mevzuatıyla ilgilidir"
+            "C) ESG (çevresel, sosyal ve yönetişim) yalnızca halka açık şirketler için geçerlidir",
+            "D) ESG (çevresel, sosyal ve yönetişim) sadece çevre mevzuatıyla ilgilidir"
           ],
           "a": 1,
-          "e": "ESG: Environmental (çevresel) — iklim riski, karbon ayak izi; Social (sosyal) — çalışan hakları, toplum etkisi; Governance (yönetişim) — YK yapısı, şeffaflık, yolsuzlukla mücadele. Kurumsal yatırımcılar ve kredi derecelendirme kuruluşları ESG değerlendirmelerini yatırım ve derecelendirme kararlarında giderek daha fazla esas almaktadır. TTK faaliyet raporu yükümlülükleri ESG raporlamasının hukuki dayanağını oluşturur."
+          "e": "ESG (çevresel, sosyal ve yönetişim): Environmental (çevresel) — iklim riski, karbon ayak izi; Social (sosyal) — çalışan hakları, toplum etkisi; Governance (yönetişim) — YK yapısı, şeffaflık, yolsuzlukla mücadele. Kurumsal yatırımcılar ve kredi derecelendirme kuruluşları ESG (çevresel, sosyal ve yönetişim) değerlendirmelerini yatırım ve derecelendirme kararlarında giderek daha fazla esas almaktadır. TTK (türk ticaret kanunu) faaliyet raporu yükümlülükleri ESG (çevresel, sosyal ve yönetişim) raporlamasının hukuki dayanağını oluşturur."
         },
         {
-          "q": "TTK md. 390 kapsamında YK kararlarının alınmasında 'yazılı karar yöntemi' nedir?",
+          "q": "TTK (türk ticaret kanunu) md. 390 kapsamında YK kararlarının alınmasında 'yazılı karar yöntemi' nedir?",
           "o": [
             "A) YK toplantı tutanaklarının kağıda yazılması",
             "B) Tüm YK üyelerinin bir öneri üzerinde yazılı olarak oylarını açıklamasıyla toplantı yapılmaksızın karar alınması",
             "C) YK kararlarının noter onaylı olması",
-            "D) Yazılı karar yöntemi TTK'da yer almaz"
+            "D) Yazılı karar yöntemi TTK (türk ticaret kanunu)'da yer almaz"
           ],
           "a": 1,
-          "e": "TTK md. 390/4: üyelerden birinin böyle bir karar alınmasını önermesi ve diğer üyelerin tamamının bu öneriye yazılı olarak onay vermesi halinde, YK üyeleri toplantı yapmaksızın geçerli bir karar alabilir. Bu yöntem özellikle acil ve rutin konularda pratikte çok kullanılmakta olup geçerli bir toplantı kararıyla aynı hukuki etkiye sahiptir."
+          "e": "TTK (türk ticaret kanunu) md. 390/4: üyelerden birinin böyle bir karar alınmasını önermesi ve diğer üyelerin tamamının bu öneriye yazılı olarak onay vermesi halinde, YK üyeleri toplantı yapmaksızın geçerli bir karar alabilir. Bu yöntem özellikle acil ve rutin konularda pratikte çok kullanılmakta olup geçerli bir toplantı kararıyla aynı hukuki etkiye sahiptir."
         },
         {
           "q": "Anonim şirkette 'hakkaniyete dayalı (equitable) temsil' ilkesi genel kurulda nasıl uygulanır?",
@@ -651,7 +651,7 @@ window.__C = {
             "D) Yalnızca kurucu pay sahipleri oy kullanabilir"
           ],
           "a": 1,
-          "e": "Oransallık ilkesi gereği oy hakkı pay sayısıyla orantılıdır. TTK md. 479 esas sözleşmeyle imtiyazlı oy tanınmasına izin verir; ancak bir pay en fazla 15 oy hakkına sahip olabilir. Bu sınır tek bir pay sahibinin orantısız kontrol elde etmesini engeller."
+          "e": "Oransallık ilkesi gereği oy hakkı pay sayısıyla orantılıdır. TTK (türk ticaret kanunu) md. 479 esas sözleşmeyle imtiyazlı oy tanınmasına izin verir; ancak bir pay en fazla 15 oy hakkına sahip olabilir. Bu sınır tek bir pay sahibinin orantısız kontrol elde etmesini engeller."
         },
         {
           "q": "Anonim şirkette 'birleşme kararını' almak için hangi ek adım zorunludur?",
@@ -662,7 +662,7 @@ window.__C = {
             "D) Yalnızca ticaret sicili müdürünün onayı yeterlidir"
           ],
           "a": 1,
-          "e": "TTK md. 136 vd.: birleşme için şu adımlar zorunludur: (1) birleşme sözleşmesi ve birleşme raporu hazırlanması, (2) YK'nın GK'ya birleşme için bilgi sunması, (3) GK kararı (nitelikli çoğunlukla), (4) alacaklıların 3 kez ilanla çağrılması ve alacakların güvence altına alınması, (5) ticaret siciline tescil ve Ticaret Sicili Gazetesi'nde ilan. Tüm adımlar tamamlanmadan birleşme hüküm ifade etmez."
+          "e": "TTK (türk ticaret kanunu) md. 136 vd.: birleşme için şu adımlar zorunludur: (1) birleşme sözleşmesi ve birleşme raporu hazırlanması, (2) YK'nın GK'ya birleşme için bilgi sunması, (3) GK kararı (nitelikli çoğunlukla), (4) alacaklıların 3 kez ilanla çağrılması ve alacakların güvence altına alınması, (5) ticaret siciline tescil ve Ticaret Sicili Gazetesi'nde ilan. Tüm adımlar tamamlanmadan birleşme hüküm ifade etmez."
         },
         {
           "q": "Anonim şirkette 'esas sözleşmenin tescil ve ilanının' hukuki önemi nedir?",
@@ -673,7 +673,7 @@ window.__C = {
             "D) Tüzel kişilik GK'nın ilk toplantısında kazanılır"
           ],
           "a": 1,
-          "e": "TTK md. 355: anonim şirket tüzel kişiliğini ticaret siciline tescille kazanır. Tescilden önce şirket adına yapılan işlemler kurucuları şahsen bağlar. İlan ise üçüncü kişilere karşı hüküm ifade eder (TTK md. 35 — tescil ve ilanın olumlu/olumsuz etkisi): ilan yapılmadan tescil edilen hususlar iyiniyetli 3. kişilere karşı ileri sürülemez."
+          "e": "TTK (türk ticaret kanunu) md. 355: anonim şirket tüzel kişiliğini ticaret siciline tescille kazanır. Tescilden önce şirket adına yapılan işlemler kurucuları şahsen bağlar. İlan ise üçüncü kişilere karşı hüküm ifade eder (TTK (türk ticaret kanunu) md. 35 — tescil ve ilanın olumlu/olumsuz etkisi): ilan yapılmadan tescil edilen hususlar iyiniyetli 3. kişilere karşı ileri sürülemez."
         },
         {
           "q": "Anonim şirkette 'imtiyazlı pay sahipleri kurulu' nedir ve ne zaman toplanır?",
@@ -681,13 +681,13 @@ window.__C = {
             "A) Şirketin rutin kararları için toplanan bir kurul",
             "B) Esas sözleşme değişikliği imtiyazlı pay sahiplerinin haklarını zedeleyecekse, bu pay sahiplerinin kendi aralarında toplanarak değişikliği onayladıkları özel kurul",
             "C) Yalnızca tasfiye kararında toplanır",
-            "D) İmtiyazlı pay sahipleri kurulu TTK'da yer almaz"
+            "D) İmtiyazlı pay sahipleri kurulu TTK (türk ticaret kanunu)'da yer almaz"
           ],
           "a": 1,
-          "e": "TTK md. 454: esas sözleşme değişikliği imtiyazlı pay sahiplerinin haklarını etkiliyor ya da onlara yükümlülük getiriyorsa, normal GK kararının yanı sıra etkilenen imtiyazlı pay sahiplerinin de kendi aralarında toplanarak temsil edilen imtiyazlı payların %60'ıyla onay vermesi gerekmektedir. Bu kurul imtiyazlı pay sahiplerini çoğunluk baskısına karşı korur."
+          "e": "TTK (türk ticaret kanunu) md. 454: esas sözleşme değişikliği imtiyazlı pay sahiplerinin haklarını etkiliyor ya da onlara yükümlülük getiriyorsa, normal GK kararının yanı sıra etkilenen imtiyazlı pay sahiplerinin de kendi aralarında toplanarak temsil edilen imtiyazlı payların %60'ıyla onay vermesi gerekmektedir. Bu kurul imtiyazlı pay sahiplerini çoğunluk baskısına karşı korur."
         },
         {
-          "q": "TTK'ya göre anonim şirkette denetçinin 'görevden alınması' ve 'istifası' konusundaki kurallar nelerdir?",
+          "q": "TTK (türk ticaret kanunu)'ya göre anonim şirkette denetçinin 'görevden alınması' ve 'istifası' konusundaki kurallar nelerdir?",
           "o": [
             "A) Denetçi her zaman GK tarafından görevden alınabilir; istifa için izin gerekmez",
             "B) Denetçi GK kararıyla görevden alınabilir; ancak denetçinin istifası zamanında yapılmalı ve şirkete zararı asgari düzeyde tutacak şekilde gerçekleştirilmelidir",
@@ -695,23 +695,23 @@ window.__C = {
             "D) Denetçi istifa edemez; ancak görevi sona erebilir"
           ],
           "a": 1,
-          "e": "Denetçi GK tarafından görevden alınabilir (haklı sebep gerekmez). Denetçinin istifası ise zamanında yapılmalı ve şirkete gereksiz zarar vermemeli; istifanın gerekçesi ve zamanlaması denetçinin GK bildirgesiyle açıklanmalıdır. TTK md. 399 ayrıca KGK'nın denetçi değişikliğine müdahale yetkisini düzenler."
+          "e": "Denetçi GK tarafından görevden alınabilir (haklı sebep gerekmez). Denetçinin istifası ise zamanında yapılmalı ve şirkete gereksiz zarar vermemeli; istifanın gerekçesi ve zamanlaması denetçinin GK bildirgesiyle açıklanmalıdır. TTK (türk ticaret kanunu) md. 399 ayrıca KGK (kamu gözetimi kurumu)'nın denetçi değişikliğine müdahale yetkisini düzenler."
         },
         {
           "q": "Anonim şirkette 'tür değiştirme' nasıl gerçekleşir?",
           "o": [
             "A) Tür değiştirme şirketin sona ermesini gerektirir; yeni şirket kurulur",
             "B) Tür değiştirmede şirketin hukuki kimliği ve malvarlığı aynı kalır; yalnızca hukuki yapısı değişir; GK kararı ve tescil zorunludur",
-            "C) Tür değiştirme TTK'da öngörülmemiştir",
+            "C) Tür değiştirme TTK (türk ticaret kanunu)'da öngörülmemiştir",
             "D) Tür değiştirme yalnızca limited şirketin anonim şirkete dönüşümü için mümkündür"
           ],
           "a": 1,
-          "e": "TTK md. 180-190: tür değiştirmede şirketin tüzel kişiliği sona ermez; devam eder. Şirketin tüm aktif ve pasifleri, hak ve yükümlülükleri yeni hukuki form altındaki şirkete geçer. GK kararı ve ticaret siciline tescil zorunludur; alacaklılar 3 kez ilan yoluyla bildirilir."
+          "e": "TTK (türk ticaret kanunu) md. 180-190: tür değiştirmede şirketin tüzel kişiliği sona ermez; devam eder. Şirketin tüm aktif ve pasifleri, hak ve yükümlülükleri yeni hukuki form altındaki şirkete geçer. GK kararı ve ticaret siciline tescil zorunludur; alacaklılar 3 kez ilan yoluyla bildirilir."
         }
       ],
       "t4": [
         {
-          "q": "TTK md. 375'te sayılan 'devredilemez YK yetkileri' arasında 'şirketin borca batık olması halinde mahkemeye bildirim' neden yer almaktadır?",
+          "q": "TTK (türk ticaret kanunu) md. 375'te sayılan 'devredilemez YK yetkileri' arasında 'şirketin borca batık olması halinde mahkemeye bildirim' neden yer almaktadır?",
           "o": [
             "A) Sadece alacaklıları korumak için",
             "B) YK'nın şirketin finansal durumunu sürekli izleme ve kriz anında derhal harekete geçme sorumluluğunu taşıdığını; bu sorumluluğun devredilemeyeceğini vurgulamak için",
@@ -730,7 +730,7 @@ window.__C = {
             "D) Özen borcu muhasebe konularında; bağlılık borcu insan kaynakları konularında geçerlidir"
           ],
           "a": 1,
-          "e": "TTK md. 369: özen borcu, yöneticinin karar alırken tedbirli bir iş insanının standartlarında hareket etmesini gerektirir (nesnel ölçüt). Bağlılık borcu ise şirket çıkarlarını kişisel çıkarların önüne koyma, rakip faaliyet yürütmeme ve gizli bilgileri kullanmama yükümlülüğünü kapsar (çıkar çatışmasını önleme). İkisi birbirini tamamlar ama farklı yükümlülüklerdir."
+          "e": "TTK (türk ticaret kanunu) md. 369: özen borcu, yöneticinin karar alırken tedbirli bir iş insanının standartlarında hareket etmesini gerektirir (nesnel ölçüt). Bağlılık borcu ise şirket çıkarlarını kişisel çıkarların önüne koyma, rakip faaliyet yürütmeme ve gizli bilgileri kullanmama yükümlülüğünü kapsar (çıkar çatışmasını önleme). İkisi birbirini tamamlar ama farklı yükümlülüklerdir."
         },
         {
           "q": "Anonim şirkette 'ibra'nın hukuki sonucu nedir ve sınırları var mıdır?",
@@ -741,18 +741,18 @@ window.__C = {
             "D) İbra için oy birliği zorunludur"
           ],
           "a": 1,
-          "e": "TTK md. 558: GK'nın YK'ya verdiği ibra, bilinen ve açıklanan vakıalar açısından YK üyelerini sorumluluktan kurtarır. Ancak ibra kararı; gizlenen, eksik açıklanan veya sonradan ortaya çıkan ihlaller için geçerli değildir. Ayrıca azınlık pay sahipleri ibra kararını reddedebilir ve sorumluluk davası açabilir."
+          "e": "TTK (türk ticaret kanunu) md. 558: GK'nın YK'ya verdiği ibra, bilinen ve açıklanan vakıalar açısından YK üyelerini sorumluluktan kurtarır. Ancak ibra kararı; gizlenen, eksik açıklanan veya sonradan ortaya çıkan ihlaller için geçerli değildir. Ayrıca azınlık pay sahipleri ibra kararını reddedebilir ve sorumluluk davası açabilir."
         },
         {
-          "q": "Anonim şirketin 'esas sözleşmeyle sınırlandırılmış' ve 'TTK'nın emredici hükümleriyle korunan' pay sahibi hakları arasındaki fark nedir?",
+          "q": "Anonim şirketin 'esas sözleşmeyle sınırlandırılmış' ve 'TTK (türk ticaret kanunu)'nın emredici hükümleriyle korunan' pay sahibi hakları arasındaki fark nedir?",
           "o": [
             "A) Her iki haklar da esas sözleşmeyle değiştirilebilir",
-            "B) TTK'nın emredici hükümlerle koruduğu temel haklar (GK'ya katılım, oy, bilgi alma) hiçbir şekilde kaldırılamaz; esas sözleşmeyle yalnızca izin verilen alanlarda ek düzenleme yapılabilir",
-            "C) Esas sözleşme her halükarda TTK'dan önce gelir",
+            "B) TTK (türk ticaret kanunu)'nın emredici hükümlerle koruduğu temel haklar (GK'ya katılım, oy, bilgi alma) hiçbir şekilde kaldırılamaz; esas sözleşmeyle yalnızca izin verilen alanlarda ek düzenleme yapılabilir",
+            "C) Esas sözleşme her halükarda TTK (türk ticaret kanunu)'dan önce gelir",
             "D) Pay sahipliği hakları yalnızca mahkeme kararıyla kısıtlanabilir"
           ],
           "a": 1,
-          "e": "TTK, bazı pay sahipliği haklarını emredici olarak korumuştur: GK'ya katılma ve oy hakkı, kâr payı hakkı (dürüst resim koşuluyla), bilgi alma hakkı, iptal davası hakkı gibi temel haklar esas sözleşmeyle ortadan kaldırılamaz veya özünden zedeleyecek şekilde sınırlandırılamaz. Esas sözleşme bu hakları genişletebilir ya da kanunun 'isteğe bağlı' bıraktığı alanlarda düzenleme yapabilir."
+          "e": "TTK (türk ticaret kanunu), bazı pay sahipliği haklarını emredici olarak korumuştur: GK'ya katılma ve oy hakkı, kâr payı hakkı (dürüst resim koşuluyla), bilgi alma hakkı, iptal davası hakkı gibi temel haklar esas sözleşmeyle ortadan kaldırılamaz veya özünden zedeleyecek şekilde sınırlandırılamaz. Esas sözleşme bu hakları genişletebilir ya da kanunun 'isteğe bağlı' bıraktığı alanlarda düzenleme yapabilir."
         },
         {
           "q": "Anonim şirkette 'tasfiye halinde şirketi temsil etme' yetkisi kime aittir?",
@@ -763,7 +763,7 @@ window.__C = {
             "D) İflas memurunun atanmasına kadar şirketi kimse temsil edemez"
           ],
           "a": 1,
-          "e": "TTK md. 536: tasfiye halindeki anonim şirketi tasfiye memurları temsil eder. GK tarafından başka kişiler atanmamışsa YK üyeleri, şirketin tescil ve ilan tarihinden itibaren tasfiye memuru sıfatını kazanır. Tasfiye halinde şirket 'tasfiye halinde' ibaresiyle unvanını kullanmaya devam eder; tüzel kişilik tasfiye bitene kadar sürer."
+          "e": "TTK (türk ticaret kanunu) md. 536: tasfiye halindeki anonim şirketi tasfiye memurları temsil eder. GK tarafından başka kişiler atanmamışsa YK üyeleri, şirketin tescil ve ilan tarihinden itibaren tasfiye memuru sıfatını kazanır. Tasfiye halinde şirket 'tasfiye halinde' ibaresiyle unvanını kullanmaya devam eder; tüzel kişilik tasfiye bitene kadar sürer."
         },
         {
           "q": "Bölünme işleminde 'müteselsil sorumluluk' ilkesi nasıl uygulanır?",
@@ -774,10 +774,10 @@ window.__C = {
             "D) Yalnızca alacaklı talep ederse müteselsil sorumluluk doğar"
           ],
           "a": 1,
-          "e": "TTK md. 175: bölünmede bölünen şirketin ve devralan şirketlerin alacaklılara karşı müteselsil sorumluluğu söz konusudur. Bu sorumluluk sınırlı tutulmuş olup her şirket yalnızca kendisine geçen net malvarlığı değeri oranında sorumludur; ancak 5 yıllık genel sorumluluk süresi de mevcuttur."
+          "e": "TTK (türk ticaret kanunu) md. 175: bölünmede bölünen şirketin ve devralan şirketlerin alacaklılara karşı müteselsil sorumluluğu söz konusudur. Bu sorumluluk sınırlı tutulmuş olup her şirket yalnızca kendisine geçen net malvarlığı değeri oranında sorumludur; ancak 5 yıllık genel sorumluluk süresi de mevcuttur."
         },
         {
-          "q": "TTK'ya göre anonim şirkette 'kâr payı' ne zaman ve nasıl dağıtılabilir?",
+          "q": "TTK (türk ticaret kanunu)'ya göre anonim şirkette 'kâr payı' ne zaman ve nasıl dağıtılabilir?",
           "o": [
             "A) YK kararıyla her zaman dağıtılabilir",
             "B) Yıl sonu finansal tabloların onaylanmasının ardından GK tarafından belirlenen miktarda; yasal ve ihtiyari yedekler ayrıldıktan sonra kalan kâr dağıtılabilir",
@@ -785,10 +785,10 @@ window.__C = {
             "D) Kâr payı dağıtımı için tüm pay sahiplerinin onayı zorunludur"
           ],
           "a": 1,
-          "e": "TTK md. 507-511: kâr payı hakkı ancak yıl sonu finansal tabloların onaylandığı GK toplantısında ortaya çıkar. GK net dönem kârından önce yasal yedek akçeyi (%5 — kanuni yedek akçe), ihtiyari yedekleri ve varsa geçmiş yıl zararlarını düştükten sonra kalan kâr üzerinden kâr payı dağıtımına karar verir. Finansal tablolar yanlışsa dağıtılamaz."
+          "e": "TTK (türk ticaret kanunu) md. 507-511: kâr payı hakkı ancak yıl sonu finansal tabloların onaylandığı GK toplantısında ortaya çıkar. GK net dönem kârından önce yasal yedek akçeyi (%5 — kanuni yedek akçe), ihtiyari yedekleri ve varsa geçmiş yıl zararlarını düştükten sonra kalan kâr üzerinden kâr payı dağıtımına karar verir. Finansal tablolar yanlışsa dağıtılamaz."
         },
         {
-          "q": "Anonim şirketin işletme konusu dışında yaptığı işlemlerin TTK kapsamında geçerliliği nedir?",
+          "q": "Anonim şirketin işletme konusu dışında yaptığı işlemlerin TTK (türk ticaret kanunu) kapsamında geçerliliği nedir?",
           "o": [
             "A) Ultra vires ilkesi hâlâ geçerli; konu dışı işlemler geçersizdir",
             "B) Ultra vires kaldırıldığından konu dışı işlemler üçüncü kişilere karşı geçerlidir; ancak ihlal eden YK üyeleri şirkete karşı sorumlu olabilir",
@@ -796,10 +796,10 @@ window.__C = {
             "D) Yalnızca büyük anonim şirketler için ultra vires uygulanmaz"
           ],
           "a": 1,
-          "e": "6102 sayılı TTK ile ultra vires ilkesi kaldırılmıştır. Şirketin işletme konusu dışında yaptığı işlemler artık 3. kişilere karşı geçersiz sayılmaz. Ancak bu kuralın ihlali, şirkete zarar vermesi halinde işlemi yapan YK üyesinin şirkete karşı sorumluluğunu doğurabilir."
+          "e": "6102 sayılı TTK (türk ticaret kanunu) ile ultra vires ilkesi kaldırılmıştır. Şirketin işletme konusu dışında yaptığı işlemler artık 3. kişilere karşı geçersiz sayılmaz. Ancak bu kuralın ihlali, şirkete zarar vermesi halinde işlemi yapan YK üyesinin şirkete karşı sorumluluğunu doğurabilir."
         },
         {
-          "q": "TTK md. 537'ye göre tasfiye memurlarının alacaklı çağrısı kaç kez yapılmak zorundadır?",
+          "q": "TTK (türk ticaret kanunu) md. 537'ye göre tasfiye memurlarının alacaklı çağrısı kaç kez yapılmak zorundadır?",
           "o": [
             "A) 1 kez",
             "B) 2 kez",
@@ -807,7 +807,7 @@ window.__C = {
             "D) 4 kez"
           ],
           "a": 2,
-          "e": "TTK md. 543: tasfiye memurları şirketin alacaklılarını, Türkiye Ticaret Sicili Gazetesi'nde üç defa yayımlanacak ilanla ve şirketin internet sitesinde duyurarak alacaklarını bildirmeye davet eder. Bildirilen alacaklar ödenir ya da güvence altına alınır. Bu zorunluluk, alacaklıların tasfiye sürecinden haberdar olarak haklarını kullanabilmesini güvence altına alır."
+          "e": "TTK (türk ticaret kanunu) md. 543: tasfiye memurları şirketin alacaklılarını, Türkiye Ticaret Sicili Gazetesi'nde üç defa yayımlanacak ilanla ve şirketin internet sitesinde duyurarak alacaklarını bildirmeye davet eder. Bildirilen alacaklar ödenir ya da güvence altına alınır. Bu zorunluluk, alacaklıların tasfiye sürecinden haberdar olarak haklarını kullanabilmesini güvence altına alır."
         },
         {
           "q": "Anonim şirkette 'özel denetçi atanması' hakkı kim tarafından kullanılabilir?",
@@ -818,10 +818,10 @@ window.__C = {
             "D) Özel denetçi atanması yalnızca mahkeme kararıyla mümkündür"
           ],
           "a": 1,
-          "e": "TTK md. 438: her pay sahibi, şirketle ilgili belirli konuların aydınlatılması amacıyla özel denetçi atanmasını GK'dan talep edebilir. GK talebini reddederse veya talepten önce şirkete başvurulmuş ve reddedilmiş ise, pay sahibi mahkemeden özel denetçi atanmasını isteyebilir. Bu haktan önceden vazgeçilemez."
+          "e": "TTK (türk ticaret kanunu) md. 438: her pay sahibi, şirketle ilgili belirli konuların aydınlatılması amacıyla özel denetçi atanmasını GK'dan talep edebilir. GK talebini reddederse veya talepten önce şirkete başvurulmuş ve reddedilmiş ise, pay sahibi mahkemeden özel denetçi atanmasını isteyebilir. Bu haktan önceden vazgeçilemez."
         },
         {
-          "q": "TTK'ya göre anonim şirkette 'fesih davası' hangi hallerde açılabilir?",
+          "q": "TTK (türk ticaret kanunu)'ya göre anonim şirkette 'fesih davası' hangi hallerde açılabilir?",
           "o": [
             "A) Yalnızca şirketin zarar etmesi halinde",
             "B) Organ eksikliği, şirket amacının gerçekleşmesinin imkânsızlığı, kamu yararı gibi nedenlerle 'herhangi bir ilgili kişi' veya Gümrük ve Ticaret Bakanlığı tarafından",
@@ -829,43 +829,43 @@ window.__C = {
             "D) Fesih davası yalnızca hâkim pay sahipliği değişikliğinde açılabilir"
           ],
           "a": 1,
-          "e": "TTK md. 530-531: haklı sebeplerin varlığında herhangi bir pay sahibi şirketin feshine karar verilmesini mahkemeden talep edebilir. Ek olarak, şirketin tescilinden sonra ortaya çıkan ve giderilmesi mümkün olmayan kanuna veya esas sözleşmeye aykırılık varsa Bakanlık da fesih talebinde bulunabilir. Organ eksikliği ise ayrıca düzenlenmiştir (TTK md. 530)."
+          "e": "TTK (türk ticaret kanunu) md. 530-531: haklı sebeplerin varlığında herhangi bir pay sahibi şirketin feshine karar verilmesini mahkemeden talep edebilir. Ek olarak, şirketin tescilinden sonra ortaya çıkan ve giderilmesi mümkün olmayan kanuna veya esas sözleşmeye aykırılık varsa Bakanlık da fesih talebinde bulunabilir. Organ eksikliği ise ayrıca düzenlenmiştir (TTK (türk ticaret kanunu) md. 530)."
         },
         {
           "q": "Anonim şirkette YK üyesinin 'cezai sorumluluğu' hangi hallerde ortaya çıkabilir?",
           "o": [
             "A) Yalnızca vergi kaçakçılığında",
-            "B) TTK md. 562 vd.: yanlış beyan, defterlerin usulsüz tutulması, sermayenin korunmasına ilişkin hükümlerin ihlali, borca batıklık bildiriminin geciktirilmesi gibi hallerde adli para veya hapis cezası öngörülmüştür",
+            "B) TTK (türk ticaret kanunu) md. 562 vd.: yanlış beyan, defterlerin usulsüz tutulması, sermayenin korunmasına ilişkin hükümlerin ihlali, borca batıklık bildiriminin geciktirilmesi gibi hallerde adli para veya hapis cezası öngörülmüştür",
             "C) Cezai sorumluluk yalnızca genel müdür için geçerlidir",
             "D) YK üyeleri hiçbir zaman cezai sorumlulukla karşılaşmaz"
           ],
           "a": 1,
-          "e": "TTK'nın 562. ve devam maddelerinde, YK üyelerine yönelik çeşitli cezai yaptırımlar yer almaktadır: kurulta yanlış beyanda bulunmak, belge ve defterleri gizlemek, yanlış finansal tablo düzenlemek, borca batıklık bildirimi yapmamak, sermayeye karşı suçlar gibi eylemlere adli para cezası veya hapis cezası öngörülmüştür."
+          "e": "TTK (türk ticaret kanunu)'nın 562. ve devam maddelerinde, YK üyelerine yönelik çeşitli cezai yaptırımlar yer almaktadır: kurulta yanlış beyanda bulunmak, belge ve defterleri gizlemek, yanlış finansal tablo düzenlemek, borca batıklık bildirimi yapmamak, sermayeye karşı suçlar gibi eylemlere adli para cezası veya hapis cezası öngörülmüştür."
         },
         {
           "q": "Anonim şirkette 'kayıtlı sermaye sistemi' nedir ve kimlere açıktır?",
           "o": [
             "A) Her anonim şirket kayıtlı sermaye sistemini benimseyebilir",
-            "B) Esas sermaye yerine azami üst sınır belirlenen sistem; başlangıçta yalnızca halka açık anonim şirketler kullanabilirken TTK ile halka açık olmayan şirketlere de açılmıştır",
+            "B) Esas sermaye yerine azami üst sınır belirlenen sistem; başlangıçta yalnızca halka açık anonim şirketler kullanabilirken TTK (türk ticaret kanunu) ile halka açık olmayan şirketlere de açılmıştır",
             "C) Yalnızca devlet şirketlerine özgüdür",
-            "D) Kayıtlı sermaye sistemi TTK'da yer almaz"
+            "D) Kayıtlı sermaye sistemi TTK (türk ticaret kanunu)'da yer almaz"
           ],
           "a": 1,
-          "e": "Kayıtlı sermaye sistemi: şirket esas sözleşmesinde azami bir sermaye tavanı (kayıtlı sermaye) belirlenir ve YK bu tavan içinde GK kararı almaksızın sermayeyi artırabilir. Bu sistem esneklik sağlar. Başlangıçta yalnızca halka açık şirketlere tanınan bu imkân, TTK ile halka açık olmayan anonim şirketlere de açılmıştır (başlangıç sermayesi min 100.000 TL)."
+          "e": "Kayıtlı sermaye sistemi: şirket esas sözleşmesinde azami bir sermaye tavanı (kayıtlı sermaye) belirlenir ve YK bu tavan içinde GK kararı almaksızın sermayeyi artırabilir. Bu sistem esneklik sağlar. Başlangıçta yalnızca halka açık şirketlere tanınan bu imkân, TTK (türk ticaret kanunu) ile halka açık olmayan anonim şirketlere de açılmıştır (başlangıç sermayesi min 100.000 TL)."
         },
         {
           "q": "Anonim şirket genel kurulunda 'gündem dışı' konuların görüşülmesi mümkün müdür?",
           "o": [
             "A) GK her konuyu gündem dışı olarak görüşüp karar alabilir",
-            "B) Kural olarak gündem dışı konu görüşülemez; ancak belirli bilgi alma talepleri ve TTK'nın izin verdiği bazı konular istisnayı oluşturur",
+            "B) Kural olarak gündem dışı konu görüşülemez; ancak belirli bilgi alma talepleri ve TTK (türk ticaret kanunu)'nın izin verdiği bazı konular istisnayı oluşturur",
             "C) Gündem belirlenirken tüm konular önceden sabitlenemeyeceğinden her konuda serbestçe karar alınabilir",
             "D) Gündem dışı konu yalnızca GK başkanının onayıyla görüşülebilir"
           ],
           "a": 1,
-          "e": "TTK md. 413: genel kurulda yalnızca gündemde yer alan konular görüşülüp karara bağlanır. İstisnalar: bilgi alma (md. 437 kapsamında anlık bilgi taleplerini içerebilir); Kanun'un açıkça izin verdiği konular (örn. murakıpların ibrasında gündem maddesi olmaksızın görüş bildirilebilir). Kanuna aykırı biçimde gündem dışı alınan kararlar iptal davasına konu olabilir."
+          "e": "TTK (türk ticaret kanunu) md. 413: genel kurulda yalnızca gündemde yer alan konular görüşülüp karara bağlanır. İstisnalar: bilgi alma (md. 437 kapsamında anlık bilgi taleplerini içerebilir); Kanun'un açıkça izin verdiği konular (örn. murakıpların ibrasında gündem maddesi olmaksızın görüş bildirilebilir). Kanuna aykırı biçimde gündem dışı alınan kararlar iptal davasına konu olabilir."
         },
         {
-          "q": "TTK'ya göre anonim şirkette 'azınlık olağanüstü GK toplantısı' talep edebilmesi için gereken oran nedir?",
+          "q": "TTK (türk ticaret kanunu)'ya göre anonim şirkette 'azınlık olağanüstü GK toplantısı' talep edebilmesi için gereken oran nedir?",
           "o": [
             "A) Sermayenin %5'i",
             "B) Sermayenin %10'u",
@@ -873,10 +873,10 @@ window.__C = {
             "D) Sermayenin %50'si"
           ],
           "a": 1,
-          "e": "TTK md. 411: esas sermayenin en az %10'una sahip pay sahipleri, gündem maddelerini de belirterek yönetim kurulundan olağanüstü genel kurul toplantısı yapılmasını yazılı olarak talep edebilir. YK bu talebi haklı bir sebep olmaksızın reddederse, azınlık doğrudan mahkemeye başvurabilir."
+          "e": "TTK (türk ticaret kanunu) md. 411: esas sermayenin en az %10'una sahip pay sahipleri, gündem maddelerini de belirterek yönetim kurulundan olağanüstü genel kurul toplantısı yapılmasını yazılı olarak talep edebilir. YK bu talebi haklı bir sebep olmaksızın reddederse, azınlık doğrudan mahkemeye başvurabilir."
         },
         {
-          "q": "Anonim şirkette 'YK'nın alacaklılara karşı sorumluluğu' (TTK md. 553/2) hangi koşulda doğar?",
+          "q": "Anonim şirkette 'YK'nın alacaklılara karşı sorumluluğu' (TTK (türk ticaret kanunu) md. 553/2) hangi koşulda doğar?",
           "o": [
             "A) Her türlü zarar için YK alacaklılara sorumludur",
             "B) Şirket malvarlığının yasal yükümlülüklerin karşılanmasına yetmemesi halinde alacaklılar doğrudan YK üyelerine dava açabilir; şirkete değil",
@@ -884,7 +884,7 @@ window.__C = {
             "D) Yalnızca iflas durumunda alacaklılar YK'ya dava açabilir"
           ],
           "a": 1,
-          "e": "TTK md. 553/2: şirketin alacaklıları, şirket malvarlığının alacaklarını karşılamaya yetmemesi durumunda doğrudan YK üyelerine tazminat davası açabilir. Bu 'doğrudan zarar' davası özellikle borca batık durumdaki şirketlerde önem taşır. Ancak sorumluluk için kusur + zarar + illiyet bağı şartlarının birlikte bulunması gerekir."
+          "e": "TTK (türk ticaret kanunu) md. 553/2: şirketin alacaklıları, şirket malvarlığının alacaklarını karşılamaya yetmemesi durumunda doğrudan YK üyelerine tazminat davası açabilir. Bu 'doğrudan zarar' davası özellikle borca batık durumdaki şirketlerde önem taşır. Ancak sorumluluk için kusur + zarar + illiyet bağı şartlarının birlikte bulunması gerekir."
         },
         {
           "q": "Anonim şirkette 'YK kararlarının yazılı onay yöntemiyle alınması' için hangi koşul aranır?",
@@ -892,21 +892,21 @@ window.__C = {
             "A) GK onayı zorunludur",
             "B) Tüm YK üyelerinin öneri üzerinde yazılı olarak olumlu oy vermiş olması",
             "C) Yalnızca çoğunluğun yazılı onayı yeterlidir",
-            "D) Yazılı onay yöntemi TTK'da öngörülmemiştir"
+            "D) Yazılı onay yöntemi TTK (türk ticaret kanunu)'da öngörülmemiştir"
           ],
           "a": 1,
-          "e": "TTK md. 390/4: yazılı onay yöntemi için tüm YK üyelerinin — toplantı yapılmaksızın — tek bir öneri üzerinde yazılı olarak olumlu oy vermesi zorunludur. Tek bir üyenin toplantı isteği bile bu yöntemi geçersiz kılar. Bu nedenle yazılı onay yöntemi ancak tüm üyelerin mutabakatında geçerlidir."
+          "e": "TTK (türk ticaret kanunu) md. 390/4: yazılı onay yöntemi için tüm YK üyelerinin — toplantı yapılmaksızın — tek bir öneri üzerinde yazılı olarak olumlu oy vermesi zorunludur. Tek bir üyenin toplantı isteği bile bu yöntemi geçersiz kılar. Bu nedenle yazılı onay yöntemi ancak tüm üyelerin mutabakatında geçerlidir."
         },
         {
           "q": "Anonim şirkette 'bağımsız denetçinin seçilmesi' yetkisi kime aittir?",
           "o": [
             "A) YK seçer; GK onaylar",
             "B) Genel kurul seçer; denetim komitesinin önerisi önemli rol oynar",
-            "C) KGK doğrudan atar",
+            "C) KGK (kamu gözetimi kurumu) doğrudan atar",
             "D) Şirketin kurucu ortakları belirler"
           ],
           "a": 1,
-          "e": "TTK md. 399: bağımsız denetçi genel kurul tarafından seçilir. Uygulamada denetim komitesi veya YK, belirli kriterlere göre bir veya birkaç aday önerir; GK bu öneriler arasından seçim yapar ya da onaylar. SPK (sermaye piyasası kurulu)'ya tabi şirketlerde denetim komitesinin önerisinin önemi daha belirgindir."
+          "e": "TTK (türk ticaret kanunu) md. 399: bağımsız denetçi genel kurul tarafından seçilir. Uygulamada denetim komitesi veya YK, belirli kriterlere göre bir veya birkaç aday önerir; GK bu öneriler arasından seçim yapar ya da onaylar. SPK (sermaye piyasası kurulu)'ya tabi şirketlerde denetim komitesinin önerisinin önemi daha belirgindir."
         },
         {
           "q": "'Birleşme raporu' nedir ve niçin zorunludur?",
@@ -917,10 +917,10 @@ window.__C = {
             "D) Birleşme raporu GK kararından sonra hazırlanır"
           ],
           "a": 1,
-          "e": "TTK md. 147: birleşmeye katılan şirketlerin yönetim organları birleşme raporunu birlikte ya da ayrı ayrı hazırlar. Rapor; birleşmenin amacını ve sonuçlarını, pay değişim oranını ve bu oranın belirlenmesinde kullanılan yöntemleri, değerleme güçlüklerini, pay sahiplerine etkilerini açıklar. Bu belge GK toplantısından önce pay sahiplerinin incelemesine sunulur."
+          "e": "TTK (türk ticaret kanunu) md. 147: birleşmeye katılan şirketlerin yönetim organları birleşme raporunu birlikte ya da ayrı ayrı hazırlar. Rapor; birleşmenin amacını ve sonuçlarını, pay değişim oranını ve bu oranın belirlenmesinde kullanılan yöntemleri, değerleme güçlüklerini, pay sahiplerine etkilerini açıklar. Bu belge GK toplantısından önce pay sahiplerinin incelemesine sunulur."
         },
         {
-          "q": "Anonim şirkette 'genel kurulun olağan toplantı takvimi' TTK'ya göre nedir?",
+          "q": "Anonim şirkette 'genel kurulun olağan toplantı takvimi' TTK (türk ticaret kanunu)'ya göre nedir?",
           "o": [
             "A) GK 2 yılda bir toplanır",
             "B) Her yıl hesap dönemi sona ermesinden itibaren 3 ay içinde olağan GK toplantısı yapılmalıdır",
@@ -928,34 +928,34 @@ window.__C = {
             "D) Olağan toplantı yılda iki kez zorunludur"
           ],
           "a": 1,
-          "e": "TTK md. 409: olağan GK toplantısı her yıl hesap döneminin kapanmasından itibaren üç ay içinde yapılmak zorundadır. Bu toplantıda finansal tablolar ve faaliyet raporu müzakere edilir ve onaylanır; YK seçimi, denetçi seçimi, kâr payı dağıtımı ve YK'nın ibrası gibi zorunlu gündem maddeleri görüşülür."
+          "e": "TTK (türk ticaret kanunu) md. 409: olağan GK toplantısı her yıl hesap döneminin kapanmasından itibaren üç ay içinde yapılmak zorundadır. Bu toplantıda finansal tablolar ve faaliyet raporu müzakere edilir ve onaylanır; YK seçimi, denetçi seçimi, kâr payı dağıtımı ve YK'nın ibrası gibi zorunlu gündem maddeleri görüşülür."
         }
       ],
       "t5": [
         {
-          "q": "TTK'da 'şirket birleşmesinde küçük bölünme ayrıcalığı' (basitleştirilmiş birleşme) hangi koşullarda mümkündür?",
+          "q": "TTK (türk ticaret kanunu)'da 'şirket birleşmesinde küçük bölünme ayrıcalığı' (basitleştirilmiş birleşme) hangi koşullarda mümkündür?",
           "o": [
             "A) Her birleşmede uygulanır",
             "B) Devrolunan şirketin tüm paylarına devralan şirket sahipse veya her iki şirketin payları aynı kişilere aitse uzmanlaşmış kolaylaştırılmış birleşme prosedürü uygulanabilir",
             "C) Yalnızca küçük ölçekli şirketler için geçerlidir",
-            "D) Basitleştirilmiş birleşme TTK'da yer almamaktadır"
+            "D) Basitleştirilmiş birleşme TTK (türk ticaret kanunu)'da yer almamaktadır"
           ],
           "a": 1,
-          "e": "TTK md. 155: devrolunan şirketin tüm paylarının devralan şirkete ait olması halinde (tam bağlı şirket) veya her iki şirketin tüm paylarının aynı kişi ya da kişilere ait olması halinde (kardeş şirketler) basitleştirilmiş birleşme prosedürü uygulanabilir. Bu prosedürde devralan şirkette sermaye artırımına ve ayrıntılı raporlara gerek kalmayabilir."
+          "e": "TTK (türk ticaret kanunu) md. 155: devrolunan şirketin tüm paylarının devralan şirkete ait olması halinde (tam bağlı şirket) veya her iki şirketin tüm paylarının aynı kişi ya da kişilere ait olması halinde (kardeş şirketler) basitleştirilmiş birleşme prosedürü uygulanabilir. Bu prosedürde devralan şirkette sermaye artırımına ve ayrıntılı raporlara gerek kalmayabilir."
         },
         {
-          "q": "Anonim şirkette 'kurucu menfaatleri' TTK kapsamında nasıl düzenlenmiştir?",
+          "q": "Anonim şirkette 'kurucu menfaatleri' TTK (türk ticaret kanunu) kapsamında nasıl düzenlenmiştir?",
           "o": [
             "A) Kurucular her türlü menfaat talep edebilir",
             "B) Kuruluş emeklerinin karşılığı olarak kurucuya tanınan menfaatler esas sözleşmede açıkça belirtilmeli; para veya muadili bir değer üzerinden sınırlandırılmış olmalıdır",
             "C) Kurucu menfaatleri vergiye tabidir; başka sınırlama yoktur",
-            "D) TTK'da kurucu menfaatlerine ilişkin düzenleme yoktur"
+            "D) TTK (türk ticaret kanunu)'da kurucu menfaatlerine ilişkin düzenleme yoktur"
           ],
           "a": 1,
-          "e": "TTK md. 350: kuruluş sırasında kurucular, kuruluş emeklerinin karşılığı olarak belirli menfaatler elde edebilir. Ancak bu menfaatler: esas sözleşmede açıkça gösterilmeli, parasal veya parayla ölçülebilir değerde olmalı ve şirkete yüklenen malvarlığının %10'unu geçemeyecek değerde olmalıdır. Bu sınır kurucu menfaatinin şirket aleyhine kullanılmasını önler."
+          "e": "TTK (türk ticaret kanunu) md. 350: kuruluş sırasında kurucular, kuruluş emeklerinin karşılığı olarak belirli menfaatler elde edebilir. Ancak bu menfaatler: esas sözleşmede açıkça gösterilmeli, parasal veya parayla ölçülebilir değerde olmalı ve şirkete yüklenen malvarlığının %10'unu geçemeyecek değerde olmalıdır. Bu sınır kurucu menfaatinin şirket aleyhine kullanılmasını önler."
         },
         {
-          "q": "'Şirketler topluluğunda bağlı şirketin azınlık pay sahiplerine' TTK md. 208 çerçevesinde tanınan 'ayrılma bedeli' nasıl belirlenir?",
+          "q": "'Şirketler topluluğunda bağlı şirketin azınlık pay sahiplerine' TTK (türk ticaret kanunu) md. 208 çerçevesinde tanınan 'ayrılma bedeli' nasıl belirlenir?",
           "o": [
             "A) Nominal değer üzerinden",
             "B) Payların bağımsız bir uzman tarafından belirlenen gerçek (piyasa veya içsel) değeri üzerinden",
@@ -963,7 +963,7 @@ window.__C = {
             "D) Ayrılma bedeli yalnızca borsa fiyatı üzerinden belirlenir"
           ],
           "a": 1,
-          "e": "TTK md. 208: tam hâkimiyet söz konusu olduğunda azınlık pay sahipleri ayrılma bedelini talep edebilir. Ayrılma bedeli, bağımsız bir uzman tarafından belirlenen payların gerçek değeridir. Borsa fiyatı referans alınabilir; ancak şirketin içsel değerini yansıtmayan borsa fiyatı tek başına yeterli olmayabilir. Uyuşmazlıkta mahkeme değer tespiti yapabilir."
+          "e": "TTK (türk ticaret kanunu) md. 208: tam hâkimiyet söz konusu olduğunda azınlık pay sahipleri ayrılma bedelini talep edebilir. Ayrılma bedeli, bağımsız bir uzman tarafından belirlenen payların gerçek değeridir. Borsa fiyatı referans alınabilir; ancak şirketin içsel değerini yansıtmayan borsa fiyatı tek başına yeterli olmayabilir. Uyuşmazlıkta mahkeme değer tespiti yapabilir."
         },
         {
           "q": "Anonim şirkette 'işletme konusunun değiştirilmesi' için hangi özel yetersayı uygulanır?",
@@ -974,7 +974,7 @@ window.__C = {
             "D) Tüm pay sahiplerinin oy birliği"
           ],
           "a": 1,
-          "e": "TTK md. 421/3: anonim şirketin işletme konusunun değiştirilmesi kararı için toplantıda temsil edilen payların en az %75'ini oluşturan pay sahiplerinin olumlu oyu gereklidir. Bu oran, normal esas sözleşme değişikliği için aranan 2/3 yetersayısından daha yüksektir; zira işletme konusu şirketin kuruluş amacını doğrudan etkiler."
+          "e": "TTK (türk ticaret kanunu) md. 421/3: anonim şirketin işletme konusunun değiştirilmesi kararı için toplantıda temsil edilen payların en az %75'ini oluşturan pay sahiplerinin olumlu oyu gereklidir. Bu oran, normal esas sözleşme değişikliği için aranan 2/3 yetersayısından daha yüksektir; zira işletme konusu şirketin kuruluş amacını doğrudan etkiler."
         },
         {
           "q": "Anonim şirkette 'imtiyazlı pay sahiplerinin imtiyazlarını zedeleyen esas sözleşme değişikliğine' ilişkin özel koruma mekanizması nedir?",
@@ -985,7 +985,7 @@ window.__C = {
             "D) Genel kurul salt çoğunlukla imtiyazları kaldırabilir"
           ],
           "a": 1,
-          "e": "TTK md. 454: esas sözleşme değişikliği imtiyazlı pay sahiplerinin haklarını zedeler nitelikteyse bu değişikliğin geçerli olabilmesi için, imtiyazlı pay sahipleri de kendi aralarında toplanarak temsil edilen imtiyazlı payların %60'ıyla değişikliği onaylamak zorundadır. Bu mekanizma azınlık imtiyazlı pay sahiplerini çoğunluğun baskısından korur."
+          "e": "TTK (türk ticaret kanunu) md. 454: esas sözleşme değişikliği imtiyazlı pay sahiplerinin haklarını zedeler nitelikteyse bu değişikliğin geçerli olabilmesi için, imtiyazlı pay sahipleri de kendi aralarında toplanarak temsil edilen imtiyazlı payların %60'ıyla değişikliği onaylamak zorundadır. Bu mekanizma azınlık imtiyazlı pay sahiplerini çoğunluğun baskısından korur."
         },
         {
           "q": "Anonim şirketin 'organ eksikliği' nedeniyle feshedilmesi için mahkeme ne zaman doğrudan fesih kararı verir?",
@@ -996,7 +996,7 @@ window.__C = {
             "D) Yalnızca alacaklıların başvurusuyla fesih kararı verilebilir"
           ],
           "a": 1,
-          "e": "TTK md. 530: mahkeme, organ eksikliğini tespit ettiğinde doğrudan fesih kararı vermez. Öncelikle eksikliğin giderilmesi için uygun bir süre tanır. Bu süre içinde eksiklik giderilirse fesih kararı verilmez. Süre dolmasına rağmen eksiklik giderilmezse mahkeme şirketin feshine hükmeder."
+          "e": "TTK (türk ticaret kanunu) md. 530: mahkeme, organ eksikliğini tespit ettiğinde doğrudan fesih kararı vermez. Öncelikle eksikliğin giderilmesi için uygun bir süre tanır. Bu süre içinde eksiklik giderilirse fesih kararı verilmez. Süre dolmasına rağmen eksiklik giderilmezse mahkeme şirketin feshine hükmeder."
         },
         {
           "q": "Anonim şirkette 'kendi paylarını iktisap etme' (geri alım) sınırı nedir?",
@@ -1007,7 +1007,7 @@ window.__C = {
             "D) Kendi paylarını iktisap yasaktır"
           ],
           "a": 1,
-          "e": "TTK md. 379/1: anonim şirket, esas sözleşmede hüküm bulunmaksızın bile GK kararıyla kendi paylarını iktisap edebilir; ancak toplam iktisap tutarı ödenmiş esas veya çıkarılmış sermayenin %10'unu aşamaz. Bu sınır sermayenin dolaylı yoldan pay sahiplerine iade edilmesini ve şirket malvarlığının azaltılmasını önleme amacı taşır."
+          "e": "TTK (türk ticaret kanunu) md. 379/1: anonim şirket, esas sözleşmede hüküm bulunmaksızın bile GK kararıyla kendi paylarını iktisap edebilir; ancak toplam iktisap tutarı ödenmiş esas veya çıkarılmış sermayenin %10'unu aşamaz. Bu sınır sermayenin dolaylı yoldan pay sahiplerine iade edilmesini ve şirket malvarlığının azaltılmasını önleme amacı taşır."
         },
         {
           "q": "Anonim şirket yönetim kurulunun 'iç yönerge' (iç direktif) düzenleme yetkisi nedir?",
@@ -1015,10 +1015,10 @@ window.__C = {
             "A) İç yönerge yalnızca çalışanlara yönelik prosedürleri kapsar",
             "B) YK, şirketin yönetimini düzenlemek, iş bölümü yapmak ve yetki devretmek amacıyla iç yönerge çıkarabilir; bu yönerge ticaret siciline tescil edildiğinde üçüncü kişilere karşı geçerlilik kazanır",
             "C) İç yönerge GK onayını gerektirir",
-            "D) TTK'da iç yönergeye ilişkin düzenleme yer almaz"
+            "D) TTK (türk ticaret kanunu)'da iç yönergeye ilişkin düzenleme yer almaz"
           ],
           "a": 1,
-          "e": "TTK md. 367-368: YK belirli yönetim görevlerini iç yönerge (iç direktif) ile yöneticilere devredebilir. Bu yönerge ticaret siciline tescil edilmelidir; tescilden sonra üçüncü kişilere karşı hüküm ifade eder ve şirketin temsili ile yönetim yapısını dışarıya karşı belirlemiş olur."
+          "e": "TTK (türk ticaret kanunu) md. 367-368: YK belirli yönetim görevlerini iç yönerge (iç direktif) ile yöneticilere devredebilir. Bu yönerge ticaret siciline tescil edilmelidir; tescilden sonra üçüncü kişilere karşı hüküm ifade eder ve şirketin temsili ile yönetim yapısını dışarıya karşı belirlemiş olur."
         },
         {
           "q": "Anonim şirkette 'pay sahipliği haklarının' 'bireysel' ve 'kolektif' şeklinde sınıflandırılması ne anlama gelir?",
@@ -1040,7 +1040,7 @@ window.__C = {
             "D) SPK (sermaye piyasası kurulu) izni tek başına yeterlidir; GK yetkisi aranmaz"
           ],
           "a": 1,
-          "e": "TTK md. 504-505: YK, GK'dan yetki almak kaydıyla tahvil ve benzeri borçlanma araçları ihraç edebilir. SPK (sermaye piyasası kurulu)'ya tabi anonim şirketlerde izahname veya ihraç belgesi hazırlanması ve SPK (sermaye piyasası kurulu) onayı zorunludur. Bu ihraçlar şirkete alternatif finansman kaynağı sağlarken pay sahibi olmaksızın yatırım imkânı sunar."
+          "e": "TTK (türk ticaret kanunu) md. 504-505: YK, GK'dan yetki almak kaydıyla tahvil ve benzeri borçlanma araçları ihraç edebilir. SPK (sermaye piyasası kurulu)'ya tabi anonim şirketlerde izahname veya ihraç belgesi hazırlanması ve SPK (sermaye piyasası kurulu) onayı zorunludur. Bu ihraçlar şirkete alternatif finansman kaynağı sağlarken pay sahibi olmaksızın yatırım imkânı sunar."
         },
         {
           "q": "Anonim şirkette 'tasfiye payı dağıtımı' için sıralama nedir?",
@@ -1062,10 +1062,10 @@ window.__C = {
             "D) Pay sahipleri yalnızca GK'da oy kullanarak korunur"
           ],
           "a": 1,
-          "e": "TTK md. 182-183: tür değiştirme kararının ardından pay sahiplerine bilgi verilmeli ve inceleme imkânı tanınmalıdır. Özellikle sınırlı sorumluluktan şahsi sorumluluğa geçiş gibi hakları esaslı biçimde değiştiren tür değiştirmelerde etkilenen pay sahiplerine ek haklar ve olası ayrılma imkânı sağlanmalıdır."
+          "e": "TTK (türk ticaret kanunu) md. 182-183: tür değiştirme kararının ardından pay sahiplerine bilgi verilmeli ve inceleme imkânı tanınmalıdır. Özellikle sınırlı sorumluluktan şahsi sorumluluğa geçiş gibi hakları esaslı biçimde değiştiren tür değiştirmelerde etkilenen pay sahiplerine ek haklar ve olası ayrılma imkânı sağlanmalıdır."
         },
         {
-          "q": "Anonim şirkette 'şirketin borca batık olması' durumunda YK'nın yasal yükümlülüğü TTK md. 376'da nasıl düzenlenmiştir?",
+          "q": "Anonim şirkette 'şirketin borca batık olması' durumunda YK'nın yasal yükümlülüğü TTK (türk ticaret kanunu) md. 376'da nasıl düzenlenmiştir?",
           "o": [
             "A) YK hiçbir şey yapmamalı; ticari karar alacaklılara aittir",
             "B) Ara bilanço sonucu öz kaynakların son iki yıllık zararlarla eritildiği görülürse YK gerekli tedbirleri almalı; tam erozyonda ise mahkemeye başvurma zorunludur",
@@ -1073,7 +1073,7 @@ window.__C = {
             "D) Yalnızca denetçi borca batıklık halinde müdahale eder"
           ],
           "a": 1,
-          "e": "TTK md. 376: (1) son iki yıllık zararların toplamı öz kaynakların yarısını eritiyorsa YK zorunlu tedbirler alır ve GK'ya sunar; (2) son iki yıllık zararlar öz kaynakların tamamını aşmışsa YK mahkemeye başvurur. Mahkeme gerekli koruma tedbirlerini alır; aksi hâlde şirketin iflasına karar verebilir. Bu prosedür alacaklıları ve pay sahiplerini koruma amacı taşır."
+          "e": "TTK (türk ticaret kanunu) md. 376: (1) son iki yıllık zararların toplamı öz kaynakların yarısını eritiyorsa YK zorunlu tedbirler alır ve GK'ya sunar; (2) son iki yıllık zararlar öz kaynakların tamamını aşmışsa YK mahkemeye başvurur. Mahkeme gerekli koruma tedbirlerini alır; aksi hâlde şirketin iflasına karar verebilir. Bu prosedür alacaklıları ve pay sahiplerini koruma amacı taşır."
         },
         {
           "q": "Anonim şirkette 'GK kararlarının iptali' davası ile 'butlanı' arasındaki farkın pratik önemi nedir?",
@@ -1087,7 +1087,7 @@ window.__C = {
           "e": "Pratik fark: (1) Süre: iptal davasında 3 aylık hak düşürücü süre; butlanda süre yoktur. (2) Taraflar: iptal davası belirli kişiler (GK'ya katılan itiraz eden pay sahibi, GK'ya çağrılmayan pay sahibi, YK veya münferit üyeler, denetçi); butlan herkes tarafından ileri sürülebilir. (3) Her iki türde karar erga omnes (herkese karşı) etkilidir — GK iptal kararı yalnızca tarafları değil herkesi bağlar."
         },
         {
-          "q": "TTK kapsamında 'birleşme sözleşmesi' hangi temel unsurları içermelidir?",
+          "q": "TTK (türk ticaret kanunu) kapsamında 'birleşme sözleşmesi' hangi temel unsurları içermelidir?",
           "o": [
             "A) Yalnızca tarafların kimlik bilgileri ve imzaları",
             "B) Birleşen şirketlerin ticaret unvanları, birleşme türü, pay değişim oranı, tasfiyesiz infisah eden şirketin mal varlığının devralan şirkete geçişi ve pay sahiplerine verilecek hak ve menfaatler",
@@ -1095,21 +1095,21 @@ window.__C = {
             "D) Sözleşme yalnızca muhasebe verilerini içerir"
           ],
           "a": 1,
-          "e": "TTK md. 145-146: birleşme sözleşmesinin içerdiği zorunlu unsurlar: birleşen şirketlerin kimlik bilgileri; birleşme türü (devralma/yeni kuruluş); devir kapsamındaki aktif ve pasifler; pay değişim oranı ve ayrılma akçesi (varsa); önerilecek esas sözleşme değişiklikleri veya yeni şirket esas sözleşmesi; pay sahiplerine verilecek özel menfaatler. Bu unsurlar şeffaflık ve bilgilendirme yükümlülüğünü karşılar."
+          "e": "TTK (türk ticaret kanunu) md. 145-146: birleşme sözleşmesinin içerdiği zorunlu unsurlar: birleşen şirketlerin kimlik bilgileri; birleşme türü (devralma/yeni kuruluş); devir kapsamındaki aktif ve pasifler; pay değişim oranı ve ayrılma akçesi (varsa); önerilecek esas sözleşme değişiklikleri veya yeni şirket esas sözleşmesi; pay sahiplerine verilecek özel menfaatler. Bu unsurlar şeffaflık ve bilgilendirme yükümlülüğünü karşılar."
         },
         {
-          "q": "TTK kapsamında 'hâkim şirketin bağlı şirketi avantajlı kılma yasağı' neden birlikte ele alınmaz?",
+          "q": "TTK (türk ticaret kanunu) kapsamında 'hâkim şirketin bağlı şirketi avantajlı kılma yasağı' neden birlikte ele alınmaz?",
           "o": [
             "A) Hâkim şirket bağlı şirketi her zaman avantajlı kılabilir",
-            "B) Hâkimiyet hem aleyhte hem lehte kullanılabilir; TTK yalnızca bağlı şirket aleyhine olan hâkimiyet kullanımını yasaklar; lehte uygulamalar kendi başına yasak değildir ama eşit işlem ve hâkimiyetin kötüye kullanılması ilkeleri çerçevesinde değerlendirilebilir",
+            "B) Hâkimiyet hem aleyhte hem lehte kullanılabilir; TTK (türk ticaret kanunu) yalnızca bağlı şirket aleyhine olan hâkimiyet kullanımını yasaklar; lehte uygulamalar kendi başına yasak değildir ama eşit işlem ve hâkimiyetin kötüye kullanılması ilkeleri çerçevesinde değerlendirilebilir",
             "C) Bu tür değerlendirmeler ticaret hukuku kapsamı dışındadır",
             "D) Hâkim şirket hiçbir koşulda bağlı şirketi etkileyemez"
           ],
           "a": 1,
-          "e": "TTK md. 202: hâkim şirketin bağlı şirketi aleyhine kullanılan hâkimiyet (kaynak aktarımı, bağlı şirketi dezavantajlı işleme zorlaması) dengelenme yükümlülüğüne tabidir. Buna karşın hâkim şirketin bağlı şirketi avantajlı kılması (ör. piyasa altı kredi) doğrudan yasaklanmamıştır; ancak bağlı şirketteki azınlık ve alacaklı haklarını zedeleyen avantajlar eşit işlem ilkesi ve şirketin kendi çıkarları çerçevesinde sınırlı kalabilir."
+          "e": "TTK (türk ticaret kanunu) md. 202: hâkim şirketin bağlı şirketi aleyhine kullanılan hâkimiyet (kaynak aktarımı, bağlı şirketi dezavantajlı işleme zorlaması) dengelenme yükümlülüğüne tabidir. Buna karşın hâkim şirketin bağlı şirketi avantajlı kılması (ör. piyasa altı kredi) doğrudan yasaklanmamıştır; ancak bağlı şirketteki azınlık ve alacaklı haklarını zedeleyen avantajlar eşit işlem ilkesi ve şirketin kendi çıkarları çerçevesinde sınırlı kalabilir."
         },
         {
-          "q": "TTK kapsamında anonim şirkette 'tasfiyeden dönüş' mümkün müdür?",
+          "q": "TTK (türk ticaret kanunu) kapsamında anonim şirkette 'tasfiyeden dönüş' mümkün müdür?",
           "o": [
             "A) Tasfiye kararından geri dönülemez",
             "B) Tasfiye işlemlerine başlanmadan, henüz tasfiye kararı aşamasında GK oy birliğiyle tasfiyeden vazgeçebilir",
@@ -1117,7 +1117,7 @@ window.__C = {
             "D) Tasfiyeden dönüş için tüm alacaklıların onayı gerekir"
           ],
           "a": 1,
-          "e": "TTK md. 547: tasfiyeye girmekte olan şirket, tasfiye işlemleri henüz başlamadan, oy birliğiyle alınan GK kararıyla tasfiyeden dönülebilir. Eğer tasfiye aktif olarak sürmüşse tasfiyeden dönüş mümkün değildir. Bu kural pay sahiplerine, tasfiye kararının kesinleşmediği erken aşamada fikir değişikliği imkânı tanır."
+          "e": "TTK (türk ticaret kanunu) md. 547: tasfiyeye girmekte olan şirket, tasfiye işlemleri henüz başlamadan, oy birliğiyle alınan GK kararıyla tasfiyeden dönülebilir. Eğer tasfiye aktif olarak sürmüşse tasfiyeden dönüş mümkün değildir. Bu kural pay sahiplerine, tasfiye kararının kesinleşmediği erken aşamada fikir değişikliği imkânı tanır."
         },
         {
           "q": "Anonim şirkette 'bölünmede alacaklıların çağrılması' prosedürü hangi süreyi kapsar?",
@@ -1128,29 +1128,29 @@ window.__C = {
             "D) Alacaklılar yalnızca bölünme tescilinden sonra çağrılabilir"
           ],
           "a": 1,
-          "e": "TTK md. 173: bölünmede de birleşmede olduğu gibi alacaklılar en az 3 kez ilan yoluyla çağrılır. Bölünme kararının tescilinden itibaren alacaklılar taleplerini bildirmek için çağrılır; alacaklar ödenir ya da güvence altına alınır. Bu koruma olmadan bölünme tescil edilemez."
+          "e": "TTK (türk ticaret kanunu) md. 173: bölünmede de birleşmede olduğu gibi alacaklılar en az 3 kez ilan yoluyla çağrılır. Bölünme kararının tescilinden itibaren alacaklılar taleplerini bildirmek için çağrılır; alacaklar ödenir ya da güvence altına alınır. Bu koruma olmadan bölünme tescil edilemez."
         },
         {
-          "q": "TTK'ya göre anonim şirkette 'azınlık pay sahiplerine özgü haklı sebeplerle' fesih davası açılabilir mi?",
+          "q": "TTK (türk ticaret kanunu)'ya göre anonim şirkette 'azınlık pay sahiplerine özgü haklı sebeplerle' fesih davası açılabilir mi?",
           "o": [
             "A) Fesih davası yalnızca alacaklılara tanınmıştır",
             "B) Haklı sebepler mevcutsa azınlık pay sahipleri de şirketin feshini mahkemeden talep edebilir; fesih yerine katılım paylarının satın alınması da talep edilebilir",
             "C) Fesih davası yalnızca çoğunluk pay sahiplerinin hakkıdır",
-            "D) TTK'da azınlığa fesih davası hakkı tanınmamıştır"
+            "D) TTK (türk ticaret kanunu)'da azınlığa fesih davası hakkı tanınmamıştır"
           ],
           "a": 1,
-          "e": "TTK md. 531: haklı sebepler mevcut olduğunda şirketin herhangi bir pay sahibi (tek pay bile yeterli) mahkemeden şirketin feshine karar verilmesini isteyebilir. Mahkeme; talep yerine, dürüstlüğe ve iyiniyete daha uygun bir çözüm olarak davacıların paylarının gerçek değeri üzerinden satın alınmasına da hükmedebilir."
+          "e": "TTK (türk ticaret kanunu) md. 531: haklı sebepler mevcut olduğunda şirketin herhangi bir pay sahibi (tek pay bile yeterli) mahkemeden şirketin feshine karar verilmesini isteyebilir. Mahkeme; talep yerine, dürüstlüğe ve iyiniyete daha uygun bir çözüm olarak davacıların paylarının gerçek değeri üzerinden satın alınmasına da hükmedebilir."
         },
         {
-          "q": "TTK'ya göre 'kooperatif' ticaret şirketlerinden nasıl ayrılır?",
+          "q": "TTK (türk ticaret kanunu)'ya göre 'kooperatif' ticaret şirketlerinden nasıl ayrılır?",
           "o": [
-            "A) Kooperatif ticaret şirketi değildir; TTK'da ayrı kitapta yer alır",
-            "B) Kooperatif TTK md. 124'te ticaret şirketleri arasında sayılır; ancak ticari kazanç amacı yoktur — üyelerinin ortak ekonomik çıkarlarını karşılama amacı taşır",
+            "A) Kooperatif ticaret şirketi değildir; TTK (türk ticaret kanunu)'da ayrı kitapta yer alır",
+            "B) Kooperatif TTK (türk ticaret kanunu) md. 124'te ticaret şirketleri arasında sayılır; ancak ticari kazanç amacı yoktur — üyelerinin ortak ekonomik çıkarlarını karşılama amacı taşır",
             "C) Kooperatif anonim şirketle aynı kurallara tabidir",
-            "D) Kooperatiflere TTK uygulanmaz; yalnızca 1163 sayılı Kooperatifler Kanunu geçerlidir"
+            "D) Kooperatiflere TTK (türk ticaret kanunu) uygulanmaz; yalnızca 1163 sayılı Kooperatifler Kanunu geçerlidir"
           ],
           "a": 1,
-          "e": "Kooperatif TTK md. 124'te ticaret şirketleri arasında sayılmaktadır; ancak yapısal olarak diğer ticaret şirketlerinden farklıdır. Temel farklılık amacındadır: kooperatif üyelerinin ortak ekonomik, sosyal veya kültürel çıkarlarını karşılama amacıyla kurulur; ticari kazanç maksimizasyonu birincil amaç değildir. Kooperatiflere hem TTK hem 1163 sayılı Kooperatifler Kanunu uygulanır."
+          "e": "Kooperatif TTK (türk ticaret kanunu) md. 124'te ticaret şirketleri arasında sayılmaktadır; ancak yapısal olarak diğer ticaret şirketlerinden farklıdır. Temel farklılık amacındadır: kooperatif üyelerinin ortak ekonomik, sosyal veya kültürel çıkarlarını karşılama amacıyla kurulur; ticari kazanç maksimizasyonu birincil amaç değildir. Kooperatiflere hem TTK (türk ticaret kanunu) hem 1163 sayılı Kooperatifler Kanunu uygulanır."
         }
       ]
     }
@@ -1160,22 +1160,22 @@ window.__C = {
       {
         "num": "01",
         "title": "Temel Kavramlar",
-        "body": "<ul><li><strong>Takas:</strong> Alım-satım işleminin nakit ve menkul kıymet el değiştirmesiyle tamamlanması.</li><li><strong>Saklama:</strong> Sermaye piyasası araçlarının kaydi ortamda tutulması.</li><li><strong>Kaydileştirme:</strong> Fiziksel senetlerin elektronik kayda alınması.</li><li><strong>MKK:</strong> Merkezi Kayıt Kuruluşu.</li><li><strong>Takasbank:</strong> Borsa işlemlerinin takas ve saklamasını yürüten merkezi kuruluş; aynı zamanda MKT.</li><li><strong>MKT:</strong> Merkezi Karşı Taraf — alıcıya karşı satıcı, satıcıya karşı alıcı olarak karşı taraf riskini üstlenir.</li><li><strong>Başlangıç Teminatı:</strong> Pozisyon açılırken yatırılan teminat.</li><li><strong>Değişim Teminatı:</strong> Günlük kar/zarar farkı (mark-to-market).</li><li><strong>Garanti Fonu:</strong> Temerrüt halinde kullanılan toplu katkı havuzu.</li><li><strong>Netleştirme:</strong> İşlemleri bakiyeye düşürerek tek takasa indirgemek.</li></ul><div class='highlight'>DVP (Delivery vs Payment): Ödeme ve teslimatın eş zamanlı yapılması — anapara riskini ortadan kaldırır.</div>"
+        "body": "<ul><li><strong>Takas:</strong> Alım-satım işleminin nakit ve menkul kıymet el değiştirmesiyle tamamlanması.</li><li><strong>Saklama:</strong> Sermaye piyasası araçlarının kaydi ortamda tutulması.</li><li><strong>Kaydileştirme:</strong> Fiziksel senetlerin elektronik kayda alınması.</li><li><strong>MKK (merkezi kayıt kuruluşu):</strong> Merkezi Kayıt Kuruluşu.</li><li><strong>Takasbank (istanbul takas ve saklama bankası):</strong> Borsa işlemlerinin takas ve saklamasını yürüten merkezi kuruluş; aynı zamanda MKT.</li><li><strong>MKT:</strong> Merkezi Karşı Taraf — alıcıya karşı satıcı, satıcıya karşı alıcı olarak karşı taraf riskini üstlenir.</li><li><strong>Başlangıç Teminatı:</strong> Pozisyon açılırken yatırılan teminat.</li><li><strong>Değişim Teminatı:</strong> Günlük kar/zarar farkı (mark-to-market).</li><li><strong>Garanti Fonu:</strong> Temerrüt halinde kullanılan toplu katkı havuzu.</li><li><strong>Netleştirme:</strong> İşlemleri bakiyeye düşürerek tek takasa indirgemek.</li></ul><div class='highlight'>DVP (Delivery vs Payment): Ödeme ve teslimatın eş zamanlı yapılması — anapara riskini ortadan kaldırır.</div>"
       },
       {
         "num": "02",
-        "title": "MKK — Merkezi Kayıt Kuruluşu",
-        "body": "<ul><li><strong>Sermaye sınırları:</strong> Takasbank max %75, BİST max %50, TSPB max %10.</li><li>Üyeler: Aracı kurumlar, bankalar, portföy yönetim şirketleri, ihraçcılar.</li><li>Hesap türleri: Yatırımcı hesabı, havuz hesabı, emanet hesabı.</li><li>Kaydileştirmede fiziksel senet iptal edilir; hak sahipliği MKK sicilinden belirlenir.</li><li>Hisse senetleri üzerine MKK nezdinde rehin tesis edilebilir.</li></ul><div class='highlight'>Üyelikten çıkarma: Koşulları yitiren üyenin üyeliği SPK (sermaye piyasası kurulu) kararıyla sona erdirilir.</div>"
+        "title": "MKK (merkezi kayıt kuruluşu) — Merkezi Kayıt Kuruluşu",
+        "body": "<ul><li><strong>Sermaye sınırları:</strong> Takasbank (istanbul takas ve saklama bankası) max %75, BİST max %50, TSPB max %10.</li><li>Üyeler: Aracı kurumlar, bankalar, portföy yönetim şirketleri, ihraçcılar.</li><li>Hesap türleri: Yatırımcı hesabı, havuz hesabı, emanet hesabı.</li><li>Kaydileştirmede fiziksel senet iptal edilir; hak sahipliği MKK (merkezi kayıt kuruluşu) sicilinden belirlenir.</li><li>Hisse senetleri üzerine MKK (merkezi kayıt kuruluşu) nezdinde rehin tesis edilebilir.</li></ul><div class='highlight'>Üyelikten çıkarma: Koşulları yitiren üyenin üyeliği SPK (sermaye piyasası kurulu) kararıyla sona erdirilir.</div>"
       },
       {
         "num": "03",
         "title": "MTK / MKT Düzenlemeleri",
-        "body": "<ul><li><strong>Üyelik türleri:</strong> Genel Takas Üyesi (kendi + müşteri) · Doğrudan Takas Üyesi (yalnızca kendi).</li><li><strong>Temerrüt kaskadı:</strong> 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı.</li><li>MTK açık pozisyonları piyasada kapatma yetkisine sahiptir.</li><li>Yabancı MTK için SPK (sermaye piyasası kurulu) onayı gereklidir.</li></ul>"
+        "body": "<ul><li><strong>Üyelik türleri:</strong> Genel Takas Üyesi (kendi + müşteri) · Doğrudan Takas Üyesi (yalnızca kendi).</li><li><strong>Temerrüt kaskadı:</strong> 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank (istanbul takas ve saklama bankası) skin-in-the-game → 4) Diğer üyelerin GF katkısı.</li><li>MTK açık pozisyonları piyasada kapatma yetkisine sahiptir.</li><li>Yabancı MTK için SPK (sermaye piyasası kurulu) onayı gereklidir.</li></ul>"
       },
       {
         "num": "04",
         "title": "Portföy Saklama Hizmeti",
-        "body": "<ul><li>Saklayıcı: SPK (sermaye piyasası kurulu) yetkili bankalar ve Takasbank.</li><li><strong>Değişim bildirimi: En az 90 gün önceden yapılmalıdır.</strong></li><li>Operasyonel bağımsızlık zorunludur.</li><li>İhlal tespitinde saklayıcı derhal SPK (sermaye piyasası kurulu)'ya bildirim yapar.</li><li>Alt saklayıcı kullanılsa bile sorumluluk ana saklayıcıda kalır.</li></ul>"
+        "body": "<ul><li>Saklayıcı: SPK (sermaye piyasası kurulu) yetkili bankalar ve Takasbank (istanbul takas ve saklama bankası).</li><li><strong>Değişim bildirimi: En az 90 gün önceden yapılmalıdır.</strong></li><li>Operasyonel bağımsızlık zorunludur.</li><li>İhlal tespitinde saklayıcı derhal SPK (sermaye piyasası kurulu)'ya bildirim yapar.</li><li>Alt saklayıcı kullanılsa bile sorumluluk ana saklayıcıda kalır.</li></ul>"
       },
       {
         "num": "05",
@@ -1190,18 +1190,18 @@ window.__C = {
       {
         "num": "07",
         "title": "VİOP — Türev Araçlarda Takas",
-        "body": "<ul><li><strong>Başlangıç teminatı:</strong> %99,50 güven, 2 günlük elde tutma.</li><li><strong>Değerleme katsayısı parametreleri:</strong> %99,90 güven, 2 iş günü likidite periyodu.</li><li><strong>TL zorunluluğu:</strong> Başlangıç teminatının en az %50'si TL; ilave işlem teminatında %30.</li><li>Fiziki teslimat sözleşmelerinde Takasbank koordine eder.</li></ul><div class='highlight'>%99,50 (başlangıç teminatı) ≠ %99,90 (değerleme katsayısı)</div>"
+        "body": "<ul><li><strong>Başlangıç teminatı:</strong> %99,50 güven, 2 günlük elde tutma.</li><li><strong>Değerleme katsayısı parametreleri:</strong> %99,90 güven, 2 iş günü likidite periyodu.</li><li><strong>TL zorunluluğu:</strong> Başlangıç teminatının en az %50'si TL; ilave işlem teminatında %30.</li><li>Fiziki teslimat sözleşmelerinde Takasbank (istanbul takas ve saklama bankası) koordine eder.</li></ul><div class='highlight'>%99,50 (başlangıç teminatı) ≠ %99,90 (değerleme katsayısı)</div>"
       },
       {
         "num": "08",
         "title": "Teminat Yönetimi ve Garanti Fonu",
-        "body": "<ul><li>Teminata kabul edilenler: TL, USD/EUR, DİBS, hisse senedi (iskontoyla), altın.</li><li><strong>Haircut:</strong> Fiyat/likidite riski için teminata uygulanan indirim oranı.</li><li>GF katkısı: Pozisyon büyüklüğüyle orantılı; düzenli güncellenir.</li><li><strong>Kaskad:</strong> 1) Üye teminatı → 2) GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı.</li></ul><div class='highlight'>Takasbank özsermayesi garanti fonundan ÖNCE devreye girer.</div>"
+        "body": "<ul><li>Teminata kabul edilenler: TL, USD/EUR, DİBS, hisse senedi (iskontoyla), altın.</li><li><strong>Haircut:</strong> Fiyat/likidite riski için teminata uygulanan indirim oranı.</li><li>GF katkısı: Pozisyon büyüklüğüyle orantılı; düzenli güncellenir.</li><li><strong>Kaskad:</strong> 1) Üye teminatı → 2) GF katkısı → 3) Takasbank (istanbul takas ve saklama bankası) skin-in-the-game → 4) Diğer üyelerin GF katkısı.</li></ul><div class='highlight'>Takasbank (istanbul takas ve saklama bankası) özsermayesi garanti fonundan ÖNCE devreye girer.</div>"
       }
     ],
     "tests": {
       "t1": [
         {
-          "q": "MKK'nın sermaye yapısına göre, Takasbank'ın MKK'da sahip olabileceği azami pay oranı nedir?",
+          "q": "MKK (merkezi kayıt kuruluşu)'nın sermaye yapısına göre, Takasbank (istanbul takas ve saklama bankası)'ın MKK (merkezi kayıt kuruluşu)'da sahip olabileceği azami pay oranı nedir?",
           "o": [
             "A) %25",
             "B) %50",
@@ -1209,7 +1209,7 @@ window.__C = {
             "D) %100"
           ],
           "a": 2,
-          "e": "MKK Yönetmeliği'ne göre Takasbank MKK'da en fazla %75 paya sahip olabilir."
+          "e": "MKK (merkezi kayıt kuruluşu) Yönetmeliği'ne göre Takasbank (istanbul takas ve saklama bankası) MKK (merkezi kayıt kuruluşu)'da en fazla %75 paya sahip olabilir."
         },
         {
           "q": "DVP ilkesinin temel amacı nedir?",
@@ -1248,15 +1248,15 @@ window.__C = {
           "q": "Kaydileştirilmiş araçlarda hak sahibinin tespiti nasıl yapılır?",
           "o": [
             "A) Fiziksel senet ibrazıyla",
-            "B) MKK sicil kayıtlarına göre",
+            "B) MKK (merkezi kayıt kuruluşu) sicil kayıtlarına göre",
             "C) Aracı kurum defterlerine göre",
             "D) Tapu sicil müdürlüğüne göre"
           ],
           "a": 1,
-          "e": "Hak sahipliği MKK'nın elektronik sicil kayıtlarından tespit edilir."
+          "e": "Hak sahipliği MKK (merkezi kayıt kuruluşu)'nın elektronik sicil kayıtlarından tespit edilir."
         },
         {
-          "q": "Aşağıdakilerden hangisi doğrudan MKK üyesi olabilir?",
+          "q": "Aşağıdakilerden hangisi doğrudan MKK (merkezi kayıt kuruluşu) üyesi olabilir?",
           "o": [
             "A) Aracı kurumlar ve bankalar",
             "B) Halka açık olmayan ticari şirketler",
@@ -1264,7 +1264,7 @@ window.__C = {
             "D) Sigorta şirketleri"
           ],
           "a": 0,
-          "e": "MKK üyeliği; aracı kurumlar, bankalar, portföy yönetim şirketleri, ihraçcılar ve MKK Yönetmeliği'nde belirtilen koşulları sağlayan kuruluşlara açıktır. Halka açık olmayan ticari şirketler, bireysel yatırımcılar ve sigorta şirketleri doğrudan MKK üyesi olamazlar."
+          "e": "MKK (merkezi kayıt kuruluşu) üyeliği; aracı kurumlar, bankalar, portföy yönetim şirketleri, ihraçcılar ve MKK (merkezi kayıt kuruluşu) Yönetmeliği'nde belirtilen koşulları sağlayan kuruluşlara açıktır. Halka açık olmayan ticari şirketler, bireysel yatırımcılar ve sigorta şirketleri doğrudan MKK (merkezi kayıt kuruluşu) üyesi olamazlar."
         },
         {
           "q": "Başlangıç teminatı ile değişim teminatı arasındaki temel fark nedir?",
@@ -1278,7 +1278,7 @@ window.__C = {
           "e": "Başlangıç teminatı pozisyon açılırken yatırılır. Değişim teminatı günlük mark-to-market farkını yansıtır."
         },
         {
-          "q": "Takasbank'ın 'skin-in-the-game' uygulaması ne anlama gelir?",
+          "q": "Takasbank (istanbul takas ve saklama bankası)'ın 'skin-in-the-game' uygulaması ne anlama gelir?",
           "o": [
             "A) Üyelerden komisyon tahsil etmek",
             "B) Kendi özsermayesinden temerrüt kaskadına katkı koymak",
@@ -1286,7 +1286,7 @@ window.__C = {
             "D) Riskleri sigorta şirketine devretmek"
           ],
           "a": 1,
-          "e": "Takasbank kendi özsermayesinin bir bölümünü temerrüt durumunda sisteme sürerek sorumluluğunu paylaşır."
+          "e": "Takasbank (istanbul takas ve saklama bankası) kendi özsermayesinin bir bölümünü temerrüt durumunda sisteme sürerek sorumluluğunu paylaşır."
         },
         {
           "q": "Portföy saklayıcısını değiştirmek için kaç gün önceden bildirim gerekir?",
@@ -1300,7 +1300,7 @@ window.__C = {
           "e": "Portföy Saklama Tebliği'ne göre saklayıcı değişikliğinde en az 90 gün önceden bildirim yapılmalıdır."
         },
         {
-          "q": "Temerrüt kaskadında Takasbank skin-in-the-game hangi sırada devreye girer?",
+          "q": "Temerrüt kaskadında Takasbank (istanbul takas ve saklama bankası) skin-in-the-game hangi sırada devreye girer?",
           "o": [
             "A) En son",
             "B) Üye teminatından önce",
@@ -1308,7 +1308,7 @@ window.__C = {
             "D) Diğer üyelerin katkısından sonra"
           ],
           "a": 2,
-          "e": "Kaskad sırası: 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı."
+          "e": "Kaskad sırası: 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank (istanbul takas ve saklama bankası) skin-in-the-game → 4) Diğer üyelerin GF katkısı."
         },
         {
           "q": "Garanti fonuna katkı payı nasıl belirlenir?",
@@ -1338,7 +1338,7 @@ window.__C = {
             "A) İşlem iptal edilir",
             "B) Borç sonraki güne devredilir",
             "C) Üye temerrüde düşmüş sayılır",
-            "D) Takasbank farkı bağışlar"
+            "D) Takasbank (istanbul takas ve saklama bankası) farkı bağışlar"
           ],
           "a": 2,
           "e": "Değişim teminatı zamanında karşılanmazsa üye temerrüde düşmüş sayılır ve prosedür başlar."
@@ -1355,7 +1355,7 @@ window.__C = {
           "e": "Alt saklayıcı kullanılsa bile hukuki sorumluluk ana saklayıcıda kalır."
         },
         {
-          "q": "MKK'da 'havuz hesabı' ne amaçla kullanılır?",
+          "q": "MKK (merkezi kayıt kuruluşu)'da 'havuz hesabı' ne amaçla kullanılır?",
           "o": [
             "A) Bireysel yatırımcıların kişisel hesapları",
             "B) Birden fazla müşterinin varlıklarının topluca saklanması",
@@ -1377,7 +1377,7 @@ window.__C = {
           "e": "Kaydileştirme tamamlandığında fiziksel senetler hukuki geçerliliğini yitirir ve imha edilir."
         },
         {
-          "q": "Aşağıdakilerden hangisi Takasbank'ın işlevleri arasında yer almaz?",
+          "q": "Aşağıdakilerden hangisi Takasbank (istanbul takas ve saklama bankası)'ın işlevleri arasında yer almaz?",
           "o": [
             "A) Merkezi takas",
             "B) Merkezi saklama",
@@ -1385,10 +1385,10 @@ window.__C = {
             "D) Kredi derecelendirme"
           ],
           "a": 3,
-          "e": "Takasbank; merkezi takas, saklama ve karşı taraf işlevlerini üstlenir. Derecelendirme bağımsız kuruluşlara aittir."
+          "e": "Takasbank (istanbul takas ve saklama bankası); merkezi takas, saklama ve karşı taraf işlevlerini üstlenir. Derecelendirme bağımsız kuruluşlara aittir."
         },
         {
-          "q": "Rehin tesis edilen hisse senetleri MKK nezdinde nasıl kaydedilir?",
+          "q": "Rehin tesis edilen hisse senetleri MKK (merkezi kayıt kuruluşu) nezdinde nasıl kaydedilir?",
           "o": [
             "A) Tapu siciline şerh düşülerek",
             "B) Özel rehin hesabında kaydileştirilerek",
@@ -1396,21 +1396,21 @@ window.__C = {
             "D) Noterlik kaydıyla"
           ],
           "a": 1,
-          "e": "MKK, sermaye piyasası araçları üzerine kurulan rehinleri kendi sicil sistemi üzerinde kaydeder."
+          "e": "MKK (merkezi kayıt kuruluşu), sermaye piyasası araçları üzerine kurulan rehinleri kendi sicil sistemi üzerinde kaydeder."
         },
         {
           "q": "BİST'te Merkezi Karşı Taraf işlevi hangi kuruluş tarafından yürütülür?",
           "o": [
-            "A) MKK",
+            "A) MKK (merkezi kayıt kuruluşu)",
             "B) SPK (sermaye piyasası kurulu)",
-            "C) Takasbank",
+            "C) Takasbank (istanbul takas ve saklama bankası)",
             "D) BDDK (bankacılık düzenleme ve denetleme kurumu)"
           ],
           "a": 2,
-          "e": "Takasbank, Borsa İstanbul'daki tüm organize piyasalarda MKT sıfatıyla faaliyet gösterir."
+          "e": "Takasbank (istanbul takas ve saklama bankası), Borsa İstanbul'daki tüm organize piyasalarda MKT sıfatıyla faaliyet gösterir."
         },
         {
-          "q": "Takasbank'ın Türkiye sermaye piyasasındaki merkezi rolü nedir?",
+          "q": "Takasbank (istanbul takas ve saklama bankası)'ın Türkiye sermaye piyasasındaki merkezi rolü nedir?",
           "o": [
             "A) Yalnızca saklama hizmeti sunar",
             "B) Hem merkezi takas hem de merkezi karşı taraf işlevini yerine getirir",
@@ -1418,7 +1418,7 @@ window.__C = {
             "D) Sadece yabancı yatırımcılara hizmet verir"
           ],
           "a": 1,
-          "e": "Takasbank hem MTK hem de MKT işlevlerini bünyesinde barındıran tek kuruluştur."
+          "e": "Takasbank (istanbul takas ve saklama bankası) hem MTK hem de MKT işlevlerini bünyesinde barındıran tek kuruluştur."
         }
       ],
       "t2": [
@@ -1460,11 +1460,11 @@ window.__C = {
           "o": [
             "A) Herhangi bir anonim şirket",
             "B) Yalnızca aracı kurumlar",
-            "C) SPK (sermaye piyasası kurulu) tarafından yetkilendirilmiş bankalar ve Takasbank",
+            "C) SPK (sermaye piyasası kurulu) tarafından yetkilendirilmiş bankalar ve Takasbank (istanbul takas ve saklama bankası)",
             "D) Sigorta şirketleri"
           ],
           "a": 2,
-          "e": "Portföy saklama hizmetini yalnızca SPK (sermaye piyasası kurulu) tarafından yetkilendirilmiş bankalar ve Takasbank verebilir."
+          "e": "Portföy saklama hizmetini yalnızca SPK (sermaye piyasası kurulu) tarafından yetkilendirilmiş bankalar ve Takasbank (istanbul takas ve saklama bankası) verebilir."
         },
         {
           "q": "MKT üyeliğinden çıkarılma hangi durumda gerçekleşir?",
@@ -1493,7 +1493,7 @@ window.__C = {
           "o": [
             "A) Borsa yönetimine",
             "B) SPK (sermaye piyasası kurulu)'ya",
-            "C) MTK'ya (Takasbank)",
+            "C) MTK'ya (Takasbank (istanbul takas ve saklama bankası))",
             "D) Hazine'ye"
           ],
           "a": 2,
@@ -1514,7 +1514,7 @@ window.__C = {
           "q": "Stres testi sonucunda garanti fonu yetersiz kalırsa ne yapılır?",
           "o": [
             "A) İşlemler durdurulur",
-            "B) Takasbank ek katkı talep eder ve SPK (sermaye piyasası kurulu)'ya raporlar",
+            "B) Takasbank (istanbul takas ve saklama bankası) ek katkı talep eder ve SPK (sermaye piyasası kurulu)'ya raporlar",
             "C) Kayıp sigorta şirketine aktarılır",
             "D) Devlet garantisi devreye girer"
           ],
@@ -1548,7 +1548,7 @@ window.__C = {
           "o": [
             "A) En büyük üyenin tüm kaybı üstlenmesi",
             "B) Kayıpların üyeler arasında pozisyon büyüklükleriyle orantılı dağıtılması",
-            "C) Takasbank'ın tüm kaybı karşılaması",
+            "C) Takasbank (istanbul takas ve saklama bankası)'ın tüm kaybı karşılaması",
             "D) SPK (sermaye piyasası kurulu)'nın hakem rolü üstlenmesi"
           ],
           "a": 1,
@@ -1629,10 +1629,10 @@ window.__C = {
             "D) Bireysel aracı kurumlar"
           ],
           "a": 2,
-          "e": "Takasbank, MKT sıfatıyla tüm Pay Piyasası işlemlerinin takas garantisini üstlenir."
+          "e": "Takasbank (istanbul takas ve saklama bankası), MKT sıfatıyla tüm Pay Piyasası işlemlerinin takas garantisini üstlenir."
         },
         {
-          "q": "MKK'da 'Yabancı Saklama Global Hesabı' nedir?",
+          "q": "MKK (merkezi kayıt kuruluşu)'da 'Yabancı Saklama Global Hesabı' nedir?",
           "o": [
             "A) Yatırımcıların kendi adına açtırdığı bireysel hesaplar",
             "B) Yurtdışında yerleşik hak sahiplerine ait araçların YMSK nezdinde hak sahibi ismine açılmaksızın toplu tutulduğu havuz hesabı",
@@ -1700,7 +1700,7 @@ window.__C = {
           "e": "Takas günü (T+2) saat 14:00'e kadar yükümlülük karşılanmazsa temerrüt gerçekleşmiş sayılır."
         },
         {
-          "q": "Pay piyasası temerrüdünde Takasbank'ın ilk adımı nedir?",
+          "q": "Pay piyasası temerrüdünde Takasbank (istanbul takas ve saklama bankası)'ın ilk adımı nedir?",
           "o": [
             "A) Üyenin tüm işlemlerini durdurmak",
             "B) Üyeye yazılı ihtar göndermek",
@@ -1746,13 +1746,13 @@ window.__C = {
         {
           "q": "Mağduriyet ödemesinin 2/3 olmasının gerekçesi nedir?",
           "o": [
-            "A) 1/3 Takasbank'ın komisyonudur",
-            "B) Caydırıcılık ve sistem yönetim giderleri için 1/3 Takasbank'ta bırakılır",
+            "A) 1/3 Takasbank (istanbul takas ve saklama bankası)'ın komisyonudur",
+            "B) Caydırıcılık ve sistem yönetim giderleri için 1/3 Takasbank (istanbul takas ve saklama bankası)'ta bırakılır",
             "C) 1/3 hazineye aktarılır",
             "D) Herhangi bir gerekçe yoktur"
           ],
           "a": 1,
-          "e": "1/3 Takasbank'ta kalarak sistem yönetim maliyetleri ve caydırıcılık amacı taşır."
+          "e": "1/3 Takasbank (istanbul takas ve saklama bankası)'ta kalarak sistem yönetim maliyetleri ve caydırıcılık amacı taşır."
         },
         {
           "q": "Menkul kıymet teslim edilemezse ne olur?",
@@ -1763,7 +1763,7 @@ window.__C = {
             "D) Yalnızca nakit tazminat ödenir"
           ],
           "a": 1,
-          "e": "Takasbank açık piyasadan alım yaparak alıcının yükümlülüğünü karşılar; fark temerrüde düşen taraftan tahsil edilir."
+          "e": "Takasbank (istanbul takas ve saklama bankası) açık piyasadan alım yaparak alıcının yükümlülüğünü karşılar; fark temerrüde düşen taraftan tahsil edilir."
         },
         {
           "q": "Netleştirme nasıl uygulanır?",
@@ -1785,29 +1785,29 @@ window.__C = {
             "D) Bireysel aracı kurumlar"
           ],
           "a": 2,
-          "e": "Takasbank, MKT sıfatıyla tüm Pay Piyasası işlemlerinin takas garantisini üstlenir."
+          "e": "Takasbank (istanbul takas ve saklama bankası), MKT sıfatıyla tüm Pay Piyasası işlemlerinin takas garantisini üstlenir."
         },
         {
           "q": "Pay devri sonrasında mülkiyet değişikliği ne zaman geçerli olur?",
           "o": [
             "A) Alım-satım anlaşmasının imzalanmasıyla",
             "B) Fiziksel senedin teslimi ile",
-            "C) MKK kayıt değişikliğinin tamamlanmasıyla",
+            "C) MKK (merkezi kayıt kuruluşu) kayıt değişikliğinin tamamlanmasıyla",
             "D) Tapu siciline işlenmesiyle"
           ],
           "a": 2,
-          "e": "Pay mülkiyeti MKK sicilindeki kayıt değişikliğiyle hukuken geçerlilik kazanır."
+          "e": "Pay mülkiyeti MKK (merkezi kayıt kuruluşu) sicilindeki kayıt değişikliğiyle hukuken geçerlilik kazanır."
         },
         {
-          "q": "Temerrüde düşen üyenin GF katkısı mı yoksa Takasbank skin-in-the-game mi önce kullanılır?",
+          "q": "Temerrüde düşen üyenin GF katkısı mı yoksa Takasbank (istanbul takas ve saklama bankası) skin-in-the-game mi önce kullanılır?",
           "o": [
-            "A) Takasbank skin-in-the-game önce",
+            "A) Takasbank (istanbul takas ve saklama bankası) skin-in-the-game önce",
             "B) Her ikisi eş anlı",
             "C) Temerrüde düşen üyenin GF katkısı önce",
             "D) Miktara göre belirlenir"
           ],
           "a": 2,
-          "e": "Kaskad: 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı."
+          "e": "Kaskad: 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank (istanbul takas ve saklama bankası) skin-in-the-game → 4) Diğer üyelerin GF katkısı."
         },
         {
           "q": "Kısa satış yapan yatırımcı T+2'de teslim edemezse ne olur?",
@@ -1815,7 +1815,7 @@ window.__C = {
             "A) İşlem geçersiz sayılır",
             "B) Otomatik olarak bir gün ertelenir",
             "C) Temerrüde düşer",
-            "D) Takasbank otomatik ödünç verir"
+            "D) Takasbank (istanbul takas ve saklama bankası) otomatik ödünç verir"
           ],
           "a": 2,
           "e": "T+2 tarihinde teslim edilemeyen kısa satış pozisyonu temerrüt oluşturur."
@@ -1836,22 +1836,22 @@ window.__C = {
           "o": [
             "A) SPK (sermaye piyasası kurulu) tarafından Resmi Gazete'de yayımlanarak",
             "B) BİST yönetim kurulu tarafından",
-            "C) Takasbank tarafından piyasa koşullarına göre belirlenir",
+            "C) Takasbank (istanbul takas ve saklama bankası) tarafından piyasa koşullarına göre belirlenir",
             "D) BDDK (bankacılık düzenleme ve denetleme kurumu) tarafından bankacılık mevzuatı çerçevesinde"
           ],
           "a": 2,
-          "e": "Temerrüt cezası hesaplamasında kullanılan referans faiz oranı, Takasbank tarafından piyasa koşulları dikkate alınarak belirlenir ve duyurulur."
+          "e": "Temerrüt cezası hesaplamasında kullanılan referans faiz oranı, Takasbank (istanbul takas ve saklama bankası) tarafından piyasa koşulları dikkate alınarak belirlenir ve duyurulur."
         },
         {
           "q": "Veraset veya bağış yoluyla gerçekleşen borsa dışı pay transferleri nasıl yapılır?",
           "o": [
-            "A) Doğrudan Takasbank'a başvurularak",
-            "B) MKK üyeleri aracılığıyla MKK sistemi üzerinden gerçekleştirilir",
+            "A) Doğrudan Takasbank (istanbul takas ve saklama bankası)'a başvurularak",
+            "B) MKK (merkezi kayıt kuruluşu) üyeleri aracılığıyla MKK (merkezi kayıt kuruluşu) sistemi üzerinden gerçekleştirilir",
             "C) Yalnızca mahkeme kararıyla",
             "D) BİST'e bildirim yapılarak"
           ],
           "a": 1,
-          "e": "Veraset, bağış veya diğer hukuki nedenlerle gerçekleşen borsa dışı pay transferleri, MKK üyeleri (aracı kurumlar/bankalar) aracılığıyla MKK sistemi üzerinden gerçekleştirilir."
+          "e": "Veraset, bağış veya diğer hukuki nedenlerle gerçekleşen borsa dışı pay transferleri, MKK (merkezi kayıt kuruluşu) üyeleri (aracı kurumlar/bankalar) aracılığıyla MKK (merkezi kayıt kuruluşu) sistemi üzerinden gerçekleştirilir."
         },
         {
           "q": "Aynı gün aynı hisse için birden fazla alım yapılırsa takas nasıl belirlenir?",
@@ -1970,14 +1970,14 @@ window.__C = {
           "o": [
             "A) BİST",
             "B) SPK (sermaye piyasası kurulu)",
-            "C) Takasbank",
+            "C) Takasbank (istanbul takas ve saklama bankası)",
             "D) Saklayıcı banka"
           ],
           "a": 2,
-          "e": "VİOP'ta fiziki teslimat içeren emtia vadeli işlem sözleşmelerinde vade sonu teslimat sürecini Takasbank koordine eder."
+          "e": "VİOP'ta fiziki teslimat içeren emtia vadeli işlem sözleşmelerinde vade sonu teslimat sürecini Takasbank (istanbul takas ve saklama bankası) koordine eder."
         },
         {
-          "q": "BAP ve SWAP piyasalarında Takasbank hangi sıfatla görev yapar?",
+          "q": "BAP ve SWAP (takas işlemi) piyasalarında Takasbank (istanbul takas ve saklama bankası) hangi sıfatla görev yapar?",
           "o": [
             "A) Sadece mesaj ileticisi",
             "B) Merkezi Karşı Taraf (MKT)",
@@ -1985,7 +1985,7 @@ window.__C = {
             "D) Piyasa yapıcı"
           ],
           "a": 1,
-          "e": "BAP ve SWAP piyasalarında da Takasbank MKT sıfatıyla karşı taraf riskini üstlenir."
+          "e": "BAP ve SWAP (takas işlemi) piyasalarında da Takasbank (istanbul takas ve saklama bankası) MKT sıfatıyla karşı taraf riskini üstlenir."
         },
         {
           "q": "VİOP'ta teminat açığı kapatılmazsa ne yapılır?",
@@ -1996,7 +1996,7 @@ window.__C = {
             "D) SPK (sermaye piyasası kurulu) müdahale eder"
           ],
           "a": 2,
-          "e": "Teminat açığını belirlenen sürede kapatmayan üyenin pozisyonları Takasbank tarafından zorla kapatılır."
+          "e": "Teminat açığını belirlenen sürede kapatmayan üyenin pozisyonları Takasbank (istanbul takas ve saklama bankası) tarafından zorla kapatılır."
         },
         {
           "q": "İlave işlem teminatında TL zorunluluk oranı kaçtır?",
@@ -2018,7 +2018,7 @@ window.__C = {
             "D) Teminat başka üyeye devredilir"
           ],
           "a": 1,
-          "e": "Teminat ikamesi; üyenin teminat portföyündeki bir varlığı Takasbank onayıyla başka kabul edilebilir bir varlıkla değiştirmesidir."
+          "e": "Teminat ikamesi; üyenin teminat portföyündeki bir varlığı Takasbank (istanbul takas ve saklama bankası) onayıyla başka kabul edilebilir bir varlıkla değiştirmesidir."
         },
         {
           "q": "Hisse senedi teminata kabul edilirken hangi düzeltme uygulanır?",
@@ -2032,7 +2032,7 @@ window.__C = {
           "e": "Hisse senetleri teminata kabul edilebilir; ancak değerleme katsayısı (haircut) uygulanarak iskontolu teminat değeri belirlenir."
         },
         {
-          "q": "Takasbank stres testini ne sıklıkla yapar?",
+          "q": "Takasbank (istanbul takas ve saklama bankası) stres testini ne sıklıkla yapar?",
           "o": [
             "A) Yılda bir kez",
             "B) Düzensiz",
@@ -2056,7 +2056,7 @@ window.__C = {
         {
           "q": "Nakit olmayan teminatlara haircut uygulanmasının gerekçesi nedir?",
           "o": [
-            "A) Takasbank gelir elde etmek ister",
+            "A) Takasbank (istanbul takas ve saklama bankası) gelir elde etmek ister",
             "B) Fiyat düşüşü ve likidite riski nedeniyle teminat değerinin aşınabileceği ihtimali",
             "C) SPK (sermaye piyasası kurulu) zorunlu kılar",
             "D) Piyasa yapıcıları korumak için"
@@ -2070,7 +2070,7 @@ window.__C = {
             "A) Yalnızca yasal zorunluluk",
             "B) Pozisyon büyüklükleri ve piyasa oynaklığı değiştikçe risk profili değiştiği için",
             "C) Vergi avantajı sağlamak için",
-            "D) Takasbank'ın karını artırmak için"
+            "D) Takasbank (istanbul takas ve saklama bankası)'ın karını artırmak için"
           ],
           "a": 1,
           "e": "Garanti fonu katkıları periyodik olarak güncellenir; pozisyon büyüklükleri ve piyasa oynaklığı sürekli değişmektedir."
@@ -2091,13 +2091,13 @@ window.__C = {
         {
           "q": "BİST'te Merkezi Karşı Taraf işlevi hangi kuruluş tarafından yürütülür?",
           "o": [
-            "A) MKK",
+            "A) MKK (merkezi kayıt kuruluşu)",
             "B) SPK (sermaye piyasası kurulu)",
-            "C) Takasbank",
+            "C) Takasbank (istanbul takas ve saklama bankası)",
             "D) BDDK (bankacılık düzenleme ve denetleme kurumu)"
           ],
           "a": 2,
-          "e": "Takasbank, Borsa İstanbul'daki tüm organize piyasalarda MKT sıfatıyla faaliyet gösterir."
+          "e": "Takasbank (istanbul takas ve saklama bankası), Borsa İstanbul'daki tüm organize piyasalarda MKT sıfatıyla faaliyet gösterir."
         },
         {
           "q": "Pay piyasası ile BAP arasındaki en belirgin temerrüt farkı nedir?",
@@ -2111,7 +2111,7 @@ window.__C = {
           "e": "Pay piyasasında ceza formülü paydasında 360 kullanılırken BAP'ta 365 kullanılır."
         },
         {
-          "q": "Takasbank Para Piyasası'nda yürütülen temel işlem türü nedir?",
+          "q": "Takasbank (istanbul takas ve saklama bankası) Para Piyasası'nda yürütülen temel işlem türü nedir?",
           "o": [
             "A) Hisse senedi alım satımı",
             "B) Döviz alım satımı",
@@ -2119,7 +2119,7 @@ window.__C = {
             "D) Vadeli emtia işlemleri"
           ],
           "a": 2,
-          "e": "Takasbank Para Piyasası, kurumlar arası repo ve ters repo işlemlerinin organize edildiği piyasadır."
+          "e": "Takasbank (istanbul takas ve saklama bankası) Para Piyasası, kurumlar arası repo ve ters repo işlemlerinin organize edildiği piyasadır."
         },
         {
           "q": "İlave işlem teminatı ne zaman talep edilir?",
@@ -2133,7 +2133,7 @@ window.__C = {
           "e": "İlave işlem teminatı, başlangıç teminatının piyasa koşullarına göre yetersiz kaldığı durumlarda talep edilir."
         },
         {
-          "q": "MKK sermayesinde BİST'in azami payı nedir?",
+          "q": "MKK (merkezi kayıt kuruluşu) sermayesinde BİST'in azami payı nedir?",
           "o": [
             "A) %25",
             "B) %50",
@@ -2141,10 +2141,10 @@ window.__C = {
             "D) %10"
           ],
           "a": 1,
-          "e": "MKK Yönetmeliği'ne göre BİST, MKK'da en fazla %50 paya sahip olabilir."
+          "e": "MKK (merkezi kayıt kuruluşu) Yönetmeliği'ne göre BİST, MKK (merkezi kayıt kuruluşu)'da en fazla %50 paya sahip olabilir."
         },
         {
-          "q": "Takasbank'ın MKT takas garantisinin yatırımcı açısından en önemli faydası nedir?",
+          "q": "Takasbank (istanbul takas ve saklama bankası)'ın MKT takas garantisinin yatırımcı açısından en önemli faydası nedir?",
           "o": [
             "A) Komisyon maliyetini azaltır",
             "B) Anonimlik sağlar",
@@ -2152,7 +2152,7 @@ window.__C = {
             "D) Pozisyon limitlerini artırır"
           ],
           "a": 2,
-          "e": "MKT takas garantisi, bir tarafın temerrüdü halinde diğer tarafın yükümlülüğünün Takasbank tarafından karşılanmasını güvence altına alır."
+          "e": "MKT takas garantisi, bir tarafın temerrüdü halinde diğer tarafın yükümlülüğünün Takasbank (istanbul takas ve saklama bankası) tarafından karşılanmasını güvence altına alır."
         },
         {
           "q": "VİOP'ta teminata kabul edilmeyen varlık hangisidir?",
@@ -2168,7 +2168,7 @@ window.__C = {
         {
           "q": "Mağduriyet ödemesinin amacı nedir?",
           "o": [
-            "A) Takasbank'ın gelirini artırmak",
+            "A) Takasbank (istanbul takas ve saklama bankası)'ın gelirini artırmak",
             "B) Mağdur üyenin takas gecikmesinden kaynaklanan kaybını kısmen telafi etmek",
             "C) SPK (sermaye piyasası kurulu)'ya aktarım sağlamak",
             "D) Temerrüde düşen üyeye yardım etmek"
@@ -2210,7 +2210,7 @@ window.__C = {
           "e": "BAP da Pay Piyasası gibi DVP prensibine göre çalışır."
         },
         {
-          "q": "TSPB'nin MKK sermayesindeki azami payı nedir?",
+          "q": "TSPB'nin MKK (merkezi kayıt kuruluşu) sermayesindeki azami payı nedir?",
           "o": [
             "A) %25",
             "B) %20",
@@ -2218,13 +2218,13 @@ window.__C = {
             "D) %10"
           ],
           "a": 3,
-          "e": "TSPB MKK'da en fazla %10 paya sahip olabilir."
+          "e": "TSPB MKK (merkezi kayıt kuruluşu)'da en fazla %10 paya sahip olabilir."
         },
         {
           "q": "VİOP'ta temerrüt halinde hangi kaynak en son devreye girer?",
           "o": [
             "A) Üyenin başlangıç teminatı",
-            "B) Takasbank skin-in-the-game",
+            "B) Takasbank (istanbul takas ve saklama bankası) skin-in-the-game",
             "C) Diğer üyelerin garanti fonu katkıları",
             "D) Üyenin garanti fonu katkısı"
           ],
@@ -2232,15 +2232,15 @@ window.__C = {
           "e": "Temerrüt kaskadında en son devreye giren kaynak diğer sağlıklı üyelerin garanti fonu katkılarıdır."
         },
         {
-          "q": "MKK'da rehin tesisinin hukuki sonucu nedir?",
+          "q": "MKK (merkezi kayıt kuruluşu)'da rehin tesisinin hukuki sonucu nedir?",
           "o": [
             "A) Hisse senedi sahibi değişir",
-            "B) Menkul kıymet üzerinde sınırlı ayni hak kurulur ve MKK'ya tescil edilir",
+            "B) Menkul kıymet üzerinde sınırlı ayni hak kurulur ve MKK (merkezi kayıt kuruluşu)'ya tescil edilir",
             "C) Temettü hakkı alacaklıya geçer",
             "D) Menkul kıymet geçici olarak iptal edilir"
           ],
           "a": 1,
-          "e": "MKK üzerinden tesis edilen rehin, menkul kıymet üzerinde sınırlı ayni hak kurulmasını sağlar."
+          "e": "MKK (merkezi kayıt kuruluşu) üzerinden tesis edilen rehin, menkul kıymet üzerinde sınırlı ayni hak kurulmasını sağlar."
         },
         {
           "q": "Kaydileştirme sisteminin en temel avantajı nedir?",
@@ -2256,7 +2256,7 @@ window.__C = {
         {
           "q": "Açık piyasadan alım yapılırken fiyat farkı nasıl hesaba katılır?",
           "o": [
-            "A) Fark Takasbank tarafından karşılanır",
+            "A) Fark Takasbank (istanbul takas ve saklama bankası) tarafından karşılanır",
             "B) Fark temerrüde düşen üyeden tahsil edilir",
             "C) Fark mağdura ek tazminat olarak ödenir",
             "D) Fark sigorta şirketinden talep edilir"
@@ -2276,7 +2276,7 @@ window.__C = {
           "e": "Uzun pozisyonda fiyat düşüşünde kayıp yazar; değişim teminatı olarak ödenmesi gereken bir borç doğar."
         },
         {
-          "q": "SWAP Piyasası'nda Takasbank ne yapar?",
+          "q": "SWAP (takas işlemi) Piyasası'nda Takasbank (istanbul takas ve saklama bankası) ne yapar?",
           "o": [
             "A) Hisse senedi değişimi",
             "B) Döviz swap işlemlerinin MKT sıfatıyla takasını",
@@ -2284,10 +2284,10 @@ window.__C = {
             "D) Faiz swapı aracılığı"
           ],
           "a": 1,
-          "e": "Takasbank SWAP Piyasası'nda döviz swap işlemlerinin MKT sıfatıyla takasını yapar."
+          "e": "Takasbank (istanbul takas ve saklama bankası) SWAP (takas işlemi) Piyasası'nda döviz swap işlemlerinin MKT sıfatıyla takasını yapar."
         },
         {
-          "q": "Takasbank'ın tüm piyasalardaki rolünü en iyi özetleyen ifade nedir?",
+          "q": "Takasbank (istanbul takas ve saklama bankası)'ın tüm piyasalardaki rolünü en iyi özetleyen ifade nedir?",
           "o": [
             "A) Yalnızca aracı kurum denetimi yapar",
             "B) Türkiye sermaye piyasalarının merkezi takas saklama ve karşı taraf altyapısını sağlar",
@@ -2295,7 +2295,7 @@ window.__C = {
             "D) Menkul kıymet fiyatlaması yapar"
           ],
           "a": 1,
-          "e": "Takasbank; pay, borçlanma araçları, türev ve repo piyasalarında MTK, MKT ve saklama hizmetleri sunarak temel altyapıyı oluşturur."
+          "e": "Takasbank (istanbul takas ve saklama bankası); pay, borçlanma araçları, türev ve repo piyasalarında MTK, MKT ve saklama hizmetleri sunarak temel altyapıyı oluşturur."
         },
         {
           "q": "VİOP teminat yönetiminde %99,90 ile %99,50 parametreleri arasındaki fark nedir?",
@@ -2316,12 +2316,12 @@ window.__C = {
       {
         "num": "01",
         "title": "Sermaye Piyasası Kanunu Temelleri",
-        "body": "<ul><li><strong>Sermaye piyasası:</strong> Orta ve uzun vadeli fonların, sermaye piyasası araçları alım-satımı yoluyla tasarruf sahiplerinden fon talep edenlere aktarıldığı piyasa.</li><li><strong>6362 sayılı SPK (sermaye piyasası kurulu)n:</strong> 2012 yürürlük. Hazırlık nedenleri: 6102 TTK reformları, AB mevzuatı uyumu, 2008 kriz dersleri.</li><li><strong>SPK (sermaye piyasası kurulu) misyonu:</strong> Güvenilir, şeffaf, etkin işleyiş; yatırımcı koruması. (SPK (sermaye piyasası kurulu)n md.1)</li><li><strong>5 Unsur:</strong> Fon talep edenler, fon arz edenler, sermaye piyasası araçları, yardımcı kuruluşlar, borsalar.</li><li><strong>Nitelikli yatırımcı:</strong> Kurul kıstaslarını karşılayan profesyonel müşteriler.</li></ul>"
+        "body": "<ul><li><strong>Sermaye piyasası:</strong> Orta ve uzun vadeli fonların, sermaye piyasası araçları alım-satımı yoluyla tasarruf sahiplerinden fon talep edenlere aktarıldığı piyasa.</li><li><strong>6362 sayılı SPK (sermaye piyasası kurulu)n:</strong> 2012 yürürlük. Hazırlık nedenleri: 6102 TTK (türk ticaret kanunu) reformları, AB mevzuatı uyumu, 2008 kriz dersleri.</li><li><strong>SPK (sermaye piyasası kurulu) misyonu:</strong> Güvenilir, şeffaf, etkin işleyiş; yatırımcı koruması. (SPK (sermaye piyasası kurulu)n md.1)</li><li><strong>5 Unsur:</strong> Fon talep edenler, fon arz edenler, sermaye piyasası araçları, yardımcı kuruluşlar, borsalar.</li><li><strong>Nitelikli yatırımcı:</strong> Kurul kıstaslarını karşılayan profesyonel müşteriler.</li></ul>"
       },
       {
         "num": "02",
         "title": "Sermaye Piyasası Araçları ve Kaydi Sistem",
-        "body": "<ul><li><strong>Menkul kıymet:</strong> Paylar (oy, temettü, rüçhan hakkı), borçlanma araçları, diğer araçlar.</li><li><strong>Türev araçlar:</strong> Vadeli işlem ve opsiyon sözleşmeleri. Dayanak: sermaye piyasası aracı, döviz, faiz, emtia.</li><li><strong>Kaydi sistem:</strong> Araçların MKK tarafından elektronik ortamda tutulması. Fiziksel senet yok; haklar sicil kaydına göre.</li><li><strong>MKK sorumluluğu:</strong> Yanlış kayıttan doğan zararlar için kusurları oranında.</li><li><strong>Rehin:</strong> MKK nezdinde tesis edilen rehin tapu siciline bağımlı değil; hukuki geçerlilik kazanır.</li></ul>"
+        "body": "<ul><li><strong>Menkul kıymet:</strong> Paylar (oy, temettü, rüçhan hakkı), borçlanma araçları, diğer araçlar.</li><li><strong>Türev araçlar:</strong> Vadeli işlem ve opsiyon sözleşmeleri. Dayanak: sermaye piyasası aracı, döviz, faiz, emtia.</li><li><strong>Kaydi sistem:</strong> Araçların MKK (merkezi kayıt kuruluşu) tarafından elektronik ortamda tutulması. Fiziksel senet yok; haklar sicil kaydına göre.</li><li><strong>MKK (merkezi kayıt kuruluşu) sorumluluğu:</strong> Yanlış kayıttan doğan zararlar için kusurları oranında.</li><li><strong>Rehin:</strong> MKK (merkezi kayıt kuruluşu) nezdinde tesis edilen rehin tapu siciline bağımlı değil; hukuki geçerlilik kazanır.</li></ul>"
       },
       {
         "num": "03",
@@ -2336,12 +2336,12 @@ window.__C = {
       {
         "num": "05",
         "title": "Özel Durumlar Tebliği (II-15.1)",
-        "body": "<ul><li><strong>İçsel bilgi erteleme:</strong> Meşru menfaat + piyasayı yanıltmama + gizlilik — üçü birlikte sağlanmalı.</li><li><strong>İdari sorumluluğu bulunan kişiler:</strong> YK üyeleri, üst yöneticiler + eş ve 1. derece akrabaları. Yıllık 1.000.000 TL eşiğinde bildirim; 3 iş günü süre.</li><li><strong>Sürekli bilgiler:</strong> Yılda en fazla 4 kez kâr tahmini. Bildirim KAP'ta Türkçe ve elektronik imzalı.</li><li><strong>Çalışma dışı:</strong> En geç ertesi iş günü 09:00'a kadar bildirim.</li></ul>"
+        "body": "<ul><li><strong>İçsel bilgi erteleme:</strong> Meşru menfaat + piyasayı yanıltmama + gizlilik — üçü birlikte sağlanmalı.</li><li><strong>İdari sorumluluğu bulunan kişiler:</strong> YK üyeleri, üst yöneticiler + eş ve 1. derece akrabaları. Yıllık 1.000.000 TL eşiğinde bildirim; 3 iş günü süre.</li><li><strong>Sürekli bilgiler:</strong> Yılda en fazla 4 kez kâr tahmini. Bildirim KAP (kamuyu aydınlatma platformu)'ta Türkçe ve elektronik imzalı.</li><li><strong>Çalışma dışı:</strong> En geç ertesi iş günü 09:00'a kadar bildirim.</li></ul>"
       },
       {
         "num": "06",
         "title": "Kurumsal Yönetim Tebliği (II-17.1)",
-        "body": "<ul><li><strong>4 ana bölüm:</strong> Pay sahipleri, kamuyu aydınlatma, menfaat sahipleri, yönetim kurulu.</li><li><strong>Bağımsız YK üyesi:</strong> Bağımsızlık kaybında istifa; 30 gün içinde aday gösterim. Kurul olumsuz görüşü 20 gün içinde bildirirken şirket KAP'ta duyurur.</li><li><strong>Kadın üye hedefi:</strong> En az %25.</li><li><strong>Denetim komitesi:</strong> En az 1 üye denetim/muhasebe-finans alanında 5 yıl tecrübeli.</li><li><strong>Önemli işlemler (%10+):</strong> Bağımsız üye çoğunluk onayı; onaysız → KAP + genel kurul.</li></ul>"
+        "body": "<ul><li><strong>4 ana bölüm:</strong> Pay sahipleri, kamuyu aydınlatma, menfaat sahipleri, yönetim kurulu.</li><li><strong>Bağımsız YK üyesi:</strong> Bağımsızlık kaybında istifa; 30 gün içinde aday gösterim. Kurul olumsuz görüşü 20 gün içinde bildirirken şirket KAP (kamuyu aydınlatma platformu)'ta duyurur.</li><li><strong>Kadın üye hedefi:</strong> En az %25.</li><li><strong>Denetim komitesi:</strong> En az 1 üye denetim/muhasebe-finans alanında 5 yıl tecrübeli.</li><li><strong>Önemli işlemler (%10+):</strong> Bağımsız üye çoğunluk onayı; onaysız → KAP (kamuyu aydınlatma platformu) + genel kurul.</li></ul>"
       },
       {
         "num": "07",
@@ -2359,13 +2359,13 @@ window.__C = {
         {
           "q": "6362 sayılı Sermaye Piyasası Kanunu'nun hazırlanmasında belirleyici olan faktörler arasında hangisi yer ALMAZ?",
           "o": [
-            "A) 6102 sayılı TTK'nın yürürlüğe girmesi",
+            "A) 6102 sayılı TTK (türk ticaret kanunu)'nın yürürlüğe girmesi",
             "B) AB sermaye piyasası mevzuatına uyum zorunluluğu",
             "C) 2008 küresel finansal krizinin dersleri",
-            "D) Türkiye'nin IMF'ye üyelik zorunluluğu"
+            "D) Türkiye'nin IMF (uluslararası para fonu)'ye üyelik zorunluluğu"
           ],
           "a": 3,
-          "e": "SPK (sermaye piyasası kurulu)n'nun hazırlanmasında üç temel etken belirleyicidir: 6102 sayılı TTK reformları, AB mevzuatına uyum ve 2008 krizinin dersleri. IMF üyeliği bu faktörler arasında yer almaz."
+          "e": "SPK (sermaye piyasası kurulu)n'nun hazırlanmasında üç temel etken belirleyicidir: 6102 sayılı TTK (türk ticaret kanunu) reformları, AB mevzuatına uyum ve 2008 krizinin dersleri. IMF (uluslararası para fonu) üyeliği bu faktörler arasında yer almaz."
         },
         {
           "q": "Sermaye piyasasının temel amacı nedir?",
@@ -2415,15 +2415,15 @@ window.__C = {
           "q": "Kaydi sistem hakkında aşağıdakilerden hangisi doğrudur?",
           "o": [
             "A) Fiziksel senet teslimi esasına dayanır",
-            "B) Sermaye piyasası araçlarının MKK tarafından elektronik ortamda tutulduğu sistemdir",
+            "B) Sermaye piyasası araçlarının MKK (merkezi kayıt kuruluşu) tarafından elektronik ortamda tutulduğu sistemdir",
             "C) Yalnızca devlet tahvillerini kapsar",
             "D) SPK (sermaye piyasası kurulu) tarafından doğrudan işletilir"
           ],
           "a": 1,
-          "e": "Kaydi sistem; SPK (sermaye piyasası kurulu)n'nun belirlediği araçların MKK tarafından elektronik ortamda tutulduğu sistemdir. Fiziksel senet yoktur; haklar sicil kaydına göre belirlenir."
+          "e": "Kaydi sistem; SPK (sermaye piyasası kurulu)n'nun belirlediği araçların MKK (merkezi kayıt kuruluşu) tarafından elektronik ortamda tutulduğu sistemdir. Fiziksel senet yoktur; haklar sicil kaydına göre belirlenir."
         },
         {
-          "q": "MKK'nın yanlış kayıt nedeniyle oluşan zararlardan sorumluluğu nasıldır?",
+          "q": "MKK (merkezi kayıt kuruluşu)'nın yanlış kayıt nedeniyle oluşan zararlardan sorumluluğu nasıldır?",
           "o": [
             "A) Hiçbir sorumluluk üstlenmez",
             "B) Tam sorumluluk taşır",
@@ -2431,7 +2431,7 @@ window.__C = {
             "D) Yalnızca sigorta şirketi sorumludur"
           ],
           "a": 2,
-          "e": "MKK ve üyeleri, tuttukları kayıtların yanlış olmasından dolayı hak sahiplerinin uğrayacağı zararlardan kusurları oranında sorumludur."
+          "e": "MKK (merkezi kayıt kuruluşu) ve üyeleri, tuttukları kayıtların yanlış olmasından dolayı hak sahiplerinin uğrayacağı zararlardan kusurları oranında sorumludur."
         },
         {
           "q": "SPK (sermaye piyasası kurulu)n kapsamında yatırım hizmet ve faaliyetleri kaç başlık altında sayılmıştır?",
@@ -2458,7 +2458,7 @@ window.__C = {
         {
           "q": "Kitle fonlaması faaliyeti hangi kanunla SPK (sermaye piyasası kurulu)n'ye eklenmiştir?",
           "o": [
-            "A) 6102 sayılı TTK",
+            "A) 6102 sayılı TTK (türk ticaret kanunu)",
             "B) 7061 sayılı Kanun",
             "C) 5411 sayılı Bankacılık Kanunu",
             "D) 4054 sayılı Rekabet Kanunu"
@@ -2503,12 +2503,12 @@ window.__C = {
           "q": "Özel durum açıklamasının bildirim şekli nasıldır?",
           "o": [
             "A) Yalnızca yazılı posta ile",
-            "B) KAP üzerinden elektronik imzalı olarak Türkçe",
+            "B) KAP (kamuyu aydınlatma platformu) üzerinden elektronik imzalı olarak Türkçe",
             "C) Yalnızca borsa tescil bürosuna",
             "D) Herhangi bir yöntemle sözlü olarak"
           ],
           "a": 1,
-          "e": "Özel durum açıklamaları KAP üzerinden Türkçe ve elektronik imzalı olarak yapılır. Yabancı dilde ek açıklama da yapılabilir."
+          "e": "Özel durum açıklamaları KAP (kamuyu aydınlatma platformu) üzerinden Türkçe ve elektronik imzalı olarak yapılır. Yabancı dilde ek açıklama da yapılabilir."
         },
         {
           "q": "TSPB hangi kanun maddesi uyarınca kurulmuştur?",
@@ -2686,18 +2686,18 @@ window.__C = {
             "D) 10 iş günü"
           ],
           "a": 1,
-          "e": "İdari sorumluluğu bulunan kişiler ve bunların yakınları tarafından yapılan işlemlerin KAP'a bildirim süresi 3 iş günüdür."
+          "e": "İdari sorumluluğu bulunan kişiler ve bunların yakınları tarafından yapılan işlemlerin KAP (kamuyu aydınlatma platformu)'a bildirim süresi 3 iş günüdür."
         },
         {
           "q": "SPK (sermaye piyasası kurulu) kurumsal yönetim ilkelerine göre bağımsız YK üyesi bağımsızlığını kaybederse ne yapmalıdır?",
           "o": [
             "A) Komitelerden ayrılması yeterlidir",
-            "B) Derhal istifa etmeli ve YK durumu KAP'a bildirmelidir",
+            "B) Derhal istifa etmeli ve YK durumu KAP (kamuyu aydınlatma platformu)'a bildirmelidir",
             "C) SPK (sermaye piyasası kurulu)'nın onayını beklemeli",
             "D) Görevine devam edebilir"
           ],
           "a": 1,
-          "e": "Bağımsız YK üyesi bağımsızlık kriterlerinden herhangi birini kaybetmesi durumunda derhal istifa eder; YK bu durumu KAP'a bildirir ve 30 gün içinde yeni aday gösterilir."
+          "e": "Bağımsız YK üyesi bağımsızlık kriterlerinden herhangi birini kaybetmesi durumunda derhal istifa eder; YK bu durumu KAP (kamuyu aydınlatma platformu)'a bildirir ve 30 gün içinde yeni aday gösterilir."
         },
         {
           "q": "Yönetim kurulunda kadın üye hedefi ne kadardır?",
@@ -2903,12 +2903,12 @@ window.__C = {
           "q": "Kurumsal yönetim tebliğine göre önemli bir işlemde bağımsız üyeler onaylamazsa ne olur?",
           "o": [
             "A) İşlem otomatik geçerli olur",
-            "B) İşlem KAP'ta açıklanır ve genel kurula sunulur",
+            "B) İşlem KAP (kamuyu aydınlatma platformu)'ta açıklanır ve genel kurula sunulur",
             "C) YK çoğunlukla onaylayabilir",
             "D) SPK (sermaye piyasası kurulu) onayı aranır"
           ],
           "a": 1,
-          "e": "Bağımsız YK üyelerinin çoğunluğu önemli işlemi onaylamazsa bu durum KAP'ta açıklanır ve genel kurulun onayına sunulur; genel kurul onayı alınmadan işlem gerçekleşemez."
+          "e": "Bağımsız YK üyelerinin çoğunluğu önemli işlemi onaylamazsa bu durum KAP (kamuyu aydınlatma platformu)'ta açıklanır ve genel kurulun onayına sunulur; genel kurul onayı alınmadan işlem gerçekleşemez."
         },
         {
           "q": "SPK (sermaye piyasası kurulu) denetim yetkisi kapsamında hangisi yapılabilir?",
@@ -2985,7 +2985,7 @@ window.__C = {
             "D) 5.000.000 TL"
           ],
           "a": 2,
-          "e": "İdari sorumluluğu bulunan kişilerin, bir takvim yılı içinde gerçekleştirdikleri ve toplam değeri 1 milyon TL'yi aşan işlemleri KAP'a bildirmeleri zorunludur."
+          "e": "İdari sorumluluğu bulunan kişilerin, bir takvim yılı içinde gerçekleştirdikleri ve toplam değeri 1 milyon TL'yi aşan işlemleri KAP (kamuyu aydınlatma platformu)'a bildirmeleri zorunludur."
         },
         {
           "q": "Şemsiye fon ile alt fon arasındaki ilişki nasıldır?",
@@ -3138,7 +3138,7 @@ window.__C = {
             "A) Yalnızca yatırım fonları",
             "B) Yatırım fonları, yatırım ortaklıkları ve borsa yatırım fonları",
             "C) Yalnızca yatırım ortaklıkları",
-            "D) Yalnızca BYF'ler"
+            "D) Yalnızca BYF (borsa yatırım fonu)'ler"
           ],
           "a": 1,
           "e": "Kolektif yatırım kuruluşları; yatırım fonları (PYŞ tarafından kurulan), yatırım ortaklıkları (anonim şirket yapısında) ve borsa yatırım fonlarını kapsar."
@@ -3235,12 +3235,12 @@ window.__C = {
           "q": "Şemsiye fon içtüzüğünde değişiklik yapılması için ne gerekir?",
           "o": [
             "A) Yalnızca PYŞ YK kararı",
-            "B) KAP'ta duyurulması ve yatırımcıların bilgilendirilmesi",
+            "B) KAP (kamuyu aydınlatma platformu)'ta duyurulması ve yatırımcıların bilgilendirilmesi",
             "C) Katılımcıların tamamının onayı",
             "D) Mahkeme kararı"
           ],
           "a": 1,
-          "e": "İçtüzük değişiklikleri KAP'ta duyurularak yatırımcılar bilgilendirilir. Bazı önemli değişiklikler için ayrıca katılımcıların belirli bir süre içinde itiraz hakkı tanınır."
+          "e": "İçtüzük değişiklikleri KAP (kamuyu aydınlatma platformu)'ta duyurularak yatırımcılar bilgilendirilir. Bazı önemli değişiklikler için ayrıca katılımcıların belirli bir süre içinde itiraz hakkı tanınır."
         }
       ],
       "t5": [
@@ -3256,15 +3256,15 @@ window.__C = {
           "e": "Saklı hükümler; Kurul'un, SPK (sermaye piyasası kurulu)n'dan kaynaklanan yükümlülükleri belirli şartlarda kısmen veya tamamen uygulamamasına (muafiyet) ilişkin yetkisini kapsar."
         },
         {
-          "q": "Sermaye piyasası araçları üzerindeki rehni MKK'da tesis etmenin avantajı nedir?",
+          "q": "Sermaye piyasası araçları üzerindeki rehni MKK (merkezi kayıt kuruluşu)'da tesis etmenin avantajı nedir?",
           "o": [
             "A) Tapu siciline gerek kalmaz",
-            "B) MKK sicil kaydının tapu siciline bağımlı olmaksızın hukuki geçerlilik taşıması",
+            "B) MKK (merkezi kayıt kuruluşu) sicil kaydının tapu siciline bağımlı olmaksızın hukuki geçerlilik taşıması",
             "C) Rehin otomatik silinir",
             "D) Garanti fonu devreye girer"
           ],
           "a": 1,
-          "e": "MKK nezdinde tesis edilen rehin, tapu sicilinden bağımsız olarak hukuki geçerlilik kazanır; üçüncü kişilere karşı ileri sürülebilmesi için MKK'ya yapılan bildirim tarihinin esas alınması yeterlidir."
+          "e": "MKK (merkezi kayıt kuruluşu) nezdinde tesis edilen rehin, tapu sicilinden bağımsız olarak hukuki geçerlilik kazanır; üçüncü kişilere karşı ileri sürülebilmesi için MKK (merkezi kayıt kuruluşu)'ya yapılan bildirim tarihinin esas alınması yeterlidir."
         },
         {
           "q": "'Yatırım danışmanlığı' hizmetinin en temel özelliği nedir?",
@@ -3358,12 +3358,12 @@ window.__C = {
           "q": "'Finansal altyapı kuruluşları' kapsamına hangisi girer?",
           "o": [
             "A) Portföy yönetim şirketleri",
-            "B) Merkezi takas (Takasbank) ve merkezi saklama (MKK) kuruluşları",
+            "B) Merkezi takas (Takasbank (istanbul takas ve saklama bankası)) ve merkezi saklama (MKK (merkezi kayıt kuruluşu)) kuruluşları",
             "C) Bağımsız denetim kuruluşları",
             "D) Derecelendirme şirketleri"
           ],
           "a": 1,
-          "e": "Finansal altyapı kuruluşları; merkezi takas kuruluşu (Takasbank), merkezi saklama kuruluşu (MKK) ve ödeme/veri depolama sistemleri gibi piyasanın temel altyapısını oluşturan kuruluşlardır."
+          "e": "Finansal altyapı kuruluşları; merkezi takas kuruluşu (Takasbank (istanbul takas ve saklama bankası)), merkezi saklama kuruluşu (MKK (merkezi kayıt kuruluşu)) ve ödeme/veri depolama sistemleri gibi piyasanın temel altyapısını oluşturan kuruluşlardır."
         },
         {
           "q": "Yatırım fonu portföyünde 'değişken fon' için temel özellik nedir?",
@@ -3472,7 +3472,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Paylar — Kavramsal Çerçeve",
-        "body": "<ul><li><strong>Pay tanımı:</strong> Anonim ortaklık sermayesinin nominal değere göre bölünmüş parçası. Pay sahibine ortaklık hakları ve malvarlığı üzerinde mülkiyet hakkı verir. Minimum itibari değer 1 kuruş (TTK md.476); borsada işlem görenlerde genellikle 1 TL.</li><li><strong>Payların 3 hak grubu:</strong><br>• <em>Mali:</em> Kâr payı, bedelsiz pay, rüçhan hakkı, tasfiye bakiyesi, geri alma hakkı<br>• <em>İdari:</em> Oy hakkı, genel kurula katılma, bilgi alma, özel denetim isteme<br>• <em>Dava:</em> Butlan, iptal, sorumluluk davaları</li><li><strong>Pay türleri:</strong> Nama/hamiline; adi/imtiyazlı; bedelli/bedelsiz; primli/primsiz; kurucu/intifa. İmtiyazlı paylar oy hakkında en çok 15 oy kullanabilir.</li><li><strong>Pay – Borçlanma aracı farkı:</strong> Payın vadesi ve sabit getirisi yoktur; getiri kârlılığa bağlı değişir. İflas halinde pay sahipleri en sonda yer alır; sorumluluğu ödedikleri bedelle sınırlıdır.</li><li><strong>Sermaye piyasası aracı olarak pay:</strong> Yalnızca halka açık ortaklık payları ve borsada işlem gören paylar bu kapsama girer; tüm AŞ payları değil.</li></ul>"
+        "body": "<ul><li><strong>Pay tanımı:</strong> Anonim ortaklık sermayesinin nominal değere göre bölünmüş parçası. Pay sahibine ortaklık hakları ve malvarlığı üzerinde mülkiyet hakkı verir. Minimum itibari değer 1 kuruş (TTK (türk ticaret kanunu) md.476); borsada işlem görenlerde genellikle 1 TL.</li><li><strong>Payların 3 hak grubu:</strong><br>• <em>Mali:</em> Kâr payı, bedelsiz pay, rüçhan hakkı, tasfiye bakiyesi, geri alma hakkı<br>• <em>İdari:</em> Oy hakkı, genel kurula katılma, bilgi alma, özel denetim isteme<br>• <em>Dava:</em> Butlan, iptal, sorumluluk davaları</li><li><strong>Pay türleri:</strong> Nama/hamiline; adi/imtiyazlı; bedelli/bedelsiz; primli/primsiz; kurucu/intifa. İmtiyazlı paylar oy hakkında en çok 15 oy kullanabilir.</li><li><strong>Pay – Borçlanma aracı farkı:</strong> Payın vadesi ve sabit getirisi yoktur; getiri kârlılığa bağlı değişir. İflas halinde pay sahipleri en sonda yer alır; sorumluluğu ödedikleri bedelle sınırlıdır.</li><li><strong>Sermaye piyasası aracı olarak pay:</strong> Yalnızca halka açık ortaklık payları ve borsada işlem gören paylar bu kapsama girer; tüm AŞ payları değil.</li></ul>"
       },
       {
         "num": "02",
@@ -3482,7 +3482,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Borçlanma Araçları — Kavramsal Çerçeve",
-        "body": "<ul><li><strong>Borçlanma aracı tanımı (VII-128.8):</strong> İhraççıların borçlu sıfatıyla düzenleyerek ihraç ettiği; tahvil, paya dönüştürülebilir tahvil, değiştirilebilir tahvil, finansman bonosu, kıymetli maden bonosu ve Kurul'ca kabul edilen diğer araçlar.</li><li><strong>Kıymetli evrak – menkul kıymet – sermaye piyasası aracı ilişkisi:</strong> Her sermaye piyasası aracı kıymetli evrak değildir; menkul kıymetler kaydileştirilerek senede bağlanmaz. Kıymetli evrak: çek/bono/poliçe (ödeme aracı); menkul kıymet: yatırım aracı.</li><li><strong>Borçlanma aracı özellikleri:</strong> Belirli vadeli; sabit veya değişken faizli; ihraçcının borç yükümlülüğünü temsil eder. Pay sahiplerine nazaran önce ödeme hakkı vardır.</li><li><strong>İhraç yetkilisi:</strong> Genel kurul kararı zorunludur (TTK md.504). İhraç yetkisi yönetim kuruluna en fazla 15 ay için devredilebilir (SPK (sermaye piyasası kurulu) md.31/3 → en fazla 15 ay).</li><li><strong>TTK'daki sınır:</strong> Borçlanma araçları toplam tutarı ödenmiş sermaye + yedek akçeler toplamını aşamaz (SPK (sermaye piyasası kurulu) mevzuatı saklı).</li></ul>"
+        "body": "<ul><li><strong>Borçlanma aracı tanımı (VII-128.8):</strong> İhraççıların borçlu sıfatıyla düzenleyerek ihraç ettiği; tahvil, paya dönüştürülebilir tahvil, değiştirilebilir tahvil, finansman bonosu, kıymetli maden bonosu ve Kurul'ca kabul edilen diğer araçlar.</li><li><strong>Kıymetli evrak – menkul kıymet – sermaye piyasası aracı ilişkisi:</strong> Her sermaye piyasası aracı kıymetli evrak değildir; menkul kıymetler kaydileştirilerek senede bağlanmaz. Kıymetli evrak: çek/bono/poliçe (ödeme aracı); menkul kıymet: yatırım aracı.</li><li><strong>Borçlanma aracı özellikleri:</strong> Belirli vadeli; sabit veya değişken faizli; ihraçcının borç yükümlülüğünü temsil eder. Pay sahiplerine nazaran önce ödeme hakkı vardır.</li><li><strong>İhraç yetkilisi:</strong> Genel kurul kararı zorunludur (TTK (türk ticaret kanunu) md.504). İhraç yetkisi yönetim kuruluna en fazla 15 ay için devredilebilir (SPK (sermaye piyasası kurulu) md.31/3 → en fazla 15 ay).</li><li><strong>TTK (türk ticaret kanunu)'daki sınır:</strong> Borçlanma araçları toplam tutarı ödenmiş sermaye + yedek akçeler toplamını aşamaz (SPK (sermaye piyasası kurulu) mevzuatı saklı).</li></ul>"
       },
       {
         "num": "04",
@@ -3502,7 +3502,7 @@ window.__C = {
       {
         "num": "07",
         "title": "Türev Araçlar",
-        "body": "<ul><li><strong>Vadeli işlem sözleşmesi:</strong> Belirli bir varlığı, ileride belirlenen fiyat üzerinden alma/satma yükümlülüğü. Alıcı ve satıcı için eşit yükümlülük doğurur; her iki taraf da zorunlu.</li><li><strong>Opsiyon sözleşmesi:</strong> Alım (call) veya satım (put) hakkı verir; yükümlülük değil. Opsiyon alıcısı prim öder; bu primin dışında başka yükümlülüğü yoktur. Satıcı primi alır ama yükümlülük altına girer.</li><li><strong>Call (alım opsiyonu) primine etki:</strong> Dayanak fiyat ↑ → call prim ↑; kullanım fiyatı ↑ → call prim ↓; vadeye kalan gün ↑ → prim ↑; volatilite ↑ → prim ↑.</li><li><strong>Put (satım opsiyonu) primine etki:</strong> Dayanak fiyat ↓ → put prim ↑; kullanım fiyatı ↑ → put prim ↑.</li><li><strong>VİOP:</strong> Türkiye'de organize türev piyasası. Borsa İstanbul bünyesinde faaliyet gösterir; Takasbank MKT sıfatıyla taraf olur.</li></ul>"
+        "body": "<ul><li><strong>Vadeli işlem sözleşmesi:</strong> Belirli bir varlığı, ileride belirlenen fiyat üzerinden alma/satma yükümlülüğü. Alıcı ve satıcı için eşit yükümlülük doğurur; her iki taraf da zorunlu.</li><li><strong>Opsiyon sözleşmesi:</strong> Alım (call) veya satım (put) hakkı verir; yükümlülük değil. Opsiyon alıcısı prim öder; bu primin dışında başka yükümlülüğü yoktur. Satıcı primi alır ama yükümlülük altına girer.</li><li><strong>Call (alım opsiyonu) primine etki:</strong> Dayanak fiyat ↑ → call prim ↑; kullanım fiyatı ↑ → call prim ↓; vadeye kalan gün ↑ → prim ↑; volatilite ↑ → prim ↑.</li><li><strong>Put (satım opsiyonu) primine etki:</strong> Dayanak fiyat ↓ → put prim ↑; kullanım fiyatı ↑ → put prim ↑.</li><li><strong>VİOP:</strong> Türkiye'de organize türev piyasası. Borsa İstanbul bünyesinde faaliyet gösterir; Takasbank (istanbul takas ve saklama bankası) MKT sıfatıyla taraf olur.</li></ul>"
       },
       {
         "num": "08",
@@ -3521,7 +3521,7 @@ window.__C = {
             "D) Her anonim ortaklık payı sermaye piyasası aracıdır"
           ],
           "a": 1,
-          "e": "Pay; anonim ortaklık sermayesinin belirli nominal değere göre bölünmüş parçasıdır. TTK md.476 uyarınca minimum itibari değer 1 kuruştur (1 TL değil). Tüm AŞ payları değil, yalnızca halka açık ortaklık payları sermaye piyasası aracıdır."
+          "e": "Pay; anonim ortaklık sermayesinin belirli nominal değere göre bölünmüş parçasıdır. TTK (türk ticaret kanunu) md.476 uyarınca minimum itibari değer 1 kuruştur (1 TL değil). Tüm AŞ payları değil, yalnızca halka açık ortaklık payları sermaye piyasası aracıdır."
         },
         {
           "q": "Payların sağladığı haklar kaç başlık altında sınıflandırılmaktadır?",
@@ -3535,7 +3535,7 @@ window.__C = {
           "e": "Anonim ortaklıkta payların sağladığı haklar üç başlık altında incelenir: Mali haklar (kâr payı, rüçhan hakkı vb.), İdari haklar (oy, genel kurula katılma vb.) ve Dava hakları (butlan, iptal davası vb.)."
         },
         {
-          "q": "TTK'ya göre imtiyazlı bir paya tanınabilecek azami oy hakkı kaçtır?",
+          "q": "TTK (türk ticaret kanunu)'ya göre imtiyazlı bir paya tanınabilecek azami oy hakkı kaçtır?",
           "o": [
             "A) 5",
             "B) 10",
@@ -3543,7 +3543,7 @@ window.__C = {
             "D) Sınırsız"
           ],
           "a": 2,
-          "e": "TTK uyarınca istisnai haller hariç olmak üzere, bir paya en çok 15 oy hakkı tanınabilir. Bu sınırın aşılması mümkün değildir."
+          "e": "TTK (türk ticaret kanunu) uyarınca istisnai haller hariç olmak üzere, bir paya en çok 15 oy hakkı tanınabilir. Bu sınırın aşılması mümkün değildir."
         },
         {
           "q": "Bedelsiz sermaye artırımının temel özelliği nedir?",
@@ -3623,7 +3623,7 @@ window.__C = {
           "e": "İhraççı; payı çıkaran tüzel kişi (ortaklık)dır. Halka arz eden ise ihraç yoluyla yeni pay satan ihraççı veya mevcut paylarını satan mevcut pay sahiplerine verilen addır. Çuhadaroğlu Metal örneğinde olduğu gibi bunlar farklı kişiler olabilir."
         },
         {
-          "q": "İmtiyazlı oyun hangi konuda kullanılamayacağı TTK'da açıkça belirtilmiştir?",
+          "q": "İmtiyazlı oyun hangi konuda kullanılamayacağı TTK (türk ticaret kanunu)'da açıkça belirtilmiştir?",
           "o": [
             "A) Sermaye artırımı kararlarında",
             "B) Genel müdür atanmasında",
@@ -3631,7 +3631,7 @@ window.__C = {
             "D) Temettü kararlarında"
           ],
           "a": 2,
-          "e": "TTK uyarınca imtiyazlı oy hakkı, esas sözleşme değişikliği ile ibra ve sorumluluk davası açılmaması kararlarında kullanılamaz. Bu konularda imtiyaz devre dışı kalır."
+          "e": "TTK (türk ticaret kanunu) uyarınca imtiyazlı oy hakkı, esas sözleşme değişikliği ile ibra ve sorumluluk davası açılmaması kararlarında kullanılamaz. Bu konularda imtiyaz devre dışı kalır."
         },
         {
           "q": "Primli pay nedir?",
@@ -3689,7 +3689,7 @@ window.__C = {
           "e": "PDT'de dönüşüm ihraçcı şirketin kendi yeni paylarına yapılır (şarta bağlı sermaye artırımı). Değiştirilebilir tahvilde ise dönüşüm, ihraçcının elinde tuttuğu başka bir şirketin paylarına yapılır; ihraçcının sermayesi artmaz."
         },
         {
-          "q": "TTK md.506'ya göre borçlanma araçları toplam tutarının üst sınırı nedir?",
+          "q": "TTK (türk ticaret kanunu) md.506'ya göre borçlanma araçları toplam tutarının üst sınırı nedir?",
           "o": [
             "A) Ödenmiş sermayenin iki katı",
             "B) Ödenmiş sermaye + yedek akçeler toplamını aşamaz",
@@ -3697,7 +3697,7 @@ window.__C = {
             "D) SPK (sermaye piyasası kurulu)'nın her yıl belirlediği tutar kadar"
           ],
           "a": 1,
-          "e": "TTK md.506 uyarınca borçlanma araçlarının toplam tutarı, ödenmiş (ya da çıkarılmış) sermaye ile bilançodaki yedek akçelerin toplamını aşamaz. Ancak SPK (sermaye piyasası kurulu) mevzuatı saklı tutulmuştur; SPK (sermaye piyasası kurulu) bu sınırın üzerinde ihraç limiti belirleyebilir."
+          "e": "TTK (türk ticaret kanunu) md.506 uyarınca borçlanma araçlarının toplam tutarı, ödenmiş (ya da çıkarılmış) sermaye ile bilançodaki yedek akçelerin toplamını aşamaz. Ancak SPK (sermaye piyasası kurulu) mevzuatı saklı tutulmuştur; SPK (sermaye piyasası kurulu) bu sınırın üzerinde ihraç limiti belirleyebilir."
         },
         {
           "q": "İhraç yetkisi yönetim kuruluna devredilebiliyorsa bu devrin azami süresi nedir?",
@@ -3708,7 +3708,7 @@ window.__C = {
             "D) 24 ay"
           ],
           "a": 2,
-          "e": "TTK md.504 ve SPK (sermaye piyasası kurulu)n md.31/3 uyarınca borçlanma araçları ihraç yetkisi genel kurul tarafından yönetim kuruluna en fazla 15 ay için devredilebilir. Bu süre hem TTK hem SPK (sermaye piyasası kurulu) açısından geçerlidir."
+          "e": "TTK (türk ticaret kanunu) md.504 ve SPK (sermaye piyasası kurulu)n md.31/3 uyarınca borçlanma araçları ihraç yetkisi genel kurul tarafından yönetim kuruluna en fazla 15 ay için devredilebilir. Bu süre hem TTK (türk ticaret kanunu) hem SPK (sermaye piyasası kurulu) açısından geçerlidir."
         },
         {
           "q": "Borçlanma Aracı Sahipleri Kurulu (BASK) ne zaman zorunlu olarak kurulur?",
@@ -3845,7 +3845,7 @@ window.__C = {
           "e": "AŞ payı; anonim ortaklığa ortak olma (oy, temettü hakkı) hakkını temsil eder. Katılma payı ise tüzel kişiliği olmayan bir mal varlığında (yatırım fonu) katılımcılık hakkını temsil eder; ortaklık değildir, oy hakkı yoktur."
         },
         {
-          "q": "Borsa yatırım fonunun (BYF) en belirgin özelliği nedir?",
+          "q": "Borsa yatırım fonunun (BYF (borsa yatırım fonu)) en belirgin özelliği nedir?",
           "o": [
             "A) Yalnızca tahvil portföyü tutar",
             "B) Borsada sürekli alım satım gerçekleştirilebilen, endeks takip eden fondur",
@@ -3853,7 +3853,7 @@ window.__C = {
             "D) Garantili getiri sunar"
           ],
           "a": 1,
-          "e": "BYF; bir endeksi takip eden, borsada hisse senedi gibi sürekli işlem gören yatırım fonu türüdür. Gün içinde alım satım yapılabilir; bu özelliğiyle geleneksel açık uçlu fonlardan ayrılır."
+          "e": "BYF (borsa yatırım fonu); bir endeksi takip eden, borsada hisse senedi gibi sürekli işlem gören yatırım fonu türüdür. Gün içinde alım satım yapılabilir; bu özelliğiyle geleneksel açık uçlu fonlardan ayrılır."
         },
         {
           "q": "Repo işlemi nasıl tanımlanır?",
@@ -3870,12 +3870,12 @@ window.__C = {
           "q": "Sürdürülebilirlik bağlantılı tahvilin diğer yeşil tahvillerden farkı nedir?",
           "o": [
             "A) Daha uzun vadeli olmasıyla",
-            "B) ESG hedeflerine ulaşılamaması halinde faiz oranının olumsuz etkilenebildiği mekanizmayla",
+            "B) ESG (çevresel, sosyal ve yönetişim) hedeflerine ulaşılamaması halinde faiz oranının olumsuz etkilenebildiği mekanizmayla",
             "C) Yalnızca devlet tarafından ihraç edilmesiyle",
             "D) BASK kurulması zorunlu olmadığıyla"
           ],
           "a": 1,
-          "e": "Sürdürülebilirlik bağlantılı tahvilde fonların belirli çevresel/sosyal projelere tahsisi yerine ihraçcının genel ESG hedeflerine ulaşıp ulaşmaması önemlidir. Hedef karşılanmazsa faiz oranı artabilir — bu finansal yaptırım yapıyı diğer yeşil araçlardan ayırır."
+          "e": "Sürdürülebilirlik bağlantılı tahvilde fonların belirli çevresel/sosyal projelere tahsisi yerine ihraçcının genel ESG (çevresel, sosyal ve yönetişim) hedeflerine ulaşıp ulaşmaması önemlidir. Hedef karşılanmazsa faiz oranı artabilir — bu finansal yaptırım yapıyı diğer yeşil araçlardan ayırır."
         },
         {
           "q": "Put (satım) opsiyonu alıcısının beklentisi nedir?",
@@ -3913,13 +3913,13 @@ window.__C = {
         {
           "q": "Halka açık ortaklıkların halka açılma sonrası temel yükümlülükleri arasında hangisi yer ALMAZ?",
           "o": [
-            "A) Özel durum açıklamaları (KAP)",
+            "A) Özel durum açıklamaları (KAP (kamuyu aydınlatma platformu))",
             "B) Bağımsız denetimden geçmiş finansal tablolar",
             "C) Kurumsal yönetim ilkelerine uyum",
             "D) Tüm çalışanlarını borsaya kaydettirmek"
           ],
           "a": 3,
-          "e": "Halka açık ortaklıkların temel yükümlülükleri arasında KAP'ta özel durum açıklamaları, periyodik raporlar, bağımsız denetim ve kurumsal yönetim ilkelerine uyum yer alır. 'Çalışanları borsaya kaydettirmek' gibi bir yükümlülük bulunmamaktadır."
+          "e": "Halka açık ortaklıkların temel yükümlülükleri arasında KAP (kamuyu aydınlatma platformu)'ta özel durum açıklamaları, periyodik raporlar, bağımsız denetim ve kurumsal yönetim ilkelerine uyum yer alır. 'Çalışanları borsaya kaydettirmek' gibi bir yükümlülük bulunmamaktadır."
         },
         {
           "q": "Kıymetli maden bonosu ne tür bir ürün grubuna girer?",
@@ -3952,7 +3952,7 @@ window.__C = {
             "D) Türev araç işlemleri"
           ],
           "a": 1,
-          "e": "BAP'ta devlet iç borçlanma senetleri ve özel sektör borçlanma araçlarına yönelik kesin alım satım işlemleri ile repo ve ters repo işlemleri gerçekleştirilir. Takasbank DVP prensibini uygular; takas T+0 veya T+1'de gerçekleşir."
+          "e": "BAP'ta devlet iç borçlanma senetleri ve özel sektör borçlanma araçlarına yönelik kesin alım satım işlemleri ile repo ve ters repo işlemleri gerçekleştirilir. Takasbank (istanbul takas ve saklama bankası) DVP prensibini uygular; takas T+0 veya T+1'de gerçekleşir."
         }
       ],
       "t3": [
@@ -4020,7 +4020,7 @@ window.__C = {
             "D) Döviz cinsinden ihraç edilen tüm tahviller"
           ],
           "a": 1,
-          "e": "BİST Sürdürülebilirlik Temalı Borçlanma Araçları Endeksi; yeşil tahvil, sosyal tahvil ve sürdürülebilir tahvil gibi ESG odaklı araçları kapsayan endekstir. Yatırımcılara çevresel ve sosyal hedeflere odaklı yatırım yapma imkânı sunar."
+          "e": "BİST Sürdürülebilirlik Temalı Borçlanma Araçları Endeksi; yeşil tahvil, sosyal tahvil ve sürdürülebilir tahvil gibi ESG (çevresel, sosyal ve yönetişim) odaklı araçları kapsayan endekstir. Yatırımcılara çevresel ve sosyal hedeflere odaklı yatırım yapma imkânı sunar."
         },
         {
           "q": "Garantili yatırım fonunda garantörün zorunlu niteliği nedir?",
@@ -4130,7 +4130,7 @@ window.__C = {
             "D) Takas yoktur; tezgahüstü işlemdir"
           ],
           "a": 1,
-          "e": "BİST BAP'ta Takasbank, DVP (Delivery versus Payment — Teslimat Karşılığı Ödeme) prensibini uygular. Menkul kıymet teslimatı ile nakit ödeme eş anlı gerçekleştirilir; takas T+0 veya T+1 valörlü olarak yapılır."
+          "e": "BİST BAP'ta Takasbank (istanbul takas ve saklama bankası), DVP (Delivery versus Payment — Teslimat Karşılığı Ödeme) prensibini uygular. Menkul kıymet teslimatı ile nakit ödeme eş anlı gerçekleştirilir; takas T+0 veya T+1 valörlü olarak yapılır."
         },
         {
           "q": "Halka açık olmayan anonim ortaklıkların paylarını SPK (sermaye piyasası kurulu)n'den ayrıştıran özellik nedir?",
@@ -4152,7 +4152,7 @@ window.__C = {
             "D) Kurul'un belirlediği sabit değer"
           ],
           "a": 1,
-          "e": "Katılma payı değeri; fon portföyündeki varlıkların değerlenmesiyle bulunan fon toplam değerinin (varlıklar + alacaklar - borçlar) tedavüldeki katılma payı sayısına bölünmesiyle elde edilir. Bu değer günlük hesaplanır ve KAP'ta ilan edilir."
+          "e": "Katılma payı değeri; fon portföyündeki varlıkların değerlenmesiyle bulunan fon toplam değerinin (varlıklar + alacaklar - borçlar) tedavüldeki katılma payı sayısına bölünmesiyle elde edilir. Bu değer günlük hesaplanır ve KAP (kamuyu aydınlatma platformu)'ta ilan edilir."
         },
         {
           "q": "Borçlanma araçlarının yurt dışında satışı (Eurobond hariç) hangi tebliğ kapsamındadır?",
@@ -4212,7 +4212,7 @@ window.__C = {
           "e": "Rüçhan hakkı; halka açık ortaklıklarda belirli koşulların varlığında genel kurul tarafından ve Pay Tebliği çerçevesinde kısıtlanabilir. Kısıtlama halinde oluşan prim iç kaynaklara aktarılır; bireysel ortakların hakkının korunması esastır."
         },
         {
-          "q": "VİOP (Vadeli İşlemler ve Opsiyon Piyasası)'nda Takasbank'ın rolü nedir?",
+          "q": "VİOP (Vadeli İşlemler ve Opsiyon Piyasası)'nda Takasbank (istanbul takas ve saklama bankası)'ın rolü nedir?",
           "o": [
             "A) Yalnızca kayıt tutma",
             "B) MKT (Merkezi Karşı Taraf) sıfatıyla her sözleşmede karşı taraf olarak yer alır",
@@ -4220,7 +4220,7 @@ window.__C = {
             "D) Yalnızca yabancı yatırımcılara aracılık etme"
           ],
           "a": 1,
-          "e": "Takasbank; VİOP'ta Merkezi Karşı Taraf (MKT) sıfatıyla her vadeli işlem ve opsiyon sözleşmesinde alıcıya karşı satıcı, satıcıya karşı alıcı olarak yer alır. Bu yapı karşı taraf riskini ortadan kaldırır; hem başlangıç teminatı hem de değişim teminatı sistemi işletilir."
+          "e": "Takasbank (istanbul takas ve saklama bankası); VİOP'ta Merkezi Karşı Taraf (MKT) sıfatıyla her vadeli işlem ve opsiyon sözleşmesinde alıcıya karşı satıcı, satıcıya karşı alıcı olarak yer alır. Bu yapı karşı taraf riskini ortadan kaldırır; hem başlangıç teminatı hem de değişim teminatı sistemi işletilir."
         },
         {
           "q": "Pay sahibinin iflas halindeki sınırlı sorumluluğu ne anlama gelir?",
@@ -4374,7 +4374,7 @@ window.__C = {
             "D) Yalnızca büyük yatırımcılara açık olması"
           ],
           "a": 1,
-          "e": "Organize borsalarda (VİOP gibi) işlem gören opsiyon sözleşmeleri standartlaştırılmış özelliklere sahiptir ve Takasbank gibi merkezi takas kuruluşu karşı taraf riskini üstlenir. Tezgahüstü (OTC) opsiyonlar daha esnek ancak karşı taraf riski taşır."
+          "e": "Organize borsalarda (VİOP gibi) işlem gören opsiyon sözleşmeleri standartlaştırılmış özelliklere sahiptir ve Takasbank (istanbul takas ve saklama bankası) gibi merkezi takas kuruluşu karşı taraf riskini üstlenir. Tezgahüstü (OTC) opsiyonlar daha esnek ancak karşı taraf riski taşır."
         },
         {
           "q": "'Kıymetli evrakın fiziksel olması zorunlu mudur?' — Sermaye piyasası araçları açısından değerlendirin.",
@@ -4385,7 +4385,7 @@ window.__C = {
             "D) Yalnızca hisse senetleri fiziksel basılabilir; tahviller kaydileştirilmiştir"
           ],
           "a": 1,
-          "e": "SPK (sermaye piyasası kurulu)n'deki düzenlemeler çerçevesinde sermaye piyasası araçları artık senede bağlanmayıp elektronik ortamda (MKK nezdinde) kayden izlenmektedir. Bu nedenle söz konusu araçlar şeklen kıymetli evrak alanının dışına çıkmış olmakla birlikte mahiyetlerine uygun düştüğü ölçüde kıymetli evrak hükümlerine tabidir."
+          "e": "SPK (sermaye piyasası kurulu)n'deki düzenlemeler çerçevesinde sermaye piyasası araçları artık senede bağlanmayıp elektronik ortamda (MKK (merkezi kayıt kuruluşu) nezdinde) kayden izlenmektedir. Bu nedenle söz konusu araçlar şeklen kıymetli evrak alanının dışına çıkmış olmakla birlikte mahiyetlerine uygun düştüğü ölçüde kıymetli evrak hükümlerine tabidir."
         },
         {
           "q": "Tek fiyat (Hollanda) ihalesinde Hazine'nin gelir açısından temel riski nedir?",
@@ -4638,7 +4638,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Vadeli İşlem Sözleşmeleri — Forward ve Futures",
-        "body": "<ul><li><strong>Forward özellikleri:</strong> OTC, esnek, karşı taraf riski yüksek, vade sonunda teslimat veya nakdi uzlaşma.</li><li><strong>Futures özellikleri:</strong> Borsa, standart, merkezi takas, günlük mark-to-market, teminat zorunlu.</li><li><strong>Margin (teminat) sistemi:</strong><br>→ Başlangıç teminatı: pozisyon açmak için gerekli.<br>→ Sürdürme teminatı: korunması gereken minimum.<br>→ Margin call: hesap sürdürme teminatının altına düşerse başlangıç teminatına tamamlama çağrısı.</li><li><strong>Kaldıraç:</strong> Sözleşme değerinin küçük bir kısmını teminat olarak yatırarak büyük pozisyon. Hem kârı hem zararı büyütür.</li><li><strong>VİOP:</strong> Türkiye'de organize vadeli işlem piyasası. BIST bünyesinde. Döviz, endeks, hisse, altın sözleşmeleri.</li></ul>"
+        "body": "<ul><li><strong>Forward özellikleri:</strong> OTC, esnek, karşı taraf riski yüksek, vade sonunda teslimat veya nakdi uzlaşma.</li><li><strong>Futures özellikleri:</strong> Borsa, standart, merkezi takas, günlük mark-to-market, teminat zorunlu.</li><li><strong>Margin (teminat) sistemi:</strong><br>→ Başlangıç teminatı: pozisyon açmak için gerekli.<br>→ Sürdürme teminatı: korunması gereken minimum.<br>→ Margin call: hesap sürdürme teminatının altına düşerse başlangıç teminatına tamamlama çağrısı.</li><li><strong>Kaldıraç:</strong> Sözleşme değerinin küçük bir kısmını teminat olarak yatırarak büyük pozisyon. Hem kârı hem zararı büyütür.</li><li><strong>VİOP:</strong> Türkiye'de organize vadeli işlem piyasası. BIS (uluslararası ödemeler bankası)T (borsa istanbul) bünyesinde. Döviz, endeks, hisse, altın sözleşmeleri.</li></ul>"
       },
       {
         "num": "04",
@@ -4648,7 +4648,7 @@ window.__C = {
       {
         "num": "05",
         "title": "Swap (Değişim) Anlaşmaları",
-        "body": "<ul><li><strong>Swap tanımı:</strong> İki tarafın gelecekteki nakit akışlarını değiştirdiği OTC sözleşme. Global türev piyasasının en büyük segmenti.</li><li><strong>Faiz swabı (IRS):</strong> Sabit faiz ile değişken faizi takas. Anapara el değiştirmez, yalnızca faiz farkı ödenir. Kullanım: faiz riskinden korunma, borçlanma maliyeti optimizasyonu.</li><li><strong>Para swabı (Currency Swap):</strong> Farklı para birimlerinde hem anapara hem faiz değişimi. Dönem başı ve sonunda anapara el değiştirir.</li><li><strong>Kredi temerrüt swabı (CDS):</strong> Referans varlığın temerrüdüne karşı koruma. Prim ödeyen taraf riski devreder. 2008 krizinin kilit araçlarından.</li><li><strong>Swap değerlemesi:</strong> Başlangıçta NPV = 0. Sonradan faiz değişimiyle değer oluşur. Faiz artan taraf için sabit ödeyen pozisyon değer kazanır.</li></ul>"
+        "body": "<ul><li><strong>Swap tanımı:</strong> İki tarafın gelecekteki nakit akışlarını değiştirdiği OTC sözleşme. Global türev piyasasının en büyük segmenti.</li><li><strong>Faiz swabı (IRS):</strong> Sabit faiz ile değişken faizi takas. Anapara el değiştirmez, yalnızca faiz farkı ödenir. Kullanım: faiz riskinden korunma, borçlanma maliyeti optimizasyonu.</li><li><strong>Para swabı (Currency Swap):</strong> Farklı para birimlerinde hem anapara hem faiz değişimi. Dönem başı ve sonunda anapara el değiştirir.</li><li><strong>Kredi temerrüt swabı (CDS (kredi temerrüt swap)):</strong> Referans varlığın temerrüdüne karşı koruma. Prim ödeyen taraf riski devreder. 2008 krizinin kilit araçlarından.</li><li><strong>Swap değerlemesi:</strong> Başlangıçta NPV = 0. Sonradan faiz değişimiyle değer oluşur. Faiz artan taraf için sabit ödeyen pozisyon değer kazanır.</li></ul>"
       },
       {
         "num": "06",
@@ -4690,10 +4690,10 @@ window.__C = {
             "A) TCMB (türkiye cumhuriyet merkez bankası)",
             "B) Borsa İstanbul",
             "C) SPK (sermaye piyasası kurulu)",
-            "D) Takasbank"
+            "D) Takasbank (istanbul takas ve saklama bankası)"
           ],
           "a": 1,
-          "e": "VİOP (Vadeli İşlem ve Opsiyon Piyasası) Borsa İstanbul bünyesinde organize türev piyasası olarak faaliyet gösterir. Merkezi takas Takasbank tarafından yürütülür."
+          "e": "VİOP (Vadeli İşlem ve Opsiyon Piyasası) Borsa İstanbul bünyesinde organize türev piyasası olarak faaliyet gösterir. Merkezi takas Takasbank (istanbul takas ve saklama bankası) tarafından yürütülür."
         },
         {
           "q": "OTC türev piyasalarının en temel dezavantajı nedir?",
@@ -4825,7 +4825,7 @@ window.__C = {
             "D) Aracı kurumun varlıkları"
           ],
           "a": 1,
-          "e": "Dayanak varlık: Türev aracın değerinin bağlı olduğu ve fiyatını belirleyen varlık. Örnekler: hisse, USD/TRY, altın, BIST30. Dayanak varlık el değiştirmeyebilir — nakdi uzlaşma da mümkün."
+          "e": "Dayanak varlık: Türev aracın değerinin bağlı olduğu ve fiyatını belirleyen varlık. Örnekler: hisse, USD/TRY, altın, BIS (uluslararası ödemeler bankası)T (borsa istanbul)30. Dayanak varlık el değiştirmeyebilir — nakdi uzlaşma da mümkün."
         },
         {
           "q": "Organize türev piyasalarının OTC'ye avantajı nedir?",
@@ -4858,7 +4858,7 @@ window.__C = {
             "D) Yalnızca tahvil"
           ],
           "a": 1,
-          "e": "VİOP'ta: USD/TRY, EUR/TRY döviz futures ve opsiyonları; BIST30 endeks futures ve opsiyonları; altın, elektrik futures; BIST30 bileşeni hisse futures."
+          "e": "VİOP'ta: USD/TRY, EUR/TRY döviz futures ve opsiyonları; BIS (uluslararası ödemeler bankası)T (borsa istanbul)30 endeks futures ve opsiyonları; altın, elektrik futures; BIS (uluslararası ödemeler bankası)T (borsa istanbul)30 bileşeni hisse futures."
         },
         {
           "q": "Spekülatörün türev piyasasındaki ekonomik rolü nedir?",
@@ -4891,7 +4891,7 @@ window.__C = {
             "D) Kayıt tutar"
           ],
           "a": 1,
-          "e": "Merkezi karşı taraf (CCP), Türkiye'de Takasbank: Futures işleminde her iki tarafın karşısına geçerek karşı taraf riskini üstlenir. Günlük mark-to-market ve teminat sistemini de yönetir."
+          "e": "Merkezi karşı taraf (CCP), Türkiye'de Takasbank (istanbul takas ve saklama bankası): Futures işleminde her iki tarafın karşısına geçerek karşı taraf riskini üstlenir. Günlük mark-to-market ve teminat sistemini de yönetir."
         }
       ],
       "t2": [
@@ -5134,10 +5134,10 @@ window.__C = {
             "A) Sabit faiz alan ve değişken ödeyen IRS'e girer",
             "B) Sabit faiz ödeyen ve değişken faiz alan IRS'e girer",
             "C) Para swabına girer",
-            "D) CDS satın alır"
+            "D) CDS (kredi temerrüt swap) satın alır"
           ],
           "a": 1,
-          "e": "Sabit öde/değişken al IRS: Borçlu kredide LIBOR+2% öder; swaptan LIBOR alır; net sabit ödeme. Faiz artsa bile sabit yükümlülük değişmez — faiz artış riski ortadan kalkar."
+          "e": "Sabit öde/değişken al IRS: Borçlu kredide LIBOR (londra bankalararası teklif faizi)+2% öder; swaptan LIBOR (londra bankalararası teklif faizi) alır; net sabit ödeme. Faiz artsa bile sabit yükümlülük değişmez — faiz artış riski ortadan kalkar."
         },
         {
           "q": "Para swabının faiz swabından farkı nedir?",
@@ -5151,7 +5151,7 @@ window.__C = {
           "e": "Para swabı: iki farklı para birimi, başlangıç ve vadede anapara el değiştirir, süre boyunca faiz ödemeleri yapılır. IRS'de ise aynı para birimi, yalnızca sabit-değişken faiz farkı ödenir."
         },
         {
-          "q": "CDS nasıl çalışır?",
+          "q": "CDS (kredi temerrüt swap) nasıl çalışır?",
           "o": [
             "A) İki şirket hisse takas eder",
             "B) Koruma alıcısı prim öder; referans varlık temerrüde düşerse koruma satıcısı tazminat öder",
@@ -5159,7 +5159,7 @@ window.__C = {
             "D) Yalnızca devlet tahvilleri için"
           ],
           "a": 1,
-          "e": "CDS: Kredi riski transfer aracı. Koruma alıcısı periyodik prim öder; referans varlık temerrüde düşerse satıcı tazminat öder. Kredi riski sigorta poliçesi gibi çalışır."
+          "e": "CDS (kredi temerrüt swap): Kredi riski transfer aracı. Koruma alıcısı periyodik prim öder; referans varlık temerrüde düşerse satıcı tazminat öder. Kredi riski sigorta poliçesi gibi çalışır."
         },
         {
           "q": "Swap sözleşmesinin başlangıçtaki değeri neden sıfırdır?",
@@ -5239,7 +5239,7 @@ window.__C = {
           "e": "Swap teorik temeli: A firması sabit piyasada, B değişken piyasada görece avantajlı. Her ikisi kendi avantajlı piyasadan borçlanıp swapla takas yaparsa her iki taraf da net maliyetini düşürür."
         },
         {
-          "q": "CDS spread ne anlama gelir?",
+          "q": "CDS (kredi temerrüt swap) spread ne anlama gelir?",
           "o": [
             "A) Sözleşmenin vadesi",
             "B) Koruma alıcısının yıllık ödediği prim oranı — referans varlığın kredi riskini yansıtır",
@@ -5247,7 +5247,7 @@ window.__C = {
             "D) Borsa komisyonu"
           ],
           "a": 1,
-          "e": "CDS spread: Yıllık prim, baz puan (bp) cinsinden. 100 bp = %1. Spread yükseldikçe temerrüt riski arttı anlamı taşır. Sovereign CDS spread'leri ülke riski göstergesi olarak izlenir."
+          "e": "CDS (kredi temerrüt swap) spread: Yıllık prim, baz puan (bp) cinsinden. 100 bp = %1. Spread yükseldikçe temerrüt riski arttı anlamı taşır. Sovereign CDS (kredi temerrüt swap) spread'leri ülke riski göstergesi olarak izlenir."
         },
         {
           "q": "Para swabında kur riski nasıl yönetilir?",
@@ -5280,7 +5280,7 @@ window.__C = {
             "D) Yalnızca büyük bankalar etkilendi"
           ],
           "a": 1,
-          "e": "Dodd-Frank ve EMIR düzenlemeleri: Standart IRS ve CDS merkezi takas yükümlülüğüne tabi. CCR azaldı; teminat zorunluluğu getirildi; trade repository raporlaması eklendi. Sistemik risk azaldı."
+          "e": "Dodd-Frank ve EMIR (avrupa piyasa altyapısı yönetmeliği) düzenlemeleri: Standart IRS ve CDS (kredi temerrüt swap) merkezi takas yükümlülüğüne tabi. CCR azaldı; teminat zorunluluğu getirildi; trade repository raporlaması eklendi. Sistemik risk azaldı."
         },
         {
           "q": "Delta-nötr portföy oluşturmanın amacı nedir?",
@@ -5313,7 +5313,7 @@ window.__C = {
             "D) Net ödeme sadece vade sonunda yapılır"
           ],
           "a": 2,
-          "e": "Faiz swabında anapara aynı para birimindeyse el değiştirmez (notional/hayali anapara). Taraflar yalnızca dönemde oluşan sabit-değişken faiz farkını netleştirerek öder. Örn. sabit %8 borçlu, LIBOR+2 alıyorsa; LIBOR=%7 ise net 0 (8=9'a yakın), LIBOR=%6 ise 0 ödeme yönü sabit tarafa."
+          "e": "Faiz swabında anapara aynı para birimindeyse el değiştirmez (notional/hayali anapara). Taraflar yalnızca dönemde oluşan sabit-değişken faiz farkını netleştirerek öder. Örn. sabit %8 borçlu, LIBOR (londra bankalararası teklif faizi)+2 alıyorsa; LIBOR (londra bankalararası teklif faizi)=%7 ise net 0 (8=9'a yakın), LIBOR (londra bankalararası teklif faizi)=%6 ise 0 ödeme yönü sabit tarafa."
         },
         {
           "q": "Egzotik opsiyonlardan 'bariyerli opsiyon' nedir?",
@@ -5483,15 +5483,15 @@ window.__C = {
           "e": "Monte Carlo: Analitik formülü olmayan egzotik türevlerin fiyatlamasında kullanılır. Binlerce fiyat yolu simüle edilir; her yolda vadedeki değer hesaplanır; risksiz faizle iskonto edilir; ortalaması alınır."
         },
         {
-          "q": "CVaR VaR'a göre neden üstündür?",
+          "q": "CVaR (riske maruz değer) VaR (riske maruz değer)'a göre neden üstündür?",
           "o": [
             "A) Her zaman aynı",
-            "B) VaR'ı aşan kayıpların ortalamasını ölçer; kuyruk riskini daha iyi yakalar",
-            "C) CVaR her zaman VaR'dan küçük",
+            "B) VaR (riske maruz değer)'ı aşan kayıpların ortalamasını ölçer; kuyruk riskini daha iyi yakalar",
+            "C) CVaR (riske maruz değer) her zaman VaR (riske maruz değer)'dan küçük",
             "D) Yalnızca normal dağılımda çalışır"
           ],
           "a": 1,
-          "e": "CVaR: VaR'ın aşıldığı senaryolardaki ortalama kayıp. Opsiyonlar doğrusal olmayan payoff yaratır; VaR tek eşik değerken CVaR tüm kuyruk dağılımını özetler. Basel III/IV FRTB'de CVaR VaR'ın yerini aldı."
+          "e": "CVaR (riske maruz değer): VaR (riske maruz değer)'ın aşıldığı senaryolardaki ortalama kayıp. Opsiyonlar doğrusal olmayan payoff yaratır; VaR (riske maruz değer) tek eşik değerken CVaR (riske maruz değer) tüm kuyruk dağılımını özetler. Basel (uluslararası bankacılık düzenleme çerçevesi) III/IV FRTB'de CVaR (riske maruz değer) VaR (riske maruz değer)'ın yerini aldı."
         },
         {
           "q": "Opsiyon fiyatlamasında 'tarihsel oynaklık' ile 'zımni oynaklık' farkı nedir?",
@@ -5546,7 +5546,7 @@ window.__C = {
             "D) Döviz kur farkı"
           ],
           "a": 1,
-          "e": "CDS spread: koruma alan (protection buyer) tarafın koruma satana ödediği yıllık prim (baz puan cinsinden). Spread = Temerrüt Olasılığı × Kayıp Şiddeti (yaklaşık). Şirketin kredi kalitesi düştükçe spread genişler. CDS spread'i tahvil spread'ine yakın olmalı; aksi hâlde arbitraj imkânı doğar."
+          "e": "CDS (kredi temerrüt swap) spread: koruma alan (protection buyer) tarafın koruma satana ödediği yıllık prim (baz puan cinsinden). Spread = Temerrüt Olasılığı × Kayıp Şiddeti (yaklaşık). Şirketin kredi kalitesi düştükçe spread genişler. CDS (kredi temerrüt swap) spread'i tahvil spread'ine yakın olmalı; aksi hâlde arbitraj imkânı doğar."
         },
         {
           "q": "Türev araçların bilanço dışı finansman amacıyla kullanılması ne anlama gelir?",
@@ -5557,7 +5557,7 @@ window.__C = {
             "D) Türevler her zaman bilançoya alınır"
           ],
           "a": 1,
-          "e": "Bilanço dışı finansman: şirketlerin türevler (özellikle swaplar ve yapılandırılmış ürünler) aracılığıyla fiili borç yükümlülüklerini bilanço dışında tutması. UFRS 9 ve TMS 39 kapsamında gerçeğe uygun değer muhasebesi zorunlu hâle getirilmiş; şeffaflık artırılmıştır. Enron skandalı bu kullanımın uç örneğidir."
+          "e": "Bilanço dışı finansman: şirketlerin türevler (özellikle swaplar ve yapılandırılmış ürünler) aracılığıyla fiili borç yükümlülüklerini bilanço dışında tutması. UFRS (uluslararası finansal raporlama standartları) 9 ve TMS 39 kapsamında gerçeğe uygun değer muhasebesi zorunlu hâle getirilmiş; şeffaflık artırılmıştır. Enron skandalı bu kullanımın uç örneğidir."
         }
       ],
       "t5": [
@@ -5589,7 +5589,7 @@ window.__C = {
             "A) Hisse satarak",
             "B) Endeks put alımı veya endeks futures satımı ile portföy değer kaybı sınırlandırılır",
             "C) Yalnızca nakit tutarak",
-            "D) CDS satın alarak"
+            "D) CDS (kredi temerrüt swap) satın alarak"
           ],
           "a": 1,
           "e": "Portföy sigortası: endeks put alımı ile kayıp sınırlanır (prim maliyeti var); endeks futures satımı ile beta azaltılır; dinamik hedging ile fiyat düşerken kademeli futures satılır."
@@ -5760,15 +5760,15 @@ window.__C = {
           "e": "Korelasyon riski: Piyasa stres dönemlerinde normalde düşük korelasyonlu varlıkların korelasyonunun 1'e yaklaşması. Diversifikasyon etkisi yok olur. 2008 krizi korelasyon riskinin en çarpıcı örneğidir; normalde ilişkisiz varlıklar eş zamanlı değer kaybetti."
         },
         {
-          "q": "'Stres testi' risk yönetiminde VaR'ı nasıl tamamlar?",
+          "q": "'Stres testi' risk yönetiminde VaR (riske maruz değer)'ı nasıl tamamlar?",
           "o": [
-            "A) Stres testi VaR'ın yerine geçer",
-            "B) VaR normal piyasa koşullarındaki olasılıksal kaybı ölçer; stres testi aşırı/olağandışı senaryolarda (kriz) gerçekleşebilecek kayıpları simüle eder",
+            "A) Stres testi VaR (riske maruz değer)'ın yerine geçer",
+            "B) VaR (riske maruz değer) normal piyasa koşullarındaki olasılıksal kaybı ölçer; stres testi aşırı/olağandışı senaryolarda (kriz) gerçekleşebilecek kayıpları simüle eder",
             "C) İkisi aynı yöntemi kullanır",
             "D) Stres testi yalnızca bankalar için"
           ],
           "a": 1,
-          "e": "VaR: %95 veya %99 güven aralığında normal koşullarda maksimum kayıp. Kuyruk risklerini yeterince ölçmez. Stres testi: tarihsel kriz senaryoları (2008, COVID vb.) veya hipotetik ekstrem senaryolara göre portföy değer kaybı simülasyonu. İkisi birlikte kullanılmalı."
+          "e": "VaR (riske maruz değer): %95 veya %99 güven aralığında normal koşullarda maksimum kayıp. Kuyruk risklerini yeterince ölçmez. Stres testi: tarihsel kriz senaryoları (2008, COVID vb.) veya hipotetik ekstrem senaryolara göre portföy değer kaybı simülasyonu. İkisi birlikte kullanılmalı."
         },
         {
           "q": "Türev araçlarda 'karşı taraf riski' nasıl azaltılır?",
@@ -5779,7 +5779,7 @@ window.__C = {
             "D) Vade kısaltılarak"
           ],
           "a": 1,
-          "e": "Karşı taraf (kredi) riski azaltma yöntemleri: (1) Merkezi karşı taraf (CCP) takas — borsa işlemlerinde otomatik. (2) Teminat (collateral) — günlük mark-to-market, teminat tamamlama. (3) ISDA netleştirme sözleşmesi — net pozisyon esas alınır. (4) Kredi destek eki (CSA). (5) Karşı taraf limitleri. Basel III bu riski 'CVA' (kredi değerleme düzeltmesi) olarak sermaye yüküne dahil etmiştir."
+          "e": "Karşı taraf (kredi) riski azaltma yöntemleri: (1) Merkezi karşı taraf (CCP) takas — borsa işlemlerinde otomatik. (2) Teminat (collateral) — günlük mark-to-market, teminat tamamlama. (3) ISDA netleştirme sözleşmesi — net pozisyon esas alınır. (4) Kredi destek eki (CSA). (5) Karşı taraf limitleri. Basel (uluslararası bankacılık düzenleme çerçevesi) III bu riski 'CVA' (kredi değerleme düzeltmesi) olarak sermaye yüküne dahil etmiştir."
         }
       ]
     }
@@ -5799,7 +5799,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Kurum Kazancı, İstisnalar ve İndirimler",
-        "body": "<ul><li><strong>Kurumlar vergisinden istisna kazançlar:</strong> İştirak kazançları istisnası (tam mükellef kurumdan alınan kâr payı). Yurt dışı iştirak kazançları istisnası. Tam mükellef anonim şirketlerin yurt dışı iştiraklerinden elde ettikleri kâr payları. Taşınmaz ve iştirak hissesi satış kazancı istisnası (%75). Emisyon primi.</li><li><strong>Ar-Ge indirimi:</strong> Ar-Ge harcamalarının %100'ü kurum kazancından indirilir (Ar-Ge kanunu kapsamında). Nakdi sermaye artırımında faiz indirimi.</li><li><strong>Kanunen kabul edilmeyen giderler (KKEG):</strong> Öz sermaye faizleri, örtülü sermaye faizleri, her türlü para cezaları ve vergi cezaları, bağış ve yardımlar (istisna olanlar hariç), alkol-tütün reklamları.</li><li><strong>Örtülü sermaye:</strong> Ortaklardan veya ortaklarla ilişkili kişilerden kullanılan borçların özkaynakların üç katını aşan kısmı. Aşan kısım üzerinden ödenen faizler KKEG.</li><li><strong>Transfer fiyatlandırması (örtülü kazanç dağıtımı):</strong> İlişkili kişilerle emsalsiz bedel üzerinden işlem yapılması. OECD emsal bedel ilkesine dayalı.</li></ul>"
+        "body": "<ul><li><strong>Kurumlar vergisinden istisna kazançlar:</strong> İştirak kazançları istisnası (tam mükellef kurumdan alınan kâr payı). Yurt dışı iştirak kazançları istisnası. Tam mükellef anonim şirketlerin yurt dışı iştiraklerinden elde ettikleri kâr payları. Taşınmaz ve iştirak hissesi satış kazancı istisnası (%75). Emisyon primi.</li><li><strong>Ar-Ge indirimi:</strong> Ar-Ge harcamalarının %100'ü kurum kazancından indirilir (Ar-Ge kanunu kapsamında). Nakdi sermaye artırımında faiz indirimi.</li><li><strong>Kanunen kabul edilmeyen giderler (KKEG):</strong> Öz sermaye faizleri, örtülü sermaye faizleri, her türlü para cezaları ve vergi cezaları, bağış ve yardımlar (istisna olanlar hariç), alkol-tütün reklamları.</li><li><strong>Örtülü sermaye:</strong> Ortaklardan veya ortaklarla ilişkili kişilerden kullanılan borçların özkaynakların üç katını aşan kısmı. Aşan kısım üzerinden ödenen faizler KKEG.</li><li><strong>Transfer fiyatlandırması (örtülü kazanç dağıtımı):</strong> İlişkili kişilerle emsalsiz bedel üzerinden işlem yapılması. OECD (ekonomik kalkınma ve işbirliği örgütü) emsal bedel ilkesine dayalı.</li></ul>"
       },
       {
         "num": "04",
@@ -5824,7 +5824,7 @@ window.__C = {
       {
         "num": "08",
         "title": "Yurt İçi Asgari Kurumlar Vergisi ve Küresel Asgari Vergi",
-        "body": "<ul><li><strong>Yurt içi asgari kurumlar vergisi:</strong> 7524 sayılı Kanun ile 2024'ten itibaren getirildi. Uygulama: istisnalar ve indirimler düşülmeden önceki kurum kazancının %10'u — asgari tutar. Fiilen hesaplanan KV bu tutarın altındaysa fark vergi olarak ödenir.</li><li><strong>Küresel asgari tamamlayıcı kurumlar vergisi (OECD Pillar 2):</strong> Yıllık 750 milyon Euro üzerinde konsolide hasılat olan çok uluslu şirket grupları için etkin vergi oranı %15 zorunlu minimum. Türkiye'de uygulama 2025'te başlamıştır.</li><li><strong>Nitelikli yurt içi asgari tamamlayıcı vergi (QDMTT):</strong> Türkiye'nin kendi uygulanan kuralı — Türkiye'deki şirketin ETR'ı %15'in altındaysa farkı Türkiye toplar (başka ülkelerin toplaması yerine).</li><li><strong>GloBE kuralları:</strong> Income Inclusion Rule (IIR), Undertaxed Profits Rule (UTPR). Tüm GloBE hesaplamaları yurt içi birim vergi matrahı esas alınarak yapılır.</li></ul>"
+        "body": "<ul><li><strong>Yurt içi asgari kurumlar vergisi:</strong> 7524 sayılı Kanun ile 2024'ten itibaren getirildi. Uygulama: istisnalar ve indirimler düşülmeden önceki kurum kazancının %10'u — asgari tutar. Fiilen hesaplanan KV bu tutarın altındaysa fark vergi olarak ödenir.</li><li><strong>Küresel asgari tamamlayıcı kurumlar vergisi (OECD (ekonomik kalkınma ve işbirliği örgütü) Pillar 2):</strong> Yıllık 750 milyon Euro üzerinde konsolide hasılat olan çok uluslu şirket grupları için etkin vergi oranı %15 zorunlu minimum. Türkiye'de uygulama 2025'te başlamıştır.</li><li><strong>Nitelikli yurt içi asgari tamamlayıcı vergi (QDMTT):</strong> Türkiye'nin kendi uygulanan kuralı — Türkiye'deki şirketin ETR'ı %15'in altındaysa farkı Türkiye toplar (başka ülkelerin toplaması yerine).</li><li><strong>GloBE kuralları:</strong> Income Inclusion Rule (IIR), Undertaxed Profits Rule (UTPR). Tüm GloBE hesaplamaları yurt içi birim vergi matrahı esas alınarak yapılır.</li></ul>"
       }
     ],
     "tests": {
@@ -5904,7 +5904,7 @@ window.__C = {
             "D) Transfer fiyatlandırması Türkiye'de uygulanmaz"
           ],
           "a": 1,
-          "e": "Örtülü kazanç dağıtımı / Transfer fiyatlandırması (KVK md.13): kurumların ilişkili kişilerle gerçekleştirdiği mal veya hizmet alım-satımı ve benzeri işlemlerde uygulanan bedelin piyasa fiyatından (emsallere uygun fiyattan) farklı olması durumunda aradaki fark örtülü kazanç dağıtımı sayılır. OECD'nin emsal bedel ilkesine uygun fiyatlandırma zorunluluğu."
+          "e": "Örtülü kazanç dağıtımı / Transfer fiyatlandırması (KVK md.13): kurumların ilişkili kişilerle gerçekleştirdiği mal veya hizmet alım-satımı ve benzeri işlemlerde uygulanan bedelin piyasa fiyatından (emsallere uygun fiyattan) farklı olması durumunda aradaki fark örtülü kazanç dağıtımı sayılır. OECD (ekonomik kalkınma ve işbirliği örgütü)'nin emsal bedel ilkesine uygun fiyatlandırma zorunluluğu."
         },
         {
           "q": "Geçici 67. madde uygulamasında hangi gelirler beyan dışı tutulur?",
@@ -6129,7 +6129,7 @@ window.__C = {
           "e": "Para swap'ında başlangıçta ve vade sonunda anapara değişimi gerçekleşir. Her anapara değişiminde kurlar farklıysa kur farkı oluşur. Bu kur farkı kurum kazancının tespitinde değerlendirilir. Dönem sonlarında değerleme de yapılır. Türev araç olarak değerleme/gerçekleşme esası Maliye Bakanlığı tebliğleriyle belirlenir."
         },
         {
-          "q": "Borsa yatırım fonlarının (BYF/ETF) alım-satım kazancı nasıl vergilendirilir?",
+          "q": "Borsa yatırım fonlarının (BYF (borsa yatırım fonu)/ETF (borsa yatırım fonu)) alım-satım kazancı nasıl vergilendirilir?",
           "o": [
             "A) Vergiden muaf",
             "B) Geçici 67 kapsamında %10 stopaj; aracı kurum/banka tarafından kesilir, nihaî vergi",
@@ -6159,7 +6159,7 @@ window.__C = {
             "D) %25 KV oranında"
           ],
           "a": 1,
-          "e": "MKYO, GYO ve RSYO'dan tam mükellef gerçek kişiye dağıtılan kâr payı: Anonim şirketin kâr payı vergileme kuralları uygulanır. Brüt tutarın yarısı GVK md.22 gereğince gelir vergisinden istisna. Kalan yarı diğer gelirlerle birleştirilerek beyan edilir. %15 stopaj yapılmışsa beyannamede mahsup edilir."
+          "e": "MKYO, GYO (gayrimenkul yatırım ortaklığı) ve RSYO'dan tam mükellef gerçek kişiye dağıtılan kâr payı: Anonim şirketin kâr payı vergileme kuralları uygulanır. Brüt tutarın yarısı GVK md.22 gereğince gelir vergisinden istisna. Kalan yarı diğer gelirlerle birleştirilerek beyan edilir. %15 stopaj yapılmışsa beyannamede mahsup edilir."
         },
         {
           "q": "Özel sektör tahvilinin faiz gelirine tam mükellef gerçek kişi için uygulanan stopaj oranı nedir?",
@@ -6304,7 +6304,7 @@ window.__C = {
             "D) Yönetim takdiriyle belirlenir"
           ],
           "a": 1,
-          "e": "Emsal bedel yöntemleri (KVK md.13): (1) Karşılaştırılabilir kontrol edilmemiş fiyat yöntemi (CUP). (2) Maliyet artı yöntemi. (3) Yeniden satış fiyatı yöntemi. (4) İşleme dayalı net kâr marjı yöntemi. (5) İşleme dayalı kâr bölüşümü yöntemi. En güvenilir yöntemi seçme zorunluluğu var (OECD rehberi esas). Belgelendirme yükümlülüğü de bu madde kapsamında."
+          "e": "Emsal bedel yöntemleri (KVK md.13): (1) Karşılaştırılabilir kontrol edilmemiş fiyat yöntemi (CUP). (2) Maliyet artı yöntemi. (3) Yeniden satış fiyatı yöntemi. (4) İşleme dayalı net kâr marjı yöntemi. (5) İşleme dayalı kâr bölüşümü yöntemi. En güvenilir yöntemi seçme zorunluluğu var (OECD (ekonomik kalkınma ve işbirliği örgütü) rehberi esas). Belgelendirme yükümlülüğü de bu madde kapsamında."
         },
         {
           "q": "GloBE kurallarında 'income inclusion rule (IIR)' nedir?",
@@ -6448,7 +6448,7 @@ window.__C = {
             "D) Peçeleme vergi avantajı sağlar"
           ],
           "a": 1,
-          "e": "Peçeleme (Vergi hukukunda): mükellefin vergi yükünü azaltmak için gerçek ekonomik niteliğine uygun olmayan hukuki görünümler kullanması. VUK md.3: vergilemede iktisadi, ticari ve teknik icaplara uymayan işlemlerde gerçek mahiyet esas alınır. Vergi idaresi peçeleme saptarsa işlemin gerçek ekonomik niteliğine göre vergileme yapar — biçime değil öze bakılır."
+          "e": "Peçeleme (Vergi hukukunda): mükellefin vergi yükünü azaltmak için gerçek ekonomik niteliğine uygun olmayan hukuki görünümler kullanması. VUK (vergi usul kanunu) md.3: vergilemede iktisadi, ticari ve teknik icaplara uymayan işlemlerde gerçek mahiyet esas alınır. Vergi idaresi peçeleme saptarsa işlemin gerçek ekonomik niteliğine göre vergileme yapar — biçime değil öze bakılır."
         },
         {
           "q": "Dar mükellef gerçek kişi, Türkiye'deki devlet tahvilinden faiz alıyorsa vergi yükümlülüğü nedir?",
@@ -6459,7 +6459,7 @@ window.__C = {
             "D) Kendi ülkesinde vergilendirilir"
           ],
           "a": 1,
-          "e": "Dar mükellef gerçek kişinin Türkiye'deki devlet tahvili faiz geliri GVK Geçici 67 kapsamına girer — aracı kurum %10 stopaj keser, nihaî vergi. Çifte vergileme anlaşması (OECD md.11 faiz) daha düşük oran veya kaynak ülke vergileme hakkını kısıtlıyorsa anlaşma oranı uygulanır. Mükellef anlaşmadan yararlanmak için başvuruda bulunur."
+          "e": "Dar mükellef gerçek kişinin Türkiye'deki devlet tahvili faiz geliri GVK Geçici 67 kapsamına girer — aracı kurum %10 stopaj keser, nihaî vergi. Çifte vergileme anlaşması (OECD (ekonomik kalkınma ve işbirliği örgütü) md.11 faiz) daha düşük oran veya kaynak ülke vergileme hakkını kısıtlıyorsa anlaşma oranı uygulanır. Mükellef anlaşmadan yararlanmak için başvuruda bulunur."
         },
         {
           "q": "Kısa vadeli tahvil yatırımında '2006 öncesi ihraç' kuralı neden önemlidir?",
@@ -6538,7 +6538,7 @@ window.__C = {
             "D) Uygulama maliyetini azaltmak için"
           ],
           "a": 1,
-          "e": "QDMTT avantajı: Pillar 2'de IIR uygulanmazsa UTPR ile başka ülkeler tamamlayıcı vergiyi toplar — Türkiye Hazinesi gelir kaybeder. QDMTT ile Türkiye, kendi topraklarındaki şirketlerin ETR'ını %15'e tamamlayarak tamamlayıcı vergiyi kendisi toplar. Bu hem vergi gelirini Türkiye'de tutar hem de OECD'nin 'Safe Harbour' kuralı kapsamında tanınan bir mekanizma."
+          "e": "QDMTT avantajı: Pillar 2'de IIR uygulanmazsa UTPR ile başka ülkeler tamamlayıcı vergiyi toplar — Türkiye Hazinesi gelir kaybeder. QDMTT ile Türkiye, kendi topraklarındaki şirketlerin ETR'ını %15'e tamamlayarak tamamlayıcı vergiyi kendisi toplar. Bu hem vergi gelirini Türkiye'de tutar hem de OECD (ekonomik kalkınma ve işbirliği örgütü)'nin 'Safe Harbour' kuralı kapsamında tanınan bir mekanizma."
         },
         {
           "q": "Hisse senedi alım-satım kazancında '1 yıl elde tutma' eşiği neden önemlidir?",
@@ -6621,12 +6621,12 @@ window.__C = {
           "q": "Yurt dışı mukimi gerçek kişi BİST'te hisse alım-satımı yapıyor; çifte vergileme anlaşması değer artış kazancı için kaynak ülke vergilemesini kısıtlıyorsa vergi durumu ne olur?",
           "o": [
             "A) Türkiye yine de vergi alır",
-            "B) OECD md.13 kapsamında anlaşma hükmü uygulanır; eğer anlaşma değer artış kazancı üzerindeki Türkiye'nin vergileme hakkını kısıtlıyorsa mükellef stopaj iadesi talep edebilir",
+            "B) OECD (ekonomik kalkınma ve işbirliği örgütü) md.13 kapsamında anlaşma hükmü uygulanır; eğer anlaşma değer artış kazancı üzerindeki Türkiye'nin vergileme hakkını kısıtlıyorsa mükellef stopaj iadesi talep edebilir",
             "C) Çifte vergileme anlaşması hisse senetlerine uygulanmaz",
             "D) Vergi idaresi anlaşmayı uygulamaz"
           ],
           "a": 1,
-          "e": "OECD Model md.13 (değer artış kazançları): Çoğu anlaşmada gayrimenkul veya büyük hisse oranı dışındaki hisse alım-satım kazançları yalnızca mukimin ülkesinde vergilendirilir — kaynak ülke vergilemez. Bu durumda Türkiye'de kesilen Geçici 67 stopajı iade edilebilir. Mükellef anlaşmadan yararlanmak için iade başvurusu yapar. Anlaşma metnine göre değişir."
+          "e": "OECD (ekonomik kalkınma ve işbirliği örgütü) Model md.13 (değer artış kazançları): Çoğu anlaşmada gayrimenkul veya büyük hisse oranı dışındaki hisse alım-satım kazançları yalnızca mukimin ülkesinde vergilendirilir — kaynak ülke vergilemez. Bu durumda Türkiye'de kesilen Geçici 67 stopajı iade edilebilir. Mükellef anlaşmadan yararlanmak için iade başvurusu yapar. Anlaşma metnine göre değişir."
         },
         {
           "q": "'Güvenli liman' (Safe Harbour) kuralı GloBE'de ne anlama gelir?",
@@ -6738,7 +6738,7 @@ window.__C = {
             "D) Anlaşmalar SPK (sermaye piyasası kurulu) araçlarını kapsamaz"
           ],
           "a": 1,
-          "e": "Çifte vergileme anlaşmaları OECD Model Anlaşması temelli: md.10 (temettü), md.11 (faiz), md.13 (değer artış kazancı). Dar mükellef yabancı yatırımcı BİST'teki temettü veya alım-satım kazancı için kendi ülkesiyle Türkiye arasındaki anlaşmaya başvurabilir. Anlaşma iç hukuktan düşük oran öngörüyorsa indirimli oran/istisna uygulanır. Mükellef anlaşma hükmünden yararlanmak için başvuruda bulunmalı."
+          "e": "Çifte vergileme anlaşmaları OECD (ekonomik kalkınma ve işbirliği örgütü) Model Anlaşması temelli: md.10 (temettü), md.11 (faiz), md.13 (değer artış kazancı). Dar mükellef yabancı yatırımcı BİST'teki temettü veya alım-satım kazancı için kendi ülkesiyle Türkiye arasındaki anlaşmaya başvurabilir. Anlaşma iç hukuktan düşük oran öngörüyorsa indirimli oran/istisna uygulanır. Mükellef anlaşma hükmünden yararlanmak için başvuruda bulunmalı."
         },
         {
           "q": "Menkul sermaye iradı ile değer artışı kazancını birbirinden ayırt eden temel kriter nedir?",
@@ -6778,7 +6778,7 @@ window.__C = {
           "o": [
             "A) Hayır, her zaman genel oran",
             "B) Evet — Cumhurbaşkanlığı kararnameleriyle belirli sektör ve faaliyet türlerinde indirimli KV uygulanabilir; ihracat teşviklerinde indirim mümkün",
-            "C) Yalnızca KOBİ'ler için",
+            "C) Yalnızca KOBİ (küçük ve orta büyüklükteki işletmeler)'ler için",
             "D) Yalnızca AB'ye ihracatta"
           ],
           "a": 1,
@@ -6837,7 +6837,7 @@ window.__C = {
             "D) Hedge muhasebesi yalnızca banka için"
           ],
           "a": 1,
-          "e": "Türk vergi hukukunda TMS/TFRS kapsamındaki hedge muhasebesi KVK açısından otomatik tanınmaz. Her türev işlem ayrı olarak değerlendirilir. Hedging amaçlı yapılmış olsa da türev kazanç/zararı gerçekleşme anında gelir/gider sayılır. Bu durum finansal hedge ile vergi sonuçları arasında geçici farklılık yaratır — ertelenmiş vergi (TMS 12) etkisi oluşur."
+          "e": "Türk vergi hukukunda TMS/TFRS (türkiye finansal raporlama standartları) kapsamındaki hedge muhasebesi KVK açısından otomatik tanınmaz. Her türev işlem ayrı olarak değerlendirilir. Hedging amaçlı yapılmış olsa da türev kazanç/zararı gerçekleşme anında gelir/gider sayılır. Bu durum finansal hedge ile vergi sonuçları arasında geçici farklılık yaratır — ertelenmiş vergi (TMS 12) etkisi oluşur."
         },
         {
           "q": "Yurt içi asgari kurumlar vergisinde 'istisnası hariç tutulan kazançlar' üzerinden asgari vergi hesabı hangi amacı taşır?",
@@ -6903,7 +6903,7 @@ window.__C = {
             "D) İkisi aynıdır"
           ],
           "a": 1,
-          "e": "KVK ve VUK: Tahakkuk esası — gelirin fiilen tahsil değil hukuken doğması matrah belirleme için yeterli. Benzer şekilde giderler gerçekleşince kurum kazancını etkiler. Nakit esası KVK'da geçerli değil."
+          "e": "KVK ve VUK (vergi usul kanunu): Tahakkuk esası — gelirin fiilen tahsil değil hukuken doğması matrah belirleme için yeterli. Benzer şekilde giderler gerçekleşince kurum kazancını etkiler. Nakit esası KVK'da geçerli değil."
         },
         {
           "q": "Yatırım fonu getirisinden elde edilen kazancın vergilenmesinde elde tutma süresi önemli mi?",
@@ -6960,18 +6960,18 @@ window.__C = {
       },
       {
         "num": "04",
-        "title": "CAPM — Finansal Varlıkları Fiyatlama Modeli",
-        "body": "<ul><li><strong>CAPM formülü:</strong> E(Ri) = Rf + βi × [E(Rm) − Rf]. Beklenen getiri = risksiz oran + beta × piyasa risk primi. Menkul Kıymet Piyasa Doğrusu (SML) bu ilişkiyi gösterir.</li><li><strong>Beta (β):</strong> Varlığın piyasayla kovaryansını piyasa varyansına bölerek hesaplanır. β=1: piyasayla eş hareketli. β>1: agresif (piyasadan fazla oynar). β<1: savunmacı. β=0: risksiz varlık.</li><li><strong>Piyasa risk primi:</strong> E(Rm) − Rf. Yatırımcıların piyasa riskini üstlenmeleri karşılığında talep ettikleri ek getiri. Tarihsel olarak yaklaşık %5-7.</li><li><strong>Alfa (α):</strong> Gerçekleşen getiri − CAPM beklenen getiri. α>0: SML üzerinde, piyasaya göre değer düşük (ucuz). α<0: SML altında, aşırı fiyatlı.</li><li><strong>Varsayımlar:</strong> Tek dönem, homojen beklentiler, risksiz borçlanma/borç verme, vergisiz piyasa, tam rekabet, yatırımcılar ortalama-varyans optimizatörü.</li></ul>"
+        "title": "CAPM (sermaye varlığı fiyatlama modeli) — Finansal Varlıkları Fiyatlama Modeli",
+        "body": "<ul><li><strong>CAPM (sermaye varlığı fiyatlama modeli) formülü:</strong> E(Ri) = Rf + βi × [E(Rm) − Rf]. Beklenen getiri = risksiz oran + beta × piyasa risk primi. Menkul Kıymet Piyasa Doğrusu (SML) bu ilişkiyi gösterir.</li><li><strong>Beta (β):</strong> Varlığın piyasayla kovaryansını piyasa varyansına bölerek hesaplanır. β=1: piyasayla eş hareketli. β>1: agresif (piyasadan fazla oynar). β<1: savunmacı. β=0: risksiz varlık.</li><li><strong>Piyasa risk primi:</strong> E(Rm) − Rf. Yatırımcıların piyasa riskini üstlenmeleri karşılığında talep ettikleri ek getiri. Tarihsel olarak yaklaşık %5-7.</li><li><strong>Alfa (α):</strong> Gerçekleşen getiri − CAPM (sermaye varlığı fiyatlama modeli) beklenen getiri. α>0: SML üzerinde, piyasaya göre değer düşük (ucuz). α<0: SML altında, aşırı fiyatlı.</li><li><strong>Varsayımlar:</strong> Tek dönem, homojen beklentiler, risksiz borçlanma/borç verme, vergisiz piyasa, tam rekabet, yatırımcılar ortalama-varyans optimizatörü.</li></ul>"
       },
       {
         "num": "05",
         "title": "Arbitraj Fiyatlama Modeli (APT) ve Diğer Modeller",
-        "body": "<ul><li><strong>APT (Ross, 1976):</strong> E(Ri) = Rf + β1F1 + β2F2 + ... + βkFk. Çok faktörlü model. CAPM'in tek pazar portföyü kısıtına karşı daha esnek. Faktörler: GSYH büyümesi, enflasyon, faiz değişimi, endüstriyel üretim vb.</li><li><strong>APT'nin temel öncülü:</strong> Arbitraj fırsatı yoktur. Eğer varsa yatırımcılar fiyat oluşana kadar alım-satım yapar ve arbitraj kapanır. Arbitraj: sıfır yatırım, sıfır risk, pozitif kâr.</li><li><strong>Fama-French 3 faktör modeli:</strong> Piyasa risk primi + SMB (küçük-büyük şirket farkı) + HML (değer-büyüme farkı). CAPM'i ampirik olarak daha iyi açıklar.</li><li><strong>Fama-French 5 faktör modeli:</strong> 3 faktöre ek olarak + RMW (karlılık) + CMA (yatırım agresifliği) faktörleri.</li><li><strong>Carhart 4 faktör:</strong> FF3 + momentum faktörü (WML — kazanan-kaybeden farkı).</li></ul>"
+        "body": "<ul><li><strong>APT (Ross, 1976):</strong> E(Ri) = Rf + β1F1 + β2F2 + ... + βkFk. Çok faktörlü model. CAPM (sermaye varlığı fiyatlama modeli)'in tek pazar portföyü kısıtına karşı daha esnek. Faktörler: GSYH büyümesi, enflasyon, faiz değişimi, endüstriyel üretim vb.</li><li><strong>APT'nin temel öncülü:</strong> Arbitraj fırsatı yoktur. Eğer varsa yatırımcılar fiyat oluşana kadar alım-satım yapar ve arbitraj kapanır. Arbitraj: sıfır yatırım, sıfır risk, pozitif kâr.</li><li><strong>Fama-French 3 faktör modeli:</strong> Piyasa risk primi + SMB (küçük-büyük şirket farkı) + HML (değer-büyüme farkı). CAPM (sermaye varlığı fiyatlama modeli)'i ampirik olarak daha iyi açıklar.</li><li><strong>Fama-French 5 faktör modeli:</strong> 3 faktöre ek olarak + RMW (karlılık) + CMA (yatırım agresifliği) faktörleri.</li><li><strong>Carhart 4 faktör:</strong> FF3 + momentum faktörü (WML — kazanan-kaybeden farkı).</li></ul>"
       },
       {
         "num": "06",
         "title": "Temel Analiz",
-        "body": "<ul><li><strong>Temel analiz yaklaşımı:</strong> Hisse senedinin içsel (gerçek) değerini, şirketin ekonomik koşulları, sektörü ve finansal tablolarını inceleyerek belirleme. İçsel değer > piyasa fiyatı → değer düşük, al.</li><li><strong>Ekonomi-Sektör-Şirket (Top-Down) analizi:</strong> Makroekonomik analiz → sektör analizi → şirket analizi. Hangi sektör, hangi şirket sorusunu sırayla yanıtlar.</li><li><strong>Göreceli değerleme (çarpanlar):</strong> F/K (P/E) oranı = Fiyat/Hisse başı kâr. PD/DD (P/B) = Piyasa değeri/Defter değeri. FD/FAVÖK (EV/EBITDA). Benzer şirketlerle karşılaştırılır.</li><li><strong>İndirgenmiş Nakit Akışı (DCF):</strong> Tüm gelecek serbest nakit akışlarının ağırlıklı ortalama sermaye maliyeti (WACC) ile iskonto edilmesi. En kapsamlı değerleme yöntemi.</li><li><strong>Temettü İndirgeme Modeli (DDM):</strong> P0 = D1 / (r − g). Gordon büyüme modeli. r = gerekli getiri, g = temettü büyüme oranı. Sabit büyüme varsayımı.</li></ul>"
+        "body": "<ul><li><strong>Temel analiz yaklaşımı:</strong> Hisse senedinin içsel (gerçek) değerini, şirketin ekonomik koşulları, sektörü ve finansal tablolarını inceleyerek belirleme. İçsel değer > piyasa fiyatı → değer düşük, al.</li><li><strong>Ekonomi-Sektör-Şirket (Top-Down) analizi:</strong> Makroekonomik analiz → sektör analizi → şirket analizi. Hangi sektör, hangi şirket sorusunu sırayla yanıtlar.</li><li><strong>Göreceli değerleme (çarpanlar):</strong> F/K (P/E (fiyat/kazanç oranı)) oranı = Fiyat/Hisse başı kâr. PD/DD (P/B) = Piyasa değeri/Defter değeri. FD/FAVÖK (EV/EBIT (faiz ve vergi öncesi kâr)DA (faiz, vergi, amortisman öncesi kâr)). Benzer şirketlerle karşılaştırılır.</li><li><strong>İndirgenmiş Nakit Akışı (DCF (indirgenmiş nakit akışı)):</strong> Tüm gelecek serbest nakit akışlarının ağırlıklı ortalama sermaye maliyeti (WACC) ile iskonto edilmesi. En kapsamlı değerleme yöntemi.</li><li><strong>Temettü İndirgeme Modeli (DDM):</strong> P0 = D1 / (r − g). Gordon büyüme modeli. r = gerekli getiri, g = temettü büyüme oranı. Sabit büyüme varsayımı.</li></ul>"
       },
       {
         "num": "07",
@@ -6981,7 +6981,7 @@ window.__C = {
       {
         "num": "08",
         "title": "Sermaye Piyasası Araçlarının Değerlemesi ve Portföy Performansı",
-        "body": "<ul><li><strong>Tahvil değerlemesi:</strong> Tahvil fiyatı = Σ[Kupon / (1+r)^t] + [Nominal / (1+r)^n]. Faiz-fiyat ters ilişkisi. Fiyat vadeye doğru par'a yaklaşır (par çekim etkisi).</li><li><strong>Verim (YTM):</strong> Tahvili bugünkü piyasa fiyatıyla vadeye kadar tutmanın getirisi. Kuponları yeniden aynı oranda yatırdığını varsayar.</li><li><strong>Süre (Duration):</strong> Nakit akışlarının ağırlıklı ortalama vadesi. Faiz duyarlılığı ölçütü: Duration uzadıkça faiz riskine duyarlılık artar. Modifiye süre = Macaulay Duration / (1+r).</li><li><strong>Hisse senedi değerlemesi:</strong> DDM, DCF, çarpan yöntemleri. Büyüme hızı ve iskonto oranı belirleyici. Temettü vermeyenlerde FCF modeli kullanılır.</li><li><strong>Portföy performans ölçümü:</strong><br>→ Sharpe oranı: (Rp − Rf) / σp. Toplam riske göre fazla getiri.<br>→ Treynor oranı: (Rp − Rf) / βp. Sistematik riske göre fazla getiri.<br>→ Jensen alfası: Gerçekleşen − CAPM beklenen getiri.<br>→ Bilgi oranı (IR): Aktif getiri / Tracking error.</li></ul>"
+        "body": "<ul><li><strong>Tahvil değerlemesi:</strong> Tahvil fiyatı = Σ[Kupon / (1+r)^t] + [Nominal / (1+r)^n]. Faiz-fiyat ters ilişkisi. Fiyat vadeye doğru par'a yaklaşır (par çekim etkisi).</li><li><strong>Verim (YTM):</strong> Tahvili bugünkü piyasa fiyatıyla vadeye kadar tutmanın getirisi. Kuponları yeniden aynı oranda yatırdığını varsayar.</li><li><strong>Süre (Duration):</strong> Nakit akışlarının ağırlıklı ortalama vadesi. Faiz duyarlılığı ölçütü: Duration uzadıkça faiz riskine duyarlılık artar. Modifiye süre = Macaulay Duration / (1+r).</li><li><strong>Hisse senedi değerlemesi:</strong> DDM, DCF (indirgenmiş nakit akışı), çarpan yöntemleri. Büyüme hızı ve iskonto oranı belirleyici. Temettü vermeyenlerde FCF modeli kullanılır.</li><li><strong>Portföy performans ölçümü:</strong><br>→ Sharpe oranı: (Rp − Rf) / σp. Toplam riske göre fazla getiri.<br>→ Treynor oranı: (Rp − Rf) / βp. Sistematik riske göre fazla getiri.<br>→ Jensen alfası: Gerçekleşen − CAPM (sermaye varlığı fiyatlama modeli) beklenen getiri.<br>→ Bilgi oranı (IR): Aktif getiri / Tracking error.</li></ul>"
       }
     ],
     "tests": {
@@ -7250,7 +7250,7 @@ window.__C = {
             "D) Çeşitlendirme her iki riski de artırır"
           ],
           "a": 1,
-          "e": "Toplam risk = Sistematik risk (β ile ölçülür) + Sistematik olmayan risk (firma-spesifik). Sistematik risk: faiz değişimi, enflasyon, GSYH, piyasa geneli — tüm şirketleri etkiler, kaçınılamaz. Sistematik olmayan risk: şirket kârı, yönetici değişimi, ürün hatası — portföye çok varlık ekleyerek giderilebilir. CAPM yalnızca sistematik riski (beta) fiyatlar."
+          "e": "Toplam risk = Sistematik risk (β ile ölçülür) + Sistematik olmayan risk (firma-spesifik). Sistematik risk: faiz değişimi, enflasyon, GSYH, piyasa geneli — tüm şirketleri etkiler, kaçınılamaz. Sistematik olmayan risk: şirket kârı, yönetici değişimi, ürün hatası — portföye çok varlık ekleyerek giderilebilir. CAPM (sermaye varlığı fiyatlama modeli) yalnızca sistematik riski (beta) fiyatlar."
         },
         {
           "q": "Beklenen getiri E(R) = 0,4×%20 + 0,6×%5 ise sonuç kaçtır?",
@@ -7327,7 +7327,7 @@ window.__C = {
             "D) Altın sıfır riskli varlıktır"
           ],
           "a": 1,
-          "e": "Sıfır standart sapma (risksiz varlık): getirisi kesin olarak bilinen varlık. Teorik olarak kısa vadeli devlet tahvilleri (T-bill) risksiz kabul edilir çünkü: devlet iflas riski çok düşük, kısa vadede enflasyon etkisi sınırlı. CAPM'de Rf risksiz oran bu varlığın getirisine karşılık gelir. Uzun vadeli devlet tahvili ise faiz riski taşıdığından tam risksiz değildir."
+          "e": "Sıfır standart sapma (risksiz varlık): getirisi kesin olarak bilinen varlık. Teorik olarak kısa vadeli devlet tahvilleri (T-bill) risksiz kabul edilir çünkü: devlet iflas riski çok düşük, kısa vadede enflasyon etkisi sınırlı. CAPM (sermaye varlığı fiyatlama modeli)'de Rf risksiz oran bu varlığın getirisine karşılık gelir. Uzun vadeli devlet tahvili ise faiz riski taşıdığından tam risksiz değildir."
         },
         {
           "q": "Bir portföyün toplam riski (σ²p) = sistematik risk + sistematik olmayan risk şeklinde ayrıştırılır. Büyük ölçekli çeşitlendirilmiş portföyde sistematik olmayan risk nasıl davranır?",
@@ -7398,7 +7398,7 @@ window.__C = {
         {
           "q": "Iki varlikli portfoy olanak kumesi nedir?",
           "o": [
-            "A) CAPM dogrusunu gosterir",
+            "A) CAPM (sermaye varlığı fiyatlama modeli) dogrusunu gosterir",
             "B) Farkli agirlik kombinasyonlarinda tum olasilik risk-getiri noktalarini gosterir",
             "C) Etkin sinirin tamamidir",
             "D) Risksiz getiri dogrusunu gosterir"
@@ -7410,12 +7410,12 @@ window.__C = {
           "q": "Yuksek kurtosis portfoy riski icin ne anlama gelir?",
           "o": [
             "A) Risk normalden azdir",
-            "B) Kalin kuyruklar — uc olaylar normal dagilima gore daha sik; VaR bu riski hafife alir",
+            "B) Kalin kuyruklar — uc olaylar normal dagilima gore daha sik; VaR (riske maruz değer) bu riski hafife alir",
             "C) Sadece yuksek getiri donemlerinde gecerli",
             "D) Portfoy riskiyle ilgisiz"
           ],
           "a": 1,
-          "e": "Leptokurtik dagilim: kalin kuyruklar. Finansal krizlerde gozlenir. Normal VaR bu riskleri hafife alir — stres testi ve CVaR daha uygundur."
+          "e": "Leptokurtik dagilim: kalin kuyruklar. Finansal krizlerde gozlenir. Normal VaR (riske maruz değer) bu riskleri hafife alir — stres testi ve CVaR (riske maruz değer) daha uygundur."
         },
         {
           "q": "Varyansi yuksek varlik portfoy icin her zaman kotu mudur?",
@@ -7423,15 +7423,15 @@ window.__C = {
             "A) Evet her zaman kotudur",
             "B) Hayir — dusuk korelasyon varsa portfoy riskini azaltabilir; katki riski covaryansa baglidir",
             "C) Her zaman reddedilir",
-            "D) CAPM bu soruyu cevaplamaz"
+            "D) CAPM (sermaye varlığı fiyatlama modeli) bu soruyu cevaplamaz"
           ],
           "a": 1,
-          "e": "Bireysel varyans yuksek olsa da diger varliklarla dusuk korelasyon portfoy riskini azaltabilir. CAPM'de sistematik risk (beta=Cov/Var_m) fiyatlanir — toplam varyansin portfoya katkisi degil."
+          "e": "Bireysel varyans yuksek olsa da diger varliklarla dusuk korelasyon portfoy riskini azaltabilir. CAPM (sermaye varlığı fiyatlama modeli)'de sistematik risk (beta=Cov/Var_m) fiyatlanir — toplam varyansin portfoya katkisi degil."
         }
       ],
       "t3": [
         {
-          "q": "CAPM formülünü yazın ve her terimin anlamını açıklayın.",
+          "q": "CAPM (sermaye varlığı fiyatlama modeli) formülünü yazın ve her terimin anlamını açıklayın.",
           "o": [
             "A) E(Ri) = Rf + αi",
             "B) E(Ri) = Rf + βi × [E(Rm) − Rf]",
@@ -7439,10 +7439,10 @@ window.__C = {
             "D) E(Ri) = E(Rm) − Rf"
           ],
           "a": 1,
-          "e": "CAPM: E(Ri) = Rf + βi × [E(Rm) − Rf]. Rf = risksiz oran (devlet tahvili). βi = sistematik risk ölçütü. E(Rm) = piyasa beklenen getirisi. [E(Rm)−Rf] = piyasa risk primi. Formülün yorumu: bir varlığın beklenen getirisi risksiz orana, üstlendiği sistematik riskin (β) piyasa risk primiyle çarpımı kadar eklenerek bulunur."
+          "e": "CAPM (sermaye varlığı fiyatlama modeli): E(Ri) = Rf + βi × [E(Rm) − Rf]. Rf = risksiz oran (devlet tahvili). βi = sistematik risk ölçütü. E(Rm) = piyasa beklenen getirisi. [E(Rm)−Rf] = piyasa risk primi. Formülün yorumu: bir varlığın beklenen getirisi risksiz orana, üstlendiği sistematik riskin (β) piyasa risk primiyle çarpımı kadar eklenerek bulunur."
         },
         {
-          "q": "Bir varlığın betası 1,2, risksiz oran %5, piyasa beklenen getirisi %12 ise CAPM'e göre beklenen getiri kaçtır?",
+          "q": "Bir varlığın betası 1,2, risksiz oran %5, piyasa beklenen getirisi %12 ise CAPM (sermaye varlığı fiyatlama modeli)'e göre beklenen getiri kaçtır?",
           "o": [
             "A) %12",
             "B) %13,4",
@@ -7461,7 +7461,7 @@ window.__C = {
             "D) Varlık risksiz varlıkla aynıdır"
           ],
           "a": 1,
-          "e": "SML üzerindeki varlık: gerçekleşen getiri CAPM beklenen getirisine eşit (alfa = 0). Tam değerinde. SML'nin üzerinde: alfa > 0, değer düşük (al). SML'nin altında: alfa < 0, aşırı fiyatlı (sat). Piyasa tam etkinse tüm varlıklar SML üzerinde dengede olur; aktif yönetici SML dışı varlık arar."
+          "e": "SML üzerindeki varlık: gerçekleşen getiri CAPM (sermaye varlığı fiyatlama modeli) beklenen getirisine eşit (alfa = 0). Tam değerinde. SML'nin üzerinde: alfa > 0, değer düşük (al). SML'nin altında: alfa < 0, aşırı fiyatlı (sat). Piyasa tam etkinse tüm varlıklar SML üzerinde dengede olur; aktif yönetici SML dışı varlık arar."
         },
         {
           "q": "Sermaye Piyasası Doğrusu (CML) ile Menkul Kıymet Piyasa Doğrusu (SML) arasındaki temel fark nedir?",
@@ -7486,15 +7486,15 @@ window.__C = {
           "e": "Pazar portföyü: β = 1, zira piyasayla mükemmel korelasyonlu (kendisi). CML eğimi = (E(Rm) − Rf) / σm = Sharpe oranı. Bu oran piyasanın risk birimi başına sağladığı fazla getiriyi gösterir. Bir portföy CML üzerinde pazar portföyünün Sharpe oranına eşit ya da üstündeyse etkindir."
         },
         {
-          "q": "APT (Arbitraj Fiyatlama Teorisi) CAPM'den nasıl ayrılır?",
+          "q": "APT (Arbitraj Fiyatlama Teorisi) CAPM (sermaye varlığı fiyatlama modeli)'den nasıl ayrılır?",
           "o": [
-            "A) APT tek faktörlüdür, CAPM çok faktörlüdür",
-            "B) APT çok faktörlüdür, arbitraj yok varsayımına dayanır, pazar portföyü gerektirmez; CAPM tek faktörlü (pazar portföyü), ortalama-varyans optimizasyonuna dayanır",
+            "A) APT tek faktörlüdür, CAPM (sermaye varlığı fiyatlama modeli) çok faktörlüdür",
+            "B) APT çok faktörlüdür, arbitraj yok varsayımına dayanır, pazar portföyü gerektirmez; CAPM (sermaye varlığı fiyatlama modeli) tek faktörlü (pazar portföyü), ortalama-varyans optimizasyonuna dayanır",
             "C) APT yalnızca tahviller için kullanılır",
             "D) APT'de beta kullanılmaz"
           ],
           "a": 1,
-          "e": "APT (Ross, 1976): birden fazla faktör (makroekonomik) kullanır. Temel öncül: arbitraj fırsatı yok (fiyat oluşana kadar alım-satım yapılır). CAPM gerektirdiği pazar portföyü varsayımı APT'de gerekmez. Ampirik olarak Fama-French modelleri (3, 5 faktör) APT çerçevesinde geliştirilmiştir."
+          "e": "APT (Ross, 1976): birden fazla faktör (makroekonomik) kullanır. Temel öncül: arbitraj fırsatı yok (fiyat oluşana kadar alım-satım yapılır). CAPM (sermaye varlığı fiyatlama modeli) gerektirdiği pazar portföyü varsayımı APT'de gerekmez. Ampirik olarak Fama-French modelleri (3, 5 faktör) APT çerçevesinde geliştirilmiştir."
         },
         {
           "q": "Etkin piyasa hipotezi (EMH) üç formunun içeriği nedir?",
@@ -7508,7 +7508,7 @@ window.__C = {
           "e": "EMH (Fama): Zayıf form — geçmiş fiyat bilgisi fiyatlara yansımıştır → teknik analiz sistematik getiri sağlamaz. Yarı güçlü form — tüm kamuya açık bilgi fiyatlara yansımıştır → temel analiz artı getiri sağlamaz. Güçlü form — içeriden bilgi dahil her şey fiyatlara yansımıştır → hiç kimse sürekli piyasayı yenemez. Gerçekte piyasalar genellikle zayıf-yarı güçlü arası."
         },
         {
-          "q": "Fama-French üç faktör modeli CAPM'e hangi iki faktörü ekler?",
+          "q": "Fama-French üç faktör modeli CAPM (sermaye varlığı fiyatlama modeli)'e hangi iki faktörü ekler?",
           "o": [
             "A) Momentum ve likidite",
             "B) SMB (küçük eksi büyük — büyüklük faktörü) ve HML (yüksek eksi düşük — değer/büyüme faktörü)",
@@ -7516,7 +7516,7 @@ window.__C = {
             "D) Sektör ve coğrafya faktörleri"
           ],
           "a": 1,
-          "e": "Fama-French 3 faktör: E(Ri) = Rf + β_m×MRP + β_SMB×SMB + β_HML×HML. SMB: küçük şirket hisseleri büyük şirket hisselerinden tarihsel olarak fazla getiri sağlamıştır (büyüklük primi). HML: yüksek PD/DD'li büyüme hisseleri yerine düşük PD/DD'li değer hisselerinin getirisi daha yüksektir (değer primi). CAPM tek başına bu anomalileri açıklayamaz."
+          "e": "Fama-French 3 faktör: E(Ri) = Rf + β_m×MRP + β_SMB×SMB + β_HML×HML. SMB: küçük şirket hisseleri büyük şirket hisselerinden tarihsel olarak fazla getiri sağlamıştır (büyüklük primi). HML: yüksek PD/DD'li büyüme hisseleri yerine düşük PD/DD'li değer hisselerinin getirisi daha yüksektir (değer primi). CAPM (sermaye varlığı fiyatlama modeli) tek başına bu anomalileri açıklayamaz."
         },
         {
           "q": "Optimal portföy seçiminde kayıtsızlık eğrisi ile etkin sınırın ilişkisi nedir?",
@@ -7533,12 +7533,12 @@ window.__C = {
           "q": "Bir portföyün Jensen alfası +3% ise bu ne anlama gelir?",
           "o": [
             "A) Portföy benchmarkını 3 yüzde puan geride kaldı",
-            "B) Portföy sistematik riskine (CAPM) göre yıllık %3 fazla getiri sağladı — pozitif alfa yönetici becerisi göstergesidir",
+            "B) Portföy sistematik riskine (CAPM (sermaye varlığı fiyatlama modeli)) göre yıllık %3 fazla getiri sağladı — pozitif alfa yönetici becerisi göstergesidir",
             "C) Portföyün betası 3'tür",
             "D) Portföy %3 zarar etti"
           ],
           "a": 1,
-          "e": "Jensen alfası: α = Rp − [Rf + β(Rm−Rf)]. Gerçekleşen getiri ile CAPM beklenen getiri arasındaki fark. α = +%3: yönetici, sistematik riskten beklenenden %3 fazla getiri sağlamıştır. Bu, piyasayı bilgisiyle veya üstün tahmin gücüyle aştığının göstergesi. Sürdürülebilirse aktif yönetim değer katıyor demektir."
+          "e": "Jensen alfası: α = Rp − [Rf + β(Rm−Rf)]. Gerçekleşen getiri ile CAPM (sermaye varlığı fiyatlama modeli) beklenen getiri arasındaki fark. α = +%3: yönetici, sistematik riskten beklenenden %3 fazla getiri sağlamıştır. Bu, piyasayı bilgisiyle veya üstün tahmin gücüyle aştığının göstergesi. Sürdürülebilirse aktif yönetim değer katıyor demektir."
         },
         {
           "q": "Büyüme hissesinde yüksek F/K oranını nasıl yorumlanır?",
@@ -7566,12 +7566,12 @@ window.__C = {
           "q": "İki aşamalı büyüme modeli neden kullanılır?",
           "o": [
             "A) Basitlik için",
-            "B) Şirketlerin ilk yıllarda yüksek büyüme, sonra sürdürülebilir normal büyümeye geçişini modellemek için — ilk aşama explicit DCF, ikinci aşama terminal değer",
+            "B) Şirketlerin ilk yıllarda yüksek büyüme, sonra sürdürülebilir normal büyümeye geçişini modellemek için — ilk aşama explicit DCF (indirgenmiş nakit akışı), ikinci aşama terminal değer",
             "C) Yalnızca teknoloji şirketleri için",
             "D) Tek aşamalı model her zaman yanlış sonuç verir"
           ],
           "a": 1,
-          "e": "İki aşamalı DDM/DCF: (1) Yüksek büyüme aşaması (5-10 yıl): her yıl beklenen nakit akışı/temettü ayrı ayrı iskonto edilir. (2) Terminal (olgunluk) aşaması: büyüme g_sabit'e düşer → Gordon modeli ile terminal değer hesaplanır. Terminal değer bugünkü değere eklenir. Bu yaklaşım büyüme stoku değerlemesinin temelini oluşturur — Apple, Amazon vb."
+          "e": "İki aşamalı DDM/DCF (indirgenmiş nakit akışı): (1) Yüksek büyüme aşaması (5-10 yıl): her yıl beklenen nakit akışı/temettü ayrı ayrı iskonto edilir. (2) Terminal (olgunluk) aşaması: büyüme g_sabit'e düşer → Gordon modeli ile terminal değer hesaplanır. Terminal değer bugünkü değere eklenir. Bu yaklaşım büyüme stoku değerlemesinin temelini oluşturur — Apple, Amazon vb."
         },
         {
           "q": "Teknik analizde hacim (volume) bilgisi neden kullanılır?",
@@ -7593,7 +7593,7 @@ window.__C = {
             "D) PEG oranı Sharpe oranının alternatifidir"
           ],
           "a": 1,
-          "e": "PEG oranı (Peter Lynch): F/K ÷ beklenen EPS büyüme oranı. F/K 20, büyüme %20 → PEG = 1. F/K 30, büyüme %15 → PEG = 2 (pahalı). F/K 15, büyüme %20 → PEG = 0,75 (ucuz). PEG < 1: büyümeye göre ucuz. PEG > 2: büyümeye göre pahalı. Avantajı: büyüme farklılıklarını dahil eder. Sınırı: büyüme tahmini hatalıysa yanıltıcı."
+          "e": "PEG oranı (Peter Lynch): F/K ÷ beklenen EPS (hisse başına kazanç) büyüme oranı. F/K 20, büyüme %20 → PEG = 1. F/K 30, büyüme %15 → PEG = 2 (pahalı). F/K 15, büyüme %20 → PEG = 0,75 (ucuz). PEG < 1: büyümeye göre ucuz. PEG > 2: büyümeye göre pahalı. Avantajı: büyüme farklılıklarını dahil eder. Sınırı: büyüme tahmini hatalıysa yanıltıcı."
         },
         {
           "q": "Bir varlığın Sharpe oranı piyasa Sharpe oranından yüksekse bu ne anlama gelir?",
@@ -7686,7 +7686,7 @@ window.__C = {
           "e": "Gordon büyüme modeli: P0 = D1 / (r − g). D1 = gelecek yıl beklenen temettü. r = gerekli getiri oranı. g = temettü büyüme oranı (sabit). Koşul: r > g. Örnek: D1=5 TL, r=%12, g=%7 → P0 = 5/(0,12−0,07) = 5/0,05 = 100 TL. g arttıkça hisse değeri artar; r arttıkça düşer."
         },
         {
-          "q": "F/K (P/E) oranı düşük bir hisse hakkında değer yatırımcısı ne düşünür?",
+          "q": "F/K (P/E (fiyat/kazanç oranı)) oranı düşük bir hisse hakkında değer yatırımcısı ne düşünür?",
           "o": [
             "A) Kesinlikle satılmalıdır",
             "B) Kâra göre ucuz fiyatlanmış olabilir, potansiyel değer yatırımı fırsatı",
@@ -7705,7 +7705,7 @@ window.__C = {
             "D) Treynor oranı büyük portföylerde kullanılmaz"
           ],
           "a": 1,
-          "e": "Sharpe oranı: (Rp−Rf)/σp — tek yatırım olarak değerlendirilen portföy için uygun. Treynor oranı: (Rp−Rf)/βp — büyük bir portföyün alt bileşeni için uygun (sistematik olmayan risk çeşitlendirmiş varsayılır). Jensen alfası: gerçekleşen − CAPM beklenen; yönetici becerisi göstergesi. Tam portföy karşılaştırmasında Sharpe; tek varlık katkısında Treynor tercih edilir."
+          "e": "Sharpe oranı: (Rp−Rf)/σp — tek yatırım olarak değerlendirilen portföy için uygun. Treynor oranı: (Rp−Rf)/βp — büyük bir portföyün alt bileşeni için uygun (sistematik olmayan risk çeşitlendirmiş varsayılır). Jensen alfası: gerçekleşen − CAPM (sermaye varlığı fiyatlama modeli) beklenen; yönetici becerisi göstergesi. Tam portföy karşılaştırmasında Sharpe; tek varlık katkısında Treynor tercih edilir."
         },
         {
           "q": "Konveksite (convexity) tahvil fiyatlamasında neden Duration'a ek olarak kullanılır?",
@@ -7745,7 +7745,7 @@ window.__C = {
           "o": [
             "A) F/K oranıyla",
             "B) P = D / r. Sabit temettü (D) sonsuz süreyle ödendiği varsayılır",
-            "C) P = EPS / r",
+            "C) P = EPS (hisse başına kazanç) / r",
             "D) Nominal değeriyle aynıdır"
           ],
           "a": 1,
@@ -7766,12 +7766,12 @@ window.__C = {
           "q": "Makroekonomik faktörlerin hisse senedi fiyatlarına etkisi nasıldır?",
           "o": [
             "A) Makroekonomik faktörler hisse fiyatlarını etkilemez",
-            "B) GSYH büyümesi, faiz oranı, enflasyon, döviz kuru ve emtia fiyatları hisse değerlemesini CAPM/APT kanalları üzerinden etkiler",
+            "B) GSYH büyümesi, faiz oranı, enflasyon, döviz kuru ve emtia fiyatları hisse değerlemesini CAPM (sermaye varlığı fiyatlama modeli)/APT kanalları üzerinden etkiler",
             "C) Yalnızca enflasyon önemlidir",
             "D) Makroekonomik analiz yalnızca tahvil için geçerlidir"
           ],
           "a": 1,
-          "e": "Temel analiz top-down yaklaşımında: GSYH büyümesi → kurumsal kâr büyümesi. Faiz artışı → iskonto oranı artar → hisse değeri düşer. Enflasyon → maliyetler artar, marj baskısı. Döviz kuru → ihracatçı/ithalatçı şirketler farklı etkilenir. Emtia fiyatı → enerji, maden sektörü. APT bu faktörleri beta ile fiyatlar; CAPM tek faktörlü olduğundan bunları doğrudan içermez."
+          "e": "Temel analiz top-down yaklaşımında: GSYH büyümesi → kurumsal kâr büyümesi. Faiz artışı → iskonto oranı artar → hisse değeri düşer. Enflasyon → maliyetler artar, marj baskısı. Döviz kuru → ihracatçı/ithalatçı şirketler farklı etkilenir. Emtia fiyatı → enerji, maden sektörü. APT bu faktörleri beta ile fiyatlar; CAPM (sermaye varlığı fiyatlama modeli) tek faktörlü olduğundan bunları doğrudan içermez."
         },
         {
           "q": "Sıfır kuponlu tahvil neden YTM ile eşdeğer getiri sunar?",
@@ -7818,7 +7818,7 @@ window.__C = {
           "e": "WACC eşik kriteri: proje WACC'ın üzerinde getiri sağlamıyorsa değer yaratmaz. %7 < WACC %10 → NPV negatif → firma değerini azaltır → reddet. WACC minimum kabul oranıdır (hurdle rate). Proje getirisi > WACC → pozitif NPV → değer yaratır → kabul et. Farklı riskli projeler için projenin riski WACC'tan farklıysa proje spesifik iskonto oranı kullanılmalı."
         },
         {
-          "q": "CAPM'de risksiz orana hangi araç kullanılır ve neden?",
+          "q": "CAPM (sermaye varlığı fiyatlama modeli)'de risksiz orana hangi araç kullanılır ve neden?",
           "o": [
             "A) Mevduat faizi",
             "B) Kısa vadeli devlet hazine bonosu — devlet iflas riski sıfıra yakın, kısa vade faiz riski ihmal edilebilir, likid ve standart",
@@ -7851,7 +7851,7 @@ window.__C = {
           "e": "Descartes kurali: isaret degisim sayisi = maksimum pozitif kok sayisi. Belirsiz IRR'da NPV profili cizmek veya MIRR kullanmak onerilen yaklasimdir."
         },
         {
-          "q": "CAPM icin risksiz oran olarak neden kisa vadeli hazine bonosu kullanilir?",
+          "q": "CAPM (sermaye varlığı fiyatlama modeli) icin risksiz oran olarak neden kisa vadeli hazine bonosu kullanilir?",
           "o": [
             "A) Mevduat faizi kullanilir",
             "B) Devlet temerrut riski sifira yakin, kisa vadede faiz riski ihmal edilebilir, likit",
@@ -7886,7 +7886,7 @@ window.__C = {
           "e": "Duration = nakit akışlarının PV ağırlıklı ortalama vadesi. Sıfır kuponlu tahvilde yalnızca bir nakit akışı var: vade sonunda anapara. Ağırlığın tamamı bu tek nakit akışında → Duration = tam olarak vade (örn. 5 yıllık sıfır kuponlu tahvil → Duration = 5 yıl). Kuponlu tahvillerde ara kupon ödemeleri ağırlığı dağıtır, duration < vade olur."
         },
         {
-          "q": "WACC (Ağırlıklı Ortalama Sermaye Maliyeti) nasıl hesaplanır ve DCF değerlemesinde nasıl kullanılır?",
+          "q": "WACC (Ağırlıklı Ortalama Sermaye Maliyeti) nasıl hesaplanır ve DCF (indirgenmiş nakit akışı) değerlemesinde nasıl kullanılır?",
           "o": [
             "A) WACC = Özkaynak maliyeti / Borç maliyeti",
             "B) WACC = (E/V)×re + (D/V)×rd×(1-T). Serbest nakit akışları WACC ile iskonto edilerek firma değeri bulunur",
@@ -7894,7 +7894,7 @@ window.__C = {
             "D) WACC yalnızca borç maliyetinden oluşur"
           ],
           "a": 1,
-          "e": "WACC formülü: (E/V)×re + (D/V)×rd×(1−T). E=özkaynak, D=borç, V=E+D, re=özkaynak maliyeti (CAPM ile), rd=borç maliyeti, T=vergi. Borç maliyeti vergi kalkanı nedeniyle (1-T) ile çarpılır. DCF'de: Firma değeri = ΣFCFt/(1+WACC)^t. WACC arttıkça DCF değeri düşer — değerleme faize duyarlıdır."
+          "e": "WACC formülü: (E/V)×re + (D/V)×rd×(1−T). E=özkaynak, D=borç, V=E+D, re=özkaynak maliyeti (CAPM (sermaye varlığı fiyatlama modeli) ile), rd=borç maliyeti, T=vergi. Borç maliyeti vergi kalkanı nedeniyle (1-T) ile çarpılır. DCF (indirgenmiş nakit akışı)'de: Firma değeri = ΣFCFt/(1+WACC)^t. WACC arttıkça DCF (indirgenmiş nakit akışı) değeri düşer — değerleme faize duyarlıdır."
         },
         {
           "q": "Bilgi oranı (Information Ratio — IR) nedir ve portföy yönetiminde nasıl kullanılır?",
@@ -7919,15 +7919,15 @@ window.__C = {
           "e": "Top-down (yukarıdan aşağıya) analiz: (1) Makroekonomik analiz — GSYH büyümesi, faiz, enflasyon, kur hangi ortam oluşturuyor? (2) Sektör analizi — hangi sektörler bu ortamda faydalanır/zarar görür? (3) Şirket analizi — seçilen sektörde en iyi konumlandırılmış şirket hangisi? Alternatif: bottom-up — direkt şirketten başlanır, makro ikincil."
         },
         {
-          "q": "EV/EBITDA çarpanının F/K (P/E) oranına göre avantajları nelerdir?",
+          "q": "EV/EBIT (faiz ve vergi öncesi kâr)DA (faiz, vergi, amortisman öncesi kâr) çarpanının F/K (P/E (fiyat/kazanç oranı)) oranına göre avantajları nelerdir?",
           "o": [
-            "A) EV/EBITDA daha basit hesaplanır",
-            "B) EV/EBITDA borç yapısından bağımsız (hem özkaynak hem borcu kapsar), amortisman ve vergi politikası farklılıklarından etkilenmez — uluslararası karşılaştırmalar için daha uygun",
-            "C) EV/EBITDA yalnızca banka değerlemesinde kullanılır",
+            "A) EV/EBIT (faiz ve vergi öncesi kâr)DA (faiz, vergi, amortisman öncesi kâr) daha basit hesaplanır",
+            "B) EV/EBIT (faiz ve vergi öncesi kâr)DA (faiz, vergi, amortisman öncesi kâr) borç yapısından bağımsız (hem özkaynak hem borcu kapsar), amortisman ve vergi politikası farklılıklarından etkilenmez — uluslararası karşılaştırmalar için daha uygun",
+            "C) EV/EBIT (faiz ve vergi öncesi kâr)DA (faiz, vergi, amortisman öncesi kâr) yalnızca banka değerlemesinde kullanılır",
             "D) F/K her zaman daha güvenilirdir"
           ],
           "a": 1,
-          "e": "EV (Enterprise Value) = Piyasa değeri + Net borç. EBITDA = Faiz, Vergi, Amortisman ve itfa öncesi kâr. EV/EBITDA: borç yapısından bağımsız tüm firmayı kapsayan değerleme. F/K sadece özkaynak değeri; farklı borç yapılarında yanıltabilir. Ayrıca F/K negatif kâr durumunda anlamsız; EV/EBITDA genellikle pozitif. Farklı ülkelerdeki vergi/muhasebe farlılıklarından etkilenmez."
+          "e": "EV (Enterprise Value) = Piyasa değeri + Net borç. EBIT (faiz ve vergi öncesi kâr)DA (faiz, vergi, amortisman öncesi kâr) = Faiz, Vergi, Amortisman ve itfa öncesi kâr. EV/EBIT (faiz ve vergi öncesi kâr)DA (faiz, vergi, amortisman öncesi kâr): borç yapısından bağımsız tüm firmayı kapsayan değerleme. F/K sadece özkaynak değeri; farklı borç yapılarında yanıltabilir. Ayrıca F/K negatif kâr durumunda anlamsız; EV/EBIT (faiz ve vergi öncesi kâr)DA (faiz, vergi, amortisman öncesi kâr) genellikle pozitif. Farklı ülkelerdeki vergi/muhasebe farlılıklarından etkilenmez."
         },
         {
           "q": "Teknik analizde 'altın çapraz' ve 'ölüm çaprazı' nedir?",
@@ -7944,23 +7944,23 @@ window.__C = {
           "q": "Hisse senedi geri alımı (buyback) firma değerine nasıl etki eder?",
           "o": [
             "A) Firma değerini her zaman azaltır",
-            "B) Geri alım EPS'i artırır (daha az hisse) ve aşırı nakit fazlasını iade etmenin vergi avantajlı yolu; hisse fiyatı yükselir — ancak firmanın gerçek değeri değişmez (MM teoremi)",
+            "B) Geri alım EPS (hisse başına kazanç)'i artırır (daha az hisse) ve aşırı nakit fazlasını iade etmenin vergi avantajlı yolu; hisse fiyatı yükselir — ancak firmanın gerçek değeri değişmez (MM teoremi)",
             "C) Geri alım yalnızca borç ile finanse edilebilir",
             "D) Geri alım yöneticilerin maaşını artırır"
           ],
           "a": 1,
-          "e": "Geri alım etkileri: (1) Dolaşımdaki hisse sayısı azalır → EPS artar. (2) Kalan hisse sahipleri oransal payı büyür. (3) Temettüden vergi avantajlı olabilir (sermaye kazancı vergisi vs temettü vergisi). Modigliani-Miller'a göre mükemmel piyasada geri alım vs temettü firma değerini değiştirmez. Ancak gerçekte: geri alım sinyali (yönetim hisse fiyatının düşük olduğunu düşünüyor) piyasada pozitif tepkiye neden olur."
+          "e": "Geri alım etkileri: (1) Dolaşımdaki hisse sayısı azalır → EPS (hisse başına kazanç) artar. (2) Kalan hisse sahipleri oransal payı büyür. (3) Temettüden vergi avantajlı olabilir (sermaye kazancı vergisi vs temettü vergisi). Modigliani-Miller'a göre mükemmel piyasada geri alım vs temettü firma değerini değiştirmez. Ancak gerçekte: geri alım sinyali (yönetim hisse fiyatının düşük olduğunu düşünüyor) piyasada pozitif tepkiye neden olur."
         },
         {
-          "q": "CAPM'in piyasa portföyü varsayımının teorik sorunları nelerdir?",
+          "q": "CAPM (sermaye varlığı fiyatlama modeli)'in piyasa portföyü varsayımının teorik sorunları nelerdir?",
           "o": [
-            "A) CAPM sorunsuz bir modeldir",
-            "B) Piyasa portföyü gözlemlenemez (tüm varlıkları kapsar — borsa dışı, insan sermayesi vb.); Roll kritiği: test edilen portföy gerçek pazar portföyü değilse CAPM test edilemiyor",
+            "A) CAPM (sermaye varlığı fiyatlama modeli) sorunsuz bir modeldir",
+            "B) Piyasa portföyü gözlemlenemez (tüm varlıkları kapsar — borsa dışı, insan sermayesi vb.); Roll kritiği: test edilen portföy gerçek pazar portföyü değilse CAPM (sermaye varlığı fiyatlama modeli) test edilemiyor",
             "C) Beta hesaplaması çok karmaşıktır",
-            "D) CAPM yalnızca ABD piyasaları için geçerlidir"
+            "D) CAPM (sermaye varlığı fiyatlama modeli) yalnızca ABD piyasaları için geçerlidir"
           ],
           "a": 1,
-          "e": "Roll kritiği (1977): gerçek pazar portföyü tüm yatırılabilir varlıkları kapsar (borsadaki hisseler + tahviller + gayrimenkul + insan sermayesi + sanat vb.). Bu portföy gözlemlenemez. Ampirik testlerde kullanılan borsa endeksi gerçek pazar portföyü değildir → CAPM test edilemez, yanlış çıkması gözlemlenen endeksin eksik olmasından da kaynaklanıyor olabilir. APT ve FF modelleri bu sorundan bağımsızdır."
+          "e": "Roll kritiği (1977): gerçek pazar portföyü tüm yatırılabilir varlıkları kapsar (borsadaki hisseler + tahviller + gayrimenkul + insan sermayesi + sanat vb.). Bu portföy gözlemlenemez. Ampirik testlerde kullanılan borsa endeksi gerçek pazar portföyü değildir → CAPM (sermaye varlığı fiyatlama modeli) test edilemez, yanlış çıkması gözlemlenen endeksin eksik olmasından da kaynaklanıyor olabilir. APT ve FF modelleri bu sorundan bağımsızdır."
         },
         {
           "q": "Hisse senedinin içsel değeri piyasa fiyatının üzerindeyse değer yatırımcısı ne yapmalıdır?",
@@ -8018,7 +8018,7 @@ window.__C = {
           "e": "Bağışıklama (Duration matching): yükümlülükleri karşılamak için portföy Duration'ı yükümlülüklerin Duration'ına eşitlenir. Faiz arttığında: tahvil fiyatı düşer ama kupon yeniden yatırım getirisi artar. Faiz düştüğünde: fiyat artar ama yeniden yatırım getirisi azalır. İki etki Duration eşleşmesi sayesinde birbirini dengeler — belirli vade hedefi net değer korunur. Emeklilik fonları ve sigorta şirketleri bu stratejiyi kullanır."
         },
         {
-          "q": "CAPM'in pratikte kullanımında beta tahminiyle ilgili temel sorun nedir?",
+          "q": "CAPM (sermaye varlığı fiyatlama modeli)'in pratikte kullanımında beta tahminiyle ilgili temel sorun nedir?",
           "o": [
             "A) Beta her zaman sıfırdır",
             "B) Geçmiş veriden hesaplanan tarihsel beta gelecekteki sistematik riski tam yansıtmayabilir; beta zaman içinde değişir (beta kayması/beta shrinkage)",
@@ -8062,15 +8062,15 @@ window.__C = {
           "e": "Sharpe'in aritmetigi: aktif yoneticiler toplam sifir toplaml oyun, ucret dusuldugunde ortalama yonetici endeksin altinda. Birkac istisna uzun donem alfa uretiyor."
         },
         {
-          "q": "Hisse geri alimi EPS ve firma degeri uzerinde ne etkisi yapar?",
+          "q": "Hisse geri alimi EPS (hisse başına kazanç) ve firma degeri uzerinde ne etkisi yapar?",
           "o": [
             "A) Firma degerini arttirir",
-            "B) EPS artar; MM teoremine gore ekonomik deger degismez; sinyal etkisi fiyati artirabilir",
+            "B) EPS (hisse başına kazanç) artar; MM teoremine gore ekonomik deger degismez; sinyal etkisi fiyati artirabilir",
             "C) Firma degeri azalir",
             "D) Sadece borc ile mumkundur"
           ],
           "a": 1,
-          "e": "Geri alim: tedavul azalir EPS artar. MM: ideal piyasada deger degismez. Pratikte: yonetim dusuk fiyat sinyali veriyor, piyasa pozitif tepki."
+          "e": "Geri alim: tedavul azalir EPS (hisse başına kazanç) artar. MM: ideal piyasada deger degismez. Pratikte: yonetim dusuk fiyat sinyali veriyor, piyasa pozitif tepki."
         },
         {
           "q": "Opsiyonun en temel ozelligi nedir?",
@@ -8107,7 +8107,7 @@ window.__C = {
       {
         "num": "02",
         "title": "Kredi Riski Ölçümü — Scoring ve Rating",
-        "body": "<ul><li><strong>Kredi riski neden ölçülür?</strong> Temerrüt olasılığı (PD), temerrüt anındaki risk tutarı (EAD) ve temerrüt halinde kayıp oranı (LGD) ölçülerek beklenen kayıp (EL = PD × EAD × LGD) hesaplanır; sermaye yeterliliği ve fiyatlama kararları buna göre yapılır.</li><li><strong>Scoring (Notlama) vs Rating (Derecelendirme):</strong> Scoring — matematiksel modelle geri ödememe olasılığı tahmin edilir (perakende/KOBİ kredileri). Rating — niteliksel ve niceliksel faktörlerle birlikte analitik yargı içerir (kurumsal/ihraç derecelendirmesi).</li><li><strong>Perakende kredi notlama faktörleri:</strong> Kişisel veriler (yaş, gelir, istihdam süresi), kredi geçmişi, mevcut borç yükü, teminat durumu.</li><li><strong>İşletme kredi notlama modelleri:</strong> Lineer olasılık modeli, Logit modeli, Lineer diskriminant analizi (Altman Z-skoru). Her model temerrüt/batmama ayırımını matematiksel olarak yapar.</li><li><strong>Validasyon yöntemleri:</strong> ROC eğrisi ve AUROC, Gini katsayısı, Kolmogorov-Smirnov testi — modelin diskriminasyon gücünü ölçer.</li></ul>"
+        "body": "<ul><li><strong>Kredi riski neden ölçülür?</strong> Temerrüt olasılığı (PD), temerrüt anındaki risk tutarı (EAD) ve temerrüt halinde kayıp oranı (LGD) ölçülerek beklenen kayıp (EL = PD × EAD × LGD) hesaplanır; sermaye yeterliliği ve fiyatlama kararları buna göre yapılır.</li><li><strong>Scoring (Notlama) vs Rating (Derecelendirme):</strong> Scoring — matematiksel modelle geri ödememe olasılığı tahmin edilir (perakende/KOBİ (küçük ve orta büyüklükteki işletmeler) kredileri). Rating — niteliksel ve niceliksel faktörlerle birlikte analitik yargı içerir (kurumsal/ihraç derecelendirmesi).</li><li><strong>Perakende kredi notlama faktörleri:</strong> Kişisel veriler (yaş, gelir, istihdam süresi), kredi geçmişi, mevcut borç yükü, teminat durumu.</li><li><strong>İşletme kredi notlama modelleri:</strong> Lineer olasılık modeli, Logit modeli, Lineer diskriminant analizi (Altman Z-skoru). Her model temerrüt/batmama ayırımını matematiksel olarak yapar.</li><li><strong>Validasyon yöntemleri:</strong> ROC eğrisi ve AUROC, Gini katsayısı, Kolmogorov-Smirnov testi — modelin diskriminasyon gücünü ölçer.</li></ul>"
       },
       {
         "num": "03",
@@ -8117,32 +8117,32 @@ window.__C = {
       {
         "num": "04",
         "title": "Finansal Analiz — Oranlar, Nakit Akışı ve Erken Uyarı",
-        "body": "<ul><li><strong>Temel finansal tablo oranları:</strong><br>→ Likidite: Cari oran = Dönen varlıklar / Kısa vadeli borçlar. Asit-test = (Dönen varlıklar − Stoklar) / KVB.<br>→ Kaldıraç: Borç/Özsermaye, Toplam borç/Toplam aktif.<br>→ Kârlılık: Net kâr marjı, ROA, ROE.<br>→ Devir hızları: Alacak tahsil süresi, stok devir hızı, borç ödeme süresi.</li><li><strong>Nakit akış analizi:</strong> Faaliyet nakit akışı (FCFO) şirketin asıl faaliyetinden ürettiği nakdi gösterir. Muhasebe kârından farklı; kâr makyajını aşar. Nakit akış oranları (FCFO/Borç servisi gibi) kredi kapasitesini ölçer.</li><li><strong>Finansal tablo makyajı:</strong> Gelirlerin öne çekilmesi, giderlerin ertelenmesi, bilanço dışı borçlanma, kira aktivasyonu gibi yöntemler. Analist bu ayarlamaları normalize ederek düzeltirilmiş finansalları kullanır.</li><li><strong>Erken uyarı sinyalleri:</strong> Bilançoda: ani aktif artışı, alacak tahsil süresinin uzaması, stok birikmesi. Gelir tablosunda: brüt kâr marjı baskısı, artan finansman giderleri. Nakit akışında: faaliyet nakit akışının negatife dönmesi.</li></ul>"
+        "body": "<ul><li><strong>Temel finansal tablo oranları:</strong><br>→ Likidite: Cari oran = Dönen varlıklar / Kısa vadeli borçlar. Asit-test = (Dönen varlıklar − Stoklar) / KVB.<br>→ Kaldıraç: Borç/Özsermaye, Toplam borç/Toplam aktif.<br>→ Kârlılık: Net kâr marjı, ROA (aktif kârlılığı), ROE (özsermaye kârlılığı).<br>→ Devir hızları: Alacak tahsil süresi, stok devir hızı, borç ödeme süresi.</li><li><strong>Nakit akış analizi:</strong> Faaliyet nakit akışı (FCFO) şirketin asıl faaliyetinden ürettiği nakdi gösterir. Muhasebe kârından farklı; kâr makyajını aşar. Nakit akış oranları (FCFO/Borç servisi gibi) kredi kapasitesini ölçer.</li><li><strong>Finansal tablo makyajı:</strong> Gelirlerin öne çekilmesi, giderlerin ertelenmesi, bilanço dışı borçlanma, kira aktivasyonu gibi yöntemler. Analist bu ayarlamaları normalize ederek düzeltirilmiş finansalları kullanır.</li><li><strong>Erken uyarı sinyalleri:</strong> Bilançoda: ani aktif artışı, alacak tahsil süresinin uzaması, stok birikmesi. Gelir tablosunda: brüt kâr marjı baskısı, artan finansman giderleri. Nakit akışında: faaliyet nakit akışının negatife dönmesi.</li></ul>"
       },
       {
         "num": "05",
         "title": "Kredi Derecelendirme Kuruluşları ve Metodoloji",
-        "body": "<ul><li><strong>Büyük üç kuruluş:</strong> Moody's, S&P ve Fitch. Dünya kredi derecelendirme pazarının %95'ini kontrol eder. AAA/Aaa en yüksek, D/C en düşük not.</li><li><strong>Yatırım yapılabilir / spekülatif ayrımı:</strong> BBB-/Baa3 ve üzeri: yatırım yapılabilir. BB+/Ba1 ve altı: spekülatif (junk/yüksek getirili).</li><li><strong>Kurumsal kredi rating metodolojisi:</strong> İş riski (sektör, rekabet, yönetim) + Finansal risk (oranlar, nakit akışı, esneklik) → taslak not → komite kararı → itiraz → yayın.</li><li><strong>Yapılandırılmış ürün derecelendirmesi:</strong> Varlığa dayalı menkul kıymetler (ABS), konut ipoteği (MBS), CDO gibi ürünlerde dilim (tranche) yapısı ve temerrüt korelasyonu analiz edilir.</li><li><strong>Banka rating metodolojisi:</strong> Finansal güç analizi (aktif kalitesi, sermaye, likidite, kârlılık) + destekleyici unsurlar (hükümet desteği, grup desteği). CAMELS çerçevesi kullanılır.</li><li><strong>Derecelendirme performansı:</strong> Geçiş matrisleri (transition matrices), temerrüt oranları, derecelendirme istikrarı. Yatırım notlu şirketlerde düşük not volatilitesi beklenir.</li></ul>"
+        "body": "<ul><li><strong>Büyük üç kuruluş:</strong> Moody's, S&P ve Fitch. Dünya kredi derecelendirme pazarının %95'ini kontrol eder. AAA/Aaa en yüksek, D/C en düşük not.</li><li><strong>Yatırım yapılabilir / spekülatif ayrımı:</strong> BBB-/Baa3 ve üzeri: yatırım yapılabilir. BB+/Ba1 ve altı: spekülatif (junk/yüksek getirili).</li><li><strong>Kurumsal kredi rating metodolojisi:</strong> İş riski (sektör, rekabet, yönetim) + Finansal risk (oranlar, nakit akışı, esneklik) → taslak not → komite kararı → itiraz → yayın.</li><li><strong>Yapılandırılmış ürün derecelendirmesi:</strong> Varlığa dayalı menkul kıymetler (ABS (varlığa dayalı menkul kıymet)), konut ipoteği (MBS (ipoteğe dayalı menkul kıymet)), CDO (teminatlı borç yükümlülüğü) gibi ürünlerde dilim (tranche) yapısı ve temerrüt korelasyonu analiz edilir.</li><li><strong>Banka rating metodolojisi:</strong> Finansal güç analizi (aktif kalitesi, sermaye, likidite, kârlılık) + destekleyici unsurlar (hükümet desteği, grup desteği). CAMELS çerçevesi kullanılır.</li><li><strong>Derecelendirme performansı:</strong> Geçiş matrisleri (transition matrices), temerrüt oranları, derecelendirme istikrarı. Yatırım notlu şirketlerde düşük not volatilitesi beklenir.</li></ul>"
       },
       {
         "num": "06",
-        "title": "Basel I ve Basel II Sermaye Uzlaşıları",
-        "body": "<ul><li><strong>Basel I (1988):</strong> Sermaye yeterlilik oranı (SYO) = Özkaynak / Risk ağırlıklı varlıklar ≥ %8. Risk ağırlıkları kaba kategorilere göre: devlet %0, bankalar %20, kurumsal %100. 1996'da piyasa riski eklendi.</li><li><strong>Basel II (2004) — 3 yapısal blok:</strong><br>1. Blok: Minimum sermaye yükümlülüğü (kredi, piyasa, operasyonel risk).<br>2. Blok: Denetim ve gözetim süreci (SREP — bankalar içsel sermayeyi değerlendirir, denetçi gözden geçirir).<br>3. Blok: Piyasa disiplini (kamuya açıklama yükümlülükleri).</li><li><strong>Kredi riski yaklaşımları:</strong> Standart Yaklaşım (SA) — harici derecelendirme notları risk ağırlığını belirler. İçsel Derecelendirmeye Dayalı Yaklaşım (IRB) — temel ve gelişmiş IRB, banka kendi PD/LGD/EAD tahminlerini kullanır.</li><li><strong>IRB risk parametreleri:</strong> PD (temerrüt olasılığı), LGD (temerrüt halinde kayıp oranı), EAD (temerrüt anındaki risk tutarı), M (vade). Beklenmyen kayıp (UL) için sermaye ayrılır.</li></ul>"
+        "title": "Basel (uluslararası bankacılık düzenleme çerçevesi) I ve Basel (uluslararası bankacılık düzenleme çerçevesi) II Sermaye Uzlaşıları",
+        "body": "<ul><li><strong>Basel (uluslararası bankacılık düzenleme çerçevesi) I (1988):</strong> Sermaye yeterlilik oranı (SYO) = Özkaynak / Risk ağırlıklı varlıklar ≥ %8. Risk ağırlıkları kaba kategorilere göre: devlet %0, bankalar %20, kurumsal %100. 1996'da piyasa riski eklendi.</li><li><strong>Basel (uluslararası bankacılık düzenleme çerçevesi) II (2004) — 3 yapısal blok:</strong><br>1. Blok: Minimum sermaye yükümlülüğü (kredi, piyasa, operasyonel risk).<br>2. Blok: Denetim ve gözetim süreci (SREP — bankalar içsel sermayeyi değerlendirir, denetçi gözden geçirir).<br>3. Blok: Piyasa disiplini (kamuya açıklama yükümlülükleri).</li><li><strong>Kredi riski yaklaşımları:</strong> Standart Yaklaşım (SA) — harici derecelendirme notları risk ağırlığını belirler. İçsel Derecelendirmeye Dayalı Yaklaşım (IRB) — temel ve gelişmiş IRB, banka kendi PD/LGD/EAD tahminlerini kullanır.</li><li><strong>IRB risk parametreleri:</strong> PD (temerrüt olasılığı), LGD (temerrüt halinde kayıp oranı), EAD (temerrüt anındaki risk tutarı), M (vade). Beklenmyen kayıp (UL) için sermaye ayrılır.</li></ul>"
       },
       {
         "num": "07",
         "title": "Piyasa Riski, RMD ve Operasyonel Risk",
-        "body": "<ul><li><strong>Riske Maruz Değer (RMD/VaR):</strong> Belirli bir güven düzeyi (%95 veya %99) ve elde tutma süresi (1 gün veya 10 gün) için portföyün maksimum kaybı. Formül: RMD = W × σ × z × √N.</li><li><strong>RMD hesaplama yöntemleri:</strong> Varyans-kovaryans (parametrik, normal dağılım varsayımı), tarihsel simülasyon (geçmiş getiriler kullanılır), Monte Carlo simülasyonu (rastgele senaryo üretimi).</li><li><strong>RMD sınırlılıkları:</strong> Kuyruk riskini (tail risk) yeterince ölçmez, normal dağılım varsayımı kriz dönemlerinde bozulur, likidite riskini göz ardı eder.</li><li><strong>Operasyonel risk (Basel II):</strong> İnsan hatası, sistem arızası, süreç başarısızlığı, dışsal olaylardan kaynaklanan kayıplar. Temel Gösterge Yaklaşımı (brüt gelirin %15'i), Standart Yaklaşım ve İleri Ölçüm Yaklaşımı (AMA).</li></ul>"
+        "body": "<ul><li><strong>Riske Maruz Değer (RMD/VaR (riske maruz değer)):</strong> Belirli bir güven düzeyi (%95 veya %99) ve elde tutma süresi (1 gün veya 10 gün) için portföyün maksimum kaybı. Formül: RMD = W × σ × z × √N.</li><li><strong>RMD hesaplama yöntemleri:</strong> Varyans-kovaryans (parametrik, normal dağılım varsayımı), tarihsel simülasyon (geçmiş getiriler kullanılır), Monte Carlo simülasyonu (rastgele senaryo üretimi).</li><li><strong>RMD sınırlılıkları:</strong> Kuyruk riskini (tail risk) yeterince ölçmez, normal dağılım varsayımı kriz dönemlerinde bozulur, likidite riskini göz ardı eder.</li><li><strong>Operasyonel risk (Basel (uluslararası bankacılık düzenleme çerçevesi) II):</strong> İnsan hatası, sistem arızası, süreç başarısızlığı, dışsal olaylardan kaynaklanan kayıplar. Temel Gösterge Yaklaşımı (brüt gelirin %15'i), Standart Yaklaşım ve İleri Ölçüm Yaklaşımı (AMA).</li></ul>"
       },
       {
         "num": "08",
-        "title": "Basel III ve Sermaye Yeterliliği",
-        "body": "<ul><li><strong>Basel III sermaye bileşenleri:</strong> Çekirdek sermaye (CET1) ≥ RAV'ın %4,5'i. Ana sermaye (Tier 1) ≥ %6. Toplam sermaye tabanı ≥ %8.</li><li><strong>Tampon sermayeler:</strong> Sermaye koruma tamponu: %2,5 (hepsinde CET1). Döngüye karşı tampon: 0–%2,5. Sistemik önem tamponu (G-SIB/D-SIB için ek).</li><li><strong>Kaldıraç oranı:</strong> Tier 1 sermaye / Bilanço içi ve dışı toplam varlıklar ≥ %3. Risk ağırlıklarına bakılmaksızın aşırı kaldıraca sınır.</li><li><strong>Likidite standartları:</strong> LCR (Likidite Karşılama Oranı): 30 günlük stres senaryosunda yüksek kaliteli likit varlıklar / net nakit çıkışları ≥ %100. NSFR (Net İstikrarlı Fonlama Oranı): 1 yıllık vadede istikrarlı fonlama / gereken fonlama ≥ %100.</li><li><strong>Kredi Değerleme Düzeltmesi (CVA):</strong> Tezgah üstü türev işlemlerde karşı tarafın temerrüdünden kaynaklanan değer kaybı riski için sermaye yükümlülüğü getirildi.</li></ul>"
+        "title": "Basel (uluslararası bankacılık düzenleme çerçevesi) III ve Sermaye Yeterliliği",
+        "body": "<ul><li><strong>Basel (uluslararası bankacılık düzenleme çerçevesi) III sermaye bileşenleri:</strong> Çekirdek sermaye (CET1) ≥ RAV'ın %4,5'i. Ana sermaye (Tier 1) ≥ %6. Toplam sermaye tabanı ≥ %8.</li><li><strong>Tampon sermayeler:</strong> Sermaye koruma tamponu: %2,5 (hepsinde CET1). Döngüye karşı tampon: 0–%2,5. Sistemik önem tamponu (G-SIB/D-SIB için ek).</li><li><strong>Kaldıraç oranı:</strong> Tier 1 sermaye / Bilanço içi ve dışı toplam varlıklar ≥ %3. Risk ağırlıklarına bakılmaksızın aşırı kaldıraca sınır.</li><li><strong>Likidite standartları:</strong> LCR (Likidite Karşılama Oranı): 30 günlük stres senaryosunda yüksek kaliteli likit varlıklar / net nakit çıkışları ≥ %100. NSFR (Net İstikrarlı Fonlama Oranı): 1 yıllık vadede istikrarlı fonlama / gereken fonlama ≥ %100.</li><li><strong>Kredi Değerleme Düzeltmesi (CVA):</strong> Tezgah üstü türev işlemlerde karşı tarafın temerrüdünden kaynaklanan değer kaybı riski için sermaye yükümlülüğü getirildi.</li></ul>"
       },
       {
         "num": "09",
         "title": "Bazı Şirketlerin Banka Kredisi Kullanabilmesi İçin Gereken Koşullar",
-        "body": "<ul><li><strong>Banka kredi analiz süreci:</strong> Finansal analiz (oranlar, nakit akışı), niteliksel analiz (yönetim kalitesi, sektör konumu, iş sürekliliği), teminat değerlendirmesi ve çevre/ESG faktörleri.</li><li><strong>Temerrüt mesafesi (Distance to Default):</strong> Merton modeli — şirketin piyasa değerinin borcun nominal değerinin altına düşme olasılığını opsiyon fiyatlama teorisiyle hesaplar. PD'yi piyasa verisinden türetir.</li><li><strong>Beklenen kayıp hesabı:</strong> EL = PD × LGD × EAD. PD: temerrüt olasılığı (scoring/rating ile). LGD: teminata göre değişir (güvenceli kredilerde düşük). EAD: kullandırılan kredi + taahhütlerin belirli oranı.</li><li><strong>Risk temelli fiyatlama:</strong> Kredi faiz oranı = Fonlama maliyeti + EL + UL sermaye maliyeti + operasyonel maliyet + kâr marjı. Daha riskli müşteriye daha yüksek spread uygulanır.</li></ul>"
+        "body": "<ul><li><strong>Banka kredi analiz süreci:</strong> Finansal analiz (oranlar, nakit akışı), niteliksel analiz (yönetim kalitesi, sektör konumu, iş sürekliliği), teminat değerlendirmesi ve çevre/ESG (çevresel, sosyal ve yönetişim) faktörleri.</li><li><strong>Temerrüt mesafesi (Distance to Default):</strong> Merton modeli — şirketin piyasa değerinin borcun nominal değerinin altına düşme olasılığını opsiyon fiyatlama teorisiyle hesaplar. PD'yi piyasa verisinden türetir.</li><li><strong>Beklenen kayıp hesabı:</strong> EL = PD × LGD × EAD. PD: temerrüt olasılığı (scoring/rating ile). LGD: teminata göre değişir (güvenceli kredilerde düşük). EAD: kullandırılan kredi + taahhütlerin belirli oranı.</li><li><strong>Risk temelli fiyatlama:</strong> Kredi faiz oranı = Fonlama maliyeti + EL + UL sermaye maliyeti + operasyonel maliyet + kâr marjı. Daha riskli müşteriye daha yüksek spread uygulanır.</li></ul>"
       }
     ],
     "tests": {
@@ -8195,7 +8195,7 @@ window.__C = {
           "q": "Kredi notlaması (scoring) ile kredi derecelendirmesi (rating) arasındaki temel fark nedir?",
           "o": [
             "A) İkisi tamamen aynı yöntemi kullanır",
-            "B) Scoring matematiksel modelle PD tahmini yapar (perakende/KOBİ); Rating niteliksel analitik yargı da içerir (kurumsal/ihraç)",
+            "B) Scoring matematiksel modelle PD tahmini yapar (perakende/KOBİ (küçük ve orta büyüklükteki işletmeler)); Rating niteliksel analitik yargı da içerir (kurumsal/ihraç)",
             "C) Rating daha basit, scoring daha karmaşık",
             "D) Scoring yalnızca devlet borçları için kullanılır"
           ],
@@ -8203,7 +8203,7 @@ window.__C = {
           "e": "Scoring (notlama): istatistiksel model ağırlıklı, geniş perakende portföyü için PD tahmini — hız ve ölçek önemli. Rating (derecelendirme): iş riski, yönetim kalitesi, rekabetçi konum gibi niteliksel faktörler de analitik yargıyla eklenir — kurumsal kredi ve ihraç derecelendirmelerinde kullanılır."
         },
         {
-          "q": "Basel I'de kurumsal şirketlere uygulanan risk ağırlığı nedir?",
+          "q": "Basel (uluslararası bankacılık düzenleme çerçevesi) I'de kurumsal şirketlere uygulanan risk ağırlığı nedir?",
           "o": [
             "A) %0",
             "B) %20",
@@ -8211,7 +8211,7 @@ window.__C = {
             "D) %100"
           ],
           "a": 3,
-          "e": "Basel I risk ağırlıkları: OECD ülkeleri devletleri %0, bankalar %20, ipotek kredileri %50, kurumsal şirketler %100. Basit yapıda olduğu için şirketin kredi kalitesine bakılmaksızın %100 uygulanır. Bu Basel II'de harici/içsel derecelendirmeyle farklılaştırıldı."
+          "e": "Basel (uluslararası bankacılık düzenleme çerçevesi) I risk ağırlıkları: OECD (ekonomik kalkınma ve işbirliği örgütü) ülkeleri devletleri %0, bankalar %20, ipotek kredileri %50, kurumsal şirketler %100. Basit yapıda olduğu için şirketin kredi kalitesine bakılmaksızın %100 uygulanır. Bu Basel (uluslararası bankacılık düzenleme çerçevesi) II'de harici/içsel derecelendirmeyle farklılaştırıldı."
         },
         {
           "q": "Altman Z-skoru için hangi sınır değeri tehlikeli bölgeyi ifade eder?",
@@ -8225,7 +8225,7 @@ window.__C = {
           "e": "Altman Z-skoru sınırları: Z > 2.99 güvenli bölge (düşük temerrüt riski). 1.81 < Z < 2.99 gri bölge (belirsizlik). Z < 1.81 tehlikeli bölge (yüksek temerrüt riski). 1968'de geliştirilen bu model bugün hâlâ kalitatif kredi analizinde referans gösterilir."
         },
         {
-          "q": "Basel II'nin üç yapısal bloğu nelerdir?",
+          "q": "Basel (uluslararası bankacılık düzenleme çerçevesi) II'nin üç yapısal bloğu nelerdir?",
           "o": [
             "A) Likidite, kârlılık, sermaye",
             "B) Minimum sermaye yükümlülüğü — denetim ve gözetim — piyasa disiplini",
@@ -8233,7 +8233,7 @@ window.__C = {
             "D) IRB — SA — standart yaklaşım"
           ],
           "a": 1,
-          "e": "Basel II 3 yapısal blok: 1. Blok — minimum sermaye yükümlülüğü (kredi, piyasa, operasyonel risk için). 2. Blok — denetim ve gözetim süreci (SREP: bankalar içsel sermayeyi değerlendirir, denetçi gözden geçirir). 3. Blok — piyasa disiplini (şeffaflık ve kamuya açıklama yükümlülükleri)."
+          "e": "Basel (uluslararası bankacılık düzenleme çerçevesi) II 3 yapısal blok: 1. Blok — minimum sermaye yükümlülüğü (kredi, piyasa, operasyonel risk için). 2. Blok — denetim ve gözetim süreci (SREP: bankalar içsel sermayeyi değerlendirir, denetçi gözden geçirir). 3. Blok — piyasa disiplini (şeffaflık ve kamuya açıklama yükümlülükleri)."
         },
         {
           "q": "LGD (Loss Given Default) ne anlama gelir?",
@@ -8302,7 +8302,7 @@ window.__C = {
           "e": "Makyaj tespiti: Gelirler öne çekildiğinde alacaklar şişer → alacak tahsil süresi uzar. Giderler ertelendiğinde kâr yapay görünür. Faaliyet kârı pozitifken FCFO negatifse şirket gerçekte nakit üretemiyordur. Borç bilanço dışına alındığında kaldıraç oranları yapay düşük görünür."
         },
         {
-          "q": "Basel III'te çekirdek sermaye (CET1) oranı minimum kaç olmalıdır?",
+          "q": "Basel (uluslararası bankacılık düzenleme çerçevesi) III'te çekirdek sermaye (CET1) oranı minimum kaç olmalıdır?",
           "o": [
             "A) %2",
             "B) %4,5",
@@ -8310,7 +8310,7 @@ window.__C = {
             "D) %8"
           ],
           "a": 1,
-          "e": "Basel III minimum sermaye oranları: Çekirdek sermaye (CET1) ≥ risk ağırlıklı varlıkların %4,5'i. Ana sermaye (Tier 1) ≥ %6. Toplam sermaye tabanı ≥ %8. Sermaye koruma tamponu (%2,5 CET1) ile fiilî CET1 eşiği %7'ye yükselir. Tampon ihlali temettü ve ikramiye kısıtlarını tetikler."
+          "e": "Basel (uluslararası bankacılık düzenleme çerçevesi) III minimum sermaye oranları: Çekirdek sermaye (CET1) ≥ risk ağırlıklı varlıkların %4,5'i. Ana sermaye (Tier 1) ≥ %6. Toplam sermaye tabanı ≥ %8. Sermaye koruma tamponu (%2,5 CET1) ile fiilî CET1 eşiği %7'ye yükselir. Tampon ihlali temettü ve ikramiye kısıtlarını tetikler."
         },
         {
           "q": "CAMELS çerçevesi banka derecelendirmesinde neyi değerlendirir?",
@@ -8332,7 +8332,7 @@ window.__C = {
             "D) Faiz ödemesi"
           ],
           "a": 1,
-          "e": "EAD: temerrüt anında bankanın maruz kaldığı toplam tutar. Kullanılan kredi bakiyesi + çekilmemiş limit × CCF (kredi dönüşüm faktörü). Nakdi kredi için EAD genellikle bakiyeye eşittir; taahhüt ve akreditiflerde CCF uygulanır. EL hesabında ve Basel II IRB yaklaşımında girdi."
+          "e": "EAD: temerrüt anında bankanın maruz kaldığı toplam tutar. Kullanılan kredi bakiyesi + çekilmemiş limit × CCF (kredi dönüşüm faktörü). Nakdi kredi için EAD genellikle bakiyeye eşittir; taahhüt ve akreditiflerde CCF uygulanır. EL hesabında ve Basel (uluslararası bankacılık düzenleme çerçevesi) II IRB yaklaşımında girdi."
         },
         {
           "q": "Validasyon (validation) kredi modellerinde neden gereklidir?",
@@ -8381,7 +8381,7 @@ window.__C = {
           "e": "Logit modeli: P(temerrüt) = 1 / (1 + e^(−LP)) formülüyle temerrüt olasılığını [0,1] aralığında tahmin eder. LP = lineer prediktör (ağırlıklı finansal değişkenler toplamı). S-şekilli (sigmoid) fonksiyon olasılık yorumuna uygundur. Lojistik regresyon olarak da bilinen bu model perakende ve kurumsal kredi skorlamada yaygın."
         },
         {
-          "q": "Yapılandırılmış finansal araçların (ABS, MBS) kredi derecelendirmesi standart kurumsal derecelendirmeden nasıl farklıdır?",
+          "q": "Yapılandırılmış finansal araçların (ABS (varlığa dayalı menkul kıymet), MBS (ipoteğe dayalı menkul kıymet)) kredi derecelendirmesi standart kurumsal derecelendirmeden nasıl farklıdır?",
           "o": [
             "A) Hiç farklı değildir",
             "B) Havuzdaki varlıkların nakit akışı modellenir, dilim (tranche) yapısı ve temerrüt korelasyonu analiz edilir — şirketin genel kredi kalitesi değil varlık havuzunun kalitesi önemlidir",
@@ -8389,7 +8389,7 @@ window.__C = {
             "D) Hükümet garantisi gerektirir"
           ],
           "a": 1,
-          "e": "Yapılandırılmış ürün derecelendirmesi: Temel varlık havuzunun (kredi, ipotek, kira alacağı vb.) nakit akışı modellenir. Senior/Mezzanine/Junior tranche yapısına göre kayıp dağılımı hesaplanır. Monte Carlo ile korelasyon senaryoları çalıştırılır. CDO'larda tranche derecelendirmesi özellikle 2008 krizinde büyük eleştiri aldı."
+          "e": "Yapılandırılmış ürün derecelendirmesi: Temel varlık havuzunun (kredi, ipotek, kira alacağı vb.) nakit akışı modellenir. Senior/Mezzanine/Junior tranche yapısına göre kayıp dağılımı hesaplanır. Monte Carlo ile korelasyon senaryoları çalıştırılır. CDO (teminatlı borç yükümlülüğü)'larda tranche derecelendirmesi özellikle 2008 krizinde büyük eleştiri aldı."
         },
         {
           "q": "Merton modeli kredi riskini nasıl ölçer?",
@@ -8403,7 +8403,7 @@ window.__C = {
           "e": "Merton modeli (1974): Şirketin varlık değeri V bir stokastik süreç izler. Özkaynak = max(V − B, 0) — bir avrupa call opsiyonu. Şirket varlık değeri B (borç face value) altına düşünce temerrüt gerçekleşir. Temerrüt mesafesi (DD) = (ln(V/B) + (μ − σ²/2)T) / (σ√T). Moody's KMV modeli bu yaklaşımı kullanır."
         },
         {
-          "q": "Basel II'de Temel IRB (FIRB) ve Gelişmiş IRB (AIRB) arasındaki fark nedir?",
+          "q": "Basel (uluslararası bankacılık düzenleme çerçevesi) II'de Temel IRB (FIRB) ve Gelişmiş IRB (AIRB) arasındaki fark nedir?",
           "o": [
             "A) İkisi aynıdır",
             "B) FIRB'de banka yalnızca PD'yi tahmin eder; LGD, EAD, M düzenleyici tarafından verilir. AIRB'de banka PD, LGD ve EAD'yi de tahmin eder",
@@ -8411,7 +8411,7 @@ window.__C = {
             "D) FIRB daha karmaşık modeller gerektirir"
           ],
           "a": 1,
-          "e": "FIRB (Foundation IRB): Banka yalnızca PD tahmin eder, diğer parametreler Basel düzenleyici tarafından belirlenir. AIRB (Advanced IRB): Banka kendi PD, LGD ve EAD modellerini geliştirip uygular. AIRB daha hassas sermaye hesabına ve genellikle daha düşük sermaye yüküne olanak tanır; ancak denetim onayı ve kapsamlı veri gerektirir."
+          "e": "FIRB (Foundation IRB): Banka yalnızca PD tahmin eder, diğer parametreler Basel (uluslararası bankacılık düzenleme çerçevesi) düzenleyici tarafından belirlenir. AIRB (Advanced IRB): Banka kendi PD, LGD ve EAD modellerini geliştirip uygular. AIRB daha hassas sermaye hesabına ve genellikle daha düşük sermaye yüküne olanak tanır; ancak denetim onayı ve kapsamlı veri gerektirir."
         },
         {
           "q": "LCR (Likidite Karşılama Oranı) nasıl hesaplanır ve minimum eşiği nedir?",
@@ -8422,7 +8422,7 @@ window.__C = {
             "D) Faaliyet kârı / Toplam borç ≥ %50"
           ],
           "a": 1,
-          "e": "LCR = HQLA / 30 günlük net nakit çıkışı ≥ %100. HQLA: nakit, merkez bankası rezervleri, yüksek kaliteli devlet tahvilleri. 30 günlük stres senaryosunda banka mevduat çıkışlarını ve taahhütleri karşılamalı. Basel III likidite çerçevesinin kısa vadeli ayağı."
+          "e": "LCR = HQLA / 30 günlük net nakit çıkışı ≥ %100. HQLA: nakit, merkez bankası rezervleri, yüksek kaliteli devlet tahvilleri. 30 günlük stres senaryosunda banka mevduat çıkışlarını ve taahhütleri karşılamalı. Basel (uluslararası bankacılık düzenleme çerçevesi) III likidite çerçevesinin kısa vadeli ayağı."
         },
         {
           "q": "Başvuru scorecardı ile davranışsal scorecard arasındaki fark nedir?",
@@ -8436,7 +8436,7 @@ window.__C = {
           "e": "Başvuru (application) scorecardı: Yeni kredi başvurusunda müşterinin demografik ve finansal verileri kullanılarak kabul/red kararı verilir. Davranışsal (behavioral) scorecard: mevcut müşterinin hesap aktivitesi, gecikme geçmişi, kredi kullanım oranı izlenerek limit artışı/azaltması veya erken uyarı kararı verilir."
         },
         {
-          "q": "Korelasyon faktörü (R) Basel II IRB'de ne anlama gelir?",
+          "q": "Korelasyon faktörü (R) Basel (uluslararası bankacılık düzenleme çerçevesi) II IRB'de ne anlama gelir?",
           "o": [
             "A) Portföy getiri korelasyonu",
             "B) Tek bir borçlunun temerrüdünün sistematik risk faktörüne (piyasa koşullarına) ne kadar duyarlı olduğunu gösterir — R yüksekse temerrütler bir arada gerçekleşir",
@@ -8444,7 +8444,7 @@ window.__C = {
             "D) Kur korelasyonu"
           ],
           "a": 1,
-          "e": "R korelasyon faktörü: Basel II IRB risk ağırlığı fonksiyonundaki sistematik risk duyarlılığı parametresi. R yüksek olduğunda şirket temerrüdü makroekonomik koşullara bağlı — kriz döneminde eş zamanlı temerrüt riski artar. Kurumsal kredilerde R = 0.12-0.24; konut ipoteği için R = 0.15 sabit."
+          "e": "R korelasyon faktörü: Basel (uluslararası bankacılık düzenleme çerçevesi) II IRB risk ağırlığı fonksiyonundaki sistematik risk duyarlılığı parametresi. R yüksek olduğunda şirket temerrüdü makroekonomik koşullara bağlı — kriz döneminde eş zamanlı temerrüt riski artar. Kurumsal kredilerde R = 0.12-0.24; konut ipoteği için R = 0.15 sabit."
         },
         {
           "q": "NSFR (Net İstikrarlı Fonlama Oranı) neyi ölçer?",
@@ -8455,18 +8455,18 @@ window.__C = {
             "D) Kârlılığı"
           ],
           "a": 1,
-          "e": "NSFR = Mevcut İstikrarlı Fonlama / Gereken İstikrarlı Fonlama ≥ %100. İstikrarlı fonlama: uzun vadeli mevduat, uzun vadeli borç, özsermaye. Gereken fonlama: likit olmayan varlıklar için gereken destek. Basel III'ün uzun vadeli likidite ayağı — bankaların kısa vadeli fonlamayla uzun vadeli varlık tutmasını sınırlar."
+          "e": "NSFR = Mevcut İstikrarlı Fonlama / Gereken İstikrarlı Fonlama ≥ %100. İstikrarlı fonlama: uzun vadeli mevduat, uzun vadeli borç, özsermaye. Gereken fonlama: likit olmayan varlıklar için gereken destek. Basel (uluslararası bankacılık düzenleme çerçevesi) III'ün uzun vadeli likidite ayağı — bankaların kısa vadeli fonlamayla uzun vadeli varlık tutmasını sınırlar."
         },
         {
           "q": "Operasyonel risk için 8 faaliyet kolu sınıflandırması nelerdir?",
           "o": [
             "A) Kredi, piyasa, likidite, operasyonel, kur, faiz, emtia, hisse",
             "B) Kurumsal finansman, alım-satım ve satış, perakende bankacılık, ticari bankacılık, takas ve ödemeler, acentelik hizmetleri, varlık yönetimi, perakende aracılık",
-            "C) Büyük şirketler, KOBİ, perakende, konut, ticari gayrimenkul, finans, hazine, sigorta",
+            "C) Büyük şirketler, KOBİ (küçük ve orta büyüklükteki işletmeler), perakende, konut, ticari gayrimenkul, finans, hazine, sigorta",
             "D) İnsan faktörü, sistemler, süreçler, dışsal faktörler, doğal afet, siber, hile, uyum"
           ],
           "a": 1,
-          "e": "Basel II Standart Yaklaşım 8 faaliyet kolu: 1) Kurumsal finansman (%18), 2) Alım-satım (%18), 3) Perakende bankacılık (%12), 4) Ticari bankacılık (%15), 5) Takas ve ödemeler (%18), 6) Acentelik (%15), 7) Varlık yönetimi (%12), 8) Perakende aracılık (%12). Parantezdeki değer beta faktörü."
+          "e": "Basel (uluslararası bankacılık düzenleme çerçevesi) II Standart Yaklaşım 8 faaliyet kolu: 1) Kurumsal finansman (%18), 2) Alım-satım (%18), 3) Perakende bankacılık (%12), 4) Ticari bankacılık (%15), 5) Takas ve ödemeler (%18), 6) Acentelik (%15), 7) Varlık yönetimi (%12), 8) Perakende aracılık (%12). Parantezdeki değer beta faktörü."
         },
         {
           "q": "Düzenleyici sermayenin banka içsel risk değerlendirmesiyle (ICAAP) ilişkisi nedir?",
@@ -8477,10 +8477,10 @@ window.__C = {
             "D) ICAAP denetçi tarafından hazırlanır"
           ],
           "a": 1,
-          "e": "ICAAP (Internal Capital Adequacy Assessment Process): Basel II 2. Yapısal Blok kapsamında bankalar yönetim kurulu onaylı içsel sermaye değerlendirme süreci yürütür. Kredi, piyasa, operasyonel dışındaki riskler de (faiz oranı, likidite, yoğunlaşma, itibar) dahil edilir. Denetçi SREP (Supervisory Review and Evaluation Process) ile sonuçları değerlendirir."
+          "e": "ICAAP (Internal Capital Adequacy Assessment Process): Basel (uluslararası bankacılık düzenleme çerçevesi) II 2. Yapısal Blok kapsamında bankalar yönetim kurulu onaylı içsel sermaye değerlendirme süreci yürütür. Kredi, piyasa, operasyonel dışındaki riskler de (faiz oranı, likidite, yoğunlaşma, itibar) dahil edilir. Denetçi SREP (Supervisory Review and Evaluation Process) ile sonuçları değerlendirir."
         },
         {
-          "q": "Kaldıraç oranı (leverage ratio) Basel III'te neden getirildi?",
+          "q": "Kaldıraç oranı (leverage ratio) Basel (uluslararası bankacılık düzenleme çerçevesi) III'te neden getirildi?",
           "o": [
             "A) Kârlılığı artırmak için",
             "B) Karmaşık risk ağırlıklı varlık hesabını bypass ederek tüm varlıklara karşı Tier 1 sermaye minimumunu güvence altına almak ve 2008 krizindeki aşırı kaldıraç tekrarını önlemek",
@@ -8510,7 +8510,7 @@ window.__C = {
             "D) Yalnızca garanti için uygulanır"
           ],
           "a": 1,
-          "e": "CCF (Credit Conversion Factor): taahhütler, garantiler, akreditifler gibi bilanço dışı kalemler nakit kredi eşdeğerine çevrilir. Örn. kullanılmamış revolvingkredi limitinin %75'i temerrüt anında çekileceği varsayılır → CCF = 0.75. Basel II'de bilanço dışı kalemlere farklı CCF'ler uygulanır: ticari akreditif 0.2, banka garantisi 1.0."
+          "e": "CCF (Credit Conversion Factor): taahhütler, garantiler, akreditifler gibi bilanço dışı kalemler nakit kredi eşdeğerine çevrilir. Örn. kullanılmamış revolvingkredi limitinin %75'i temerrüt anında çekileceği varsayılır → CCF = 0.75. Basel (uluslararası bankacılık düzenleme çerçevesi) II'de bilanço dışı kalemlere farklı CCF'ler uygulanır: ticari akreditif 0.2, banka garantisi 1.0."
         },
         {
           "q": "Jenerik kredi scoring modelinin avantaj ve dezavantajları nelerdir?",
@@ -8535,15 +8535,15 @@ window.__C = {
           "e": "LDA (Lineer Diskriminant Analizi): iki veya daha fazla grubu (temerrüt/non-default) ayıran lineer kombinasyon bulur. Grup içi varyansı minimize, gruplar arası varyansı maksimize eder. Altman'ın Z-skoru LDA kullanarak 5 finansal oranı birleştirir. Logit modelden farkı: çıktı doğrudan olasılık değil, bir diskriminant skoru."
         },
         {
-          "q": "Kredi portföyünün yoğunlaşma riski (concentration risk) standart Basel modelinde nasıl ele alınır?",
+          "q": "Kredi portföyünün yoğunlaşma riski (concentration risk) standart Basel (uluslararası bankacılık düzenleme çerçevesi) modelinde nasıl ele alınır?",
           "o": [
             "A) Tam olarak yakalanır",
-            "B) Basel II standart/IRB yaklaşımı tek borçlu yoğunlaşmasını yeterince yansıtmaz — granülerlik varsayımı yapılır; 2. Yapısal Blok'ta ICAAP kapsamında banka içsel olarak ölçmeli",
-            "C) Yoğunlaşma riski Basel'de kapsam dışı",
+            "B) Basel (uluslararası bankacılık düzenleme çerçevesi) II standart/IRB yaklaşımı tek borçlu yoğunlaşmasını yeterince yansıtmaz — granülerlik varsayımı yapılır; 2. Yapısal Blok'ta ICAAP kapsamında banka içsel olarak ölçmeli",
+            "C) Yoğunlaşma riski Basel (uluslararası bankacılık düzenleme çerçevesi)'de kapsam dışı",
             "D) Döngüye karşı tampon bu riski yönetir"
           ],
           "a": 1,
-          "e": "Basel II granülerlik varsayımı: portföyün çok sayıda küçük homojen krediden oluştuğunu varsayar. Tek büyük borçlu yoğunlaşması bu modelde tam olarak yakalanmaz. 2. Yapısal Blok (ICAAP): Bankalar yoğunlaşma riskini içsel modelleriyle ölçer ve gerekli ek sermayeyi hesaplar. Denetçi SREP'te bunu gözden geçirir."
+          "e": "Basel (uluslararası bankacılık düzenleme çerçevesi) II granülerlik varsayımı: portföyün çok sayıda küçük homojen krediden oluştuğunu varsayar. Tek büyük borçlu yoğunlaşması bu modelde tam olarak yakalanmaz. 2. Yapısal Blok (ICAAP): Bankalar yoğunlaşma riskini içsel modelleriyle ölçer ve gerekli ek sermayeyi hesaplar. Denetçi SREP'te bunu gözden geçirir."
         },
         {
           "q": "Temerrüt oranlarının kalibrasyon doğrulama sürecinde hangi yöntem kullanılır?",
@@ -8568,7 +8568,7 @@ window.__C = {
           "e": "Negatif izleme (CreditWatch Negative / Rating Watch Negative): Not indiriminin yakın dönemde gerçekleşebileceğini sinyal eden inceleme statüsü. Genellikle önemli olay (devralma, büyük zarar, sermaye azalması) sonrası. 90 gün içinde karara bağlanır. Piyasa bunu önceden not indiriminin %80-90 olasılığı olarak fiyatlar."
         },
         {
-          "q": "Varlık-destekli menkul kıymetlerde (ABS) 'tranche' yapısı nasıl çalışır?",
+          "q": "Varlık-destekli menkul kıymetlerde (ABS (varlığa dayalı menkul kıymet)) 'tranche' yapısı nasıl çalışır?",
           "o": [
             "A) Tüm yatırımcılar eşit risk taşır",
             "B) Senior tranche önce ödeme alır ve son zarara uğrar (düşük risk); junior/equity tranche ilk zarara uğrar (yüksek risk/getiri) — kayıp koruması kademelenir",
@@ -8576,7 +8576,7 @@ window.__C = {
             "D) Tranche sayısı yalnızca 2"
           ],
           "a": 1,
-          "e": "Tranche yapısı: havuzdaki kredi zararları aşağıdan yukarıya kademeli dağıtılır. Equity/junior: ilk % kayıpları karşılar, en yüksek getiri. Mezzanine: orta risk-getiri. Senior (AAA): son zarara uğrar, en düşük getiri. Bu yapı farklı risk iştahındaki yatırımcılara hitap eder. CDO'larda bu katmanlaşma çok karmaşık hale geldi ve 2008 krizinde şeffaflık sorununa yol açtı."
+          "e": "Tranche yapısı: havuzdaki kredi zararları aşağıdan yukarıya kademeli dağıtılır. Equity/junior: ilk % kayıpları karşılar, en yüksek getiri. Mezzanine: orta risk-getiri. Senior (AAA): son zarara uğrar, en düşük getiri. Bu yapı farklı risk iştahındaki yatırımcılara hitap eder. CDO (teminatlı borç yükümlülüğü)'larda bu katmanlaşma çok karmaşık hale geldi ve 2008 krizinde şeffaflık sorununa yol açtı."
         },
         {
           "q": "Kredi riski yönetiminde 'internal ratings-based' yaklaşımı kullanmanın bankalara avantajı nedir?",
@@ -8633,7 +8633,7 @@ window.__C = {
             "D) Her zaman %2,5 sabit"
           ],
           "a": 1,
-          "e": "Döngüye karşı tampon (CCyB): ulusal denetim otoritesi 0-%2,5 CET1 arasında belirler. Kredi büyümesinin aşırı hızlandığı dönemde (boom) arttırılır → banka daha fazla sermaye tutar. Kriz/daralma döneminde sıfıra indirilir → bankalar sermayeyi kredi vermeye kullanabilir. Makroprudential politikanın Basel III aracı."
+          "e": "Döngüye karşı tampon (CCyB): ulusal denetim otoritesi 0-%2,5 CET1 arasında belirler. Kredi büyümesinin aşırı hızlandığı dönemde (boom) arttırılır → banka daha fazla sermaye tutar. Kriz/daralma döneminde sıfıra indirilir → bankalar sermayeyi kredi vermeye kullanabilir. Makroprudential politikanın Basel (uluslararası bankacılık düzenleme çerçevesi) III aracı."
         },
         {
           "q": "Menkul kıymetleştirme (securitisation) kredi riskini nasıl dağıtır?",
@@ -8644,7 +8644,7 @@ window.__C = {
             "D) Yalnızca ipotek için kullanılır"
           ],
           "a": 1,
-          "e": "Menkul kıymetleştirme: banka kredi portföyünü bir SPV'ye (özel amaçlı araç) aktarır. SPV bu portföyü teminat göstererek ABS/MBS/CDO ihraç eder. Senior dilimi en az riskli (AAA notlu), junior en riskli. Risk yatırımcılara dağıtılır. 2008 krizinde ABD konut ipoteği menkul kıymetlerinin karmaşık dilimlenmesi ve aşırı derecelendirmesi sistemik krize katkıda bulundu."
+          "e": "Menkul kıymetleştirme: banka kredi portföyünü bir SPV'ye (özel amaçlı araç) aktarır. SPV bu portföyü teminat göstererek ABS (varlığa dayalı menkul kıymet)/MBS (ipoteğe dayalı menkul kıymet)/CDO (teminatlı borç yükümlülüğü) ihraç eder. Senior dilimi en az riskli (AAA notlu), junior en riskli. Risk yatırımcılara dağıtılır. 2008 krizinde ABD konut ipoteği menkul kıymetlerinin karmaşık dilimlenmesi ve aşırı derecelendirmesi sistemik krize katkıda bulundu."
         },
         {
           "q": "Gini katsayısı kredi modelinin performansını nasıl ölçer?",
@@ -8666,7 +8666,7 @@ window.__C = {
             "D) Yalnızca piyasa riski için"
           ],
           "a": 1,
-          "e": "Backtesting: Modelin tarihsel tahminleri gerçekleşen temerrüt/kayıplarla karşılaştırılır — model kalibrasyonu değerlendirilir. Stres testi: tarihsel kriz (2008, COVID) veya hipotetik ekstrem senaryolara göre portföy kaybı simülasyonu — dayanıklılık testi. Basel II'de RMD modelleri için backtesting zorunlu (250 iş günü); hata sayısına göre katsayı uygulanır."
+          "e": "Backtesting: Modelin tarihsel tahminleri gerçekleşen temerrüt/kayıplarla karşılaştırılır — model kalibrasyonu değerlendirilir. Stres testi: tarihsel kriz (2008, COVID) veya hipotetik ekstrem senaryolara göre portföy kaybı simülasyonu — dayanıklılık testi. Basel (uluslararası bankacılık düzenleme çerçevesi) II'de RMD modelleri için backtesting zorunlu (250 iş günü); hata sayısına göre katsayı uygulanır."
         },
         {
           "q": "Banka derecelendirmesinde 'aktif kalitesi' nasıl değerlendirilir?",
@@ -8702,7 +8702,7 @@ window.__C = {
           "e": "Rating süreci: (1) Başvuru/sözleşme. (2) Analitik ekip finansal analiz + yönetim toplantısı. (3) Taslak rapor ve tavsiye notu. (4) Derecelendirme komitesi (en az 3 üye — Tebliğ gereği); oylama ile karar. (5) İtiraz süreci (ihtiyari). (6) Not yayını ve izleme. Komite yapısı tek analistin etkisini sınırlar."
         },
         {
-          "q": "Hipotekli konut kredilerinin (residential mortgage) Basel II IRB risk ağırlığı hesabında özel durum nedir?",
+          "q": "Hipotekli konut kredilerinin (residential mortgage) Basel (uluslararası bankacılık düzenleme çerçevesi) II IRB risk ağırlığı hesabında özel durum nedir?",
           "o": [
             "A) Kurumsal kredilerle aynı",
             "B) Konut ipoteği için sabit korelasyon faktörü R=0.15 kullanılır — kurumsal kredilerin 0.12-0.24 aralığının dışında; ayrı risk ağırlığı fonksiyonu uygulanır",
@@ -8710,7 +8710,7 @@ window.__C = {
             "D) Konut kredisi IRB'de değerlendirilmez"
           ],
           "a": 1,
-          "e": "Konut ipoteği (Residential Mortgage) Basel II IRB: R = 0.15 sabit. Kurumsal kredilerde R firma büyüklüğüne göre 0.12-0.24 arasında değişir. Konut ipoteğinde temerrütlerin daha homojen davrandığı (düşük sistematik risk) varsayılır. Ayrıca LGD düzenleyici tarafından %45 olarak verilir (temel IRB'de)."
+          "e": "Konut ipoteği (Residential Mortgage) Basel (uluslararası bankacılık düzenleme çerçevesi) II IRB: R = 0.15 sabit. Kurumsal kredilerde R firma büyüklüğüne göre 0.12-0.24 arasında değişir. Konut ipoteğinde temerrütlerin daha homojen davrandığı (düşük sistematik risk) varsayılır. Ayrıca LGD düzenleyici tarafından %45 olarak verilir (temel IRB'de)."
         },
         {
           "q": "Kredi analizi bağlamında DSCR (Borç Ödeme Karşılama Oranı) nedir?",
@@ -8724,7 +8724,7 @@ window.__C = {
           "e": "DSCR = Faaliyet Nakit Akışı / (Anapara + Faiz Ödemeleri). DSCR > 1: nakit akışı borç hizmetini karşılıyor. DSCR = 1: tam kırılma noktası. DSCR < 1: nakit akışı yetersiz, ek kaynak gerekli. Bankalar covenants (sözleşme kısıtları) olarak minimum DSCR eşiği koyar — örn. DSCR < 1.1 → temerrüt olayı (event of default)."
         },
         {
-          "q": "Erken itfa riski (prepayment risk) ABS derecelendirmesinde nasıl dikkate alınır?",
+          "q": "Erken itfa riski (prepayment risk) ABS (varlığa dayalı menkul kıymet) derecelendirmesinde nasıl dikkate alınır?",
           "o": [
             "A) Dikkate alınmaz",
             "B) Varlık havuzundaki kredilerin erken itfası nakit akışı zamanlamasını değiştirir — senior tranche'ın yeniden yatırım riski ve beklenen ortalama ömrü (WAL) modele dahil edilir",
@@ -8732,7 +8732,7 @@ window.__C = {
             "D) Erken itfa riski pozitiftir"
           ],
           "a": 1,
-          "e": "Erken itfa (prepayment): borçluların krediyi vadeden önce kapatması. ABS/MBS modellemesinde PSA (Public Securities Association) prepayment modeli veya CPR (Conditional Prepayment Rate) kullanılır. Senior tranche alıcıları genellikle planlanandan erken ödeme aldıklarında yeniden yatırım riski taşır. Model, farklı CPR senaryolarında nakit akışlarını simüle eder."
+          "e": "Erken itfa (prepayment): borçluların krediyi vadeden önce kapatması. ABS (varlığa dayalı menkul kıymet)/MBS (ipoteğe dayalı menkul kıymet) modellemesinde PSA (Public Securities Association) prepayment modeli veya CPR (Conditional Prepayment Rate) kullanılır. Senior tranche alıcıları genellikle planlanandan erken ödeme aldıklarında yeniden yatırım riski taşır. Model, farklı CPR senaryolarında nakit akışlarını simüle eder."
         },
         {
           "q": "Operasyonel risk için İleri Ölçüm Yaklaşımı (AMA) hangi veri kaynaklarını birleştirir?",
@@ -8776,7 +8776,7 @@ window.__C = {
             "D) Sadece nakit sermaye"
           ],
           "a": 1,
-          "e": "Basel III sermaye katmanları: CET1 (en güçlü): adi hisse + birikmiş kârlar + diğer kapsamlı gelir kümülatif + azınlık payları (belirli koşullar). Additional Tier 1: PONV (point of non-viability) tetikleyicili, temettü/kupon ihtiyari CoCo tahvilleri. Tier 2: uzun vadeli borç, amortisman uygulanan araçlar, genel kredi zararı karşılıkları. Toplam = CET1 + AT1 + T2."
+          "e": "Basel (uluslararası bankacılık düzenleme çerçevesi) III sermaye katmanları: CET1 (en güçlü): adi hisse + birikmiş kârlar + diğer kapsamlı gelir kümülatif + azınlık payları (belirli koşullar). Additional Tier 1: PONV (point of non-viability) tetikleyicili, temettü/kupon ihtiyari CoCo tahvilleri. Tier 2: uzun vadeli borç, amortisman uygulanan araçlar, genel kredi zararı karşılıkları. Toplam = CET1 + AT1 + T2."
         },
         {
           "q": "Finansal tablo normalizasyonu kredi analistleri tarafından neden yapılır?",
@@ -8814,7 +8814,7 @@ window.__C = {
       ],
       "t4": [
         {
-          "q": "Sistemik açıdan önemli bankalar (G-SIB) için Basel III'teki ek sermaye yükümlülüğü nedir?",
+          "q": "Sistemik açıdan önemli bankalar (G-SIB) için Basel (uluslararası bankacılık düzenleme çerçevesi) III'teki ek sermaye yükümlülüğü nedir?",
           "o": [
             "A) Ek yükümlülük yoktur",
             "B) G-SIB'lere önem kategorisine göre ek %1-3.5 CET1 tamponu uygulanır — küresel finansal sisteme bağlantı, büyüklük ve ikame edilemezlik kriterlerine göre belirlenir",
@@ -8825,7 +8825,7 @@ window.__C = {
           "e": "G-SIB (Global Systemically Important Bank) tamponu: FSB tarafından belirlenen gruplamaya göre %1-3.5 CET1 ek sermaye. Değerlendirme kriterleri: büyüklük, birbiriyle bağlantılılık, küresel faaliyet, ikame edilemezlik, karmaşıklık. 2008 krizi büyük bankaların iflasının küresel bulaşma yarattığını gösterdi — 'too big to fail' sorununa cevap."
         },
         {
-          "q": "CVA (Kredi Değerleme Düzeltmesi) sermaye yükümlülüğü Basel III'te neden getirildi?",
+          "q": "CVA (Kredi Değerleme Düzeltmesi) sermaye yükümlülüğü Basel (uluslararası bankacılık düzenleme çerçevesi) III'te neden getirildi?",
           "o": [
             "A) Mevduat riski için",
             "B) 2008 krizinde OTC türev işlemlerde karşı taraf temerrüdünden kaynaklanan kayıpların %2/3'ü fiilî temerrütten değil CVA değer düşüşünden kaynaklandı — bu risk için sermaye ayrılması zorunlu kılındı",
@@ -8833,7 +8833,7 @@ window.__C = {
             "D) Operasyonel risk için"
           ],
           "a": 1,
-          "e": "CVA (Credit Valuation Adjustment): OTC türev sözleşmesinin mark-to-market değerinin karşı tarafın kredi riskine göre düzeltilmesi. Basel III'te CVA risk için ayrı sermaye yükümlülüğü getirildi çünkü 2008 krizinde toplam kayıpların büyük kısmı temerrüt değil, kredi spreadi genişlemesinden kaynaklanan CVA zararlarıydı."
+          "e": "CVA (Credit Valuation Adjustment): OTC türev sözleşmesinin mark-to-market değerinin karşı tarafın kredi riskine göre düzeltilmesi. Basel (uluslararası bankacılık düzenleme çerçevesi) III'te CVA risk için ayrı sermaye yükümlülüğü getirildi çünkü 2008 krizinde toplam kayıpların büyük kısmı temerrüt değil, kredi spreadi genişlemesinden kaynaklanan CVA zararlarıydı."
         },
         {
           "q": "Banka derecelendirmesinde 'destek faktörleri' (support factors) ne anlama gelir?",
@@ -8844,7 +8844,7 @@ window.__C = {
             "D) Yalnızca mevduat garantisi"
           ],
           "a": 1,
-          "e": "Moody's ve S&P banka metodolojisinde iki not bileşeni: (1) Bağımsız finansal güç (standalone credit profile) — CAMELS çerçevesinde iç güç. (2) Dış destek: hükümet kurtarma olasılığı (özellikle sistemik öneme sahip bankalarda) veya güçlü ana kuruluşun destek isteği ve kapasitesi. Basel III ve SIB düzenlemeleri 'implicit guarantee'yi azaltmaya çalışmaktadır."
+          "e": "Moody's ve S&P banka metodolojisinde iki not bileşeni: (1) Bağımsız finansal güç (standalone credit profile) — CAMELS çerçevesinde iç güç. (2) Dış destek: hükümet kurtarma olasılığı (özellikle sistemik öneme sahip bankalarda) veya güçlü ana kuruluşun destek isteği ve kapasitesi. Basel (uluslararası bankacılık düzenleme çerçevesi) III ve SIB düzenlemeleri 'implicit guarantee'yi azaltmaya çalışmaktadır."
         },
         {
           "q": "Population Stability Index (PSI) kredi modellerinde ne ölçer?",
@@ -8869,15 +8869,15 @@ window.__C = {
           "e": "Risk bazlı fiyatlama: Kredi faizi = Fonlama maliyeti + EL (PD×LGD×EAD) + UL sermaye maliyeti + Operasyonel maliyet + Kâr marjı. Daha yüksek PD/LGD → daha yüksek EL → daha yüksek spread. Kredi derecelendirmesi not notundan PD tahmin edilir; bu da fiyatlama modelinin girdisidir. Bankalar bu yöntemle hem risk-getiri dengesini optimize eder hem de ters seçim (adverse selection) sorununu azaltır."
         },
         {
-          "q": "KOBİ kredilerinde Basel II korelasyon faktörü kurumsal kredilerden neden farklıdır?",
+          "q": "KOBİ (küçük ve orta büyüklükteki işletmeler) kredilerinde Basel (uluslararası bankacılık düzenleme çerçevesi) II korelasyon faktörü kurumsal kredilerden neden farklıdır?",
           "o": [
             "A) Farklı değildir",
-            "B) KOBİ'lerin sistematik riske duyarlılığı daha düşüktür (daha az döngüsel) — küçük firmalarda R daha düşük, dolayısıyla risk ağırlığı da daha düşük — KOBİ kredisini teşvik eder",
-            "C) KOBİ'ler daha riskli olduğu için R daha yüksek",
+            "B) KOBİ (küçük ve orta büyüklükteki işletmeler)'lerin sistematik riske duyarlılığı daha düşüktür (daha az döngüsel) — küçük firmalarda R daha düşük, dolayısıyla risk ağırlığı da daha düşük — KOBİ (küçük ve orta büyüklükteki işletmeler) kredisini teşvik eder",
+            "C) KOBİ (küçük ve orta büyüklükteki işletmeler)'ler daha riskli olduğu için R daha yüksek",
             "D) Sadece teminat yapısı farklıdır"
           ],
           "a": 1,
-          "e": "Basel II IRB KOBİ düzeltmesi: Kurumsal kredilerde R = 0.12-0.24. KOBİ kredilerinde firmaya özgü risk daha büyük, sistematik risk daha küçük olduğundan R daha düşük belirlenir. Bu düzeltme sermaye gereksinimini azaltır ve bankaları KOBİ kredi vermeye yönlendirir — politika hedefi de içerir."
+          "e": "Basel (uluslararası bankacılık düzenleme çerçevesi) II IRB KOBİ (küçük ve orta büyüklükteki işletmeler) düzeltmesi: Kurumsal kredilerde R = 0.12-0.24. KOBİ (küçük ve orta büyüklükteki işletmeler) kredilerinde firmaya özgü risk daha büyük, sistematik risk daha küçük olduğundan R daha düşük belirlenir. Bu düzeltme sermaye gereksinimini azaltır ve bankaları KOBİ (küçük ve orta büyüklükteki işletmeler) kredi vermeye yönlendirir — politika hedefi de içerir."
         },
         {
           "q": "Stres döneminde kredi portföyünün yönetiminde hangi makroihtiyati araçlar kullanılır?",
@@ -8899,7 +8899,7 @@ window.__C = {
             "D) Otomatik not artışı"
           ],
           "a": 1,
-          "e": "Notch uplift: Moody's ve S&P metodolojisinde bağımsız kredi profili (standalone) üzerine: (1) Hükümet desteği — sistemik öneme sahip bankalar için. (2) Grup/ana kuruluş desteği — güçlü ana kuruluşun destek isteği ve kapasitesine göre. Her destek türü 1-3 notch artış sağlayabilir. Basel III G-SIB düzenlemelerinin amacı bu 'implicit guarantee'yi azaltmak."
+          "e": "Notch uplift: Moody's ve S&P metodolojisinde bağımsız kredi profili (standalone) üzerine: (1) Hükümet desteği — sistemik öneme sahip bankalar için. (2) Grup/ana kuruluş desteği — güçlü ana kuruluşun destek isteği ve kapasitesine göre. Her destek türü 1-3 notch artış sağlayabilir. Basel (uluslararası bankacılık düzenleme çerçevesi) III G-SIB düzenlemelerinin amacı bu 'implicit guarantee'yi azaltmak."
         },
         {
           "q": "Kredi risk modeli hatası (model risk) nasıl yönetilir?",
@@ -8910,7 +8910,7 @@ window.__C = {
             "D) Büyük veri seti sorunları ortadan kaldırır"
           ],
           "a": 1,
-          "e": "Model riski yönetimi: (1) Bağımsız Model Doğrulama Birimi (model geliştirenlerden ayrı). (2) Dönemsel validasyon — ayrım gücü, kalibrasyon, stabilite. (3) Out-of-time / out-of-sample test. (4) Model overlay: analist yargısıyla modelin üzerine qualitative düzeltme. (5) Çoklu model — rakip model sonuçları karşılaştırılır. Basel SR 11-7 ve EBA Yönergeleri model risk çerçevesini tanımlar."
+          "e": "Model riski yönetimi: (1) Bağımsız Model Doğrulama Birimi (model geliştirenlerden ayrı). (2) Dönemsel validasyon — ayrım gücü, kalibrasyon, stabilite. (3) Out-of-time / out-of-sample test. (4) Model overlay: analist yargısıyla modelin üzerine qualitative düzeltme. (5) Çoklu model — rakip model sonuçları karşılaştırılır. Basel (uluslararası bankacılık düzenleme çerçevesi) SR 11-7 ve EBA Yönergeleri model risk çerçevesini tanımlar."
         },
         {
           "q": "IRB yaklaşımında 'downturn LGD' kavramı neden kullanılır?",
@@ -8921,7 +8921,7 @@ window.__C = {
             "D) Düzenleyici sabit değer"
           ],
           "a": 1,
-          "e": "Downturn LGD: Basel II IRB'de LGD tahminlerinin ekonomik daralma dönemini (downturn) yansıtması zorunlu. Kriz döneminde: (1) Teminat değerleri düşer. (2) Tasfiye süreci uzar ve maliyeti artar. (3) Geri kazanım oranı düşer → LGD yükselir. Ortalama LGD kullanmak ekonomik döngünün en kötü noktasında sermayeyi hafife almak anlamına gelir."
+          "e": "Downturn LGD: Basel (uluslararası bankacılık düzenleme çerçevesi) II IRB'de LGD tahminlerinin ekonomik daralma dönemini (downturn) yansıtması zorunlu. Kriz döneminde: (1) Teminat değerleri düşer. (2) Tasfiye süreci uzar ve maliyeti artar. (3) Geri kazanım oranı düşer → LGD yükselir. Ortalama LGD kullanmak ekonomik döngünün en kötü noktasında sermayeyi hafife almak anlamına gelir."
         },
         {
           "q": "Türkiye'de SPK (sermaye piyasası kurulu) Tebliği çerçevesinde derecelendirme kuruluşlarının kamuyu aydınlatma yükümlülükleri nelerdir?",
@@ -8938,7 +8938,7 @@ window.__C = {
           "q": "Operasyonel risk için İçsel Ölçüm Yaklaşımı'nda (IMA) Monte Carlo simülasyonunun rolü nedir?",
           "o": [
             "A) Fiyatlama için",
-            "B) Sıklık ve şiddet dağılımları belirlendikten sonra Monte Carlo ile binlerce kayıp senaryosu üretilir; %99.9 güven düzeyindeki toplam kayıp (VaR) sermaye gereksinimini verir",
+            "B) Sıklık ve şiddet dağılımları belirlendikten sonra Monte Carlo ile binlerce kayıp senaryosu üretilir; %99.9 güven düzeyindeki toplam kayıp (VaR (riske maruz değer)) sermaye gereksinimini verir",
             "C) Yalnızca piyasa riski için",
             "D) Faiz oranı modellemesi için"
           ],
@@ -8968,15 +8968,15 @@ window.__C = {
           "e": "Covenant: Net borç/FAVÖK ≤ 3.5x, Faiz Karşılama ≥ 3.0x gibi finansal şartlar. İhlal → teknik temerrüt → hızlandırma hakkı. Covenant-lite: az kısıt, kredi genişleme dönemlerinde yaygın."
         },
         {
-          "q": "Basel IV'te operasyonel risk için Business Indicator nedir?",
+          "q": "Basel (uluslararası bankacılık düzenleme çerçevesi) IV'te operasyonel risk için Business Indicator nedir?",
           "o": [
             "A) Kâr göstergesi",
-            "B) Faiz, temettü, hizmet gelirleri ve finansal bileşen toplamından oluşan operasyonel risk hacim göstergesi — BIA ve SA'nın yerini alan Basel IV yaklaşımı",
+            "B) Faiz, temettü, hizmet gelirleri ve finansal bileşen toplamından oluşan operasyonel risk hacim göstergesi — BIA ve SA'nın yerini alan Basel (uluslararası bankacılık düzenleme çerçevesi) IV yaklaşımı",
             "C) Risk skoru",
             "D) Piyasa riski göstergesi"
           ],
           "a": 1,
-          "e": "Business Indicator (BI): Basel IV revize operasyonel risk için tekil hacim göstergesi. BI = faiz/kira/temettü + hizmet + finansal bileşen. Sermaye = BI × marginal katsayı (%12-18 arası dilimler). Eski AMA/SA'nın yerini alır."
+          "e": "Business Indicator (BI): Basel (uluslararası bankacılık düzenleme çerçevesi) IV revize operasyonel risk için tekil hacim göstergesi. BI = faiz/kira/temettü + hizmet + finansal bileşen. Sermaye = BI × marginal katsayı (%12-18 arası dilimler). Eski AMA/SA'nın yerini alır."
         },
         {
           "q": "IFRS 9 beklenen kayıp karşılığı (ECL) nasıl çalışır?",
@@ -8998,7 +8998,7 @@ window.__C = {
             "D) Düzenleyicinin nota müdahalesi"
           ],
           "a": 1,
-          "e": "Rating shopping: İhraççı birden fazla kuruluştan ön değerlendirme alır, en yüksek notu açıklar, düşük notları saklar. 2008 CDO derecelendirmelerinde bu yaygındı. AB ve SEC düzenlemeleri sınırlamaya çalışmaktadır."
+          "e": "Rating shopping: İhraççı birden fazla kuruluştan ön değerlendirme alır, en yüksek notu açıklar, düşük notları saklar. 2008 CDO (teminatlı borç yükümlülüğü) derecelendirmelerinde bu yaygındı. AB ve SEC düzenlemeleri sınırlamaya çalışmaktadır."
         },
         {
           "q": "Merton modelinde temerrüt mesafesi (DD) formülü nedir?",
@@ -9031,7 +9031,7 @@ window.__C = {
             "D) Gizli tutulur"
           ],
           "a": 1,
-          "e": "Pillar 3: Sermaye bileşenleri ve oranları, risk ağırlıklı varlıklar, kredi kalitesi, LGD/PD tahminleri, piyasa riski VaR, operasyonel risk, likidite açıklamaları. Şeffaflık piyasanın bankaları disipline etmesini sağlar. Basel IV ile standartlar daha da güçlendirildi."
+          "e": "Pillar 3: Sermaye bileşenleri ve oranları, risk ağırlıklı varlıklar, kredi kalitesi, LGD/PD tahminleri, piyasa riski VaR (riske maruz değer), operasyonel risk, likidite açıklamaları. Şeffaflık piyasanın bankaları disipline etmesini sağlar. Basel (uluslararası bankacılık düzenleme çerçevesi) IV ile standartlar daha da güçlendirildi."
         }
       ],
       "t5": [
@@ -9047,7 +9047,7 @@ window.__C = {
           "e": "Kredi spreadi (not ile ters ilişkili): AAA ≈ 10-30 baz puan üstü, BBB ≈ 100-200 baz puan üstü, BB ≈ 300-500 baz puan üstü. Not düşüşü (downgrade) piyasada anında spread genişlemesiyle yansır — mevcut tahvilin fiyatı düşer, yeni ihraç daha pahalı olur. 'Fallen angel' durumunda zorunlu satışlar ek spread baskısı yaratır."
         },
         {
-          "q": "Temerrüt oranlarının döngüselliği (pro-cyclicality) Basel sisteminde nasıl bir sorun yaratır?",
+          "q": "Temerrüt oranlarının döngüselliği (pro-cyclicality) Basel (uluslararası bankacılık düzenleme çerçevesi) sisteminde nasıl bir sorun yaratır?",
           "o": [
             "A) Sorun yaratmaz",
             "B) Ekonomik durgunlukta PD ve LGD artar → sermaye gerekliliği yükselir → bankalar kredi kısar → daralma derinleşir: ölümcül sarmal (procyclicality). Döngüye karşı tampon bu dinamiği dizginlemek için tasarlandı",
@@ -9055,7 +9055,7 @@ window.__C = {
             "D) Döngüsellik kredi kalitesini artırır"
           ],
           "a": 1,
-          "e": "Pro-cyclicality: Kriz döneminde hem PD hem LGD artar → EL ve UL büyür → içsel modeller yüksek sermaye gerektiriyor gösterir → bankalar kredi kısar → reel ekonomi daralması derinleşir → temerrütler artar → sarmal sürer. Basel II bu problemi büyüttü. Basel III döngüye karşı tampon + stres testi ile bunu dengelemeye çalışır."
+          "e": "Pro-cyclicality: Kriz döneminde hem PD hem LGD artar → EL ve UL büyür → içsel modeller yüksek sermaye gerektiriyor gösterir → bankalar kredi kısar → reel ekonomi daralması derinleşir → temerrütler artar → sarmal sürer. Basel (uluslararası bankacılık düzenleme çerçevesi) II bu problemi büyüttü. Basel (uluslararası bankacılık düzenleme çerçevesi) III döngüye karşı tampon + stres testi ile bunu dengelemeye çalışır."
         },
         {
           "q": "'Through-the-cycle' ve 'point-in-time' PD tahminleri arasındaki fark nedir?",
@@ -9077,7 +9077,7 @@ window.__C = {
             "D) Rating kuruluşları piyasa spreadini belirler"
           ],
           "a": 1,
-          "e": "Piyasa vs. rating zamanlaması: CDS spreadi veya tahvil spreadi genellikle not değişikliğinden önce hareket eder — piyasa daha hızlı bilgi işler. Rating kuruluşları daha uzun analiz süreci ve döngüden bağımsız (TTC) yaklaşım kullandığı için 'gecikme' suçlamasıyla karşılaşır. 2008 krizinde yapılandırılmış ürünlerin AAA notu bu tartışmayı doruk noktasına taşıdı."
+          "e": "Piyasa vs. rating zamanlaması: CDS (kredi temerrüt swap) spreadi veya tahvil spreadi genellikle not değişikliğinden önce hareket eder — piyasa daha hızlı bilgi işler. Rating kuruluşları daha uzun analiz süreci ve döngüden bağımsız (TTC) yaklaşım kullandığı için 'gecikme' suçlamasıyla karşılaşır. 2008 krizinde yapılandırılmış ürünlerin AAA notu bu tartışmayı doruk noktasına taşıdı."
         },
         {
           "q": "Kredi portföyünde yoğunlaşma riski (concentration risk) nedir ve nasıl yönetilir?",
@@ -9085,7 +9085,7 @@ window.__C = {
             "A) Portföyün çok geniş olması",
             "B) Tek bir borçluya, sektöre veya coğrafyaya aşırı bağımlılık — diversifikasyon faydası kaybolur; büyük borçlu limitleri, sektör limitleri ve tek borçlu üst sınırları yönetim araçlarıdır",
             "C) Fazla çeşitlendirme",
-            "D) Basel I'de ölçülür"
+            "D) Basel (uluslararası bankacılık düzenleme çerçevesi) I'de ölçülür"
           ],
           "a": 1,
           "e": "Yoğunlaşma riski: tek bir borçlu, sektör, coğrafya veya teminat türüne aşırı maruz kalma. Mükemmel diversifikasyon halinde münferit temerrütler birbirini dengeler (idiosyncratic risk). Yoğunlaşmada sistematik risk artar. Yönetim araçları: tek borçlu limiti (genellikle özkaynağın %10'u), sektör limiti, ülke/coğrafya limiti, teminat türü limiti, iri kredi bildirimleri."
@@ -9102,15 +9102,15 @@ window.__C = {
           "e": "Kurumsal kredi analitik entegrasyon: PD → risk bazlı fiyatlama ve EL hesabı. LGD → teminat yapısı optimizasyonu. EAD → limit belirleme. RAROC = (Gelir − EL − Operasyonel Maliyet) / UL Sermayesi → portföy kârlılık ölçümü. Modellerden elde edilen risk parametreleri analist yargısıyla birleştirilir; model single point of failure olmamalı."
         },
         {
-          "q": "Basel II/III altında temerrüt tanımı standart olarak nasıl belirlenir?",
+          "q": "Basel (uluslararası bankacılık düzenleme çerçevesi) II/III altında temerrüt tanımı standart olarak nasıl belirlenir?",
           "o": [
             "A) Her banka kendi tanımını yapar",
-            "B) CRR/Basel: 90 gün üzeri gecikme veya bankanın borçlunun borcu tam olarak geri ödeme ihtimalinin olmadığına hükmetmesi (unlikeliness to pay) — ikisinden biri gerçekleşince temerrüt sayılır",
+            "B) CRR/Basel (uluslararası bankacılık düzenleme çerçevesi): 90 gün üzeri gecikme veya bankanın borçlunun borcu tam olarak geri ödeme ihtimalinin olmadığına hükmetmesi (unlikeliness to pay) — ikisinden biri gerçekleşince temerrüt sayılır",
             "C) Yalnızca iflas kararıyla",
             "D) 30 gün gecikme yeterli"
           ],
           "a": 1,
-          "e": "Basel temerrüt tanımı: (1) Objektif kriter: 90 günden fazla gecikme (perakende ve KOBİ için bazı ülkelerde 180 gün). (2) Subjektif kriter: 'Unlikeliness to pay' — bankanın borçlunun borcu tam ödemeyeceğine hükmetmesi (teminat icra, karşılık ayırma, kredi restructuring vb.). İkisinden biri → temerrüt sayılır. Tutarlı temerrüt tanımı PD kalibrasyon doğruluğu için kritik."
+          "e": "Basel (uluslararası bankacılık düzenleme çerçevesi) temerrüt tanımı: (1) Objektif kriter: 90 günden fazla gecikme (perakende ve KOBİ (küçük ve orta büyüklükteki işletmeler) için bazı ülkelerde 180 gün). (2) Subjektif kriter: 'Unlikeliness to pay' — bankanın borçlunun borcu tam ödemeyeceğine hükmetmesi (teminat icra, karşılık ayırma, kredi restructuring vb.). İkisinden biri → temerrüt sayılır. Tutarlı temerrüt tanımı PD kalibrasyon doğruluğu için kritik."
         },
         {
           "q": "Kredi döngüsünün farklı aşamalarında kredi analistinin risk değerlendirmesi nasıl değişir?",
@@ -9129,7 +9129,7 @@ window.__C = {
             "A) Yalnızca mevcut nakit bakiyesine bakılır",
             "B) Kullanılmamış banka kredi limitleri, sermaye piyasasına erişim kapasitesi, varlık satış potansiyeli, temettü kısıtlama imkânı ve nakit akışı öngörülebilirliği birlikte değerlendirilir",
             "C) Borç/Özsermaye oranıyla",
-            "D) ROE ile ölçülür"
+            "D) ROE (özsermaye kârlılığı) ile ölçülür"
           ],
           "a": 1,
           "e": "Finansal esneklik değerlendirmesi: (1) Commit edilmemiş kredi limitleri. (2) Tahvil/hisse ihraç kapasitesi (sermaye piyasasına erişim). (3) Likit varlık satış imkânı. (4) Temettü azaltma veya durdurma esnekliği. (5) CAPEX kısıtlama imkânı. (6) Nakit akışı öngörülebilirliği (sözleşmeli gelir, düşük döngüsellik). Yüksek esneklik → stres döneminde ek borçlanmaya gerek kalmadan ayakta kalabilir."
@@ -9165,18 +9165,18 @@ window.__C = {
             "D) Hükümet ödeme yaparsa çıkar çatışması oluşur"
           ],
           "a": 1,
-          "e": "Issuer-pays modeli (ihraççı öder): Moody's, S&P ve Fitch bu modelde çalışır. Çıkar çatışması: ihraççı notundan memnun olmazsa başka kuruluşa gider ('rating shopping') → kuruluş müşteri kaybeder. 2008 CDO derecelendirmelerinde yapılandırılmış ürünlerin AAA notu ve karmaşıklığı bu yapıyı alenen sorgulatırdı. Alternatif 'investor-pays' modeli: daha bağımsız ama bilgi asimetrisi sorunu."
+          "e": "Issuer-pays modeli (ihraççı öder): Moody's, S&P ve Fitch bu modelde çalışır. Çıkar çatışması: ihraççı notundan memnun olmazsa başka kuruluşa gider ('rating shopping') → kuruluş müşteri kaybeder. 2008 CDO (teminatlı borç yükümlülüğü) derecelendirmelerinde yapılandırılmış ürünlerin AAA notu ve karmaşıklığı bu yapıyı alenen sorgulatırdı. Alternatif 'investor-pays' modeli: daha bağımsız ama bilgi asimetrisi sorunu."
         },
         {
-          "q": "'Expected Shortfall' (Beklenen Açık) VaR'a göre hangi avantajı sağlar?",
+          "q": "'Expected Shortfall' (Beklenen Açık) VaR (riske maruz değer)'a göre hangi avantajı sağlar?",
           "o": [
             "A) Hesaplaması daha kolay",
-            "B) Belirlenen eşiğin ötesindeki ortalama kaybı ölçer — VaR yalnızca eşik değerini gösterir ama dağılım kuyruğunun şeklini yansıtmaz; ES dağılımın kuyruk şiddetini yakalar",
+            "B) Belirlenen eşiğin ötesindeki ortalama kaybı ölçer — VaR (riske maruz değer) yalnızca eşik değerini gösterir ama dağılım kuyruğunun şeklini yansıtmaz; ES dağılımın kuyruk şiddetini yakalar",
             "C) Daha düşük sermaye gerektirir",
             "D) Normal dağılım varsayımı gerektirir"
           ],
           "a": 1,
-          "e": "Expected Shortfall (ES) = Conditional VaR = E[Kayıp | Kayıp > VaR]. %99 güven seviyesindeki ES: VaR'ı aşan kayıpların ortalaması. VaR sadece 'en kötü %1 senaryoların başladığı değer'i gösterir, kuyruğun kaç katı daha büyük kayıp içerdiğini göstermez. ES alt toplama özelliğine sahip koherent bir risk ölçüsü — Basel IV/FRTB piyasa riski için VaR'ın yerini aldı."
+          "e": "Expected Shortfall (ES) = Conditional VaR (riske maruz değer) = E[Kayıp | Kayıp > VaR (riske maruz değer)]. %99 güven seviyesindeki ES: VaR (riske maruz değer)'ı aşan kayıpların ortalaması. VaR (riske maruz değer) sadece 'en kötü %1 senaryoların başladığı değer'i gösterir, kuyruğun kaç katı daha büyük kayıp içerdiğini göstermez. ES alt toplama özelliğine sahip koherent bir risk ölçüsü — Basel (uluslararası bankacılık düzenleme çerçevesi) IV/FRTB piyasa riski için VaR (riske maruz değer)'ın yerini aldı."
         },
         {
           "q": "Kredi portföyünde 'granülerlik' varsayımı ne anlama gelir ve sınırlılığı nedir?",
@@ -9231,7 +9231,7 @@ window.__C = {
             "D) Düzenleyici sabit değer"
           ],
           "a": 1,
-          "e": "Downturn LGD: Kriz döneminde teminat değerleri düşer, tasfiye süreci uzar → geri kazanım azalır → LGD yükselir. Ortalama LGD kullanmak sermayeyi hafife alır. Basel II IRB zorunluluğu."
+          "e": "Downturn LGD: Kriz döneminde teminat değerleri düşer, tasfiye süreci uzar → geri kazanım azalır → LGD yükselir. Ortalama LGD kullanmak sermayeyi hafife alır. Basel (uluslararası bankacılık düzenleme çerçevesi) II IRB zorunluluğu."
         },
         {
           "q": "Kredi ihraç notu ile ihraççı notu arasındaki fark nedir?",
@@ -9245,15 +9245,15 @@ window.__C = {
           "e": "Notching: İhraç notu ihraççı notundan farklılaşabilir. Senior secured → daha yüksek not (teminat koruması). Subordinated → daha düşük not. Garantili ihraç → garantörün notuna yaklaşır."
         },
         {
-          "q": "Beklenen açık (Expected Shortfall/CVaR) VaR'dan üstün neden kabul edilir?",
+          "q": "Beklenen açık (Expected Shortfall/CVaR (riske maruz değer)) VaR (riske maruz değer)'dan üstün neden kabul edilir?",
           "o": [
             "A) Hesaplaması daha kolay",
-            "B) VaR eşiğinin ötesindeki ortalama kaybı ölçer — VaR sadece eşik değerini gösterir, ES dağılım kuyruğunun şiddetini de yakalar; Basel IV piyasa riski için VaR'ın yerini aldı",
+            "B) VaR (riske maruz değer) eşiğinin ötesindeki ortalama kaybı ölçer — VaR (riske maruz değer) sadece eşik değerini gösterir, ES dağılım kuyruğunun şiddetini de yakalar; Basel (uluslararası bankacılık düzenleme çerçevesi) IV piyasa riski için VaR (riske maruz değer)'ın yerini aldı",
             "C) Daha düşük sermaye gerektirir",
             "D) Normal dağılım varsayımı gerektirir"
           ],
           "a": 1,
-          "e": "ES = E[Kayıp | Kayıp > VaR]. %99'luk ES: VaR'ı aşan kayıpların ortalaması. Alt toplama özelliği olan koherent risk ölçüsü. Basel IV/FRTB piyasa riski için ES standardı kullanılıyor."
+          "e": "ES = E[Kayıp | Kayıp > VaR (riske maruz değer)]. %99'luk ES: VaR (riske maruz değer)'ı aşan kayıpların ortalaması. Alt toplama özelliği olan koherent risk ölçüsü. Basel (uluslararası bankacılık düzenleme çerçevesi) IV/FRTB piyasa riski için ES standardı kullanılıyor."
         }
       ]
     }
@@ -9268,22 +9268,22 @@ window.__C = {
       {
         "num": "02",
         "title": "Kurumsal Yönetim — Temel Kavramlar ve Yaklaşımlar",
-        "body": "<ul><li><strong>Kurumsal yönetim tanımı:</strong> Bir şirketin yönetildiği ve kontrol edildiği sistem. OECD tanımı: pay sahipleri, yönetim kurulu, yöneticiler ve diğer menfaat sahipleri arasındaki ilişkileri düzenleyen kurallar ve pratikler bütünü.</li><li><strong>4 temel ilke:</strong> Adillik (eşit muamele), Şeffaflık (kamuyu aydınlatma), Hesap verebilirlik (YK sorumluluğu), Sorumluluk (mevzuata uyum ve etik).</li><li><strong>Vekâlet teorisi (Agency Theory):</strong> Hissedarlar (asil) ile yöneticiler (vekil) arasındaki çıkar çatışması. Vekâlet maliyeti: izleme maliyeti + bağlanma maliyeti + artık kayıp. Kurumsal yönetim bu maliyetleri minimize eder.</li><li><strong>Paydaş teorisi:</strong> Şirket yalnızca hissedarlara değil, çalışanlara, müşterilere, tedarikçilere, topluma ve çevreye karşı sorumludur.</li><li><strong>YK'nın önemi:</strong> Stratejik yönlendirme, risk gözetimi, yönetim performansını değerlendirme ve çıkar çatışmalarını yönetme. Tek katlı (unitary) ve çift katlı (two-tier — Almanya modeli) YK yapıları.</li><li><strong>İyi kurumsal yönetimin faydaları:</strong> Sermaye maliyetini düşürür, yatırımcı güvenini artırır, şirket değerini yükseltir, kurumsal sürdürülebilirliği destekler.</li></ul>"
+        "body": "<ul><li><strong>Kurumsal yönetim tanımı:</strong> Bir şirketin yönetildiği ve kontrol edildiği sistem. OECD (ekonomik kalkınma ve işbirliği örgütü) tanımı: pay sahipleri, yönetim kurulu, yöneticiler ve diğer menfaat sahipleri arasındaki ilişkileri düzenleyen kurallar ve pratikler bütünü.</li><li><strong>4 temel ilke:</strong> Adillik (eşit muamele), Şeffaflık (kamuyu aydınlatma), Hesap verebilirlik (YK sorumluluğu), Sorumluluk (mevzuata uyum ve etik).</li><li><strong>Vekâlet teorisi (Agency Theory):</strong> Hissedarlar (asil) ile yöneticiler (vekil) arasındaki çıkar çatışması. Vekâlet maliyeti: izleme maliyeti + bağlanma maliyeti + artık kayıp. Kurumsal yönetim bu maliyetleri minimize eder.</li><li><strong>Paydaş teorisi:</strong> Şirket yalnızca hissedarlara değil, çalışanlara, müşterilere, tedarikçilere, topluma ve çevreye karşı sorumludur.</li><li><strong>YK'nın önemi:</strong> Stratejik yönlendirme, risk gözetimi, yönetim performansını değerlendirme ve çıkar çatışmalarını yönetme. Tek katlı (unitary) ve çift katlı (two-tier — Almanya modeli) YK yapıları.</li><li><strong>İyi kurumsal yönetimin faydaları:</strong> Sermaye maliyetini düşürür, yatırımcı güvenini artırır, şirket değerini yükseltir, kurumsal sürdürülebilirliği destekler.</li></ul>"
       },
       {
         "num": "03",
         "title": "Dünya'da Kurumsal Yönetim Gelişmeleri",
-        "body": "<ul><li><strong>Sarbanes-Oxley Kanunu (ABD, 2002):</strong> Enron, WorldCom skandalları sonrası çıkarıldı. Temel düzenlemeler: Kamu Gözetimi Muhasebe Kurulu (PCAOB) kuruldu, denetim komitesi bağımsızlığı zorunlu kılındı, CEO/CFO finansal tabloları imzalamalı, denetçi bağımsızlığı güçlendirildi, şirket yöneticilerinin şirketten borç alması yasaklandı.</li><li><strong>AB Kurumsal Yönetim Uygulamaları:</strong> Uyum ya da Açıkla (Comply or Explain) ilkesi. Her üye devlet kendi ulusal kurumsal yönetim kodunu oluşturur. Şeffaflık direktifi, hissedar hakları direktifi.</li><li><strong>G20/OECD Kurumsal Yönetim İlkeleri (1999, 2004, 2015 revizyonları):</strong> 6 temel alan: (1) Etkin kurumsal yönetim çerçevesi, (2) Pay sahiplerinin hakları, (3) Pay sahiplerine eşit muamele, (4) Kurumsal yatırımcıların rolü, (5) Kamuyu aydınlatma ve şeffaflık, (6) YK'nın sorumlulukları.</li><li><strong>Sürdürülebilirlik ve ESG:</strong> Çevresel (E), Sosyal (S), Yönetişim (G) faktörleri. Entegre raporlama (IIRC) — finansal ve finansal olmayan performansın birlikte raporlanması. GRI standartları, TCFD iklim açıklama çerçevesi.</li></ul>"
+        "body": "<ul><li><strong>Sarbanes-Oxley Kanunu (ABD, 2002):</strong> Enron, WorldCom skandalları sonrası çıkarıldı. Temel düzenlemeler: Kamu Gözetimi Muhasebe Kurulu (PCAOB) kuruldu, denetim komitesi bağımsızlığı zorunlu kılındı, CEO/CFO finansal tabloları imzalamalı, denetçi bağımsızlığı güçlendirildi, şirket yöneticilerinin şirketten borç alması yasaklandı.</li><li><strong>AB Kurumsal Yönetim Uygulamaları:</strong> Uyum ya da Açıkla (Comply or Explain) ilkesi. Her üye devlet kendi ulusal kurumsal yönetim kodunu oluşturur. Şeffaflık direktifi, hissedar hakları direktifi.</li><li><strong>G20/OECD (ekonomik kalkınma ve işbirliği örgütü) Kurumsal Yönetim İlkeleri (1999, 2004, 2015 revizyonları):</strong> 6 temel alan: (1) Etkin kurumsal yönetim çerçevesi, (2) Pay sahiplerinin hakları, (3) Pay sahiplerine eşit muamele, (4) Kurumsal yatırımcıların rolü, (5) Kamuyu aydınlatma ve şeffaflık, (6) YK'nın sorumlulukları.</li><li><strong>Sürdürülebilirlik ve ESG (çevresel, sosyal ve yönetişim):</strong> Çevresel (E), Sosyal (S), Yönetişim (G) faktörleri. Entegre raporlama (IIRC) — finansal ve finansal olmayan performansın birlikte raporlanması. GRI standartları, TCFD iklim açıklama çerçevesi.</li></ul>"
       },
       {
         "num": "04",
-        "title": "TTK'nın Kurumsal Yönetime İlişkin Hükümleri",
-        "body": "<ul><li><strong>Pay sahipliği hakları:</strong> Kâr payı, tasfiye payı, rüçhan hakkı, oy hakkı, bilgi alma ve inceleme hakkı, özel denetçi atanmasını isteme hakkı, genel kurula katılma ve iptal davası açma hakkı.</li><li><strong>Kamuyu aydınlatma ve şeffaflık:</strong> Finansal tablolar, faaliyet raporları ve bağımsız denetim zorunluluğu. İnternet sitesi — güncel bilgi yükümlülüğü. KAP'ta özel durum açıklamaları.</li><li><strong>Menfaat sahipleri:</strong> Çalışanlar, alacaklılar, müşteriler, tedarikçiler ve toplum. Menfaat sahiplerinin haklarının korunması TTK md. 74 vd. kapsamında.</li><li><strong>YK'nın devredilemez yetkileri (TTK md. 375):</strong> Üst düzey yönetim talimatları, muhasebe düzeni, müdür atama/görevden alma, borca batıklık bildirimi. Bu yetkiler hiçbir şekilde devredilemez.</li><li><strong>Bağımsız denetim:</strong> KGK'ya kayıtlı denetçi zorunluluğu. Dürüst resim ilkesi. Denetçi bağımsızlığı — çıkar çatışması yasakları.</li><li><strong>Oy haklarında imtiyaz ve kısıtlamalar:</strong> Nama yazılı paylarda bağlam, oy imtiyazı üst sınırı (15 kat), oy hakkından yoksunluk.</li></ul>"
+        "title": "TTK (türk ticaret kanunu)'nın Kurumsal Yönetime İlişkin Hükümleri",
+        "body": "<ul><li><strong>Pay sahipliği hakları:</strong> Kâr payı, tasfiye payı, rüçhan hakkı, oy hakkı, bilgi alma ve inceleme hakkı, özel denetçi atanmasını isteme hakkı, genel kurula katılma ve iptal davası açma hakkı.</li><li><strong>Kamuyu aydınlatma ve şeffaflık:</strong> Finansal tablolar, faaliyet raporları ve bağımsız denetim zorunluluğu. İnternet sitesi — güncel bilgi yükümlülüğü. KAP (kamuyu aydınlatma platformu)'ta özel durum açıklamaları.</li><li><strong>Menfaat sahipleri:</strong> Çalışanlar, alacaklılar, müşteriler, tedarikçiler ve toplum. Menfaat sahiplerinin haklarının korunması TTK (türk ticaret kanunu) md. 74 vd. kapsamında.</li><li><strong>YK'nın devredilemez yetkileri (TTK (türk ticaret kanunu) md. 375):</strong> Üst düzey yönetim talimatları, muhasebe düzeni, müdür atama/görevden alma, borca batıklık bildirimi. Bu yetkiler hiçbir şekilde devredilemez.</li><li><strong>Bağımsız denetim:</strong> KGK (kamu gözetimi kurumu)'ya kayıtlı denetçi zorunluluğu. Dürüst resim ilkesi. Denetçi bağımsızlığı — çıkar çatışması yasakları.</li><li><strong>Oy haklarında imtiyaz ve kısıtlamalar:</strong> Nama yazılı paylarda bağlam, oy imtiyazı üst sınırı (15 kat), oy hakkından yoksunluk.</li></ul>"
       },
       {
         "num": "05",
         "title": "Kurumsal Yönetim Tebliği II-17.1 — Dört Ana Bölüm",
-        "body": "<ul><li><strong>Tebliğin kapsamı:</strong> Ulusal Pazar, İkinci Ulusal Pazar veya Kurumsal Ürünler Pazarı'nda payları işlem gören halka açık ortaklıklar. Üç grup: 1. Grup (büyük) — en kapsamlı, 3. Grup — kısmen muaf.</li><li><strong>1. Pay Sahipleri:</strong> Yatırımcı ilişkileri bölümü zorunlu. Genel kurul 3 hafta önceden duyurulur. Gündem her teklif ayrı madde. Birikimli oy mümkün. Oy imtiyazından kaçınılır.</li><li><strong>2. Kamuyu Aydınlatma:</strong> Kurumsal internet sitesi zorunlu, 6 ayda bir ortaklık yapısı güncellenir. Finansal tablolar Türkçe + eş zamanlı İngilizce KAP'ta. Faaliyet raporunda sürdürülebilirlik açıklaması.</li><li><strong>3. Menfaat Sahipleri:</strong> Çalışanlara eşit davranım, ayrımcılık yasağı, etik kurallar ve sosyal sorumluluk politikası, müşteri/tedarikçi ilişki politikası.</li><li><strong>4. Yönetim Kurulu:</strong> En az 5 üye, çoğunluk icrada görevli olmayan. Bağımsız üye oranı ≥ 1/3. Kadın üye hedefi ≥ %25. Zorunlu komiteler: Denetimden Sorumlu, Kurumsal Yönetim, Aday Gösterme, Riskin Erken Saptanması, Ücret.</li></ul>"
+        "body": "<ul><li><strong>Tebliğin kapsamı:</strong> Ulusal Pazar, İkinci Ulusal Pazar veya Kurumsal Ürünler Pazarı'nda payları işlem gören halka açık ortaklıklar. Üç grup: 1. Grup (büyük) — en kapsamlı, 3. Grup — kısmen muaf.</li><li><strong>1. Pay Sahipleri:</strong> Yatırımcı ilişkileri bölümü zorunlu. Genel kurul 3 hafta önceden duyurulur. Gündem her teklif ayrı madde. Birikimli oy mümkün. Oy imtiyazından kaçınılır.</li><li><strong>2. Kamuyu Aydınlatma:</strong> Kurumsal internet sitesi zorunlu, 6 ayda bir ortaklık yapısı güncellenir. Finansal tablolar Türkçe + eş zamanlı İngilizce KAP (kamuyu aydınlatma platformu)'ta. Faaliyet raporunda sürdürülebilirlik açıklaması.</li><li><strong>3. Menfaat Sahipleri:</strong> Çalışanlara eşit davranım, ayrımcılık yasağı, etik kurallar ve sosyal sorumluluk politikası, müşteri/tedarikçi ilişki politikası.</li><li><strong>4. Yönetim Kurulu:</strong> En az 5 üye, çoğunluk icrada görevli olmayan. Bağımsız üye oranı ≥ 1/3. Kadın üye hedefi ≥ %25. Zorunlu komiteler: Denetimden Sorumlu, Kurumsal Yönetim, Aday Gösterme, Riskin Erken Saptanması, Ücret.</li></ul>"
       },
       {
         "num": "06",
@@ -9298,12 +9298,12 @@ window.__C = {
       {
         "num": "08",
         "title": "Kurumsal Yönetim Derecelendirmesi ve Metodoloji",
-        "body": "<ul><li><strong>Derecelendirme süreci:</strong> Talebe bağlı (isteğe bağlı) veya zorunlu. Şirket başvurusu → sözleşme → veri toplama → analiz → komite kararı → ön bildirim → itiraz → not yayını → izleme.</li><li><strong>Dört ana bölüm ve ağırlıkları:</strong> Pay Sahipleri (%25), Kamuyu Aydınlatma ve Şeffaflık (%25), Menfaat Sahipleri (%15), Yönetim Kurulu (%35). Toplam 100 puan, 10 üzerinden not.</li><li><strong>Not aralıkları:</strong> 9.00-10.00 → olağanüstü. 7.00-8.99 → iyi. 5.00-6.99 → orta. 5.00 altı → yetersiz.</li><li><strong>Metodoloji güncelleme:</strong> Kuruluşlar metodolojilerinde zorunlu bir değişiklik yapacaklarsa SPK (sermaye piyasası kurulu)'ya 30 gün önceden bildirimde bulunur. Zorunlu olmayan değişikliklerde en az 60 gün önceden kamuya duyuru yapılır.</li><li><strong>BIST Kurumsal Yönetim Endeksi:</strong> Kurumsal yönetim notu en az 7 (bazı dönemlerde 6.5) olan ve belirli kriterleri sağlayan şirketler endekse dahil edilir. Endeks hesaplamasında piyasa değeri ile dolaşımdaki pay oranı dikkate alınır.</li></ul>"
+        "body": "<ul><li><strong>Derecelendirme süreci:</strong> Talebe bağlı (isteğe bağlı) veya zorunlu. Şirket başvurusu → sözleşme → veri toplama → analiz → komite kararı → ön bildirim → itiraz → not yayını → izleme.</li><li><strong>Dört ana bölüm ve ağırlıkları:</strong> Pay Sahipleri (%25), Kamuyu Aydınlatma ve Şeffaflık (%25), Menfaat Sahipleri (%15), Yönetim Kurulu (%35). Toplam 100 puan, 10 üzerinden not.</li><li><strong>Not aralıkları:</strong> 9.00-10.00 → olağanüstü. 7.00-8.99 → iyi. 5.00-6.99 → orta. 5.00 altı → yetersiz.</li><li><strong>Metodoloji güncelleme:</strong> Kuruluşlar metodolojilerinde zorunlu bir değişiklik yapacaklarsa SPK (sermaye piyasası kurulu)'ya 30 gün önceden bildirimde bulunur. Zorunlu olmayan değişikliklerde en az 60 gün önceden kamuya duyuru yapılır.</li><li><strong>BIS (uluslararası ödemeler bankası)T (borsa istanbul) Kurumsal Yönetim Endeksi:</strong> Kurumsal yönetim notu en az 7 (bazı dönemlerde 6.5) olan ve belirli kriterleri sağlayan şirketler endekse dahil edilir. Endeks hesaplamasında piyasa değeri ile dolaşımdaki pay oranı dikkate alınır.</li></ul>"
       },
       {
         "num": "09",
-        "title": "Sürdürülebilirlik, ESG ve Entegre Raporlama",
-        "body": "<ul><li><strong>Sürdürülebilir kalkınma:</strong> Brundtland tanımı: 'Bugünün ihtiyaçlarını, gelecek nesillerin kendi ihtiyaçlarını karşılama kapasitelerinden ödün vermeden karşılamak.' Şirketlerin uzun vadeli değer yaratması için ESG entegrasyonu kritik.</li><li><strong>ESG faktörleri:</strong> Çevresel — karbon ayak izi, su kullanımı, atık yönetimi, iklim riski. Sosyal — çalışan hakları, çeşitlilik, toplum etkisi. Yönetişim — YK bağımsızlığı, rüşvet karşıtı politikalar, vergi şeffaflığı.</li><li><strong>Sürdürülebilirlik raporlaması:</strong> GRI (Global Reporting Initiative) — en yaygın standart. TCFD (Taskforce on Climate-related Financial Disclosures) — iklim riski açıklamaları. ISSB (International Sustainability Standards Board) — IFRS'e entegre küresel standart.</li><li><strong>SPK (sermaye piyasası kurulu) Sürdürülebilirlik İlkeleri Uyum Çerçevesi:</strong> II-17.1 Tebliğ değişikliğiyle eklendi (2020). Gönüllülük esaslı ancak uyum durumu faaliyet raporunda açıklanır.</li><li><strong>BIST Sürdürülebilirlik Endeksi:</strong> ESG performansı yüksek şirketleri kapsayan endeks. Uluslararası yatırımcıların ESG değerlendirmesinde referans.</li></ul>"
+        "title": "Sürdürülebilirlik, ESG (çevresel, sosyal ve yönetişim) ve Entegre Raporlama",
+        "body": "<ul><li><strong>Sürdürülebilir kalkınma:</strong> Brundtland tanımı: 'Bugünün ihtiyaçlarını, gelecek nesillerin kendi ihtiyaçlarını karşılama kapasitelerinden ödün vermeden karşılamak.' Şirketlerin uzun vadeli değer yaratması için ESG (çevresel, sosyal ve yönetişim) entegrasyonu kritik.</li><li><strong>ESG (çevresel, sosyal ve yönetişim) faktörleri:</strong> Çevresel — karbon ayak izi, su kullanımı, atık yönetimi, iklim riski. Sosyal — çalışan hakları, çeşitlilik, toplum etkisi. Yönetişim — YK bağımsızlığı, rüşvet karşıtı politikalar, vergi şeffaflığı.</li><li><strong>Sürdürülebilirlik raporlaması:</strong> GRI (Global Reporting Initiative) — en yaygın standart. TCFD (Taskforce on Climate-related Financial Disclosures) — iklim riski açıklamaları. ISSB (International Sustainability Standards Board) — IFRS'e entegre küresel standart.</li><li><strong>SPK (sermaye piyasası kurulu) Sürdürülebilirlik İlkeleri Uyum Çerçevesi:</strong> II-17.1 Tebliğ değişikliğiyle eklendi (2020). Gönüllülük esaslı ancak uyum durumu faaliyet raporunda açıklanır.</li><li><strong>BIS (uluslararası ödemeler bankası)T (borsa istanbul) Sürdürülebilirlik Endeksi:</strong> ESG (çevresel, sosyal ve yönetişim) performansı yüksek şirketleri kapsayan endeks. Uluslararası yatırımcıların ESG (çevresel, sosyal ve yönetişim) değerlendirmesinde referans.</li></ul>"
       }
     ],
     "tests": {
@@ -9353,7 +9353,7 @@ window.__C = {
           "e": "KY Tebliği 4.5.9: Denetimden Sorumlu Komite'nin tüm üyeleri bağımsız YK üyelerinden oluşmak zorundadır. Komitenin en az 2 üyesi bulunmalı, üyelerden en az biri muhasebe ve finans alanında uzmanlığa sahip olmalıdır. Komite başkanı da bağımsız üye olmalıdır."
         },
         {
-          "q": "BIST Kurumsal Yönetim Endeksi'ne dahil olmak için minimum kurumsal yönetim notu kaç olmalıdır?",
+          "q": "BIS (uluslararası ödemeler bankası)T (borsa istanbul) Kurumsal Yönetim Endeksi'ne dahil olmak için minimum kurumsal yönetim notu kaç olmalıdır?",
           "o": [
             "A) 5.0",
             "B) 6.5",
@@ -9361,7 +9361,7 @@ window.__C = {
             "D) 8.0"
           ],
           "a": 2,
-          "e": "BIST Kurumsal Yönetim Endeksi'ne dahil olabilmek için şirketin kurumsal yönetim uyum notu 10 üzerinden en az 7 olmalıdır. Endekse giriş ayrıca halka açıklık oranı ve piyasa değeri kriterlerine de bağlıdır. Endekste kalmak için notun güncellenerek belirli eşiğin üzerinde tutulması gerekir."
+          "e": "BIS (uluslararası ödemeler bankası)T (borsa istanbul) Kurumsal Yönetim Endeksi'ne dahil olabilmek için şirketin kurumsal yönetim uyum notu 10 üzerinden en az 7 olmalıdır. Endekse giriş ayrıca halka açıklık oranı ve piyasa değeri kriterlerine de bağlıdır. Endekste kalmak için notun güncellenerek belirli eşiğin üzerinde tutulması gerekir."
         },
         {
           "q": "Kurumsal yönetim derecelendirmesinde dört bölümün ağırlıkları nelerdir?",
@@ -9386,7 +9386,7 @@ window.__C = {
           "e": "Sarbanes-Oxley Kanunu (ABD, 2002), Enron (2001) ve WorldCom (2002) muhasebe skandallarının ardından çıkarılmıştır. Enron enerji şirketinin muhasebe manipülasyonu ile iflası ve WorldCom'un 11 milyar dolarlık muhasebe sahtekârlığı, ABD şirket yönetimine duyulan güveni sarsmış; kapsamlı bir düzenleyici reformu zorunlu kılmıştır."
         },
         {
-          "q": "G20/OECD Kurumsal Yönetim İlkeleri kaç temel alanı kapsamaktadır?",
+          "q": "G20/OECD (ekonomik kalkınma ve işbirliği örgütü) Kurumsal Yönetim İlkeleri kaç temel alanı kapsamaktadır?",
           "o": [
             "A) 4",
             "B) 5",
@@ -9394,7 +9394,7 @@ window.__C = {
             "D) 7"
           ],
           "a": 2,
-          "e": "G20/OECD Kurumsal Yönetim İlkeleri (2015 revizyonu) 6 temel alanı kapsar: I. Etkin kurumsal yönetim çerçevesi, II. Pay sahiplerinin hakları ve eşit muamele, III. Kurumsal yatırımcılar ve hisse senedi piyasaları, IV. Menfaat sahipleri, V. Kamuyu aydınlatma ve şeffaflık, VI. Yönetim kurulunun sorumlulukları."
+          "e": "G20/OECD (ekonomik kalkınma ve işbirliği örgütü) Kurumsal Yönetim İlkeleri (2015 revizyonu) 6 temel alanı kapsar: I. Etkin kurumsal yönetim çerçevesi, II. Pay sahiplerinin hakları ve eşit muamele, III. Kurumsal yatırımcılar ve hisse senedi piyasaları, IV. Menfaat sahipleri, V. Kamuyu aydınlatma ve şeffaflık, VI. Yönetim kurulunun sorumlulukları."
         },
         {
           "q": "Kurumsal Yönetim Tebliği'nde yönetim kurulunun minimum üye sayısı kaçtır?",
@@ -9474,7 +9474,7 @@ window.__C = {
           "e": "SPK (sermaye piyasası kurulu), 2020 yılında Kurumsal Yönetim Tebliği II-17.1'de değişiklik yaparak Sürdürülebilirlik İlkeleri Uyum Çerçevesi'ni ekledi. Sürdürülebilirlik ilkelerinin uygulanması gönüllülük esasına dayalıdır; ancak ortaklıklar yıllık faaliyet raporlarında sürdürülebilirlik ilkelerine uyup uymadıklarını, uymuyorlarsa gerekçeyi açıklamak zorundadır."
         },
         {
-          "q": "TTK md. 375'te sayılan 'devredilemez YK yetkileri' kapsamında olmayan hangisidir?",
+          "q": "TTK (türk ticaret kanunu) md. 375'te sayılan 'devredilemez YK yetkileri' kapsamında olmayan hangisidir?",
           "o": [
             "A) Üst düzey yönetim talimatları",
             "B) Borca batıklık durumunda mahkemeye bildirim",
@@ -9482,7 +9482,7 @@ window.__C = {
             "D) Muhasebe ve finans düzeninin kurulması"
           ],
           "a": 2,
-          "e": "TTK md. 375'te sayılan YK'nın devredilemez yetki ve görevleri şunlardır: Üst düzey yönetim talimatları, muhasebe/finans düzeninin kurulması, müdür atama ve görevden alma, borca batıklık durumunda mahkemeye bildirim, iç yönerge hazırlanması. GK'nın toplanma kararı ve gündem belirleme esas olarak YK'ya ait olmakla birlikte, TTK md. 375'te sayılan 'devredilemez' yetki listesinde yer almaz."
+          "e": "TTK (türk ticaret kanunu) md. 375'te sayılan YK'nın devredilemez yetki ve görevleri şunlardır: Üst düzey yönetim talimatları, muhasebe/finans düzeninin kurulması, müdür atama ve görevden alma, borca batıklık durumunda mahkemeye bildirim, iç yönerge hazırlanması. GK'nın toplanma kararı ve gündem belirleme esas olarak YK'ya ait olmakla birlikte, TTK (türk ticaret kanunu) md. 375'te sayılan 'devredilemez' yetki listesinde yer almaz."
         },
         {
           "q": "Yaygın ve süreklilik arz etmeyen ilişkili taraf işlemlerinde bağımsız üyelerin olumsuz oy kullanması durumunda ne olur?",
@@ -9499,7 +9499,7 @@ window.__C = {
           "q": "Entegre raporlama nedir ve hangi unsurları kapsar?",
           "o": [
             "A) Yalnızca finansal raporlama",
-            "B) Şirketin finansal ve finansal olmayan performansını (ESG dahil) birleştiren raporlama çerçevesi — değer yaratma sürecini bütünsel gösterir",
+            "B) Şirketin finansal ve finansal olmayan performansını (ESG (çevresel, sosyal ve yönetişim) dahil) birleştiren raporlama çerçevesi — değer yaratma sürecini bütünsel gösterir",
             "C) Yalnızca çevresel raporlama",
             "D) Vergi raporlaması"
           ],
@@ -9561,7 +9561,7 @@ window.__C = {
             "D) Yöneticilere ve çalışanlara"
           ],
           "a": 1,
-          "e": "Paydaş teorisi (Freeman, 1984): Şirketin sadece hissedarlara değil, faaliyetlerinden etkilenen veya etkileyebilecek tüm gruplara karşı sorumluluğu vardır. Birincil paydaşlar: hissedarlar, çalışanlar, müşteriler, tedarikçiler, kredi verenler. İkincil paydaşlar: toplum, medya, hükümet, çevre. Bu yaklaşım ESG ve sürdürülebilirlik anlayışının temelini oluşturur."
+          "e": "Paydaş teorisi (Freeman, 1984): Şirketin sadece hissedarlara değil, faaliyetlerinden etkilenen veya etkileyebilecek tüm gruplara karşı sorumluluğu vardır. Birincil paydaşlar: hissedarlar, çalışanlar, müşteriler, tedarikçiler, kredi verenler. İkincil paydaşlar: toplum, medya, hükümet, çevre. Bu yaklaşım ESG (çevresel, sosyal ve yönetişim) ve sürdürülebilirlik anlayışının temelini oluşturur."
         },
         {
           "q": "Türkiye'de şirket gruplandırmasında 2024 yılı itibarıyla 1. Grupta kaç ortaklık bulunmaktadır?",
@@ -9616,7 +9616,7 @@ window.__C = {
             "D) 4 hafta"
           ],
           "a": 2,
-          "e": "KY Tebliği ilkesi 1.3.1: Genel kurul toplantı ilanı, toplantı tarihinden en az 3 (üç) hafta önce yapılmalıdır. Bu süre TTK'nın 2 haftalık asgari süresinin üzerindedir. 3 haftalık süre yatırımcılara toplantıya hazırlanmak, vekâletname düzenlemek ve gündem maddelerini incelemek için yeterli zaman tanımayı amaçlar."
+          "e": "KY Tebliği ilkesi 1.3.1: Genel kurul toplantı ilanı, toplantı tarihinden en az 3 (üç) hafta önce yapılmalıdır. Bu süre TTK (türk ticaret kanunu)'nın 2 haftalık asgari süresinin üzerindedir. 3 haftalık süre yatırımcılara toplantıya hazırlanmak, vekâletname düzenlemek ve gündem maddelerini incelemek için yeterli zaman tanımayı amaçlar."
         },
         {
           "q": "'Birikimli oy' yöntemi kurumsal yönetimde ne amaçla kullanılır?",
@@ -9688,7 +9688,7 @@ window.__C = {
           "q": "Bağımsız üye boşaldığında YK nasıl hareket eder?",
           "o": [
             "A) GK'ya beklenir",
-            "B) TTK md.363 ile geçici atama; atanan kişi bağımsızlık kriterlerini taşımalı; 1. grupta SPK (sermaye piyasası kurulu) bildirimi gerekir",
+            "B) TTK (türk ticaret kanunu) md.363 ile geçici atama; atanan kişi bağımsızlık kriterlerini taşımalı; 1. grupta SPK (sermaye piyasası kurulu) bildirimi gerekir",
             "C) Başka üye bağımsız ilan edilir",
             "D) SPK (sermaye piyasası kurulu) atar"
           ],
@@ -9718,15 +9718,15 @@ window.__C = {
           "e": "Bu lisans KY derecelendirme uzmanı olarak çalışmayı ve halka açık şirketlerde yatırımcı ilişkileri bölümü yöneticisi olarak görev almayı sağlar."
         },
         {
-          "q": "TTK'da menfaat sahipleri kavramı hangi kapsamda ele alınmıştır?",
+          "q": "TTK (türk ticaret kanunu)'da menfaat sahipleri kavramı hangi kapsamda ele alınmıştır?",
           "o": [
-            "A) TTK'da yok",
-            "B) Çalışanlar, alacaklılar, tüketiciler ve toplum dahil şirketle ilgisi olan tüm kesimlerin hakları TTK md. 74 vd. çerçevesinde",
+            "A) TTK (türk ticaret kanunu)'da yok",
+            "B) Çalışanlar, alacaklılar, tüketiciler ve toplum dahil şirketle ilgisi olan tüm kesimlerin hakları TTK (türk ticaret kanunu) md. 74 vd. çerçevesinde",
             "C) Yalnızca hissedarlar",
             "D) Yalnızca çalışanlar"
           ],
           "a": 1,
-          "e": "TTK md. 74 ve YK özen borcu kapsamında menfaat sahiplerinin hakları korunur. KY Tebliği'nde menfaat sahipleri ayrı bölüm olarak düzenlenmiştir."
+          "e": "TTK (türk ticaret kanunu) md. 74 ve YK özen borcu kapsamında menfaat sahiplerinin hakları korunur. KY Tebliği'nde menfaat sahipleri ayrı bölüm olarak düzenlenmiştir."
         },
         {
           "q": "KY Tebliği'ne aykırılık halinde SPK (sermaye piyasası kurulu) hangi yaptırımları uygulayabilir?",
@@ -9800,7 +9800,7 @@ window.__C = {
           "q": "Kurumsal Yönetim Tebliği'ne göre 'şirketin kendi paylarını geri satın alması' ile ilgili pay sahipliği ilkeleri neler öngörür?",
           "o": [
             "A) Her zaman serbesttir",
-            "B) Pay sahiplerine eşit muamele ilkesi gereği geri alım TTK ve sermaye piyasası mevzuatına uygun yapılmalı; manipülasyon amaçlı kullanılamaz",
+            "B) Pay sahiplerine eşit muamele ilkesi gereği geri alım TTK (türk ticaret kanunu) ve sermaye piyasası mevzuatına uygun yapılmalı; manipülasyon amaçlı kullanılamaz",
             "C) Tamamen yasaktır",
             "D) Yalnızca bağımsız üye kararıyla mümkün"
           ],
@@ -9910,12 +9910,12 @@ window.__C = {
           "q": "Şeffaflık ilkesinin pratik uygulamaları nelerdir?",
           "o": [
             "A) Yalnızca yıllık rapor",
-            "B) KAP bildirimleri, kurumsal internet sitesi, faaliyet raporu, finansal tablolar ve İngilizce açıklamalar",
+            "B) KAP (kamuyu aydınlatma platformu) bildirimleri, kurumsal internet sitesi, faaliyet raporu, finansal tablolar ve İngilizce açıklamalar",
             "C) Yalnızca hissedarlara bilgi",
             "D) Gizlilik esastır"
           ],
           "a": 1,
-          "e": "KY şeffaflık uygulamaları: KAP'ta özel durum bildirimleri, kurumsal internet sitesi, yıllık faaliyet raporu, denetlenmiş finansal tablolar, İngilizce açıklamalar."
+          "e": "KY şeffaflık uygulamaları: KAP (kamuyu aydınlatma platformu)'ta özel durum bildirimleri, kurumsal internet sitesi, yıllık faaliyet raporu, denetlenmiş finansal tablolar, İngilizce açıklamalar."
         },
         {
           "q": "KY metodolojisinde menfaat sahipleri bölümü hangi kriterleri kapsar?",
@@ -9937,10 +9937,10 @@ window.__C = {
             "D) Başka kuruluş devralır"
           ],
           "a": 1,
-          "e": "Derecelendirme kuruluşu SPK (sermaye piyasası kurulu) yetkilendirmesini kaybederse notları geçersiz hale gelir; BIST KY Endeksi'ndeki şirketlerin yeni yetkili kuruluşla anlaşması gerekir."
+          "e": "Derecelendirme kuruluşu SPK (sermaye piyasası kurulu) yetkilendirmesini kaybederse notları geçersiz hale gelir; BIS (uluslararası ödemeler bankası)T (borsa istanbul) KY Endeksi'ndeki şirketlerin yeni yetkili kuruluşla anlaşması gerekir."
         },
         {
-          "q": "TTK'da özel denetçi atanması hakkı ne zaman kullanılabilir?",
+          "q": "TTK (türk ticaret kanunu)'da özel denetçi atanması hakkı ne zaman kullanılabilir?",
           "o": [
             "A) Her zaman serbestçe",
             "B) GK'da bilgi alma yetersiz kaldıysa ve/veya GK özel denetim talebini reddettiyse mahkemeden talep edilebilir",
@@ -9948,7 +9948,7 @@ window.__C = {
             "D) Yalnızca YK üyeleri"
           ],
           "a": 1,
-          "e": "TTK md. 438: Her pay sahibi, GK'nın talebi reddetmesi veya tatmin edici yanıt alınamaması durumunda mahkemeden özel denetçi isteyebilir. Bu hak devredilemez."
+          "e": "TTK (türk ticaret kanunu) md. 438: Her pay sahibi, GK'nın talebi reddetmesi veya tatmin edici yanıt alınamaması durumunda mahkemeden özel denetçi isteyebilir. Bu hak devredilemez."
         },
         {
           "q": "AB Hissedar Hakları Direktifi II neler öngörür?",
@@ -9970,12 +9970,12 @@ window.__C = {
             "D) Yalnızca denetçilere"
           ],
           "a": 1,
-          "e": "Hesap verebilirlik: YK ibra oylaması, bağımsız denetim, denetimden sorumlu komite, öz değerlendirme, SPK (sermaye piyasası kurulu)/BIST denetimi, yönetici ücretlerinin GK onayı."
+          "e": "Hesap verebilirlik: YK ibra oylaması, bağımsız denetim, denetimden sorumlu komite, öz değerlendirme, SPK (sermaye piyasası kurulu)/BIS (uluslararası ödemeler bankası)T (borsa istanbul) denetimi, yönetici ücretlerinin GK onayı."
         }
       ],
       "t4": [
         {
-          "q": "OECD Kurumsal Yönetim İlkeleri'nin tarihsel gelişimini açıklayınız.",
+          "q": "OECD (ekonomik kalkınma ve işbirliği örgütü) Kurumsal Yönetim İlkeleri'nin tarihsel gelişimini açıklayınız.",
           "o": [
             "A) Yalnızca 1999'da yayımlandı",
             "B) 1999'da onaylandı; 2004'te revize edildi; 2015'te G20 desteğiyle kapsamlı güncelleme yapıldı (6 bölüm, kurumsal yatırımcı rolleri eklendi)",
@@ -9983,7 +9983,7 @@ window.__C = {
             "D) 1980'de yayımlandı"
           ],
           "a": 1,
-          "e": "OECD Kurumsal Yönetim İlkeleri gelişimi: 1998 — OECD üye ülkelerin çalışmaları. 1999 — OECD Bakanlar Kurulu onayı, 5 ana bölüm. 2002 — Enron/WorldCom sonrası gözden geçirme. 2004 — Kapsamlı revizyon, Dünya Bankası ve G20 desteği. 2015 — G20/OECD ortak çerçeve, kurumsal yatırımcılar ve hisse senedi piyasası bölümü eklendi, 6 bölüme çıkarıldı."
+          "e": "OECD (ekonomik kalkınma ve işbirliği örgütü) Kurumsal Yönetim İlkeleri gelişimi: 1998 — OECD (ekonomik kalkınma ve işbirliği örgütü) üye ülkelerin çalışmaları. 1999 — OECD (ekonomik kalkınma ve işbirliği örgütü) Bakanlar Kurulu onayı, 5 ana bölüm. 2002 — Enron/WorldCom sonrası gözden geçirme. 2004 — Kapsamlı revizyon, Dünya Bankası ve G20 desteği. 2015 — G20/OECD (ekonomik kalkınma ve işbirliği örgütü) ortak çerçeve, kurumsal yatırımcılar ve hisse senedi piyasası bölümü eklendi, 6 bölüme çıkarıldı."
         },
         {
           "q": "Bağımsız yönetim kurulu üyesinin hangi durumda bağımsızlığının ortadan kalktığı kabul edilir?",
@@ -10016,7 +10016,7 @@ window.__C = {
             "D) SPK (sermaye piyasası kurulu) emriyle iptal"
           ],
           "a": 1,
-          "e": "Derecelendirme notu: Şirketin sözleşmeyi feshetmesi veya gerekli bilgiyi sunmaması. Şirkette ciddi bir gelişme (büyük hukuki sorun, iflas başvurusu, dolandırıcılık tespiti). Derecelendirme kuruluşunun metodoloji değişikliği veya yetkilendirme kaybı. Bu durumda not izlemeye (watchlist) alınabilir veya kamuya açıklama yapılarak not çekilebilir. KAP'ta açıklama zorunludur."
+          "e": "Derecelendirme notu: Şirketin sözleşmeyi feshetmesi veya gerekli bilgiyi sunmaması. Şirkette ciddi bir gelişme (büyük hukuki sorun, iflas başvurusu, dolandırıcılık tespiti). Derecelendirme kuruluşunun metodoloji değişikliği veya yetkilendirme kaybı. Bu durumda not izlemeye (watchlist) alınabilir veya kamuya açıklama yapılarak not çekilebilir. KAP (kamuyu aydınlatma platformu)'ta açıklama zorunludur."
         },
         {
           "q": "Kurumsal yönetim açısından 'yönetim kurulu öz değerlendirmesi' nedir?",
@@ -10044,12 +10044,12 @@ window.__C = {
           "q": "KY derecelendirmesi neden zorunlu tutulabilir?",
           "o": [
             "A) SPK (sermaye piyasası kurulu) tüm şirketlere zorunlu kılar",
-            "B) BIST KY Endeksi'ne girmek için zorunlu; gönüllü başvuru da mümkün",
+            "B) BIS (uluslararası ödemeler bankası)T (borsa istanbul) KY Endeksi'ne girmek için zorunlu; gönüllü başvuru da mümkün",
             "C) Zorunlu tutulamaz",
             "D) Yalnızca yabancı şirketler"
           ],
           "a": 1,
-          "e": "BIST KY Endeksi üyeliği için not ≥7 şartı var; bu nedenle endekse girmek isteyen şirketler derecelendirme yaptırmak zorunda."
+          "e": "BIS (uluslararası ödemeler bankası)T (borsa istanbul) KY Endeksi üyeliği için not ≥7 şartı var; bu nedenle endekse girmek isteyen şirketler derecelendirme yaptırmak zorunda."
         },
         {
           "q": "KY Tebliği'ne göre TRİK bilgilendirmesi GK'da nasıl yapılır?",
@@ -10093,7 +10093,7 @@ window.__C = {
             "D) Yalnızca kurumsal yatırımcılar"
           ],
           "a": 1,
-          "e": "Birlikte hareket edenler: pay oranları birleştirilerek bildirim eşikleri tetiklenebilir. OECD engagement'ı destekler."
+          "e": "Birlikte hareket edenler: pay oranları birleştirilerek bildirim eşikleri tetiklenebilir. OECD (ekonomik kalkınma ve işbirliği örgütü) engagement'ı destekler."
         },
         {
           "q": "Üst gruptan alt gruba düşen şirketin yükümlülükleri nasıl değişir?",
@@ -10110,12 +10110,12 @@ window.__C = {
           "q": "KY derecelendirme sonuçları hangi kanallarla kamuya açıklanır?",
           "o": [
             "A) Yalnızca şirket sitesinde",
-            "B) KAP özel durum bildirimi ve derecelendirme kuruluşunun sitesinde; BIST endeks değişikliklerini duyurur",
+            "B) KAP (kamuyu aydınlatma platformu) özel durum bildirimi ve derecelendirme kuruluşunun sitesinde; BIS (uluslararası ödemeler bankası)T (borsa istanbul) endeks değişikliklerini duyurur",
             "C) Yalnızca SPK (sermaye piyasası kurulu) yayımlar",
             "D) Medyaya serbesttir"
           ],
           "a": 1,
-          "e": "KAP özel durum bildirimi + derecelendirme kuruluşunun sitesi + BIST endeks duyurusu. Çok kanallı eş zamanlı bilgi."
+          "e": "KAP (kamuyu aydınlatma platformu) özel durum bildirimi + derecelendirme kuruluşunun sitesi + BIS (uluslararası ödemeler bankası)T (borsa istanbul) endeks duyurusu. Çok kanallı eş zamanlı bilgi."
         },
         {
           "q": "Sürdürülebilir borçlanma aracı KY Tebliği'nde nasıl ele alınır?",
@@ -10143,12 +10143,12 @@ window.__C = {
           "q": "Kurumsal yönetim açısından 'vekil oylama' (proxy voting) kurumsal yatırımcılar için neden önemlidir?",
           "o": [
             "A) Önemli değil",
-            "B) Kurumsal yatırımcılar müşteri adına oy kullanır; OECD ilkeleri sorumlu yatırımcılığın parçası olarak etkin vekil oylama politikası geliştirilmesini teşvik eder",
+            "B) Kurumsal yatırımcılar müşteri adına oy kullanır; OECD (ekonomik kalkınma ve işbirliği örgütü) ilkeleri sorumlu yatırımcılığın parçası olarak etkin vekil oylama politikası geliştirilmesini teşvik eder",
             "C) Yalnızca büyük fonlar için",
             "D) Yasadışı"
           ],
           "a": 1,
-          "e": "OECD KY İlkeleri Bölüm III: Kurumsal yatırımcılar (emeklilik fonları, yatırım fonları) vekil oy politikasını kamuya açıklamalı ve yönetimle etkin diyalog kurmalıdır. Bu 'stewardship' (hissedar emanetçiliği) anlayışının temel unsurudur."
+          "e": "OECD (ekonomik kalkınma ve işbirliği örgütü) KY İlkeleri Bölüm III: Kurumsal yatırımcılar (emeklilik fonları, yatırım fonları) vekil oy politikasını kamuya açıklamalı ve yönetimle etkin diyalog kurmalıdır. Bu 'stewardship' (hissedar emanetçiliği) anlayışının temel unsurudur."
         },
         {
           "q": "Türkiye'de kurumsal yönetim derecelendirmesini denetleyen kuruluş hangisidir?",
@@ -10208,15 +10208,15 @@ window.__C = {
           "e": "Çıkar çatışması: Yönetici/YK üyesinin kişisel mali çıkarlarının şirket çıkarlarıyla rekabet ettiği durum. Örnekler: YK üyesinin kendi şirketine iş vermesi, içeriden bilgiyle işlem yapması, rakip şirkette görev alması. Yönetim: Açıklama yükümlülüğü, ilgili gündemden çekilme, ilişkili taraf işlem prosedürleri, etik kod, whistleblowing mekanizması."
         },
         {
-          "q": "ESG yatırımında 'negatif eleme' (negative screening) ve 'pozitif eleme' (positive screening) arasındaki fark nedir?",
+          "q": "ESG (çevresel, sosyal ve yönetişim) yatırımında 'negatif eleme' (negative screening) ve 'pozitif eleme' (positive screening) arasındaki fark nedir?",
           "o": [
             "A) İkisi aynı anlama gelir",
-            "B) Negatif: silah, tütün, kumar gibi sektörleri portföyden çıkarma. Pozitif: en iyi ESG performansına sahip şirketleri seçme (best-in-class)",
+            "B) Negatif: silah, tütün, kumar gibi sektörleri portföyden çıkarma. Pozitif: en iyi ESG (çevresel, sosyal ve yönetişim) performansına sahip şirketleri seçme (best-in-class)",
             "C) Negatif: düşük getirili varlıkları çıkarma. Pozitif: yüksek getirilileri seçme",
             "D) Negatif: kısa pozisyon alma. Pozitif: uzun pozisyon alma"
           ],
           "a": 1,
-          "e": "Sorumlu yatırım stratejileri: Negatif eleme — etik veya değerlere aykırı bulunan sektör/şirketleri portföyden dışlama (silah, tütün, alkol, kumar, fosil yakıt). Pozitif eleme (best-in-class) — her sektörde ESG performansı en yüksek şirketleri seçme. Normatif eleme — uluslararası normlara (OECD, BM) uymayan şirketleri dışlama. ESG entegrasyonu — ESG faktörlerini finansal analize dahil etme."
+          "e": "Sorumlu yatırım stratejileri: Negatif eleme — etik veya değerlere aykırı bulunan sektör/şirketleri portföyden dışlama (silah, tütün, alkol, kumar, fosil yakıt). Pozitif eleme (best-in-class) — her sektörde ESG (çevresel, sosyal ve yönetişim) performansı en yüksek şirketleri seçme. Normatif eleme — uluslararası normlara (OECD (ekonomik kalkınma ve işbirliği örgütü), BM) uymayan şirketleri dışlama. ESG (çevresel, sosyal ve yönetişim) entegrasyonu — ESG (çevresel, sosyal ve yönetişim) faktörlerini finansal analize dahil etme."
         },
         {
           "q": "Türkiye'de kurumsal yönetim derecelendirmesi yapan kuruluşların denetimi kimin tarafından yapılır?",
@@ -10238,7 +10238,7 @@ window.__C = {
             "D) Yalnızca kısa vadeli spekülatif amaçlara hizmet eder"
           ],
           "a": 1,
-          "e": "Hissedar aktivizmi: kurumsal değişim, değer yaratma veya ESG hedefleri için hissedarların YK veya yönetime baskı uygulaması. Araçlar: GK önerileri, vekâlet savaşı, kamuoyu baskısı, medya kampanyası, engagament toplantıları. Etkili aktivizm şirketlerde YK değişikliği, strateji revizyonu ve kâr payı artışını tetikleyebilir. OECD ilkeleri kurumsal yatırımcıların etkin hissedar olmalarını teşvik eder."
+          "e": "Hissedar aktivizmi: kurumsal değişim, değer yaratma veya ESG (çevresel, sosyal ve yönetişim) hedefleri için hissedarların YK veya yönetime baskı uygulaması. Araçlar: GK önerileri, vekâlet savaşı, kamuoyu baskısı, medya kampanyası, engagament toplantıları. Etkili aktivizm şirketlerde YK değişikliği, strateji revizyonu ve kâr payı artışını tetikleyebilir. OECD (ekonomik kalkınma ve işbirliği örgütü) ilkeleri kurumsal yatırımcıların etkin hissedar olmalarını teşvik eder."
         },
         {
           "q": "'Kurumsal yönetim izleme raporu' SPK (sermaye piyasası kurulu) tarafından ne amaçla yayımlanmaktadır?",
@@ -10252,15 +10252,15 @@ window.__C = {
           "e": "SPK (sermaye piyasası kurulu) Kurumsal Yönetim İzleme Raporu: Halka açık şirketlerin KY ilkelerine ne ölçüde uyduğunu analiz eden yıllık rapor. Bağımsız üye uyumu, komite yapıları, kamuyu aydınlatma kalitesi gibi alanlardaki genel eğilimleri gösterir. Sektörel karşılaştırma yapılır. Piyasada şeffaflığı artırmayı ve şirketleri iyileştirmeye teşvik etmeyi amaçlar."
         },
         {
-          "q": "BIST Sürdürülebilirlik Endeksi ve BIST Kurumsal Yönetim Endeksi arasındaki fark nedir?",
+          "q": "BIS (uluslararası ödemeler bankası)T (borsa istanbul) Sürdürülebilirlik Endeksi ve BIS (uluslararası ödemeler bankası)T (borsa istanbul) Kurumsal Yönetim Endeksi arasındaki fark nedir?",
           "o": [
             "A) Aynıdır",
-            "B) KY Endeksi: kurumsal yönetim notu ≥7 şirketleri kapsar. Sürdürülebilirlik Endeksi: ESG performansı değerlendirilen şirketleri kapsar — iklim, sosyal, yönetişim",
+            "B) KY Endeksi: kurumsal yönetim notu ≥7 şirketleri kapsar. Sürdürülebilirlik Endeksi: ESG (çevresel, sosyal ve yönetişim) performansı değerlendirilen şirketleri kapsar — iklim, sosyal, yönetişim",
             "C) Sürdürülebilirlik Endeksi daha eski",
             "D) KY Endeksi sadece büyük şirketler için"
           ],
           "a": 1,
-          "e": "BIST Kurumsal Yönetim Endeksi (BIST KY Endeksi): KY notu ≥7, halka açıklık ve piyasa değeri kriterleri sağlayan şirketler. Yönetişim kalitesine odaklı. BIST Sürdürülebilirlik Endeksi: Sürdürülebilirlik performansı değerlendirilen şirketler — çevre, sosyal sorumluluk ve yönetişim boyutları. Robeco SAM gibi uluslararası kuruluşlar değerlendirme yapar. Her iki endeks de yatırımcıların ESG ve KY odaklı hisselere yönelmesine yardımcı olur."
+          "e": "BIS (uluslararası ödemeler bankası)T (borsa istanbul) Kurumsal Yönetim Endeksi (BIS (uluslararası ödemeler bankası)T (borsa istanbul) KY Endeksi): KY notu ≥7, halka açıklık ve piyasa değeri kriterleri sağlayan şirketler. Yönetişim kalitesine odaklı. BIS (uluslararası ödemeler bankası)T (borsa istanbul) Sürdürülebilirlik Endeksi: Sürdürülebilirlik performansı değerlendirilen şirketler — çevre, sosyal sorumluluk ve yönetişim boyutları. Robeco SAM gibi uluslararası kuruluşlar değerlendirme yapar. Her iki endeks de yatırımcıların ESG (çevresel, sosyal ve yönetişim) ve KY odaklı hisselere yönelmesine yardımcı olur."
         },
         {
           "q": "'Vekâlet sorunu' (agency problem) nasıl çözülebilir?",
@@ -10304,7 +10304,7 @@ window.__C = {
             "D) Yalnızca 1. grupta"
           ],
           "a": 1,
-          "e": "Rüçhan hakkının iptali: TTK'da haklı sebep ve GK nitelikli çoğunluk kararı şart. KY eşit muamele ilkesinin somut uygulaması."
+          "e": "Rüçhan hakkının iptali: TTK (türk ticaret kanunu)'da haklı sebep ve GK nitelikli çoğunluk kararı şart. KY eşit muamele ilkesinin somut uygulaması."
         },
         {
           "q": "KY çerçevesi ile KY kodu arasındaki fark nedir?",
@@ -10326,7 +10326,7 @@ window.__C = {
             "D) Yalnızca spekülatif amaç"
           ],
           "a": 1,
-          "e": "Hissedar aktivizmi: GK önerileri, vekâlet savaşı, medya baskısı araçlarıyla kurumsal değişim tetiklenebilir. OECD ilkeleri etkin hissedar olunmasını teşvik eder."
+          "e": "Hissedar aktivizmi: GK önerileri, vekâlet savaşı, medya baskısı araçlarıyla kurumsal değişim tetiklenebilir. OECD (ekonomik kalkınma ve işbirliği örgütü) ilkeleri etkin hissedar olunmasını teşvik eder."
         },
         {
           "q": "'Stewardship' (hissedar emanetçiliği) kodu nedir?",
@@ -10337,7 +10337,7 @@ window.__C = {
             "D) Muhasebe standardı"
           ],
           "a": 1,
-          "e": "Stewardship kodu: Emeklilik fonları, yatırım fonları gibi kurumsal yatırımcıların yatırım yaptıkları şirketlerde etkin hissedar olmalarını, şeffaf oy politikası yürütmelerini ve yönetimle diyalog kurmalarını teşvik eden çerçeve. OECD, AB ve birçok ülke bu kodları benimsemiştir. Türkiye'de henüz resmi stewardship kodu bulunmamaktadır."
+          "e": "Stewardship kodu: Emeklilik fonları, yatırım fonları gibi kurumsal yatırımcıların yatırım yaptıkları şirketlerde etkin hissedar olmalarını, şeffaf oy politikası yürütmelerini ve yönetimle diyalog kurmalarını teşvik eden çerçeve. OECD (ekonomik kalkınma ve işbirliği örgütü), AB ve birçok ülke bu kodları benimsemiştir. Türkiye'de henüz resmi stewardship kodu bulunmamaktadır."
         },
         {
           "q": "SPK (sermaye piyasası kurulu) Kurumsal Yönetim İzleme Raporu ne amaçla yayımlanır?",
@@ -10351,15 +10351,15 @@ window.__C = {
           "e": "SPK (sermaye piyasası kurulu) KY İzleme Raporu: Şirketlerin KY ilkelerine uyum düzeyini analiz eder, genel eğilimleri gösterir, sektörel karşılaştırma yapar. Piyasa şeffaflığını artırır ve iyileştirmeyi teşvik eder."
         },
         {
-          "q": "BIST KY Endeksi ile BIST Sürdürülebilirlik Endeksi arasındaki fark nedir?",
+          "q": "BIS (uluslararası ödemeler bankası)T (borsa istanbul) KY Endeksi ile BIS (uluslararası ödemeler bankası)T (borsa istanbul) Sürdürülebilirlik Endeksi arasındaki fark nedir?",
           "o": [
             "A) Aynıdır",
-            "B) KY Endeksi: not ≥7 şirketi kapsar. Sürdürülebilirlik Endeksi: ESG performansı değerlendirilen şirketleri kapsar",
+            "B) KY Endeksi: not ≥7 şirketi kapsar. Sürdürülebilirlik Endeksi: ESG (çevresel, sosyal ve yönetişim) performansı değerlendirilen şirketleri kapsar",
             "C) Sürdürülebilirlik daha eski",
             "D) KY Endeksi yalnızca büyük şirketler"
           ],
           "a": 1,
-          "e": "BIST KY Endeksi: kurumsal yönetim notu ≥7, belirli piyasa ve likidite kriterleri. BIST Sürdürülebilirlik Endeksi: çevre, sosyal ve yönetişim performansı değerlendirilen şirketler. İki endeks birbirini tamamlar."
+          "e": "BIS (uluslararası ödemeler bankası)T (borsa istanbul) KY Endeksi: kurumsal yönetim notu ≥7, belirli piyasa ve likidite kriterleri. BIS (uluslararası ödemeler bankası)T (borsa istanbul) Sürdürülebilirlik Endeksi: çevre, sosyal ve yönetişim performansı değerlendirilen şirketler. İki endeks birbirini tamamlar."
         },
         {
           "q": "Vekâlet sorunu hangi mekanizmalar kombinasyonuyla yönetilir?",
@@ -10387,12 +10387,12 @@ window.__C = {
           "q": "Vekil oylama kurumsal yatırımcılar için neden önemlidir?",
           "o": [
             "A) Önemli değil",
-            "B) Kurumsal yatırımcılar müşteri adına oy kullanır; OECD ilkeleri etkin vekil oylama politikası geliştirilmesini teşvik eder",
+            "B) Kurumsal yatırımcılar müşteri adına oy kullanır; OECD (ekonomik kalkınma ve işbirliği örgütü) ilkeleri etkin vekil oylama politikası geliştirilmesini teşvik eder",
             "C) Yalnızca büyük fonlar",
             "D) Yasadışı"
           ],
           "a": 1,
-          "e": "OECD KY İlkeleri Bölüm III: Kurumsal yatırımcılar vekil oy politikasını kamuya açıklamalı ve yönetimle etkin diyalog kurmalıdır."
+          "e": "OECD (ekonomik kalkınma ve işbirliği örgütü) KY İlkeleri Bölüm III: Kurumsal yatırımcılar vekil oy politikasını kamuya açıklamalı ve yönetimle etkin diyalog kurmalıdır."
         },
         {
           "q": "YK toplantılarında her üye kaç oy hakkına sahiptir?",
@@ -10947,7 +10947,7 @@ window.__C = {
           "o": [
             "A) Hükümet masraflarını gizlemek için",
             "B) Muhasebe kimliği gereği her işlemin karşı kalemi olmasına rağmen veri toplama hataları ve zamanlama farklılıkları dengeyi bozmaktadır; bu kalem farkı sıfırlamak için kullanılır",
-            "C) IMF'nin zorunlu kıldığı bir kalemdir",
+            "C) IMF (uluslararası para fonu)'nin zorunlu kıldığı bir kalemdir",
             "D) Resmi rezervlerin gizlenmesi için"
           ],
           "a": 1,
@@ -11217,7 +11217,7 @@ window.__C = {
             "D) Rezerv düşüşü tek göstergedir"
           ],
           "a": 1,
-          "e": "Dış borç krizi: (1) Cari ve bütçe açıklarının büyümesi. (2) Dış borçlanma artışı, faiz ödemeleri büyür. (3) Borç/GSYH kritik eşiği aşar. (4) Yatırımcı güveni sarsılır, risk primi yükselir. (5) Sermaye çıkışı, kur değer kaybeder, dövizli borçların yükü ağırlaşır. (6) IMF programı veya yapısal reformlar gerekir."
+          "e": "Dış borç krizi: (1) Cari ve bütçe açıklarının büyümesi. (2) Dış borçlanma artışı, faiz ödemeleri büyür. (3) Borç/GSYH kritik eşiği aşar. (4) Yatırımcı güveni sarsılır, risk primi yükselir. (5) Sermaye çıkışı, kur değer kaybeder, dövizli borçların yükü ağırlaşır. (6) IMF (uluslararası para fonu) programı veya yapısal reformlar gerekir."
         },
         {
           "q": "Yapısal uyum programlarının kısa ve uzun dönem etkileri nasıl değerlendirilir?",
@@ -11570,12 +11570,12 @@ window.__C = {
       {
         "num": "01",
         "title": "Bilgi Güvenliği Yönetimi",
-        "body": "<ul><li><strong>CIA üçgeni:</strong> Gizlilik (Confidentiality), Bütünlük (Integrity), Erişilebilirlik (Availability). Bilgi güvenliğinin temel üç hedefi. Ayrıca İnkar Edilemezlik (Non-repudiation) ve Özgünlük (Authenticity) ek hedefler.</li><li><strong>Bilgi güvenliği politikası:</strong> Üst yönetim tarafından onaylanan, tüm çalışanları bağlayan, bilgi güvenliği hedeflerini ve sorumluluklarını tanımlayan belge. Politika → Standart → Prosedür → Kılavuz hiyerarşisi.</li><li><strong>Üst yönetim sorumluluğu:</strong> Bilgi güvenliği kültürü 'tone at the top' ile şekillenir. CISO (Chief Information Security Officer): bilgi güvenliği stratejisinden sorumlu. Yönetim kuruluna raporlama.</li><li><strong>Risk yönetimi:</strong> Varlık belirleme → Tehdit analizi → Açıklık analizi → Risk değerlendirme → Risk yanıtı (kabul, azaltma, transfer, kaçınma) → İzleme. Risk = Tehdit × Açıklık × Varlık Değeri.</li><li><strong>İhlal yönetimi:</strong> Tespit → Kayıt → Sınıflandırma → Yanıt (kontrol altına alma, yok etme, kurtarma) → Kök neden analizi → Raporlama. Yasal bildirim yükümlülükleri (KVKK: 72 saat).</li></ul>"
+        "body": "<ul><li><strong>CIA üçgeni:</strong> Gizlilik (Confidentiality), Bütünlük (Integrity), Erişilebilirlik (Availability). Bilgi güvenliğinin temel üç hedefi. Ayrıca İnkar Edilemezlik (Non-repudiation) ve Özgünlük (Authenticity) ek hedefler.</li><li><strong>Bilgi güvenliği politikası:</strong> Üst yönetim tarafından onaylanan, tüm çalışanları bağlayan, bilgi güvenliği hedeflerini ve sorumluluklarını tanımlayan belge. Politika → Standart → Prosedür → Kılavuz hiyerarşisi.</li><li><strong>Üst yönetim sorumluluğu:</strong> Bilgi güvenliği kültürü 'tone at the top' ile şekillenir. CISO (Chief Information Security Officer): bilgi güvenliği stratejisinden sorumlu. Yönetim kuruluna raporlama.</li><li><strong>Risk yönetimi:</strong> Varlık belirleme → Tehdit analizi → Açıklık analizi → Risk değerlendirme → Risk yanıtı (kabul, azaltma, transfer, kaçınma) → İzleme. Risk = Tehdit × Açıklık × Varlık Değeri.</li><li><strong>İhlal yönetimi:</strong> Tespit → Kayıt → Sınıflandırma → Yanıt (kontrol altına alma, yok etme, kurtarma) → Kök neden analizi → Raporlama. Yasal bildirim yükümlülükleri (KVKK (kişisel verilerin korunması kanunu): 72 saat).</li></ul>"
       },
       {
         "num": "02",
         "title": "Varlık Yönetimi ve Veri Sınıflandırması",
-        "body": "<ul><li><strong>Varlık yaşam döngüsü:</strong> Satın alma/edinme → Devreye alma → Operasyon → Güncelleme/değişiklik → Elden çıkarma/imha. Her aşamada farklı güvenlik kontrolleri gerekir.</li><li><strong>Varlık envanteri:</strong> Tüm bilgi varlıklarının (donanım, yazılım, veri, personel, hizmet) tanımlandığı ve güncel tutulan kayıt. Sahip atama zorunlu. CMDB ile entegrasyon.</li><li><strong>Veri sınıflandırması:</strong> Gizlilik düzeyine göre: Gizli (Classified/Top Secret), Dahili (Internal/Confidential), Genel (Public). Her kategori için erişim, depolama, iletim ve imha kuralları. KVKK kapsamında kişisel veri ayrı kategori.</li><li><strong>Taşınabilir varlıklar:</strong> Dizüstü bilgisayar, USB, akıllı telefon. Riskler: kayıp/çalınma ile veri sızıntısı. Kontroller: tam disk şifreleme, uzaktan silme, MDM (Mobile Device Management).</li><li><strong>Varlık elden çıkarma:</strong> Medya imhası — depolama ortamlarının güvenli silinmesi (veri silme, degaussing, fiziksel imha). Yazılım lisanslarının iade edilmesi. İmha belgesi tutulması.</li></ul>"
+        "body": "<ul><li><strong>Varlık yaşam döngüsü:</strong> Satın alma/edinme → Devreye alma → Operasyon → Güncelleme/değişiklik → Elden çıkarma/imha. Her aşamada farklı güvenlik kontrolleri gerekir.</li><li><strong>Varlık envanteri:</strong> Tüm bilgi varlıklarının (donanım, yazılım, veri, personel, hizmet) tanımlandığı ve güncel tutulan kayıt. Sahip atama zorunlu. CMDB ile entegrasyon.</li><li><strong>Veri sınıflandırması:</strong> Gizlilik düzeyine göre: Gizli (Classified/Top Secret), Dahili (Internal/Confidential), Genel (Public). Her kategori için erişim, depolama, iletim ve imha kuralları. KVKK (kişisel verilerin korunması kanunu) kapsamında kişisel veri ayrı kategori.</li><li><strong>Taşınabilir varlıklar:</strong> Dizüstü bilgisayar, USB, akıllı telefon. Riskler: kayıp/çalınma ile veri sızıntısı. Kontroller: tam disk şifreleme, uzaktan silme, MDM (Mobile Device Management).</li><li><strong>Varlık elden çıkarma:</strong> Medya imhası — depolama ortamlarının güvenli silinmesi (veri silme, degaussing, fiziksel imha). Yazılım lisanslarının iade edilmesi. İmha belgesi tutulması.</li></ul>"
       },
       {
         "num": "03",
@@ -11600,7 +11600,7 @@ window.__C = {
       {
         "num": "07",
         "title": "Üçüncü Taraflarla İletişim Güvenliği",
-        "body": "<ul><li><strong>Üçüncü taraf ilişkisi aşamaları:</strong> Başlama (due diligence, sözleşme, güvenlik gereklilikleri), Sürdürme (düzenli izleme, denetim, SLA izleme), Sonlandırma (veri iadesi/imhası, erişim iptali, sözleşme kapanışı).</li><li><strong>Tedarik zinciri güvenliği:</strong> Yazılım tedarik zinciri riskleri (üçüncü taraf kütüphaneler, açık kaynak bileşenler). Donanım tedarik zinciri manipülasyonu. SBOM (Software Bill of Materials). SolarWinds saldırısı örneği.</li><li><strong>Güvenlik gereklilikleri:</strong> Tedarikçinin güvenlik politikaları ve sertifikasyonları (ISO 27001, SOC 2). KVKK kapsamında veri işleme sözleşmesi (DPA). NDA (gizlilik anlaşması). Sözleşmede denetim hakkı. Penetrasyon testi sonuçları paylaşımı.</li><li><strong>Bulut hizmet sağlayıcısı:</strong> Paylaşılan sorumluluk modeli. SOC 2 Tip 2 raporu incelemesi. Veri egemenliği ve lokasyon. Veri taşınabilirliği. Çıkış stratejisi (vendor lock-in riski).</li><li><strong>Üçüncü taraf erişim yönetimi:</strong> Minimum erişim prensibi. Zamanla sınırlı erişim (time-limited). Her üçüncü taraf için ayrı hesap. Ayrıcalıklı erişim için PAM. Etkinliklerin log kaydı. Sözleşme bitiminde erişimin derhal iptali.</li></ul>"
+        "body": "<ul><li><strong>Üçüncü taraf ilişkisi aşamaları:</strong> Başlama (due diligence, sözleşme, güvenlik gereklilikleri), Sürdürme (düzenli izleme, denetim, SLA izleme), Sonlandırma (veri iadesi/imhası, erişim iptali, sözleşme kapanışı).</li><li><strong>Tedarik zinciri güvenliği:</strong> Yazılım tedarik zinciri riskleri (üçüncü taraf kütüphaneler, açık kaynak bileşenler). Donanım tedarik zinciri manipülasyonu. SBOM (Software Bill of Materials). SolarWinds saldırısı örneği.</li><li><strong>Güvenlik gereklilikleri:</strong> Tedarikçinin güvenlik politikaları ve sertifikasyonları (ISO 27001, SOC 2). KVKK (kişisel verilerin korunması kanunu) kapsamında veri işleme sözleşmesi (DPA). NDA (gizlilik anlaşması). Sözleşmede denetim hakkı. Penetrasyon testi sonuçları paylaşımı.</li><li><strong>Bulut hizmet sağlayıcısı:</strong> Paylaşılan sorumluluk modeli. SOC 2 Tip 2 raporu incelemesi. Veri egemenliği ve lokasyon. Veri taşınabilirliği. Çıkış stratejisi (vendor lock-in riski).</li><li><strong>Üçüncü taraf erişim yönetimi:</strong> Minimum erişim prensibi. Zamanla sınırlı erişim (time-limited). Her üçüncü taraf için ayrı hesap. Ayrıcalıklı erişim için PAM. Etkinliklerin log kaydı. Sözleşme bitiminde erişimin derhal iptali.</li></ul>"
       },
       {
         "num": "08",
@@ -11674,7 +11674,7 @@ window.__C = {
             "D) Sisteme kötü amaçlı yazılım yüklemek"
           ],
           "a": 1,
-          "e": "Phishing: Saldırgan meşru kurum gibi görünen sahte e-posta veya web sitesi oluşturur. Kullanıcı kimlik bilgilerini girer — çalınır. Spear phishing: belirli kişi/kuruluşa hedefli. Vishing: sesli arama ile. Smishing: SMS ile. Önlemler: Farkındalık eğitimi, SPF/DKIM/DMARC, MFA."
+          "e": "Phishing: Saldırgan meşru kurum gibi görünen sahte e-posta veya web sitesi oluşturur. Kullanıcı kimlik bilgilerini girer — çalınır. Spear phishing: belirli kişi/kuruluşa hedefli. Vishing: sesli arama ile. Smishing: SMS ile. Önlemler: Farkındalık eğitimi, SPF (sermaye piyasası faaliyetleri)/DKIM/DMA (doğrudan piyasa erişimi)RC, MFA."
         },
         {
           "q": "IDS ve IPS arasındaki temel fark nedir?",
@@ -11751,7 +11751,7 @@ window.__C = {
             "D) Birincil, İkincil, Üçüncül"
           ],
           "a": 1,
-          "e": "Veri sınıflandırması: Gizli/Kritik — yalnızca belirli yetkililere. Dahili/Kurumsal — çalışanlar erişebilir ama dışarı çıkmamalı. Genel — kamuya açık. Her kategori için erişim kontrolü, depolama, iletim ve imha kuralları farklı. KVKK kapsamında kişisel veri ayrı kategoride değerlendirilir."
+          "e": "Veri sınıflandırması: Gizli/Kritik — yalnızca belirli yetkililere. Dahili/Kurumsal — çalışanlar erişebilir ama dışarı çıkmamalı. Genel — kamuya açık. Her kategori için erişim kontrolü, depolama, iletim ve imha kuralları farklı. KVKK (kişisel verilerin korunması kanunu) kapsamında kişisel veri ayrı kategoride değerlendirilir."
         },
         {
           "q": "Derinliğine savunma (Defence in Depth) prensibi ne anlama gelir?",
@@ -11773,7 +11773,7 @@ window.__C = {
             "D) Teknik destek almak"
           ],
           "a": 1,
-          "e": "Due diligence (gereken özeni gösterme): Tedarikçiyle ilişki başlamadan önce güvenlik değerlendirmesi. İncelenenler: ISO 27001 sertifikası, SOC 2 raporu, geçmiş güvenlik ihlalleri, personel güvenliği, veri işleme politikaları, finansal istikrar. KVKK gereği veri işleyen üçüncü taraflar için veri işleme sözleşmesi (DPA) zorunlu."
+          "e": "Due diligence (gereken özeni gösterme): Tedarikçiyle ilişki başlamadan önce güvenlik değerlendirmesi. İncelenenler: ISO 27001 sertifikası, SOC 2 raporu, geçmiş güvenlik ihlalleri, personel güvenliği, veri işleme politikaları, finansal istikrar. KVKK (kişisel verilerin korunması kanunu) gereği veri işleyen üçüncü taraflar için veri işleme sözleşmesi (DPA) zorunlu."
         },
         {
           "q": "Ransomware nedir ve nasıl çalışır?",
@@ -11896,7 +11896,7 @@ window.__C = {
             "D) Log kaydı tutar"
           ],
           "a": 1,
-          "e": "DLP (Data Loss Prevention): İçerik inceleme — şirket sırrı, kredi kartı numarası, TC kimlik gibi hassas veriyi tanıma. Kanallar: e-posta, web upload, USB, yazdırma. Politika ihlali: engelleme veya uyarı. Endpoint DLP (cihazda) + Network DLP (ağ trafiğinde) birlikte kullanılır. KVKK uyumunda kritik araç."
+          "e": "DLP (Data Loss Prevention): İçerik inceleme — şirket sırrı, kredi kartı numarası, TC kimlik gibi hassas veriyi tanıma. Kanallar: e-posta, web upload, USB, yazdırma. Politika ihlali: engelleme veya uyarı. Endpoint DLP (cihazda) + Network DLP (ağ trafiğinde) birlikte kullanılır. KVKK (kişisel verilerin korunması kanunu) uyumunda kritik araç."
         },
         {
           "q": "OSI modelinde Katman 3 (Ağ Katmanı) hangi görevi üstlenir?",
@@ -11907,7 +11907,7 @@ window.__C = {
             "D) TCP/UDP port yönetimi"
           ],
           "a": 1,
-          "e": "Ağ katmanı (Layer 3): IP adresleme, yönlendirme (routing). Cihaz: Router. Protokoller: IP, ICMP (ping), OSPF, BGP. Güvenlik kontrolü: paket filtresi, IPSec, IP bloklama. Katman 3 güvenlik duvarları IP/port bazlı kural uygular. IP spoofing bu katmanda gerçekleşir."
+          "e": "Ağ katmanı (Layer 3): IP adresleme, yönlendirme (routing). Cihaz: Router. Protokoller: IP, ICMP (ping), OSPF (sermaye piyasası faaliyetleri), BGP. Güvenlik kontrolü: paket filtresi, IPSec, IP bloklama. Katman 3 güvenlik duvarları IP/port bazlı kural uygular. IP spoofing bu katmanda gerçekleşir."
         },
         {
           "q": "Penetrasyon testi (pentest) ile güvenlik açığı taraması (vulnerability scan) arasındaki fark nedir?",
@@ -12121,15 +12121,15 @@ window.__C = {
           "e": "APT (Gelişmiş Kalıcı Tehdit): Uzun vadeli hedefli saldırı kampanyası. Özellikler: Ulus devlet veya organize gruplar. Uzun süre tespit edilmeden kalır (persistence). Çok aşamalı. Yüksek teknik yetkinlik. Hedef: kritik altyapı, savunma, finans. Tespit: davranışsal analiz, EDR, tehdit istihbaratı. Örnekler: Stuxnet, APT28 (Rusya), APT41 (Çin)."
         },
         {
-          "q": "Kimlik avına (phishing) karşı e-posta güvenliğinde SPF, DKIM ve DMARC ne işe yarar?",
+          "q": "Kimlik avına (phishing) karşı e-posta güvenliğinde SPF (sermaye piyasası faaliyetleri), DKIM ve DMA (doğrudan piyasa erişimi)RC ne işe yarar?",
           "o": [
             "A) E-postayı şifreler",
-            "B) SPF: onaylı gönderici sunucu IP listesi. DKIM: e-posta içeriğinin imzalanması. DMARC: bu ikisinin politikası ve raporlaması. Sahte e-posta tespit ve engelleme",
+            "B) SPF (sermaye piyasası faaliyetleri): onaylı gönderici sunucu IP listesi. DKIM: e-posta içeriğinin imzalanması. DMA (doğrudan piyasa erişimi)RC: bu ikisinin politikası ve raporlaması. Sahte e-posta tespit ve engelleme",
             "C) Spam filtreleme",
             "D) Virüs tarama"
           ],
           "a": 1,
-          "e": "E-posta kimlik doğrulama: SPF (Sender Policy Framework): DNS kaydında onaylı gönderici IP'leri tanımlar. DKIM (DomainKeys Identified Mail): e-posta başlığına kriptografik imza ekler. DMARC (Domain-based Message Authentication): SPF ve DKIM politikasını yönetir, başarısız mesajlar için politika (quarantine, reject) belirler. Business Email Compromise (BEC) saldırılarına karşı kritik."
+          "e": "E-posta kimlik doğrulama: SPF (Sender Policy Framework): DNS kaydında onaylı gönderici IP'leri tanımlar. DKIM (DomainKeys Identified Mail): e-posta başlığına kriptografik imza ekler. DMA (doğrudan piyasa erişimi)RC (Domain-based Message Authentication): SPF (sermaye piyasası faaliyetleri) ve DKIM politikasını yönetir, başarısız mesajlar için politika (quarantine, reject) belirler. Business Email Compromise (BEC) saldırılarına karşı kritik."
         },
         {
           "q": "Ağ saldırısında 'port tarama' (port scanning) ne amaçla yapılır?",
@@ -12395,7 +12395,7 @@ window.__C = {
             "D) Kapasite planlaması"
           ],
           "a": 1,
-          "e": "Log saklama süreleri: Yasal gereklilikler değişir: KVKK, bankacılık, sermaye piyasası düzenlemeleri. SPK (sermaye piyasası kurulu) düzenlemeleri log saklama süresi belirler. Güvenlik ihlali soruşturmasında loglar kritik delil. Log bütünlüğü: zaman damgası, dijital imza, değiştirilemez depolama. Merkezi log yönetimi (SIEM) ile kolay erişim ve analiz."
+          "e": "Log saklama süreleri: Yasal gereklilikler değişir: KVKK (kişisel verilerin korunması kanunu), bankacılık, sermaye piyasası düzenlemeleri. SPK (sermaye piyasası kurulu) düzenlemeleri log saklama süresi belirler. Güvenlik ihlali soruşturmasında loglar kritik delil. Log bütünlüğü: zaman damgası, dijital imza, değiştirilemez depolama. Merkezi log yönetimi (SIEM) ile kolay erişim ve analiz."
         },
         {
           "q": "Güvenlik mimarisinde 'Zero Trust Network Access' (ZTNA) geleneksel VPN'den nasıl farklıdır?",
@@ -12518,7 +12518,7 @@ window.__C = {
             "D) Maliyet optimizasyonu"
           ],
           "a": 1,
-          "e": "CASB (Cloud Access Security Broker): Onaylı ve onaysız (shadow IT) bulut kullanımı görünürlüğü. DLP politikalarını bulut ortamına genişletme. Erişim kontrolü ve kimlik doğrulama. Tehdit koruması. Şifreleme. Türleri: API tabanlı (onaylı uygulamalar için), inline/proxy (gerçek zamanlı). KVKK ve veri egemenliği uyumunda kritik."
+          "e": "CASB (Cloud Access Security Broker): Onaylı ve onaysız (shadow IT) bulut kullanımı görünürlüğü. DLP politikalarını bulut ortamına genişletme. Erişim kontrolü ve kimlik doğrulama. Tehdit koruması. Şifreleme. Türleri: API (uygulama programlama arayüzü) tabanlı (onaylı uygulamalar için), inline/proxy (gerçek zamanlı). KVKK (kişisel verilerin korunması kanunu) ve veri egemenliği uyumunda kritik."
         },
         {
           "q": "İç tehdit (insider threat) yönetiminde hangi kontroller kullanılır?",
@@ -12584,7 +12584,7 @@ window.__C = {
             "D) Yedekleme doğrulama"
           ],
           "a": 1,
-          "e": "Audit trail (denetim izi): Her önemli işlemin kaydı — kullanıcı, zaman, kaynak, eylem, sonuç. Kullanım alanları: Güvenlik ihlali soruşturması. Uyum kanıtı (KVKK, SPK (sermaye piyasası kurulu)). Adli inceleme (forensics). Hesap verebilirlik. Log bütünlüğü: zaman damgası, değiştirilemezlik, merkezi depolama. BS denetçisi audit trail'in eksiksiz, güvenli ve analiz edildiğini doğrular."
+          "e": "Audit trail (denetim izi): Her önemli işlemin kaydı — kullanıcı, zaman, kaynak, eylem, sonuç. Kullanım alanları: Güvenlik ihlali soruşturması. Uyum kanıtı (KVKK (kişisel verilerin korunması kanunu), SPK (sermaye piyasası kurulu)). Adli inceleme (forensics). Hesap verebilirlik. Log bütünlüğü: zaman damgası, değiştirilemezlik, merkezi depolama. BS denetçisi audit trail'in eksiksiz, güvenli ve analiz edildiğini doğrular."
         },
         {
           "q": "Kriptografide 'rainbow table' saldırısı nedir ve nasıl önlenir?",
@@ -12675,15 +12675,15 @@ window.__C = {
           "e": "Kimlik hırsızlığı önleme: MFA: kimlik bilgisi çalınsa bile girişi engeller. Kimlik doğrulama logları: alışılmadık konum/zaman/cihazdan giriş tespiti. UEBA: anormal erişim örüntüleri. PAM: ayrıcalıklı hesaplar özel koruma altında. Periyodik erişim gözden geçirme: artık gereksiz hesaplar kapatılır. Credential stuffing koruması: rate limiting, CAPTCHA."
         },
         {
-          "q": "KVKK kapsamında kişisel veri güvenliği ihlalini bildirim yükümlülüğü nedir?",
+          "q": "KVKK (kişisel verilerin korunması kanunu) kapsamında kişisel veri güvenliği ihlalini bildirim yükümlülüğü nedir?",
           "o": [
             "A) 30 gün içinde",
-            "B) 72 saat içinde KVKK Kurumu'na, gecikmeksizin ilgili kişilere — tehlike boyutuna göre",
+            "B) 72 saat içinde KVKK (kişisel verilerin korunması kanunu) Kurumu'na, gecikmeksizin ilgili kişilere — tehlike boyutuna göre",
             "C) 1 hafta içinde",
             "D) Yalnızca mahkemeye"
           ],
           "a": 1,
-          "e": "KVKK Madde 12 ve bildirim yükümlülüğü: Güvenlik ihlali tespit edilince en kısa sürede, en geç 72 saat içinde Kişisel Verileri Koruma Kurumu'na bildirim. İlgili kişilere (veri sahibi) de gecikmeksizin bildirim (risk yüksekse). Bildirim içeriği: ihlalin niteliği, etkilenen kişi ve veri kategorileri, alınan önlemler. GDPR ile uyumlu. BS denetçisi ihlal yanıt prosedürlerinin KVKK uyumunu doğrular."
+          "e": "KVKK (kişisel verilerin korunması kanunu) Madde 12 ve bildirim yükümlülüğü: Güvenlik ihlali tespit edilince en kısa sürede, en geç 72 saat içinde Kişisel Verileri Koruma Kurumu'na bildirim. İlgili kişilere (veri sahibi) de gecikmeksizin bildirim (risk yüksekse). Bildirim içeriği: ihlalin niteliği, etkilenen kişi ve veri kategorileri, alınan önlemler. GDPR (avrupa genel veri koruma yönetmeliği) ile uyumlu. BS denetçisi ihlal yanıt prosedürlerinin KVKK (kişisel verilerin korunması kanunu) uyumunu doğrular."
         },
         {
           "q": "Ağ güvenliğinde 'DNS over HTTPS' (DoH) ne sağlar?",
@@ -12736,7 +12736,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Blok Zincir ve Dağıtık Defter Teknolojisi",
-        "body": "<ul><li><strong>Blok zincir temelleri:</strong> Dağıtık, değiştirilemez, şeffaf kayıt defteri. Her blok: önceki bloğun hash'i + işlem verileri + zaman damgası. Hash fonksiyonu — tek yönlü matematiksel işlem. Değişiklik yapılırsa tüm zincir bozulur — immutability.</li><li><strong>Kriptoloji:</strong> Asimetrik şifreleme: açık anahtar (şifreleme/doğrulama), özel anahtar (şifre çözme/imzalama). Dijital imza: işlemin inkar edilemezliğini sağlar. Hash: SHA-256 vb. — veri bütünlüğünü kanıtlar.</li><li><strong>Ağ türleri:</strong> Genel (public) — Bitcoin, Ethereum. Özel (private) — kurumsal kullanım. Konsorsiyum — belirli kuruluşlar grubu. Hibrit.</li><li><strong>Akıllı sözleşme:</strong> Blok zincir üzerinde çalışan, önceden tanımlanmış koşullar gerçekleştiğinde otomatik yürütülen kod. Ethereum EVM üzerinde Solidity ile yazılır. Değiştirilemez — hata düzeltme imkânsız veya karmaşık.</li><li><strong>Kripto varlıklar:</strong> Fungible (değiştirilebilir — Bitcoin, altcoin) ve Non-fungible (NFT — eşsiz dijital varlık). ICO, cüzdanlar (hot/cold), kripto borsa riskleri. 51% saldırısı, reentrancy açıklığı, flash loan saldırısı.</li><li><strong>Blok zincir denetimi:</strong> İşlem takibi ve izlenebilirlik. Akıllı sözleşme kodu denetimi. Kripto varlık saklama kontrolleri. Gizlilik/şeffaflık dengesi.</li></ul>"
+        "body": "<ul><li><strong>Blok zincir temelleri:</strong> Dağıtık, değiştirilemez, şeffaf kayıt defteri. Her blok: önceki bloğun hash'i + işlem verileri + zaman damgası. Hash fonksiyonu — tek yönlü matematiksel işlem. Değişiklik yapılırsa tüm zincir bozulur — immutability.</li><li><strong>Kriptoloji:</strong> Asimetrik şifreleme: açık anahtar (şifreleme/doğrulama), özel anahtar (şifre çözme/imzalama). Dijital imza: işlemin inkar edilemezliğini sağlar. Hash: SHA-256 vb. — veri bütünlüğünü kanıtlar.</li><li><strong>Ağ türleri:</strong> Genel (public) — Bitcoin, Ethereum. Özel (private) — kurumsal kullanım. Konsorsiyum — belirli kuruluşlar grubu. Hibrit.</li><li><strong>Akıllı sözleşme:</strong> Blok zincir üzerinde çalışan, önceden tanımlanmış koşullar gerçekleştiğinde otomatik yürütülen kod. Ethereum EVM üzerinde Solidity ile yazılır. Değiştirilemez — hata düzeltme imkânsız veya karmaşık.</li><li><strong>Kripto varlıklar:</strong> Fungible (değiştirilebilir — Bitcoin, altcoin) ve Non-fungible (NFT (takas edilemez token) — eşsiz dijital varlık). ICO, cüzdanlar (hot/cold), kripto borsa riskleri. 51% saldırısı, reentrancy açıklığı, flash loan saldırısı.</li><li><strong>Blok zincir denetimi:</strong> İşlem takibi ve izlenebilirlik. Akıllı sözleşme kodu denetimi. Kripto varlık saklama kontrolleri. Gizlilik/şeffaflık dengesi.</li></ul>"
       },
       {
         "num": "04",
@@ -12761,7 +12761,7 @@ window.__C = {
       {
         "num": "08",
         "title": "Gözetim, Kapasite, Kullanılabilirlik ve Sürekli İyileştirme",
-        "body": "<ul><li><strong>Gözetim (monitoring):</strong> Sistem olaylarının gerçek zamanlı izlenmesi. Log yönetimi — anormal aktivitelerin tespiti. SIEM araçları ile merkezi izleme. Eşik değerleri (threshold) aşıldığında uyarı (alert) tetikleme.</li><li><strong>Performans izleme metrikleri:</strong> CPU kullanımı, RAM kullanımı, ağ bant genişliği, disk I/O, yanıt süresi, hata oranı. Baseline (temel çizgi) — normal performans referansı. Sapma tespiti.</li><li><strong>Sürekli iyileştirme:</strong> ITIL CSI (Continual Service Improvement). Planla-Uygula-Kontrol Et-Önlem Al (PDCA). KPI'ların belirlenmesi ve düzenli ölçümü. Hizmet iyileştirme döngüsü: veri topla → analiz et → iyileştir → izle.</li><li><strong>Kapasite yönetimi bileşenleri:</strong> İş kapasitesi yönetimi (iş büyümesinin altyapıya etkisi). Servis kapasitesi yönetimi (SLA metriklerini karşılamak için). Bileşen kapasitesi yönetimi (bireysel bileşenler). Tahminleme ve planlama.</li><li><strong>Son kullanıcı bilgi işlemi (EUC):</strong> Kullanıcıların kendi analiz ve küçük uygulamalarını geliştirmesi (Excel makroları, Access DB). Riskler: yetersiz kontrol, yedekleme eksikliği, hata tespiti güçlüğü, veri bütünlüğü. Denetçi EUC ortamlarının tanımlanmasını ve kontrol altında tutulmasını değerlendirir.</li></ul>"
+        "body": "<ul><li><strong>Gözetim (monitoring):</strong> Sistem olaylarının gerçek zamanlı izlenmesi. Log yönetimi — anormal aktivitelerin tespiti. SIEM araçları ile merkezi izleme. Eşik değerleri (threshold) aşıldığında uyarı (alert) tetikleme.</li><li><strong>Performans izleme metrikleri:</strong> CPU kullanımı, RAM kullanımı, ağ bant genişliği, disk I/O, yanıt süresi, hata oranı. Basel (uluslararası bankacılık düzenleme çerçevesi)ine (temel çizgi) — normal performans referansı. Sapma tespiti.</li><li><strong>Sürekli iyileştirme:</strong> ITIL CSI (Continual Service Improvement). Planla-Uygula-Kontrol Et-Önlem Al (PDCA). KPI'ların belirlenmesi ve düzenli ölçümü. Hizmet iyileştirme döngüsü: veri topla → analiz et → iyileştir → izle.</li><li><strong>Kapasite yönetimi bileşenleri:</strong> İş kapasitesi yönetimi (iş büyümesinin altyapıya etkisi). Servis kapasitesi yönetimi (SLA metriklerini karşılamak için). Bileşen kapasitesi yönetimi (bireysel bileşenler). Tahminleme ve planlama.</li><li><strong>Son kullanıcı bilgi işlemi (EUC):</strong> Kullanıcıların kendi analiz ve küçük uygulamalarını geliştirmesi (Excel makroları, Access DB). Riskler: yetersiz kontrol, yedekleme eksikliği, hata tespiti güçlüğü, veri bütünlüğü. Denetçi EUC ortamlarının tanımlanmasını ve kontrol altında tutulmasını değerlendirir.</li></ul>"
       }
     ],
     "tests": {
@@ -12852,7 +12852,7 @@ window.__C = {
             "D) Yedekleme rotasyonu"
           ],
           "a": 1,
-          "e": "Veri yaşam döngüsü: Oluşturma/toplama → Depolama → Kullanım → Paylaşma → Arşivleme → İmha. Her aşamada farklı güvenlik ve kontrol gereksinimleri. KVKK gibi yasal düzenlemeler hangi verinin ne kadar tutulacağını düzenler."
+          "e": "Veri yaşam döngüsü: Oluşturma/toplama → Depolama → Kullanım → Paylaşma → Arşivleme → İmha. Her aşamada farklı güvenlik ve kontrol gereksinimleri. KVKK (kişisel verilerin korunması kanunu) gibi yasal düzenlemeler hangi verinin ne kadar tutulacağını düzenler."
         },
         {
           "q": "Sanallaştırmada hypervisor tip-1 ve tip-2 arasındaki fark nedir?",
@@ -13074,7 +13074,7 @@ window.__C = {
             "D) Performans optimizasyon ayarları"
           ],
           "a": 1,
-          "e": "Baseline konfigürasyon: OS ve uygulamaların güvenli başlangıç durumunu tanımlayan standart. Gereksiz servisleri kapat. Varsayılan şifreleri değiştir. Güvenlik yamalarını uygula. CIS Benchmarks ve STIG gibi standartlar kullanılır."
+          "e": "Basel (uluslararası bankacılık düzenleme çerçevesi)ine konfigürasyon: OS ve uygulamaların güvenli başlangıç durumunu tanımlayan standart. Gereksiz servisleri kapat. Varsayılan şifreleri değiştir. Güvenlik yamalarını uygula. CIS Benchmarks ve STIG gibi standartlar kullanılır."
         },
         {
           "q": "Büyük veri analitiğinde denetçi açısından önemli kontrol alanları nelerdir?",
@@ -13085,7 +13085,7 @@ window.__C = {
             "D) Yalnızca lisans uyumu"
           ],
           "a": 1,
-          "e": "Büyük veri denetim kontrol alanları: Veri kalitesi (doğru, tam, güncel). Erişim kontrolü. Gizlilik uyumu (KVKK, GDPR). Veri ambarı güvenliği. Veri kökenselliği (data lineage). Analitik sonuçların doğrulanması."
+          "e": "Büyük veri denetim kontrol alanları: Veri kalitesi (doğru, tam, güncel). Erişim kontrolü. Gizlilik uyumu (KVKK (kişisel verilerin korunması kanunu), GDPR (avrupa genel veri koruma yönetmeliği)). Veri ambarı güvenliği. Veri kökenselliği (data lineage). Analitik sonuçların doğrulanması."
         },
         {
           "q": "Batch işleri BS işletiminde neden özel izleme gerektirir?",
@@ -13310,15 +13310,15 @@ window.__C = {
           "e": "Log yönetimi ve izleme: Yetkisiz sistem erişimi. Ayrıcalıklı kullanıcı aktiviteleri. Veri sızıntısı göstergeleri. Uygulama hataları. Uyum gereklilikleri kanıtı. Adli inceleme için log bütünlüğü korunmalı."
         },
         {
-          "q": "NFT nedir ve blok zincir ekosistemindeki rolü nedir?",
+          "q": "NFT (takas edilemez token) nedir ve blok zincir ekosistemindeki rolü nedir?",
           "o": [
             "A) Standart kripto para birimi",
-            "B) Blok zincir üzerinde eşsiz ve değiştirilemez dijital varlıkları temsil eden token — her NFT benzersizdir, kopyalanamaz",
+            "B) Blok zincir üzerinde eşsiz ve değiştirilemez dijital varlıkları temsil eden token — her NFT (takas edilemez token) benzersizdir, kopyalanamaz",
             "C) Güvenli transfer protokolü",
             "D) Anonim ödeme aracı"
           ],
           "a": 1,
-          "e": "NFT (Non-Fungible Token): Eşsiz dijital varlıkları temsil eder. Her NFT birbirinin aynısı değil. Kullanım alanları: dijital sanat, oyun varlıkları, müzik. Hukuki sahiplik karmaşık, değerleme güçlüğü, kara para aklama riski mevcuttur."
+          "e": "NFT (Non-Fungible Token): Eşsiz dijital varlıkları temsil eder. Her NFT (takas edilemez token) birbirinin aynısı değil. Kullanım alanları: dijital sanat, oyun varlıkları, müzik. Hukuki sahiplik karmaşık, değerleme güçlüğü, kara para aklama riski mevcuttur."
         },
         {
           "q": "Ağ segmentasyonu BS işletiminde neden önemlidir?",
@@ -13518,7 +13518,7 @@ window.__C = {
             "D) Yalnızca simetrik şifreleme"
           ],
           "a": 1,
-          "e": "Blok zincir kriptografisi: Hash fonksiyonu (SHA-256): tek yönlü, veri bütünlüğünü kanıtlar. Asimetrik şifreleme (ECDSA): özel anahtar ile imzalama, açık anahtar ile doğrulama. Dijital imza: işlemin inkar edilemezliğini sağlar. Merkle ağacı: blok içindeki işlemleri hiyerarşik hash yapısıyla doğrular."
+          "e": "Blok zincir kriptografisi: Hash fonksiyonu (SHA-256): tek yönlü, veri bütünlüğünü kanıtlar. Asimetrik şifreleme (ECDS (kredi temerrüt swap)A): özel anahtar ile imzalama, açık anahtar ile doğrulama. Dijital imza: işlemin inkar edilemezliğini sağlar. Merkle ağacı: blok içindeki işlemleri hiyerarşik hash yapısıyla doğrular."
         },
         {
           "q": "Yapay zekanın BS güvenliğindeki rolü nedir?",
@@ -13584,7 +13584,7 @@ window.__C = {
             "D) Yalnızca virüs tarama"
           ],
           "a": 1,
-          "e": "Veri güvenliği duruşu değerlendirmesi: Veri sınıflandırması (hangi veri ne kadar kritik?). Erişim kontrolü (en az yetki). Şifreleme (bekleyen ve iletim halindeki veri). DLP (Data Loss Prevention) — hassas verinin dışarı çıkmasını önleme. Yedekleme kontrolü. Veri imha prosedürleri (medya imha belgesi). KVKK ve GDPR uyumu."
+          "e": "Veri güvenliği duruşu değerlendirmesi: Veri sınıflandırması (hangi veri ne kadar kritik?). Erişim kontrolü (en az yetki). Şifreleme (bekleyen ve iletim halindeki veri). DLP (Data Loss Prevention) — hassas verinin dışarı çıkmasını önleme. Yedekleme kontrolü. Veri imha prosedürleri (medya imha belgesi). KVKK (kişisel verilerin korunması kanunu) ve GDPR (avrupa genel veri koruma yönetmeliği) uyumu."
         },
         {
           "q": "IoT güvenlik yönetiminde hangi kontroller uygulanmalıdır?",
@@ -14765,15 +14765,15 @@ window.__C = {
           "e": "Proje üçlü kısıt (triple constraint): Kapsam, Zaman ve Maliyet birbirine bağlı. Kapsam artarsa: ya zaman uzar ya bütçe artar ya kalite düşer. Zaman kısalırsa: ya bütçe artar (ek kaynak) ya kapsam azalır ya kalite düşer. Proje yöneticisi bu dengeyi yönetir; paydaşlarla kısıt öncelikleri baştan belirlenir."
         },
         {
-          "q": "Yazılım geliştirmede 'API' ve 'entegrasyon testi' ilişkisi nedir?",
+          "q": "Yazılım geliştirmede 'API (uygulama programlama arayüzü)' ve 'entegrasyon testi' ilişkisi nedir?",
           "o": [
             "A) İlgisi yok",
-            "B) API'lar sistemler arası iletişim arayüzüdür; entegrasyon testi API'ların farklı sistemleri doğru birleştirdiğini ve veri tutarlılığını doğrular",
+            "B) API (uygulama programlama arayüzü)'lar sistemler arası iletişim arayüzüdür; entegrasyon testi API (uygulama programlama arayüzü)'ların farklı sistemleri doğru birleştirdiğini ve veri tutarlılığını doğrular",
             "C) Yalnızca web uygulamaları için",
             "D) Yalnızca performans için"
           ],
           "a": 1,
-          "e": "API entegrasyon testi: API'lar (Application Programming Interface) farklı sistemlerin birbiriyle konuşma protokolü. Entegrasyon testi: sistemler arası API çağrılarının doğru çalışması, veri dönüşümlerinin doğruluğu, hata yönetimi, güvenlik (kimlik doğrulama, yetkilendirme), performans testi. Denetçi API güvenlik ve erişim kontrolleri belgelerini inceler."
+          "e": "API (uygulama programlama arayüzü) entegrasyon testi: API (uygulama programlama arayüzü)'lar (Application Programming Interface) farklı sistemlerin birbiriyle konuşma protokolü. Entegrasyon testi: sistemler arası API (uygulama programlama arayüzü) çağrılarının doğru çalışması, veri dönüşümlerinin doğruluğu, hata yönetimi, güvenlik (kimlik doğrulama, yetkilendirme), performans testi. Denetçi API (uygulama programlama arayüzü) güvenlik ve erişim kontrolleri belgelerini inceler."
         },
         {
           "q": "Proje yönetiminde 'portföy yönetimi' nedir?",
@@ -15063,7 +15063,7 @@ window.__C = {
       {
         "num": "06",
         "title": "Uluslararası Çerçeveler — COBIT, ISO 27001, ITIL",
-        "body": "<ul><li><strong>COBIT 2019 (Control Objectives for Information and Related Technology):</strong> ISACA tarafından geliştirilmiş BS yönetişim ve yönetim çerçevesi. 6 temel ilke: paydaş ihtiyaçlarını karşılama, uçtan uca kurumsal yönetişim, tek entegre çerçeve, bütünleşik yaklaşım, yönetişim ve yönetimin ayrıştırılması, işletme ihtiyaçlarına uyarlama.</li><li><strong>ISO/IEC 27001:</strong> Bilgi Güvenliği Yönetim Sistemi (BGYS/ISMS) standardı. Plan-Do-Check-Act (PDCA) döngüsü. Güvenlik kontrolleri: fiziksel, mantıksal, organizasyonel. Sertifikasyon mümkün. ISO 27002: uygulama kılavuzu.</li><li><strong>ITIL (IT Infrastructure Library):</strong> BT hizmet yönetimi en iyi uygulama çerçevesi. Hizmet strateji, tasarım, geçiş, operasyon, sürekli iyileştirme. ITIL 4: hizmet değer sistemi (SVS).</li><li><strong>COSO:</strong> İç kontrol çerçevesi. Kontrol ortamı, risk değerlendirmesi, kontrol faaliyetleri, bilgi ve iletişim, izleme. Enterpirse Risk Management (ERM) çerçevesi de COSO kapsamında.</li><li><strong>ISA (Uluslararası Denetim Standartları):</strong> IAASB tarafından yayınlanan denetim standartları. Türkiye'de KGK tarafından benimsendi. ISA 315 (risk değerlendirmesi), ISA 330 (risk yanıtları).</li></ul>"
+        "body": "<ul><li><strong>COBIT 2019 (Control Objectives for Information and Related Technology):</strong> ISACA tarafından geliştirilmiş BS yönetişim ve yönetim çerçevesi. 6 temel ilke: paydaş ihtiyaçlarını karşılama, uçtan uca kurumsal yönetişim, tek entegre çerçeve, bütünleşik yaklaşım, yönetişim ve yönetimin ayrıştırılması, işletme ihtiyaçlarına uyarlama.</li><li><strong>ISO/IEC 27001:</strong> Bilgi Güvenliği Yönetim Sistemi (BGYS/ISMS) standardı. Plan-Do-Check-Act (PDCA) döngüsü. Güvenlik kontrolleri: fiziksel, mantıksal, organizasyonel. Sertifikasyon mümkün. ISO 27002: uygulama kılavuzu.</li><li><strong>ITIL (IT Infrastructure Library):</strong> BT hizmet yönetimi en iyi uygulama çerçevesi. Hizmet strateji, tasarım, geçiş, operasyon, sürekli iyileştirme. ITIL 4: hizmet değer sistemi (SVS).</li><li><strong>COSO:</strong> İç kontrol çerçevesi. Kontrol ortamı, risk değerlendirmesi, kontrol faaliyetleri, bilgi ve iletişim, izleme. Enterpirse Risk Management (ERM) çerçevesi de COSO kapsamında.</li><li><strong>ISA (Uluslararası Denetim Standartları):</strong> IAASB tarafından yayınlanan denetim standartları. Türkiye'de KGK (kamu gözetimi kurumu) tarafından benimsendi. ISA 315 (risk değerlendirmesi), ISA 330 (risk yanıtları).</li></ul>"
       },
       {
         "num": "07",
@@ -15491,12 +15491,12 @@ window.__C = {
           "q": "BS denetiminde 'yasal düzenleyici uyum denetimi' ile 'operasyonel denetim' arasındaki fark nedir?",
           "o": [
             "A) Aynıdır",
-            "B) Uyum denetimi — işletmenin yasal düzenlemelere (SPK (sermaye piyasası kurulu), BDDK (bankacılık düzenleme ve denetleme kurumu), KVKK) uygunluğunu değerlendirir. Operasyonel denetim — süreçlerin etkinlik ve verimliğini değerlendirir",
+            "B) Uyum denetimi — işletmenin yasal düzenlemelere (SPK (sermaye piyasası kurulu), BDDK (bankacılık düzenleme ve denetleme kurumu), KVKK (kişisel verilerin korunması kanunu)) uygunluğunu değerlendirir. Operasyonel denetim — süreçlerin etkinlik ve verimliğini değerlendirir",
             "C) Operasyonel daha kapsamlı",
             "D) Uyum denetimi yalnızca finans için"
           ],
           "a": 1,
-          "e": "Uyum (compliance) denetimi: İşletmenin ilgili yasal düzenlemeler, standartlar ve politikalara uygunluğunun doğrulanması. Örn. BSYUE, KVKK uyumu. Operasyonel denetim: BS süreçlerinin hedeflere ulaşmada etkin ve verimli olup olmadığının değerlendirilmesi. Her iki denetim türü BS denetiminin farklı boyutlarını ele alır ve tamamlayıcıdır."
+          "e": "Uyum (compliance) denetimi: İşletmenin ilgili yasal düzenlemeler, standartlar ve politikalara uygunluğunun doğrulanması. Örn. BSYUE, KVKK (kişisel verilerin korunması kanunu) uyumu. Operasyonel denetim: BS süreçlerinin hedeflere ulaşmada etkin ve verimli olup olmadığının değerlendirilmesi. Her iki denetim türü BS denetiminin farklı boyutlarını ele alır ve tamamlayıcıdır."
         },
         {
           "q": "'Hizmet Seviye Anlaşması' (SLA) BS denetiminde nasıl değerlendirilir?",
@@ -15721,7 +15721,7 @@ window.__C = {
           "e": "MFA: Bilgi (şifre), Sahiplik (OTP token), Biyometri (parmak izi) faktörlerinden en az ikisi kullanılır. Şifre çalınsa bile saldırgan fiziksel tokena veya biyometrik veriye ihtiyaç duyar. Özellikle ayrıcalıklı hesaplar ve uzaktan erişim için kritik. BSYUE ve BDDK (bankacılık düzenleme ve denetleme kurumu) yönetmelikleri kritik sistemlerde MFA gerektirir."
         },
         {
-          "q": "KVKK BS denetimini nasıl etkiler?",
+          "q": "KVKK (kişisel verilerin korunması kanunu) BS denetimini nasıl etkiler?",
           "o": [
             "A) Etkisi yoktur",
             "B) Kişisel veri işleyen sistemlerin erişim kontrolleri, şifreleme, veri maskeleme ve ihlal bildirim prosedürleri denetim kapsamına girer",
@@ -15729,7 +15729,7 @@ window.__C = {
             "D) SPK (sermaye piyasası kurulu) kapsamındadır"
           ],
           "a": 1,
-          "e": "KVKK ve BS denetimi: Kişisel veri işleyen tüm BS bileşenleri değerlendirilir. Denetim konuları: erişim kontrolü, şifreleme, veri minimizasyonu, saklama politikaları, ihlal tespiti ve KVKK'ya bildirim prosedürü, DPIA (veri koruma etki değerlendirmesi)."
+          "e": "KVKK (kişisel verilerin korunması kanunu) ve BS denetimi: Kişisel veri işleyen tüm BS bileşenleri değerlendirilir. Denetim konuları: erişim kontrolü, şifreleme, veri minimizasyonu, saklama politikaları, ihlal tespiti ve KVKK (kişisel verilerin korunması kanunu)'ya bildirim prosedürü, DPIA (veri koruma etki değerlendirmesi)."
         },
         {
           "q": "Log yönetimi denetiminde ne değerlendirilir?",
@@ -15830,7 +15830,7 @@ window.__C = {
             "D) Yazılım kalitesi için"
           ],
           "a": 1,
-          "e": "ISA 315 (Identifying and Assessing the Risks of Material Misstatement): Denetçinin işletmeyi, iç kontrollerini ve BS ortamını anlama yükümlülüğünü düzenler. BS risklerinin finansal tablolar üzerindeki etkisi değerlendirilir. IT genel kontrolleri ve uygulama kontrolleri bu standart kapsamında gözden geçirilir. KGK tarafından Türkiye'de benimsendi."
+          "e": "ISA 315 (Identifying and Assessing the Risks of Material Misstatement): Denetçinin işletmeyi, iç kontrollerini ve BS ortamını anlama yükümlülüğünü düzenler. BS risklerinin finansal tablolar üzerindeki etkisi değerlendirilir. IT genel kontrolleri ve uygulama kontrolleri bu standart kapsamında gözden geçirilir. KGK (kamu gözetimi kurumu) tarafından Türkiye'de benimsendi."
         },
         {
           "q": "ISACA'nın 'CISA' sertifikası neyin kısaltmasıdır ve hangi alanı kapsar?",
@@ -15863,7 +15863,7 @@ window.__C = {
             "D) Şifreleme yalnızca iletim için"
           ],
           "a": 1,
-          "e": "Şifreleme: Orijinal veri algoritmayla şifrelenir, doğru anahtar ile çözülebilir. Depolama ve iletim güvenliği için kullanılır. Veri maskeleme: Gerçek değer taklit değerle kalıcı olarak değiştirilir (örn. TC kimlik → 111-222-3333). Geri döndürülemez. Test/geliştirme ortamlarında gerçek hassas veri yerine kullanılır. KVKK ve GDPR uyumunda kritik."
+          "e": "Şifreleme: Orijinal veri algoritmayla şifrelenir, doğru anahtar ile çözülebilir. Depolama ve iletim güvenliği için kullanılır. Veri maskeleme: Gerçek değer taklit değerle kalıcı olarak değiştirilir (örn. TC kimlik → 111-222-3333). Geri döndürülemez. Test/geliştirme ortamlarında gerçek hassas veri yerine kullanılır. KVKK (kişisel verilerin korunması kanunu) ve GDPR (avrupa genel veri koruma yönetmeliği) uyumunda kritik."
         },
         {
           "q": "'BS kaynak yönetimi' kapsamında insan kaynağına ilişkin temel riskler nelerdir?",
@@ -15902,12 +15902,12 @@ window.__C = {
           "q": "Gölge BT (Shadow IT) neden risk oluşturur?",
           "o": [
             "A) Güvenli alternatif",
-            "B) IT onayı olmadan kullanılan uygulamalar/sistemler — kontrol dışı güvenlik açığı, veri yönetimi ve KVKK uyumsuzluğu riski",
+            "B) IT onayı olmadan kullanılan uygulamalar/sistemler — kontrol dışı güvenlik açığı, veri yönetimi ve KVKK (kişisel verilerin korunması kanunu) uyumsuzluğu riski",
             "C) Açık kaynaklı yazılımlar",
             "D) Test ortamı"
           ],
           "a": 1,
-          "e": "Gölge BT: Çalışanların resmi onay olmadan kullandığı bulut hizmetleri, uygulamalar. Riskler: güvenlik açıkları (yamasız sistemler), veri sızıntısı, KVKK uyumsuzluğu. BS denetçisi gölge BT'yi ağ trafiği analizi ve mülakat ile tespit eder."
+          "e": "Gölge BT: Çalışanların resmi onay olmadan kullandığı bulut hizmetleri, uygulamalar. Riskler: güvenlik açıkları (yamasız sistemler), veri sızıntısı, KVKK (kişisel verilerin korunması kanunu) uyumsuzluğu. BS denetçisi gölge BT'yi ağ trafiği analizi ve mülakat ile tespit eder."
         },
         {
           "q": "İş Etki Analizi (BIA) ne amaçla yapılır?",
@@ -15951,7 +15951,7 @@ window.__C = {
             "D) Şifreleme yalnızca iletim için"
           ],
           "a": 1,
-          "e": "Şifreleme: Orijinal veri algoritmayla şifrelenir, doğru anahtar ile çözülebilir. Maskeleme: Gerçek değer taklit değerle kalıcı olarak değiştirilir — geri döndürülemez. Test/geliştirme ortamlarında gerçek hassas veri yerine kullanılır. KVKK uyumunda kritik."
+          "e": "Şifreleme: Orijinal veri algoritmayla şifrelenir, doğru anahtar ile çözülebilir. Maskeleme: Gerçek değer taklit değerle kalıcı olarak değiştirilir — geri döndürülemez. Test/geliştirme ortamlarında gerçek hassas veri yerine kullanılır. KVKK (kişisel verilerin korunması kanunu) uyumunda kritik."
         },
         {
           "q": "COBIT BAI süreç grubu ne anlama gelir?",
@@ -16110,7 +16110,7 @@ window.__C = {
           "e": "Sürekli iyileştirme: Bilgi sistemleri ortamı sürekli değişir — yeni tehditler, yeni teknolojiler, organizasyon değişimleri. Kontrollerin bir kez tasarlanması yeterli değil. ISO 27001 PDCA, COBIT MEA süreç grubu, iç denetim döngüleri, periyodik risk değerlendirmesi bu sürekli iyileştirmeyi destekler. Denetçi bu döngünün işleyip işlemediğini değerlendirir."
         },
         {
-          "q": "'KVKK' (Kişisel Verilerin Korunması Kanunu) BS denetimini nasıl etkiler?",
+          "q": "'KVKK (kişisel verilerin korunması kanunu)' (Kişisel Verilerin Korunması Kanunu) BS denetimini nasıl etkiler?",
           "o": [
             "A) Etkisi yoktur",
             "B) Kişisel veri işleyen sistemlerin güvenlik önlemleri, erişim kontrolleri, veri maskeleme ve ihlal bildirim prosedürlerini denetim kapsamına alır",
@@ -16118,7 +16118,7 @@ window.__C = {
             "D) Yalnızca müşteri verileri için"
           ],
           "a": 1,
-          "e": "KVKK ve BS denetimi: Kişisel veri işleyen tüm BS bileşenleri KVKK kapsamında değerlendirilir. Denetim konuları: erişim kontrolü (yalnızca yetkili kişilerin kişisel veriye erişimi), şifreleme, veri minimizasyonu, saklama politikaları, ihlal tespiti ve KVKK'ya bildirim prosedürü, DPIA (veri koruma etki değerlendirmesi). BS denetçisi bu yükümlülüklere uyumu değerlendirir."
+          "e": "KVKK (kişisel verilerin korunması kanunu) ve BS denetimi: Kişisel veri işleyen tüm BS bileşenleri KVKK (kişisel verilerin korunması kanunu) kapsamında değerlendirilir. Denetim konuları: erişim kontrolü (yalnızca yetkili kişilerin kişisel veriye erişimi), şifreleme, veri minimizasyonu, saklama politikaları, ihlal tespiti ve KVKK (kişisel verilerin korunması kanunu)'ya bildirim prosedürü, DPIA (veri koruma etki değerlendirmesi). BS denetçisi bu yükümlülüklere uyumu değerlendirir."
         },
         {
           "q": "BS denetiminin sonuçlarına 'izleme denetimi' (follow-up audit) ne zaman yapılır?",
@@ -16199,7 +16199,7 @@ window.__C = {
       {
         "num": "02",
         "title": "Muhasebenin Temelleri ve Finansal Tablolar",
-        "body": "<ul><li><strong>Muhasebenin temel kavramları:</strong> Sosyal sorumluluk, kişilik, işletmenin sürekliliği, dönemsellik, parayla ölçülme, maliyet esası, tarafsızlık ve belgelendirme, tutarlılık, tam açıklama, ihtiyatlılık, önemlilik, özün önceliği.</li><li><strong>Finansal tablolar:</strong> Finansal durum tablosu (bilanço), kâr/zarar ve diğer kapsamlı gelir tablosu, nakit akış tablosu, özkaynak değişim tablosu, dipnotlar.</li><li><strong>Bilanço denkliği:</strong> Varlıklar = Yabancı Kaynaklar + Özkaynaklar. Dönen varlıklar, duran varlıklar; kısa/uzun vadeli yabancı kaynaklar; özkaynak kalemleri.</li><li><strong>Tekdüzen muhasebe sistemi:</strong> 1-8 arası hesap grupları. Hesap planı — tek tip hesap isimleri zorunlu. 7. Grup maliyet hesapları. 7/A fonksiyonel, 7/B çeşit esasına göre maliyet izleme.</li><li><strong>Finansal raporlama çerçeveleri:</strong> TMS/TFRS (halka açık, KAYİK niteliğindeki), BOBİ FRS (bağımsız denetime tabi diğer), VUK esası (küçük işletmeler).</li></ul>"
+        "body": "<ul><li><strong>Muhasebenin temel kavramları:</strong> Sosyal sorumluluk, kişilik, işletmenin sürekliliği, dönemsellik, parayla ölçülme, maliyet esası, tarafsızlık ve belgelendirme, tutarlılık, tam açıklama, ihtiyatlılık, önemlilik, özün önceliği.</li><li><strong>Finansal tablolar:</strong> Finansal durum tablosu (bilanço), kâr/zarar ve diğer kapsamlı gelir tablosu, nakit akış tablosu, özkaynak değişim tablosu, dipnotlar.</li><li><strong>Bilanço denkliği:</strong> Varlıklar = Yabancı Kaynaklar + Özkaynaklar. Dönen varlıklar, duran varlıklar; kısa/uzun vadeli yabancı kaynaklar; özkaynak kalemleri.</li><li><strong>Tekdüzen muhasebe sistemi:</strong> 1-8 arası hesap grupları. Hesap planı — tek tip hesap isimleri zorunlu. 7. Grup maliyet hesapları. 7/A fonksiyonel, 7/B çeşit esasına göre maliyet izleme.</li><li><strong>Finansal raporlama çerçeveleri:</strong> TMS/TFRS (halka açık, KAYİK niteliğindeki), BOBİ FRS (bağımsız denetime tabi diğer), VUK (vergi usul kanunu) esası (küçük işletmeler).</li></ul>"
       },
       {
         "num": "03",
@@ -16208,13 +16208,13 @@ window.__C = {
       },
       {
         "num": "04",
-        "title": "Yıllara Yaygın İnşaat Taahhüt İşlerinde Muhasebe (VUK Esası)",
-        "body": "<ul><li><strong>Yıllara yaygın inşaat:</strong> İşin başladığı yıl içinde bitmeyip sonraki takvim yıllarına sarkıyorsa yıllara yaygın sayılır. GVK md. 42-44 kapsamı.</li><li><strong>Özel hesaplar:</strong> 170-177 Yıllara Yaygın İnşaat ve Onarım Maliyetleri (işin kodu ile alt hesap). 350-357 Yıllara Yaygın İnşaat ve Onarım Hakediş Bedelleri. 179 Taşeronlara Verilen Avanslar.</li><li><strong>Hakediş:</strong> İş sahibinin onayadığı tamamlanmış iş kısmı bedeli. Hakediş kesilince 350 Alınan Hakedişler hesabına alınır. İş bitiminde 350 kapatılır, hasılat tahakkuk eder.</li><li><strong>İş bitiminde muhasebeleştirme (VUK):</strong> Tüm maliyetler 170-177'de birikir, tüm hakedişler 350-357'de birikir. İş bitiminde toplu olarak 622 Satılan Hizmet Maliyeti ve 600 Satışlar açılır.</li><li><strong>Stopaj:</strong> Yıllara yaygın inşaat hakedişlerinde %3 gelir vergisi stopajı uygulanır. 193/295 Peşin Ödenen Vergiler hesabında takip edilir.</li></ul>"
+        "title": "Yıllara Yaygın İnşaat Taahhüt İşlerinde Muhasebe (VUK (vergi usul kanunu) Esası)",
+        "body": "<ul><li><strong>Yıllara yaygın inşaat:</strong> İşin başladığı yıl içinde bitmeyip sonraki takvim yıllarına sarkıyorsa yıllara yaygın sayılır. GVK md. 42-44 kapsamı.</li><li><strong>Özel hesaplar:</strong> 170-177 Yıllara Yaygın İnşaat ve Onarım Maliyetleri (işin kodu ile alt hesap). 350-357 Yıllara Yaygın İnşaat ve Onarım Hakediş Bedelleri. 179 Taşeronlara Verilen Avanslar.</li><li><strong>Hakediş:</strong> İş sahibinin onayadığı tamamlanmış iş kısmı bedeli. Hakediş kesilince 350 Alınan Hakedişler hesabına alınır. İş bitiminde 350 kapatılır, hasılat tahakkuk eder.</li><li><strong>İş bitiminde muhasebeleştirme (VUK (vergi usul kanunu)):</strong> Tüm maliyetler 170-177'de birikir, tüm hakedişler 350-357'de birikir. İş bitiminde toplu olarak 622 Satılan Hizmet Maliyeti ve 600 Satışlar açılır.</li><li><strong>Stopaj:</strong> Yıllara yaygın inşaat hakedişlerinde %3 gelir vergisi stopajı uygulanır. 193/295 Peşin Ödenen Vergiler hesabında takip edilir.</li></ul>"
       },
       {
         "num": "05",
-        "title": "TFRS 15 Hasılat Standardı — İnşaat Sözleşmeleri",
-        "body": "<ul><li><strong>TFRS 15'in 5 adımı:</strong> 1) Müşteri sözleşmesinin tanımlanması, 2) Sözleşmedeki edim yükümlülüklerinin belirlenmesi, 3) İşlem fiyatının belirlenmesi, 4) İşlem fiyatının edim yükümlülüklerine dağıtılması, 5) Edim yükümlülüğü yerine getirildikçe hasılat muhasebeleştirilmesi.</li><li><strong>Zamana yayılan gelir tanıma (inşaat):</strong> Müşteri inşaat yapıldıkça kontrolü devralıyorsa, edim yükümlülüğü zamana yayılır — tamamlanma oranıyla dönemsel hasılat. İnşaat sözleşmeleri çoğunlukla bu kapsamda.</li><li><strong>Tamamlanma oranı yöntemleri:</strong> Harcanan maliyet / Toplam tahmini maliyet. Tamamlanan iş birimleri. Fiziksel tamamlanma yüzdesi.</li><li><strong>TFRS 15 – VUK farkı:</strong> TFRS 15 tamamlanma oranına göre her dönem gelir tanır. VUK iş bitiminde toplu tanır. Bu fark ertelenmiş vergi doğurur.</li><li><strong>TFRS 15 sözleşme varlığı ve yükümlülüğü:</strong> 140 Devam Eden İnşaat Sözleşmelerinden Alacaklar (maliyet > hakediş) veya 340 Müşterilere Borçlar (hakediş > maliyet tahakkuku).</li></ul>"
+        "title": "TFRS (türkiye finansal raporlama standartları) 15 Hasılat Standardı — İnşaat Sözleşmeleri",
+        "body": "<ul><li><strong>TFRS (türkiye finansal raporlama standartları) 15'in 5 adımı:</strong> 1) Müşteri sözleşmesinin tanımlanması, 2) Sözleşmedeki edim yükümlülüklerinin belirlenmesi, 3) İşlem fiyatının belirlenmesi, 4) İşlem fiyatının edim yükümlülüklerine dağıtılması, 5) Edim yükümlülüğü yerine getirildikçe hasılat muhasebeleştirilmesi.</li><li><strong>Zamana yayılan gelir tanıma (inşaat):</strong> Müşteri inşaat yapıldıkça kontrolü devralıyorsa, edim yükümlülüğü zamana yayılır — tamamlanma oranıyla dönemsel hasılat. İnşaat sözleşmeleri çoğunlukla bu kapsamda.</li><li><strong>Tamamlanma oranı yöntemleri:</strong> Harcanan maliyet / Toplam tahmini maliyet. Tamamlanan iş birimleri. Fiziksel tamamlanma yüzdesi.</li><li><strong>TFRS (türkiye finansal raporlama standartları) 15 – VUK (vergi usul kanunu) farkı:</strong> TFRS (türkiye finansal raporlama standartları) 15 tamamlanma oranına göre her dönem gelir tanır. VUK (vergi usul kanunu) iş bitiminde toplu tanır. Bu fark ertelenmiş vergi doğurur.</li><li><strong>TFRS (türkiye finansal raporlama standartları) 15 sözleşme varlığı ve yükümlülüğü:</strong> 140 Devam Eden İnşaat Sözleşmelerinden Alacaklar (maliyet > hakediş) veya 340 Müşterilere Borçlar (hakediş > maliyet tahakkuku).</li></ul>"
       },
       {
         "num": "06",
@@ -16228,18 +16228,18 @@ window.__C = {
       },
       {
         "num": "08",
-        "title": "TFRS 16 — Kiralamalar",
-        "body": "<ul><li><strong>TFRS 16 temel değişikliği:</strong> TMS 17'den farklı olarak faaliyet kiralamalarını da kiracının bilançosuna alır. Kullanım Hakkı Varlığı ve Kiralama Borcu tanınır.</li><li><strong>Muhasebeleştirme:</strong> Başlangıçta: Kullanım hakkı varlığı = kira yükümlülüğünün bugünkü değeri + başlangıç doğrudan maliyetler + peşin ödeme. Kiralama borcu (301/401 Kiralama Borçları). 302/402 Ertelenmiş Kiralama Borçlanma Maliyetleri.</li><li><strong>Sonraki ölçüm:</strong> Kullanım hakkı varlığı: maliyet veya yeniden değerleme modeliyle amortismana tabi. Kiralama borcu: etkin faiz yöntemiyle artırılır, ödeme düşülür.</li><li><strong>Muafiyetler:</strong> 12 ay veya daha kısa kiralamalar ile düşük değerli varlık kiralamaları bilanço dışı bırakılabilir — kira gideri olarak muhasebeleştirilir.</li><li><strong>Gayrimenkul kiralamalarında:</strong> Kiralanan bina/arazi için kullanım hakkı varlığı 252 Binalar hesabında izlenebilir; amortisman kira süresi boyunca ayrılır.</li></ul>"
+        "title": "TFRS (türkiye finansal raporlama standartları) 16 — Kiralamalar",
+        "body": "<ul><li><strong>TFRS (türkiye finansal raporlama standartları) 16 temel değişikliği:</strong> TMS 17'den farklı olarak faaliyet kiralamalarını da kiracının bilançosuna alır. Kullanım Hakkı Varlığı ve Kiralama Borcu tanınır.</li><li><strong>Muhasebeleştirme:</strong> Başlangıçta: Kullanım hakkı varlığı = kira yükümlülüğünün bugünkü değeri + başlangıç doğrudan maliyetler + peşin ödeme. Kiralama borcu (301/401 Kiralama Borçları). 302/402 Ertelenmiş Kiralama Borçlanma Maliyetleri.</li><li><strong>Sonraki ölçüm:</strong> Kullanım hakkı varlığı: maliyet veya yeniden değerleme modeliyle amortismana tabi. Kiralama borcu: etkin faiz yöntemiyle artırılır, ödeme düşülür.</li><li><strong>Muafiyetler:</strong> 12 ay veya daha kısa kiralamalar ile düşük değerli varlık kiralamaları bilanço dışı bırakılabilir — kira gideri olarak muhasebeleştirilir.</li><li><strong>Gayrimenkul kiralamalarında:</strong> Kiralanan bina/arazi için kullanım hakkı varlığı 252 Binalar hesabında izlenebilir; amortisman kira süresi boyunca ayrılır.</li></ul>"
       },
       {
         "num": "09",
         "title": "TMS 12 — Gelir Vergileri ve Ertelenmiş Vergi",
-        "body": "<ul><li><strong>Ertelenmiş vergi nedeni:</strong> Muhasebe (TMS/TFRS) ile vergi (VUK) kuralları farklılığından doğan geçici farklar. Kalıcı farklar ertelenmiş vergi doğurmaz.</li><li><strong>Vergilendirilebilir geçici fark:</strong> Defter değeri > vergi matrahı → gelecekte daha fazla vergi ödenir → 489 Ertelenmiş Vergi Yükümlülüğü, 694 Ertelenmiş Vergi Gider Etkisi.</li><li><strong>İndirilebilir geçici fark:</strong> Defter değeri < vergi matrahı → gelecekte daha az vergi ödenir → 289 Ertelenmiş Vergi Varlığı, 693 Ertelenmiş Vergi Gelir Etkisi.</li><li><strong>İnşaatta yaygın geçici farklar:</strong> TFRS 15 tamamlanma oranı ile VUK iş bitimi farkı. TMS 16 amortisman ile VUK amortisman farkı. TFRS 16 kiralama ile eski kira gideri farkı. Kıdem tazminatı karşılığı.</li><li><strong>Net aktarım:</strong> Ertelenmiş vergi varlık ve yükümlülükleri koşul sağlanırsa netleştirilebilir ve bilanço içinde gösterilir.</li></ul>"
+        "body": "<ul><li><strong>Ertelenmiş vergi nedeni:</strong> Muhasebe (TMS/TFRS (türkiye finansal raporlama standartları)) ile vergi (VUK (vergi usul kanunu)) kuralları farklılığından doğan geçici farklar. Kalıcı farklar ertelenmiş vergi doğurmaz.</li><li><strong>Vergilendirilebilir geçici fark:</strong> Defter değeri > vergi matrahı → gelecekte daha fazla vergi ödenir → 489 Ertelenmiş Vergi Yükümlülüğü, 694 Ertelenmiş Vergi Gider Etkisi.</li><li><strong>İndirilebilir geçici fark:</strong> Defter değeri < vergi matrahı → gelecekte daha az vergi ödenir → 289 Ertelenmiş Vergi Varlığı, 693 Ertelenmiş Vergi Gelir Etkisi.</li><li><strong>İnşaatta yaygın geçici farklar:</strong> TFRS (türkiye finansal raporlama standartları) 15 tamamlanma oranı ile VUK (vergi usul kanunu) iş bitimi farkı. TMS 16 amortisman ile VUK (vergi usul kanunu) amortisman farkı. TFRS (türkiye finansal raporlama standartları) 16 kiralama ile eski kira gideri farkı. Kıdem tazminatı karşılığı.</li><li><strong>Net aktarım:</strong> Ertelenmiş vergi varlık ve yükümlülükleri koşul sağlanırsa netleştirilebilir ve bilanço içinde gösterilir.</li></ul>"
       },
       {
         "num": "10",
         "title": "Vergi Mevzuatı ve SGK Uygulamaları",
-        "body": "<ul><li><strong>GVK md. 42-44 yıllara yaygın inşaat:</strong> Kâr/zarar iş bitiminde hesaplanır. Yıl içinde kazanç doğmaz. Ancak stopaj (%3) hakediş ödemesinde kesilir (193/295 hesapla takip).</li><li><strong>İnşaatta asgari işçilik:</strong> SGK her iş için asgari işçilik oranı belirler. Müteahhit bildirilen işçilik oranı bu oranın altındaysa fark işçilik tespiti yapılır. İlişiksizlik belgesi: işin bitiminde eksik işçilik olmadığının onayı.</li><li><strong>KDV uygulamaları:</strong> İnşaat taahhüt hizmetlerinde KDV oranları. 190 Devreden KDV, 191 İndirilecek KDV, 391 Hesaplanan KDV. KDV tevkifatı: KDV'nin bir kısmının alıcı tarafından doğrudan ödenmesi (e.g. yapım işlerinde alt tevkifat oranları).</li><li><strong>Kurumlar vergisi:</strong> İnşaat işletmelerinde kurumlar vergisi oranı %25 (güncel oran). TMS/TFRS ile VUK farkından ertelenmiş vergi. Yatırım indirimi ve istisnaların etkisi.</li></ul>"
+        "body": "<ul><li><strong>GVK md. 42-44 yıllara yaygın inşaat:</strong> Kâr/zarar iş bitiminde hesaplanır. Yıl içinde kazanç doğmaz. Ancak stopaj (%3) hakediş ödemesinde kesilir (193/295 hesapla takip).</li><li><strong>İnşaatta asgari işçilik:</strong> SGK her iş için asgari işçilik oranı belirler. Müteahhit bildirilen işçilik oranı bu oranın altındaysa fark işçilik tespiti yapılır. İlişiksizlik belgesi: işin bitiminde eksik işçilik olmadığının onayı.</li><li><strong>KDV uygulamaları:</strong> İnşaat taahhüt hizmetlerinde KDV oranları. 190 Devreden KDV, 191 İndirilecek KDV, 391 Hesaplanan KDV. KDV tevkifatı: KDV'nin bir kısmının alıcı tarafından doğrudan ödenmesi (e.g. yapım işlerinde alt tevkifat oranları).</li><li><strong>Kurumlar vergisi:</strong> İnşaat işletmelerinde kurumlar vergisi oranı %25 (güncel oran). TMS/TFRS (türkiye finansal raporlama standartları) ile VUK (vergi usul kanunu) farkından ertelenmiş vergi. Yatırım indirimi ve istisnaların etkisi.</li></ul>"
       }
     ],
     "tests": {
@@ -16278,7 +16278,7 @@ window.__C = {
           "e": "GVK md. 42: Birden fazla takvim yılına yaygın inşaat ve onarma işlerinde kâr veya zarar işin bittiği yıl kesin olarak hesaplanır. Yıllara yaygın olup olmaması, işin başladığı yılın sonunda bitip bitmediğine bakılarak belirlenir."
         },
         {
-          "q": "TFRS 15 kapsamında inşaat sözleşmelerinde hasılat ne zaman tanınır?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15 kapsamında inşaat sözleşmelerinde hasılat ne zaman tanınır?",
           "o": [
             "A) Hakediş kesildiğinde",
             "B) Müşteri kontrolü devraldıkça — zamana yayılan edim yükümlülüğünde tamamlanma oranına göre dönemsel",
@@ -16286,7 +16286,7 @@ window.__C = {
             "D) Para tahsil edildiğinde"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 35: İnşaat sözleşmeleri genellikle zamana yayılan edim yükümlülüğü kapsamındadır. Müşteri inşaatın yapıldıkça kontrolü devraldığında tamamlanma oranına göre her dönem hasılat tanınır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 35: İnşaat sözleşmeleri genellikle zamana yayılan edim yükümlülüğü kapsamındadır. Müşteri inşaatın yapıldıkça kontrolü devraldığında tamamlanma oranına göre her dönem hasılat tanınır."
         },
         {
           "q": "TMS 40 kapsamında yatırım amaçlı gayrimenkul tanımı nedir?",
@@ -16311,15 +16311,15 @@ window.__C = {
           "e": "TMS 40 md. 35: GUD modelinde değer artışı 647 Yatırım Amaçlı Gayrimenkul Gelir ve Kârları, azalış 657 Gider ve Zararları hesabına alınır — kâr/zarar tablosunu etkiler. TMS 16 yeniden değerleme artışının özkaynaklara alınmasından farklıdır."
         },
         {
-          "q": "TFRS 16 kiralama standardı TMS 17'den nasıl ayrışır?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 16 kiralama standardı TMS 17'den nasıl ayrışır?",
           "o": [
-            "A) TFRS 16 yalnızca finansal kiralamaları kapsar",
-            "B) TFRS 16 faaliyet kiralamalarını da kiracının bilançosuna alır — kullanım hakkı varlığı ve kiralama borcu tanınır",
-            "C) TFRS 16'da amortisman yoktur",
-            "D) TFRS 16 yalnızca kiraya verenler için"
+            "A) TFRS (türkiye finansal raporlama standartları) 16 yalnızca finansal kiralamaları kapsar",
+            "B) TFRS (türkiye finansal raporlama standartları) 16 faaliyet kiralamalarını da kiracının bilançosuna alır — kullanım hakkı varlığı ve kiralama borcu tanınır",
+            "C) TFRS (türkiye finansal raporlama standartları) 16'da amortisman yoktur",
+            "D) TFRS (türkiye finansal raporlama standartları) 16 yalnızca kiraya verenler için"
           ],
           "a": 1,
-          "e": "TMS 17'de faaliyet kiralamaları bilanço dışı (kira gideri). TFRS 16'da neredeyse tüm kiralamalar (12 ay ve düşük değer muafiyetleri hariç) kiracının bilançosuna alınır: Kullanım Hakkı Varlığı + Kiralama Borcu."
+          "e": "TMS 17'de faaliyet kiralamaları bilanço dışı (kira gideri). TFRS (türkiye finansal raporlama standartları) 16'da neredeyse tüm kiralamalar (12 ay ve düşük değer muafiyetleri hariç) kiracının bilançosuna alınır: Kullanım Hakkı Varlığı + Kiralama Borcu."
         },
         {
           "q": "TMS 12'de geçici fark nedir?",
@@ -16377,7 +16377,7 @@ window.__C = {
           "e": "TMS 16 md. 39: Maddi duran varlığın yeniden değerleme artışı doğrudan özkaynaklara (diğer kapsamlı gelire) alınır — 522 MDV Yeniden Değerleme Artışları. Bu TMS 40 GUD artışının kâr/zarara alınmasından farklıdır."
         },
         {
-          "q": "TFRS 16 kapsamında hangi kiralamalar bilanço dışı bırakılabilir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 16 kapsamında hangi kiralamalar bilanço dışı bırakılabilir?",
           "o": [
             "A) Tüm gayrimenkul kiralamaları",
             "B) 12 ay veya daha kısa süreli kiralamalar ve düşük değerli varlık kiralamaları",
@@ -16385,7 +16385,7 @@ window.__C = {
             "D) Hiçbiri bilanço dışı bırakılamaz"
           ],
           "a": 1,
-          "e": "TFRS 16 md. 5: İki pratik kolaylık: (1) Kira dönemi 12 ay veya daha az — doğrudan kira gideri. (2) Dayanak varlığın düşük değerli olduğu kiralamalar (yakl. 5.000 USD altı) — doğrudan kira gideri."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16 md. 5: İki pratik kolaylık: (1) Kira dönemi 12 ay veya daha az — doğrudan kira gideri. (2) Dayanak varlığın düşük değerli olduğu kiralamalar (yakl. 5.000 USD altı) — doğrudan kira gideri."
         },
         {
           "q": "İnşaat taahhüt işlerinde 350 Alınan Hakedişler hesabı nasıl kullanılır?",
@@ -16396,7 +16396,7 @@ window.__C = {
             "D) Stopaj tutarlarını gösterir"
           ],
           "a": 1,
-          "e": "VUK yöntemi: 350-357 Yıllara Yaygın İnşaat ve Onarım Hakediş Bedelleri pasif hesabına hakediş kesildikçe alacak kaydedilir. İş bitiminde 350-357 borçlanarak kapatılır; 600 Satışlar alacak kaydedilir. Eş zamanlı 170-177 maliyet 622 Satılan Hizmet Maliyeti'ne aktarılır."
+          "e": "VUK (vergi usul kanunu) yöntemi: 350-357 Yıllara Yaygın İnşaat ve Onarım Hakediş Bedelleri pasif hesabına hakediş kesildikçe alacak kaydedilir. İş bitiminde 350-357 borçlanarak kapatılır; 600 Satışlar alacak kaydedilir. Eş zamanlı 170-177 maliyet 622 Satılan Hizmet Maliyeti'ne aktarılır."
         },
         {
           "q": "TMS 40'ta gayrimenkul yatırım amaçlıdan sahibi tarafından kullanılana alınırsa ne olur?",
@@ -16451,10 +16451,10 @@ window.__C = {
             "D) Stopaj ödendiğinde"
           ],
           "a": 1,
-          "e": "TMS 12: Defter değeri > vergi matrahı = vergilendirilebilir geçici fark → 489 Ertelenmiş Vergi Yükümlülüğü = fark × vergi oranı. Örn. TMS 40 GUD artışı veya TFRS 15'e göre erken tanınan hasılat."
+          "e": "TMS 12: Defter değeri > vergi matrahı = vergilendirilebilir geçici fark → 489 Ertelenmiş Vergi Yükümlülüğü = fark × vergi oranı. Örn. TMS 40 GUD artışı veya TFRS (türkiye finansal raporlama standartları) 15'e göre erken tanınan hasılat."
         },
         {
-          "q": "TFRS 15'te sözleşme varlığı ve yükümlülüğü nasıl ortaya çıkar?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15'te sözleşme varlığı ve yükümlülüğü nasıl ortaya çıkar?",
           "o": [
             "A) Her sözleşmede zorunlu",
             "B) Sözleşme varlığı: tanınan hasılat > faturalanan hakediş. Sözleşme yükümlülüğü: hakediş > tanınan hasılat",
@@ -16462,7 +16462,7 @@ window.__C = {
             "D) Avans ödemelerinde"
           ],
           "a": 1,
-          "e": "TFRS 15: 140 Devam Eden İnşaat Sözleşmelerinden Alacaklar — tanınan hasılat birikimi faturalanan hakedişten fazlaysa. 340 Müşterilere Borçlar — faturalanan hakediş tanınan hasılatı aşıyorsa."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15: 140 Devam Eden İnşaat Sözleşmelerinden Alacaklar — tanınan hasılat birikimi faturalanan hakedişten fazlaysa. 340 Müşterilere Borçlar — faturalanan hakediş tanınan hasılatı aşıyorsa."
         }
       ],
       "t2": [
@@ -16478,15 +16478,15 @@ window.__C = {
           "e": "151 Yarı Mamüller – Üretim: inşaat devam ederken tüm maliyetler birikir. Daire tamamen tamamlandığında (iskan veya fiilen tamamlanma) 151'den 152 Mamuller'e geçiş yapılır. Satışta ise 152'den 620 Satılan Mamul Maliyeti'ne aktarılır."
         },
         {
-          "q": "Muhasebenin dönemsellik kavramı ile VUK yıllara yaygın inşaat nasıl çelişir?",
+          "q": "Muhasebenin dönemsellik kavramı ile VUK (vergi usul kanunu) yıllara yaygın inşaat nasıl çelişir?",
           "o": [
             "A) Hiç çelişmez",
-            "B) VUK, geliri iş bitiminde toplu tanır — dönemsellik ilkesiyle çelişir; TFRS 15 dönemselliğe uyar",
-            "C) VUK dönemselliği tam uygular",
+            "B) VUK (vergi usul kanunu), geliri iş bitiminde toplu tanır — dönemsellik ilkesiyle çelişir; TFRS (türkiye finansal raporlama standartları) 15 dönemselliğe uyar",
+            "C) VUK (vergi usul kanunu) dönemselliği tam uygular",
             "D) Dönemsellik yalnızca kira için önemlidir"
           ],
           "a": 1,
-          "e": "Dönemsellik kavramı gelir ve giderlerin ait oldukları dönemde tanınmasını gerektirir. VUK md. 42'nin iş bitiminde toplu tanıması bu ilkeyle çelişir. TFRS 15 tamamlanma oranı yöntemi dönemselliğe uyar. Bu çatışma TMS 12 kapsamında ertelenmiş vergi hesaplanmasını gerektirir."
+          "e": "Dönemsellik kavramı gelir ve giderlerin ait oldukları dönemde tanınmasını gerektirir. VUK (vergi usul kanunu) md. 42'nin iş bitiminde toplu tanıması bu ilkeyle çelişir. TFRS (türkiye finansal raporlama standartları) 15 tamamlanma oranı yöntemi dönemselliğe uyar. Bu çatışma TMS 12 kapsamında ertelenmiş vergi hesaplanmasını gerektirir."
         },
         {
           "q": "TMS 40 kapsamında inşaat şirketinin kendi ofis binası yatırım amaçlı gayrimenkul midir?",
@@ -16500,7 +16500,7 @@ window.__C = {
           "e": "TMS 40: Sahibi tarafından kullanılan bina TMS 16 kapsamındadır. Yatırım amaçlı olabilmesi için kira geliri veya değer artışı amacıyla elde tutulmalıdır. Karma kullanımda ayrıştırılabiliyorsa bölünür."
         },
         {
-          "q": "TFRS 16 kiralama borcunun başlangıç ölçümünde hangi iskonto oranı kullanılır?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 16 kiralama borcunun başlangıç ölçümünde hangi iskonto oranı kullanılır?",
           "o": [
             "A) Merkez bankası faiz oranı",
             "B) Kira içindeki faiz oranı; belirlenemiyorsa kiracının artırımlı borçlanma faiz oranı",
@@ -16508,7 +16508,7 @@ window.__C = {
             "D) Banka kredi faizi"
           ],
           "a": 1,
-          "e": "TFRS 16 md. 26: Kiralama borcu, kira ödemelerinin kira içindeki faiz oranıyla iskonto edilmiş bugünkü değeridir. Bu oran belirlenemiyorsa kiracı kendi artırımlı borçlanma faiz oranını kullanır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16 md. 26: Kiralama borcu, kira ödemelerinin kira içindeki faiz oranıyla iskonto edilmiş bugünkü değeridir. Bu oran belirlenemiyorsa kiracı kendi artırımlı borçlanma faiz oranını kullanır."
         },
         {
           "q": "İnşaat işletmesinde genel üretim giderleri ile faaliyet giderleri arasındaki fark nedir?",
@@ -16525,12 +16525,12 @@ window.__C = {
           "q": "Muhasebenin 'özün önceliği ilkesi' inşaat sektöründe nasıl uygulanır?",
           "o": [
             "A) Hukuki form her zaman önce",
-            "B) İşlemin ekonomik özü hukuki biçiminden önce gelir — örn. TFRS 16 kiralama hukuki kira ama ekonomik satın alma gibi bilanço etkisi yaratır",
+            "B) İşlemin ekonomik özü hukuki biçiminden önce gelir — örn. TFRS (türkiye finansal raporlama standartları) 16 kiralama hukuki kira ama ekonomik satın alma gibi bilanço etkisi yaratır",
             "C) Yalnızca kâr amacıyla",
             "D) Muhasebe standartlarında yer almaz"
           ],
           "a": 1,
-          "e": "Özün önceliği ilkesi: TFRS 16'nın temelini oluşturur. Hukuki açıdan kiralama sözleşmesi olsa bile ekonomik özü satın almaya benziyorsa bilançoya alınır. TMS 17'de finansal kiralama bu ilkeye dayanıyor, TFRS 16 daha geniş kapsam uyguluyor."
+          "e": "Özün önceliği ilkesi: TFRS (türkiye finansal raporlama standartları) 16'nın temelini oluşturur. Hukuki açıdan kiralama sözleşmesi olsa bile ekonomik özü satın almaya benziyorsa bilançoya alınır. TMS 17'de finansal kiralama bu ilkeye dayanıyor, TFRS (türkiye finansal raporlama standartları) 16 daha geniş kapsam uyguluyor."
         },
         {
           "q": "İnşaat işletmelerinde 193 ve 295 Peşin Ödenen Vergiler hesapları nasıl kullanılır?",
@@ -16552,10 +16552,10 @@ window.__C = {
             "D) Zarar varsa"
           ],
           "a": 1,
-          "e": "TMS 12: İndirilebilir geçici fark — defter değeri < vergi matrahı. Gelecekte vergi matrahından indirilecek tutar var → 289 Ertelenmiş Vergi Varlığı. Örn. kıdem tazminatı karşılığı (TMS 37'ye göre ayrıldı ama VUK'ta ödeme anında gider)."
+          "e": "TMS 12: İndirilebilir geçici fark — defter değeri < vergi matrahı. Gelecekte vergi matrahından indirilecek tutar var → 289 Ertelenmiş Vergi Varlığı. Örn. kıdem tazminatı karşılığı (TMS 37'ye göre ayrıldı ama VUK (vergi usul kanunu)'ta ödeme anında gider)."
         },
         {
-          "q": "TFRS 15'te dönem hasılatı tamamlanma oranı yöntemiyle nasıl hesaplanır?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15'te dönem hasılatı tamamlanma oranı yöntemiyle nasıl hesaplanır?",
           "o": [
             "A) Hakediş tutarı",
             "B) (Birikimli tamamlanma oranı × Toplam sözleşme bedeli) − Önceki dönemlerde tanınan hasılat",
@@ -16563,7 +16563,7 @@ window.__C = {
             "D) Maliyet tutarına eşit"
           ],
           "a": 1,
-          "e": "TFRS 15 tamamlanma oranı: Dönem sonu tamamlanma oranı = birikimli maliyet / toplam tahmini maliyet. Birikimli hasılat = oran × toplam sözleşme bedeli. Dönem hasılatı = birikimli hasılat − önceki dönemlerde tanınan hasılat."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 tamamlanma oranı: Dönem sonu tamamlanma oranı = birikimli maliyet / toplam tahmini maliyet. Birikimli hasılat = oran × toplam sözleşme bedeli. Dönem hasılatı = birikimli hasılat − önceki dönemlerde tanınan hasılat."
         },
         {
           "q": "İnşaat şirketinde çalışmayan kısım giderleri nedir?",
@@ -16585,7 +16585,7 @@ window.__C = {
             "D) Garanti bedeli"
           ],
           "a": 1,
-          "e": "Hakediş (istihkak): Yüklenici belirli iş bölümlerini tamamladığında hazırladığı ve iş sahibinin kontrolöründe onaylanan belgedir. VUK'ta yıllara yaygın inşaatta gelir tanımanın tetikleyicisi değil avans niteliğinde. TFRS 15'te tamamlanma oranı hesabında görev alır."
+          "e": "Hakediş (istihkak): Yüklenici belirli iş bölümlerini tamamladığında hazırladığı ve iş sahibinin kontrolöründe onaylanan belgedir. VUK (vergi usul kanunu)'ta yıllara yaygın inşaatta gelir tanımanın tetikleyicisi değil avans niteliğinde. TFRS (türkiye finansal raporlama standartları) 15'te tamamlanma oranı hesabında görev alır."
         },
         {
           "q": "TMS 23 borçlanma maliyetleri inşaat muhasebesiyle nasıl ilişkilidir?",
@@ -16610,15 +16610,15 @@ window.__C = {
           "e": "Özel inşaatta bağımsız bölüm birim maliyeti: Toplam inşaat ve arsa maliyeti, her bölümün brüt/net alanına veya arsa payına göre dağıtılır. Daha büyük alana sahip bölüme daha fazla maliyet düşer. Bu dağıtım 152 Mamuller hesabında alt bölüm bazında izlenir."
         },
         {
-          "q": "TFRS 16 kapsamında bir fabrika için yapılan finansal kiralama (finance lease) ile faaliyet kiralaması (operating lease) artık nasıl ayrışıyor?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 16 kapsamında bir fabrika için yapılan finansal kiralama (finance lease) ile faaliyet kiralaması (operating lease) artık nasıl ayrışıyor?",
           "o": [
             "A) Ayrışım devam ediyor",
-            "B) TFRS 16 kiracı tarafında bu ayrımı kaldırdı — tüm kiralamalar use-right varlığı + borç olarak muhasebeleşiyor",
+            "B) TFRS (türkiye finansal raporlama standartları) 16 kiracı tarafında bu ayrımı kaldırdı — tüm kiralamalar use-right varlığı + borç olarak muhasebeleşiyor",
             "C) Yalnızca finansal kiralama bilançoya alınıyor",
-            "D) TFRS 16'da kiracı muhasebesi değişmedi"
+            "D) TFRS (türkiye finansal raporlama standartları) 16'da kiracı muhasebesi değişmedi"
           ],
           "a": 1,
-          "e": "TFRS 16 kiracı tarafında: Eski TMS 17'nin finansal kiralama / faaliyet kiralaması ayrımı kiracı açısından kaldırıldı. Tüm kiralamalar (kısa vadeli ve düşük değer muafiyetleri hariç) kullanım hakkı varlığı + kiralama borcu olarak muhasebeleştirilir. Kiraya veren tarafında ayrım devam etmektedir."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16 kiracı tarafında: Eski TMS 17'nin finansal kiralama / faaliyet kiralaması ayrımı kiracı açısından kaldırıldı. Tüm kiralamalar (kısa vadeli ve düşük değer muafiyetleri hariç) kullanım hakkı varlığı + kiralama borcu olarak muhasebeleştirilir. Kiraya veren tarafında ayrım devam etmektedir."
         },
         {
           "q": "İnşaat muhasebesi açısından 'şantiye giderleri' nasıl sınıflandırılır?",
@@ -16643,7 +16643,7 @@ window.__C = {
           "e": "TMS 2 md. 9: Stoklar maliyet ile net gerçekleşebilir değerin (NRV = tahmini satış fiyatı − tahmini tamamlama maliyetleri − tahmini satış maliyetleri) düşük olanıyla değerlenir. Daire maliyeti piyasa fiyatının üzerine çıkarsa değer düşüklüğü karşılığı ayrılır. TMS 2 LIFO'ya izin vermez."
         },
         {
-          "q": "Bir inşaat şirketinin inşaat makinelerini 36 ay kiraladığında TFRS 16 kapsamında ne olur?",
+          "q": "Bir inşaat şirketinin inşaat makinelerini 36 ay kiraladığında TFRS (türkiye finansal raporlama standartları) 16 kapsamında ne olur?",
           "o": [
             "A) Kira gideri olarak dönemlik kaydedilir",
             "B) Kullanım hakkı varlığı ve kiralama borcu tanınır — makine bilançoya alınır",
@@ -16651,7 +16651,7 @@ window.__C = {
             "D) 12 ayı aştığından muafiyet uygulanamaz ve kira gideri olmaz"
           ],
           "a": 1,
-          "e": "TFRS 16: 36 aylık kiralamanın süresi 12 ayı aştığından kısa vadeli kiralama muafiyeti uygulanamaz. Makine düşük değerli değilse bilançoya alınır: Kullanım Hakkı Varlığı + Kiralama Borcu. Dönemsel kayıt: amortisman gideri (makine) + faiz gideri (borç)."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16: 36 aylık kiralamanın süresi 12 ayı aştığından kısa vadeli kiralama muafiyeti uygulanamaz. Makine düşük değerli değilse bilançoya alınır: Kullanım Hakkı Varlığı + Kiralama Borcu. Dönemsel kayıt: amortisman gideri (makine) + faiz gideri (borç)."
         },
         {
           "q": "TMS 40 kapsamında yatırım amaçlı gayrimenkul alırken katlanılan borçlanma maliyeti aktifleştirilebilir mi?",
@@ -16673,18 +16673,18 @@ window.__C = {
             "D) Yalnızca kamu işleri için"
           ],
           "a": 1,
-          "e": "VUK md. 42: Birden fazla yıla yaygın inşaat ve onarma işi yapan mükellefler, her inşaat ve onarma işinin maliyetlerini ve hakedişlerini ayrı hesaplarda (ayrı defterde veya alt hesaplarda) takip etmek zorundadır. Ortak genel giderler ve amortismanlar ayrıca dağıtılır."
+          "e": "VUK (vergi usul kanunu) md. 42: Birden fazla yıla yaygın inşaat ve onarma işi yapan mükellefler, her inşaat ve onarma işinin maliyetlerini ve hakedişlerini ayrı hesaplarda (ayrı defterde veya alt hesaplarda) takip etmek zorundadır. Ortak genel giderler ve amortismanlar ayrıca dağıtılır."
         },
         {
           "q": "BOBİ FRS'de yıllara yaygın inşaat nasıl muhasebeleştirilir?",
           "o": [
             "A) TMS 11 gibi",
-            "B) BOBİ FRS'de tamamlanma oranı yöntemi uygulanır — TFRS 15 ile benzer yaklaşım, farklı ayrıntılar",
-            "C) VUK yöntemi aynı",
+            "B) BOBİ FRS'de tamamlanma oranı yöntemi uygulanır — TFRS (türkiye finansal raporlama standartları) 15 ile benzer yaklaşım, farklı ayrıntılar",
+            "C) VUK (vergi usul kanunu) yöntemi aynı",
             "D) İş bitiminde tanıma"
           ],
           "a": 1,
-          "e": "BOBİ FRS Bölüm 17 (Hasılat): Müşteri sözleşmelerinden hasılat tamamlanma oranına göre tanınır — TMS 11'in esaslarına benzer. Bunu 2018'de uygulamaya giren BOBİ FRS'yi uygulayan bağımsız denetime tabi ama KAYİK olmayan inşaat şirketleri için geçerli. TFRS 15'ten bazı basitleştirmeler var."
+          "e": "BOBİ FRS Bölüm 17 (Hasılat): Müşteri sözleşmelerinden hasılat tamamlanma oranına göre tanınır — TMS 11'in esaslarına benzer. Bunu 2018'de uygulamaya giren BOBİ FRS'yi uygulayan bağımsız denetime tabi ama KAYİK olmayan inşaat şirketleri için geçerli. TFRS (türkiye finansal raporlama standartları) 15'ten bazı basitleştirmeler var."
         }
       ],
       "t3": [
@@ -16692,12 +16692,12 @@ window.__C = {
           "q": "Tamamlanma oranı yöntemi ile iş bitiminde gelir yöntemi muhasebe farkı nedir?",
           "o": [
             "A) Aynı sonucu verir",
-            "B) Tamamlanma oranı her dönem hasılat/maliyet tanır (TFRS 15). İş bitimi yöntemi tüm geliri son dönemde tanır (VUK). Bu fark ertelenmiş vergi doğurur",
+            "B) Tamamlanma oranı her dönem hasılat/maliyet tanır (TFRS (türkiye finansal raporlama standartları) 15). İş bitimi yöntemi tüm geliri son dönemde tanır (VUK (vergi usul kanunu)). Bu fark ertelenmiş vergi doğurur",
             "C) Maliyet tutarı farklı olur",
             "D) Yalnızca hakediş döneminde fark var"
           ],
           "a": 1,
-          "e": "TFRS 15 tamamlanma oranı: her dönem tamamlanma payı kadar hasılat ve maliyet tanınır. VUK iş bitimi: tüm maliyetler 170-177'de, hakedişler 350-357'de birikir; yalnızca iş bitiminde kâr/zarar. Bu fark ertelenmiş vergi hesaplanmasını gerektirir."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 tamamlanma oranı: her dönem tamamlanma payı kadar hasılat ve maliyet tanınır. VUK (vergi usul kanunu) iş bitimi: tüm maliyetler 170-177'de, hakedişler 350-357'de birikir; yalnızca iş bitiminde kâr/zarar. Bu fark ertelenmiş vergi hesaplanmasını gerektirir."
         },
         {
           "q": "TMS 40'ta kullanımdan yatırım amaçlıya geçişte GUD modeli uygulanıyorsa ne olur?",
@@ -16714,7 +16714,7 @@ window.__C = {
           "q": "Yıllara yaygın inşaatta ortak genel giderlerin işler arasında dağıtım yöntemi nedir?",
           "o": [
             "A) Eşit paylaştırma",
-            "B) VUK md. 43: Her işe tahakkuk eden hakediş bedelinin toplam hakediş içindeki payı oranında dağıtılır",
+            "B) VUK (vergi usul kanunu) md. 43: Her işe tahakkuk eden hakediş bedelinin toplam hakediş içindeki payı oranında dağıtılır",
             "C) Maliyet büyüklüğüne göre",
             "D) İşçi sayısına göre"
           ],
@@ -16733,7 +16733,7 @@ window.__C = {
           "e": "Geçici fark ileride tersine döner ve ertelenmiş vergi doğurur. Sürekli fark (trafik cezası, bağış gibi kanunen kabul edilmeyen giderler) hiçbir zaman tersine dönmez. Cari dönem vergi yükümlülüğünü artırır ama ertelenmiş vergi hesaplanamaz."
         },
         {
-          "q": "TFRS 15 kapsamında inşaat sözleşmesinde beklenen zarar nasıl muhasebeleştirilir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15 kapsamında inşaat sözleşmesinde beklenen zarar nasıl muhasebeleştirilir?",
           "o": [
             "A) Yalnızca iş bitiminde",
             "B) Toplam tahmini maliyet sözleşme bedelini aşıyorsa beklenen zarar derhal tanınır (onerous contract)",
@@ -16741,7 +16741,7 @@ window.__C = {
             "D) Zararı tanımaya gerek yok"
           ],
           "a": 1,
-          "e": "TFRS 15 ve TMS 37: Toplam tahmini maliyetlerin toplam sözleşme bedelini aşacağı anlaşıldığında tahmini zararın tamamı o dönemde derhal gider yazılır. İhtiyatlılık ilkesinin somut uygulaması."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 ve TMS 37: Toplam tahmini maliyetlerin toplam sözleşme bedelini aşacağı anlaşıldığında tahmini zararın tamamı o dönemde derhal gider yazılır. İhtiyatlılık ilkesinin somut uygulaması."
         },
         {
           "q": "KDV tevkifatında inşaat taahhüt hizmetleri hangi kategoride?",
@@ -16758,12 +16758,12 @@ window.__C = {
           "q": "TMS 40 GUD modelindeki gayrimenkulün 'satış amaçlı' sınıflandırılması için şart nedir?",
           "o": [
             "A) Her zaman serbestçe",
-            "B) TFRS 5 şartları: aktif satış programı, hemen satılabilir, 1 yıl içinde satış olası",
+            "B) TFRS (türkiye finansal raporlama standartları) 5 şartları: aktif satış programı, hemen satılabilir, 1 yıl içinde satış olası",
             "C) Müşteri talebiyle",
             "D) Vergi dairesi onayıyla"
           ],
           "a": 1,
-          "e": "TFRS 5: Yatırım amaçlı gayrimenkul TFRS 5 kriterlerini sağlarsa satış amaçlıya sınıflandırılabilir: Yönetim satış kararı vermiş, aktif satış programı var, cari koşullarda hemen satılabilir, 1 yıl içinde satış bekleniyor. Bu sınıfta amortisman durur."
+          "e": "TFRS (türkiye finansal raporlama standartları) 5: Yatırım amaçlı gayrimenkul TFRS (türkiye finansal raporlama standartları) 5 kriterlerini sağlarsa satış amaçlıya sınıflandırılabilir: Yönetim satış kararı vermiş, aktif satış programı var, cari koşullarda hemen satılabilir, 1 yıl içinde satış bekleniyor. Bu sınıfta amortisman durur."
         },
         {
           "q": "İnşaat muhasebesi açısından 'arsa maliyeti' nasıl belirlenir?",
@@ -16777,7 +16777,7 @@ window.__C = {
           "e": "TMS 16: Arsa maliyeti = satın alma bedeli + tapu tescil masrafları + komisyon + diğer doğrudan maliyetler. Arsa karşılığı inşaatta alınan arsanın maliyeti verilen dairelerin gerçeğe uygun değerine eşittir. Arsa amortismana tabi değildir."
         },
         {
-          "q": "TFRS 16 kiralama değişikliği (lease modification) nasıl muhasebeleştirilir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 16 kiralama değişikliği (lease modification) nasıl muhasebeleştirilir?",
           "o": [
             "A) Her zaman yeni sözleşme",
             "B) Ayrı kiralama sayılıyorsa yeni kiralama. Sayılmıyorsa revize iskonto oranıyla kiralama borcu güncellenir",
@@ -16785,7 +16785,7 @@ window.__C = {
             "D) Gider olarak kaydedilir"
           ],
           "a": 1,
-          "e": "TFRS 16 md. 44: Kiralama değişikliği ayrı bir kiralamaysa yeni ayrı kiralama muhasebeleştirilir. Ayrı kiralama değilse revize iskonto oranıyla kiralama borcu yeniden ölçülür; fark kullanım hakkı varlığına yansıtılır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16 md. 44: Kiralama değişikliği ayrı bir kiralamaysa yeni ayrı kiralama muhasebeleştirilir. Ayrı kiralama değilse revize iskonto oranıyla kiralama borcu yeniden ölçülür; fark kullanım hakkı varlığına yansıtılır."
         },
         {
           "q": "İnşaat işletmesinde özel inşaat ile taahhüt işinin karışık yapıda yürütülmesinde muhasebe nasıl ayrıştırılır?",
@@ -16793,7 +16793,7 @@ window.__C = {
             "A) Tek hesapta izlenir",
             "B) Özel inşaat maliyetleri 151-152 mamul hesaplarında; taahhüt işleri 170-177 yıllara yaygın hesaplarında ayrı ayrı alt hesaplarla izlenir",
             "C) Büyük iş için seçim yapılır",
-            "D) VUK izin vermez"
+            "D) VUK (vergi usul kanunu) izin vermez"
           ],
           "a": 1,
           "e": "İki iş türü farklı muhasebe uygulamaları gerektirir. Özel inşaat: stok (151-152), hasılat satışta tanınır. Taahhüt işi: 170-177 maliyet, 350-357 hakediş, iş bitiminde hasılat. Her alt iş kodu ile ayrı izleme yapılır (171 Bina İnşaatı, 172 Köprü İnşaatı gibi)."
@@ -16807,10 +16807,10 @@ window.__C = {
             "D) Sabit fiyat yalnızca kamu ihalesinde"
           ],
           "a": 1,
-          "e": "Sabit fiyat sözleşmesi: Müteahhit sabit bedel için işi tamamlar; maliyet artışı riski müteahhittedir. Maliyet artı sözleşmesi: İş sahibi maliyetleri + sabit veya yüzdesel kâr öder; maliyet riski iş sahibindedir. Bu ayrım TFRS 15'te sözleşmenin muhasebeleştirilmesini, özellikle değişken bedelleri ve sözleşme kâr marjı tahminini etkiler."
+          "e": "Sabit fiyat sözleşmesi: Müteahhit sabit bedel için işi tamamlar; maliyet artışı riski müteahhittedir. Maliyet artı sözleşmesi: İş sahibi maliyetleri + sabit veya yüzdesel kâr öder; maliyet riski iş sahibindedir. Bu ayrım TFRS (türkiye finansal raporlama standartları) 15'te sözleşmenin muhasebeleştirilmesini, özellikle değişken bedelleri ve sözleşme kâr marjı tahminini etkiler."
         },
         {
-          "q": "TFRS 16 kullanım hakkı varlığının amortismanı kiralama süresinin sonunda değer sıfırlanır mı?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 16 kullanım hakkı varlığının amortismanı kiralama süresinin sonunda değer sıfırlanır mı?",
           "o": [
             "A) Evet, her zaman",
             "B) Varlığın değeri kiralama süresi sonuna veya faydalı ömrünün sonuna (hangisi daha kısa ise) kadar itfa edilir; sözleşme devralma seçeneği varsa faydalı ömür kullanılabilir",
@@ -16818,7 +16818,7 @@ window.__C = {
             "D) Kiraya veren belirler"
           ],
           "a": 1,
-          "e": "TFRS 16 md. 31: Kullanım hakkı varlığı, mülkiyet devri öngörülmüyorsa veya satın alma opsiyonu kullanılması kesin değilse, kiralama süresi sonuna veya faydalı ömrünün sonuna kadar (hangisi kısa ise) amortismana tabi tutulur. Mülkiyet devri veya satın alma opsiyonu kesinse faydalı ömrün sonuna kadar."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16 md. 31: Kullanım hakkı varlığı, mülkiyet devri öngörülmüyorsa veya satın alma opsiyonu kullanılması kesin değilse, kiralama süresi sonuna veya faydalı ömrünün sonuna kadar (hangisi kısa ise) amortismana tabi tutulur. Mülkiyet devri veya satın alma opsiyonu kesinse faydalı ömrün sonuna kadar."
         },
         {
           "q": "İnşaat muhasebesi açısından 'kalıplar ve iskele' gibi yeniden kullanılabilir ekipmanlar nasıl muhasebeleştirilir?",
@@ -16843,7 +16843,7 @@ window.__C = {
           "e": "TMS 37 Karşılıklar: İnşaat tamamlandığında garanti hizmetleri için tahmini maliyet karşılık olarak ayrılır. Koşullar: Mevcut yükümlülük var (yasal veya müteahhit taahhüdü), kaynakların çıkması muhtemel, güvenilir tahmin mümkün. Karşılık 654 Karşılık Giderleri / 379 Diğer Borç ve Gider Karşılıkları hesaplarına kaydedilir."
         },
         {
-          "q": "TFRS 15'te inşaat sözleşmesindeki 'değişiklikler' (contract modifications) nasıl muhasebeleştirilir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15'te inşaat sözleşmesindeki 'değişiklikler' (contract modifications) nasıl muhasebeleştirilir?",
           "o": [
             "A) Her zaman yeni sözleşme",
             "B) Ayrı sözleşme ise yeni sözleşme; değilse ya geriye dönük düzeltme ya da kalan edim yükümlülüğü için kümülatif düzeltme",
@@ -16851,7 +16851,7 @@ window.__C = {
             "D) İş bitiminde düzenlenir"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 18-21: Sözleşme değişikliği (ek iş, kapsam değişikliği): (1) Ayrı, farklılaştırılmış ek iş ve piyasa fiyatı → ayrı yeni sözleşme. (2) Ayrı değilse: Eski ve yeni birleştirme (kümülatif düzeltme) veya prospektif uygulama. Seçilen yöntem geriye dönük etkileri belirler."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 18-21: Sözleşme değişikliği (ek iş, kapsam değişikliği): (1) Ayrı, farklılaştırılmış ek iş ve piyasa fiyatı → ayrı yeni sözleşme. (2) Ayrı değilse: Eski ve yeni birleştirme (kümülatif düzeltme) veya prospektif uygulama. Seçilen yöntem geriye dönük etkileri belirler."
         },
         {
           "q": "Yıllara yaygın inşaatta zararla biten bir işte vergi durumu nedir?",
@@ -16862,7 +16862,7 @@ window.__C = {
             "D) Yalnızca son yıl"
           ],
           "a": 1,
-          "e": "GVK md. 42: Yıllara yaygın inşaatta kâr veya zarar işin bittiği yılda hesaplanır. Zarar söz konusu olduğunda işin bittiği yılın kurumlar vergisi matrahından indirilir. Cari yılda mahsup edilemeyen kısım, 5 yıl içinde sonraki yılların kârından mahsup edilebilir (VUK geçmiş yıl zararı mahsubu)."
+          "e": "GVK md. 42: Yıllara yaygın inşaatta kâr veya zarar işin bittiği yılda hesaplanır. Zarar söz konusu olduğunda işin bittiği yılın kurumlar vergisi matrahından indirilir. Cari yılda mahsup edilemeyen kısım, 5 yıl içinde sonraki yılların kârından mahsup edilebilir (VUK (vergi usul kanunu) geçmiş yıl zararı mahsubu)."
         },
         {
           "q": "TMS 40 kapsamında bir gayrimenkul hem kira hem de sahibi tarafından kullanılıyorsa nasıl muhasebeleştirilir?",
@@ -16870,7 +16870,7 @@ window.__C = {
             "A) Tamamı TMS 40",
             "B) Ayrıştırılabiliyorsa kira kısmı TMS 40, kullanım kısmı TMS 16. Ayrıştırılamıyorsa sahibi tarafından kullanılan ağırlıklıysa TMS 16",
             "C) Tamamı TMS 16",
-            "D) TFRS 15"
+            "D) TFRS (türkiye finansal raporlama standartları) 15"
           ],
           "a": 1,
           "e": "TMS 40 md. 10: Karma kullanım durumunda ayrıştırma yapılabiliyorsa kira kısmı TMS 40, kullanım kısmı TMS 16 kapsamında muhasebeleştirilir. Ayrıştırılamıyorsa: Yatırım amaçlı kısım önemsiz — tamamı TMS 16. Sahibi tarafından kullanılan kısım önemsiz — tamamı TMS 40. Bu değerlendirme kritik."
@@ -16906,7 +16906,7 @@ window.__C = {
             "D) Amortisman tablosuna göre"
           ],
           "a": 1,
-          "e": "TMS 16 md. 56: Faydalı ömür — işletmenin varlıktan yararlanmayı beklediği süre. Belirleyiciler: Beklenen kullanım yoğunluğu, fiziksel yıpranma, teknolojik eskime, bakım politikası, yasal veya benzeri kısıtlamalar. VUK amortisman süreleri referans alınabilir ama zorunlu değil. Faydalı ömür her yıl gözden geçirilir."
+          "e": "TMS 16 md. 56: Faydalı ömür — işletmenin varlıktan yararlanmayı beklediği süre. Belirleyiciler: Beklenen kullanım yoğunluğu, fiziksel yıpranma, teknolojik eskime, bakım politikası, yasal veya benzeri kısıtlamalar. VUK (vergi usul kanunu) amortisman süreleri referans alınabilir ama zorunlu değil. Faydalı ömür her yıl gözden geçirilir."
         }
       ],
       "t4": [
@@ -16919,21 +16919,21 @@ window.__C = {
             "D) Yalnızca satışta"
           ],
           "a": 1,
-          "e": "TMS 12 + TMS 40: GUD artışında defter değeri > VUK değeri. Vergilendirilebilir geçici fark → 489 Ertelenmiş Vergi Yükümlülüğü = fark × vergi oranı. 694 Ertelenmiş Vergi Gider Etkisi kâr/zarara alınır. GUD artışı 647 hesabına, ertelenmiş vergi gideri 694 hesabına — net etki küçülür."
+          "e": "TMS 12 + TMS 40: GUD artışında defter değeri > VUK (vergi usul kanunu) değeri. Vergilendirilebilir geçici fark → 489 Ertelenmiş Vergi Yükümlülüğü = fark × vergi oranı. 694 Ertelenmiş Vergi Gider Etkisi kâr/zarara alınır. GUD artışı 647 hesabına, ertelenmiş vergi gideri 694 hesabına — net etki küçülür."
         },
         {
           "q": "Mülkiyetinde olmayan bir yapı için kullanım hakkı varlığı oluşabilir mi?",
           "o": [
             "A) Hayır",
-            "B) Evet — TFRS 16 kapsamında kiralanan binanın kullanım hakkı varlığı kiracı bilançosunda tanınır; mülkiyet değil kullanım kontrolü esastır",
+            "B) Evet — TFRS (türkiye finansal raporlama standartları) 16 kapsamında kiralanan binanın kullanım hakkı varlığı kiracı bilançosunda tanınır; mülkiyet değil kullanım kontrolü esastır",
             "C) Yalnızca makine için",
             "D) Kira süresi 20 yılı aşmalı"
           ],
           "a": 1,
-          "e": "TFRS 16'nın temel ilkesi: Mülkiyet değil kontrol. Kiracı belirli bir varlığı belirli süre kullanmayı kontrol ediyorsa kullanım hakkı varlığı oluşur. Mülkiyet kiralayan kurumda kalır ama kiracı bilançosunda varlık ve borç tanınır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16'nın temel ilkesi: Mülkiyet değil kontrol. Kiracı belirli bir varlığı belirli süre kullanmayı kontrol ediyorsa kullanım hakkı varlığı oluşur. Mülkiyet kiralayan kurumda kalır ama kiracı bilançosunda varlık ve borç tanınır."
         },
         {
-          "q": "TFRS 15'in 5 adımında işlem fiyatının dağıtılması hangi durumda kritik?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15'in 5 adımında işlem fiyatının dağıtılması hangi durumda kritik?",
           "o": [
             "A) Her sözleşmede",
             "B) Tek sözleşmede birden fazla edim yükümlülüğü varsa — fiyat bağımsız satış fiyatları oranında dağıtılır",
@@ -16941,7 +16941,7 @@ window.__C = {
             "D) Hasılat 1 milyon TL üstünde"
           ],
           "a": 1,
-          "e": "TFRS 15 Adım 4: Sözleşmede birden fazla edim yükümlülüğü belirlendiğinde (örn. bina inşaatı + 5 yıl bakım servisi), işlem fiyatı bağımsız satış fiyatları oranında dağıtılır. Her edim için ayrı hasılat tanınır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 Adım 4: Sözleşmede birden fazla edim yükümlülüğü belirlendiğinde (örn. bina inşaatı + 5 yıl bakım servisi), işlem fiyatı bağımsız satış fiyatları oranında dağıtılır. Her edim için ayrı hasılat tanınır."
         },
         {
           "q": "Ertelenmiş vergi varlığının aktifleştirilmesi için temel koşul nedir?",
@@ -16985,7 +16985,7 @@ window.__C = {
             "D) Tamamlanan iş miktarı doğrudan"
           ],
           "a": 1,
-          "e": "TFRS 15 maliyet esaslı tamamlanma oranı: Birikimli gerçekleşen maliyet / Toplam tahmini maliyet = Tamamlanma oranı. Fiziksel tamamlanma veya mühendislik değerlendirmesi de kullanılabilir. VUK bu hesaplamayı kullanmaz."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 maliyet esaslı tamamlanma oranı: Birikimli gerçekleşen maliyet / Toplam tahmini maliyet = Tamamlanma oranı. Fiziksel tamamlanma veya mühendislik değerlendirmesi de kullanılabilir. VUK (vergi usul kanunu) bu hesaplamayı kullanmaz."
         },
         {
           "q": "TMS 12'de yeniden değerleme artışına ilişkin ertelenmiş vergi nerede raporlanır?",
@@ -17002,15 +17002,15 @@ window.__C = {
           "q": "İnşaat şirketinin hasılat gizlemesi yerine 'hasılat tanıma ilkesini' ihlal etmesi ne anlama gelir?",
           "o": [
             "A) Mümkün değil",
-            "B) TFRS 15 koşulları sağlanmadan hasılat tanınması veya sağlandığında tanınmaması — finansal tabloların yanıltıcı olması",
+            "B) TFRS (türkiye finansal raporlama standartları) 15 koşulları sağlanmadan hasılat tanınması veya sağlandığında tanınmaması — finansal tabloların yanıltıcı olması",
             "C) Yalnızca vergi kaçakçılığı",
             "D) Muhasebe hatası"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 9: Hasılat yalnızca müşteri sözleşmesinin 5 kriteri sağlandığında tanınır. Erken tanıma (edim henüz yerine getirilmeden) veya geç tanıma (edim yerine getirildi ama kaydedilmedi) finansal tabloların gerçeği yansıtmaması anlamına gelir. Bağımsız denetimde kritik inceleme noktası."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 9: Hasılat yalnızca müşteri sözleşmesinin 5 kriteri sağlandığında tanınır. Erken tanıma (edim henüz yerine getirilmeden) veya geç tanıma (edim yerine getirildi ama kaydedilmedi) finansal tabloların gerçeği yansıtmaması anlamına gelir. Bağımsız denetimde kritik inceleme noktası."
         },
         {
-          "q": "TFRS 16'da kiracının 'uzatma opsiyonu' nasıl değerlendirilir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 16'da kiracının 'uzatma opsiyonu' nasıl değerlendirilir?",
           "o": [
             "A) Dikkate alınmaz",
             "B) Uzatma opsiyonu kullanılması 'makul derecede kesin' ise kiralama süresine dahil edilir — borç ve varlık buna göre hesaplanır",
@@ -17018,7 +17018,7 @@ window.__C = {
             "D) Yalnızca sabit ödeme varsa"
           ],
           "a": 1,
-          "e": "TFRS 16 md. 19: Kiralama süresi belirlenirken uzatma opsiyonu dahil edilir eğer kiracı opsiyonu kullanması 'makul derecede kesin' (reasonably certain) ise. Bu değerlendirme önemli — uzatma opsiyonu dahil edilirse daha büyük borç ve varlık tanınır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16 md. 19: Kiralama süresi belirlenirken uzatma opsiyonu dahil edilir eğer kiracı opsiyonu kullanması 'makul derecede kesin' (reasonably certain) ise. Bu değerlendirme önemli — uzatma opsiyonu dahil edilirse daha büyük borç ve varlık tanınır."
         },
         {
           "q": "İnşaat taahhüt şirketinin iş bitiminde kâr/zarar muhasebesi nasıl yapılır?",
@@ -17029,7 +17029,7 @@ window.__C = {
             "D) Hakediş üzerinden her yıl"
           ],
           "a": 1,
-          "e": "VUK iş bitiminde muhasebe: İş bitiminde toplam maliyetler 170-177'den 622 Satılan Hizmet Maliyeti'ne aktarılır (borçlandırılır). Toplam hakedişler 350-357'den 600 Yurt İçi Satışlar'a aktarılır (borçlandırılır). 622 ile 600 arasındaki fark brüt kâr veya zararı oluşturur."
+          "e": "VUK (vergi usul kanunu) iş bitiminde muhasebe: İş bitiminde toplam maliyetler 170-177'den 622 Satılan Hizmet Maliyeti'ne aktarılır (borçlandırılır). Toplam hakedişler 350-357'den 600 Yurt İçi Satışlar'a aktarılır (borçlandırılır). 622 ile 600 arasındaki fark brüt kâr veya zararı oluşturur."
         },
         {
           "q": "TMS 37 kapsamında 'onerous contract' (ağır sözleşme) kavramı inşaatta nasıl uygulanır?",
@@ -17043,7 +17043,7 @@ window.__C = {
           "e": "TMS 37 md. 66-69: Bir sözleşmenin yerine getirilmesinin zorunlu maliyetleri beklenen faydaları aştığında ağır sözleşme (onerous contract) oluşur. İnşaatta: Tahmini maliyet > sözleşme bedeli. Beklenen zararın karşılığı derhal ayrılır; karşılık mevcut TMS 16 değer düşüklüğü veya varlık silme sonrası net yükümlülük için."
         },
         {
-          "q": "Bir inşaat şirketi faaliyet kiralaması altında kiralık ofis kullandığında TFRS 16 muhasebesi nasıl yapılır?",
+          "q": "Bir inşaat şirketi faaliyet kiralaması altında kiralık ofis kullandığında TFRS (türkiye finansal raporlama standartları) 16 muhasebesi nasıl yapılır?",
           "o": [
             "A) Kira gideri olarak kaydedilir",
             "B) Kullanım hakkı varlığı ve kiralama borcu tanınır; amortisman + faiz gideri; kısa vadeli veya düşük değer muafiyeti yoksa",
@@ -17051,7 +17051,7 @@ window.__C = {
             "D) TMS 17 uygulanır"
           ],
           "a": 1,
-          "e": "TFRS 16: Ofis kiralaması 12 ayı aşıyorsa ve düşük değerli değilse kullanım hakkı varlığı (252 Binalar*) + kiralama borcu (301/401) tanınır. Dönemsel: amortisman gideri + faiz gideri (780). Kısa vadeli muafiyet uygulanırsa yalnızca kira gideri (770 vb.)."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16: Ofis kiralaması 12 ayı aşıyorsa ve düşük değerli değilse kullanım hakkı varlığı (252 Binalar*) + kiralama borcu (301/401) tanınır. Dönemsel: amortisman gideri + faiz gideri (780). Kısa vadeli muafiyet uygulanırsa yalnızca kira gideri (770 vb.)."
         },
         {
           "q": "TMS 12 kapsamında bir inşaat şirketinin vergi beyannamesi ile muhasebe kârı arasındaki mutabakat nasıl yapılır?",
@@ -17062,10 +17062,10 @@ window.__C = {
             "D) KDV beyanında yapılır"
           ],
           "a": 1,
-          "e": "Vergi mutabakatı: Ticari kâr (muhasebe) başlangıç noktası. Eklenenler: KKEG (trafik cezası, bağış, kanunsuz gider). Çıkarılanlar: Vergiden muaf gelirler (iştirak kazancı istisnası, KVKK md. 5 istisnaları). Bu mutabakat TMS 12 dipnotlarında açıklanır."
+          "e": "Vergi mutabakatı: Ticari kâr (muhasebe) başlangıç noktası. Eklenenler: KKEG (trafik cezası, bağış, kanunsuz gider). Çıkarılanlar: Vergiden muaf gelirler (iştirak kazancı istisnası, KVKK (kişisel verilerin korunması kanunu) md. 5 istisnaları). Bu mutabakat TMS 12 dipnotlarında açıklanır."
         },
         {
-          "q": "TFRS 15 kapsamında inşaat taahhüt sözleşmesinden doğan 'sözleşmeyi yerine getirme maliyetleri' ne zaman aktifleştirilir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15 kapsamında inşaat taahhüt sözleşmesinden doğan 'sözleşmeyi yerine getirme maliyetleri' ne zaman aktifleştirilir?",
           "o": [
             "A) Her maliyet aktifleştirilir",
             "B) Doğrudan sözleşmeyle ilişkili, kaynakların tüketilmesini sağlayacak hasılat beklentisi olan ve başka standartta aktifleştirilmemişse",
@@ -17073,7 +17073,7 @@ window.__C = {
             "D) Sözleşme imzalandığında"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 95: Sözleşmeyi yerine getirme maliyetleri üç koşul sağlanırsa aktifleştirilir: (1) Doğrudan bu sözleşmeyle veya beklenen sözleşmeyle ilişkili. (2) Kaynakların tüketilmesiyle ileride hasılat elde edilecek. (3) Başka bir standartta (TMS 2, TMS 16) aktifleştirilmiyor. Örn. proje başlangıcındaki mobilizasyon maliyetleri."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 95: Sözleşmeyi yerine getirme maliyetleri üç koşul sağlanırsa aktifleştirilir: (1) Doğrudan bu sözleşmeyle veya beklenen sözleşmeyle ilişkili. (2) Kaynakların tüketilmesiyle ileride hasılat elde edilecek. (3) Başka bir standartta (TMS 2, TMS 16) aktifleştirilmiyor. Örn. proje başlangıcındaki mobilizasyon maliyetleri."
         },
         {
           "q": "İnşaat şirketinin kendi inşaatı için ürettiği makine ve ekipman nasıl muhasebeleştirilir?",
@@ -17095,7 +17095,7 @@ window.__C = {
             "D) SPK (sermaye piyasası kurulu) kaydı"
           ],
           "a": 1,
-          "e": "BOBİ FRS: Bağımsız denetime tabi olmakla birlikte KAYİK niteliğinde olmayan işletmeler için tasarlanmış Büyük ve Orta Boy İşletmeler için Finansal Raporlama Standardı. TMS/TFRS'nin basitleştirilmiş versiyonu. İnşaat şirketleri bağımsız denetim kapsamına giriyorsa ama halka açık değilse BOBİ FRS uygulayabilir."
+          "e": "BOBİ FRS: Bağımsız denetime tabi olmakla birlikte KAYİK niteliğinde olmayan işletmeler için tasarlanmış Büyük ve Orta Boy İşletmeler için Finansal Raporlama Standardı. TMS/TFRS (türkiye finansal raporlama standartları)'nin basitleştirilmiş versiyonu. İnşaat şirketleri bağımsız denetim kapsamına giriyorsa ama halka açık değilse BOBİ FRS uygulayabilir."
         },
         {
           "q": "İnşaat muhasebesinde 'iş grubu' kavramı nedir?",
@@ -17106,7 +17106,7 @@ window.__C = {
             "D) SGK işyeri kodu"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 17: Birden fazla sözleşme, belirli koşullar altında tek bir sözleşme olarak muhasebeleştirilebilir: Aynı zamanda veya aynı ticari amaçla müzakere edilmişse, sözleşmeler birbirinin fiyatını etkiliyorsa, mal ve hizmetler tek bir edim yükümlülüğü oluşturuyorsa. Bu iş gruplaması (contract combination) hasılat ve maliyeti etkiler."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 17: Birden fazla sözleşme, belirli koşullar altında tek bir sözleşme olarak muhasebeleştirilebilir: Aynı zamanda veya aynı ticari amaçla müzakere edilmişse, sözleşmeler birbirinin fiyatını etkiliyorsa, mal ve hizmetler tek bir edim yükümlülüğü oluşturuyorsa. Bu iş gruplaması (contract combination) hasılat ve maliyeti etkiler."
         },
         {
           "q": "İnşaat şirketinin düzenlediği finansal tablolarda 'yıllara yaygın inşaat ve onarım alacakları' bilançonun neresinde görünür?",
@@ -17117,7 +17117,7 @@ window.__C = {
             "D) Ertelenmiş gelirde"
           ],
           "a": 1,
-          "e": "Yıllara yaygın inşaat alacakları: Hakediş kesilmiş ama tahsil edilmemişse kısa vadeli ticari alacaklar (127). TFRS 15 kapsamında 140 Devam Eden İnşaat Sözleşmelerinden Alacaklar hesabı ayrıca kullanılabilir. Uzun vadeli (1 yılı aşan) kısım uzun vadeli alacaklarda. VUK sisteminde de benzer yerleşim."
+          "e": "Yıllara yaygın inşaat alacakları: Hakediş kesilmiş ama tahsil edilmemişse kısa vadeli ticari alacaklar (127). TFRS (türkiye finansal raporlama standartları) 15 kapsamında 140 Devam Eden İnşaat Sözleşmelerinden Alacaklar hesabı ayrıca kullanılabilir. Uzun vadeli (1 yılı aşan) kısım uzun vadeli alacaklarda. VUK (vergi usul kanunu) sisteminde de benzer yerleşim."
         },
         {
           "q": "TMS 40 kapsamında yatırım amaçlı gayrimenkul satışında kazanç nasıl hesaplanır?",
@@ -17133,29 +17133,29 @@ window.__C = {
       ],
       "t5": [
         {
-          "q": "Bir inşaat şirketi kiraladığı ekipmana TFRS 16 uygulamalı mı?",
+          "q": "Bir inşaat şirketi kiraladığı ekipmana TFRS (türkiye finansal raporlama standartları) 16 uygulamalı mı?",
           "o": [
             "A) Fark olmaz",
-            "B) TFRS 16 uygulanırsa ekipman bilançoya girer, faiz + amortisman; uygulanmazsa yalnızca kira gideri — farklı finansal oran ve bilanço yapısı",
-            "C) TFRS 16 opsiyonel",
+            "B) TFRS (türkiye finansal raporlama standartları) 16 uygulanırsa ekipman bilançoya girer, faiz + amortisman; uygulanmazsa yalnızca kira gideri — farklı finansal oran ve bilanço yapısı",
+            "C) TFRS (türkiye finansal raporlama standartları) 16 opsiyonel",
             "D) Yalnızca gayrimenkul için"
           ],
           "a": 1,
-          "e": "TFRS 16 uygulandığında: Bilançoda kullanım hakkı varlığı ve kiralama borcu. Gelir tablosunda faiz + amortisman (kira gideri yerine). EBITDA artar. Uygulanmadığında (muafiyet): Yalnızca kira gideri. Küçük kiralama tutarları veya kısa vadeli için pratik."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16 uygulandığında: Bilançoda kullanım hakkı varlığı ve kiralama borcu. Gelir tablosunda faiz + amortisman (kira gideri yerine). EBIT (faiz ve vergi öncesi kâr)DA (faiz, vergi, amortisman öncesi kâr) artar. Uygulanmadığında (muafiyet): Yalnızca kira gideri. Küçük kiralama tutarları veya kısa vadeli için pratik."
         },
         {
           "q": "İnşaat şirketinin yıllara yaygın hakediş alacakları için beklenen kredi zararı ayrılmalı mı?",
           "o": [
             "A) Ayrılmaz",
-            "B) TFRS 9 kapsamında hakediş alacakları beklenen kredi zararı ile değer düşüklüğüne tabidir — iş sahibinin temerrüt riski gözetilerek",
+            "B) TFRS (türkiye finansal raporlama standartları) 9 kapsamında hakediş alacakları beklenen kredi zararı ile değer düşüklüğüne tabidir — iş sahibinin temerrüt riski gözetilerek",
             "C) Yalnızca gecikmiş alacaklar için",
-            "D) VUK'ta ayrılır"
+            "D) VUK (vergi usul kanunu)'ta ayrılır"
           ],
           "a": 1,
-          "e": "TFRS 9 Finansal Araçlar: Ticari alacaklar (hakediş alacakları dahil) beklenen kredi zararı (ECL) ile değer düşüklüğüne tabi tutulur. İş sahibinin kredi kalitesi, gecikme geçmişi dikkate alınarak karşılık ayrılır. TMS/TFRS uygulayan inşaat şirketleri için zorunlu."
+          "e": "TFRS (türkiye finansal raporlama standartları) 9 Finansal Araçlar: Ticari alacaklar (hakediş alacakları dahil) beklenen kredi zararı (ECL) ile değer düşüklüğüne tabi tutulur. İş sahibinin kredi kalitesi, gecikme geçmişi dikkate alınarak karşılık ayrılır. TMS/TFRS (türkiye finansal raporlama standartları) uygulayan inşaat şirketleri için zorunlu."
         },
         {
-          "q": "TFRS 15'te değişken bedeller (bonus/ceza klozları) inşaat sözleşmesinde nasıl muhasebeleştirilir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15'te değişken bedeller (bonus/ceza klozları) inşaat sözleşmesinde nasıl muhasebeleştirilir?",
           "o": [
             "A) Her zaman hasılata dahil edilir",
             "B) Beklenen değer veya en olası tutar tahmin edilir — geri dönüşü son derece muhtemel olmayan kısım hasılata alınmaz (kısıtlama ilkesi)",
@@ -17163,7 +17163,7 @@ window.__C = {
             "D) İhtilafsız kısım dahil edilmez"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 50-58: Değişken bedeller (erken tamamlama bonusu, gecikme cezası) hasılata dahil edilirken kısıtlama ilkesi: geri dönüşü son derece muhtemel olmayan tutarlar alınmaz. Beklenen değer veya en olası tutar yöntemi kullanılır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 50-58: Değişken bedeller (erken tamamlama bonusu, gecikme cezası) hasılata dahil edilirken kısıtlama ilkesi: geri dönüşü son derece muhtemel olmayan tutarlar alınmaz. Beklenen değer veya en olası tutar yöntemi kullanılır."
         },
         {
           "q": "İnşaat şirketinde ertelenmiş vergi geliri ne zaman doğar?",
@@ -17177,7 +17177,7 @@ window.__C = {
           "e": "Ertelenmiş vergi geliri: (1) Yeni indirilebilir geçici fark oluşması (kıdem tazminatı, değer düşüklüğü). (2) Mevcut vergilendirilebilir geçici farkın azalması. (3) Vergi oranının düşmesi. 289 Ertelenmiş Vergi Varlığı artar, 693 kâr/zarara → dönem kârı artar."
         },
         {
-          "q": "TFRS Yorum 12 (İmtiyazlı Hizmet Anlaşmaları) inşaat muhasebesinde nasıl uygulanır?",
+          "q": "TFRS (türkiye finansal raporlama standartları) Yorum 12 (İmtiyazlı Hizmet Anlaşmaları) inşaat muhasebesinde nasıl uygulanır?",
           "o": [
             "A) Özel kural yok",
             "B) YİD (BOT) projelerinde operator varlığı finansal varlık veya maddi olmayan duran varlık olarak muhasebeleştirir; TMS 16'dan farklı",
@@ -17185,7 +17185,7 @@ window.__C = {
             "D) TMS 40 kapsamı"
           ],
           "a": 1,
-          "e": "TFRS Yorum 12: YİD (BOT) gibi imtiyazlı hizmet anlaşmalarında yüklenici (operator), altyapı varlığını finansal varlık modeli (garanti ile nakit tahsilat hakkı) veya maddi olmayan duran varlık modeli (kullanım hakkı) olarak muhasebeleştirir. Hangi model uygulanacağı sözleşme koşullarına göre belirlenir."
+          "e": "TFRS (türkiye finansal raporlama standartları) Yorum 12: YİD (BOT) gibi imtiyazlı hizmet anlaşmalarında yüklenici (operator), altyapı varlığını finansal varlık modeli (garanti ile nakit tahsilat hakkı) veya maddi olmayan duran varlık modeli (kullanım hakkı) olarak muhasebeleştirir. Hangi model uygulanacağı sözleşme koşullarına göre belirlenir."
         },
         {
           "q": "Bir inşaat şirketinin sattığı daireler hangi standartta?",
@@ -17193,13 +17193,13 @@ window.__C = {
             "A) TMS 40",
             "B) TMS 2 Stoklar — satış amacıyla üretilen daireler stoktur. Kira/değer artışı için tutulan TMS 40",
             "C) Her zaman TMS 16",
-            "D) TFRS 15 kapsamında"
+            "D) TFRS (türkiye finansal raporlama standartları) 15 kapsamında"
           ],
           "a": 1,
           "e": "TMS 2 Stoklar: İnşaat şirketinin normal faaliyeti kapsamında sattığı daireler/arsalar stoklardır. TMS 40: kiraya verilmek veya değer kazanmak amacıyla tutulan mülk. Aynı şirket bazı daireleri satarken bazılarını kiraya verirse: satılacaklar TMS 2, kiraya verilenler TMS 40."
         },
         {
-          "q": "TFRS 15'te inşaat sözleşmesinde edim yükümlülükleri nasıl belirlenir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15'te inşaat sözleşmesinde edim yükümlülükleri nasıl belirlenir?",
           "o": [
             "A) Sözleşme sayısına göre",
             "B) Her vaat edilen mal veya hizmet, ayrı tanımlanabilir ve bağımsız fayda sağlıyorsa ayrı edim yükümlülüğüdür",
@@ -17207,7 +17207,7 @@ window.__C = {
             "D) Hakediş sayısına göre"
           ],
           "a": 1,
-          "e": "TFRS 15 Adım 2: Her vaat edilen mal/hizmet, müşteri bağımsız fayda sağlayabiliyorsa ve sözleşme bağlamında diğer vaatlerden ayrı tanımlanabiliyorsa ayrı edim yükümlülüğü. İnşaatta: yapım işi tek edim olabilir veya yapım + bakım hizmeti iki ayrı edim."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 Adım 2: Her vaat edilen mal/hizmet, müşteri bağımsız fayda sağlayabiliyorsa ve sözleşme bağlamında diğer vaatlerden ayrı tanımlanabiliyorsa ayrı edim yükümlülüğü. İnşaatta: yapım işi tek edim olabilir veya yapım + bakım hizmeti iki ayrı edim."
         },
         {
           "q": "TMS 12 kapsamında ertelenmiş vergi varlığı ve yükümlülüğü ne zaman netleştirilebilir?",
@@ -17224,12 +17224,12 @@ window.__C = {
           "q": "İnşaat işletmesinde 'şerefiye' (Goodwill) muhasebesi hangi standartta düzenlenir?",
           "o": [
             "A) TMS 16",
-            "B) TFRS 3 İşletme Birleşmeleri — başka inşaat şirketi satın alındığında ödeme > net varlıklar farkı şerefiye",
+            "B) TFRS (türkiye finansal raporlama standartları) 3 İşletme Birleşmeleri — başka inşaat şirketi satın alındığında ödeme > net varlıklar farkı şerefiye",
             "C) TMS 2",
             "D) TMS 40"
           ],
           "a": 1,
-          "e": "TFRS 3: Bir inşaat şirketi başka bir şirketi satın aldığında, ödenen bedel net tanımlanan varlıkların gerçeğe uygun değerinden fazlaysa fark şerefiye (goodwill) olarak aktifleştirilir. Şerefiye amortismana tabi tutulmaz; her yıl değer düşüklüğü testi (TMS 36) yapılır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 3: Bir inşaat şirketi başka bir şirketi satın aldığında, ödenen bedel net tanımlanan varlıkların gerçeğe uygun değerinden fazlaysa fark şerefiye (goodwill) olarak aktifleştirilir. Şerefiye amortismana tabi tutulmaz; her yıl değer düşüklüğü testi (TMS 36) yapılır."
         },
         {
           "q": "Bir inşaat sözleşmesinde sözleşme maliyetleri nelerdir ve ne zaman aktifleştirilir?",
@@ -17240,10 +17240,10 @@ window.__C = {
             "D) İşçilik maliyeti"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 91-95: Sözleşme maliyetleri iki grup: (1) Sözleşmeyi elde etme maliyetleri (satış komisyonları) — sözleşme kazanılırsa aktifleştirilir, aksi gider. (2) Sözleşmeyi yerine getirme maliyetleri — doğrudan ilişkili, gelecekte geri kazanılacak ve başka standartta aktifleştirilmiyorsa aktifleştirilir. Her ikisi de hasılatla uyumlu sürede itfa edilir."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 91-95: Sözleşme maliyetleri iki grup: (1) Sözleşmeyi elde etme maliyetleri (satış komisyonları) — sözleşme kazanılırsa aktifleştirilir, aksi gider. (2) Sözleşmeyi yerine getirme maliyetleri — doğrudan ilişkili, gelecekte geri kazanılacak ve başka standartta aktifleştirilmiyorsa aktifleştirilir. Her ikisi de hasılatla uyumlu sürede itfa edilir."
         },
         {
-          "q": "İnşaat şirketinin kümülatif hasılatı TFRS 15'e göre fazla tanımış olduğu anlaşılırsa ne yapılır?",
+          "q": "İnşaat şirketinin kümülatif hasılatı TFRS (türkiye finansal raporlama standartları) 15'e göre fazla tanımış olduğu anlaşılırsa ne yapılır?",
           "o": [
             "A) Düzeltme yapılmaz",
             "B) Tanınan fazla hasılat, düzeltme yapıldığı dönemde kümülatif etkiyle geri alınır — TMS 8 muhasebe hatası veya tahmin değişikliği hükümleri",
@@ -17251,7 +17251,7 @@ window.__C = {
             "D) Vergi dairesine bildirilir"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 57: Hasılat tanıma önceki dönemde aşıldıysa ve bu bir muhasebe hatasıysa TMS 8 hata düzeltmesi (geriye dönük) uygulanır. Tahmin değişikliğiyse TMS 8 prospektif yaklaşım kullanılır. Düzeltme döneminin finansal tablolarında ilgili sözleşme varlığı/yükümlülüğü revize edilir."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 57: Hasılat tanıma önceki dönemde aşıldıysa ve bu bir muhasebe hatasıysa TMS 8 hata düzeltmesi (geriye dönük) uygulanır. Tahmin değişikliğiyse TMS 8 prospektif yaklaşım kullanılır. Düzeltme döneminin finansal tablolarında ilgili sözleşme varlığı/yükümlülüğü revize edilir."
         },
         {
           "q": "TMS 40 GUD modelinde değerleme kim tarafından yapılabilir?",
@@ -17265,15 +17265,15 @@ window.__C = {
           "e": "TMS 40 md. 32: Bağımsız ve yetkin profesyonel değerleme uzmanı kullanımı teşvik edilir ama zorunlu değildir. Uzman, mülkün konumu ve kategorisi hakkında yeterli bilgi ve deneyime sahip olmalıdır. Türkiye'de halka açık şirketlerde ise SPK (sermaye piyasası kurulu) yetkili değerleme kuruluşu zorunludur. İç değerleme için yeterli belgeleme ve kamuya açıklama gerekir."
         },
         {
-          "q": "TFRS 16'da kiraya verenin muhasebesi nasıldır?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 16'da kiraya verenin muhasebesi nasıldır?",
           "o": [
-            "A) TFRS 16 kiraya vereni etkilemez",
+            "A) TFRS (türkiye finansal raporlama standartları) 16 kiraya vereni etkilemez",
             "B) Kiraya veren: finansal kiralamada net yatırım (alacak), faaliyet kiralamada varlığı bilançoda tutar ve kira geliri tanır — TMS 17'den büyük fark yok",
             "C) Kiraya veren de kiracıyla aynı",
             "D) Kiraya veren yalnızca kira geliri kaydeder"
           ],
           "a": 1,
-          "e": "TFRS 16 kiraya veren tarafında: TMS 17'den büyük farklılık yok. Finansal kiralama: Kiraya veren net yatırım olarak (alacak) muhasebeleştirir. Faaliyet kiralaması: Kiraya veren varlığı bilançosunda tutar, kira geliri düzenli olarak tanır. Kiracı tarafındaki köklü değişiklik kiraya verende yoktur."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16 kiraya veren tarafında: TMS 17'den büyük farklılık yok. Finansal kiralama: Kiraya veren net yatırım olarak (alacak) muhasebeleştirir. Faaliyet kiralaması: Kiraya veren varlığı bilançosunda tutar, kira geliri düzenli olarak tanır. Kiracı tarafındaki köklü değişiklik kiraya verende yoktur."
         },
         {
           "q": "TMS 12 kapsamında vergi oranı değiştiğinde ertelenmiş vergi nasıl revize edilir?",
@@ -17317,10 +17317,10 @@ window.__C = {
             "D) Uzun vadeli borç altında"
           ],
           "a": 1,
-          "e": "TFRS 10 Konsolide Finansal Tablolar: Bağlı ortaklıklarda azınlık payları (kontrol gücü olmayan paylar) ana ortaklığın özkaynak payından ayrı olarak özkaynak bölümünde gösterilir. Kâr/zararda da ana ortaklık payı ve azınlık payı ayrı ayrı sunulur. Büyük inşaat grupları için önemli konsolidasyon muhasebesi."
+          "e": "TFRS (türkiye finansal raporlama standartları) 10 Konsolide Finansal Tablolar: Bağlı ortaklıklarda azınlık payları (kontrol gücü olmayan paylar) ana ortaklığın özkaynak payından ayrı olarak özkaynak bölümünde gösterilir. Kâr/zararda da ana ortaklık payı ve azınlık payı ayrı ayrı sunulur. Büyük inşaat grupları için önemli konsolidasyon muhasebesi."
         },
         {
-          "q": "TFRS 15'e göre 'önemli finansman bileşeni' inşaat sözleşmesinde ne zaman dikkate alınır?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15'e göre 'önemli finansman bileşeni' inşaat sözleşmesinde ne zaman dikkate alınır?",
           "o": [
             "A) Her sözleşmede",
             "B) Sözleşme bedeli ödeme zamanlaması finansmana benzer avantaj/dezavantaj yaratıyorsa — 1 yılı aşan finansman etkisi ayarlanır",
@@ -17328,7 +17328,7 @@ window.__C = {
             "D) Hiçbir zaman"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 60-65: Ödeme zamanlaması ile performans zamanlaması arasındaki fark önemli finansman bileşeni içeriyorsa işlem fiyatı faiz etkisi için ayarlanır. Önemli finansman bileşeni değerlendirmesinde 1 yıl pratik kolaylığı: 1 yılı geçmeyecekse ayarlama zorunlu değil. İnşaatta uzun vadeli geç tahsilat veya çok önceden alınan avanslar bu kapsamda."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 60-65: Ödeme zamanlaması ile performans zamanlaması arasındaki fark önemli finansman bileşeni içeriyorsa işlem fiyatı faiz etkisi için ayarlanır. Önemli finansman bileşeni değerlendirmesinde 1 yıl pratik kolaylığı: 1 yılı geçmeyecekse ayarlama zorunlu değil. İnşaatta uzun vadeli geç tahsilat veya çok önceden alınan avanslar bu kapsamda."
         },
         {
           "q": "İnşaat taahhüt işinde 'beklenti yöntemi' ile 'en olası değer yöntemi' ne zaman tercih edilir?",
@@ -17339,7 +17339,7 @@ window.__C = {
             "D) Standart belirtmiyor"
           ],
           "a": 1,
-          "e": "TFRS 15 md. 53: Beklenti değeri (probability weighted) — çok sayıda olası sonuç varken (farklı tamamlanma seviyeleri için farklı bonus dilimleri). En olası değer — yalnızca iki olası sonuç varken (bonus tam kazanılır veya kazanılmaz). Seçilen yöntem tutarlı uygulanmalı."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15 md. 53: Beklenti değeri (probability weighted) — çok sayıda olası sonuç varken (farklı tamamlanma seviyeleri için farklı bonus dilimleri). En olası değer — yalnızca iki olası sonuç varken (bonus tam kazanılır veya kazanılmaz). Seçilen yöntem tutarlı uygulanmalı."
         },
         {
           "q": "İnşaat şirketinin yapım aşamasındaki binası 252 Binalar yerine hangi hesapta izlenir?",
@@ -18029,15 +18029,15 @@ window.__C = {
           "e": "2942 sayılı Kamulaştırma Kanunu md. 27: Acele kamulaştırma — Cumhurbaşkanı kararıyla uygulanır. Özellikle büyük altyapı projeleri, enerji tesisleri, afet sonrası imar için kullanılır. Normal 45 günlük uzlaşma prosedürü beklenilmeden idare taşınmaza elkoyabilir; ancak bedel tespiti ve tescil davası açılır. Kamulaştırma bedeli sonradan mahkemece belirlenir."
         },
         {
-          "q": "Türkiye'de GYO'ların (Gayrimenkul Yatırım Ortaklığı) taşınmaz satışında kurumlar vergisi istisnası var mıdır?",
+          "q": "Türkiye'de GYO (gayrimenkul yatırım ortaklığı)'ların (Gayrimenkul Yatırım Ortaklığı) taşınmaz satışında kurumlar vergisi istisnası var mıdır?",
           "o": [
-            "A) GYO'lar için özel istisna yok",
-            "B) GYO'lar kurumlar vergisinden zaten muaf olduğundan satış kazancı da vergisiz — ayrıca %50 istisna uygulanmaz",
-            "C) GYO'lara ek %75 istisna uygulanır",
-            "D) GYO'lar tüm satışlarda %20 KDV öder"
+            "A) GYO (gayrimenkul yatırım ortaklığı)'lar için özel istisna yok",
+            "B) GYO (gayrimenkul yatırım ortaklığı)'lar kurumlar vergisinden zaten muaf olduğundan satış kazancı da vergisiz — ayrıca %50 istisna uygulanmaz",
+            "C) GYO (gayrimenkul yatırım ortaklığı)'lara ek %75 istisna uygulanır",
+            "D) GYO (gayrimenkul yatırım ortaklığı)'lar tüm satışlarda %20 KDV öder"
           ],
           "a": 1,
-          "e": "5520 sayılı KVK md. 5/1-d: GYO'ların portföylerindeki taşınmazlardan elde ettikleri kazançlar kurumlar vergisinden istisnadır (tam muafiyet). GYO zaten kurumlar vergisi mükellefi olmadığından ayrıca %50 satış kazancı istisnasına ihtiyaç yoktur. Bu muafiyet GYO'nun en temel vergi avantajıdır."
+          "e": "5520 sayılı KVK md. 5/1-d: GYO (gayrimenkul yatırım ortaklığı)'ların portföylerindeki taşınmazlardan elde ettikleri kazançlar kurumlar vergisinden istisnadır (tam muafiyet). GYO (gayrimenkul yatırım ortaklığı) zaten kurumlar vergisi mükellefi olmadığından ayrıca %50 satış kazancı istisnasına ihtiyaç yoktur. Bu muafiyet GYO (gayrimenkul yatırım ortaklığı)'nun en temel vergi avantajıdır."
         },
         {
           "q": "Tapu sicilinde 'kat irtifakı' kurulması için iskan belgesi gerekli midir?",
@@ -18127,7 +18127,7 @@ window.__C = {
             "D) Yalnızca vergi değeri kullanılır"
           ],
           "a": 1,
-          "e": "KDV Kanunu md. 27: Bedeli bulunmayan veya bilinmeyen işlemler ile bedelin emsale göre açıkça düşük olduğu hallerde matrah emsal bedel esasına göre belirlenir. Emsal bedeli VUK hükümlerine göre tespit edilir. Arsa karşılığı inşaat sözleşmelerinde arsa tesliminin KDV matrahı emsaline göre hesaplanır."
+          "e": "KDV Kanunu md. 27: Bedeli bulunmayan veya bilinmeyen işlemler ile bedelin emsale göre açıkça düşük olduğu hallerde matrah emsal bedel esasına göre belirlenir. Emsal bedeli VUK (vergi usul kanunu) hükümlerine göre tespit edilir. Arsa karşılığı inşaat sözleşmelerinde arsa tesliminin KDV matrahı emsaline göre hesaplanır."
         },
         {
           "q": "Kamulaştırmada mahkeme aşamasında bilirkişi raporunun içermesi gereken temel unsurlar nelerdir?",
@@ -18561,12 +18561,12 @@ window.__C = {
       {
         "num": "04",
         "title": "Değerleme Yöntemleri",
-        "body": "<ul><li><strong>Pazar yaklaşımı yöntemleri:</strong> Emsal karşılaştırma — fiziksel özellikler, konum, zaman farklarına göre düzeltme. Endeks metodu — fiyat endeksiyle eskiye güncelleme. Regresyon analizi — çoklu değişkenle pazar değeri modeli.</li><li><strong>Gelir yaklaşımı yöntemleri:</strong> Doğrudan kapitalizasyon — Net Faaliyet Geliri / Kapitalizasyon Oranı (V = NOI / R). İndirgenmiş nakit akışı (İNA/DCF) — gelecek nakit akışlarının bugünkü değerine indirgenmesi. Kâr yöntemi — işletme kârından arsa ve yapı değeri çıkarılır. Artık yöntem — geliştirme projelerinde GDV − geliştirme maliyeti.</li><li><strong>Maliyet yaklaşımı yöntemleri:</strong> Yeniden inşa maliyeti (kopya yapı bedeli) veya yenileme maliyeti (eşdeğer fayda). Aşınma türleri: Fiziksel yıpranma (kullanım), İşlevsel eskime (işlevsel yetersizlik), Ekonomik eskime (dış faktörler). Yapı değeri = Maliyet × (1 − Aşınma Oranı).</li><li><strong>Toplu değerleme:</strong> Hedonik değerleme (konut özelliklerinin katkısını ölçer), çoklu regresyon, CBS (coğrafi bilgi sistemi), yapay sinir ağları, bulanık mantık. Kitlesel değerleme ve vergi amaçlı kullanılır.</li><li><strong>Proje değerleme teknikleri:</strong> Geri ödeme süresi, net bugünkü değer (NBD), iç verim oranı (İVO), kârlılık endeksi. NBD > 0 ve İVO > iskonto oranı ise proje kabul edilir.</li></ul>"
+        "body": "<ul><li><strong>Pazar yaklaşımı yöntemleri:</strong> Emsal karşılaştırma — fiziksel özellikler, konum, zaman farklarına göre düzeltme. Endeks metodu — fiyat endeksiyle eskiye güncelleme. Regresyon analizi — çoklu değişkenle pazar değeri modeli.</li><li><strong>Gelir yaklaşımı yöntemleri:</strong> Doğrudan kapitalizasyon — Net Faaliyet Geliri / Kapitalizasyon Oranı (V = NOI / R). İndirgenmiş nakit akışı (İNA/DCF (indirgenmiş nakit akışı)) — gelecek nakit akışlarının bugünkü değerine indirgenmesi. Kâr yöntemi — işletme kârından arsa ve yapı değeri çıkarılır. Artık yöntem — geliştirme projelerinde GDV − geliştirme maliyeti.</li><li><strong>Maliyet yaklaşımı yöntemleri:</strong> Yeniden inşa maliyeti (kopya yapı bedeli) veya yenileme maliyeti (eşdeğer fayda). Aşınma türleri: Fiziksel yıpranma (kullanım), İşlevsel eskime (işlevsel yetersizlik), Ekonomik eskime (dış faktörler). Yapı değeri = Maliyet × (1 − Aşınma Oranı).</li><li><strong>Toplu değerleme:</strong> Hedonik değerleme (konut özelliklerinin katkısını ölçer), çoklu regresyon, CBS (coğrafi bilgi sistemi), yapay sinir ağları, bulanık mantık. Kitlesel değerleme ve vergi amaçlı kullanılır.</li><li><strong>Proje değerleme teknikleri:</strong> Geri ödeme süresi, net bugünkü değer (NBD), iç verim oranı (İVO), kârlılık endeksi. NBD > 0 ve İVO > iskonto oranı ise proje kabul edilir.</li></ul>"
       },
       {
         "num": "05",
         "title": "Değerleme Matematiği — Paranın Zaman Değeri",
-        "body": "<ul><li><strong>Temel formüller:</strong> Basit faiz: GD = BD × (1 + i × n). Bileşik faiz: GD = BD × (1 + i)ⁿ. Bugünkü değer: BD = GD / (1 + i)ⁿ. Sürekli bileşikleşme: GD = BD × eʳⁿ.</li><li><strong>Efektif faiz oranı:</strong> Yıl içinde m dönemde bileşik faiz uygulanırsa: (1 + r/m)ᵐ − 1. Örn. aylık %1 ise yıllık efektif = (1.01)¹² − 1 ≈ %12,68.</li><li><strong>Anüite formülleri:</strong> Süreli anüite bugünkü değeri: BD = PMT × [1 − (1+i)⁻ⁿ] / i. Süreli anüite gelecek değeri: GD = PMT × [(1+i)ⁿ − 1] / i. Süresiz anüite: BD = PMT / i (Gordon büyüme modeli: BD = PMT / (i − g)).</li><li><strong>Kredi geri ödeme:</strong> Sabit taksitli (eşit ödeme) — aylık taksit = Kredi × [i(1+i)ⁿ / ((1+i)ⁿ−1)]. Her taksitte faiz ve anapara payı değişir. Erken ödeme, değişken faiz, enflasyon endeksli kredi uygulamaları özel formüllerle hesaplanır.</li><li><strong>İNA (DCF) analizi:</strong> V = Σ [CF_t / (1+r)ᵗ] + [Terminal değer / (1+r)ⁿ]. Terminal değer = NOI_(n+1) / (R − g). Doğru iskonto oranı seçimi değerlemenin kritik noktası.</li></ul>"
+        "body": "<ul><li><strong>Temel formüller:</strong> Basit faiz: GD = BD × (1 + i × n). Bileşik faiz: GD = BD × (1 + i)ⁿ. Bugünkü değer: BD = GD / (1 + i)ⁿ. Sürekli bileşikleşme: GD = BD × eʳⁿ.</li><li><strong>Efektif faiz oranı:</strong> Yıl içinde m dönemde bileşik faiz uygulanırsa: (1 + r/m)ᵐ − 1. Örn. aylık %1 ise yıllık efektif = (1.01)¹² − 1 ≈ %12,68.</li><li><strong>Anüite formülleri:</strong> Süreli anüite bugünkü değeri: BD = PMT × [1 − (1+i)⁻ⁿ] / i. Süreli anüite gelecek değeri: GD = PMT × [(1+i)ⁿ − 1] / i. Süresiz anüite: BD = PMT / i (Gordon büyüme modeli: BD = PMT / (i − g)).</li><li><strong>Kredi geri ödeme:</strong> Sabit taksitli (eşit ödeme) — aylık taksit = Kredi × [i(1+i)ⁿ / ((1+i)ⁿ−1)]. Her taksitte faiz ve anapara payı değişir. Erken ödeme, değişken faiz, enflasyon endeksli kredi uygulamaları özel formüllerle hesaplanır.</li><li><strong>İNA (DCF (indirgenmiş nakit akışı)) analizi:</strong> V = Σ [CF_t / (1+r)ᵗ] + [Terminal değer / (1+r)ⁿ]. Terminal değer = NOI_(n+1) / (R − g). Doğru iskonto oranı seçimi değerlemenin kritik noktası.</li></ul>"
       },
       {
         "num": "06",
@@ -18585,8 +18585,8 @@ window.__C = {
       },
       {
         "num": "09",
-        "title": "GYO, GYF ve Menkul Kıymetleştirme Araçları",
-        "body": "<ul><li><strong>GYO portföy yapısı:</strong> Gayrimenkul, arazi, proje, hak ve alacaklar, sermaye piyasası araçları. En az %51 gayrimenkul zorunluluğu. Kamuya ilan edilen portföy tabloları.</li><li><strong>GYO işlem kısıtları:</strong> Bizzat inşaat yapamaz, adi ortaklık hariç işletme faaliyeti yürütemez. Portföy dışı gayrimenkul alamaz. İlişkili taraf işlemleri sınırı.</li><li><strong>Menkul kıymetleştirme süreci:</strong> Alacaklar SPV'ye devredilir → SPV menkul kıymet ihraç eder → yatırımcılara satılır → ihraççı bilançosu küçülür. Dilim (tranche) yapısı: kıdemli (senior) — düşük risk/getiri, mezzanine, junior (equity). Kredi geliştirme mekanizmaları: fazla teminat, yedek fon, sigorta.</li><li><strong>İDMK ve VDMK farkı:</strong> İDMK konut ipoteği havuzuna dayalı, Fannie Mae/Freddie Mac modeli. VDMK'da alacaklar ihraççının bilançosundan çıkar (gerçek satış). VTMK'da ihraççı bilançosunda kalır — covered bond.</li><li><strong>Gayrimenkul sertifikası:</strong> Belirli bir projenin belirli bir bölümünü temsil eder. Proje tamamlandığında sertifika sahibi bağımsız bölüm alabilir veya nakit karşılığı satabilir. SPK (sermaye piyasası kurulu) düzenlemesi.</li></ul>"
+        "title": "GYO (gayrimenkul yatırım ortaklığı), GYF (gayrimenkul yatırım fonu) ve Menkul Kıymetleştirme Araçları",
+        "body": "<ul><li><strong>GYO (gayrimenkul yatırım ortaklığı) portföy yapısı:</strong> Gayrimenkul, arazi, proje, hak ve alacaklar, sermaye piyasası araçları. En az %51 gayrimenkul zorunluluğu. Kamuya ilan edilen portföy tabloları.</li><li><strong>GYO (gayrimenkul yatırım ortaklığı) işlem kısıtları:</strong> Bizzat inşaat yapamaz, adi ortaklık hariç işletme faaliyeti yürütemez. Portföy dışı gayrimenkul alamaz. İlişkili taraf işlemleri sınırı.</li><li><strong>Menkul kıymetleştirme süreci:</strong> Alacaklar SPV'ye devredilir → SPV menkul kıymet ihraç eder → yatırımcılara satılır → ihraççı bilançosu küçülür. Dilim (tranche) yapısı: kıdemli (senior) — düşük risk/getiri, mezzanine, junior (equity). Kredi geliştirme mekanizmaları: fazla teminat, yedek fon, sigorta.</li><li><strong>İDMK ve VDMK farkı:</strong> İDMK konut ipoteği havuzuna dayalı, Fannie Mae/Freddie Mac modeli. VDMK'da alacaklar ihraççının bilançosundan çıkar (gerçek satış). VTMK'da ihraççı bilançosunda kalır — covered bond.</li><li><strong>Gayrimenkul sertifikası:</strong> Belirli bir projenin belirli bir bölümünü temsil eder. Proje tamamlandığında sertifika sahibi bağımsız bölüm alabilir veya nakit karşılığı satabilir. SPK (sermaye piyasası kurulu) düzenlemesi.</li></ul>"
       }
     ],
     "tests": {
@@ -18669,7 +18669,7 @@ window.__C = {
           "e": "NOI hesabında dahil edilmeyen kalemler: Amortisman (muhasebe kalemi, nakit çıkışı yok), ipotek faiz/anapara ödemeleri (finansman kararı), kişisel gelir vergisi. NOI = PBG − Boşluk − Tahsilat + Diğer gelirler − Faaliyet giderleri."
         },
         {
-          "q": "GYO portföyünde gayrimenkul yatırımı en az kaç olmalıdır?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı) portföyünde gayrimenkul yatırımı en az kaç olmalıdır?",
           "o": [
             "A) %25",
             "B) %33",
@@ -18677,7 +18677,7 @@ window.__C = {
             "D) %75"
           ],
           "a": 2,
-          "e": "SPK (sermaye piyasası kurulu) düzenlemesine göre GYO portföyü en az %51'i gayrimenkul, gayrimenkule dayalı haklar ve gayrimenkul projelerinden oluşmalıdır."
+          "e": "SPK (sermaye piyasası kurulu) düzenlemesine göre GYO (gayrimenkul yatırım ortaklığı) portföyü en az %51'i gayrimenkul, gayrimenkule dayalı haklar ve gayrimenkul projelerinden oluşmalıdır."
         },
         {
           "q": "Tasfiye değeri ile pazar değeri farkı nedir?",
@@ -18801,7 +18801,7 @@ window.__C = {
           "e": "Kâr yöntemi: Mülk değerinin işletme kârıyla doğrudan bağlantılı olduğu özel amaçlı mülklerde kullanılır. Adımlar: İşletme kârı − işletmeci kârı = gayrimenkule atfedilen kâr → kapitalize edilir."
         },
         {
-          "q": "İNA (DCF) yöntemi ne zaman tercih edilir?",
+          "q": "İNA (DCF (indirgenmiş nakit akışı)) yöntemi ne zaman tercih edilir?",
           "o": [
             "A) Mülk değişmiyorsa",
             "B) Değişken nakit akışları, geliştirme projeleri ve yatırımcıya özgü analizlerde",
@@ -18809,7 +18809,7 @@ window.__C = {
             "D) Yalnızca konut değerlemesinde"
           ],
           "a": 1,
-          "e": "İNA/DCF: Gelecek nakit akışlarını bugünkü değere indirgeyerek değer bulur. Değişken kira akışı, geliştirme projesi, uzun dönem projeksiyon gereken durumlarda tercih edilir."
+          "e": "İNA/DCF (indirgenmiş nakit akışı): Gelecek nakit akışlarını bugünkü değere indirgeyerek değer bulur. Değişken kira akışı, geliştirme projesi, uzun dönem projeksiyon gereken durumlarda tercih edilir."
         }
       ],
       "t2": [
@@ -18968,15 +18968,15 @@ window.__C = {
           "e": "Kat irtifakı: Yapı tamamlanmamış, proje aşamasındaki bölümler üzerinde kurulan hak. Kat mülkiyeti: İskan alındıktan sonra tamamlanmış bağımsız bölümler üzerinde tam mülkiyet. Değerleme açısından kat irtifakı aşamasındaki yapılar farklı risk taşır."
         },
         {
-          "q": "GYO ile doğrudan gayrimenkul yatırımı arasındaki fark nedir?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı) ile doğrudan gayrimenkul yatırımı arasındaki fark nedir?",
           "o": [
             "A) İkisi aynıdır",
-            "B) GYO likit (borsada işlem görür), düşük sermayeyle çeşitlendirme sağlar; doğrudan yatırım likit değil, yüksek işlem maliyeti ama tam kontrol",
-            "C) GYO daha riskli",
+            "B) GYO (gayrimenkul yatırım ortaklığı) likit (borsada işlem görür), düşük sermayeyle çeşitlendirme sağlar; doğrudan yatırım likit değil, yüksek işlem maliyeti ama tam kontrol",
+            "C) GYO (gayrimenkul yatırım ortaklığı) daha riskli",
             "D) Doğrudan yatırım daha fazla getiri"
           ],
           "a": 1,
-          "e": "GYO avantajları: Borsa likiditesi, küçük yatırım miktarı, çeşitlendirme, şeffaflık. Dezavantajları: kontrol yok, piyasa volatilitesi. Doğrudan yatırım: Tam kontrol, vergi optimizasyonu imkânı, düşük likidite, yüksek işlem maliyeti."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) avantajları: Borsa likiditesi, küçük yatırım miktarı, çeşitlendirme, şeffaflık. Dezavantajları: kontrol yok, piyasa volatilitesi. Doğrudan yatırım: Tam kontrol, vergi optimizasyonu imkânı, düşük likidite, yüksek işlem maliyeti."
         },
         {
           "q": "Konut Finansmanı Kanunu'na göre konut finansmanı kapsamına giren işlemler nelerdir?",
@@ -19066,7 +19066,7 @@ window.__C = {
             "D) TCMB (türkiye cumhuriyet merkez bankası) ve SPK (sermaye piyasası kurulu)"
           ],
           "a": 1,
-          "e": "SPK (sermaye piyasası kurulu): GYO, GYF ve sermaye piyasası işlemleri için değerleme, yetkili kuruluş listesi, değerleme uzmanı lisansları. BDDK (bankacılık düzenleme ve denetleme kurumu): Banka ipotekli kredi değerlemesi için ayrı kuruluş listesi."
+          "e": "SPK (sermaye piyasası kurulu): GYO (gayrimenkul yatırım ortaklığı), GYF (gayrimenkul yatırım fonu) ve sermaye piyasası işlemleri için değerleme, yetkili kuruluş listesi, değerleme uzmanı lisansları. BDDK (bankacılık düzenleme ve denetleme kurumu): Banka ipotekli kredi değerlemesi için ayrı kuruluş listesi."
         },
         {
           "q": "RICS Kırmızı Kitap (Red Book) nedir?",
@@ -19124,15 +19124,15 @@ window.__C = {
           "e": "Gayrimenkul riskleri: Likidite (hızlı nakde çevrilememesi), pazar değeri düşüşü, boşluk/kira kaybı, çevresel, yasal (imar değişikliği), geliştirme (maliyet aşımı), faiz oranı. Çeşitlendirme ve sigorta ile azaltılabilir."
         },
         {
-          "q": "GYF ile GYO arasındaki temel fark nedir?",
+          "q": "GYF (gayrimenkul yatırım fonu) ile GYO (gayrimenkul yatırım ortaklığı) arasındaki temel fark nedir?",
           "o": [
             "A) İkisi aynıdır",
-            "B) GYF nitelikli yatırımcılara yönelik, halka arz edilmez, portföy yönetim şirketi tarafından yönetilir. GYO halka açık, borsada işlem görür",
-            "C) GYF daha büyük portföy",
-            "D) GYO vergi öder, GYF ödemez"
+            "B) GYF (gayrimenkul yatırım fonu) nitelikli yatırımcılara yönelik, halka arz edilmez, portföy yönetim şirketi tarafından yönetilir. GYO (gayrimenkul yatırım ortaklığı) halka açık, borsada işlem görür",
+            "C) GYF (gayrimenkul yatırım fonu) daha büyük portföy",
+            "D) GYO (gayrimenkul yatırım ortaklığı) vergi öder, GYF (gayrimenkul yatırım fonu) ödemez"
           ],
           "a": 1,
-          "e": "GYO: Halka açık anonim ortaklık, borsada işlem görür, kurumlar vergisi muafiyeti, portföy %51+ gayrimenkul. GYF: Nitelikli yatırımcı fonu, halka arz yok, portföy yönetim şirketi yönetir, daha geniş yatırım kapsamı."
+          "e": "GYO (gayrimenkul yatırım ortaklığı): Halka açık anonim ortaklık, borsada işlem görür, kurumlar vergisi muafiyeti, portföy %51+ gayrimenkul. GYF (gayrimenkul yatırım fonu): Nitelikli yatırımcı fonu, halka arz yok, portföy yönetim şirketi yönetir, daha geniş yatırım kapsamı."
         },
         {
           "q": "Dışsallık ilkesi değerlemede nasıl uygulanır?",
@@ -19437,12 +19437,12 @@ window.__C = {
           "q": "Banka değerleme raporunun SPK (sermaye piyasası kurulu) değerleme raporundan farkı nedir?",
           "o": [
             "A) İkisi aynıdır",
-            "B) Banka (BDDK (bankacılık düzenleme ve denetleme kurumu)) değerlemesi ipotek kredisi için mülkün piyasa değeri ve likit değerini belirler; SPK (sermaye piyasası kurulu) değerlemesi GYO/GYF gibi sermaye piyasası işlemleri için daha kapsamlı analiz",
+            "B) Banka (BDDK (bankacılık düzenleme ve denetleme kurumu)) değerlemesi ipotek kredisi için mülkün piyasa değeri ve likit değerini belirler; SPK (sermaye piyasası kurulu) değerlemesi GYO (gayrimenkul yatırım ortaklığı)/GYF (gayrimenkul yatırım fonu) gibi sermaye piyasası işlemleri için daha kapsamlı analiz",
             "C) Banka raporu daha ayrıntılı",
             "D) SPK (sermaye piyasası kurulu) raporu özel sektör için"
           ],
           "a": 1,
-          "e": "BDDK (bankacılık düzenleme ve denetleme kurumu) değerleme: Birincil olarak ipotek teminatlı kredi için piyasa değeri ve likidite değerini belirler. LTV hesabı için kritik. SPK (sermaye piyasası kurulu) değerleme: GYO portföyü, GYF, halka arz, birleşme vb. sermaye piyasası işlemleri için. Genellikle daha kapsamlı pazar ve gelir analizi içerir. Her iki raporun format gereksinimleri farklı."
+          "e": "BDDK (bankacılık düzenleme ve denetleme kurumu) değerleme: Birincil olarak ipotek teminatlı kredi için piyasa değeri ve likidite değerini belirler. LTV hesabı için kritik. SPK (sermaye piyasası kurulu) değerleme: GYO (gayrimenkul yatırım ortaklığı) portföyü, GYF (gayrimenkul yatırım fonu), halka arz, birleşme vb. sermaye piyasası işlemleri için. Genellikle daha kapsamlı pazar ve gelir analizi içerir. Her iki raporun format gereksinimleri farklı."
         },
         {
           "q": "Planlı alanlar imar yönetmeliğinde ön bahçe mesafesi mülk değerini nasıl etkiler?",
@@ -19551,7 +19551,7 @@ window.__C = {
             "A) Hisse senedi çeşidi",
             "B) Belirli bir projenin gelirinin teminat oluşturduğu, projenin nakit akışlarına dayalı menkul kıymet",
             "C) Devlet tahvili",
-            "D) GYO hissesi"
+            "D) GYO (gayrimenkul yatırım ortaklığı) hissesi"
           ],
           "a": 1,
           "e": "PDMK: Proje gelirleri SPV'ye devredilir, SPV menkul kıymet ihraç eder. Gayrimenkul projesi bağımsız bölüm satış gelirleri veya kira gelirleri teminat. SPK (sermaye piyasası kurulu) düzenlemesi."
@@ -19612,7 +19612,7 @@ window.__C = {
           "e": "Değerleme bağımsızlığını tehdit eden durumlar: Ücretin değere bağlanması (sonuca dayalı ücret). Müşterinin belirli bir değer talep etmesi (amaçlı değerleme). Değerleme uzmanının mülkte çıkar ilişkisi. Bunlar TDUB meslek kuralları ve RICS/IVSC etik ilkelerine aykırı. Bağımsız değerleme güven ve tarafsızlık gerektirir."
         },
         {
-          "q": "Kira gelirine dayalı değerleme ile hisse senedi değerlemesi (DCF) arasındaki benzerlik nedir?",
+          "q": "Kira gelirine dayalı değerleme ile hisse senedi değerlemesi (DCF (indirgenmiş nakit akışı)) arasındaki benzerlik nedir?",
           "o": [
             "A) Hiçbir benzerlik yok",
             "B) Her ikisi de gelecek nakit akışlarını bugünkü değere indirgeyerek değer hesaplar — iskonto oranı seçimi her ikisinde de kritik",
@@ -19620,7 +19620,7 @@ window.__C = {
             "D) Hisse senedi daha karmaşık"
           ],
           "a": 1,
-          "e": "Gayrimenkul İNA ve hisse senedi DCF benzerliği: Her ikisinde de değer = Σ gelecek CF / (1+r)ᵗ. Gayrimenkul: Kira akışı + terminal değer. Hisse: Temettü veya serbest nakit akışı + terminal değer. Temel fark: Gayrimenkul fiziksel varlıkla desteklenmiş, heterojen, daha az likit. İskonto oranı belirleme metodolojisi farklı."
+          "e": "Gayrimenkul İNA ve hisse senedi DCF (indirgenmiş nakit akışı) benzerliği: Her ikisinde de değer = Σ gelecek CF / (1+r)ᵗ. Gayrimenkul: Kira akışı + terminal değer. Hisse: Temettü veya serbest nakit akışı + terminal değer. Temel fark: Gayrimenkul fiziksel varlıkla desteklenmiş, heterojen, daha az likit. İskonto oranı belirleme metodolojisi farklı."
         },
         {
           "q": "'Kira Getirisi' (Rental Yield) ve 'Kapitalizasyon Oranı' farkı nedir?",
@@ -19645,15 +19645,15 @@ window.__C = {
           "e": "Enflasyona endeksli kredi: Anapara bakiyesi veya taksit tutarı belirli dönemlerde (örn. yıllık) enflasyon oranına endekslenerek güncellenir. Başlangıç taksidi düşük ama nominal tutar artabilir. Borç veren enflasyon riskinden korunur. Türkiye'de yüksek enflasyon dönemlerinde konut kredilerinde uygulanabilir."
         },
         {
-          "q": "Gayrimenkul yatırım ortaklığı (GYO) kurumlar vergisi muafiyetinin şartı nedir?",
+          "q": "Gayrimenkul yatırım ortaklığı (GYO (gayrimenkul yatırım ortaklığı)) kurumlar vergisi muafiyetinin şartı nedir?",
           "o": [
             "A) Şart yok",
-            "B) GYO portföy sınırlamalarına ve SPK (sermaye piyasası kurulu) düzenlemelerine uyum, halka açık ortaklık olması, kazancın büyük bölümünün dağıtılması",
+            "B) GYO (gayrimenkul yatırım ortaklığı) portföy sınırlamalarına ve SPK (sermaye piyasası kurulu) düzenlemelerine uyum, halka açık ortaklık olması, kazancın büyük bölümünün dağıtılması",
             "C) Yalnızca konut portföyü",
             "D) BDDK (bankacılık düzenleme ve denetleme kurumu) lisansı"
           ],
           "a": 1,
-          "e": "GYO kurumlar vergisi muafiyeti: SPK (sermaye piyasası kurulu)'nın belirlediği portföy kısıtlamalarına uyum (min %51 gayrimenkul). Halka açık anonim ortaklık statüsü. Bizzat inşaat ve işletme yasağına uyum. Belirli oranın ötesindeki kâr dağıtımı (pay sahiplerine). Bu muafiyet GYO'nun ana vergi avantajı ve yatırımcılara çekicilik sağlar."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) kurumlar vergisi muafiyeti: SPK (sermaye piyasası kurulu)'nın belirlediği portföy kısıtlamalarına uyum (min %51 gayrimenkul). Halka açık anonim ortaklık statüsü. Bizzat inşaat ve işletme yasağına uyum. Belirli oranın ötesindeki kâr dağıtımı (pay sahiplerine). Bu muafiyet GYO (gayrimenkul yatırım ortaklığı)'nun ana vergi avantajı ve yatırımcılara çekicilik sağlar."
         },
         {
           "q": "Değerleme raporunda yer alan 'sonuç' bölümünde neler bulunmalıdır?",
@@ -19667,18 +19667,18 @@ window.__C = {
           "e": "Sonuç bölümü: Nihai değer (TL cinsinden, yazıyla). Değerleme tarihi. Kullanılan değer esası (pazar değeri, yatırım değeri vb.). Önemli varsayımlar ve sınırlayıcı koşullar. Değerleme uzmanının beyanı, imzası, lisans bilgisi. Varsa değerleme kuruluşu bilgisi. Bu bölüm raporun en kritik kısmıdır."
         },
         {
-          "q": "Derecelendirme tartışması: GYO hissesi değerlemesi ile GYO portföyündeki mülk değerlemesi arasındaki ilişki nedir?",
+          "q": "Derecelendirme tartışması: GYO (gayrimenkul yatırım ortaklığı) hissesi değerlemesi ile GYO (gayrimenkul yatırım ortaklığı) portföyündeki mülk değerlemesi arasındaki ilişki nedir?",
           "o": [
             "A) İkisi aynıdır",
-            "B) Mülk (NAV) değerleme portföydeki taşınmazların piyasa değerini verir. GYO hissesi ise NAV'a prim veya iskonto ile işlem görebilir",
-            "C) Hisse değeri her zaman NAV'dan yüksek",
-            "D) Hisse değeri ile NAV ilgisiz"
+            "B) Mülk (NAV (net varlık değeri)) değerleme portföydeki taşınmazların piyasa değerini verir. GYO (gayrimenkul yatırım ortaklığı) hissesi ise NAV (net varlık değeri)'a prim veya iskonto ile işlem görebilir",
+            "C) Hisse değeri her zaman NAV (net varlık değeri)'dan yüksek",
+            "D) Hisse değeri ile NAV (net varlık değeri) ilgisiz"
           ],
           "a": 1,
-          "e": "NAV (Net Varlık Değeri) analizi: GYO portföyündeki tüm taşınmazların değerleme değeri − borçlar = NAV. Teorik olarak GYO hissesi NAV/pay olmalı. Uygulamada: NAV iskontosu (hisse NAV'ın altında) — yönetim kalitesi, likidite, pazar duyarlılığı. NAV primi (hisse NAV'ın üzerinde) — büyüme beklentisi, nadir portföy, yönetim kalitesi."
+          "e": "NAV (Net Varlık Değeri) analizi: GYO (gayrimenkul yatırım ortaklığı) portföyündeki tüm taşınmazların değerleme değeri − borçlar = NAV (net varlık değeri). Teorik olarak GYO (gayrimenkul yatırım ortaklığı) hissesi NAV (net varlık değeri)/pay olmalı. Uygulamada: NAV (net varlık değeri) iskontosu (hisse NAV (net varlık değeri)'ın altında) — yönetim kalitesi, likidite, pazar duyarlılığı. NAV (net varlık değeri) primi (hisse NAV (net varlık değeri)'ın üzerinde) — büyüme beklentisi, nadir portföy, yönetim kalitesi."
         },
         {
-          "q": "GYO halka arzında bağımsız değerleme nasıl kullanılır?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı) halka arzında bağımsız değerleme nasıl kullanılır?",
           "o": [
             "A) Kullanılmaz",
             "B) Portföydeki tüm taşınmazlar yetkili değerleme kuruluşu tarafından değerlenerek izahname ve halka arz fiyatı belirlenir",
@@ -19686,7 +19686,7 @@ window.__C = {
             "D) Banka tarafından yapılır"
           ],
           "a": 1,
-          "e": "GYO halka arzında değerleme: Portföydeki tüm mülkler SPK (sermaye piyasası kurulu) listesindeki yetkili değerleme kuruluşu tarafından değerlenir. Değerleme raporu halka arz izahnamesine eklenir. NAV belirlenir ve halka arz fiyatı bu değere göre belirlenir. Portföy değerlemesi yılda en az bir kez yenilenir."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) halka arzında değerleme: Portföydeki tüm mülkler SPK (sermaye piyasası kurulu) listesindeki yetkili değerleme kuruluşu tarafından değerlenir. Değerleme raporu halka arz izahnamesine eklenir. NAV (net varlık değeri) belirlenir ve halka arz fiyatı bu değere göre belirlenir. Portföy değerlemesi yılda en az bir kez yenilenir."
         },
         {
           "q": "Değerleme matematiğinde 'kredi portföyünün satılması' ne anlama gelir?",
@@ -19717,7 +19717,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Dönen Varlıklar ve Duran Varlıklar",
-        "body": "<ul><li><strong>Dönen varlıklar (1XX):</strong> 1 yılda veya normal faaliyet döneminde paraya çevrilmesi öngörülen varlıklar. Hazır değerler (kasa, banka), menkul kıymetler, ticari alacaklar, stoklar.</li><li><strong>Alacaklar:</strong> Ticari alacaklar (120-129) ve diğer alacaklar (130-139). Şüpheli alacak karşılığı (129): değer düşüklüğüne göre ayrılır; gider yazılır.</li><li><strong>Stoklar:</strong> İlk madde, yarı mamul, mamul, ticari mal. Değerleme yöntemleri: FIFO, ağırlıklı ortalama, sabit maliyet (TMS-2). Stok değer düşüklüğü karşılığı.</li><li><strong>Duran varlıklar (2XX):</strong> 1 yıldan uzun süre işletmede kullanılan varlıklar. Maddi: arsa, bina, makine, taşıt, demirbaş. Maddi olmayan: patent, lisans, şerefiye (TFRS-3).</li><li><strong>Amortisman:</strong> Maddi duran varlıkların maliyetinin faydalı ömre yayılması. Normal/doğrusal, azalan bakiyeler ve üretim miktarı yöntemleri (TMS-16). Amortisman = gider; birikmiş amortisman = aktif düzenleyici hesap.</li></ul>"
+        "body": "<ul><li><strong>Dönen varlıklar (1XX):</strong> 1 yılda veya normal faaliyet döneminde paraya çevrilmesi öngörülen varlıklar. Hazır değerler (kasa, banka), menkul kıymetler, ticari alacaklar, stoklar.</li><li><strong>Alacaklar:</strong> Ticari alacaklar (120-129) ve diğer alacaklar (130-139). Şüpheli alacak karşılığı (129): değer düşüklüğüne göre ayrılır; gider yazılır.</li><li><strong>Stoklar:</strong> İlk madde, yarı mamul, mamul, ticari mal. Değerleme yöntemleri: FIFO, ağırlıklı ortalama, sabit maliyet (TMS-2). Stok değer düşüklüğü karşılığı.</li><li><strong>Duran varlıklar (2XX):</strong> 1 yıldan uzun süre işletmede kullanılan varlıklar. Maddi: arsa, bina, makine, taşıt, demirbaş. Maddi olmayan: patent, lisans, şerefiye (TFRS (türkiye finansal raporlama standartları)-3).</li><li><strong>Amortisman:</strong> Maddi duran varlıkların maliyetinin faydalı ömre yayılması. Normal/doğrusal, azalan bakiyeler ve üretim miktarı yöntemleri (TMS-16). Amortisman = gider; birikmiş amortisman = aktif düzenleyici hesap.</li></ul>"
       },
       {
         "num": "04",
@@ -19732,22 +19732,22 @@ window.__C = {
       {
         "num": "06",
         "title": "Finansal Raporlamaya İlişkin Kavramsal Çerçeve",
-        "body": "<ul><li><strong>Finansal raporlamanın amacı (IASB Çerçevesi):</strong> Mevcut ve potansiyel yatırımcılara, borç verenlere ve diğer alacaklılara faydalı finansal bilgi sunmak. Genel amaçlı finansal raporlama.</li><li><strong>Temel niteliksel özellikler:</strong> İhtiyaca uygunluk (önemlilik dahil) ve gerçeğe uygun sunum (eksiksizlik, tarafsızlık, hatasızlık).</li><li><strong>Destekleyici niteliksel özellikler:</strong> Karşılaştırılabilirlik, doğrulanabilirlik, zamanında sunum, anlaşılabilirlik.</li><li><strong>Finansal tablo kalemlerinin tahakkuku:</strong> Varlık veya yükümlülük UFRS tanımını karşılıyorsa ve gelecekte ekonomik fayda muhtemel ise finansal tablolara alınır.</li><li><strong>Ölçüm esasları:</strong> Tarihi maliyet, cari maliyet, gerçekleşebilir değer, kullanım değeri, bugünkü değer, gerçeğe uygun değer.</li></ul>"
+        "body": "<ul><li><strong>Finansal raporlamanın amacı (IASB Çerçevesi):</strong> Mevcut ve potansiyel yatırımcılara, borç verenlere ve diğer alacaklılara faydalı finansal bilgi sunmak. Genel amaçlı finansal raporlama.</li><li><strong>Temel niteliksel özellikler:</strong> İhtiyaca uygunluk (önemlilik dahil) ve gerçeğe uygun sunum (eksiksizlik, tarafsızlık, hatasızlık).</li><li><strong>Destekleyici niteliksel özellikler:</strong> Karşılaştırılabilirlik, doğrulanabilirlik, zamanında sunum, anlaşılabilirlik.</li><li><strong>Finansal tablo kalemlerinin tahakkuku:</strong> Varlık veya yükümlülük UFRS (uluslararası finansal raporlama standartları) tanımını karşılıyorsa ve gelecekte ekonomik fayda muhtemel ise finansal tablolara alınır.</li><li><strong>Ölçüm esasları:</strong> Tarihi maliyet, cari maliyet, gerçekleşebilir değer, kullanım değeri, bugünkü değer, gerçeğe uygun değer.</li></ul>"
       },
       {
         "num": "07",
-        "title": "TMS/TFRS — Türkiye Muhasebe ve Finansal Raporlama Standartları",
-        "body": "<ul><li><strong>TMS/TFRS yapısı:</strong> KGK (Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu) tarafından yayımlanır. IASB'nin IAS/IFRS standartlarının Türkçe uyarlaması.</li><li><strong>Temel TMS'ler:</strong> TMS 1 (Finansal Tabloların Sunuluşu), TMS 2 (Stoklar), TMS 7 (Nakit Akış Tablosu), TMS 16 (Maddi Duran Varlıklar), TMS 17/TFRS 16 (Kiralama İşlemleri), TMS 18/TFRS 15 (Hasılat), TMS 19 (Çalışanlara Sağlanan Faydalar), TMS 21 (Kur Farkları), TMS 36 (Varlıklarda Değer Düşüklüğü), TMS 38 (Maddi Olmayan Duran Varlıklar).</li><li><strong>Temel TFRS'ler:</strong> TFRS 3 (İşletme Birleşmeleri), TFRS 7 (Finansal Araçlar: Açıklamalar), TFRS 9 (Finansal Araçlar), TFRS 15 (Müşteri Sözleşmelerinden Hasılat), TFRS 16 (Kiralamalar).</li><li><strong>SPK (sermaye piyasası kurulu)'ya tabi şirketler:</strong> Finansal tablolarını TMS/TFRS'ye uygun hazırlamak zorundadır. II-14.1 sayılı Tebliğ bunu düzenler.</li></ul>"
+        "title": "TMS/TFRS (türkiye finansal raporlama standartları) — Türkiye Muhasebe ve Finansal Raporlama Standartları",
+        "body": "<ul><li><strong>TMS/TFRS (türkiye finansal raporlama standartları) yapısı:</strong> KGK (Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu) tarafından yayımlanır. IASB'nin IAS/IFRS standartlarının Türkçe uyarlaması.</li><li><strong>Temel TMS'ler:</strong> TMS 1 (Finansal Tabloların Sunuluşu), TMS 2 (Stoklar), TMS 7 (Nakit Akış Tablosu), TMS 16 (Maddi Duran Varlıklar), TMS 17/TFRS (türkiye finansal raporlama standartları) 16 (Kiralama İşlemleri), TMS 18/TFRS (türkiye finansal raporlama standartları) 15 (Hasılat), TMS 19 (Çalışanlara Sağlanan Faydalar), TMS 21 (Kur Farkları), TMS 36 (Varlıklarda Değer Düşüklüğü), TMS 38 (Maddi Olmayan Duran Varlıklar).</li><li><strong>Temel TFRS (türkiye finansal raporlama standartları)'ler:</strong> TFRS (türkiye finansal raporlama standartları) 3 (İşletme Birleşmeleri), TFRS (türkiye finansal raporlama standartları) 7 (Finansal Araçlar: Açıklamalar), TFRS (türkiye finansal raporlama standartları) 9 (Finansal Araçlar), TFRS (türkiye finansal raporlama standartları) 15 (Müşteri Sözleşmelerinden Hasılat), TFRS (türkiye finansal raporlama standartları) 16 (Kiralamalar).</li><li><strong>SPK (sermaye piyasası kurulu)'ya tabi şirketler:</strong> Finansal tablolarını TMS/TFRS (türkiye finansal raporlama standartları)'ye uygun hazırlamak zorundadır. II-14.1 sayılı Tebliğ bunu düzenler.</li></ul>"
       },
       {
         "num": "08",
         "title": "Sermaye Piyasasında Finansal Raporlama (II-14.1 Tebliği)",
-        "body": "<ul><li><strong>Kapsam:</strong> Borsa İstanbul'da işlem gören şirketler, halka açık anonim ortaklıklar ve bunların bağlı ortaklıkları TMS/TFRS'ye uygun finansal tablo hazırlamak zorundadır.</li><li><strong>Konsolide finansal tablolar:</strong> Ana ortaklık tüm bağlı ortaklıklarıyla birlikte grup finansal tablolarını konsolide bazda hazırlar. Azınlık payları ayrıca gösterilir.</li><li><strong>KAP yükümlülükleri:</strong> Yıllık ve ara dönem finansal tablolar kamuyu aydınlatma platformunda (KAP) yayımlanır. Yıllık: 3 ay içinde; altı aylık ara dönem: 2 ay içinde.</li><li><strong>Finansal raporların içeriği:</strong> Bilanço (finansal durum tablosu), gelir tablosu (kapsamlı gelir), özkaynak değişim tablosu, nakit akış tablosu ve dipnotlar. Gerçeğe uygun sunum zorunlu.</li><li><strong>Bağımsız denetim zorunluluğu:</strong> Yıllık finansal tablolar bağımsız denetimden geçmek zorundadır. Altı aylık ara tablolar da sınırlı denetime tabidir.</li></ul>"
+        "body": "<ul><li><strong>Kapsam:</strong> Borsa İstanbul'da işlem gören şirketler, halka açık anonim ortaklıklar ve bunların bağlı ortaklıkları TMS/TFRS (türkiye finansal raporlama standartları)'ye uygun finansal tablo hazırlamak zorundadır.</li><li><strong>Konsolide finansal tablolar:</strong> Ana ortaklık tüm bağlı ortaklıklarıyla birlikte grup finansal tablolarını konsolide bazda hazırlar. Azınlık payları ayrıca gösterilir.</li><li><strong>KAP (kamuyu aydınlatma platformu) yükümlülükleri:</strong> Yıllık ve ara dönem finansal tablolar kamuyu aydınlatma platformunda (KAP (kamuyu aydınlatma platformu)) yayımlanır. Yıllık: 3 ay içinde; altı aylık ara dönem: 2 ay içinde.</li><li><strong>Finansal raporların içeriği:</strong> Bilanço (finansal durum tablosu), gelir tablosu (kapsamlı gelir), özkaynak değişim tablosu, nakit akış tablosu ve dipnotlar. Gerçeğe uygun sunum zorunlu.</li><li><strong>Bağımsız denetim zorunluluğu:</strong> Yıllık finansal tablolar bağımsız denetimden geçmek zorundadır. Altı aylık ara tablolar da sınırlı denetime tabidir.</li></ul>"
       },
       {
         "num": "09",
         "title": "Bağımsız Denetim — Temel Kavramlar ve Düzenlemeler",
-        "body": "<ul><li><strong>Bağımsız denetim tanımı:</strong> Finansal tabloların TMS/TFRS veya genel kabul görmüş muhasebe ilkelerine uygunluğunun bağımsız bir denetçi tarafından incelenmesi ve rapor halinde sunulması.</li><li><strong>KGK (Kamu Gözetimi Kurumu):</strong> 660 sayılı KHK ile 2011'de kuruldu. Bağımsız denetim standartlarını (BDS) belirler, denetçileri ve denetim firmalarını yetkilendirir ve denetler.</li><li><strong>Denetim standartları (BDS):</strong> IAASB'nin ISA standartlarının Türkçe uyarlaması. BDS 200 (Genel Amaçlar), BDS 315 (Risk Değerlendirme), BDS 700 (Görüş Oluşturma) başlıcaları.</li><li><strong>Görüş türleri:</strong> Olumlu (temiz) görüş, şartlı görüş, olumsuz görüş, görüş vermekten kaçınma. Önemlilik (materiality) eşiği belirleyicidir.</li><li><strong>Denetim süreci:</strong> Müşteri kabulü → planlama → risk değerlendirme → testler (iç kontrol + maddi doğruluk) → raporlama. Bağımsızlık temel ilkedir.</li></ul>"
+        "body": "<ul><li><strong>Bağımsız denetim tanımı:</strong> Finansal tabloların TMS/TFRS (türkiye finansal raporlama standartları) veya genel kabul görmüş muhasebe ilkelerine uygunluğunun bağımsız bir denetçi tarafından incelenmesi ve rapor halinde sunulması.</li><li><strong>KGK (Kamu Gözetimi Kurumu):</strong> 660 sayılı KHK ile 2011'de kuruldu. Bağımsız denetim standartlarını (BDS) belirler, denetçileri ve denetim firmalarını yetkilendirir ve denetler.</li><li><strong>Denetim standartları (BDS):</strong> IAASB'nin ISA standartlarının Türkçe uyarlaması. BDS 200 (Genel Amaçlar), BDS 315 (Risk Değerlendirme), BDS 700 (Görüş Oluşturma) başlıcaları.</li><li><strong>Görüş türleri:</strong> Olumlu (temiz) görüş, şartlı görüş, olumsuz görüş, görüş vermekten kaçınma. Önemlilik (materiality) eşiği belirleyicidir.</li><li><strong>Denetim süreci:</strong> Müşteri kabulü → planlama → risk değerlendirme → testler (iç kontrol + maddi doğruluk) → raporlama. Bağımsızlık temel ilkedir.</li></ul>"
       }
     ],
     "tests": {
@@ -19918,7 +19918,7 @@ window.__C = {
           "e": "IASB Kavramsal Çerçevesi'ne göre genel amaçlı finansal raporlamanın amacı: finansal kaynak sağlama kararları alan mevcut ve potansiyel yatırımcılara, borç verenlere ve diğer alacaklılara faydalı finansal bilgi sunmaktır. Yöneticiler raporlama yapan işletmeye erişebildiğinden kapsam dışıdır."
         },
         {
-          "q": "Bağımsız denetimde KGK'nın (Kamu Gözetimi Kurumu) temel işlevi nedir?",
+          "q": "Bağımsız denetimde KGK (kamu gözetimi kurumu)'nın (Kamu Gözetimi Kurumu) temel işlevi nedir?",
           "o": [
             "A) Vergi denetimi yapmak",
             "B) Bağımsız denetim standartlarını belirlemek, denetçileri yetkilendirmek ve denetim sektörünü denetlemek",
@@ -19937,7 +19937,7 @@ window.__C = {
             "D) Denetçi bağımsızlığını yitirdiğinde"
           ],
           "a": 2,
-          "e": "Olumsuz görüş: finansal tablolardaki yanlışlıkların hem önemli hem de yaygın olduğu, tablolar bütünü itibarıyla TMS/TFRS'ye uygun olmadığı ve kullanıcıları ciddi biçimde yanıltabileceği durumlarda verilir. Şartlı görüşten farkı: etki hem önemli hem de yaygındır."
+          "e": "Olumsuz görüş: finansal tablolardaki yanlışlıkların hem önemli hem de yaygın olduğu, tablolar bütünü itibarıyla TMS/TFRS (türkiye finansal raporlama standartları)'ye uygun olmadığı ve kullanıcıları ciddi biçimde yanıltabileceği durumlarda verilir. Şartlı görüşten farkı: etki hem önemli hem de yaygındır."
         },
         {
           "q": "Normal (doğrusal) amortisman yönteminde yıllık amortisman tutarı nasıl hesaplanır?",
@@ -19962,7 +19962,7 @@ window.__C = {
           "e": "TMS 38 kapsamında: Araştırma aşaması — gider yazılır (ekonomik yarar belirsiz). Geliştirme aşaması — 6 koşul birlikte sağlanırsa aktifleştirilir: teknik fizibilite, tamamlama niyeti, kullanma/satma imkânı, gelecek ekonomik yarar, yeterli kaynak, güvenilir ölçüm. Koşullar sağlanmazsa gider."
         },
         {
-          "q": "TFRS 15'e göre hasılat tanıma için uygulanan 5 adımlı modelde son adım nedir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 15'e göre hasılat tanıma için uygulanan 5 adımlı modelde son adım nedir?",
           "o": [
             "A) İşlem fiyatını belirleme",
             "B) Sözleşmeyi tanımlama",
@@ -19970,7 +19970,7 @@ window.__C = {
             "D) İşlem fiyatını dağıtma"
           ],
           "a": 2,
-          "e": "TFRS 15'in 5 adımı: (1) Sözleşmeyi tanımla, (2) Performans yükümlülüklerini belirle, (3) İşlem fiyatını belirle, (4) Fiyatı yükümlülüklere dağıt, (5) Performans yükümlülüğü yerine getirilince hasılatı kaydet. Hasılat, müşteriye kontrol geçtiğinde tanınır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 15'in 5 adımı: (1) Sözleşmeyi tanımla, (2) Performans yükümlülüklerini belirle, (3) İşlem fiyatını belirle, (4) Fiyatı yükümlülüklere dağıt, (5) Performans yükümlülüğü yerine getirilince hasılatı kaydet. Hasılat, müşteriye kontrol geçtiğinde tanınır."
         }
       ],
       "t2": [
@@ -20041,7 +20041,7 @@ window.__C = {
           "e": "Birikmiş amortisman hesabı (257, 268, 277 vb.): aktif düzenleyici (karşı) hesap niteliğindedir. Bilançoda ilgili maddi duran varlık kaleminin altında eksi (-) olarak gösterilir. Net Defter Değeri = Maliyet − Birikmiş Amortisman. Aktif tarafta yer alır, bakiyesi alacak tarafındadır."
         },
         {
-          "q": "TFRS 16'ya göre kiracı, finansal kiralama sözleşmesini nasıl muhasebeleştirir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 16'ya göre kiracı, finansal kiralama sözleşmesini nasıl muhasebeleştirir?",
           "o": [
             "A) Kira ödemelerini dönem gideri olarak kaydeder",
             "B) Kullanım hakkı varlığı ve karşılığında kira borcu tanır; aktif ve pasif büyür",
@@ -20049,7 +20049,7 @@ window.__C = {
             "D) Kirayı peşin ödeme olarak aktifleştirir"
           ],
           "a": 1,
-          "e": "TFRS 16 (Kiralamalar — 2019 itibariyle): kiracı, tüm kiralamalar için (kısa vadeli ve düşük değerli hariç) kullanım hakkı varlığı (sağ of use asset) aktifleştirir ve buna karşılık kira yükümlülüğü (borç) tanır. Faaliyet/finansal kiralama ayrımı kiracı için ortadan kalktı. Bilanço büyür."
+          "e": "TFRS (türkiye finansal raporlama standartları) 16 (Kiralamalar — 2019 itibariyle): kiracı, tüm kiralamalar için (kısa vadeli ve düşük değerli hariç) kullanım hakkı varlığı (sağ of use asset) aktifleştirir ve buna karşılık kira yükümlülüğü (borç) tanır. Faaliyet/finansal kiralama ayrımı kiracı için ortadan kalktı. Bilanço büyür."
         },
         {
           "q": "Özsermaye yöntemi hangi yatırımlar için uygulanır?",
@@ -20082,10 +20082,10 @@ window.__C = {
             "D) Dipnotlarda yalnızca açıklama olarak"
           ],
           "a": 1,
-          "e": "TFRS 10 kapsamında: azınlık payları (kontrol gücü olmayan paylar), konsolide finansal durum tablosunda (bilançoda) özkaynak bölümünde, ancak ana ortaklığa atfedilen özkaynaklardan ayrı bir kalem olarak raporlanır. Borç değil, özkaynaktır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 10 kapsamında: azınlık payları (kontrol gücü olmayan paylar), konsolide finansal durum tablosunda (bilançoda) özkaynak bölümünde, ancak ana ortaklığa atfedilen özkaynaklardan ayrı bir kalem olarak raporlanır. Borç değil, özkaynaktır."
         },
         {
-          "q": "II-14.1 sayılı Tebliğ'e göre yıllık finansal tablolar KAP'ta ne zamana kadar yayımlanmak zorundadır?",
+          "q": "II-14.1 sayılı Tebliğ'e göre yıllık finansal tablolar KAP (kamuyu aydınlatma platformu)'ta ne zamana kadar yayımlanmak zorundadır?",
           "o": [
             "A) Hesap dönemi kapanışından 1 ay içinde",
             "B) Hesap dönemi kapanışından 2 ay içinde",
@@ -20093,7 +20093,7 @@ window.__C = {
             "D) Hesap dönemi kapanışından 6 ay içinde"
           ],
           "a": 2,
-          "e": "SPK (sermaye piyasası kurulu)'nın II-14.1 sayılı Tebliği'ne göre halka açık şirketler yıllık finansal tablolarını, bağımsız denetim raporu ile birlikte hesap dönemi kapanışından itibaren 3 ay içinde Kamuyu Aydınlatma Platformu'nda (KAP) yayımlamak zorundadır."
+          "e": "SPK (sermaye piyasası kurulu)'nın II-14.1 sayılı Tebliği'ne göre halka açık şirketler yıllık finansal tablolarını, bağımsız denetim raporu ile birlikte hesap dönemi kapanışından itibaren 3 ay içinde Kamuyu Aydınlatma Platformu'nda (KAP (kamuyu aydınlatma platformu)) yayımlamak zorundadır."
         },
         {
           "q": "Bağımsız denetimde 'denetim riski' hangi bileşenlerden oluşur?",
@@ -20115,7 +20115,7 @@ window.__C = {
             "D) İkisi arasında fark yoktur"
           ],
           "a": 1,
-          "e": "Tahakkuk esası (accrual basis): gelirler hizmet verildiğinde/mal teslim edildiğinde, giderler ise tüketildiğinde kaydedilir — nakit hareketi zamanlama açısından belirleyici değil. TMS/TFRS tahakkuk esasını zorunlu kılar. Nakit esasında ise kayıt yalnızca para girişi veya çıkışı ile yapılır; küçük işletme ve vergi muhasebesinde kullanılır."
+          "e": "Tahakkuk esası (accrual basis): gelirler hizmet verildiğinde/mal teslim edildiğinde, giderler ise tüketildiğinde kaydedilir — nakit hareketi zamanlama açısından belirleyici değil. TMS/TFRS (türkiye finansal raporlama standartları) tahakkuk esasını zorunlu kılar. Nakit esasında ise kayıt yalnızca para girişi veya çıkışı ile yapılır; küçük işletme ve vergi muhasebesinde kullanılır."
         },
         {
           "q": "'Tam açıklama kavramı' muhasebeye nasıl yansır?",
@@ -20162,7 +20162,7 @@ window.__C = {
           "e": "Ertelenmiş vergi (TMS 12): muhasebe standartlarının varlık/yükümlülük tanıma/ölçme esasları ile vergi mevzuatı arasındaki geçici farklardan kaynaklanır. Geçici fark: varlık veya yükümlülüğün defter değeri ile vergi değeri arasındaki fark. Gelecekte vergilendirilebilir fark → ertelenmiş vergi borcu; indirilebilir fark → ertelenmiş vergi varlığı."
         },
         {
-          "q": "Finansal araçların sınıflandırılması TFRS 9'a göre hangi kriterlere dayanır?",
+          "q": "Finansal araçların sınıflandırılması TFRS (türkiye finansal raporlama standartları) 9'a göre hangi kriterlere dayanır?",
           "o": [
             "A) Vadeye göre — kısa veya uzun vadeli",
             "B) İşletmenin iş modeli ve aracın nakit akış özelliklerine (SPPI testi) göre",
@@ -20170,7 +20170,7 @@ window.__C = {
             "D) Çıkaran kurumun kredi notuna göre"
           ],
           "a": 1,
-          "e": "TFRS 9 kapsamında finansal varlık sınıflandırması iki kritere dayanır: (1) İşletmenin iş modeli — varlığı nakit akışı için mi, satmak için mi, ya da her ikisi için mi tutuyor? (2) SPPI testi — varlığın nakit akışları yalnızca anapara ve faiz ödemelerinden mi oluşuyor? Bu iki kritere göre: İtfa edilmiş maliyetten (AM), Gerçeğe uygun değer — diğer kapsamlı gelir (FVOCI) veya Gerçeğe uygun değer — kâr/zarar (FVPL) sınıfına girer."
+          "e": "TFRS (türkiye finansal raporlama standartları) 9 kapsamında finansal varlık sınıflandırması iki kritere dayanır: (1) İşletmenin iş modeli — varlığı nakit akışı için mi, satmak için mi, ya da her ikisi için mi tutuyor? (2) SPPI testi — varlığın nakit akışları yalnızca anapara ve faiz ödemelerinden mi oluşuyor? Bu iki kritere göre: İtfa edilmiş maliyetten (AM), Gerçeğe uygun değer — diğer kapsamlı gelir (FVOCI) veya Gerçeğe uygun değer — kâr/zarar (FVPL) sınıfına girer."
         },
         {
           "q": "Bağımsız denetimde 'önemlilik (materiality)' eşiği nasıl belirlenir?",
@@ -20178,7 +20178,7 @@ window.__C = {
             "A) Yasal olarak sabit bir rakam belirlenir",
             "B) Denetçi tarafından mesleki yargıyla belirlenir; genellikle brüt kâr, toplam varlık veya hasılatın belirli yüzdesi esas alınır",
             "C) Yalnızca şirket yönetimi belirler",
-            "D) KGK her yıl sektöre göre eşik yayımlar"
+            "D) KGK (kamu gözetimi kurumu) her yıl sektöre göre eşik yayımlar"
           ],
           "a": 1,
           "e": "Önemlilik eşiği: denetçinin mesleki yargısına bırakılmıştır. Yaygın uygulama: brüt kârın %5-10'u, toplam varlıkların %0,5-2'si veya hasılatın %0,5-1'i gibi göstergeler kullanılır. Denetçi hangi hataların finansal tablo kullanıcısının kararını etkileyeceğini değerlendirerek eşiği belirler. Sabit yasal bir oran yoktur."
@@ -20238,21 +20238,21 @@ window.__C = {
             "D) Konsolidasyon ve özsermaye yöntemi aynı duruma uygulanır"
           ],
           "a": 1,
-          "e": "Konsolidasyon (TFRS 10): yatırımcının yatırım yapılan işletmeyi kontrol ettiği bağlı ortaklıklara uygulanır (genellikle oy haklarının %50+1'i, ancak fiilî kontrol kriteri belirleyicidir). Özsermaye yöntemi (TMS 28): yatırımcının önemli etki sahibi olduğu iştiraklere uygulanır (genellikle %20-50 arasında)."
+          "e": "Konsolidasyon (TFRS (türkiye finansal raporlama standartları) 10): yatırımcının yatırım yapılan işletmeyi kontrol ettiği bağlı ortaklıklara uygulanır (genellikle oy haklarının %50+1'i, ancak fiilî kontrol kriteri belirleyicidir). Özsermaye yöntemi (TMS 28): yatırımcının önemli etki sahibi olduğu iştiraklere uygulanır (genellikle %20-50 arasında)."
         },
         {
           "q": "Yıllara yaygın inşaat ve onarım sözleşmelerinde hasılat nasıl tanınır?",
           "o": [
             "A) Sözleşme imzalandığında tamamı tanınır",
             "B) Yalnızca tamamlandığında tanınır",
-            "C) TFRS 15'e göre performans yükümlülüğü belirli bir süre boyunca yerine getirildiğinde, tamamlanma yüzdesi yöntemi gibi bir yöntemle hasılat kademeli tanınır",
+            "C) TFRS (türkiye finansal raporlama standartları) 15'e göre performans yükümlülüğü belirli bir süre boyunca yerine getirildiğinde, tamamlanma yüzdesi yöntemi gibi bir yöntemle hasılat kademeli tanınır",
             "D) Nakit tahsilat gerçekleştikçe tanınır"
           ],
           "a": 2,
-          "e": "İnşaat sözleşmeleri TFRS 15 kapsamında ele alınır. Müşterinin varlık üzerinde kontrol kazandığı durumlarda (inşaat devam ederken müşteri varlık üzerinde kontrole sahipse) hasılat süre içinde tanınır. Tamamlanma yüzdesi (maliyet veya çıktı bazlı) ölçüm yöntemi kullanılır."
+          "e": "İnşaat sözleşmeleri TFRS (türkiye finansal raporlama standartları) 15 kapsamında ele alınır. Müşterinin varlık üzerinde kontrol kazandığı durumlarda (inşaat devam ederken müşteri varlık üzerinde kontrole sahipse) hasılat süre içinde tanınır. Tamamlanma yüzdesi (maliyet veya çıktı bazlı) ölçüm yöntemi kullanılır."
         },
         {
-          "q": "Gerçeğe uygun değer (fair value) ölçümünde TFRS 13'e göre en güvenilir girdi hangisidir?",
+          "q": "Gerçeğe uygun değer (fair value) ölçümünde TFRS (türkiye finansal raporlama standartları) 13'e göre en güvenilir girdi hangisidir?",
           "o": [
             "A) Yönetimin değerleme modeli çıktıları",
             "B) Aktif piyasada aynı varlık veya yükümlülük için gözlemlenebilir kotasyon fiyatları (Seviye 1)",
@@ -20260,7 +20260,7 @@ window.__C = {
             "D) Gelecek nakit akışlarının tahmini"
           ],
           "a": 1,
-          "e": "TFRS 13 üç seviyeli hiyerarşi öngörür: Seviye 1 (en güvenilir): aynı varlık/yükümlülük için aktif piyasada kotasyon fiyatları. Seviye 2: benzer varlıklar veya gözlemlenebilir piyasa girdileri. Seviye 3 (en az güvenilir): gözlemlenemeyen girdiler, yönetim tahminleri. Mümkün olan en yüksek seviye kullanılır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 13 üç seviyeli hiyerarşi öngörür: Seviye 1 (en güvenilir): aynı varlık/yükümlülük için aktif piyasada kotasyon fiyatları. Seviye 2: benzer varlıklar veya gözlemlenebilir piyasa girdileri. Seviye 3 (en az güvenilir): gözlemlenemeyen girdiler, yönetim tahminleri. Mümkün olan en yüksek seviye kullanılır."
         },
         {
           "q": "Kâr payı dağıtım kararı muhasebede ne zaman ve nasıl kaydedilir?",
@@ -20312,7 +20312,7 @@ window.__C = {
             "A) Denetim maliyetlerini azaltmak için",
             "B) Uzun süreli ilişkinin denetçinin bağımsızlığını tehlikeye atmasını önlemek amacıyla",
             "C) Muhasebe hatalarını tespit etmek için",
-            "D) KGK'nın iş yükünü dağıtmak için"
+            "D) KGK (kamu gözetimi kurumu)'nın iş yükünü dağıtmak için"
           ],
           "a": 1,
           "e": "Rotasyon zorunluluğu bağımsızlık koruma mekanizmasıdır: çok uzun süren denetçi-müşteri ilişkisi, denetçinin müşteriyle duygusal bağ kurmasına ve gerçekten bağımsız değerlendirme yapamamasına yol açabilir. Bu riski azaltmak için kilit denetim ortağı en fazla 7 yıl, bazı kamu yararı kuruluşlarında denetim firması en fazla 10 yıl aynı müşteride kalabilir."
@@ -20331,13 +20331,13 @@ window.__C = {
         {
           "q": "Vergi Usul Kanunu'na göre değerleme ile TMS arasındaki önemli farklılıkları bir madde ile açıklayınız?",
           "o": [
-            "A) VUK stok değerlemede LIFO'ya izin verir, TMS vermez",
-            "B) TMS ve VUK tamamen aynı esaslara dayanır",
+            "A) VUK (vergi usul kanunu) stok değerlemede LIFO'ya izin verir, TMS vermez",
+            "B) TMS ve VUK (vergi usul kanunu) tamamen aynı esaslara dayanır",
             "C) TMS hem LIFO hem FIFO'ya izin verir",
-            "D) VUK gerçeğe uygun değeri zorunlu kılar"
+            "D) VUK (vergi usul kanunu) gerçeğe uygun değeri zorunlu kılar"
           ],
           "a": 0,
-          "e": "VUK ile TMS arasında temel farklılık: VUK stok değerlemede LIFO yöntemine izin verir; TMS 2 ise LIFO'yu açıkça yasaklar. Bu ve diğer farklılıklar (amortisman süreleri, karşılık esasları vb.) geçici vergi farklarına ve dolayısıyla ertelenmiş vergi varlığı/borcuna (TMS 12) yol açar."
+          "e": "VUK (vergi usul kanunu) ile TMS arasında temel farklılık: VUK (vergi usul kanunu) stok değerlemede LIFO yöntemine izin verir; TMS 2 ise LIFO'yu açıkça yasaklar. Bu ve diğer farklılıklar (amortisman süreleri, karşılık esasları vb.) geçici vergi farklarına ve dolayısıyla ertelenmiş vergi varlığı/borcuna (TMS 12) yol açar."
         },
         {
           "q": "Çalışanlara sağlanan kısa vadeli faydalar TMS 19'a göre nasıl tanınır?",
@@ -20384,7 +20384,7 @@ window.__C = {
           "e": "TMS 7 kapsamında ödenen faiz: işletmeler finansman maliyeti niteliğindeki faizleri faaliyet ya da finansman faaliyeti olarak sınıflandırabilir — seçim politikası belirlenir ve tutarlı uygulanır. Alınan faiz ise faaliyet veya yatırım faaliyeti olarak sınıflandırılabilir. Seçilen politika dipnotta açıklanır."
         },
         {
-          "q": "'Gerçeğe uygun değer hiyerarşisi' TFRS 13'te neden düzenlenmiştir?",
+          "q": "'Gerçeğe uygun değer hiyerarşisi' TFRS (türkiye finansal raporlama standartları) 13'te neden düzenlenmiştir?",
           "o": [
             "A) Vergi matrahı belirlemek için",
             "B) Daha gözlemlenebilir ve doğrulanabilir girdilerin tercih edilmesini sağlamak ve GUD ölçümünde tutarlılık ve şeffaflık oluşturmak",
@@ -20392,10 +20392,10 @@ window.__C = {
             "D) Amortisman hesaplarını basitleştirmek"
           ],
           "a": 1,
-          "e": "TFRS 13 hiyerarşisi (Seviye 1-2-3) şeffaflık ve karşılaştırılabilirlik sağlar: en güvenilir gözlemlenebilir Seviye 1 kotasyon fiyatları tercih edilir; gözlemlenemez yönetim tahminleri (Seviye 3) en az tercih edilendir. Bu hiyerarşi hem kullanıcılara ölçümün güvenilirliği hakkında bilgi verir hem de denetçiye kanıt standardı oluşturur."
+          "e": "TFRS (türkiye finansal raporlama standartları) 13 hiyerarşisi (Seviye 1-2-3) şeffaflık ve karşılaştırılabilirlik sağlar: en güvenilir gözlemlenebilir Seviye 1 kotasyon fiyatları tercih edilir; gözlemlenemez yönetim tahminleri (Seviye 3) en az tercih edilendir. Bu hiyerarşi hem kullanıcılara ölçümün güvenilirliği hakkında bilgi verir hem de denetçiye kanıt standardı oluşturur."
         },
         {
-          "q": "Konsolidasyonda 'kontrol' kavramı TFRS 10'a göre nasıl tanımlanır?",
+          "q": "Konsolidasyonda 'kontrol' kavramı TFRS (türkiye finansal raporlama standartları) 10'a göre nasıl tanımlanır?",
           "o": [
             "A) %50'den fazla paysahipliği her zaman kontrol anlamına gelir",
             "B) Yatırımcının yatırım yapılan işletme üzerinde güce sahip olması, değişken getirilere maruz kalması ve bu getirileri etkilemek için gücünü kullanabilmesi",
@@ -20403,18 +20403,18 @@ window.__C = {
             "D) Tüm hisselere sahip olmak"
           ],
           "a": 1,
-          "e": "TFRS 10 kontrol tanımı üç unsur gerektirir: (1) Güç (power) — yatırımcının yatırım yapılan işletme üzerinde mevcut hakları aracılığıyla ilgili faaliyetleri yönetme gücü; (2) Değişken getirilere maruz kalma — yatırım yapılan işletmenin performansına bağlı olarak değişen getirilere maruz kalma; (3) Getiri bağlantısı — getirileri etkilemek için gücünü kullanabilme. Üçü birlikte olmalı."
+          "e": "TFRS (türkiye finansal raporlama standartları) 10 kontrol tanımı üç unsur gerektirir: (1) Güç (power) — yatırımcının yatırım yapılan işletme üzerinde mevcut hakları aracılığıyla ilgili faaliyetleri yönetme gücü; (2) Değişken getirilere maruz kalma — yatırım yapılan işletmenin performansına bağlı olarak değişen getirilere maruz kalma; (3) Getiri bağlantısı — getirileri etkilemek için gücünü kullanabilme. Üçü birlikte olmalı."
         },
         {
           "q": "Uzun vadeli borçların bilançoda kısa vadeye transferi dışında başka bir reklasifikasyon örneği veriniz?",
           "o": [
             "A) Stokların duran varlıklara transferi",
-            "B) Satış amacıyla elde tutulan varlıkların (TFRS 5) ayrı kategoride gösterilmesi",
+            "B) Satış amacıyla elde tutulan varlıkların (TFRS (türkiye finansal raporlama standartları) 5) ayrı kategoride gösterilmesi",
             "C) Şerefiyenin amortismana tabi tutulması",
             "D) Nakit benzerlerin uzun vadeye geçirilmesi"
           ],
           "a": 1,
-          "e": "TFRS 5 (Satış Amaçlı Elde Tutulan Varlıklar): bir varlık satış için hazır hale getirilmişse ve 12 ay içinde satışın tamamlanması yüksek olasılıklıysa, o varlık kendi kategorisinden çıkarılarak 'Satış Amaçlı Elde Tutulan Varlıklar' olarak bilançoda ayrıca raporlanır. Bu önemli bir reklasifikasyon örneğidir — varlık amorti edilmez, NRV ile ölçülür."
+          "e": "TFRS (türkiye finansal raporlama standartları) 5 (Satış Amaçlı Elde Tutulan Varlıklar): bir varlık satış için hazır hale getirilmişse ve 12 ay içinde satışın tamamlanması yüksek olasılıklıysa, o varlık kendi kategorisinden çıkarılarak 'Satış Amaçlı Elde Tutulan Varlıklar' olarak bilançoda ayrıca raporlanır. Bu önemli bir reklasifikasyon örneğidir — varlık amorti edilmez, NRV ile ölçülür."
         },
         {
           "q": "Geliştirme gideri aktifleştirilen bir maddi olmayan duran varlığın sonraki ölçümü nasıl yapılır?",
@@ -20430,13 +20430,13 @@ window.__C = {
         {
           "q": "Türkiye'de bağımsız denetim mesleğinin uluslararası standartta düzenlenmesini sağlayan yasal çerçeve nedir?",
           "o": [
-            "A) Yalnızca TTK md. 397-406",
-            "B) TTK hükümleri + 660 sayılı KHK (KGK) + Bağımsız Denetim Yönetmeliği + SPK (sermaye piyasası kurulu) Tebliği (Seri X No:22) bütünleşik sistemi",
+            "A) Yalnızca TTK (türk ticaret kanunu) md. 397-406",
+            "B) TTK (türk ticaret kanunu) hükümleri + 660 sayılı KHK (KGK (kamu gözetimi kurumu)) + Bağımsız Denetim Yönetmeliği + SPK (sermaye piyasası kurulu) Tebliği (Seri X No:22) bütünleşik sistemi",
             "C) Yalnızca Maliye Bakanlığı tebliğleri",
             "D) Münhasıran AB direktifleri"
           ],
           "a": 1,
-          "e": "Türkiye bağımsız denetim çerçevesi çok katmanlıdır: TTK md. 397-406 şirket denetimini düzenler; 660 sayılı KHK KGK'yı kurar ve BDS'yi yürürlüğe sokar; Bağımsız Denetim Yönetmeliği denetçi/firma niteliklerini ve bağımsızlık kurallarını belirler; SPK (sermaye piyasası kurulu) Tebliği (Seri X No:22) sermaye piyasası boyutunu düzenler. Hepsi birlikte uygulanır."
+          "e": "Türkiye bağımsız denetim çerçevesi çok katmanlıdır: TTK (türk ticaret kanunu) md. 397-406 şirket denetimini düzenler; 660 sayılı KHK KGK (kamu gözetimi kurumu)'yı kurar ve BDS'yi yürürlüğe sokar; Bağımsız Denetim Yönetmeliği denetçi/firma niteliklerini ve bağımsızlık kurallarını belirler; SPK (sermaye piyasası kurulu) Tebliği (Seri X No:22) sermaye piyasası boyutunu düzenler. Hepsi birlikte uygulanır."
         }
       ],
       "t4": [
@@ -20466,12 +20466,12 @@ window.__C = {
           "q": "Bağlı ortaklık konsolidasyonunda 'şerefiye (goodwill)' nasıl ortaya çıkar?",
           "o": [
             "A) Bağlı ortaklığın varlıklarının yeniden değerlenmesiyle",
-            "B) Satın alınan işletme için ödenen bedelin, edinilen net tanımlanabilir varlıkların gerçeğe uygun değerini aşan kısmı olarak (TFRS 3)",
+            "B) Satın alınan işletme için ödenen bedelin, edinilen net tanımlanabilir varlıkların gerçeğe uygun değerini aşan kısmı olarak (TFRS (türkiye finansal raporlama standartları) 3)",
             "C) Her konsolidasyonda otomatik olarak oluşur",
             "D) Yalnızca halka açık şirket satın alımlarında ortaya çıkar"
           ],
           "a": 1,
-          "e": "TFRS 3 (İşletme Birleşmeleri) kapsamında şerefiye: Satın alma bedeli − (Edinilen net tanımlanabilir varlıkların gerçeğe uygun değeri). Satın alınan işletmenin müşteri ilişkileri, marka değeri, insan kaynakları gibi ayrı tanımlanamayan değerlerini yansıtır. Şerefiye amorti edilmez; yıllık değer düşüklüğü testine tabi tutulur."
+          "e": "TFRS (türkiye finansal raporlama standartları) 3 (İşletme Birleşmeleri) kapsamında şerefiye: Satın alma bedeli − (Edinilen net tanımlanabilir varlıkların gerçeğe uygun değeri). Satın alınan işletmenin müşteri ilişkileri, marka değeri, insan kaynakları gibi ayrı tanımlanamayan değerlerini yansıtır. Şerefiye amorti edilmez; yıllık değer düşüklüğü testine tabi tutulur."
         },
         {
           "q": "TMS 37 kapsamında 'koşullu borç' finansal tablolarda nasıl gösterilir?",
@@ -20488,12 +20488,12 @@ window.__C = {
           "q": "Bütünleşik performans denetimi ile finansal tablo denetimi arasındaki temel fark nedir?",
           "o": [
             "A) İkisi tamamen aynıdır",
-            "B) Finansal tablo denetimi tabloların TMS/TFRS'ye uygunluğunu inceler; performans denetimi (faaliyet denetimi) kaynak kullanımının verimlilik, etkililik ve tutumluluğunu değerlendirir",
+            "B) Finansal tablo denetimi tabloların TMS/TFRS (türkiye finansal raporlama standartları)'ye uygunluğunu inceler; performans denetimi (faaliyet denetimi) kaynak kullanımının verimlilik, etkililik ve tutumluluğunu değerlendirir",
             "C) Finansal tablo denetimi yalnızca kamu kuruluşlarında yapılır",
             "D) Performans denetimi sonunda görüş verilmez"
           ],
           "a": 1,
-          "e": "Finansal tablo (uygunluk) denetimi: finansal tabloların belirlenen bir çerçeveye (TMS/TFRS) uygun olup olmadığını inceler. Performans (faaliyet/verimlilik) denetimi: kaynakların 3E kriterine (Economy-verimlilik, Efficiency-etkinlik, Effectiveness-etkililik) göre kullanılıp kullanılmadığını değerlendirir. İkincisi kamu denetiminde yaygın."
+          "e": "Finansal tablo (uygunluk) denetimi: finansal tabloların belirlenen bir çerçeveye (TMS/TFRS (türkiye finansal raporlama standartları)) uygun olup olmadığını inceler. Performans (faaliyet/verimlilik) denetimi: kaynakların 3E kriterine (Economy-verimlilik, Efficiency-etkinlik, Effectiveness-etkililik) göre kullanılıp kullanılmadığını değerlendirir. İkincisi kamu denetiminde yaygın."
         },
         {
           "q": "Uzun vadeli borçların kısa vadeye sınıflandırılması (reklasifikasyon) TMS 1'e göre ne zaman yapılır?",
@@ -20573,7 +20573,7 @@ window.__C = {
           "e": "İşletmenin sürekliliği (going concern) varsayımı: işletmenin öngörülebilir gelecekte faaliyetlerine devam edeceği kabul edilir. Bu varsayım altında: varlıklar maliyet veya gerçeğe uygun değerle ölçülür, varlıkların tasfiye değeriyle raporlanmasına gerek kalmaz. Süreklilik kuşkusu varsa denetçi özel açıklama yapar."
         },
         {
-          "q": "TFRS 9'a göre itfa edilmiş maliyetten (AM) ölçülen finansal varlık ne demektir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 9'a göre itfa edilmiş maliyetten (AM) ölçülen finansal varlık ne demektir?",
           "o": [
             "A) Varlık her dönem piyasa değeriyle güncellenir",
             "B) Varlık etkin faiz yöntemiyle iskonto edilerek izlenir; kur farkı ve değer düşüklüğü dışında gelir tablosuna etki etmez",
@@ -20584,7 +20584,7 @@ window.__C = {
           "e": "İtfa edilmiş maliyet (Amortised Cost — AM): varlık etkin faiz yöntemiyle hesaplanan faiz gelirleri eklenerek ve tahsilat/amortisman düşülerek taşınır. İş modeli 'nakit akışları toplamak' ve SPPI testi sağlandığında sınıflandırılır. Değer değişimleri normalde gelir tablosuna girmez; değer düşüklüğü hariç (ECL modeli — beklenen kredi zararı)."
         },
         {
-          "q": "TFRS 9'da 'beklenen kredi zararı (ECL)' modeli ile eski 'gerçekleşmiş zarar' modelinin farkı nedir?",
+          "q": "TFRS (türkiye finansal raporlama standartları) 9'da 'beklenen kredi zararı (ECL)' modeli ile eski 'gerçekleşmiş zarar' modelinin farkı nedir?",
           "o": [
             "A) ECL modeli daha basit hesaplama sunar",
             "B) ECL modeli; zarar gerçekleşmeden önce, beklenen kayıpların tahmini esasında değer düşüklüğü ayrılmasını öngörür — daha erken ve daha kapsamlı karşılık",
@@ -20592,7 +20592,7 @@ window.__C = {
             "D) İkisi de aynı sonucu verir"
           ],
           "a": 1,
-          "e": "Eski TMS 39 modeli: zarar gerçekleştiğinde (tetikleyici olay sonrası) karşılık ayrılırdı — geç kalınırdı. TFRS 9 ECL modeli: zarar gerçekleşmeden önce, olası gelecekteki kredi kayıpları beklenti bazında her dönem güncellenerek karşılık ayrılır. Daha proaktif, daha büyük ve daha erken karşılık demektir — 2008 krizinden çıkan ders."
+          "e": "Eski TMS 39 modeli: zarar gerçekleştiğinde (tetikleyici olay sonrası) karşılık ayrılırdı — geç kalınırdı. TFRS (türkiye finansal raporlama standartları) 9 ECL modeli: zarar gerçekleşmeden önce, olası gelecekteki kredi kayıpları beklenti bazında her dönem güncellenerek karşılık ayrılır. Daha proaktif, daha büyük ve daha erken karşılık demektir — 2008 krizinden çıkan ders."
         },
         {
           "q": "Emisyon priminin (hisse senedi ihraç priminin) muhasebesi nasıldır?",
@@ -20660,7 +20660,7 @@ window.__C = {
             "D) Vergi öncesi kâr"
           ],
           "a": 1,
-          "e": "Diğer Kapsamlı Gelir (OCI): gelir tablosunda kâr veya zarara dahil edilmeyen ancak özkaynak değişimini etkileyen kalemler. Örnekler: TMS 16 kapsamında yeniden değerleme artışı, TMS 19 aktüeryal kayıplar/kazançlar, TMS 21 yabancı işletme çevrim farkları, TFRS 9 FVOCI araçlarının değer değişimleri."
+          "e": "Diğer Kapsamlı Gelir (OCI): gelir tablosunda kâr veya zarara dahil edilmeyen ancak özkaynak değişimini etkileyen kalemler. Örnekler: TMS 16 kapsamında yeniden değerleme artışı, TMS 19 aktüeryal kayıplar/kazançlar, TMS 21 yabancı işletme çevrim farkları, TFRS (türkiye finansal raporlama standartları) 9 FVOCI araçlarının değer değişimleri."
         },
         {
           "q": "Muhasebede 'maliyet esası' ile 'gerçeğe uygun değer' esası arasındaki tercih ne zaman önemli olur?",
@@ -20671,7 +20671,7 @@ window.__C = {
             "D) İkisi arasında fark yoktur"
           ],
           "a": 1,
-          "e": "Maliyet esası: nesneldir, doğrulanabilir; ancak değer değişimlerini yansıtmaz. Gerçeğe uygun değer: güncel bilgi sunar; ancak aktif piyasa yoksa değerleme subjektif olabilir. Finansal araçlar (TFRS 9) ve yatırım amaçlı gayrimenkuller (TMS 40) genellikle GUD ile ölçülür. MDV ve stoklar için maliyet esası (bazı istisnalarla) uygulanır."
+          "e": "Maliyet esası: nesneldir, doğrulanabilir; ancak değer değişimlerini yansıtmaz. Gerçeğe uygun değer: güncel bilgi sunar; ancak aktif piyasa yoksa değerleme subjektif olabilir. Finansal araçlar (TFRS (türkiye finansal raporlama standartları) 9) ve yatırım amaçlı gayrimenkuller (TMS 40) genellikle GUD ile ölçülür. MDV ve stoklar için maliyet esası (bazı istisnalarla) uygulanır."
         },
         {
           "q": "TMS 12 kapsamında 'geçici fark' ve 'kalıcı fark' arasındaki ayrım neden önemlidir?",
@@ -20748,7 +20748,7 @@ window.__C = {
             "D) İhraç iskontosunun muhasebesi yoktur"
           ],
           "a": 1,
-          "e": "Tahvil ihraç iskontosu (tahvil nominal değerinin altında ihraç edilirse oluşan fark): TMS 39/TFRS 9 kapsamında etkin faiz yöntemiyle itfa edilir. Her dönem kupon faizine ek olarak iskonto amortismanı faiz gideri olarak eklenir. Böylece tahvilin defter değeri itfa süresince nominal değere yaklaşır. Bu yöntem efektif faiz maliyetini doğru yansıtır."
+          "e": "Tahvil ihraç iskontosu (tahvil nominal değerinin altında ihraç edilirse oluşan fark): TMS 39/TFRS (türkiye finansal raporlama standartları) 9 kapsamında etkin faiz yöntemiyle itfa edilir. Her dönem kupon faizine ek olarak iskonto amortismanı faiz gideri olarak eklenir. Böylece tahvilin defter değeri itfa süresince nominal değere yaklaşır. Bu yöntem efektif faiz maliyetini doğru yansıtır."
         },
         {
           "q": "Bağımsız denetçi hangi durumlarda 'görüş vermekten kaçınır'?",
@@ -20784,26 +20784,26 @@ window.__C = {
           "e": "Genel önemlilik: finansal tabloların bütünü için belirlenen eşik (örn. 500.000 TL). Performans önemliliği (AM): bireysel hesap kalemleri için bunun altında belirlenen eşik (örn. 375.000 TL = genel önemliliğin %75'i). Amaç: tespit edilmemiş ve düzeltilmemiş hataların toplamının genel önemlilik eşiğini aşmamasını sağlamak."
         },
         {
-          "q": "Halka açık bir şirketin finansal tablolarını hazırlarken 'TMS/TFRS' ile 'VUK' arasında seçim hakkı var mıdır?",
+          "q": "Halka açık bir şirketin finansal tablolarını hazırlarken 'TMS/TFRS (türkiye finansal raporlama standartları)' ile 'VUK (vergi usul kanunu)' arasında seçim hakkı var mıdır?",
           "o": [
             "A) Şirket istediği sistemi seçebilir",
-            "B) SPK (sermaye piyasası kurulu) mevzuatı uyarınca halka açık şirketler TMS/TFRS'ye uygun finansal tablo hazırlamak zorundadır; VUK'a göre ayrıca vergi tabloları tutulabilir",
-            "C) Yalnızca VUK uygulanır",
+            "B) SPK (sermaye piyasası kurulu) mevzuatı uyarınca halka açık şirketler TMS/TFRS (türkiye finansal raporlama standartları)'ye uygun finansal tablo hazırlamak zorundadır; VUK (vergi usul kanunu)'a göre ayrıca vergi tabloları tutulabilir",
+            "C) Yalnızca VUK (vergi usul kanunu) uygulanır",
             "D) İkisinden biri seçilir ve bir daha değiştirilemez"
           ],
           "a": 1,
-          "e": "Halka açık şirketler SPK (sermaye piyasası kurulu)'nın II-14.1 sayılı Tebliği ve TFRS zorunluluğu nedeniyle TMS/TFRS'ye uygun finansal tablo hazırlamak zorundadır. Ayrıca vergi amaçlı VUK'a göre beyanname verilmesi de gerektiğinden çoğu şirket iki paralel sistem yürütür veya TMS tablolarından vergi uyarlamaları yapar."
+          "e": "Halka açık şirketler SPK (sermaye piyasası kurulu)'nın II-14.1 sayılı Tebliği ve TFRS (türkiye finansal raporlama standartları) zorunluluğu nedeniyle TMS/TFRS (türkiye finansal raporlama standartları)'ye uygun finansal tablo hazırlamak zorundadır. Ayrıca vergi amaçlı VUK (vergi usul kanunu)'a göre beyanname verilmesi de gerektiğinden çoğu şirket iki paralel sistem yürütür veya TMS tablolarından vergi uyarlamaları yapar."
         },
         {
           "q": "'Sürdürülebilirlik raporlaması' finansal raporlamayla nasıl ilişkilendirilmektedir?",
           "o": [
             "A) İkisi arasında hiçbir ilişki yoktur",
-            "B) ESG bilgileri kurumsal yatırımcılar ve kredi derecelendirme kuruluşları tarafından finansal raporlarla birlikte değerlendirilir; ISSB standartları (IFRS S1, S2) finansal raporlamayla entegrasyon hedefler",
+            "B) ESG (çevresel, sosyal ve yönetişim) bilgileri kurumsal yatırımcılar ve kredi derecelendirme kuruluşları tarafından finansal raporlarla birlikte değerlendirilir; ISSB standartları (IFRS S1, S2) finansal raporlamayla entegrasyon hedefler",
             "C) Sürdürülebilirlik raporu finansal tabloların yerini alır",
             "D) Yalnızca büyük şirketler sürdürülebilirlik raporu hazırlar"
           ],
           "a": 1,
-          "e": "Uluslararası Sürdürülebilirlik Standartları Kurulu (ISSB) 2023'te IFRS S1 (genel sürdürülebilirlik açıklamaları) ve IFRS S2 (iklim) standartlarını yayımladı. Bunlar mevcut IFRS finansal raporlamasıyla entegre çalışacak şekilde tasarlanmıştır. Türkiye'de SPK (sermaye piyasası kurulu) halka açık şirketler için sürdürülebilirlik ilkeleri tebliği yayımladı. ESG bilgisi artık yatırım kararlarının ayrılmaz parçası."
+          "e": "Uluslararası Sürdürülebilirlik Standartları Kurulu (ISSB) 2023'te IFRS S1 (genel sürdürülebilirlik açıklamaları) ve IFRS S2 (iklim) standartlarını yayımladı. Bunlar mevcut IFRS finansal raporlamasıyla entegre çalışacak şekilde tasarlanmıştır. Türkiye'de SPK (sermaye piyasası kurulu) halka açık şirketler için sürdürülebilirlik ilkeleri tebliği yayımladı. ESG (çevresel, sosyal ve yönetişim) bilgisi artık yatırım kararlarının ayrılmaz parçası."
         },
         {
           "q": "Bağımsız denetim raporunda 'kilit denetim konuları (KAM)' nedir ve amacı nedir?",
@@ -20817,7 +20817,7 @@ window.__C = {
           "e": "Kilit Denetim Konuları (Key Audit Matters — KAM): BDS 701 kapsamında halka açık şirket denetim raporlarında zorunlu. Denetçi, cari dönem denetiminde en fazla önem taşıyan konuları (değer düşüklüğü testleri, hasılat tanıma, vergi belirsizlikleri vb.) ayrı bölümlerde açıklar. Amaç: denetim raporunun şeffaflığını artırmak ve kullanıcılara ek içgörü sağlamak."
         },
         {
-          "q": "'Konsolide finansal tablo dipnotlarında segment raporlaması' (TFRS 8) ne amaçla hazırlanır?",
+          "q": "'Konsolide finansal tablo dipnotlarında segment raporlaması' (TFRS (türkiye finansal raporlama standartları) 8) ne amaçla hazırlanır?",
           "o": [
             "A) Yalnızca coğrafi bölgeleri raporlamak için",
             "C) Yönetimin şirketi nasıl yönettiğini yansıtarak yatırımcılara işletmenin farklı faaliyet alanlarının performansını göstermek",
@@ -20825,7 +20825,7 @@ window.__C = {
             "D) Yalnızca yasal zorunluluk olduğu için"
           ],
           "a": 1,
-          "e": "TFRS 8 (Faaliyet Bölümleri): yönetim yaklaşımı — şirketin üst yönetiminin (CODM) iç raporlamada kullandığı segmentler esas alınır. Amaç: yatırımcılara farklı faaliyet bölümlerinin (ürün/hizmet veya coğrafi) gelirleri, kârlılıkları ve varlıklarını göstermek. Segmentlerin tanımlama kriteri iç raporlama yapısına dayanır."
+          "e": "TFRS (türkiye finansal raporlama standartları) 8 (Faaliyet Bölümleri): yönetim yaklaşımı — şirketin üst yönetiminin (CODM) iç raporlamada kullandığı segmentler esas alınır. Amaç: yatırımcılara farklı faaliyet bölümlerinin (ürün/hizmet veya coğrafi) gelirleri, kârlılıkları ve varlıklarını göstermek. Segmentlerin tanımlama kriteri iç raporlama yapısına dayanır."
         },
         {
           "q": "Bağımsız denetimde 'kontrol testleri' ile 'maddi doğruluk testleri' arasındaki fark nedir?",
@@ -20878,7 +20878,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Sermaye Maliyeti",
-        "body": "<ul><li><strong>Ağırlıklı Ortalama Sermaye Maliyeti (AOSM/WACC):</strong> AOSM = w_d × k_d × (1−T) + w_s × k_s. Ağırlıklar piyasa değerleri baz alınarak hesaplanır; defter değeri değil.</li><li><strong>Borç maliyeti (k_d):</strong> Tahvil faiz oranı × (1 − vergi oranı). Vergi kalkanı nedeniyle vergi sonrası maliyet kullanılır.</li><li><strong>Özsermaye maliyeti:</strong> FVFM (CAPM): k_s = R_f + β × (R_m − R_f). Risksiz faiz + beta × piyasa risk primi. Gordon modeli: k_s = D₁/P₀ + g.</li><li><strong>Marjinal sermaye maliyeti:</strong> Ek bir birim kaynak sağlamanın maliyeti. Yatırım kararlarında kullanılacak iskonto oranı AOSM'dir.</li><li><strong>Önemli not:</strong> AOSM hesabında geçmiş maliyetler değil, marjinal (güncel) maliyetler kullanılır.</li></ul>"
+        "body": "<ul><li><strong>Ağırlıklı Ortalama Sermaye Maliyeti (AOSM/WACC):</strong> AOSM = w_d × k_d × (1−T) + w_s × k_s. Ağırlıklar piyasa değerleri baz alınarak hesaplanır; defter değeri değil.</li><li><strong>Borç maliyeti (k_d):</strong> Tahvil faiz oranı × (1 − vergi oranı). Vergi kalkanı nedeniyle vergi sonrası maliyet kullanılır.</li><li><strong>Özsermaye maliyeti:</strong> FVFM (CAPM (sermaye varlığı fiyatlama modeli)): k_s = R_f + β × (R_m − R_f). Risksiz faiz + beta × piyasa risk primi. Gordon modeli: k_s = D₁/P₀ + g.</li><li><strong>Marjinal sermaye maliyeti:</strong> Ek bir birim kaynak sağlamanın maliyeti. Yatırım kararlarında kullanılacak iskonto oranı AOSM'dir.</li><li><strong>Önemli not:</strong> AOSM hesabında geçmiş maliyetler değil, marjinal (güncel) maliyetler kullanılır.</li></ul>"
       },
       {
         "num": "04",
@@ -20903,12 +20903,12 @@ window.__C = {
       {
         "num": "08",
         "title": "Finansal Analiz",
-        "body": "<ul><li><strong>Likidite oranları:</strong> Cari oran = Dönen Varlık / KVB (≥2 hedef). Asit-test = (Dönen Varlık − Stok) / KVB. Nakit oran = (Kasa + Banka) / KVB.</li><li><strong>Finansal yapı oranları:</strong> Toplam borç / Aktif; Özsermaye / Aktif; Faiz karşılama oranı = FVÖK / Faiz giderleri.</li><li><strong>Faaliyet (etkinlik) oranları:</strong> Alacak devir hızı = Satışlar / Ort. Alacaklar. Stok devir hızı = SMM / Ort. Stoklar. Nakit dönüşüm döngüsü = Alacak + Stok süreleri − Borç ödeme süresi.</li><li><strong>Kârlılık oranları:</strong> Brüt kâr marjı, net kâr marjı, varlık kârlılığı (ROA = Net Kâr / Aktif), özsermaye kârlılığı (ROE = Net Kâr / Özsermaye). DuPont: ROE = Kâr marjı × Aktif devir hızı × Finansal kaldıraç.</li><li><strong>Dikey ve yatay analiz:</strong> Dikey (yüzdesel): her kalem toplama oranlanır. Yatay (trend): dönemler arası değişim izlenir.</li><li><strong>Finansal tablo makyajı:</strong> Gerçek durumu gizlemeye yönelik muhasebe uygulamaları — sale-leaseback, erken gelir tanıma, grup içi işlemler.</li></ul>"
+        "body": "<ul><li><strong>Likidite oranları:</strong> Cari oran = Dönen Varlık / KVB (≥2 hedef). Asit-test = (Dönen Varlık − Stok) / KVB. Nakit oran = (Kasa + Banka) / KVB.</li><li><strong>Finansal yapı oranları:</strong> Toplam borç / Aktif; Özsermaye / Aktif; Faiz karşılama oranı = FVÖK / Faiz giderleri.</li><li><strong>Faaliyet (etkinlik) oranları:</strong> Alacak devir hızı = Satışlar / Ort. Alacaklar. Stok devir hızı = SMM / Ort. Stoklar. Nakit dönüşüm döngüsü = Alacak + Stok süreleri − Borç ödeme süresi.</li><li><strong>Kârlılık oranları:</strong> Brüt kâr marjı, net kâr marjı, varlık kârlılığı (ROA (aktif kârlılığı) = Net Kâr / Aktif), özsermaye kârlılığı (ROE (özsermaye kârlılığı) = Net Kâr / Özsermaye). DuPont: ROE (özsermaye kârlılığı) = Kâr marjı × Aktif devir hızı × Finansal kaldıraç.</li><li><strong>Dikey ve yatay analiz:</strong> Dikey (yüzdesel): her kalem toplama oranlanır. Yatay (trend): dönemler arası değişim izlenir.</li><li><strong>Finansal tablo makyajı:</strong> Gerçek durumu gizlemeye yönelik muhasebe uygulamaları — sale-leaseback, erken gelir tanıma, grup içi işlemler.</li></ul>"
       },
       {
         "num": "09",
         "title": "Leasing, Faktoring ve Forfaiting",
-        "body": "<ul><li><strong>Leasing (finansal kiralama):</strong> Kiracı varlığı kullanır ama sahibi değildir; kira öder. Finansal leasing: TFRS 16 kapsamında varlık ve yükümlülük bilançoya yansır; minimum ödemelerin BDG ≥ varlık değerinin %90'ı veya vade sonu mülkiyet devri varsa finansal leasing. Faydaları: teminat kolaylığı, bilanço esnekliği, vergi avantajı.</li><li><strong>Faaliyet leasingi:</strong> Kısa vadeli; bakım kiracıya; bilanço dışı (TFRS 16 öncesi yaklaşım). Varlık bilançoda aktifleşmez.</li><li><strong>Satış ve geri kiralama (Sale & Leaseback):</strong> Varlık satılır, ardından kiralanır — nakit sağlama yöntemi.</li><li><strong>Faktoring:</strong> Alacakların faktoring şirketine devri; erken nakit sağlama. Rücu edilebilir (alacak tahsil edilemezse satıcıya iade) ve rücu edilemez faktoring. Kaynak: ticari alacaklar.</li><li><strong>Forfaiting:</strong> Orta-uzun vadeli ihracat alacaklarının iskonto edilerek satışı; tamamen rücu edilemez. Kaynak: ihracat alacakları. Banka garantili poliçe veya aval zorunlu.</li></ul>"
+        "body": "<ul><li><strong>Leasing (finansal kiralama):</strong> Kiracı varlığı kullanır ama sahibi değildir; kira öder. Finansal leasing: TFRS (türkiye finansal raporlama standartları) 16 kapsamında varlık ve yükümlülük bilançoya yansır; minimum ödemelerin BDG ≥ varlık değerinin %90'ı veya vade sonu mülkiyet devri varsa finansal leasing. Faydaları: teminat kolaylığı, bilanço esnekliği, vergi avantajı.</li><li><strong>Faaliyet leasingi:</strong> Kısa vadeli; bakım kiracıya; bilanço dışı (TFRS (türkiye finansal raporlama standartları) 16 öncesi yaklaşım). Varlık bilançoda aktifleşmez.</li><li><strong>Satış ve geri kiralama (Sale & Leaseback):</strong> Varlık satılır, ardından kiralanır — nakit sağlama yöntemi.</li><li><strong>Faktoring:</strong> Alacakların faktoring şirketine devri; erken nakit sağlama. Rücu edilebilir (alacak tahsil edilemezse satıcıya iade) ve rücu edilemez faktoring. Kaynak: ticari alacaklar.</li><li><strong>Forfaiting:</strong> Orta-uzun vadeli ihracat alacaklarının iskonto edilerek satışı; tamamen rücu edilemez. Kaynak: ihracat alacakları. Banka garantili poliçe veya aval zorunlu.</li></ul>"
       }
     ],
     "tests": {
@@ -21060,7 +21060,7 @@ window.__C = {
           "q": "Leasingde 'finansal leasing' ile 'faaliyet leasingi' arasındaki temel fark nedir?",
           "o": [
             "A) Finansal leasingde kira ödemeleri daha düşüktür",
-            "B) Finansal leasingde varlık ve borç bilançoya yansır; faaliyet leasinginde bilanço etkisi yoktur (TFRS 16 öncesi)",
+            "B) Finansal leasingde varlık ve borç bilançoya yansır; faaliyet leasinginde bilanço etkisi yoktur (TFRS (türkiye finansal raporlama standartları) 16 öncesi)",
             "C) Faaliyet leasinginde varlık aktifleşir; finansal leasinginde aktifleşmez",
             "D) İkisi arasında vergi etkisi bakımından fark yoktur"
           ],
@@ -21090,15 +21090,15 @@ window.__C = {
           "e": "Forfaiting; orta-uzun vadeli ihracat alacaklarının, banka garantisi (aval) güvencesiyle, daima rücusuz (kayıp satıcıya dönmez) olarak iskonto edilip satışıdır. Faktoring ise ağırlıklı olarak kısa vadeli ticari alacakları (hem iç hem dış) kapsar ve rüculu faktoring de mevcut olabilir."
         },
         {
-          "q": "DuPont analizinde ROE hangi üç bileşene ayrıştırılır?",
+          "q": "DuPont analizinde ROE (özsermaye kârlılığı) hangi üç bileşene ayrıştırılır?",
           "o": [
             "A) Brüt kâr marjı × Stok devir hızı × Cari oran",
             "B) Net kâr marjı × Aktif devir hızı × Finansal kaldıraç",
             "C) FVÖK marjı × Borç/özsermaye × Vergi oranı",
-            "D) ROA × Satışlar / Aktif"
+            "D) ROA (aktif kârlılığı) × Satışlar / Aktif"
           ],
           "a": 1,
-          "e": "DuPont formülü: ROE = (Net Kâr/Satışlar) × (Satışlar/Toplam Aktif) × (Toplam Aktif/Özsermaye) = Net Kâr Marjı × Aktif Devir Hızı × Finansal Kaldıraç. Bu ayrıştırma ROE'deki değişimin kârlılıktan mı, verimlilikten mi yoksa kaldıraçtan mı kaynaklandığını tespit etmeye yarar."
+          "e": "DuPont formülü: ROE (özsermaye kârlılığı) = (Net Kâr/Satışlar) × (Satışlar/Toplam Aktif) × (Toplam Aktif/Özsermaye) = Net Kâr Marjı × Aktif Devir Hızı × Finansal Kaldıraç. Bu ayrıştırma ROE (özsermaye kârlılığı)'deki değişimin kârlılıktan mı, verimlilikten mi yoksa kaldıraçtan mı kaynaklandığını tespit etmeye yarar."
         },
         {
           "q": "Finansman hiyerarşisi (Pecking Order) teorisine göre şirketler hangi sırayla finansman kaynağı tercih eder?",
@@ -21402,15 +21402,15 @@ window.__C = {
           "e": "Uyumlu (matching / hedging) strateji: kalıcı ya da sürekli ihtiyaç duyulan dönen varlıklar uzun vadeli kaynaklarla, mevsimsel ya da geçici dönen varlıklar ise kısa vadeli kaynaklarla finanse edilir. Bu strateji risk ile maliyet arasında denge kurar; çok agresif ya da çok muhafazakâr değildir."
         },
         {
-          "q": "Varlık kârlılığı (ROA) ve özsermaye kârlılığı (ROE) arasındaki fark nedir?",
+          "q": "Varlık kârlılığı (ROA (aktif kârlılığı)) ve özsermaye kârlılığı (ROE (özsermaye kârlılığı)) arasındaki fark nedir?",
           "o": [
             "A) Her ikisi de aynı formülle hesaplanır",
-            "B) ROA tüm varlıkların ne kadar kâr ürettiğini; ROE hissedarların yatırdığı her birimin ne kadar kâr getirdiğini ölçer",
-            "C) ROA borçluluk yapısını yansıtır; ROE yansıtmaz",
-            "D) ROE her zaman ROA'dan küçüktür"
+            "B) ROA (aktif kârlılığı) tüm varlıkların ne kadar kâr ürettiğini; ROE (özsermaye kârlılığı) hissedarların yatırdığı her birimin ne kadar kâr getirdiğini ölçer",
+            "C) ROA (aktif kârlılığı) borçluluk yapısını yansıtır; ROE (özsermaye kârlılığı) yansıtmaz",
+            "D) ROE (özsermaye kârlılığı) her zaman ROA (aktif kârlılığı)'dan küçüktür"
           ],
           "a": 1,
-          "e": "ROA = Net Kâr / Toplam Aktif: şirketin tüm varlıklarını ne kadar verimli kullandığını gösterir; borç-özsermaye karmasından bağımsız. ROE = Net Kâr / Özsermaye: hissedarların yatırımına kârlılık getirisi. ROE > ROA ise şirket kaldıraçtan yararlanmaktadır; borç maliyeti varlık kârlılığının altındadır."
+          "e": "ROA (aktif kârlılığı) = Net Kâr / Toplam Aktif: şirketin tüm varlıklarını ne kadar verimli kullandığını gösterir; borç-özsermaye karmasından bağımsız. ROE (özsermaye kârlılığı) = Net Kâr / Özsermaye: hissedarların yatırımına kârlılık getirisi. ROE (özsermaye kârlılığı) > ROA (aktif kârlılığı) ise şirket kaldıraçtan yararlanmaktadır; borç maliyeti varlık kârlılığının altındadır."
         },
         {
           "q": "Birleşme kararında 'değişim oranı' nasıl hesaplanır?",
@@ -21487,7 +21487,7 @@ window.__C = {
             "D) Satılan Malın Maliyeti / Stoklar"
           ],
           "a": 1,
-          "e": "Varlık devir hızı = Net Satışlar / Ortalama Toplam Aktif. Oran yüksekse şirket yatırım yaptığı her birim varlık için daha fazla satış üretiyor demektir — verimlilik yüksek. DuPont analizinde bu oran ROE'nin ikinci bileşenini oluşturur."
+          "e": "Varlık devir hızı = Net Satışlar / Ortalama Toplam Aktif. Oran yüksekse şirket yatırım yaptığı her birim varlık için daha fazla satış üretiyor demektir — verimlilik yüksek. DuPont analizinde bu oran ROE (özsermaye kârlılığı)'nin ikinci bileşenini oluşturur."
         },
         {
           "q": "Birleşme sonrasında sinerji elde edilememesinin olası nedenleri nelerdir?",
@@ -21515,12 +21515,12 @@ window.__C = {
           "q": "Leasing'in şirket için finansman avantajları nelerdir?",
           "o": [
             "A) Varlık mülkiyeti şirkete geçer; bilanço aktifi artar",
-            "B) Teminat gerekmeyebilir; finansman esnekliği sağlar; faaliyet leasinginde bilanço dışı kalır (TFRS 16 öncesi); nakit akışları planlanabilir",
+            "B) Teminat gerekmeyebilir; finansman esnekliği sağlar; faaliyet leasinginde bilanço dışı kalır (TFRS (türkiye finansal raporlama standartları) 16 öncesi); nakit akışları planlanabilir",
             "C) Leasing her zaman satın almadan daha ucuzdur",
             "D) Yalnızca büyük şirketler leasing kullanabilir"
           ],
           "a": 1,
-          "e": "Leasing avantajları: (1) Standart banka kredisindeki gibi teminat gösterme zorunluluğu zayıf; varlık zaten teminat işlevi görür. (2) Faaliyet leasinginde (TFRS 16 öncesi) bilanço dışı finansman imkânı sunar. (3) Sabit kira ödemeleriyle nakit akışı planlaması kolaylaşır. (4) Yatırım mallarının hızla eskidiği sektörlerde teknoloji yenilemeyi kolaylaştırır."
+          "e": "Leasing avantajları: (1) Standart banka kredisindeki gibi teminat gösterme zorunluluğu zayıf; varlık zaten teminat işlevi görür. (2) Faaliyet leasinginde (TFRS (türkiye finansal raporlama standartları) 16 öncesi) bilanço dışı finansman imkânı sunar. (3) Sabit kira ödemeleriyle nakit akışı planlaması kolaylaşır. (4) Yatırım mallarının hızla eskidiği sektörlerde teknoloji yenilemeyi kolaylaştırır."
         },
         {
           "q": "Alacak yönetiminde kredi standartlarını gevşetmek ne sonuç doğurur?",
@@ -21575,7 +21575,7 @@ window.__C = {
             "D) Vergi avantajı yalnızca KDV'de ortaya çıkar"
           ],
           "a": 1,
-          "e": "Finansal leasingde: varlık aktifleştirildiğinden amortisman gideri yazılır; kira ödemesinin faiz bileşeni de gider yazılır → çifte vergi kalkanı. Faaliyet leasinginde (TFRS 16 öncesi veya kısa vadeli/küçük değerli muafiyette): tüm kira ödemesi doğrudan gider yazılır. Her iki durumda da kira ödemelerinin vergi matrahından düşülmesi vergiden korunma sağlar."
+          "e": "Finansal leasingde: varlık aktifleştirildiğinden amortisman gideri yazılır; kira ödemesinin faiz bileşeni de gider yazılır → çifte vergi kalkanı. Faaliyet leasinginde (TFRS (türkiye finansal raporlama standartları) 16 öncesi veya kısa vadeli/küçük değerli muafiyette): tüm kira ödemesi doğrudan gider yazılır. Her iki durumda da kira ödemelerinin vergi matrahından düşülmesi vergiden korunma sağlar."
         }
       ],
       "t4": [
@@ -21635,15 +21635,15 @@ window.__C = {
           "e": "Sinyal teorisine (asimetrik bilgi çerçevesinde) göre: yöneticiler şirketin gerçek değerini dış yatırımcılardan daha iyi bilir. Borçlanmayı seçmek, yöneticilerin faiz ödeme kapasitesine güvendiği ve şirketin düşük değerlendirildiği sinyalini verir. Hisse ihracı ise tam tersine 'şirket aşırı değerli olabilir; yönetim bu fırsatı kullanıyor' yorumuna yol açar."
         },
         {
-          "q": "Varlık kârlılığı (ROA) ile faiz maliyeti karşılaştırmasından ne anlaşılır?",
+          "q": "Varlık kârlılığı (ROA (aktif kârlılığı)) ile faiz maliyeti karşılaştırmasından ne anlaşılır?",
           "o": [
-            "A) ROA > Borç maliyeti: borçlanma hissedar değerini artırır — pozitif kaldıraç etkisi",
-            "B) ROA < Borç maliyeti: borçlanma tercih edilmelidir",
+            "A) ROA (aktif kârlılığı) > Borç maliyeti: borçlanma hissedar değerini artırır — pozitif kaldıraç etkisi",
+            "B) ROA (aktif kârlılığı) < Borç maliyeti: borçlanma tercih edilmelidir",
             "C) Bu karşılaştırmanın finansal analize katkısı yoktur",
-            "D) ROA her zaman borç maliyetinden yüksektir"
+            "D) ROA (aktif kârlılığı) her zaman borç maliyetinden yüksektir"
           ],
           "a": 0,
-          "e": "ROA > Borç maliyeti (vergi sonrası) ise şirket borçlanarak elde ettiği kaynağı maliyetinin üzerinde değerlendiriyor demektir — finansal kaldıraç ROE'yi artırır (pozitif kaldıraç etkisi). ROA < Borç maliyeti ise kaldıraç ROE'yi düşürür (negatif kaldıraç etkisi) — borçlanma hissedar değerini aşındırır."
+          "e": "ROA (aktif kârlılığı) > Borç maliyeti (vergi sonrası) ise şirket borçlanarak elde ettiği kaynağı maliyetinin üzerinde değerlendiriyor demektir — finansal kaldıraç ROE (özsermaye kârlılığı)'yi artırır (pozitif kaldıraç etkisi). ROA (aktif kârlılığı) < Borç maliyeti ise kaldıraç ROE (özsermaye kârlılığı)'yi düşürür (negatif kaldıraç etkisi) — borçlanma hissedar değerini aşındırır."
         },
         {
           "q": "Yatırım projelerinde 'iskontolu geri ödeme süresi (İGÖS)' standart GÖS'ten nasıl farklıdır?",
@@ -21726,12 +21726,12 @@ window.__C = {
           "q": "Finansal kaldıracın pozitif etkisi ne zaman gerçekleşir?",
           "o": [
             "A) Her zaman borç kullanmak kârlıdır",
-            "B) Şirketin varlık kârlılığı (ROA) borçlanmanın vergi sonrası maliyetinden yüksek olduğunda",
+            "B) Şirketin varlık kârlılığı (ROA (aktif kârlılığı)) borçlanmanın vergi sonrası maliyetinden yüksek olduğunda",
             "C) Borç/Özsermaye oranı 1'in altındayken",
             "D) Faiz oranları düştüğünde otomatik gerçekleşir"
           ],
           "a": 1,
-          "e": "Pozitif finansal kaldıraç: ROA > Vergi sonrası borç maliyeti [k_d × (1−T)] ise borçla finanse edilen varlıklar maliyetinin üzerinde getiri sağlar → ROE yükselir. Negatif kaldıraç: ROA < k_d × (1−T) ise borç hissedar değerini aşındırır. Bu nedenle borçlanma kararında sadece maliyet değil, varlık kârlılığı da dikkate alınmalıdır."
+          "e": "Pozitif finansal kaldıraç: ROA (aktif kârlılığı) > Vergi sonrası borç maliyeti [k_d × (1−T)] ise borçla finanse edilen varlıklar maliyetinin üzerinde getiri sağlar → ROE (özsermaye kârlılığı) yükselir. Negatif kaldıraç: ROA (aktif kârlılığı) < k_d × (1−T) ise borç hissedar değerini aşındırır. Bu nedenle borçlanma kararında sadece maliyet değil, varlık kârlılığı da dikkate alınmalıdır."
         },
         {
           "q": "Leasing kararında 'tam ödemeli leasing' ile 'kısmî ödemeli leasing' arasındaki fark nedir?",
@@ -21764,18 +21764,18 @@ window.__C = {
             "D) Nakit bütçesinin bir alt bileşenidir"
           ],
           "a": 1,
-          "e": "Serbest nakit akışı (FCF) = Faaliyet nakit akışı − Sermaye harcamaları (capex) − İşletme sermayesi değişimi. FCF, şirketin tüm operasyonel ve yatırım ihtiyaçlarını karşıladıktan sonra borç verenler ve hissedarlara dağıtılabilecek parayı gösterir. İndirgenmiş nakit akışı (DCF) yönteminde firma değeri, gelecekteki FCF'lerin AOSM ile bugüne indirgenmesiyle bulunur."
+          "e": "Serbest nakit akışı (FCF) = Faaliyet nakit akışı − Sermaye harcamaları (capex) − İşletme sermayesi değişimi. FCF, şirketin tüm operasyonel ve yatırım ihtiyaçlarını karşıladıktan sonra borç verenler ve hissedarlara dağıtılabilecek parayı gösterir. İndirgenmiş nakit akışı (DCF (indirgenmiş nakit akışı)) yönteminde firma değeri, gelecekteki FCF'lerin AOSM ile bugüne indirgenmesiyle bulunur."
         },
         {
           "q": "Finansal analizde 'borç/özsermaye oranı yüksek' bir şirket hakkında ne söylenebilir?",
           "o": [
             "A) Şirket kesinlikle iflas riski altındadır",
-            "B) Finansal kaldıraç yüksek; faiz yükü ağır; ROE potansiyeli yüksek ama finansal risk de yüksek — oran tek başına değil sektör ve nakit akışıyla birlikte değerlendirilmeli",
+            "B) Finansal kaldıraç yüksek; faiz yükü ağır; ROE (özsermaye kârlılığı) potansiyeli yüksek ama finansal risk de yüksek — oran tek başına değil sektör ve nakit akışıyla birlikte değerlendirilmeli",
             "C) Bu her zaman kötü bir işarettir",
             "D) Şirketin özsermayesi eksiktir"
           ],
           "a": 1,
-          "e": "Yüksek borç/özsermaye oranı tek başına iyi ya da kötü değildir; yorumu bağlama göre değişir. Faiz yükünü karşılayacak güçlü nakit akışı varsa kaldıraç değer yaratır (ROA > k_d). Aynı oran nakit akışı zayıf bir şirkette yüksek temerrüt riski demektir. Sektör ortalaması, faiz karşılama oranı ve FVÖK büyümesi birlikte incelenmeli."
+          "e": "Yüksek borç/özsermaye oranı tek başına iyi ya da kötü değildir; yorumu bağlama göre değişir. Faiz yükünü karşılayacak güçlü nakit akışı varsa kaldıraç değer yaratır (ROA (aktif kârlılığı) > k_d). Aynı oran nakit akışı zayıf bir şirkette yüksek temerrüt riski demektir. Sektör ortalaması, faiz karşılama oranı ve FVÖK büyümesi birlikte incelenmeli."
         },
         {
           "q": "Bir yatırım projesinin 'geçici çalışma sermayesi değişimi' proje sonunda nasıl ele alınır?",
@@ -21816,12 +21816,12 @@ window.__C = {
           "q": "Finansal planlamada 'sürdürülebilir büyüme oranı (sustainable growth rate)' nedir?",
           "o": [
             "A) Sektörün büyüme tahminleri",
-            "B) Şirketin dış finansmana başvurmadan ve mevcut borç/özsermaye oranını koruyarak büyüyebileceği maksimum oran: g = ROE × (1 − d)",
+            "B) Şirketin dış finansmana başvurmadan ve mevcut borç/özsermaye oranını koruyarak büyüyebileceği maksimum oran: g = ROE (özsermaye kârlılığı) × (1 − d)",
             "C) Makroekonomik büyüme tahminine dayalı projeksiyon",
             "D) Enflasyon oranıyla düzeltilmiş büyüme"
           ],
           "a": 1,
-          "e": "Sürdürülebilir büyüme oranı = ROE × (1 − temettü dağıtım oranı) = ROE × bırakılan kâr oranı. Bu oran şirketin mevcut sermaye yapısını ve temettü politikasını değiştirmeden, yalnızca iç kaynaklarla (bırakılan kâr) büyüyebileceği azami hızı gösterir. Bu oranın üzerinde büyümek dış finansman (borç veya hisse ihracı) gerektirir."
+          "e": "Sürdürülebilir büyüme oranı = ROE (özsermaye kârlılığı) × (1 − temettü dağıtım oranı) = ROE (özsermaye kârlılığı) × bırakılan kâr oranı. Bu oran şirketin mevcut sermaye yapısını ve temettü politikasını değiştirmeden, yalnızca iç kaynaklarla (bırakılan kâr) büyüyebileceği azami hızı gösterir. Bu oranın üzerinde büyümek dış finansman (borç veya hisse ihracı) gerektirir."
         },
         {
           "q": "'Karşılıklı dışlayıcı projeler' söz konusu olduğunda NBD ile İVO neden çelişebilir?",
@@ -21937,12 +21937,12 @@ window.__C = {
           "q": "Finansal analizde 'DuPont ayrıştırması' ile kârlılık düşüşünü açıklamak nasıl mümkün olur?",
           "o": [
             "A) Yalnızca kâr marjı düşmüşse açıklanabilir",
-            "B) ROE = Kâr marjı × Aktif devir hızı × Finansal kaldıraç; her bileşen ayrı ayrı incelenerek düşüşün kaynağı tespit edilir",
+            "B) ROE (özsermaye kârlılığı) = Kâr marjı × Aktif devir hızı × Finansal kaldıraç; her bileşen ayrı ayrı incelenerek düşüşün kaynağı tespit edilir",
             "C) Yalnızca likidite oranları kullanılarak açıklanır",
             "D) DuPont kârlılık düşüşünü açıklamada yetersizdir"
           ],
           "a": 1,
-          "e": "DuPont ile kârlılık analizi: ROE düşüyorsa üç bileşen ayrı ayrı incelenir. (1) Kâr marjı düşüyorsa: fiyat rekabeti, artan maliyetler veya gider yönetimi sorunu. (2) Aktif devir hızı düşüyorsa: varlıkların verimsiz kullanımı, aşırı stok/alacak birikimi. (3) Finansal kaldıraç düşüyorsa: borç ödenmesi veya hisse ihracı. Kombinasyon da mümkün — üç bileşenin birlikte analizi tam resmi verir."
+          "e": "DuPont ile kârlılık analizi: ROE (özsermaye kârlılığı) düşüyorsa üç bileşen ayrı ayrı incelenir. (1) Kâr marjı düşüyorsa: fiyat rekabeti, artan maliyetler veya gider yönetimi sorunu. (2) Aktif devir hızı düşüyorsa: varlıkların verimsiz kullanımı, aşırı stok/alacak birikimi. (3) Finansal kaldıraç düşüyorsa: borç ödenmesi veya hisse ihracı. Kombinasyon da mümkün — üç bileşenin birlikte analizi tam resmi verir."
         },
         {
           "q": "Finansal yönetimde 'temsil maliyetleri' hangi kalemlerden oluşur?",
@@ -21986,7 +21986,7 @@ window.__C = {
             "D) Yalnızca stok yönetimine odaklanma"
           ],
           "a": 1,
-          "e": "Agresif dönen varlık politikasında şirket minimum stok, minimum alacak ve minimum nakit tutar. Avantaj: dönen varlıklara bağlanan kapital azalır, finansman maliyeti düşer, ROE potansiyel yükselir. Dezavantaj: stok tükenme riski (satış fırsatı kaybı), müşterilere yeterli kredi verilememesi, beklenmedik nakit çıkışlarında sıkışıklık. Risk-getiri dengesi dikkatli kurulmalıdır."
+          "e": "Agresif dönen varlık politikasında şirket minimum stok, minimum alacak ve minimum nakit tutar. Avantaj: dönen varlıklara bağlanan kapital azalır, finansman maliyeti düşer, ROE (özsermaye kârlılığı) potansiyel yükselir. Dezavantaj: stok tükenme riski (satış fırsatı kaybı), müşterilere yeterli kredi verilememesi, beklenmedik nakit çıkışlarında sıkışıklık. Risk-getiri dengesi dikkatli kurulmalıdır."
         },
         {
           "q": "Finansal planlama açısından 'faaliyet başabaşı' ile 'nakit başabaşı' arasındaki fark nedir?",
@@ -22029,22 +22029,22 @@ window.__C = {
       {
         "num": "01",
         "title": "Sermaye Piyasası Kanunu (6362 sayılı SPK (sermaye piyasası kurulu)n) — Temel Kavramlar ve Yapı",
-        "body": "<ul><li><strong>Sermaye piyasası:</strong> Orta ve uzun vadeli fonların sermaye piyasası araçları aracılığıyla tasarruf sahiplerinden fon talep edenlere aktarıldığı piyasa. 6362 sayılı SPK (sermaye piyasası kurulu)n'nun hazırlanma gerekçeleri: 6102 TTK reformu, AB mevzuatı uyumu, 2008 küresel kriz dersleri.</li><li><strong>Sermaye piyasası araçları:</strong> Menkul kıymetler (paylar, borçlanma araçları) + türev araçlar + diğer araçlar. Para, çek, poliçe, bono kapsam dışı.</li><li><strong>Kaydi sistem — MKK:</strong> Sermaye piyasası araçları fiziksel senet olmaksızın elektronik ortamda izlenir. MKK ve üyeleri hatalı kayıttan doğan zarardan kusurları oranında sorumludur.</li><li><strong>SPK (sermaye piyasası kurulu)'nın yetkileri:</strong> Düzenleme, denetim, yaptırım, muafiyet. İdari para cezası: 20.000–250.000 TL; menfaat sağlanmışsa 2 katından az olamaz.</li><li><strong>Suçlar ve cezalar:</strong> İçsel bilgi kullanımı md.106 → 2–5 yıl; Piyasa dolandırıcılığı md.107 → 3–5 yıl; İzinsiz faaliyet md.108 → 2–5 yıl; Kripto varlık zimmet md.110/A → 6–12 yıl (zarar 3 katı).</li><li><strong>Yatırım hizmetleri (10 başlık):</strong> Emir iletimi, işlem aracılığı, portföy aracılığı, portföy yöneticiliği, yatırım danışmanlığı, yüklenimli/yüklenimsiz halka arza aracılık, çok taraflı alım satım sistemi, saklama/yönetim, Kurulca belirlenecek diğerleri.</li></ul>"
+        "body": "<ul><li><strong>Sermaye piyasası:</strong> Orta ve uzun vadeli fonların sermaye piyasası araçları aracılığıyla tasarruf sahiplerinden fon talep edenlere aktarıldığı piyasa. 6362 sayılı SPK (sermaye piyasası kurulu)n'nun hazırlanma gerekçeleri: 6102 TTK (türk ticaret kanunu) reformu, AB mevzuatı uyumu, 2008 küresel kriz dersleri.</li><li><strong>Sermaye piyasası araçları:</strong> Menkul kıymetler (paylar, borçlanma araçları) + türev araçlar + diğer araçlar. Para, çek, poliçe, bono kapsam dışı.</li><li><strong>Kaydi sistem — MKK (merkezi kayıt kuruluşu):</strong> Sermaye piyasası araçları fiziksel senet olmaksızın elektronik ortamda izlenir. MKK (merkezi kayıt kuruluşu) ve üyeleri hatalı kayıttan doğan zarardan kusurları oranında sorumludur.</li><li><strong>SPK (sermaye piyasası kurulu)'nın yetkileri:</strong> Düzenleme, denetim, yaptırım, muafiyet. İdari para cezası: 20.000–250.000 TL; menfaat sağlanmışsa 2 katından az olamaz.</li><li><strong>Suçlar ve cezalar:</strong> İçsel bilgi kullanımı md.106 → 2–5 yıl; Piyasa dolandırıcılığı md.107 → 3–5 yıl; İzinsiz faaliyet md.108 → 2–5 yıl; Kripto varlık zimmet md.110/A → 6–12 yıl (zarar 3 katı).</li><li><strong>Yatırım hizmetleri (10 başlık):</strong> Emir iletimi, işlem aracılığı, portföy aracılığı, portföy yöneticiliği, yatırım danışmanlığı, yüklenimli/yüklenimsiz halka arza aracılık, çok taraflı alım satım sistemi, saklama/yönetim, Kurulca belirlenecek diğerleri.</li></ul>"
       },
       {
         "num": "02",
         "title": "Özel Durumlar Tebliği (II-15.1) — Kamuyu Aydınlatma",
-        "body": "<ul><li><strong>İçsel bilgi:</strong> Sermaye piyasası aracının değerini/fiyatını etkileyebilecek, henüz kamuya açıklanmamış bilgi. Sürekli bilgi ise içsel bilgi dışında kalan tüm bilgi, olay ve gelişmelerdir.</li><li><strong>Erteleme koşulları (3'ü birlikte):</strong> Meşru menfaat + piyasayı yanıltmama + gizliliğin sağlanması. Erteleme sona erince derhal KAP'a bildirim.</li><li><strong>İdari sorumluluğu bulunan kişiler:</strong> YK üyeleri, üst yöneticiler ve birinci derece yakınları. Yıllık eşik: 1.000.000 TL; bildirim süresi: 3 iş günü.</li><li><strong>Açıklama şekli:</strong> KAP'ta Türkçe, elektronik imzalı. Çalışma saatleri dışındaki gelişmelerde ertesi iş günü en geç 09:00'a kadar.</li><li><strong>Sürekli bilgiler:</strong> Yılda en fazla 4 kez kâr tahmini açıklanabilir. Bilgilendirme politikası zorunlu.</li><li><strong>Olağan dışı fiyat/miktar hareketleri:</strong> İhraççı, doğrulama veya yalanlama bildirimi yapmakla yükümlü.</li></ul>"
+        "body": "<ul><li><strong>İçsel bilgi:</strong> Sermaye piyasası aracının değerini/fiyatını etkileyebilecek, henüz kamuya açıklanmamış bilgi. Sürekli bilgi ise içsel bilgi dışında kalan tüm bilgi, olay ve gelişmelerdir.</li><li><strong>Erteleme koşulları (3'ü birlikte):</strong> Meşru menfaat + piyasayı yanıltmama + gizliliğin sağlanması. Erteleme sona erince derhal KAP (kamuyu aydınlatma platformu)'a bildirim.</li><li><strong>İdari sorumluluğu bulunan kişiler:</strong> YK üyeleri, üst yöneticiler ve birinci derece yakınları. Yıllık eşik: 1.000.000 TL; bildirim süresi: 3 iş günü.</li><li><strong>Açıklama şekli:</strong> KAP (kamuyu aydınlatma platformu)'ta Türkçe, elektronik imzalı. Çalışma saatleri dışındaki gelişmelerde ertesi iş günü en geç 09:00'a kadar.</li><li><strong>Sürekli bilgiler:</strong> Yılda en fazla 4 kez kâr tahmini açıklanabilir. Bilgilendirme politikası zorunlu.</li><li><strong>Olağan dışı fiyat/miktar hareketleri:</strong> İhraççı, doğrulama veya yalanlama bildirimi yapmakla yükümlü.</li></ul>"
       },
       {
         "num": "03",
         "title": "Kurumsal Yönetim Tebliği (II-17.1)",
-        "body": "<ul><li><strong>4 Ana ilke:</strong> Şeffaflık, adillik, hesap verebilirlik, sorumluluk.</li><li><strong>4 Ana bölüm:</strong> Pay sahipleri, kamuyu aydınlatma ve şeffaflık, menfaat sahipleri, yönetim kurulu.</li><li><strong>Bağımsız YK üyesi:</strong> Bağımsızlık kaybında derhal istifa; 30 gün içinde yeni aday. Kurul olumsuz görüşü 20 gün içinde şirkete bildirilir. Kadın üye hedefi: en az %25.</li><li><strong>Komiteler:</strong> Denetim, riskin erken tespiti, kurumsal yönetim, ücret. Denetim komitesinde en az 1 üye: denetim/muhasebe-finans alanında 5 yıl tecrübe zorunlu.</li><li><strong>Önemli işlemler (%10+):</strong> Bağımsız üye çoğunluk onayı zorunlu; onaysız → KAP + genel kurul.</li><li><strong>İlişkili taraf işlemleri:</strong> Değerleme uzmanı raporu zorunlu; faiz, oy ve temettü ödemesinden yoksun bırakma gibi ayrımcı uygulamalar yasak.</li></ul>"
+        "body": "<ul><li><strong>4 Ana ilke:</strong> Şeffaflık, adillik, hesap verebilirlik, sorumluluk.</li><li><strong>4 Ana bölüm:</strong> Pay sahipleri, kamuyu aydınlatma ve şeffaflık, menfaat sahipleri, yönetim kurulu.</li><li><strong>Bağımsız YK üyesi:</strong> Bağımsızlık kaybında derhal istifa; 30 gün içinde yeni aday. Kurul olumsuz görüşü 20 gün içinde şirkete bildirilir. Kadın üye hedefi: en az %25.</li><li><strong>Komiteler:</strong> Denetim, riskin erken tespiti, kurumsal yönetim, ücret. Denetim komitesinde en az 1 üye: denetim/muhasebe-finans alanında 5 yıl tecrübe zorunlu.</li><li><strong>Önemli işlemler (%10+):</strong> Bağımsız üye çoğunluk onayı zorunlu; onaysız → KAP (kamuyu aydınlatma platformu) + genel kurul.</li><li><strong>İlişkili taraf işlemleri:</strong> Değerleme uzmanı raporu zorunlu; faiz, oy ve temettü ödemesinden yoksun bırakma gibi ayrımcı uygulamalar yasak.</li></ul>"
       },
       {
         "num": "04",
-        "title": "Gayrimenkul Yatırım Ortaklıkları (GYO) — III-48.1",
-        "body": "<ul><li><strong>GYO tanımı:</strong> Gayrimenkuller, gayrimenkul projeleri, gayrimenkule dayalı haklar ve altyapı yatırımlarından oluşan portföyü işletmek amacıyla kurulan sermaye piyasası kurumu.</li><li><strong>Kuruluş:</strong> Anonim şirket; halka açılma zorunlu; asgari sermaye şartı. Kuruluşa Kurul izni zorunlu.</li><li><strong>Portföy kısıtlamaları:</strong> Boş arsa/arazi sınırı; tek bir gayrimenkule maksimum yatırım oranı; yabancı gayrimenkul sınırları. Portföy değerinin en az %51'i gayrimenkul ve gayrimenkule dayalı haklardan oluşmalı.</li><li><strong>Yapamayacakları:</strong> Otel, hastane, alışveriş merkezi vb. işletmek (inşaat müteahhidi sıfatıyla); ticari işletme açmak; gayrimenkuller dışında diğer şirketlere iştirak (sınırlı istisnalar hariç).</li><li><strong>Altyapı GYO:</strong> Münhasıran altyapı yatırım ve hizmetlerinden oluşan portföy; enerji, ulaştırma, su, atık yönetimi. Farklı portföy sınırlamaları uygulanır.</li><li><strong>Kâr dağıtımı:</strong> Net dönem kârının en az %20'si nakit kâr payı olarak dağıtılır (Kurul belirlenen oran).</li></ul>"
+        "title": "Gayrimenkul Yatırım Ortaklıkları (GYO (gayrimenkul yatırım ortaklığı)) — III-48.1",
+        "body": "<ul><li><strong>GYO (gayrimenkul yatırım ortaklığı) tanımı:</strong> Gayrimenkuller, gayrimenkul projeleri, gayrimenkule dayalı haklar ve altyapı yatırımlarından oluşan portföyü işletmek amacıyla kurulan sermaye piyasası kurumu.</li><li><strong>Kuruluş:</strong> Anonim şirket; halka açılma zorunlu; asgari sermaye şartı. Kuruluşa Kurul izni zorunlu.</li><li><strong>Portföy kısıtlamaları:</strong> Boş arsa/arazi sınırı; tek bir gayrimenkule maksimum yatırım oranı; yabancı gayrimenkul sınırları. Portföy değerinin en az %51'i gayrimenkul ve gayrimenkule dayalı haklardan oluşmalı.</li><li><strong>Yapamayacakları:</strong> Otel, hastane, alışveriş merkezi vb. işletmek (inşaat müteahhidi sıfatıyla); ticari işletme açmak; gayrimenkuller dışında diğer şirketlere iştirak (sınırlı istisnalar hariç).</li><li><strong>Altyapı GYO (gayrimenkul yatırım ortaklığı):</strong> Münhasıran altyapı yatırım ve hizmetlerinden oluşan portföy; enerji, ulaştırma, su, atık yönetimi. Farklı portföy sınırlamaları uygulanır.</li><li><strong>Kâr dağıtımı:</strong> Net dönem kârının en az %20'si nakit kâr payı olarak dağıtılır (Kurul belirlenen oran).</li></ul>"
       },
       {
         "num": "05",
@@ -22054,12 +22054,12 @@ window.__C = {
       {
         "num": "06",
         "title": "Yatırım Fonları (III-52.1) ve Borsa Yatırım Fonları (III-52.2)",
-        "body": "<ul><li><strong>Yatırım fonu:</strong> Tüzel kişiliği olmayan mal varlığı; PYŞ tarafından içtüzük ile kurulan, inançlı mülkiyet esasıyla işletilen yapı. Şemsiye fon: tek içtüzük altında birden fazla alt fon.</li><li><strong>Portföy sınırlamaları:</strong> Tek ihraççıya %10 üst sınır (DİBS hariç). Borsa dışı sözleşmelerde karşı taraf yatırım dereceli; tek karşı taraf %10'u aşamaz.</li><li><strong>Fon türleri:</strong> Para piyasası, borçlanma araçları, hisse senedi, karma, katılım, fon sepeti, garantili, koruma amaçlı, serbest, BYF, gayrimenkul, girişim sermayesi fonları.</li><li><strong>Borsa Yatırım Fonu (BYF):</strong> Belirli bir endeksi takip eden; borsada sürekli işlem gören fon. Birincil piyasada yetkili katılımcılar aracılığıyla oluşturulur/geri alınır (in-kind). Takip farkı ve takip hatası izlenir.</li><li><strong>TEFAS zorunluluğu:</strong> Fon türüne göre TEFAS'a dahil olmak zorunlu.</li><li><strong>Garantili fon:</strong> Garantör yatırım dereceli olmalı; anapara veya belirli minimum getiri taahhüdü.</li></ul>"
+        "body": "<ul><li><strong>Yatırım fonu:</strong> Tüzel kişiliği olmayan mal varlığı; PYŞ tarafından içtüzük ile kurulan, inançlı mülkiyet esasıyla işletilen yapı. Şemsiye fon: tek içtüzük altında birden fazla alt fon.</li><li><strong>Portföy sınırlamaları:</strong> Tek ihraççıya %10 üst sınır (DİBS hariç). Borsa dışı sözleşmelerde karşı taraf yatırım dereceli; tek karşı taraf %10'u aşamaz.</li><li><strong>Fon türleri:</strong> Para piyasası, borçlanma araçları, hisse senedi, karma, katılım, fon sepeti, garantili, koruma amaçlı, serbest, BYF (borsa yatırım fonu), gayrimenkul, girişim sermayesi fonları.</li><li><strong>Borsa Yatırım Fonu (BYF (borsa yatırım fonu)):</strong> Belirli bir endeksi takip eden; borsada sürekli işlem gören fon. Birincil piyasada yetkili katılımcılar aracılığıyla oluşturulur/geri alınır (in-kind). Takip farkı ve takip hatası izlenir.</li><li><strong>TEFAS zorunluluğu:</strong> Fon türüne göre TEFAS'a dahil olmak zorunlu.</li><li><strong>Garantili fon:</strong> Garantör yatırım dereceli olmalı; anapara veya belirli minimum getiri taahhüdü.</li></ul>"
       },
       {
         "num": "07",
         "title": "Gayrimenkul ve Girişim Sermayesi Yatırım Fonları/Ortaklıkları",
-        "body": "<ul><li><strong>Gayrimenkul Yatırım Fonu (GYF — III-52.3):</strong> Nitelikli yatırımcılara özgü; gayrimenkul ve gayrimenkule dayalı haklara yatırım yapan fon. Kira geliri + değer artış getirisi. Portföyde en az %51 gayrimenkul. Kredi kullanabilir.</li><li><strong>Girişim Sermayesi Yatırım Fonu (GSYF — III-52.4):</strong> Nitelikli yatırımcılara özgü; erken aşama girişim şirketlerine yatırım yapar. Portföyün en az %80'i girişim sermayesi yatırımı. Yatırım komitesi zorunlu.</li><li><strong>Girişim Sermayesi Yatırım Ortaklığı (GSYO — III-48.3):</strong> Anonim şirket yapısında; girişim şirketlerine yatırım yapan sermaye piyasası kurumu. Lider sermayedar şartı. Girişim şirketine en fazla %49 pay edinimi.</li><li><strong>Ortak özellik:</strong> Her üç yapıda da yatırım dereceli karşı taraf şartı ve değerleme zorunluluğu var. Portföy değerlemesinde bağımsız değerleme raporu zorunlu.</li><li><strong>Fark:</strong> GYF ve GSYF fon (tüzel kişiliksiz); GYO ve GSYO ortaklık (anonim şirket). Fon esnek, ortaklık halka açık.</li></ul>"
+        "body": "<ul><li><strong>Gayrimenkul Yatırım Fonu (GYF (gayrimenkul yatırım fonu) — III-52.3):</strong> Nitelikli yatırımcılara özgü; gayrimenkul ve gayrimenkule dayalı haklara yatırım yapan fon. Kira geliri + değer artış getirisi. Portföyde en az %51 gayrimenkul. Kredi kullanabilir.</li><li><strong>Girişim Sermayesi Yatırım Fonu (GSYF — III-52.4):</strong> Nitelikli yatırımcılara özgü; erken aşama girişim şirketlerine yatırım yapar. Portföyün en az %80'i girişim sermayesi yatırımı. Yatırım komitesi zorunlu.</li><li><strong>Girişim Sermayesi Yatırım Ortaklığı (GSYO — III-48.3):</strong> Anonim şirket yapısında; girişim şirketlerine yatırım yapan sermaye piyasası kurumu. Lider sermayedar şartı. Girişim şirketine en fazla %49 pay edinimi.</li><li><strong>Ortak özellik:</strong> Her üç yapıda da yatırım dereceli karşı taraf şartı ve değerleme zorunluluğu var. Portföy değerlemesinde bağımsız değerleme raporu zorunlu.</li><li><strong>Fark:</strong> GYF (gayrimenkul yatırım fonu) ve GSYF fon (tüzel kişiliksiz); GYO (gayrimenkul yatırım ortaklığı) ve GSYO ortaklık (anonim şirket). Fon esnek, ortaklık halka açık.</li></ul>"
       },
       {
         "num": "08",
@@ -22075,10 +22075,10 @@ window.__C = {
             "A) 6102 sayılı Türk Ticaret Kanunu'nun yürürlüğe girmesi",
             "B) AB müktesebatına uyum zorunluluğu",
             "C) Piyasanın duyduğu ihtiyaçlar ve 2008 krizi dersleri",
-            "D) Türkiye'nin IMF'ye olan borçlarının yeniden yapılandırılması"
+            "D) Türkiye'nin IMF (uluslararası para fonu)'ye olan borçlarının yeniden yapılandırılması"
           ],
           "a": 3,
-          "e": "6362 sayılı SPK (sermaye piyasası kurulu)n'nun hazırlanmasında üç temel etken belirleyici olmuştur: 6102 sayılı TTK'nın yürürlüğe girmesi, AB müktesebatına uyum zorunluluğu ve piyasanın duyduğu ihtiyaçlar ile 2008 küresel finansal krizinin dersleri. IMF borç yapılandırması bu faktörler arasında yer almaz."
+          "e": "6362 sayılı SPK (sermaye piyasası kurulu)n'nun hazırlanmasında üç temel etken belirleyici olmuştur: 6102 sayılı TTK (türk ticaret kanunu)'nın yürürlüğe girmesi, AB müktesebatına uyum zorunluluğu ve piyasanın duyduğu ihtiyaçlar ile 2008 küresel finansal krizinin dersleri. IMF (uluslararası para fonu) borç yapılandırması bu faktörler arasında yer almaz."
         },
         {
           "q": "SPK (sermaye piyasası kurulu)n'ya göre 'halka açık ortaklık' sayılmak için hangi koşullardan biri yeterlidir?",
@@ -22106,15 +22106,15 @@ window.__C = {
           "q": "Kurumsal Yönetim Tebliği kapsamında bağımsız YK üyesinin bağımsızlığını yitirmesi halinde ne yapması gerekir?",
           "o": [
             "A) Bir sonraki genel kurula kadar görevine devam edebilir",
-            "B) Derhal istifa etmeli; YK durumu KAP'ta duyurmalı; 30 gün içinde yeni aday gösterilmeli",
+            "B) Derhal istifa etmeli; YK durumu KAP (kamuyu aydınlatma platformu)'ta duyurmalı; 30 gün içinde yeni aday gösterilmeli",
             "C) Yalnızca denetim komitesinden ayrılması yeterlidir",
             "D) SPK (sermaye piyasası kurulu)'ya başvurarak geçici muafiyet alabilir"
           ],
           "a": 1,
-          "e": "Bağımsızlık kriterlerini yitiren YK üyesi derhal istifa etmek zorundadır. YK bu durumu KAP'ta duyurur ve bağımsız üye adayı gösterimini 30 gün içinde tamamlamak zorundadır."
+          "e": "Bağımsızlık kriterlerini yitiren YK üyesi derhal istifa etmek zorundadır. YK bu durumu KAP (kamuyu aydınlatma platformu)'ta duyurur ve bağımsız üye adayı gösterimini 30 gün içinde tamamlamak zorundadır."
         },
         {
-          "q": "Gayrimenkul Yatırım Ortaklığı (GYO) portföyünde boş arsa ve araziye yatırılabilecek maksimum oran nedir?",
+          "q": "Gayrimenkul Yatırım Ortaklığı (GYO (gayrimenkul yatırım ortaklığı)) portföyünde boş arsa ve araziye yatırılabilecek maksimum oran nedir?",
           "o": [
             "A) %10",
             "B) %15",
@@ -22122,7 +22122,7 @@ window.__C = {
             "D) %30"
           ],
           "a": 2,
-          "e": "GYO Tebliği uyarınca, GYO portföyündeki toplam varlıkların en fazla %20'si boş arsa ve araziden oluşabilir. Bu sınır GYO'ların verimli gayrimenkul varlıkları üzerinde yoğunlaşmasını sağlamak amacıyla konulmuştur."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) Tebliği uyarınca, GYO (gayrimenkul yatırım ortaklığı) portföyündeki toplam varlıkların en fazla %20'si boş arsa ve araziden oluşabilir. Bu sınır GYO (gayrimenkul yatırım ortaklığı)'ların verimli gayrimenkul varlıkları üzerinde yoğunlaşmasını sağlamak amacıyla konulmuştur."
         },
         {
           "q": "Portföy Yönetim Şirketi (PYŞ) hangi hukuki yapıda kurulmak zorundadır?",
@@ -22158,7 +22158,7 @@ window.__C = {
           "e": "İşlemlerin öncelik sırası kuralı, sermaye piyasası çalışanının müşteriden emir aldıktan sonra o emrden önce aynı sermaye piyasası aracında kendi nam ve hesabına işlem yapmasını (scalping) yasaklar."
         },
         {
-          "q": "GYO'ların yapamayacakları işler arasında hangisi yer ALMAZ?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı)'ların yapamayacakları işler arasında hangisi yer ALMAZ?",
           "o": [
             "A) Ticari işletme işletmek",
             "B) Tarımsal faaliyette bulunmak",
@@ -22166,7 +22166,7 @@ window.__C = {
             "D) Müferit araç alım satımı yapmak"
           ],
           "a": 2,
-          "e": "GYO'ların yapamayacakları işler arasında ticari işletme işletme, tarımsal faaliyet ve müferit araç alım satımı sayılmaktadır. Gayrimenkul değerleme yaptırmak ise GYO'ların yasal yükümlülüğüdür; yasak değil, zorunluluktur."
+          "e": "GYO (gayrimenkul yatırım ortaklığı)'ların yapamayacakları işler arasında ticari işletme işletme, tarımsal faaliyet ve müferit araç alım satımı sayılmaktadır. Gayrimenkul değerleme yaptırmak ise GYO (gayrimenkul yatırım ortaklığı)'ların yasal yükümlülüğüdür; yasak değil, zorunluluktur."
         },
         {
           "q": "Serbest yatırım fonlarının temel özelliği nedir?",
@@ -22202,15 +22202,15 @@ window.__C = {
           "e": "SPK (sermaye piyasası kurulu)n md.107 uyarınca piyasa dolandırıcılığı suçunda 3 yıldan 5 yıla kadar hapis cezası öngörülmüştür. İçsel bilgi kullanımı (md.106) ise 2–5 yıl; bu iki suçun alt sınırı farklıdır — piyasa dolandırıcılığı daha ağırdır."
         },
         {
-          "q": "Borsa Yatırım Fonu'nda (BYF) 'arbitraj mekanizması' ne işe yarar?",
+          "q": "Borsa Yatırım Fonu'nda (BYF (borsa yatırım fonu)) 'arbitraj mekanizması' ne işe yarar?",
           "o": [
             "A) Vergi avantajı sağlar",
-            "B) BYF piyasa fiyatının net varlık değerine (NAV) yakın kalmasını sağlar",
+            "B) BYF (borsa yatırım fonu) piyasa fiyatının net varlık değerine (NAV (net varlık değeri)) yakın kalmasını sağlar",
             "C) Endeks takibini zorlaştırır",
             "D) İkincil piyasada işlem hacmini azaltır"
           ],
           "a": 1,
-          "e": "BYF'lerde arbitraj mekanizması: BYF piyasa fiyatı NAV'ın altına düşünce yetkili katılımcılar BYF payı alıp portföy sepeti ile değiştirerek kâr eder ve fiyatı yukarı çeker; fiyat NAV'ın üstündeyse ters yönde işlem yapar. Bu mekanizma fiyatı NAV'a yakın tutar."
+          "e": "BYF (borsa yatırım fonu)'lerde arbitraj mekanizması: BYF (borsa yatırım fonu) piyasa fiyatı NAV (net varlık değeri)'ın altına düşünce yetkili katılımcılar BYF (borsa yatırım fonu) payı alıp portföy sepeti ile değiştirerek kâr eder ve fiyatı yukarı çeker; fiyat NAV (net varlık değeri)'ın üstündeyse ters yönde işlem yapar. Bu mekanizma fiyatı NAV (net varlık değeri)'a yakın tutar."
         },
         {
           "q": "TSPB disiplin cezaları hafiften ağıra doğru sıralandığında hangisi doğrudur?",
@@ -22224,15 +22224,15 @@ window.__C = {
           "e": "TSPB Disiplin Yönetmeliği'nde cezalar hafiften ağıra: (1) uyarı, (2) kınama, (3) birlik üyeliğinden geçici çıkarma, (4) birlik üyeliğinden sürekli çıkarma. İdari para cezası ise ayrı bir yaptırım türüdür."
         },
         {
-          "q": "Gayrimenkul Yatırım Fonu (GYF) kimler tarafından kurulabilir?",
+          "q": "Gayrimenkul Yatırım Fonu (GYF (gayrimenkul yatırım fonu)) kimler tarafından kurulabilir?",
           "o": [
             "A) Herhangi bir banka",
             "B) Yalnızca portföy yönetim şirketleri",
             "C) Aracı kurumlar ve PYŞ'ler birlikte",
-            "D) GYO'lar tarafından"
+            "D) GYO (gayrimenkul yatırım ortaklığı)'lar tarafından"
           ],
           "a": 1,
-          "e": "III-52.3 sayılı GYF Tebliği uyarınca gayrimenkul yatırım fonları yalnızca portföy yönetim şirketleri tarafından kurulabilmektedir. GYF katılma payları yalnızca nitelikli yatırımcılara satılabilir."
+          "e": "III-52.3 sayılı GYF (gayrimenkul yatırım fonu) Tebliği uyarınca gayrimenkul yatırım fonları yalnızca portföy yönetim şirketleri tarafından kurulabilmektedir. GYF (gayrimenkul yatırım fonu) katılma payları yalnızca nitelikli yatırımcılara satılabilir."
         },
         {
           "q": "Menkul Kıymet Yatırım Ortaklığı (MKYO) portföyünde tek bir ihraççıya yatırılabilecek maksimum oran nedir?",
@@ -22322,10 +22322,10 @@ window.__C = {
             "D) SPK (sermaye piyasası kurulu) onayıyla belirli ilkelerden muafiyet alınabilir"
           ],
           "a": 1,
-          "e": "Uyum ya da açıkla yaklaşımında şirket her ilkeye uymak zorunda değildir; uymadığı ilkeler için gerekçesini kamuya (KAP'ta) açıklar. Bu esneklik mekanizması özellikle ihtiyari nitelikteki ilkelerde uygulanır."
+          "e": "Uyum ya da açıkla yaklaşımında şirket her ilkeye uymak zorunda değildir; uymadığı ilkeler için gerekçesini kamuya (KAP (kamuyu aydınlatma platformu)'ta) açıklar. Bu esneklik mekanizması özellikle ihtiyari nitelikteki ilkelerde uygulanır."
         },
         {
-          "q": "GYO'ların borçlanma sınırı nedir?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı)'ların borçlanma sınırı nedir?",
           "o": [
             "A) Özkaynak kadar",
             "B) Özkaynaklarının 3 katı",
@@ -22333,7 +22333,7 @@ window.__C = {
             "D) Sınır bulunmamaktadır"
           ],
           "a": 1,
-          "e": "GYO Tebliği uyarınca gayrimenkul yatırım ortaklıklarının toplam borçları özkaynaklarının 3 katını aşamaz. Bu sınır GYO'ların aşırı kaldıraçlı yapıya girmesini önlemek amacıyla belirlenmiştir."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) Tebliği uyarınca gayrimenkul yatırım ortaklıklarının toplam borçları özkaynaklarının 3 katını aşamaz. Bu sınır GYO (gayrimenkul yatırım ortaklığı)'ların aşırı kaldıraçlı yapıya girmesini önlemek amacıyla belirlenmiştir."
         },
         {
           "q": "Portföy Yönetim Şirketi'nin temel faaliyet ilkelerinden olan 'çıkar çatışmasının önlenmesi' kapsamında hangisi doğrudur?",
@@ -22358,15 +22358,15 @@ window.__C = {
           "e": "Garantili ve koruma amaçlı fonlarda garantör kuruluşun yatırım dereceli (investment grade) olması zorunlu şarttır. Bu koşul yatırımcıların garanti taahhüdüne güvenebilmelerini sağlamak amacıyla getirilmiştir."
         },
         {
-          "q": "BYF'lerde 'yetkili katılımcı (YK)' kimdir ve görevi nedir?",
+          "q": "BYF (borsa yatırım fonu)'lerde 'yetkili katılımcı (YK)' kimdir ve görevi nedir?",
           "o": [
-            "A) BYF'nin portföyünü yöneten kişi",
-            "B) Birincil piyasada BYF payı oluşturma ve geri alma yetkisine sahip aracı kurum/banka",
-            "C) BYF'nin bağımsız denetçisi",
-            "D) BYF katılma paylarını yalnızca ikincil piyasada satın alan yatırımcı"
+            "A) BYF (borsa yatırım fonu)'nin portföyünü yöneten kişi",
+            "B) Birincil piyasada BYF (borsa yatırım fonu) payı oluşturma ve geri alma yetkisine sahip aracı kurum/banka",
+            "C) BYF (borsa yatırım fonu)'nin bağımsız denetçisi",
+            "D) BYF (borsa yatırım fonu) katılma paylarını yalnızca ikincil piyasada satın alan yatırımcı"
           ],
           "a": 1,
-          "e": "Yetkili katılımcı (YK), birincil piyasada portföy sepeti karşılığında BYF payı oluşturan (creation) veya BYF payı karşılığında portföy sepeti alan (redemption) yetkisine sahip büyük yatırım kuruluşudur. YK'lar aynı zamanda arbitraj mekanizmasının işlemesini sağlar."
+          "e": "Yetkili katılımcı (YK), birincil piyasada portföy sepeti karşılığında BYF (borsa yatırım fonu) payı oluşturan (creation) veya BYF (borsa yatırım fonu) payı karşılığında portföy sepeti alan (redemption) yetkisine sahip büyük yatırım kuruluşudur. YK'lar aynı zamanda arbitraj mekanizmasının işlemesini sağlar."
         },
         {
           "q": "GSYO'larda 'lider sermayedar' için hangi koşul aranmaktadır?",
@@ -22391,7 +22391,7 @@ window.__C = {
           "e": "TSPB etik ilkeleri kapsamında sır saklama yükümlülüğü, müşteriyle iş ilişkisi sona erse dahi geçerliliğini sürdürür. Müşteri bilgilerinin izinsiz paylaşımı her koşulda etik ihlal sayılır."
         },
         {
-          "q": "GYF portföyünün en az yüzde kaçı gayrimenkul varlıklarından oluşmak zorundadır?",
+          "q": "GYF (gayrimenkul yatırım fonu) portföyünün en az yüzde kaçı gayrimenkul varlıklarından oluşmak zorundadır?",
           "o": [
             "A) %51",
             "B) %67",
@@ -22399,7 +22399,7 @@ window.__C = {
             "D) %90"
           ],
           "a": 2,
-          "e": "III-52.3 sayılı GYF Tebliği uyarınca gayrimenkul yatırım fonu portföyünün en az %80'i gayrimenkul ve gayrimenkule bağlı haklardan oluşmak zorundadır. Bu kural GYF'nin özgün amacını korumasını güvence altına alır."
+          "e": "III-52.3 sayılı GYF (gayrimenkul yatırım fonu) Tebliği uyarınca gayrimenkul yatırım fonu portföyünün en az %80'i gayrimenkul ve gayrimenkule bağlı haklardan oluşmak zorundadır. Bu kural GYF (gayrimenkul yatırım fonu)'nin özgün amacını korumasını güvence altına alır."
         },
         {
           "q": "PYŞ'nin sermaye yeterliliğine ilişkin yükümlülükleri hangi esasa göre belirlenmektedir?",
@@ -22468,15 +22468,15 @@ window.__C = {
           "e": "SPK (sermaye piyasası kurulu)n md.108 uyarınca SPK (sermaye piyasası kurulu)'dan gerekli izin veya lisansı almaksızın sermaye piyasası faaliyetinde bulunanlar 2 yıldan 5 yıla kadar hapis cezası ve adli para cezasıyla cezalandırılır."
         },
         {
-          "q": "BYF'lerde 'takip hatası (tracking error)' nedir?",
+          "q": "BYF (borsa yatırım fonu)'lerde 'takip hatası (tracking error)' nedir?",
           "o": [
             "A) Portföy yöneticisinin verdiği hatalı emir",
-            "B) BYF'nin performansının takip ettiği endeksle arasındaki fark",
-            "C) BYF piyasa fiyatının NAV'dan sapması",
+            "B) BYF (borsa yatırım fonu)'nin performansının takip ettiği endeksle arasındaki fark",
+            "C) BYF (borsa yatırım fonu) piyasa fiyatının NAV (net varlık değeri)'dan sapması",
             "D) Yanlış endeks seçimi"
           ],
           "a": 1,
-          "e": "Takip hatası (tracking error), BYF'nin portföy getirisi ile takip ettiği referans endeksin getirisi arasındaki sapmaları ölçen istatistiksel göstergedir. Düşük takip hatası, BYF'nin endeksi daha iyi takip ettiğini gösterir; düzenli kamuya açıklanması zorunludur."
+          "e": "Takip hatası (tracking error), BYF (borsa yatırım fonu)'nin portföy getirisi ile takip ettiği referans endeksin getirisi arasındaki sapmaları ölçen istatistiksel göstergedir. Düşük takip hatası, BYF (borsa yatırım fonu)'nin endeksi daha iyi takip ettiğini gösterir; düzenli kamuya açıklanması zorunludur."
         },
         {
           "q": "TSPB davranış kuralları kapsamında 'gerçekdışı gösterim' yasağı kapsamında hangisi sayılır?",
@@ -22498,7 +22498,7 @@ window.__C = {
             "D) 1 milyon TL'yi aşan tüm işlemler"
           ],
           "a": 1,
-          "e": "Önemli işlem eşiği toplam varlıkların %10'udur. Bu eşiği aşan işlemlerde bağımsız YK üyelerinin çoğunluğunun onayı zorunludur. Onay alınamazsa KAP'ta duyurulur ve genel kurulun onayına sunulur; genel kurul onayı olmadan işlem gerçekleşemez."
+          "e": "Önemli işlem eşiği toplam varlıkların %10'udur. Bu eşiği aşan işlemlerde bağımsız YK üyelerinin çoğunluğunun onayı zorunludur. Onay alınamazsa KAP (kamuyu aydınlatma platformu)'ta duyurulur ve genel kurulun onayına sunulur; genel kurul onayı olmadan işlem gerçekleşemez."
         },
         {
           "q": "Özel Durumlar Tebliği kapsamında 'bildirim yükümlülüğü birden fazla kişide olduğunda' nasıl hesaplanır?",
@@ -22525,15 +22525,15 @@ window.__C = {
           "e": "Yatırımcı Tazmin Merkezi, yatırım hizmeti sunan kuruluşların mali açıdan güçlük içine düşmesi veya iflas etmesi durumunda küçük yatırımcıların alacaklarının SPK (sermaye piyasası kurulu)n'da belirlenen limitler dahilinde tazmin edilmesi amacıyla kurulmuştur."
         },
         {
-          "q": "GYO'larda 'altyapı GYO'su' nasıl tanımlanır?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı)'larda 'altyapı GYO (gayrimenkul yatırım ortaklığı)'su' nasıl tanımlanır?",
           "o": [
-            "A) Yalnızca inşaat projelerine yatırım yapan GYO",
-            "B) Münhasıran altyapı yatırım ve hizmetlerinden oluşan portföyü işleten GYO",
-            "C) Yabancı gayrimenkullere yatırım yapan GYO",
-            "D) Kamu sektörü ortaklıklarını kapsayan GYO"
+            "A) Yalnızca inşaat projelerine yatırım yapan GYO (gayrimenkul yatırım ortaklığı)",
+            "B) Münhasıran altyapı yatırım ve hizmetlerinden oluşan portföyü işleten GYO (gayrimenkul yatırım ortaklığı)",
+            "C) Yabancı gayrimenkullere yatırım yapan GYO (gayrimenkul yatırım ortaklığı)",
+            "D) Kamu sektörü ortaklıklarını kapsayan GYO (gayrimenkul yatırım ortaklığı)"
           ],
           "a": 1,
-          "e": "Altyapı GYO'su; münhasıran altyapı yatırım ve hizmetleri (enerji, ulaşım, telekomünikasyon vb.) üzerinde yoğunlaşan portföyü işletmek için kurulan özel GYO türüdür. Bu yapı standart GYO'lardan farklı portföy kompozisyonu ve organizasyon şartlarına tabidir."
+          "e": "Altyapı GYO (gayrimenkul yatırım ortaklığı)'su; münhasıran altyapı yatırım ve hizmetleri (enerji, ulaşım, telekomünikasyon vb.) üzerinde yoğunlaşan portföyü işletmek için kurulan özel GYO (gayrimenkul yatırım ortaklığı) türüdür. Bu yapı standart GYO (gayrimenkul yatırım ortaklığı)'lardan farklı portföy kompozisyonu ve organizasyon şartlarına tabidir."
         },
         {
           "q": "MKYO'ların değerleme esaslarına göre portföydeki varlıklar ne sıklıkla değerlenir?",
@@ -22550,12 +22550,12 @@ window.__C = {
           "q": "Portföy Yönetim Şirketi'nde 'faaliyetleri sınırlı PYŞ' nedir?",
           "o": [
             "A) Yalnızca bireysel portföy yönetimi yapan PYŞ",
-            "B) Sınırlı faaliyetlere (örn. yalnızca BYF kurma) yetkilendirilen; farklı sermaye/personel şartlarına tabi PYŞ",
+            "B) Sınırlı faaliyetlere (örn. yalnızca BYF (borsa yatırım fonu) kurma) yetkilendirilen; farklı sermaye/personel şartlarına tabi PYŞ",
             "C) Küçük ölçekli PYŞ'ler için özel bir statü",
             "D) Yabancı menşeli PYŞ'ler için kullanılan terim"
           ],
           "a": 1,
-          "e": "Faaliyetleri sınırlı PYŞ, yalnızca belirli kolektif yatırım kuruluşlarını (örneğin BYF veya GYF) kurma ve yönetme gibi kısıtlı faaliyetler için yetkilendirilen PYŞ türüdür. Bu yapılar daha düşük asgari sermaye ve farklı personel şartlarına tabi olabilir."
+          "e": "Faaliyetleri sınırlı PYŞ, yalnızca belirli kolektif yatırım kuruluşlarını (örneğin BYF (borsa yatırım fonu) veya GYF (gayrimenkul yatırım fonu)) kurma ve yönetme gibi kısıtlı faaliyetler için yetkilendirilen PYŞ türüdür. Bu yapılar daha düşük asgari sermaye ve farklı personel şartlarına tabi olabilir."
         },
         {
           "q": "TSPB meslek kuralları kapsamında üyelerin AML (kara para aklamayla mücadele) yükümlülüğü nasıl tanımlanmıştır?",
@@ -22569,29 +22569,29 @@ window.__C = {
           "e": "TSPB meslek kuralları kapsamında üyeler, suçtan kaynaklanan malvarlığı değerlerinin aklanması (kara para aklama) suçuyla mücadele kapsamında şüpheli işlemleri ilgili makamlara bildirmekle yükümlüdür. Bu yükümlülük hem TSPB kurallarında hem de MASAK (mali suçları araştırma kurulu) mevzuatında yer alır."
         },
         {
-          "q": "BYF ile standart yatırım fonu arasındaki temel işlemsel fark nedir?",
+          "q": "BYF (borsa yatırım fonu) ile standart yatırım fonu arasındaki temel işlemsel fark nedir?",
           "o": [
-            "A) BYF daha az varlıkla çalışır",
-            "B) BYF, hisse senedi gibi BİST'te gerçek zamanlı alınıp satılabilirken standart fon günlük tek fiyattan alınıp satılır",
+            "A) BYF (borsa yatırım fonu) daha az varlıkla çalışır",
+            "B) BYF (borsa yatırım fonu), hisse senedi gibi BİST'te gerçek zamanlı alınıp satılabilirken standart fon günlük tek fiyattan alınıp satılır",
             "C) Standart fonun günlük işlem hacmi daha yüksektir",
-            "D) BYF'de katılma payı ihracı daha zordur"
+            "D) BYF (borsa yatırım fonu)'de katılma payı ihracı daha zordur"
           ],
           "a": 1,
-          "e": "BYF'nin standart yatırım fondundan temel farkı: BYF birincil piyasada (portföy sepeti takası) ve ikincil piyasada (BİST'te hisse senedi gibi gerçek zamanlı) işlem görür. Standart yatırım fonları ise günlük tek bir birim fiyatı (BKPd) üzerinden alınıp satılır; gün içinde fiyat değişmez."
+          "e": "BYF (borsa yatırım fonu)'nin standart yatırım fondundan temel farkı: BYF (borsa yatırım fonu) birincil piyasada (portföy sepeti takası) ve ikincil piyasada (BİST'te hisse senedi gibi gerçek zamanlı) işlem görür. Standart yatırım fonları ise günlük tek bir birim fiyatı (BKPd) üzerinden alınıp satılır; gün içinde fiyat değişmez."
         },
         {
           "q": "Kurumsal Yönetim Tebliği kapsamında 'riskin erken saptanması komitesi' hangi şirketlerde zorunludur?",
           "o": [
             "A) Tüm halka açık şirketlerde",
             "B) Pay piyasasında işlem gören halka açık anonim ortaklıklarda",
-            "C) Yalnızca BIST 100 şirketlerinde",
+            "C) Yalnızca BIS (uluslararası ödemeler bankası)T (borsa istanbul) 100 şirketlerinde",
             "D) Yalnızca finansal kuruluşlarda"
           ],
           "a": 1,
           "e": "Riskin erken saptanması komitesi, pay piyasasında işlem gören halka açık anonim ortaklıklarda zorunlu tutulmuştur. Bu komitenin temel görevi, şirketin varlığını, gelişmesini ve devamını tehlikeye atabilecek riskleri erken tespit etmektir."
         },
         {
-          "q": "GYO'da gayrimenkul değerleme raporu yılda en az kaç kez güncellenmek zorundadır?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı)'da gayrimenkul değerleme raporu yılda en az kaç kez güncellenmek zorundadır?",
           "o": [
             "A) 1 kez",
             "B) 2 kez",
@@ -22599,7 +22599,7 @@ window.__C = {
             "D) Her işlem öncesinde"
           ],
           "a": 1,
-          "e": "GYO Tebliği uyarınca portföydeki gayrimenkuller için bağımsız değerleme şirketi tarafından yılda en az iki kez değerleme raporu hazırlanması zorunludur. Bu zorunluluk portföy değerinin güncel ve güvenilir kalmasını sağlar."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) Tebliği uyarınca portföydeki gayrimenkuller için bağımsız değerleme şirketi tarafından yılda en az iki kez değerleme raporu hazırlanması zorunludur. Bu zorunluluk portföy değerinin güncel ve güvenilir kalmasını sağlar."
         },
         {
           "q": "GSYF'de 'kaynak taahhüdü' ne anlama gelir?",
@@ -22621,7 +22621,7 @@ window.__C = {
             "D) Yalnızca temettü politikası"
           ],
           "a": 1,
-          "e": "Bilgilendirme politikası; şirketin kamuyu aydınlatma amacıyla hangi bilgileri, hangi kanallar (KAP, web sitesi, basın toplantısı vb.) aracılığıyla ve hangi sıklıkta kamuya açıklayacağına ilişkin esasları kapsar. Genel kurul onayına sunulmalı ve KAP'ta ilan edilmelidir."
+          "e": "Bilgilendirme politikası; şirketin kamuyu aydınlatma amacıyla hangi bilgileri, hangi kanallar (KAP (kamuyu aydınlatma platformu), web sitesi, basın toplantısı vb.) aracılığıyla ve hangi sıklıkta kamuya açıklayacağına ilişkin esasları kapsar. Genel kurul onayına sunulmalı ve KAP (kamuyu aydınlatma platformu)'ta ilan edilmelidir."
         },
         {
           "q": "TSPB Disiplin Komitesi'nde soruşturma başlatılması için ne gereklidir?",
@@ -22657,7 +22657,7 @@ window.__C = {
           "e": "Müşteriyi tanıma kuralı kapsamında üyeler; müşterinin kimliğini, mali durumunu, yatırım deneyimini ve amaçlarını, risk toleransını ve yatırım ufkunu belirlemek zorundadır. Bu bilgiler uygunluk değerlendirmesinin ve kişiselleştirilmiş hizmetin temelidir."
         },
         {
-          "q": "GYF'de portföyde yer alan gayrimenkuller için değerleme raporu yılda en az kaç kez hazırlanmak zorundadır?",
+          "q": "GYF (gayrimenkul yatırım fonu)'de portföyde yer alan gayrimenkuller için değerleme raporu yılda en az kaç kez hazırlanmak zorundadır?",
           "o": [
             "A) 1 kez",
             "B) 2 kez",
@@ -22665,18 +22665,18 @@ window.__C = {
             "D) 6 kez"
           ],
           "a": 1,
-          "e": "GYF Tebliği uyarınca gayrimenkul yatırım fonu portföyündeki gayrimenkuller için bağımsız değerleme şirketi tarafından yılda en az iki kez değerleme raporu hazırlanması zorunludur. Bu raporlar kamuya açıklanır."
+          "e": "GYF (gayrimenkul yatırım fonu) Tebliği uyarınca gayrimenkul yatırım fonu portföyündeki gayrimenkuller için bağımsız değerleme şirketi tarafından yılda en az iki kez değerleme raporu hazırlanması zorunludur. Bu raporlar kamuya açıklanır."
         },
         {
           "q": "Kurumsal Yönetim Tebliği kapsamında 'azlık hakları' için asgari pay oranı ne kadardır?",
           "o": [
             "A) Sermayenin %5'i",
             "B) Sermayenin %20'si",
-            "C) TTK'ya göre 1/20 (%5); esas sözleşmeyle daha aşağıya çekilebilir",
+            "C) TTK (türk ticaret kanunu)'ya göre 1/20 (%5); esas sözleşmeyle daha aşağıya çekilebilir",
             "D) En az 100 pay"
           ],
           "a": 2,
-          "e": "TTK'ya göre azlık hakları için aranan asgari pay oranı sermayenin 1/20'sidir (%5). SPK (sermaye piyasası kurulu) kurumsal yönetim ilkeleri kapsamında şirketler esas sözleşmelerinde bu oranı daha düşük belirleyerek azlık haklarını genişletebilir."
+          "e": "TTK (türk ticaret kanunu)'ya göre azlık hakları için aranan asgari pay oranı sermayenin 1/20'sidir (%5). SPK (sermaye piyasası kurulu) kurumsal yönetim ilkeleri kapsamında şirketler esas sözleşmelerinde bu oranı daha düşük belirleyerek azlık haklarını genişletebilir."
         },
         {
           "q": "GSYO'da 'halka açıklık oranı' en az kaç yüzde olmalıdır?",
@@ -22731,14 +22731,14 @@ window.__C = {
             "D) Likit yapısı nedeniyle özel kural gerekmez"
           ],
           "a": 1,
-          "e": "Proje GYF'leri henüz tamamlanmamış gayrimenkul projelerine yatırım yaptığından, inşaatın tamamlanamaması riski taşır. Bu nedenle proje tamamlama güvencesi (sigorta veya banka garantisi), ilerleme raporlaması ve tamamlanma kriterlerine ilişkin özel düzenlemeler gereklidir."
+          "e": "Proje GYF (gayrimenkul yatırım fonu)'leri henüz tamamlanmamış gayrimenkul projelerine yatırım yaptığından, inşaatın tamamlanamaması riski taşır. Bu nedenle proje tamamlama güvencesi (sigorta veya banka garantisi), ilerleme raporlaması ve tamamlanma kriterlerine ilişkin özel düzenlemeler gereklidir."
         }
       ],
       "t4": [
         {
           "q": "SPK (sermaye piyasası kurulu)n'da 'kitle fonlaması faaliyeti' hangi kanunla eklenmiştir ve borçlanmaya dayalı türü için ne geçerlidir?",
           "o": [
-            "A) 6102 sayılı TTK ile; bankacılık mevzuatı uygulanır",
+            "A) 6102 sayılı TTK (türk ticaret kanunu) ile; bankacılık mevzuatı uygulanır",
             "B) 7061 sayılı Kanun ile; borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanmaz",
             "C) SPK (sermaye piyasası kurulu)n'nun ilk halinde yer alıyordu; özel düzenleme yoktur",
             "D) 7222 sayılı Kanun ile; yalnızca nitelikli yatırımcılara açık"
@@ -22747,15 +22747,15 @@ window.__C = {
           "e": "Kitle fonlaması hükümleri 7061 sayılı Kanun ile SPK (sermaye piyasası kurulu)n'ya eklenmiştir. Önemli bir özellik: borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanmaz; münhasıran SPK (sermaye piyasası kurulu) düzenlemelerine tabidir."
         },
         {
-          "q": "GYO'da 'ekspertiz değerinin kullanılması' ilkesinin özü nedir?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı)'da 'ekspertiz değerinin kullanılması' ilkesinin özü nedir?",
           "o": [
-            "A) GYO varlıklarını her zaman piyasa değerinin üzerinde satabilir",
+            "A) GYO (gayrimenkul yatırım ortaklığı) varlıklarını her zaman piyasa değerinin üzerinde satabilir",
             "B) Gayrimenkul satışlarında ekspertiz değerinin altında fiyattan işlem yapılamaz (istisnalar hariç)",
             "C) Ekspertiz değeri her zaman alım fiyatını belirler",
             "D) Ekspertiz değeri yalnızca raporlama amacıyla kullanılır"
           ],
           "a": 1,
-          "e": "GYO Tebliği'ne göre portföydeki gayrimenkuller, bağımsız değerleme kuruluşunca belirlenen ekspertiz değerinin altında bir fiyatla satılamaz. Kurul onayıyla belirli istisnalar mümkün olsa da genel kural satış fiyatının ekspertiz değerinin altında kalamamasıdır."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) Tebliği'ne göre portföydeki gayrimenkuller, bağımsız değerleme kuruluşunca belirlenen ekspertiz değerinin altında bir fiyatla satılamaz. Kurul onayıyla belirli istisnalar mümkün olsa da genel kural satış fiyatının ekspertiz değerinin altında kalamamasıdır."
         },
         {
           "q": "TSPB davranış kurallarında 'çıkar çatışmalarının açıklanması' ne zaman zorunludur?",
@@ -22777,7 +22777,7 @@ window.__C = {
             "D) Borsada oluşan piyasa fiyatı baz alınır"
           ],
           "a": 1,
-          "e": "Fon portföy değeri; portföydeki varlıkların tebliğde belirlenen değerleme esaslarına göre hesaplanan toplam değerine diğer varlık ve alacakların eklenmesi ve borçların düşülmesiyle bulunur. Bu değer her iş günü KAP'ta ilan edilir."
+          "e": "Fon portföy değeri; portföydeki varlıkların tebliğde belirlenen değerleme esaslarına göre hesaplanan toplam değerine diğer varlık ve alacakların eklenmesi ve borçların düşülmesiyle bulunur. Bu değer her iş günü KAP (kamuyu aydınlatma platformu)'ta ilan edilir."
         },
         {
           "q": "GSYO'nun 'girişim sermayesi yatırımı' portföyüne alınabilmesi için girişim şirketinde hangi koşul aranmaz?",
@@ -22854,29 +22854,29 @@ window.__C = {
             "D) Yalnızca genel kurul kararlarında temsil mümkündür"
           ],
           "a": 1,
-          "e": "TTK'ya göre yönetim kurulu üyeliği kişiye özgü bir sıfat olup YK üyesi toplantıya katılamıyorsa başka biri onun yerine oy kullanamaz. YK üyesinin toplantıya fiziken veya elektronik ortamda katılması esastır."
+          "e": "TTK (türk ticaret kanunu)'ya göre yönetim kurulu üyeliği kişiye özgü bir sıfat olup YK üyesi toplantıya katılamıyorsa başka biri onun yerine oy kullanamaz. YK üyesinin toplantıya fiziken veya elektronik ortamda katılması esastır."
         },
         {
-          "q": "BYF'lerin 'asgari işlem birimi' ne anlama gelir?",
+          "q": "BYF (borsa yatırım fonu)'lerin 'asgari işlem birimi' ne anlama gelir?",
           "o": [
-            "A) Birincil piyasada pay oluşturma veya geri alma için gereken minimum BYF payı sayısı",
-            "B) İkincil piyasada alınabilecek minimum BYF payı sayısı",
+            "A) Birincil piyasada pay oluşturma veya geri alma için gereken minimum BYF (borsa yatırım fonu) payı sayısı",
+            "B) İkincil piyasada alınabilecek minimum BYF (borsa yatırım fonu) payı sayısı",
             "C) Portföy sepetinin içerdiği minimum hisse sayısı",
             "D) Günlük minimum işlem hacmi"
           ],
           "a": 0,
-          "e": "BYF'lerin birincil piyasasında (pay oluşturma ve geri alma), yetkili katılımcının bir işlemde kullanabileceği minimum BYF payı sayısı asgari işlem birimi olarak belirlenir. İkincil piyasada (BİST'te) ise 1 lot BYF payı alınıp satılabilir."
+          "e": "BYF (borsa yatırım fonu)'lerin birincil piyasasında (pay oluşturma ve geri alma), yetkili katılımcının bir işlemde kullanabileceği minimum BYF (borsa yatırım fonu) payı sayısı asgari işlem birimi olarak belirlenir. İkincil piyasada (BİST'te) ise 1 lot BYF (borsa yatırım fonu) payı alınıp satılabilir."
         },
         {
-          "q": "GYO'nun portföyüne alınan gayrimenkulde 'tapuya şerh zorunluluğu' neden gereklidir?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı)'nun portföyüne alınan gayrimenkulde 'tapuya şerh zorunluluğu' neden gereklidir?",
           "o": [
             "A) Satış vergisini düşürmek için",
-            "B) Tapu sicilinde GYO'nun portföyüne dahil olduğunun üçüncü kişilere karşı ileri sürülebilmesi için",
+            "B) Tapu sicilinde GYO (gayrimenkul yatırım ortaklığı)'nun portföyüne dahil olduğunun üçüncü kişilere karşı ileri sürülebilmesi için",
             "C) Yalnızca yabancı yatırımcılara satış için zorunludur",
             "D) Değerleme kolaylığı sağlamak için"
           ],
           "a": 1,
-          "e": "GYO portföyüne alınan gayrimenkuller için tapuya şerh düşülmesi, söz konusu gayrimenkulün GYO portföyüne dahil olduğunun tapu siciline kaydedilmesidir. Bu şerh üçüncü kişilere karşı hukuki güvence sağlar ve portföy varlıklarını ayırt eder."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) portföyüne alınan gayrimenkuller için tapuya şerh düşülmesi, söz konusu gayrimenkulün GYO (gayrimenkul yatırım ortaklığı) portföyüne dahil olduğunun tapu siciline kaydedilmesidir. Bu şerh üçüncü kişilere karşı hukuki güvence sağlar ve portföy varlıklarını ayırt eder."
         },
         {
           "q": "TSPB Disiplin Yönetmeliği'ne göre 'ceza zamanaşımı' ile 'soruşturma zamanaşımı' arasındaki fark nedir?",
@@ -22901,7 +22901,7 @@ window.__C = {
           "e": "Yatırım Fonları Tebliği uyarınca fonların ters repo ve repo işlemlerine ilişkin sınırlamalar belirlenmiştir. Ters repo işlemleri fon portföy değerinin belirli bir oranını aşamaz; bu sınır fon türüne ve içtüzüğe göre farklılık gösterebilir."
         },
         {
-          "q": "GYO'da 'özellik arz eden kararlar' için hangi özel prosedür uygulanır?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı)'da 'özellik arz eden kararlar' için hangi özel prosedür uygulanır?",
           "o": [
             "A) Yalnızca YK çoğunluğunun oyu yeterlidir",
             "B) Bağımsız YK üyelerinin çoğunluk onayı veya genel kurul kararı gerekir",
@@ -22909,7 +22909,7 @@ window.__C = {
             "D) Herhangi bir özel prosedür uygulanmaz"
           ],
           "a": 1,
-          "e": "GYO'larda portföy alım-satımları ve ilişkili taraf işlemleri gibi özellik arz eden kararlar için, YK'nın bağımsız üyelerinin çoğunluğunun onayı aranır. Bağımsız üyelerin çoğunluğu onay vermezse konu genel kurulun onayına sunulur."
+          "e": "GYO (gayrimenkul yatırım ortaklığı)'larda portföy alım-satımları ve ilişkili taraf işlemleri gibi özellik arz eden kararlar için, YK'nın bağımsız üyelerinin çoğunluğunun onayı aranır. Bağımsız üyelerin çoğunluğu onay vermezse konu genel kurulun onayına sunulur."
         },
         {
           "q": "TSPB meslek kurallarında 'haksız rekabetin önlenmesi' kapsamında üyelere getirilen yükümlülük nedir?",
@@ -22934,15 +22934,15 @@ window.__C = {
           "e": "MKYO'ların kendi paylarını geri alması Kurul düzenlemelerinde belirlenen esaslara tabidir. İşlemler piyasayı yanıltmama ve tüm pay sahiplerine eşit muamele ilkeleri gözetilerek yürütülmeli; geri alım programı kamuya açıklanmalıdır."
         },
         {
-          "q": "BYF'de 'portföy sepeti' kavramı ne anlama gelir?",
+          "q": "BYF (borsa yatırım fonu)'de 'portföy sepeti' kavramı ne anlama gelir?",
           "o": [
-            "A) BYF katılma paylarının borsada işlem gördüğü koleksiyon",
-            "B) Birincil piyasada BYF payı oluşturmak veya geri almak amacıyla yetkili katılımcının sunduğu belirlenmiş menkul kıymet/nakit kombinasyonu",
+            "A) BYF (borsa yatırım fonu) katılma paylarının borsada işlem gördüğü koleksiyon",
+            "B) Birincil piyasada BYF (borsa yatırım fonu) payı oluşturmak veya geri almak amacıyla yetkili katılımcının sunduğu belirlenmiş menkul kıymet/nakit kombinasyonu",
             "C) Fon yöneticisinin portföy dağılımını gösteren grafik",
-            "D) BYF'nin izlediği endeks bileşenleri"
+            "D) BYF (borsa yatırım fonu)'nin izlediği endeks bileşenleri"
           ],
           "a": 1,
-          "e": "Portföy sepeti (creation basket); birincil piyasada yetkili katılımcının BYF payı oluşturmak için fon kurucusuna teslim ettiği veya fon paylarını geri almak için aldığı, fon portföyünü temsil eden belirli menkul kıymet ve nakit kombinasyonudur. Sepet her gün güncellenir."
+          "e": "Portföy sepeti (creation basket); birincil piyasada yetkili katılımcının BYF (borsa yatırım fonu) payı oluşturmak için fon kurucusuna teslim ettiği veya fon paylarını geri almak için aldığı, fon portföyünü temsil eden belirli menkul kıymet ve nakit kombinasyonudur. Sepet her gün güncellenir."
         },
         {
           "q": "GSYF'de yatırım komitesinin rolü nedir?",
@@ -22980,15 +22980,15 @@ window.__C = {
           "e": "Kurumsal Yönetim Tebliği kapsamında YK'nın işlev ve yapısına ilişkin ilkeler; üye sayısı ve nitelikleri, seçim/atama süreci, görev süreleri, bağımsızlık kriterleri, toplantı düzeni, yetki ve görev dağılımı, ücretlendirme politikası ve performans değerlendirmesini kapsamaktadır."
         },
         {
-          "q": "GYO portföyünde 'inşaat hizmetleri' için hangi kural geçerlidir?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı) portföyünde 'inşaat hizmetleri' için hangi kural geçerlidir?",
           "o": [
-            "A) GYO her türlü inşaatı bizzat yapabilir",
-            "B) GYO inşaat işlerini bizzat yapamaz; müteahhit firmalarla sözleşme yaparak yaptırmak zorundadır",
+            "A) GYO (gayrimenkul yatırım ortaklığı) her türlü inşaatı bizzat yapabilir",
+            "B) GYO (gayrimenkul yatırım ortaklığı) inşaat işlerini bizzat yapamaz; müteahhit firmalarla sözleşme yaparak yaptırmak zorundadır",
             "C) Yalnızca kamu müteahhitleri kullanılabilir",
-            "D) İnşaat hizmetleri GYO portföyünde hiç yer almaz"
+            "D) İnşaat hizmetleri GYO (gayrimenkul yatırım ortaklığı) portföyünde hiç yer almaz"
           ],
           "a": 1,
-          "e": "GYO Tebliği uyarınca GYO'lar inşaat işlerini bizzat üstlenemez ve yürütemez; bu işleri müteahhit firmalarla sözleşme yaparak yaptırmak zorundadır. Bu kural GYO'nun yatırım ortaklığı kimliğini korumasını ve inşaat şirketine dönüşmesini önler."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) Tebliği uyarınca GYO (gayrimenkul yatırım ortaklığı)'lar inşaat işlerini bizzat üstlenemez ve yürütemez; bu işleri müteahhit firmalarla sözleşme yaparak yaptırmak zorundadır. Bu kural GYO (gayrimenkul yatırım ortaklığı)'nun yatırım ortaklığı kimliğini korumasını ve inşaat şirketine dönüşmesini önler."
         },
         {
           "q": "Yatırım Fonları Tebliği'nde para piyasası fonunun portföy süresine ilişkin özel kural nedir?",
@@ -23016,12 +23016,12 @@ window.__C = {
           "q": "SPK (sermaye piyasası kurulu)n kapsamında 'finansal altyapı kuruluşları' hangi kurumları kapsar?",
           "o": [
             "A) Yalnızca borsalar",
-            "B) Merkezi takas kuruluşları (Takasbank), merkezi saklama kuruluşları (MKK), ödeme ve veri depolama sistemleri",
+            "B) Merkezi takas kuruluşları (Takasbank (istanbul takas ve saklama bankası)), merkezi saklama kuruluşları (MKK (merkezi kayıt kuruluşu)), ödeme ve veri depolama sistemleri",
             "C) Portföy yönetim şirketleri ve aracı kurumlar",
             "D) Yalnızca derecelendirme kuruluşları"
           ],
           "a": 1,
-          "e": "SPK (sermaye piyasası kurulu)n kapsamında finansal altyapı kuruluşları; merkezi takas kuruluşu (Takasbank), merkezi saklama kuruluşu (MKK), ödeme sistemleri ve veri depolama kuruluşlarını kapsar. Bu kuruluşlar sermaye piyasasının temel işlem altyapısını oluşturur."
+          "e": "SPK (sermaye piyasası kurulu)n kapsamında finansal altyapı kuruluşları; merkezi takas kuruluşu (Takasbank (istanbul takas ve saklama bankası)), merkezi saklama kuruluşu (MKK (merkezi kayıt kuruluşu)), ödeme sistemleri ve veri depolama kuruluşlarını kapsar. Bu kuruluşlar sermaye piyasasının temel işlem altyapısını oluşturur."
         },
         {
           "q": "GSYF'nin girişim şirketlerine yatırım sınırlamasına aykırılık halinde uygulanacak tedbirler nelerdir?",
@@ -23038,12 +23038,12 @@ window.__C = {
           "q": "Özel Durumlar Tebliği kapsamında 'kamuya açıklanması ertelenen içsel bilginin açıklanmasını gerektiren durum ortaya çıkarsa' ne yapılmalıdır?",
           "o": [
             "A) Ertelenmiş bilginin açıklanması için Kurul'dan izin alınması gerekir",
-            "B) Erteleme sona erdirilir ve derhal KAP üzerinden kamuya açıklama yapılır",
+            "B) Erteleme sona erdirilir ve derhal KAP (kamuyu aydınlatma platformu) üzerinden kamuya açıklama yapılır",
             "C) İhraççı 10 iş günü içinde açıklama yapar",
             "D) Yalnızca borsaya bildirim yeterlidir"
           ],
           "a": 1,
-          "e": "Erteleme koşullarından birinin ortadan kalkması veya bilginin sızdığının öğrenilmesi durumunda erteleme sona erdirilir ve derhal — gecikme olmaksızın — KAP üzerinden kamuya açıklama yapılması zorunludur. Herhangi bir ek izin veya süre beklenmez."
+          "e": "Erteleme koşullarından birinin ortadan kalkması veya bilginin sızdığının öğrenilmesi durumunda erteleme sona erdirilir ve derhal — gecikme olmaksızın — KAP (kamuyu aydınlatma platformu) üzerinden kamuya açıklama yapılması zorunludur. Herhangi bir ek izin veya süre beklenmez."
         },
         {
           "q": "Yatırım Fonları Tebliği'ne göre şemsiye fonun sona ermesi ile alt fonun sona ermesi nasıl birbirinden bağımsızdır?",
@@ -23068,7 +23068,7 @@ window.__C = {
           "e": "TSPB Disiplin Yönetmeliği uyarınca disiplin soruşturması, aynı fiil nedeniyle SPK (sermaye piyasası kurulu) tarafından yürütülen idari soruşturma veya savcılık tarafından yürütülen ceza kovuşturmasıyla eş zamanlı ve bağımsız olarak sürdürülebilir. Biri diğerini durdurmaz."
         },
         {
-          "q": "GYO'da 'adi ortaklık oluşturmak' hangi koşulda mümkündür?",
+          "q": "GYO (gayrimenkul yatırım ortaklığı)'da 'adi ortaklık oluşturmak' hangi koşulda mümkündür?",
           "o": [
             "A) Her durumda serbestçe adi ortaklık kurulabilir",
             "B) Yalnızca gayrimenkul projeleri için belirli koşullar dahilinde ve Kurul düzenlemeleri çerçevesinde",
@@ -23076,18 +23076,18 @@ window.__C = {
             "D) Yalnızca yabancı şirketlerle adi ortaklık kurulabilir"
           ],
           "a": 1,
-          "e": "GYO Tebliği uyarınca GYO'ların adi ortaklık oluşturması belirli koşullara tabidir. Gayrimenkul projeleri için GYO Tebliği'nde belirlenen esaslar çerçevesinde adi ortaklık kurulabilir; ancak genel ticari amaçlı adi ortaklık yasaklıdır."
+          "e": "GYO (gayrimenkul yatırım ortaklığı) Tebliği uyarınca GYO (gayrimenkul yatırım ortaklığı)'ların adi ortaklık oluşturması belirli koşullara tabidir. Gayrimenkul projeleri için GYO (gayrimenkul yatırım ortaklığı) Tebliği'nde belirlenen esaslar çerçevesinde adi ortaklık kurulabilir; ancak genel ticari amaçlı adi ortaklık yasaklıdır."
         },
         {
           "q": "MKYO'da 'haftalık rapor' yükümlülüğü neyi kapsar?",
           "o": [
             "A) Her hafta yönetim kurulu kararları",
-            "B) Her hafta portföydeki varlıkların güncel durumunu ve değerini gösteren rapor; KAP'ta açıklanır",
+            "B) Her hafta portföydeki varlıkların güncel durumunu ve değerini gösteren rapor; KAP (kamuyu aydınlatma platformu)'ta açıklanır",
             "C) Yalnızca yeni alım-satım kararlarının duyurulması",
             "D) Müşteri şikâyetlerinin raporlanması"
           ],
           "a": 1,
-          "e": "MKYO'lar portföylerindeki varlıkların güncel değerini ve dağılımını gösteren haftalık portföy raporunu hazırlamak ve KAP'ta kamuya açıklamak zorundadır. Bu zorunluluk yatırımcıların portföy değeri konusunda sürekli bilgilendirilmesini sağlar."
+          "e": "MKYO'lar portföylerindeki varlıkların güncel değerini ve dağılımını gösteren haftalık portföy raporunu hazırlamak ve KAP (kamuyu aydınlatma platformu)'ta kamuya açıklamak zorundadır. Bu zorunluluk yatırımcıların portföy değeri konusunda sürekli bilgilendirilmesini sağlar."
         },
         {
           "q": "PYŞ'nin 'bağımsızlık ilkesi' ne anlama gelir?",
@@ -23134,7 +23134,7 @@ window.__C = {
           "e": "Kurumsal yönetimde menfaat sahipleri (stakeholders); şirketle doğrudan veya dolaylı çıkar ilişkisi bulunan pay sahipleri dışındaki tüm tarafları kapsar: çalışanlar, alacaklılar, müşteriler, tedarikçiler, toplum, çevre ve diğer ilgili gruplar. Bu kesimlerin haklarının korunması kurumsal yönetimin temel unsurlarından biridir."
         },
         {
-          "q": "BYF'lerin 'takip stratejisi' olarak 'temsili örnekleme (representative sampling)' nedir?",
+          "q": "BYF (borsa yatırım fonu)'lerin 'takip stratejisi' olarak 'temsili örnekleme (representative sampling)' nedir?",
           "o": [
             "A) Endeksteki her hisseyi tam olarak almak",
             "B) Endeksin genel karakteristiklerini taşıyan bir alt kümeye yatırım yaparak endeksi yaklaşık olarak takip etmek",
@@ -23142,7 +23142,7 @@ window.__C = {
             "D) Endeksin yarısını portföye almak"
           ],
           "a": 1,
-          "e": "Temsili örnekleme stratejisinde BYF, endeksteki tüm hisseleri satın almak yerine endeksin risk/getiri ve sektör dağılımını temsil eden daha küçük bir portföy oluşturur. Bu yöntem özellikle geniş veya likiditesi düşük endeksler için tercih edilir; tam replikasyondan daha düşük işlem maliyeti sağlar."
+          "e": "Temsili örnekleme stratejisinde BYF (borsa yatırım fonu), endeksteki tüm hisseleri satın almak yerine endeksin risk/getiri ve sektör dağılımını temsil eden daha küçük bir portföy oluşturur. Bu yöntem özellikle geniş veya likiditesi düşük endeksler için tercih edilir; tam replikasyondan daha düşük işlem maliyeti sağlar."
         },
         {
           "q": "TSPB meslek kurallarında 'kariyer gelişimi' kapsamında üyelerin çalışanlarına yönelik yükümlülüğü nedir?",
@@ -23164,7 +23164,7 @@ window.__C = {
             "D) Kolektif yönetim yalnızca nitelikli yatırımcılara sunulabilir"
           ],
           "a": 1,
-          "e": "Kolektif portföy yöneticiliği; yatırım fonu, GYO, MKYO gibi yapılar aracılığıyla çok sayıda yatırımcının ortak havuzunun yönetilmesidir. Bireysel portföy yöneticiliğinde ise tek bir müşterinin varlıkları takdir yetkisiyle yönetilir; her müşterinin portföyü ayrı ve kişiselleştirilmiş stratejiyle yönetilir."
+          "e": "Kolektif portföy yöneticiliği; yatırım fonu, GYO (gayrimenkul yatırım ortaklığı), MKYO gibi yapılar aracılığıyla çok sayıda yatırımcının ortak havuzunun yönetilmesidir. Bireysel portföy yöneticiliğinde ise tek bir müşterinin varlıkları takdir yetkisiyle yönetilir; her müşterinin portföyü ayrı ve kişiselleştirilmiş stratejiyle yönetilir."
         },
         {
           "q": "TSPB'de 'sermaye piyasası faaliyetlerinin sunumu' kuralı kapsamında özenli ve basiretli olma ilkesi ne gerektirir?",
@@ -23185,7 +23185,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Finansal Piyasalar — Temel Kavramlar ve BİST'in Hukuki Yapısı",
-        "body": "<ul><li><strong>Finansal piyasa:</strong> Fon fazlası olanların tasarruflarını fon eksiği olanlara aktardığı, mali varlıkların alınıp satıldığı piyasa. Fon arz edenler, fon talep edenler, araçlar, yardımcı kuruluşlar ve hukuki düzenden oluşur.</li><li><strong>Para piyasası:</strong> Vadesi 1 yılı aşmayan kısa vadeli fon arz-talebi. Araçlar: Hazine bonosu, finansman bonosu, banka bonoları, repo/ters repo.</li><li><strong>Sermaye piyasası:</strong> 1 yılı aşan uzun vadeli finansal varlıkların işlem gördüğü piyasa. İşletmelerin duran varlık finansmanında kullanılır.</li><li><strong>Organize / Tezgahüstü ayrımı:</strong> Organize: merkezi yapı, yazılı kurallar, regülatör denetimi (BİST, Takasbank piyasaları). Tezgahüstü: merkezi yapı yok, esnek kurallar, karşı taraf riski mevcut.</li><li><strong>BİST hukuki yapısı:</strong> SPK (sermaye piyasası kurulu)n kapsamında anonim şirket; kuruluşa Cumhurbaşkanı izni, faaliyete Kurul izni. Organlar: Genel Kurul, Yönetim Kurulu, Komiteler (Denetim, Uyum, Risk vb.).</li><li><strong>BİST üyeliği:</strong> Aracı kurumlar ve bankalar üye olabilir; üye temsilcisi yetkisi zorunlu. Üyeler disiplin kuruluna tabidir.</li></ul>"
+        "body": "<ul><li><strong>Finansal piyasa:</strong> Fon fazlası olanların tasarruflarını fon eksiği olanlara aktardığı, mali varlıkların alınıp satıldığı piyasa. Fon arz edenler, fon talep edenler, araçlar, yardımcı kuruluşlar ve hukuki düzenden oluşur.</li><li><strong>Para piyasası:</strong> Vadesi 1 yılı aşmayan kısa vadeli fon arz-talebi. Araçlar: Hazine bonosu, finansman bonosu, banka bonoları, repo/ters repo.</li><li><strong>Sermaye piyasası:</strong> 1 yılı aşan uzun vadeli finansal varlıkların işlem gördüğü piyasa. İşletmelerin duran varlık finansmanında kullanılır.</li><li><strong>Organize / Tezgahüstü ayrımı:</strong> Organize: merkezi yapı, yazılı kurallar, regülatör denetimi (BİST, Takasbank (istanbul takas ve saklama bankası) piyasaları). Tezgahüstü: merkezi yapı yok, esnek kurallar, karşı taraf riski mevcut.</li><li><strong>BİST hukuki yapısı:</strong> SPK (sermaye piyasası kurulu)n kapsamında anonim şirket; kuruluşa Cumhurbaşkanı izni, faaliyete Kurul izni. Organlar: Genel Kurul, Yönetim Kurulu, Komiteler (Denetim, Uyum, Risk vb.).</li><li><strong>BİST üyeliği:</strong> Aracı kurumlar ve bankalar üye olabilir; üye temsilcisi yetkisi zorunlu. Üyeler disiplin kuruluna tabidir.</li></ul>"
       },
       {
         "num": "02",
@@ -23200,7 +23200,7 @@ window.__C = {
       {
         "num": "04",
         "title": "BİST Vadeli İşlem ve Opsiyon Piyasası (VİOP)",
-        "body": "<ul><li><strong>VİOP sözleşme türleri:</strong> Pay vadeli işlem, endeks vadeli işlem (BIST30, BIST100), döviz vadeli işlem (USD/TRY, EUR/TRY), faiz vadeli işlem, kıymetli maden (altın), emtia. Opsiyon: pay ve endeks opsiyonları.</li><li><strong>Seans yapısı:</strong> Sabah öncesi seans (08:30–09:00), sürekli işlem seansı (09:00–18:15), akşam seansı (19:00–23:00).</li><li><strong>Teminatlar:</strong> Başlangıç teminatı (initial margin) pozisyon açılırken; değişim teminatı (variation margin) günlük mark-to-market. TL zorunluluğu: başlangıçta %50, ilave işlemde %30.</li><li><strong>Uzlaşma fiyatı:</strong> Günlük uzlaşma fiyatı gün sonu belirlenir; vade sonu uzlaşma fiyatı son işlem gününde. Uzlaşma Fiyatı Komitesi olağanüstü durumlarda devreye girer.</li><li><strong>Pozisyon limitleri:</strong> Sicil bazlı: fiili dolaşımdaki payın %3'ü; piyasa bazlı: Borsa genelge ile belirler; üye bazlı: %10.</li><li><strong>Piyasa yapıcılık:</strong> A ve B grubu sözleşmelerde; kotasyon genişlik limitleri ve min miktar zorunluluğu. 6 ayda bir performans değerlendirmesi.</li></ul>"
+        "body": "<ul><li><strong>VİOP sözleşme türleri:</strong> Pay vadeli işlem, endeks vadeli işlem (BIS (uluslararası ödemeler bankası)T (borsa istanbul)30, BIS (uluslararası ödemeler bankası)T (borsa istanbul)100), döviz vadeli işlem (USD/TRY, EUR/TRY), faiz vadeli işlem, kıymetli maden (altın), emtia. Opsiyon: pay ve endeks opsiyonları.</li><li><strong>Seans yapısı:</strong> Sabah öncesi seans (08:30–09:00), sürekli işlem seansı (09:00–18:15), akşam seansı (19:00–23:00).</li><li><strong>Teminatlar:</strong> Başlangıç teminatı (initial margin) pozisyon açılırken; değişim teminatı (variation margin) günlük mark-to-market. TL zorunluluğu: başlangıçta %50, ilave işlemde %30.</li><li><strong>Uzlaşma fiyatı:</strong> Günlük uzlaşma fiyatı gün sonu belirlenir; vade sonu uzlaşma fiyatı son işlem gününde. Uzlaşma Fiyatı Komitesi olağanüstü durumlarda devreye girer.</li><li><strong>Pozisyon limitleri:</strong> Sicil bazlı: fiili dolaşımdaki payın %3'ü; piyasa bazlı: Borsa genelge ile belirler; üye bazlı: %10.</li><li><strong>Piyasa yapıcılık:</strong> A ve B grubu sözleşmelerde; kotasyon genişlik limitleri ve min miktar zorunluluğu. 6 ayda bir performans değerlendirmesi.</li></ul>"
       },
       {
         "num": "05",
@@ -23209,18 +23209,18 @@ window.__C = {
       },
       {
         "num": "06",
-        "title": "Bankalararası Piyasalar ve Takasbank Piyasaları",
-        "body": "<ul><li><strong>Bankalararası repo piyasası:</strong> BİST dışında bankalar arası telefon/dealing platformu ile yapılan repo. Karşılıklı kredi limitleri ('line') çerçevesinde; aynı gün veya spot valör. Fiyatlar BİST repo pazarları bazlı.</li><li><strong>Bankalararası tahvil piyasası:</strong> DİBS'lerin bankalar arası doğrudan alım-satımı; BİST dışında, tezgahüstü.</li><li><strong>Takasbank Para Piyasası (TPP):</strong> TL fon arz-talep eden üyelerin karşılaştığı organize piyasa (1996'dan itibaren). Üyeler: aracı kurumlar, bankalar, finansal kiralama, faktoring, sigorta ve emeklilik şirketleri vb. Takasbank garanti verir; alış-satış kotasyonu vermez.</li><li><strong>Ödünç Pay Piyasası (ÖPP):</strong> Takasbank tarafından kurulan; kıymet ödünç alma-verme piyasası. Takasbank açık teklif yöntemiyle MKT. Vadeler: 1, 2, 3, 6, 9, 12 ay. Komisyon formüle göre hesaplanır.</li><li><strong>Borsa İstanbul Para Piyasası (BPP):</strong> BAP bünyesinde TL teminatlı borç alma-verme; Takasbank MKT. T+0 ve T+1 valör.</li><li><strong>BİST Swap Piyasası:</strong> Para Swap Pazarı (TL karşılığı döviz) ve Kıymetli Madenler Swap Pazarı. TCMB (türkiye cumhuriyet merkez bankası) de işlem yapabilir.</li></ul>"
+        "title": "Bankalararası Piyasalar ve Takasbank (istanbul takas ve saklama bankası) Piyasaları",
+        "body": "<ul><li><strong>Bankalararası repo piyasası:</strong> BİST dışında bankalar arası telefon/dealing platformu ile yapılan repo. Karşılıklı kredi limitleri ('line') çerçevesinde; aynı gün veya spot valör. Fiyatlar BİST repo pazarları bazlı.</li><li><strong>Bankalararası tahvil piyasası:</strong> DİBS'lerin bankalar arası doğrudan alım-satımı; BİST dışında, tezgahüstü.</li><li><strong>Takasbank (istanbul takas ve saklama bankası) Para Piyasası (TPP):</strong> TL fon arz-talep eden üyelerin karşılaştığı organize piyasa (1996'dan itibaren). Üyeler: aracı kurumlar, bankalar, finansal kiralama, faktoring, sigorta ve emeklilik şirketleri vb. Takasbank (istanbul takas ve saklama bankası) garanti verir; alış-satış kotasyonu vermez.</li><li><strong>Ödünç Pay Piyasası (ÖPP):</strong> Takasbank (istanbul takas ve saklama bankası) tarafından kurulan; kıymet ödünç alma-verme piyasası. Takasbank (istanbul takas ve saklama bankası) açık teklif yöntemiyle MKT. Vadeler: 1, 2, 3, 6, 9, 12 ay. Komisyon formüle göre hesaplanır.</li><li><strong>Borsa İstanbul Para Piyasası (BPP):</strong> BAP bünyesinde TL teminatlı borç alma-verme; Takasbank (istanbul takas ve saklama bankası) MKT. T+0 ve T+1 valör.</li><li><strong>BİST Swap Piyasası:</strong> Para Swap Pazarı (TL karşılığı döviz) ve Kıymetli Madenler Swap Pazarı. TCMB (türkiye cumhuriyet merkez bankası) de işlem yapabilir.</li></ul>"
       },
       {
         "num": "07",
         "title": "TEFAS — Türkiye Elektronik Fon Alım Satım Platformu",
-        "body": "<ul><li><strong>TEFAS nedir:</strong> Yatırım fonu katılma paylarının elektronik merkezi platformda satışına imkân veren sistem. Takas ve saklama Takasbank-MKK entegrasyonuyla tam otomasyon. III-52.1 Tebliği ve i-SPK (sermaye piyasası kurulu).52.2 kararı hukuki dayanağı.</li><li><strong>İşlem yapabilecekler:</strong> Aracı kurumlar ve bankalar (dağıtım kuruluşları); fon kurucuları (PYŞ). Müşteri web/mobil üzerinden de erişim.</li><li><strong>Alım talimatları:</strong> Fon payı alım emri platform üzerinden iletilir; ileriye dönük fiyatlama (emir günü fiyatı bilinmez). Netleştirme: günlük borç-alacak netleştirilir.</li><li><strong>Temerrüt:</strong> Üye temerrüdünde TCMB (türkiye cumhuriyet merkez bankası) geç likidite penceresi faizi + ek faiz. Teminatlara ve garanti fonuna başvurulur.</li><li><strong>TEFAS'ta işlem görebilecek fonlar:</strong> Para piyasası, borçlanma araçları, hisse senedi, karma, katılım, fon sepeti vb. fonlar. Serbest fonların bazı alt tipleri TEFAS'ta işlem göremez.</li><li><strong>Komisyon:</strong> Üyelik giriş ücreti (fon bazlı, bir kerelik) + işlem komisyonu.</li></ul>"
+        "body": "<ul><li><strong>TEFAS nedir:</strong> Yatırım fonu katılma paylarının elektronik merkezi platformda satışına imkân veren sistem. Takas ve saklama Takasbank (istanbul takas ve saklama bankası)-MKK (merkezi kayıt kuruluşu) entegrasyonuyla tam otomasyon. III-52.1 Tebliği ve i-SPK (sermaye piyasası kurulu).52.2 kararı hukuki dayanağı.</li><li><strong>İşlem yapabilecekler:</strong> Aracı kurumlar ve bankalar (dağıtım kuruluşları); fon kurucuları (PYŞ). Müşteri web/mobil üzerinden de erişim.</li><li><strong>Alım talimatları:</strong> Fon payı alım emri platform üzerinden iletilir; ileriye dönük fiyatlama (emir günü fiyatı bilinmez). Netleştirme: günlük borç-alacak netleştirilir.</li><li><strong>Temerrüt:</strong> Üye temerrüdünde TCMB (türkiye cumhuriyet merkez bankası) geç likidite penceresi faizi + ek faiz. Teminatlara ve garanti fonuna başvurulur.</li><li><strong>TEFAS'ta işlem görebilecek fonlar:</strong> Para piyasası, borçlanma araçları, hisse senedi, karma, katılım, fon sepeti vb. fonlar. Serbest fonların bazı alt tipleri TEFAS'ta işlem göremez.</li><li><strong>Komisyon:</strong> Üyelik giriş ücreti (fon bazlı, bir kerelik) + işlem komisyonu.</li></ul>"
       },
       {
         "num": "08",
         "title": "BEFAS — Bireysel Emeklilik Fon Alım Satım Platformu",
-        "body": "<ul><li><strong>BEFAS nedir:</strong> Emeklilik yatırım fonu katılma paylarının platform üyesi emeklilik şirketleri arasında satılmasına imkân veren elektronik platform. Takas Takasbank üzerinden. 256 sayılı Cumhurbaşkanlığı Kararı ve SPK (sermaye piyasası kurulu)-SEDD (güçlendirilmiş durum tespiti)K mevzuatı dayanağı.</li><li><strong>Üyelik:</strong> Emeklilik branşında faaliyet gösteren şirketler. Katılım zorunluluğu tabi olunan mevzuata bağlı.</li><li><strong>İşlem türleri:</strong> Alım (fon payı ihraç), satım (geri alım). Normal ve ileri valörlü talimatlar; valör tarihine kadar sistemde bekletilir.</li><li><strong>Takas:</strong> Takasbank sistemi üzerinden tam otomasyon. Alım işlemlerinde BEFAS Fon Payı İhraç Havuzu Hesabı kullanılır.</li><li><strong>BEFAS vs TEFAS farkı:</strong> TEFAS bireysel yatırım fonlarına (PYŞ fonları), BEFAS emeklilik yatırım fonlarına odaklanır. BEFAS'ta platformlar arası fon aktarımı (emeklilik şirketi değişikliği) da mümkün.</li><li><strong>Olağanüstü tedbirler:</strong> İşlem kısıtlama, fon payı işlemlerini durdurma; SPK (sermaye piyasası kurulu) ve SEDD (güçlendirilmiş durum tespiti)K koordinasyonu.</li></ul>"
+        "body": "<ul><li><strong>BEFAS nedir:</strong> Emeklilik yatırım fonu katılma paylarının platform üyesi emeklilik şirketleri arasında satılmasına imkân veren elektronik platform. Takas Takasbank (istanbul takas ve saklama bankası) üzerinden. 256 sayılı Cumhurbaşkanlığı Kararı ve SPK (sermaye piyasası kurulu)-SEDD (güçlendirilmiş durum tespiti)K mevzuatı dayanağı.</li><li><strong>Üyelik:</strong> Emeklilik branşında faaliyet gösteren şirketler. Katılım zorunluluğu tabi olunan mevzuata bağlı.</li><li><strong>İşlem türleri:</strong> Alım (fon payı ihraç), satım (geri alım). Normal ve ileri valörlü talimatlar; valör tarihine kadar sistemde bekletilir.</li><li><strong>Takas:</strong> Takasbank (istanbul takas ve saklama bankası) sistemi üzerinden tam otomasyon. Alım işlemlerinde BEFAS Fon Payı İhraç Havuzu Hesabı kullanılır.</li><li><strong>BEFAS vs TEFAS farkı:</strong> TEFAS bireysel yatırım fonlarına (PYŞ fonları), BEFAS emeklilik yatırım fonlarına odaklanır. BEFAS'ta platformlar arası fon aktarımı (emeklilik şirketi değişikliği) da mümkün.</li><li><strong>Olağanüstü tedbirler:</strong> İşlem kısıtlama, fon payı işlemlerini durdurma; SPK (sermaye piyasası kurulu) ve SEDD (güçlendirilmiş durum tespiti)K koordinasyonu.</li></ul>"
       }
     ],
     "tests": {
@@ -23251,12 +23251,12 @@ window.__C = {
           "q": "Türkiye'de aşağıdakilerden hangisi organize bir piyasa değildir?",
           "o": [
             "A) Borsa İstanbul Piyasaları",
-            "B) Takasbank Piyasaları",
+            "B) Takasbank (istanbul takas ve saklama bankası) Piyasaları",
             "C) T.C. Merkez Bankası Piyasaları",
             "D) Bankalararası Tahvil Piyasası"
           ],
           "a": 3,
-          "e": "Türkiye'de organize piyasalar: TCMB (türkiye cumhuriyet merkez bankası) Piyasaları, Borsa İstanbul Piyasaları ve Takasbank Piyasaları'dır. Bankalararası Tahvil Piyasası ise merkezi yapı arz etmeksizin bankalar arasında serbestçe gerçekleştirilen tezgahüstü (organize olmayan) bir piyasadır."
+          "e": "Türkiye'de organize piyasalar: TCMB (türkiye cumhuriyet merkez bankası) Piyasaları, Borsa İstanbul Piyasaları ve Takasbank (istanbul takas ve saklama bankası) Piyasaları'dır. Bankalararası Tahvil Piyasası ise merkezi yapı arz etmeksizin bankalar arasında serbestçe gerçekleştirilen tezgahüstü (organize olmayan) bir piyasadır."
         },
         {
           "q": "Borsa İstanbul A.Ş.'nin kuruluşuna hangi makam izin verir?",
@@ -23322,10 +23322,10 @@ window.__C = {
             "D) Emeklilik yatırım fonlarının satışını sağlamak"
           ],
           "a": 1,
-          "e": "TEFAS; yatırım fonu katılma belgelerinin elektronik merkezi platformda fon kurucuları tarafından dağıtım kuruluşları aracılığıyla satılmasına ve geri alınmasına imkân veren, takasın Takasbank-MKK entegrasyonuyla tam otomasyon bazında gerçekleştirildiği platformdur."
+          "e": "TEFAS; yatırım fonu katılma belgelerinin elektronik merkezi platformda fon kurucuları tarafından dağıtım kuruluşları aracılığıyla satılmasına ve geri alınmasına imkân veren, takasın Takasbank (istanbul takas ve saklama bankası)-MKK (merkezi kayıt kuruluşu) entegrasyonuyla tam otomasyon bazında gerçekleştirildiği platformdur."
         },
         {
-          "q": "Takasbank Para Piyasası (TPP) hangi tarihte faaliyete başlamıştır?",
+          "q": "Takasbank (istanbul takas ve saklama bankası) Para Piyasası (TPP) hangi tarihte faaliyete başlamıştır?",
           "o": [
             "A) 1 Ocak 1990",
             "B) 1 Ekim 1996",
@@ -23333,7 +23333,7 @@ window.__C = {
             "D) 14 Ekim 2016"
           ],
           "a": 1,
-          "e": "Takasbank Para Piyasası (TPP), TL fon fazlası ve/veya ihtiyacı olan üyelerin talep ve tekliflerinin karşılaşmasını sağlayan organize bir para piyasası olarak 1 Ekim 1996 tarihinde İstanbul Takas ve Saklama Bankası A.Ş. bünyesinde kurulmuştur."
+          "e": "Takasbank (istanbul takas ve saklama bankası) Para Piyasası (TPP), TL fon fazlası ve/veya ihtiyacı olan üyelerin talep ve tekliflerinin karşılaşmasını sağlayan organize bir para piyasası olarak 1 Ekim 1996 tarihinde İstanbul Takas ve Saklama Bankası A.Ş. bünyesinde kurulmuştur."
         },
         {
           "q": "VİOP'ta pozisyon limitlerinde 'sicil bazında pozisyon limiti' nasıl hesaplanır?",
@@ -23344,10 +23344,10 @@ window.__C = {
             "D) Üyenin sermayesinin 10 katı"
           ],
           "a": 1,
-          "e": "VİOP'ta sicil bazında pozisyon limiti; pay vadeli işlem ve opsiyon sözleşmelerinde her dayanak varlık için MKK tarafından açıklanan fiili dolaşımdaki pay miktarının %3'üne denk gelen dayanak varlık sayısıdır."
+          "e": "VİOP'ta sicil bazında pozisyon limiti; pay vadeli işlem ve opsiyon sözleşmelerinde her dayanak varlık için MKK (merkezi kayıt kuruluşu) tarafından açıklanan fiili dolaşımdaki pay miktarının %3'üne denk gelen dayanak varlık sayısıdır."
         },
         {
-          "q": "Takasbank Ödünç Pay Piyasası'nda (ÖPP) hangi vade seçenekleri bulunmaktadır?",
+          "q": "Takasbank (istanbul takas ve saklama bankası) Ödünç Pay Piyasası'nda (ÖPP) hangi vade seçenekleri bulunmaktadır?",
           "o": [
             "A) Yalnızca 1 ve 3 ay",
             "B) 1, 3, 6, 12 ay",
@@ -23410,7 +23410,7 @@ window.__C = {
             "D) Düzenleyici gözetim yokluğu"
           ],
           "a": 1,
-          "e": "OTC piyasaların en temel dezavantajı merkezi takas kuruluşunun (MKT) olmaması nedeniyle karşı taraf riskinin bulunmasıdır. Taraflardan biri temerrüde düşerse diğer taraf zarar görebilir. Bu risk organize piyasalarda Takasbank gibi MKT'ler tarafından üstlenilir."
+          "e": "OTC piyasaların en temel dezavantajı merkezi takas kuruluşunun (MKT) olmaması nedeniyle karşı taraf riskinin bulunmasıdır. Taraflardan biri temerrüde düşerse diğer taraf zarar görebilir. Bu risk organize piyasalarda Takasbank (istanbul takas ve saklama bankası) gibi MKT'ler tarafından üstlenilir."
         },
         {
           "q": "BİST Pay Piyasası'nda 'Endekse Bağlı Devre Kesici Sistemi (EBDKS)' ne zaman devreye girer?",
@@ -23421,7 +23421,7 @@ window.__C = {
             "D) Borsa tatil ilan edildiğinde"
           ],
           "a": 1,
-          "e": "EBDKS, BIST endekslerinde önceden belirlenen eşik oranlarında ani ve büyük değer kayıpları yaşandığında otomatik olarak devreye girerek işlemleri geçici olarak durduran sistemdir. Endeks bazlı çalışır; bireysel hisse sınırlarından farklıdır."
+          "e": "EBDKS, BIS (uluslararası ödemeler bankası)T (borsa istanbul) endekslerinde önceden belirlenen eşik oranlarında ani ve büyük değer kayıpları yaşandığında otomatik olarak devreye girerek işlemleri geçici olarak durduran sistemdir. Endeks bazlı çalışır; bireysel hisse sınırlarından farklıdır."
         },
         {
           "q": "BİST VİOP'ta başlangıç teminatı hesaplamasında kullanılan güven aralığı kaçtır?",
@@ -23440,7 +23440,7 @@ window.__C = {
             "A) BİST platformu üzerinden zorunlu olarak",
             "B) Telefonla pazarlık ya da dealing platformları aracılığıyla",
             "C) TCMB (türkiye cumhuriyet merkez bankası) aracılığıyla",
-            "D) Yalnızca Takasbank üzerinden"
+            "D) Yalnızca Takasbank (istanbul takas ve saklama bankası) üzerinden"
           ],
           "a": 1,
           "e": "Bankalararası repo piyasasında işlemler BİST dışında, bankalar arasında telefonla pazarlık veya bilgi dağıtım firmalarının (Reuters vb.) dealing imkânlarından faydalanılarak gerçekleştirilir. Karşılıklı kredi limiti ('line') şartı aranır."
@@ -23492,7 +23492,7 @@ window.__C = {
           "e": "Dengeleyici emir; BAP'ta eşleşme aşamasında karşılanmayan ve işleme dönüşmeyen kısmı otomatik olarak iptal edilen özel bir emir tipidir. Eşleşmezse sistemden düşer; işlem sonucunu beklemeye devam etmez."
         },
         {
-          "q": "Takasbank Ödünç Pay Piyasası'nda Takasbank'ın konumu nedir?",
+          "q": "Takasbank (istanbul takas ve saklama bankası) Ödünç Pay Piyasası'nda Takasbank (istanbul takas ve saklama bankası)'ın konumu nedir?",
           "o": [
             "A) Yalnızca takas işlemlerini yürütür",
             "B) Açık teklif yöntemiyle merkezi karşı taraf; ödünç verene karşı ödünç alan, ödünç alana karşı ödünç veren",
@@ -23500,7 +23500,7 @@ window.__C = {
             "D) Piyasada fiyat belirleyici"
           ],
           "a": 1,
-          "e": "Takasbank, ÖPP'de açık teklif yöntemiyle merkezi karşı taraf (MKT) sıfatını üstlenir. İşlemin eşleştiği anda katılımcılar arasına girerek ödünç verene karşı ödünç alan, ödünç alana karşı ise ödünç veren konumuna geçer."
+          "e": "Takasbank (istanbul takas ve saklama bankası), ÖPP'de açık teklif yöntemiyle merkezi karşı taraf (MKT) sıfatını üstlenir. İşlemin eşleştiği anda katılımcılar arasına girerek ödünç verene karşı ödünç alan, ödünç alana karşı ise ödünç veren konumuna geçer."
         },
         {
           "q": "BİST Pay Piyasası'nda açığa satış yapılabilmesi için temel koşul nedir?",
@@ -23692,7 +23692,7 @@ window.__C = {
           "e": "Toptan Alış Satış Pazarı (TAS), büyük miktarlı hisse senedi işlemlerinin olağan seans fiyatını olumsuz etkilemeden gerçekleştirilmesine imkân tanır. Minimum lot büyüklükleri ve fiyat kuralları farklıdır."
         },
         {
-          "q": "TPP'de (Takasbank Para Piyasası) hangi kurumlar üye olabilir?",
+          "q": "TPP'de (Takasbank (istanbul takas ve saklama bankası) Para Piyasası) hangi kurumlar üye olabilir?",
           "o": [
             "A) Yalnızca bankalar",
             "B) Bankalar, aracı kurumlar, sigorta ve emeklilik şirketleri, faktoring ve finansal kiralama şirketleri vb.",
@@ -23780,15 +23780,15 @@ window.__C = {
           "e": "Taahhütlü İşlemler Pazarı, BİST Borçlanma Araçları Piyasası bünyesinde 2 Temmuz 2018 tarihinde faaliyete geçmiştir. Bu pazar Hazine varlık kiralama şirketleri ile Hazine tarafından gerçekleştirilen özel işlemleri kapsar."
         },
         {
-          "q": "TPP'de Takasbank'ın işlemlere katılımı nasıldır?",
+          "q": "TPP'de Takasbank (istanbul takas ve saklama bankası)'ın işlemlere katılımı nasıldır?",
           "o": [
-            "A) Takasbank en büyük borç veren olarak aktif katılımcıdır",
-            "B) Takasbank piyasada alış-satış kotasyonu vermez ve işlemlerde katılımcı değildir; ancak garanti verir",
-            "C) Takasbank hem katılımcı hem garantördür",
-            "D) Takasbank yalnızca teknik altyapıyı sağlar; garanti vermez"
+            "A) Takasbank (istanbul takas ve saklama bankası) en büyük borç veren olarak aktif katılımcıdır",
+            "B) Takasbank (istanbul takas ve saklama bankası) piyasada alış-satış kotasyonu vermez ve işlemlerde katılımcı değildir; ancak garanti verir",
+            "C) Takasbank (istanbul takas ve saklama bankası) hem katılımcı hem garantördür",
+            "D) Takasbank (istanbul takas ve saklama bankası) yalnızca teknik altyapıyı sağlar; garanti vermez"
           ],
           "a": 1,
-          "e": "Takasbank TPP'de piyasada alış-satış kotasyonu vermemekte ve işlemlerde doğrudan katılımcı olmamaktadır. Buna karşın TPP'de gerçekleşen işlemlerden doğacak yükümlülükleri, teminatlar ve garanti fonu aracılığıyla garanti eder."
+          "e": "Takasbank (istanbul takas ve saklama bankası) TPP'de piyasada alış-satış kotasyonu vermemekte ve işlemlerde doğrudan katılımcı olmamaktadır. Buna karşın TPP'de gerçekleşen işlemlerden doğacak yükümlülükleri, teminatlar ve garanti fonu aracılığıyla garanti eder."
         },
         {
           "q": "BİST Pay Piyasası'nda fiyat marjı (fiyat sınırı) normalde kaç yüzdedir?",
@@ -23851,7 +23851,7 @@ window.__C = {
             "A) Temettüyü direkt olarak alır; ödünç verene aktarılmaz",
             "B) Ödünç verene temettüye eşdeğer tazminat öder",
             "C) Ödünç sözleşmesi iptal edilir",
-            "D) Takasbank temettüyü otomatik olarak dağıtır"
+            "D) Takasbank (istanbul takas ve saklama bankası) temettüyü otomatik olarak dağıtır"
           ],
           "a": 1,
           "e": "Ödünç döneminde pay ödünç alanlarda iken temettü dağıtılırsa, ödünç alan taraf asıl hak sahibi olan ödünç verene temettüye eşdeğer tutarda tazminat ödemekle yükümlüdür. Bu kural ödünç verenin gelirden mahrum kalmamasını sağlar."
@@ -23911,7 +23911,7 @@ window.__C = {
             "D) Saatlik işlem limiti uygulanır"
           ],
           "a": 2,
-          "e": "VİOP'ta algoritmik emir iletim sistemleri ve yüksek frekanslı işlem (HFT) sistemlerinin kullanılabilmesi için sistemlerin önceden Borsa'ya bildirilmesi ve belirli standartları karşılaması zorunludur. Borsa bu sistemlerin denetimini yapar."
+          "e": "VİOP'ta algoritmik emir iletim sistemleri ve yüksek frekanslı işlem (HFT (yüksek frekanslı işlem)) sistemlerinin kullanılabilmesi için sistemlerin önceden Borsa'ya bildirilmesi ve belirli standartları karşılaması zorunludur. Borsa bu sistemlerin denetimini yapar."
         },
         {
           "q": "BİST BAP'ta 'Menkul Kıymet Tercihli Repo Pazarı' nedir?",
@@ -23936,7 +23936,7 @@ window.__C = {
           "e": "Zorunlu karşılıklar, bankaların mevduatlarının belirli bir yüzdesini TCMB (türkiye cumhuriyet merkez bankası) nezdinde tutmasını zorunlu kılar. Bu oran artırıldığında bankalar daha az kredi açabilir (para arzı daralır); düşürüldüğünde kredi genişlemesi kolaylaşır. Dolaylı para politikası aracıdır."
         },
         {
-          "q": "ÖPP'de temerrüt halinde Takasbank nasıl hareket eder?",
+          "q": "ÖPP'de temerrüt halinde Takasbank (istanbul takas ve saklama bankası) nasıl hareket eder?",
           "o": [
             "A) İşlemi iptal eder",
             "B) Vade sonunda iade yapılamazsa piyasadan kıymeti temin eder; farkı ödünç alandan tahsil eder",
@@ -23944,7 +23944,7 @@ window.__C = {
             "D) Ödünç verene nakit tazminat öder"
           ],
           "a": 1,
-          "e": "ÖPP'de vade sonunda ödünç alınan kıymetin Takasbank'a iade edilememesi durumunda Takasbank piyasadan kıymeti temin ederek ödünç verene teslim eder; oluşan fiyat farkı ve maliyetler ödünç alandan tahsil edilir."
+          "e": "ÖPP'de vade sonunda ödünç alınan kıymetin Takasbank (istanbul takas ve saklama bankası)'a iade edilememesi durumunda Takasbank (istanbul takas ve saklama bankası) piyasadan kıymeti temin ederek ödünç verene teslim eder; oluşan fiyat farkı ve maliyetler ödünç alandan tahsil edilir."
         },
         {
           "q": "BİST Pay Piyasası'nda 'tek fiyat yöntemi' ile 'sürekli işlem yöntemi' arasındaki fark nedir?",
@@ -23982,10 +23982,10 @@ window.__C = {
         {
           "q": "Tezgahüstü piyasaların sistemik risk açısından öneminin artmasıyla uluslararası alanda hangi kuruluşlar düzenleme yapma çabası içindedir?",
           "o": [
-            "A) Yalnızca IMF",
+            "A) Yalnızca IMF (uluslararası para fonu)",
             "B) IOSCO, FSB, G-20, CFTC gibi uluslararası kuruluşlar ve birlikler",
             "C) Yalnızca Avrupa Merkez Bankası",
-            "D) OECD tek başına"
+            "D) OECD (ekonomik kalkınma ve işbirliği örgütü) tek başına"
           ],
           "a": 1,
           "e": "Tezgahüstü türev piyasalarının büyümesi ve 2008 krizi sonrasında artan sistemik risk farkındalığıyla birlikte IOSCO, ESMA, FINRA, ISDA, FSB, G-20, CFTC gibi uluslararası kuruluş ve birlikler OTC piyasaların düzenlenmesi için yoğun çalışmalar yürütmektedir."
@@ -24070,13 +24070,13 @@ window.__C = {
         {
           "q": "BİST BAP'ta emir girişi ve değiştirme işlemlerinde hangi sistem kullanılmaktadır?",
           "o": [
-            "A) BISTECH platformu",
+            "A) BIS (uluslararası ödemeler bankası)T (borsa istanbul)ECH platformu",
             "B) MT4/MT5 platformu",
             "C) Eski Rotasyon sistemi",
             "D) Bloomberg Terminal"
           ],
           "a": 0,
-          "e": "BİST Borçlanma Araçları Piyasası'nda emir girişi ve işlem gerçekleştirme BISTECH işlem platformu üzerinden yapılmaktadır. BISTECH, tüm BİST piyasalarında kullanılan merkezi işlem altyapısıdır."
+          "e": "BİST Borçlanma Araçları Piyasası'nda emir girişi ve işlem gerçekleştirme BIS (uluslararası ödemeler bankası)T (borsa istanbul)ECH işlem platformu üzerinden yapılmaktadır. BIS (uluslararası ödemeler bankası)T (borsa istanbul)ECH, tüm BİST piyasalarında kullanılan merkezi işlem altyapısıdır."
         },
         {
           "q": "BİST VİOP'ta 'özel işlem bildirimi' ne zaman yapılır?",
@@ -24092,20 +24092,20 @@ window.__C = {
         {
           "q": "TEFAS ve BEFAS'ta takası kim gerçekleştirir?",
           "o": [
-            "A) Sadece MKK",
-            "B) Takasbank ve MKK'nın entegre sistemi (TEFAS) / Takasbank sistemi (BEFAS)",
+            "A) Sadece MKK (merkezi kayıt kuruluşu)",
+            "B) Takasbank (istanbul takas ve saklama bankası) ve MKK (merkezi kayıt kuruluşu)'nın entegre sistemi (TEFAS) / Takasbank (istanbul takas ve saklama bankası) sistemi (BEFAS)",
             "C) BİST takas sistemi",
             "D) Her platform kendi takas altyapısını kullanır"
           ],
           "a": 1,
-          "e": "TEFAS'ta takas ve saklama Takasbank-MKK entegre sistemiyle tam otomasyon bazında gerçekleştirilir. BEFAS'ta ise takas Takasbank sistemi üzerinden yürütülür. Her iki platformda da Takasbank merkezi takas işlevini üstlenir."
+          "e": "TEFAS'ta takas ve saklama Takasbank (istanbul takas ve saklama bankası)-MKK (merkezi kayıt kuruluşu) entegre sistemiyle tam otomasyon bazında gerçekleştirilir. BEFAS'ta ise takas Takasbank (istanbul takas ve saklama bankası) sistemi üzerinden yürütülür. Her iki platformda da Takasbank (istanbul takas ve saklama bankası) merkezi takas işlevini üstlenir."
         },
         {
           "q": "BİST BAP'ta 'Pay Senedi Repo Pazarı' ile standart 'Repo-Ters Repo Pazarı' arasındaki temel fark nedir?",
           "o": [
             "A) Fark yoktur; sadece isim farklıdır",
             "B) Pay Senedi Repo Pazarı'nda teminat olarak DİBS yerine hisse senetleri kullanılır ve daha kısa seans saati uygulanır",
-            "C) Pay Senedi Repo Pazarı'nda Takasbank garanti vermez",
+            "C) Pay Senedi Repo Pazarı'nda Takasbank (istanbul takas ve saklama bankası) garanti vermez",
             "D) Pay Senedi Repo Pazarı yalnızca yabancı yatırımcılara açıktır"
           ],
           "a": 1,
@@ -24144,7 +24144,7 @@ window.__C = {
             "D) Başlangıç ve bitiş farklı piyasalarda yapılır"
           ],
           "a": 1,
-          "e": "Repo işleminin başlangıç bacağında (başlangıç valörü) repo yapan taraf menkul kıymeti teslim ederek nakit alır. Bitiş bacağında (bitiş valörü) ise menkul kıymeti geri alarak anaparayı ve faizi iade eder. Takasbank DVP prensibiyle her iki bacağı da güvence altına alır."
+          "e": "Repo işleminin başlangıç bacağında (başlangıç valörü) repo yapan taraf menkul kıymeti teslim ederek nakit alır. Bitiş bacağında (bitiş valörü) ise menkul kıymeti geri alarak anaparayı ve faizi iade eder. Takasbank (istanbul takas ve saklama bankası) DVP prensibiyle her iki bacağı da güvence altına alır."
         },
         {
           "q": "TCMB (türkiye cumhuriyet merkez bankası) para piyasasında 'İki Gün İhbarlı Döviz Tevdiat Hesapları (DTH)' nedir?",
@@ -24312,15 +24312,15 @@ window.__C = {
           "e": "TEFAS'ta alım talimatı kesme saatini (genellikle 13:30) geçiren emirler, o günün fiyatından işleme alınamaz. Bu talimatlar ertesi işlem günü için geçerli kabul edilerek ertesi günün birim katılma payı değeri üzerinden işleme konulur."
         },
         {
-          "q": "BİST BAP'ta 'Borsa İstanbul Para Piyasası (BPP)' ile 'Takasbank Para Piyasası (TPP)' arasındaki yapısal fark nedir?",
+          "q": "BİST BAP'ta 'Borsa İstanbul Para Piyasası (BPP)' ile 'Takasbank (istanbul takas ve saklama bankası) Para Piyasası (TPP)' arasındaki yapısal fark nedir?",
           "o": [
             "A) Her ikisi de aynı çatı altında işlemektedir",
-            "B) BPP BAP bünyesinde; TPP ise Takasbank bünyesinde organize piyasa olarak faaliyet gösterir; her ikisinde de Takasbank MKT",
+            "B) BPP BAP bünyesinde; TPP ise Takasbank (istanbul takas ve saklama bankası) bünyesinde organize piyasa olarak faaliyet gösterir; her ikisinde de Takasbank (istanbul takas ve saklama bankası) MKT",
             "C) TPP organize; BPP tezgahüstü",
             "D) BPP yalnızca DİBS işlemleri için"
           ],
           "a": 1,
-          "e": "BPP (Borsa İstanbul Para Piyasası), BAP bünyesinde 14 Ekim 2016'dan itibaren faaliyet gösteren, TL teminatlı borç alma-verme piyasasıdır. TPP (Takasbank Para Piyasası) ise 1996'dan bu yana Takasbank bünyesinde faaliyet gösteren ayrı organize para piyasasıdır. Her iki piyasada da Takasbank merkezi karşı taraf (MKT) olarak görev yapar."
+          "e": "BPP (Borsa İstanbul Para Piyasası), BAP bünyesinde 14 Ekim 2016'dan itibaren faaliyet gösteren, TL teminatlı borç alma-verme piyasasıdır. TPP (Takasbank (istanbul takas ve saklama bankası) Para Piyasası) ise 1996'dan bu yana Takasbank (istanbul takas ve saklama bankası) bünyesinde faaliyet gösteren ayrı organize para piyasasıdır. Her iki piyasada da Takasbank (istanbul takas ve saklama bankası) merkezi karşı taraf (MKT) olarak görev yapar."
         },
         {
           "q": "BİST Pay Piyasası seans saatleri dışında kalan olağanüstü durumlar (doğal afet vb.) için Borsa'nın yetki çerçevesi nedir?",
@@ -24791,7 +24791,7 @@ window.__C = {
           "e": "Nakit uzlaşı seçeneği kullanılabilmesi için sertifika sahibinin teklifi kabul etmesi şarttır. Sertifika sahibi teslim talep etme hakkından vazgeçmek zorunda değildir; bu hakkı korur."
         },
         {
-          "q": "Halka arzda dağıtım listesinin kesinleşmesinin ardından KAP'a açıklanma süresi ne kadardır?",
+          "q": "Halka arzda dağıtım listesinin kesinleşmesinin ardından KAP (kamuyu aydınlatma platformu)'a açıklanma süresi ne kadardır?",
           "o": [
             "A) Aynı gün",
             "B) En geç 2 iş günü içinde",
@@ -24799,7 +24799,7 @@ window.__C = {
             "D) En geç 10 iş günü içinde"
           ],
           "a": 1,
-          "e": "II-5.2 Satış Tebliği uyarınca dağıtım listesi kesinleştikten sonra en geç 2 iş günü içinde KAP'ta kamuya açıklanmalıdır. Bu açıklama yatırımcıların ne kadar pay aldıklarını öğrenmesini sağlar."
+          "e": "II-5.2 Satış Tebliği uyarınca dağıtım listesi kesinleştikten sonra en geç 2 iş günü içinde KAP (kamuyu aydınlatma platformu)'ta kamuya açıklanmalıdır. Bu açıklama yatırımcıların ne kadar pay aldıklarını öğrenmesini sağlar."
         },
         {
           "q": "Teminata konu varlıklar arasında aşağıdakilerden hangisi yer ALMAZ?",
@@ -25205,23 +25205,23 @@ window.__C = {
           "q": "İzahname ve ihraç belgesinin tescil ve ilan yükümlülüğü neyi kapsar?",
           "o": [
             "A) Yalnızca ticaret sicilinde tescil",
-            "B) Kurul onayının ardından KAP'ta ilan ve Kurul'un belirlediği diğer mecralar",
+            "B) Kurul onayının ardından KAP (kamuyu aydınlatma platformu)'ta ilan ve Kurul'un belirlediği diğer mecralar",
             "C) Yalnızca ulusal gazetede ilan",
             "D) Yalnızca borsada ilan"
           ],
           "a": 1,
-          "e": "II-5.1 Tebliği uyarınca Kurul'ca onaylanan izahname ve ihraç belgesinin KAP'ta ilan edilmesi zorunludur. Kurul ayrıca başka mecralar da belirleyebilir. Tescil ticaret siciline de yapılabilir."
+          "e": "II-5.1 Tebliği uyarınca Kurul'ca onaylanan izahname ve ihraç belgesinin KAP (kamuyu aydınlatma platformu)'ta ilan edilmesi zorunludur. Kurul ayrıca başka mecralar da belirleyebilir. Tescil ticaret siciline de yapılabilir."
         },
         {
-          "q": "Gayrimenkul sertifikasının GYO payından temel farkı nedir?",
+          "q": "Gayrimenkul sertifikasının GYO (gayrimenkul yatırım ortaklığı) payından temel farkı nedir?",
           "o": [
             "A) Gayrimenkul sertifikası sadece arazi finansmanında kullanılır",
-            "B) Gayrimenkul sertifikası belirli bir projenin bağımsız bölüm teslim yükümlülüğü taşır; GYO payı portföy ortaklığı hakkı verir",
-            "C) GYO payı daha yüksek getiri sağlar",
+            "B) Gayrimenkul sertifikası belirli bir projenin bağımsız bölüm teslim yükümlülüğü taşır; GYO (gayrimenkul yatırım ortaklığı) payı portföy ortaklığı hakkı verir",
+            "C) GYO (gayrimenkul yatırım ortaklığı) payı daha yüksek getiri sağlar",
             "D) Gayrimenkul sertifikasında oy hakkı vardır"
           ],
           "a": 1,
-          "e": "Gayrimenkul sertifikası belirli bir inşaat projesindeki bağımsız bölümün teslimini temsil eder; somut mülkiyet transferi vardır. GYO payı ise çeşitli gayrimenkullere yatırım yapan ortaklıktaki pay sahipliğini temsil eder; belirli bir bağımsız bölüm teslim yükümlülüğü yoktur."
+          "e": "Gayrimenkul sertifikası belirli bir inşaat projesindeki bağımsız bölümün teslimini temsil eder; somut mülkiyet transferi vardır. GYO (gayrimenkul yatırım ortaklığı) payı ise çeşitli gayrimenkullere yatırım yapan ortaklıktaki pay sahipliğini temsil eder; belirli bir bağımsız bölüm teslim yükümlülüğü yoktur."
         },
         {
           "q": "Kira sertifikasında 'murabaha' modelinde getiri nasıl sağlanır?",
@@ -25730,7 +25730,7 @@ window.__C = {
             "A) Kampanya bilgi formu yayımlamak",
             "B) Yatırım komitesi oluşturmak",
             "C) Fon kullanıcılarına garantörlük veya taahhütte bulunmak",
-            "D) MKK ile entegrasyon sağlamak"
+            "D) MKK (merkezi kayıt kuruluşu) ile entegrasyon sağlamak"
           ],
           "a": 2,
           "e": "Kitle fonlama platformları; fon kullanıcılarına (girişimcilere) garantörlük veya taahhütte bulunmak, yatırımcılara kredi açmak, saklama hizmeti vermek ve fon işletmek gibi faaliyetleri yapamaz. Bu yasaklar platformların aracı konumda kalmasını güvence altına alır."
@@ -25853,7 +25853,7 @@ window.__C = {
             "A) Vergi avantajı sağlamak",
             "B) Ödünç alan tarafın temerrüdüne karşı ödünç vereni korumak",
             "C) İşlem ücretini düşürmek",
-            "D) MKK kayıtlarını kolaylaştırmak"
+            "D) MKK (merkezi kayıt kuruluşu) kayıtlarını kolaylaştırmak"
           ],
           "a": 1,
           "e": "Ödünç verilen menkul kıymetler karşılığında ödünç alan tarafın özkaynak yatırması, ödünç verenin teminat güvencesidir. Ödünç alan temerrüde düşerse yatırdığı özkaynak ödünç verenin zararını karşılamak için kullanılır."
@@ -26012,7 +26012,7 @@ window.__C = {
             "D) Yalnızca kaldıraçlı işlemlerde"
           ],
           "a": 1,
-          "e": "Uygunluk testi; karmaşık finansal ürünlerin alım satımında ve yatırım danışmanlığı hizmetinin sunulmasında zorunludur. Test, müşterinin söz konusu ürün için gerekli bilgi ve deneyime sahip olup olmadığını değerlendirir. Basit ürünlerde (devlet tahvili, BIST hisseleri vb.) zorunlu değildir."
+          "e": "Uygunluk testi; karmaşık finansal ürünlerin alım satımında ve yatırım danışmanlığı hizmetinin sunulmasında zorunludur. Test, müşterinin söz konusu ürün için gerekli bilgi ve deneyime sahip olup olmadığını değerlendirir. Basit ürünlerde (devlet tahvili, BIS (uluslararası ödemeler bankası)T (borsa istanbul) hisseleri vb.) zorunlu değildir."
         },
         {
           "q": "Aracı kurumların yapamayacakları arasında yer alan 'müşteri aleyhine emir gerçekleştirme' ne anlama gelir?",
@@ -26147,7 +26147,7 @@ window.__C = {
           "e": "Kaldıraçlı işlemlerde teminat oranı belirlenen kritik seviyenin altına indiğinde aracı kurum, çerçeve sözleşmede öngörülen esaslar çerçevesinde müşterinin açık emirlerini iptal edebilir veya mevcut pozisyonları kapatabilir."
         },
         {
-          "q": "Borçlanmaya dayalı kitle fonlamasında platformun MKK ile entegrasyonunun amacı nedir?",
+          "q": "Borçlanmaya dayalı kitle fonlamasında platformun MKK (merkezi kayıt kuruluşu) ile entegrasyonunun amacı nedir?",
           "o": [
             "A) Muhasebe kayıtları için",
             "B) Girişimcinin geri ödeme kapasitesini değerlendirmek ve kredi limiti kontrolü yapmak",
@@ -26155,7 +26155,7 @@ window.__C = {
             "D) Kampanya formlarını kaydetmek"
           ],
           "a": 1,
-          "e": "Borçlanmaya dayalı kitle fonlamasında platform, MKK'nın Yatırımcı Risk Takip Sistemi ile entegre olmak zorundadır. Bu entegrasyon, girişimcinin mevcut borç yükünü ve geri ödeme kapasitesini değerlendirerek yatırımcı korumasına hizmet eder."
+          "e": "Borçlanmaya dayalı kitle fonlamasında platform, MKK (merkezi kayıt kuruluşu)'nın Yatırımcı Risk Takip Sistemi ile entegre olmak zorundadır. Bu entegrasyon, girişimcinin mevcut borç yükünü ve geri ödeme kapasitesini değerlendirerek yatırımcı korumasına hizmet eder."
         },
         {
           "q": "Müşteri emir formunun hukuki işlevi nedir?",
@@ -26245,7 +26245,7 @@ window.__C = {
             "D) Pazarlama amacıyla da kullanılabilir"
           ],
           "a": 1,
-          "e": "III-42.1 sayılı Tebliğ uyarınca uzaktan kimlik tespiti sürecinde elde edilen kişisel veriler yalnızca kimlik doğrulama amacıyla kullanılabilir; üçüncü kişilerle paylaşılamaz. KVKK ile paralel bu sınır, müşteri mahremiyetini koruma altına alır."
+          "e": "III-42.1 sayılı Tebliğ uyarınca uzaktan kimlik tespiti sürecinde elde edilen kişisel veriler yalnızca kimlik doğrulama amacıyla kullanılabilir; üçüncü kişilerle paylaşılamaz. KVKK (kişisel verilerin korunması kanunu) ile paralel bu sınır, müşteri mahremiyetini koruma altına alır."
         },
         {
           "q": "Paya dayalı kitle fonlamasında girişim şirketinin tek bir kampanyada toplayabileceği azami tutar nedir?",
@@ -26352,7 +26352,7 @@ window.__C = {
             "A) Vergi mevzuatı",
             "B) Müşteri varlıklarının korunmasına ilişkin sermaye piyasası mevzuatı",
             "C) Yalnızca iç politika gereği",
-            "D) TTK hükümleri"
+            "D) TTK (türk ticaret kanunu) hükümleri"
           ],
           "a": 1,
           "e": "Müşteri varlıklarının ayrı tutulması zorunluluğu sermaye piyasası mevzuatının temel ilkelerinden biridir. Bu ayrım; aracı kurumun iflas veya tasfiyesinde müşteri varlıklarının alacaklılara devredilmesini önler ve yatırımcı güvenliğini temel düzeyde korur."
@@ -26395,11 +26395,11 @@ window.__C = {
           "o": [
             "A) Yalnızca iç disiplin cezası",
             "B) Mevzuat ihlali; idari yaptırım ve tazminat sorumluluğu doğabilir",
-            "C) Yalnızca KVKK ihlali",
+            "C) Yalnızca KVKK (kişisel verilerin korunması kanunu) ihlali",
             "D) Hiçbir yaptırımı yoktur"
           ],
           "a": 1,
-          "e": "Müşteri hesap bilgilerinin yetkisiz açıklanması hem sermaye piyasası mevzuatı hem de KVKK kapsamında ihlal oluşturur. SPK (sermaye piyasası kurulu) idari yaptırım uygulayabilir; müşteri maddi zarar görmüşse tazminat davası açabilir."
+          "e": "Müşteri hesap bilgilerinin yetkisiz açıklanması hem sermaye piyasası mevzuatı hem de KVKK (kişisel verilerin korunması kanunu) kapsamında ihlal oluşturur. SPK (sermaye piyasası kurulu) idari yaptırım uygulayabilir; müşteri maddi zarar görmüşse tazminat davası açabilir."
         },
         {
           "q": "'Tedrici tasfiye' ile 'olağan tasfiye' arasındaki fark nedir?",
@@ -26489,7 +26489,7 @@ window.__C = {
             "D) Yalnızca kurumsal müşteriler için gizlilik zorunludur"
           ],
           "a": 1,
-          "e": "Müşteri hesap bilgileri yasal zorunluluklar (SPK (sermaye piyasası kurulu) denetimi, mahkeme kararı, savcılık talebi vb.) dışında yetkisiz üçüncü kişilere açıklanamaz. Bu ilke hem KVKK hem de sermaye piyasası mevzuatının ortak gerekliliğidir."
+          "e": "Müşteri hesap bilgileri yasal zorunluluklar (SPK (sermaye piyasası kurulu) denetimi, mahkeme kararı, savcılık talebi vb.) dışında yetkisiz üçüncü kişilere açıklanamaz. Bu ilke hem KVKK (kişisel verilerin korunması kanunu) hem de sermaye piyasası mevzuatının ortak gerekliliğidir."
         },
         {
           "q": "Yatırım danışmanlığı faaliyetinde 'araştırma faaliyetleri' ne zaman çıkar çatışması yaratır?",
@@ -26648,7 +26648,7 @@ window.__C = {
       ]
     }
   },
-  "UY_MASAK (mali suçları araştırma kurulu)": {
+  "UY_MASAK": {
     "summary": [
       {
         "num": "01",
@@ -27119,7 +27119,7 @@ window.__C = {
             "A) Uluslararası vergi anlaşmaları yapmak",
             "B) Mali istihbarat birimlerinin uluslararası iş birliğini sağlamak",
             "C) AB üyesi ülkelerin kara para politikalarını koordine etmek",
-            "D) IMF gözetiminde mali denetim yapmak"
+            "D) IMF (uluslararası para fonu) gözetiminde mali denetim yapmak"
           ],
           "a": 1,
           "e": "EGMONT Grubu, dünya genelinde mali istihbarat birimlerinin uluslararası iş birliği platformudur."
@@ -28642,7 +28642,7 @@ window.__C = {
       {
         "num": "04",
         "title": "Seyahat Kuralı ve Açık Bankacılık",
-        "body": "<ul><li><strong>Seyahat Kuralı (Travel Rule):</strong><ul style='margin:.3rem 0 0 1rem'><li><strong>15.000 TL ve üzeri</strong> kripto transferlerde gönderici/alıcı bilgisi zorunlu.</li><li>Gönderici bilgisi: ad-soyad/unvan, cüzdan adresi, tanımlayıcı bilgi.</li><li>Transfer mesajları eş zamanlı iletilir.</li><li><strong>Unhosted wallet istisnası:</strong> Müşteriden beyan alınır.</li><li>Eksik bilgi → tamamlama talebi; sürekli eksiklik → ilişkiyi sınırlama/sonlandırma.</li></ul></li><li><strong>Açık bankacılık riskleri:</strong> Sahte API erişimleri, sosyal mühendislik, yasa dışı bahis ve faaliyetler için para transferi.</li></ul>"
+        "body": "<ul><li><strong>Seyahat Kuralı (Travel Rule):</strong><ul style='margin:.3rem 0 0 1rem'><li><strong>15.000 TL ve üzeri</strong> kripto transferlerde gönderici/alıcı bilgisi zorunlu.</li><li>Gönderici bilgisi: ad-soyad/unvan, cüzdan adresi, tanımlayıcı bilgi.</li><li>Transfer mesajları eş zamanlı iletilir.</li><li><strong>Unhosted wallet istisnası:</strong> Müşteriden beyan alınır.</li><li>Eksik bilgi → tamamlama talebi; sürekli eksiklik → ilişkiyi sınırlama/sonlandırma.</li></ul></li><li><strong>Açık bankacılık riskleri:</strong> Sahte API (uygulama programlama arayüzü) erişimleri, sosyal mühendislik, yasa dışı bahis ve faaliyetler için para transferi.</li></ul>"
       }
     ],
     "tests": {
@@ -28773,11 +28773,11 @@ window.__C = {
           "o": [
             "A) Müşteri verilerinin kaybolması",
             "B) Faiz oranlarının manipülasyonu",
-            "C) Sahte API erişimleri ve sosyal mühendislik yoluyla kara para transferi",
+            "C) Sahte API (uygulama programlama arayüzü) erişimleri ve sosyal mühendislik yoluyla kara para transferi",
             "D) Kredi kartı limitlerinin aşılması"
           ],
           "a": 2,
-          "e": "Açık bankacılıkta AML riski: Sahte API erişimleri, sosyal mühendislik saldırıları ve yasa dışı bahis/faaliyetler için ödeme altyapısının kötüye kullanımı."
+          "e": "Açık bankacılıkta AML riski: Sahte API (uygulama programlama arayüzü) erişimleri, sosyal mühendislik saldırıları ve yasa dışı bahis/faaliyetler için ödeme altyapısının kötüye kullanımı."
         },
         {
           "q": "Seyahat kuralı kapsamında gönderici bilgisinde bulunması zorunlu olan unsurlar nelerdir?",
@@ -29949,11 +29949,11 @@ window.__C = {
           "o": [
             "A) Müşteri verilerinin kaybolması",
             "B) Faiz oranlarının manipülasyonu",
-            "C) Sahte API erişimleri ve sosyal mühendislik yoluyla kara para transferi",
+            "C) Sahte API (uygulama programlama arayüzü) erişimleri ve sosyal mühendislik yoluyla kara para transferi",
             "D) Kredi kartı limitlerinin aşılması"
           ],
           "a": 2,
-          "e": "Açık bankacılıkta AML riski: Sahte API erişimleri, sosyal mühendislik saldırıları ve yasa dışı bahis/faaliyetler için ödeme altyapısının kötüye kullanımı."
+          "e": "Açık bankacılıkta AML riski: Sahte API (uygulama programlama arayüzü) erişimleri, sosyal mühendislik saldırıları ve yasa dışı bahis/faaliyetler için ödeme altyapısının kötüye kullanımı."
         },
         {
           "q": "BMGK 1718 sayılı Kararı hangi ülkeyi hedef almaktadır?",
@@ -35166,7 +35166,7 @@ window.__EXT = {
         },
         {
           "heading": "Şirketler Topluluğu — Hâkimiyet ve Sorumluluk",
-          "content": "<ul><li><strong>Hâkim şirket:</strong> Bir şirket, doğrudan veya dolaylı olarak bir diğer şirketin pay sahiplerinin çoğunluğuna sahipse ya da yönetim kurulunu belirleme hakkını kullanabiliyorsa hâkim şirket sayılır (TTK md. 195).</li><li><strong>Hâkimiyetin kötüye kullanılması (TTK md. 202):</strong> Hâkim şirket bağlı şirketin kayıplarını o hesap döneminde fiilen dengelemek veya denkleştirme hakkı tanımak zorundadır. Aksi hâlde bağlı şirket, pay sahipleri ve alacaklılar tazminat talep edebilir.</li><li><strong>Tam hâkimiyet (TTK md. 208):</strong> %100 hâkimiyette azınlık pay sahibi ayrılma bedeli talep edebilir.</li></ul>"
+          "content": "<ul><li><strong>Hâkim şirket:</strong> Bir şirket, doğrudan veya dolaylı olarak bir diğer şirketin pay sahiplerinin çoğunluğuna sahipse ya da yönetim kurulunu belirleme hakkını kullanabiliyorsa hâkim şirket sayılır (TTK (türk ticaret kanunu) md. 195).</li><li><strong>Hâkimiyetin kötüye kullanılması (TTK (türk ticaret kanunu) md. 202):</strong> Hâkim şirket bağlı şirketin kayıplarını o hesap döneminde fiilen dengelemek veya denkleştirme hakkı tanımak zorundadır. Aksi hâlde bağlı şirket, pay sahipleri ve alacaklılar tazminat talep edebilir.</li><li><strong>Tam hâkimiyet (TTK (türk ticaret kanunu) md. 208):</strong> %100 hâkimiyette azınlık pay sahibi ayrılma bedeli talep edebilir.</li></ul>"
         }
       ]
     },
@@ -35175,22 +35175,22 @@ window.__EXT = {
       "title": "Anonim Şirket Tanımı ve İlkeleri",
       "sections": [
         {
-          "heading": "Pay Sahiplerinin Şirkete Borçlanma Yasağı (TTK md. 358)",
+          "heading": "Pay Sahiplerinin Şirkete Borçlanma Yasağı (TTK (türk ticaret kanunu) md. 358)",
           "content": "<ul><li><strong>Kural:</strong> Pay sahipleri kendi nam ve hesaplarına şirketle işlem yapamaz; ayrıca şirkete borçlanamazlar. Şirkete karşı üçüncü kişiler gibi muamele görmesi gerekir.</li><li><strong>İstisna:</strong> Şirketin işletme konusu kapsamında ve piyasa koşullarında yapılan işlemler bu yasak kapsamında değildir.</li><li><strong>Yaptırım:</strong> Yasağa aykırı bir işlemden pay sahibi ve işleme katılan yönetim kurulu üyeleri müteselsilen sorumlu olur.</li></ul>"
         },
         {
           "heading": "Oransallık ve Eşit İşlem İlkesi",
-          "content": "<ul><li><strong>Oransallık ilkesi:</strong> Pay sahibinin malvarlığı ve yönetim haklarının büyüklüğü, sahip olduğu payın nominal değeriyle orantılı olmalıdır. İmtiyazlar bu ilkenin istisnası sayılır; ancak TTK sınırlar çizer (ör. imtiyazlı oyda en fazla 15 kat).</li><li><strong>Eşit işlem ilkesi (TTK md. 357):</strong> Eşit durumdaki pay sahiplerine eşit muamele zorunludur. Farklı durumlara farklı muamele yapılabilir; ancak bu farklılığın nesnel ve meşru bir gerekçesi olmalıdır.</li><li><strong>Rüçhan (yeni pay alma) hakkı:</strong> Oransallık ilkesinin uygulaması: sermaye artırımında her pay sahibi mevcut payıyla orantılı yeni pay alma hakkına sahiptir. Bu hak kısıtlanabilir veya kaldırılabilir; ancak bunun için nitelikli çoğunluk gerekir.</li></ul>"
+          "content": "<ul><li><strong>Oransallık ilkesi:</strong> Pay sahibinin malvarlığı ve yönetim haklarının büyüklüğü, sahip olduğu payın nominal değeriyle orantılı olmalıdır. İmtiyazlar bu ilkenin istisnası sayılır; ancak TTK (türk ticaret kanunu) sınırlar çizer (ör. imtiyazlı oyda en fazla 15 kat).</li><li><strong>Eşit işlem ilkesi (TTK (türk ticaret kanunu) md. 357):</strong> Eşit durumdaki pay sahiplerine eşit muamele zorunludur. Farklı durumlara farklı muamele yapılabilir; ancak bu farklılığın nesnel ve meşru bir gerekçesi olmalıdır.</li><li><strong>Rüçhan (yeni pay alma) hakkı:</strong> Oransallık ilkesinin uygulaması: sermaye artırımında her pay sahibi mevcut payıyla orantılı yeni pay alma hakkına sahiptir. Bu hak kısıtlanabilir veya kaldırılabilir; ancak bunun için nitelikli çoğunluk gerekir.</li></ul>"
         }
       ]
     },
     {
       "num": "03",
-      "title": "Sürdürülebilir Finans — TTK ve ESG",
+      "title": "Sürdürülebilir Finans — TTK (türk ticaret kanunu) ve ESG (çevresel, sosyal ve yönetişim)",
       "sections": [
         {
-          "heading": "ESG Kriterlerinin Şirket Yönetimine Entegrasyonu",
-          "content": "<ul><li><strong>Çevresel (E):</strong> İklim değişikliği riski, karbon ayak izi, doğal kaynakların kullanımı. YK faaliyet raporunda çevresel etkileri açıklama yükümlülüğü.</li><li><strong>Sosyal (S):</strong> Çalışan hakları, iş sağlığı, tedarik zinciri sorumluluğu, topluluk etkileri.</li><li><strong>Yönetişim (G):</strong> YK yapısı ve bağımsızlık, ücretlendirme şeffaflığı, rüşvet/yolsuzlukla mücadele, iç kontrol. SPK (sermaye piyasası kurulu)'nın kurumsal yönetim tebliğleriyle örtüşür.</li><li><strong>Türk mevzuatındaki gelişmeler:</strong> TTK md. 516 YK raporunda çevresel ve sosyal sonuçların açıklanmasını zorunlu kılmaktadır. SPK (sermaye piyasası kurulu)'nın sürdürülebilirlik ilkeleri tebliği halka açık şirketler için ek yükümlülükler öngörmektedir.</li></ul>"
+          "heading": "ESG (çevresel, sosyal ve yönetişim) Kriterlerinin Şirket Yönetimine Entegrasyonu",
+          "content": "<ul><li><strong>Çevresel (E):</strong> İklim değişikliği riski, karbon ayak izi, doğal kaynakların kullanımı. YK faaliyet raporunda çevresel etkileri açıklama yükümlülüğü.</li><li><strong>Sosyal (S):</strong> Çalışan hakları, iş sağlığı, tedarik zinciri sorumluluğu, topluluk etkileri.</li><li><strong>Yönetişim (G):</strong> YK yapısı ve bağımsızlık, ücretlendirme şeffaflığı, rüşvet/yolsuzlukla mücadele, iç kontrol. SPK (sermaye piyasası kurulu)'nın kurumsal yönetim tebliğleriyle örtüşür.</li><li><strong>Türk mevzuatındaki gelişmeler:</strong> TTK (türk ticaret kanunu) md. 516 YK raporunda çevresel ve sosyal sonuçların açıklanmasını zorunlu kılmaktadır. SPK (sermaye piyasası kurulu)'nın sürdürülebilirlik ilkeleri tebliği halka açık şirketler için ek yükümlülükler öngörmektedir.</li></ul>"
         },
         {
           "heading": "AB Sürdürülebilir Finans Düzenlemeleri",
@@ -35204,11 +35204,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Kuruluş Sürecinin Adımları",
-          "content": "<ul><li><strong>1. Esas sözleşmenin hazırlanması:</strong> TTK md. 339'da zorunlu esas sözleşme içeriği: ticaret unvanı, merkez, işletme konusu, sermaye miktarı ve pay sayısı, yönetim kurulu yapısı, ilan şekli.</li><li><strong>2. Şirket sözleşmesinin imzalanması:</strong> Kurucuların imzaları noter onaylı veya ticaret sicili müdürü önünde gerçekleştirilir.</li><li><strong>3. Nakdi sermayenin %25'inin bankaya bloke edilmesi (TTK md. 345).</strong></li><li><strong>4. Ticaret siciline tescil ve ilan:</strong> Tescille tüzel kişilik kazanılır; Ticaret Sicili Gazetesi'nde ilan.</li><li><strong>5. Sermayenin kalan kısmı:</strong> Tescilden itibaren 24 ay içinde ödenmesi zorunlu.</li></ul>"
+          "content": "<ul><li><strong>1. Esas sözleşmenin hazırlanması:</strong> TTK (türk ticaret kanunu) md. 339'da zorunlu esas sözleşme içeriği: ticaret unvanı, merkez, işletme konusu, sermaye miktarı ve pay sayısı, yönetim kurulu yapısı, ilan şekli.</li><li><strong>2. Şirket sözleşmesinin imzalanması:</strong> Kurucuların imzaları noter onaylı veya ticaret sicili müdürü önünde gerçekleştirilir.</li><li><strong>3. Nakdi sermayenin %25'inin bankaya bloke edilmesi (TTK (türk ticaret kanunu) md. 345).</strong></li><li><strong>4. Ticaret siciline tescil ve ilan:</strong> Tescille tüzel kişilik kazanılır; Ticaret Sicili Gazetesi'nde ilan.</li><li><strong>5. Sermayenin kalan kısmı:</strong> Tescilden itibaren 24 ay içinde ödenmesi zorunlu.</li></ul>"
         },
         {
           "heading": "Kuruluştan Sonra Devralma/Kiralama Yasağı",
-          "content": "<ul><li><strong>TTK md. 354:</strong> Kuruluştan itibaren 2 yıl içinde, işletmenin devamlılığını tehlikeye atan ve/veya gerçek değerinin %10'undan fazla karşılığa yapılan devirler GK onayı ve değerleme zorunluluğuna tabidir.</li><li><strong>Amacı:</strong> Kurucuların kuruluş sonrası şirkete aşırı fiyatlı satış yapmak suretiyle şirket malvarlığını boşaltmasını engellemek.</li><li><strong>Yaptırım:</strong> Onaylanmayan işlem şirkete karşı geçersizdir; kurucular müteselsilen sorumlu olabilir.</li></ul>"
+          "content": "<ul><li><strong>TTK (türk ticaret kanunu) md. 354:</strong> Kuruluştan itibaren 2 yıl içinde, işletmenin devamlılığını tehlikeye atan ve/veya gerçek değerinin %10'undan fazla karşılığa yapılan devirler GK onayı ve değerleme zorunluluğuna tabidir.</li><li><strong>Amacı:</strong> Kurucuların kuruluş sonrası şirkete aşırı fiyatlı satış yapmak suretiyle şirket malvarlığını boşaltmasını engellemek.</li><li><strong>Yaptırım:</strong> Onaylanmayan işlem şirkete karşı geçersizdir; kurucular müteselsilen sorumlu olabilir.</li></ul>"
         }
       ]
     },
@@ -35217,12 +35217,12 @@ window.__EXT = {
       "title": "Yönetim Kurulu — Görevler, Sorumluluk",
       "sections": [
         {
-          "heading": "Devredilemez YK Görev ve Yetkileri (TTK md. 375)",
+          "heading": "Devredilemez YK Görev ve Yetkileri (TTK (türk ticaret kanunu) md. 375)",
           "content": "<ul><li>1. Şirketin üst düzeyde yönetimi ve bunlara ilişkin talimatların verilmesi</li><li>2. Yönetim örgütünün belirlenmesi</li><li>3. Muhasebe, finans denetimi ve finansal planlamanın yürütülmesi için gerekli düzenin kurulması</li><li>4. Müdürlerin ve imza yetkililerinin atanması ve görevden alınması</li><li>5. Yönetimle görevlendirilen kişilerin üst düzeyde denetimi</li><li>6. Faaliyet raporlarının ve GK gündeminin hazırlanması</li><li>7. GK toplantısının hazırlanması ve GK kararlarının uygulanması</li><li>8. Şirketin borca batık olduğunun tespitinde mahkemeye bildirim</li></ul><div class='hl'>Bu yetkiler esas sözleşmeyle veya iç yönergeyle bir başkasına devredilemez.</div>"
         },
         {
-          "heading": "YK Üyelerinin Hukuki Sorumluluğu (TTK md. 553-562)",
-          "content": "<ul><li><strong>Sorumluluk koşulları:</strong> Kanundan veya esas sözleşmeden doğan yükümlülüklerin ihlali + kusur + zarar + illiyet bağı.</li><li><strong>Kime karşı sorumluluk:</strong> Şirkete, pay sahiplerine ve şirket alacaklılarına karşı.</li><li><strong>Özen ve bağlılık borcu (TTK md. 369):</strong> Makul bir basiretli iş insanının özen standardı. İş yargısı ilkesi (business judgment rule): dürüstlük kuralına uygun ve makul bilgiye dayanarak verilen kararlar için sorumlu tutulmaz.</li><li><strong>İbra:</strong> GK'nın YK'ya ibra vermesi sorumluluktan kurtarır; ancak ibra sonradan ortaya çıkan bilgi eksikliği veya yanıltma varsa geçersiz olabilir.</li></ul>"
+          "heading": "YK Üyelerinin Hukuki Sorumluluğu (TTK (türk ticaret kanunu) md. 553-562)",
+          "content": "<ul><li><strong>Sorumluluk koşulları:</strong> Kanundan veya esas sözleşmeden doğan yükümlülüklerin ihlali + kusur + zarar + illiyet bağı.</li><li><strong>Kime karşı sorumluluk:</strong> Şirkete, pay sahiplerine ve şirket alacaklılarına karşı.</li><li><strong>Özen ve bağlılık borcu (TTK (türk ticaret kanunu) md. 369):</strong> Makul bir basiretli iş insanının özen standardı. İş yargısı ilkesi (business judgment rule): dürüstlük kuralına uygun ve makul bilgiye dayanarak verilen kararlar için sorumlu tutulmaz.</li><li><strong>İbra:</strong> GK'nın YK'ya ibra vermesi sorumluluktan kurtarır; ancak ibra sonradan ortaya çıkan bilgi eksikliği veya yanıltma varsa geçersiz olabilir.</li></ul>"
         }
       ]
     },
@@ -35236,7 +35236,7 @@ window.__EXT = {
         },
         {
           "heading": "GK Kararlarının Sakatlığı",
-          "content": "<ul><li><strong>Butlan (hükümsüzlük):</strong> Kamu düzenini, şirketin temel yapısını veya pay sahibi haklarını özünden zedeleyen kararlar süresiz hükümsüzdür. Herkes ileri sürebilir.</li><li><strong>İptal davası (TTK md. 445-451):</strong> Kanuna, esas sözleşmeye veya dürüstlük kuralına aykırı GK kararlarına karşı. Süre: 3 ay. Dava açabilecekler: toplantıya katılan ve itirazını tutanağa yazdıran pay sahibi; toplantıya çağrılmayan pay sahibi; YK veya bireysel YK üyesi; denetçi.</li><li><strong>İptal kararının etkisi:</strong> Kararı iptal eden mahkeme kararı herkese karşı hüküm ifade eder (erga omnes etkisi).</li></ul>"
+          "content": "<ul><li><strong>Butlan (hükümsüzlük):</strong> Kamu düzenini, şirketin temel yapısını veya pay sahibi haklarını özünden zedeleyen kararlar süresiz hükümsüzdür. Herkes ileri sürebilir.</li><li><strong>İptal davası (TTK (türk ticaret kanunu) md. 445-451):</strong> Kanuna, esas sözleşmeye veya dürüstlük kuralına aykırı GK kararlarına karşı. Süre: 3 ay. Dava açabilecekler: toplantıya katılan ve itirazını tutanağa yazdıran pay sahibi; toplantıya çağrılmayan pay sahibi; YK veya bireysel YK üyesi; denetçi.</li><li><strong>İptal kararının etkisi:</strong> Kararı iptal eden mahkeme kararı herkese karşı hüküm ifade eder (erga omnes etkisi).</li></ul>"
         }
       ]
     },
@@ -35260,11 +35260,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Pay Devri ve Bağlam (Vinkülas)",
-          "content": "<ul><li><strong>Hamiline yazılı pay devri:</strong> Payın teslimi (zilyetliğin devri) yeterlidir. Tescil gerekmez. MKK kaydı zorunludur.</li><li><strong>Nama yazılı pay devri:</strong> Ciro + zilyetlik devri + şirket pay defterine kayıt. Şirket pay defterine kaydolunmayan kişi pay sahibi haklarını kullanamaz.</li><li><strong>Bağlam (vinkülas):</strong> Esas sözleşmeyle nama yazılı payların devri şirketin onayına bağlanabilir. Şirket haklı sebep olmaksızın 3 ay içinde reddedemez. Haklı sebepler: şirketin ekonomik bağımsızlığının korunması, şirket amacına uygunluk.</li></ul>"
+          "content": "<ul><li><strong>Hamiline yazılı pay devri:</strong> Payın teslimi (zilyetliğin devri) yeterlidir. Tescil gerekmez. MKK (merkezi kayıt kuruluşu) kaydı zorunludur.</li><li><strong>Nama yazılı pay devri:</strong> Ciro + zilyetlik devri + şirket pay defterine kayıt. Şirket pay defterine kaydolunmayan kişi pay sahibi haklarını kullanamaz.</li><li><strong>Bağlam (vinkülas):</strong> Esas sözleşmeyle nama yazılı payların devri şirketin onayına bağlanabilir. Şirket haklı sebep olmaksızın 3 ay içinde reddedemez. Haklı sebepler: şirketin ekonomik bağımsızlığının korunması, şirket amacına uygunluk.</li></ul>"
         },
         {
           "heading": "Tasfiye Süreci",
-          "content": "<ul><li><strong>Tasfiye kararı → tescil ve ilan:</strong> Şirket 'tasfiye halinde' unvanıyla faaliyetine devam eder.</li><li><strong>Tasfiye memuru:</strong> GK tarafından atanır. Esas sözleşmede veya GK kararında başkası belirlenmemişse YK üyeleri tasfiye memuru sıfatı kazanır.</li><li><strong>Alacaklıların çağrılması:</strong> TTK md. 543: Şirket alacaklıları 3 kez ilan yoluyla çağrılır; bildirilen alacaklar ödenir veya karşılık ayrılır.</li><li><strong>Tasfiye payı dağıtımı:</strong> Tüm borçlar ödendikten ve karşılıklar ayrıldıktan sonra kalan varlık, pay sahiplerine payları oranında dağıtılır. Tasfiye sonu bilançosu tescil ve ilan edilir.</li></ul>"
+          "content": "<ul><li><strong>Tasfiye kararı → tescil ve ilan:</strong> Şirket 'tasfiye halinde' unvanıyla faaliyetine devam eder.</li><li><strong>Tasfiye memuru:</strong> GK tarafından atanır. Esas sözleşmede veya GK kararında başkası belirlenmemişse YK üyeleri tasfiye memuru sıfatı kazanır.</li><li><strong>Alacaklıların çağrılması:</strong> TTK (türk ticaret kanunu) md. 543: Şirket alacaklıları 3 kez ilan yoluyla çağrılır; bildirilen alacaklar ödenir veya karşılık ayrılır.</li><li><strong>Tasfiye payı dağıtımı:</strong> Tüm borçlar ödendikten ve karşılıklar ayrıldıktan sonra kalan varlık, pay sahiplerine payları oranında dağıtılır. Tasfiye sonu bilançosu tescil ve ilan edilir.</li></ul>"
         }
       ]
     }
@@ -35276,33 +35276,33 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Temel Takas ve Saklama Kavramları",
-          "content": "<p>Sermaye piyasası alım-satım işlemlerinin tamamlanması iki temel süreçten oluşur: <strong>Takas</strong> (menkul kıymet ve nakit el değiştirmesi) ve <strong>Saklama</strong> (elektronik ortamda kaydi tutma).</p><ul><li><strong>Borsa:</strong> Sermaye piyasası araçlarının, kambiyo ve kıymetli madenlerin serbest rekabet şartları altında alınıp satılmasını sağlayan, Kanuna uygun olarak yetkilendirilmiş sistemler ve pazar yerleridir.</li><li><strong>Merkezi Karşı Taraf (MKT):</strong> Takasbank'ın, Kurul tarafından uygun görülen piyasa veya sermaye piyasası araçları bazında açık teklif, sözleşme yenileme veya hukuken bağlayıcılığı olan başka bir yöntemle alıcıya karşı satıcı, satıcıya karşı da alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt ettiği faaliyettir.</li><li><strong>DVP (Delivery vs Payment):</strong> Menkul kıymet teslimatı ile ödemenin eş zamanlı yapılması ilkesidir. Anapara riskini sıfırlar.</li><li><strong>Netleştirme:</strong> Aynı üyenin aynı piyasadaki işlemlerini bakiyeye düşürerek tek bir takas yükümlülüğüne indirgemek.</li></ul>"
+          "content": "<p>Sermaye piyasası alım-satım işlemlerinin tamamlanması iki temel süreçten oluşur: <strong>Takas</strong> (menkul kıymet ve nakit el değiştirmesi) ve <strong>Saklama</strong> (elektronik ortamda kaydi tutma).</p><ul><li><strong>Borsa:</strong> Sermaye piyasası araçlarının, kambiyo ve kıymetli madenlerin serbest rekabet şartları altında alınıp satılmasını sağlayan, Kanuna uygun olarak yetkilendirilmiş sistemler ve pazar yerleridir.</li><li><strong>Merkezi Karşı Taraf (MKT):</strong> Takasbank (istanbul takas ve saklama bankası)'ın, Kurul tarafından uygun görülen piyasa veya sermaye piyasası araçları bazında açık teklif, sözleşme yenileme veya hukuken bağlayıcılığı olan başka bir yöntemle alıcıya karşı satıcı, satıcıya karşı da alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt ettiği faaliyettir.</li><li><strong>DVP (Delivery vs Payment):</strong> Menkul kıymet teslimatı ile ödemenin eş zamanlı yapılması ilkesidir. Anapara riskini sıfırlar.</li><li><strong>Netleştirme:</strong> Aynı üyenin aynı piyasadaki işlemlerini bakiyeye düşürerek tek bir takas yükümlülüğüne indirgemek.</li></ul>"
         },
         {
           "heading": "Teminat Türleri",
-          "content": "<ul><li><strong>İşlem teminatı:</strong> Piyasada vadeli işlem ve opsiyon sözleşmelerinin alımı ya da satımı amacıyla Takasbank'ta açılan hesaplara yatırılan teminatlardır. Başlangıç ve değişim teminatlarından oluşur.</li><li><strong>Başlangıç teminatı (Initial Margin):</strong> Pozisyon açılırken peşin yatırılan güvence teminatı.</li><li><strong>Değişim teminatı (Variation Margin):</strong> Mevcut pozisyonların piyasa fiyatları ile değerlenmesi sonucunda ortaya çıkan farklar nedeniyle ihtiyaç duyulan teminattır. Mark-to-market olarak günlük hesaplanır.</li><li><strong>Garanti fonu:</strong> MKT hizmeti verilen piyasada takas yükümlülüklerinin yerine getirilmemesi durumunda kullanılmak amacıyla Takasbank nezdinde tutulan, teminatlar dışında kalan ve MKT üyelerinin katkı paylarıyla oluşturulan fondur.</li></ul>"
+          "content": "<ul><li><strong>İşlem teminatı:</strong> Piyasada vadeli işlem ve opsiyon sözleşmelerinin alımı ya da satımı amacıyla Takasbank (istanbul takas ve saklama bankası)'ta açılan hesaplara yatırılan teminatlardır. Başlangıç ve değişim teminatlarından oluşur.</li><li><strong>Başlangıç teminatı (Initial Margin):</strong> Pozisyon açılırken peşin yatırılan güvence teminatı.</li><li><strong>Değişim teminatı (Variation Margin):</strong> Mevcut pozisyonların piyasa fiyatları ile değerlenmesi sonucunda ortaya çıkan farklar nedeniyle ihtiyaç duyulan teminattır. Mark-to-market olarak günlük hesaplanır.</li><li><strong>Garanti fonu:</strong> MKT hizmeti verilen piyasada takas yükümlülüklerinin yerine getirilmemesi durumunda kullanılmak amacıyla Takasbank (istanbul takas ve saklama bankası) nezdinde tutulan, teminatlar dışında kalan ve MKT üyelerinin katkı paylarıyla oluşturulan fondur.</li></ul>"
         },
         {
           "heading": "Önemli Kısaltmalar",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.85rem'><tr style='background:var(--bg3)'><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Kısaltma</th><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Açılımı</th></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>MKK</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Merkezi Kayıt Kuruluşu A.Ş.</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>MKT</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Merkezi Karşı Taraf</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>MTK</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Merkezi Takas Kuruluşu</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>DİBS</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Devlet İç Borçlanma Senetleri</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>EMKT</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Elektronik Menkul Kıymet Transfer Sistemi</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>KAP</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Kamuyu Aydınlatma Platformu</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>ÖPP</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ödünç Pay Piyasası</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>TSPB</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Türkiye Sermaye Piyasaları Birliği</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.85rem'><tr style='background:var(--bg3)'><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Kısaltma</th><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Açılımı</th></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>MKK (merkezi kayıt kuruluşu)</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Merkezi Kayıt Kuruluşu A.Ş.</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>MKT</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Merkezi Karşı Taraf</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>MTK</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Merkezi Takas Kuruluşu</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>DİBS</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Devlet İç Borçlanma Senetleri</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>EMKT</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Elektronik Menkul Kıymet Transfer Sistemi</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>KAP (kamuyu aydınlatma platformu)</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Kamuyu Aydınlatma Platformu</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>ÖPP</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ödünç Pay Piyasası</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'><strong>TSPB</strong></td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Türkiye Sermaye Piyasaları Birliği</td></tr></table>"
         }
       ]
     },
     {
       "num": "02",
-      "title": "MKK — Merkezi Kayıt Kuruluşu",
+      "title": "MKK (merkezi kayıt kuruluşu) — Merkezi Kayıt Kuruluşu",
       "sections": [
         {
-          "heading": "MKK'nın Kuruluş ve Sermaye Yapısı",
-          "content": "<p>MKK, sermaye piyasası araçlarının kaydileştirilmesi, kayıtların tutulması ve hak sahiplerinin tespiti görevini yürüten Anonim Şirkettir. SPK (sermaye piyasası kurulu)'nın gözetim ve denetimine tabidir.</p><ul><li><strong>Sermaye yapısı kısıtları:</strong> Takasbank en fazla <strong>%75</strong>, BİST en fazla <strong>%50</strong>, TSPB en fazla <strong>%10</strong> paya sahip olabilir.</li><li>Üyelerin tamamının sahip olduğu pay oranı, kanunda belirtilen sınırları aşamaz.</li><li>MKK Yönetmeliği: 6362 sayılı Sermaye Piyasası Kanunu'nun 81. maddesine dayanılarak hazırlanmıştır.</li></ul>"
+          "heading": "MKK (merkezi kayıt kuruluşu)'nın Kuruluş ve Sermaye Yapısı",
+          "content": "<p>MKK (merkezi kayıt kuruluşu), sermaye piyasası araçlarının kaydileştirilmesi, kayıtların tutulması ve hak sahiplerinin tespiti görevini yürüten Anonim Şirkettir. SPK (sermaye piyasası kurulu)'nın gözetim ve denetimine tabidir.</p><ul><li><strong>Sermaye yapısı kısıtları:</strong> Takasbank (istanbul takas ve saklama bankası) en fazla <strong>%75</strong>, BİST en fazla <strong>%50</strong>, TSPB en fazla <strong>%10</strong> paya sahip olabilir.</li><li>Üyelerin tamamının sahip olduğu pay oranı, kanunda belirtilen sınırları aşamaz.</li><li>MKK (merkezi kayıt kuruluşu) Yönetmeliği: 6362 sayılı Sermaye Piyasası Kanunu'nun 81. maddesine dayanılarak hazırlanmıştır.</li></ul>"
         },
         {
-          "heading": "MKK Hesap Türleri",
-          "content": "<ul><li><strong>Yatırımcı Hesabı:</strong> Hak sahibi adına açılmış kaydi sermaye piyasası araçlarının izlendiği hesaptır. DİBS'ler dahil, yatırımcılara ait kaydi sermaye piyasası araçları yatırımcı hesaplarında izlenir. MKK nezdinde müşterek hesap açılması da mümkün olup birden fazla kişinin müşterek hesap açtırma talepleri üzerine, üyeler tarafından müşterek mülkiyet yatırımcı hesabı açılır ve iştirak oranları da kayden izlenir.</li><li><strong>Yatırım Kuruluşu Havuz Hesabı:</strong> Yatırım kuruluşunun, hesap sahibinin vekili sıfatıyla takas işlemlerini yerine getirmesi için kullanılır. Yatırımcı hesabı, yatırım kuruluşunun işlem yapmaya yetkili olduğu hak sahipleri adına açılmış hesaplardan oluşur.</li><li><strong>Yabancı Saklama Global Hesabı:</strong> Yurtdışında yerleşik hak sahiplerine ait sermaye piyasası araçlarının yabancı merkezi saklama kuruluşları (YMSK) ve genel saklama yetkisi bulunan yatırım kuruluşları nezdinde hak sahibi ismine açılmaksızın toplu olarak tutulduğu havuz niteliğindeki hesaplardır.</li><li><strong>Merkezi Takas Kuruluşu Hesabı:</strong> Takas havuz hesabı, havuz hesabı ve yatırımcı hesabından oluşur. Takas havuz hesabı; merkezi takas kuruluşunun, vekil sıfatıyla üyelerin takas işlemlerini gerçekleştirmesi için kullanılır.</li><li><strong>TCMB (türkiye cumhuriyet merkez bankası) Hesabı:</strong> TCMB (türkiye cumhuriyet merkez bankası) adına açılan DİBS Genel Depo Hesabı olup MKK nezdinde hak sahipleri hesaplarında izlenmeyen EMKT sistemindeki bankalara ait depo hesaplarında bulunan kıymetlerin toplu olarak, bilgi amaçlı izlenmesini sağlamak için kullanılır.</li></ul>"
+          "heading": "MKK (merkezi kayıt kuruluşu) Hesap Türleri",
+          "content": "<ul><li><strong>Yatırımcı Hesabı:</strong> Hak sahibi adına açılmış kaydi sermaye piyasası araçlarının izlendiği hesaptır. DİBS'ler dahil, yatırımcılara ait kaydi sermaye piyasası araçları yatırımcı hesaplarında izlenir. MKK (merkezi kayıt kuruluşu) nezdinde müşterek hesap açılması da mümkün olup birden fazla kişinin müşterek hesap açtırma talepleri üzerine, üyeler tarafından müşterek mülkiyet yatırımcı hesabı açılır ve iştirak oranları da kayden izlenir.</li><li><strong>Yatırım Kuruluşu Havuz Hesabı:</strong> Yatırım kuruluşunun, hesap sahibinin vekili sıfatıyla takas işlemlerini yerine getirmesi için kullanılır. Yatırımcı hesabı, yatırım kuruluşunun işlem yapmaya yetkili olduğu hak sahipleri adına açılmış hesaplardan oluşur.</li><li><strong>Yabancı Saklama Global Hesabı:</strong> Yurtdışında yerleşik hak sahiplerine ait sermaye piyasası araçlarının yabancı merkezi saklama kuruluşları (YMSK) ve genel saklama yetkisi bulunan yatırım kuruluşları nezdinde hak sahibi ismine açılmaksızın toplu olarak tutulduğu havuz niteliğindeki hesaplardır.</li><li><strong>Merkezi Takas Kuruluşu Hesabı:</strong> Takas havuz hesabı, havuz hesabı ve yatırımcı hesabından oluşur. Takas havuz hesabı; merkezi takas kuruluşunun, vekil sıfatıyla üyelerin takas işlemlerini gerçekleştirmesi için kullanılır.</li><li><strong>TCMB (türkiye cumhuriyet merkez bankası) Hesabı:</strong> TCMB (türkiye cumhuriyet merkez bankası) adına açılan DİBS Genel Depo Hesabı olup MKK (merkezi kayıt kuruluşu) nezdinde hak sahipleri hesaplarında izlenmeyen EMKT sistemindeki bankalara ait depo hesaplarında bulunan kıymetlerin toplu olarak, bilgi amaçlı izlenmesini sağlamak için kullanılır.</li></ul>"
         },
         {
           "heading": "Kaydileştirme Süreci ve Hakların Korunması",
-          "content": "<p>Kaydileştirme ile fiziksel senetler hukuki geçerliliğini yitirir ve imha edilir. Hak sahipliği MKK'nın elektronik sicil kayıtlarından tespit edilir.</p><ul><li>MKK nezdinde yatırımcı hesabı açılabilmesi için öncelikle MKK tarafından belirlenen bilgilerin üyelerce MKK'ya bildirilmesi gerekir.</li><li>Aynı yatırımcı bilgileri ile başka bir yatırım kuruluşu tarafından yatırımcı hesabı açılmak üzere yapılan başvurularda, aynı sicil numarası kullanılır.</li><li>Hisse senetleri üzerine MKK nezdinde rehin tesis edilebilir — bu kayıt tapu sicilinden bağımsız hukuki geçerlilik taşır.</li><li>Hakkında tedrici tasfiye kararı verilen yatırım kuruluşlarının MKK nezdindeki kayıtları üzerinde işlem yapma yetkisi YTM'ye devredilir.</li></ul>"
+          "content": "<p>Kaydileştirme ile fiziksel senetler hukuki geçerliliğini yitirir ve imha edilir. Hak sahipliği MKK (merkezi kayıt kuruluşu)'nın elektronik sicil kayıtlarından tespit edilir.</p><ul><li>MKK (merkezi kayıt kuruluşu) nezdinde yatırımcı hesabı açılabilmesi için öncelikle MKK (merkezi kayıt kuruluşu) tarafından belirlenen bilgilerin üyelerce MKK (merkezi kayıt kuruluşu)'ya bildirilmesi gerekir.</li><li>Aynı yatırımcı bilgileri ile başka bir yatırım kuruluşu tarafından yatırımcı hesabı açılmak üzere yapılan başvurularda, aynı sicil numarası kullanılır.</li><li>Hisse senetleri üzerine MKK (merkezi kayıt kuruluşu) nezdinde rehin tesis edilebilir — bu kayıt tapu sicilinden bağımsız hukuki geçerlilik taşır.</li><li>Hakkında tedrici tasfiye kararı verilen yatırım kuruluşlarının MKK (merkezi kayıt kuruluşu) nezdindeki kayıtları üzerinde işlem yapma yetkisi YTM'ye devredilir.</li></ul>"
         }
       ]
     },
@@ -35312,19 +35312,19 @@ window.__EXT = {
       "sections": [
         {
           "heading": "MKT Üyelik Türleri ve Koşulları",
-          "content": "<ul><li><strong>Genel MKT Üyesi:</strong> MKT hizmeti verilen piyasa veya sermaye piyasası araçlarında gerçekleşen işlemlerden kaynaklanan hak ve yükümlülüklere hem kendi portföyü hem de müşterileri adına taraf olabilen kuruluşlardır.</li><li><strong>Doğrudan MKT Üyesi:</strong> MKT hizmeti verilen piyasada gerçekleşen işlemlerden kaynaklanan hak ve yükümlülüklere yalnızca kendi portföyü adına taraf olan kuruluşlardır. Aşağıdakilerden yalnızca kendi adına takas işlemlerini gerçekleştirebilir: Portföy, Müşteri, İşlemci Kuruluş.</li><li><strong>İşlemci Kuruluş:</strong> Takasbank'ın MKT olduğu piyasada işlem yapan ancak söz konusu işlemlere ilişkin yükümlülüklerin tasfiyesini bir genel MKT üyesi aracılığıyla gerçekleştiren kuruluşlardır.</li></ul>"
+          "content": "<ul><li><strong>Genel MKT Üyesi:</strong> MKT hizmeti verilen piyasa veya sermaye piyasası araçlarında gerçekleşen işlemlerden kaynaklanan hak ve yükümlülüklere hem kendi portföyü hem de müşterileri adına taraf olabilen kuruluşlardır.</li><li><strong>Doğrudan MKT Üyesi:</strong> MKT hizmeti verilen piyasada gerçekleşen işlemlerden kaynaklanan hak ve yükümlülüklere yalnızca kendi portföyü adına taraf olan kuruluşlardır. Aşağıdakilerden yalnızca kendi adına takas işlemlerini gerçekleştirebilir: Portföy, Müşteri, İşlemci Kuruluş.</li><li><strong>İşlemci Kuruluş:</strong> Takasbank (istanbul takas ve saklama bankası)'ın MKT olduğu piyasada işlem yapan ancak söz konusu işlemlere ilişkin yükümlülüklerin tasfiyesini bir genel MKT üyesi aracılığıyla gerçekleştiren kuruluşlardır.</li></ul>"
         },
         {
           "heading": "MKT'nin Temel İşlevleri",
-          "content": "<p>Takasbank, MKT rolü kapsamında aşağıdaki yöntemlerden birini veya birkaçını kullanarak karşı taraf rolünü üstlenir:</p><ul><li><strong>Açık teklif yöntemi:</strong> İşlemin eşleştiği anda piyasa katılımcıları arasına girerek alıcıya karşı satıcı, satıcıya karşı alıcı konumuna geçer.</li><li><strong>Sözleşme yenileme yöntemi:</strong> MKT hizmeti verilen piyasada gerçekleşen işlemlerde piyasa yönergelerinde belirlenen esaslar çerçevesinde ve her hâlükârda takas tamamlanmadan önce, taraflar arasında yapılmış sözleşmenin iptal edilerek Takasbank'ın taraflarla ayrı ayrı sözleşme yapmasını ifade eder.</li></ul>"
+          "content": "<p>Takasbank (istanbul takas ve saklama bankası), MKT rolü kapsamında aşağıdaki yöntemlerden birini veya birkaçını kullanarak karşı taraf rolünü üstlenir:</p><ul><li><strong>Açık teklif yöntemi:</strong> İşlemin eşleştiği anda piyasa katılımcıları arasına girerek alıcıya karşı satıcı, satıcıya karşı alıcı konumuna geçer.</li><li><strong>Sözleşme yenileme yöntemi:</strong> MKT hizmeti verilen piyasada gerçekleşen işlemlerde piyasa yönergelerinde belirlenen esaslar çerçevesinde ve her hâlükârda takas tamamlanmadan önce, taraflar arasında yapılmış sözleşmenin iptal edilerek Takasbank (istanbul takas ve saklama bankası)'ın taraflarla ayrı ayrı sözleşme yapmasını ifade eder.</li></ul>"
         },
         {
           "heading": "Teminatların ve Pozisyonların Ayrıştırılması",
-          "content": "<p>MKT, hizmet verdiği piyasada müşterilerin pozisyon ve teminatlarını üyeye bağlı olmaksızın ayrı hesaplarda izler.</p><ul><li><strong>Temel Ayrıştırma İlkesi:</strong> Takasbank, MKT hizmeti verdiği piyasada müşterilerin pozisyon ve teminatlarını, üyeye bağlı olmakla birlikte üyenin kendi portföyüne ait pozisyon ve teminatlardan ayrı hesaplarda izler.</li><li><strong>Tekil Pozisyon Hesapları:</strong> Çoklu pozisyon hesaplarının kullanılabildiği piyasada, müşteri pozisyon ve teminatlarının, MKT üyesi tarafından talep edilmesi halinde Takasbank nezdinde açılan kendisine bağlı tekil pozisyon hesapları ile müşteriye ait teminat alt hesaplarında izlenmesi gereklidir.</li><li><strong>Teminat Koruma İlkesi:</strong> Tekil pozisyon hesaplarındaki pozisyonlarla ilişkili teminat hesaplarında izlenen müşteri teminatları, MKT üyesinin kendisine ait hesaplarda veya diğer müşterilere ait hesaplarda ortaya çıkan teminat açıklarının kapatılmasında kullanılamaz.</li></ul>"
+          "content": "<p>MKT, hizmet verdiği piyasada müşterilerin pozisyon ve teminatlarını üyeye bağlı olmaksızın ayrı hesaplarda izler.</p><ul><li><strong>Temel Ayrıştırma İlkesi:</strong> Takasbank (istanbul takas ve saklama bankası), MKT hizmeti verdiği piyasada müşterilerin pozisyon ve teminatlarını, üyeye bağlı olmakla birlikte üyenin kendi portföyüne ait pozisyon ve teminatlardan ayrı hesaplarda izler.</li><li><strong>Tekil Pozisyon Hesapları:</strong> Çoklu pozisyon hesaplarının kullanılabildiği piyasada, müşteri pozisyon ve teminatlarının, MKT üyesi tarafından talep edilmesi halinde Takasbank (istanbul takas ve saklama bankası) nezdinde açılan kendisine bağlı tekil pozisyon hesapları ile müşteriye ait teminat alt hesaplarında izlenmesi gereklidir.</li><li><strong>Teminat Koruma İlkesi:</strong> Tekil pozisyon hesaplarındaki pozisyonlarla ilişkili teminat hesaplarında izlenen müşteri teminatları, MKT üyesinin kendisine ait hesaplarda veya diğer müşterilere ait hesaplarda ortaya çıkan teminat açıklarının kapatılmasında kullanılamaz.</li></ul>"
         },
         {
           "heading": "Teminatların ve Pozisyonların Taşınabilirliği",
-          "content": "<ul><li><strong>Taşıma Koşulları:</strong> Tekil veya çoklu pozisyon hesaplarında izlenen pozisyonlar ve bu pozisyonlarla ilişkili teminatlar, Takasbank'ın uygun görmesi halinde, devreden ve devralan MKT üyelerinin talimatıyla Takasbank tarafından MKT üyeleri arasında taşınabilir.</li><li><strong>Faaliyetleri Kısıtlanan Üyeler:</strong> MKT üyeliğine ilişkin faaliyetleri kısıtlanan veya MKT üyeliğinin sona erdirilmesine karar verilen bir MKT üyesine bağlı tekil pozisyon hesaplarında izlenen pozisyonlar ile bu pozisyonlarla ilişkili teminatlar bir başka MKT üyesine taşınır.</li><li><strong>Teminat Sınırlaması:</strong> Bir MKT üyesinin ilgili piyasa veya sermaye piyasası aracındaki faaliyetlerinin kısıtlanması veya MKT üyeliğinin sona erdirilmesi halinde kalacak teminat miktarı, temerrüt sonrasında doğan değişim teminatı tutarlarının hesaplara yansıtılmasını takiben sınırlıdır.</li></ul>"
+          "content": "<ul><li><strong>Taşıma Koşulları:</strong> Tekil veya çoklu pozisyon hesaplarında izlenen pozisyonlar ve bu pozisyonlarla ilişkili teminatlar, Takasbank (istanbul takas ve saklama bankası)'ın uygun görmesi halinde, devreden ve devralan MKT üyelerinin talimatıyla Takasbank (istanbul takas ve saklama bankası) tarafından MKT üyeleri arasında taşınabilir.</li><li><strong>Faaliyetleri Kısıtlanan Üyeler:</strong> MKT üyeliğine ilişkin faaliyetleri kısıtlanan veya MKT üyeliğinin sona erdirilmesine karar verilen bir MKT üyesine bağlı tekil pozisyon hesaplarında izlenen pozisyonlar ile bu pozisyonlarla ilişkili teminatlar bir başka MKT üyesine taşınır.</li><li><strong>Teminat Sınırlaması:</strong> Bir MKT üyesinin ilgili piyasa veya sermaye piyasası aracındaki faaliyetlerinin kısıtlanması veya MKT üyeliğinin sona erdirilmesi halinde kalacak teminat miktarı, temerrüt sonrasında doğan değişim teminatı tutarlarının hesaplara yansıtılmasını takiben sınırlıdır.</li></ul>"
         }
       ]
     },
@@ -35356,7 +35356,7 @@ window.__EXT = {
         },
         {
           "heading": "Temerrüt Yönetimi — Katsayılar ve Formül",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.85rem;margin-bottom:12px'><tr style='background:var(--bg3)'><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Temerrüt Saati</th><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Katsayı</th><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Piyasa</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>16:46 – 17:30</td><td style='padding:7px 10px;border:1px solid var(--bdr)'><strong>1</strong></td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Pay</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>17:31 ve sonrası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'><strong>3</strong></td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Pay</td></tr></table><p style='font-size:.85rem;margin-bottom:8px'><strong>Ceza formülü:</strong></p><div class='hl' style='font-family:var(--mono);font-size:.82rem'>Ceza = Borç Tutarı × Referans Faiz Oranı × Katsayı × (Gün / <strong>360</strong>)</div><ul style='margin-top:12px'><li><strong>Mağduriyet ödemesi:</strong> Temerrüt cezasının <strong>2/3'ü</strong> mağdur üyeye aktarılır. Kalan 1/3 Takasbank'ta kalır (caydırıcılık ve sistem giderleri).</li><li><strong>Açık piyasadan alım:</strong> Menkul kıymet teslim edilemezse Takasbank açık piyasadan alım yapar; fark temerrüde düşen taraftan tahsil edilir.</li></ul>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.85rem;margin-bottom:12px'><tr style='background:var(--bg3)'><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Temerrüt Saati</th><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Katsayı</th><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Piyasa</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>16:46 – 17:30</td><td style='padding:7px 10px;border:1px solid var(--bdr)'><strong>1</strong></td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Pay</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>17:31 ve sonrası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'><strong>3</strong></td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Pay</td></tr></table><p style='font-size:.85rem;margin-bottom:8px'><strong>Ceza formülü:</strong></p><div class='hl' style='font-family:var(--mono);font-size:.82rem'>Ceza = Borç Tutarı × Referans Faiz Oranı × Katsayı × (Gün / <strong>360</strong>)</div><ul style='margin-top:12px'><li><strong>Mağduriyet ödemesi:</strong> Temerrüt cezasının <strong>2/3'ü</strong> mağdur üyeye aktarılır. Kalan 1/3 Takasbank (istanbul takas ve saklama bankası)'ta kalır (caydırıcılık ve sistem giderleri).</li><li><strong>Açık piyasadan alım:</strong> Menkul kıymet teslim edilemezse Takasbank (istanbul takas ve saklama bankası) açık piyasadan alım yapar; fark temerrüde düşen taraftan tahsil edilir.</li></ul>"
         },
         {
           "heading": "Başlangıç ve Değişim Teminatı Hesaplaması",
@@ -35377,8 +35377,8 @@ window.__EXT = {
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.85rem;margin-bottom:12px'><tr style='background:var(--bg3)'><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Temerrüt Saati</th><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Katsayı</th><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Piyasa</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>16:46 – 17:00</td><td style='padding:7px 10px;border:1px solid var(--bdr)'><strong>0,25</strong></td><td style='padding:7px 10px;border:1px solid var(--bdr)'>BAP</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>17:01 – 17:30</td><td style='padding:7px 10px;border:1px solid var(--bdr)'><strong>0,50</strong></td><td style='padding:7px 10px;border:1px solid var(--bdr)'>BAP</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>17:31 ve sonrası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'><strong>3</strong></td><td style='padding:7px 10px;border:1px solid var(--bdr)'>BAP</td></tr></table><div class='hl' style='font-family:var(--mono);font-size:.82rem'>Ceza = Borç Tutarı × Referans Faiz Oranı × Katsayı × (Gün / <strong>365</strong>)</div><div class='hl' style='margin-top:8px'><strong>Kritik fark:</strong> Pay piyasasında gün bazı 360 iken BAP'ta 365'tir. Sınav sorusudur!</div>"
         },
         {
-          "heading": "Borsa İstanbul SWAP Piyasası",
-          "content": "<p>SWAP Piyasası'nda döviz swap işlemleri gerçekleştirilir. Takasbank bu piyasada da MKT sıfatıyla karşı taraf riskini üstlenir.</p><ul><li>İşlemler, belirlenen döviz cinsleri üzerinden USD, EUR ve diğer para birimleri bazında yapılır.</li><li>SWAP işleminin başlangıç ve bitiş bacağına ilişkin takas işlemleri Takasbank tarafından yürütülür.</li><li>Teminatlandırma BAP ile benzer esaslar çerçevesinde yapılır.</li></ul>"
+          "heading": "Borsa İstanbul SWAP (takas işlemi) Piyasası",
+          "content": "<p>SWAP (takas işlemi) Piyasası'nda döviz swap işlemleri gerçekleştirilir. Takasbank (istanbul takas ve saklama bankası) bu piyasada da MKT sıfatıyla karşı taraf riskini üstlenir.</p><ul><li>İşlemler, belirlenen döviz cinsleri üzerinden USD, EUR ve diğer para birimleri bazında yapılır.</li><li>SWAP (takas işlemi) işleminin başlangıç ve bitiş bacağına ilişkin takas işlemleri Takasbank (istanbul takas ve saklama bankası) tarafından yürütülür.</li><li>Teminatlandırma BAP ile benzer esaslar çerçevesinde yapılır.</li></ul>"
         }
       ]
     },
@@ -35388,15 +35388,15 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Risk Yönetimi ve Teminatlandırma Esasları",
-          "content": "<ul><li><strong>Başlangıç teminatı parametreleri:</strong> %99,50 güven aralığı, 2 günlük elde tutma süresi kullanılarak hesaplanır.</li><li><strong>Değerleme katsayısı parametreleri:</strong> %99,90 güven aralığı, 2 iş günlük likidite periyodu.</li><li><strong>TL zorunluluğu:</strong> İşlem teminatının en az <strong>%50</strong>'si nakit Türk Lirası olarak yatırılmalıdır. İlave işlem teminatında bu oran <strong>%30</strong>'dur.</li><li><strong>Teminat tamamlama — gün içi:</strong> Gün içerisinde bir hesaba ilişkin teminat yetersizliğinin Takasbank tarafından belirlenen kriterleri aşması durumunda, söz konusu aşımların giderilmesini teminen Takasbank tarafından gün içi teminat tamamlama çağrısı yapılabilir. İlgili üye söz konusu çağrının yapılması halinde, teminat tamamlama çağrısına konu yükümlülüklerin, <strong>2 saat içerisinde</strong> yerine getirilmesi gerekir.</li><li><strong>Teminat tamamlama — gün sonu:</strong> Üyeler teminat tamamlama çağrısı yükümlülüklerini bir sonraki iş günü en geç saat <strong>11:00</strong>'e kadar yerine getirmek zorundadırlar. Yarım iş günlerinde teminat tamamlama son saati <strong>10:00</strong>'dur.</li></ul>"
+          "content": "<ul><li><strong>Başlangıç teminatı parametreleri:</strong> %99,50 güven aralığı, 2 günlük elde tutma süresi kullanılarak hesaplanır.</li><li><strong>Değerleme katsayısı parametreleri:</strong> %99,90 güven aralığı, 2 iş günlük likidite periyodu.</li><li><strong>TL zorunluluğu:</strong> İşlem teminatının en az <strong>%50</strong>'si nakit Türk Lirası olarak yatırılmalıdır. İlave işlem teminatında bu oran <strong>%30</strong>'dur.</li><li><strong>Teminat tamamlama — gün içi:</strong> Gün içerisinde bir hesaba ilişkin teminat yetersizliğinin Takasbank (istanbul takas ve saklama bankası) tarafından belirlenen kriterleri aşması durumunda, söz konusu aşımların giderilmesini teminen Takasbank (istanbul takas ve saklama bankası) tarafından gün içi teminat tamamlama çağrısı yapılabilir. İlgili üye söz konusu çağrının yapılması halinde, teminat tamamlama çağrısına konu yükümlülüklerin, <strong>2 saat içerisinde</strong> yerine getirilmesi gerekir.</li><li><strong>Teminat tamamlama — gün sonu:</strong> Üyeler teminat tamamlama çağrısı yükümlülüklerini bir sonraki iş günü en geç saat <strong>11:00</strong>'e kadar yerine getirmek zorundadırlar. Yarım iş günlerinde teminat tamamlama son saati <strong>10:00</strong>'dur.</li></ul>"
         },
         {
           "heading": "Pozisyon Limitleri",
-          "content": "<p>Piyasada 3 tip pozisyon limiti uygulanabilir:</p><ul><li><strong>Sicil bazında pozisyon limiti:</strong> Aynı dayanak varlığa bağlı tüm sözleşmeler için bir sicile bağlı tüm hesaplarda alınabilecek aynı yönlü pozisyonların karşılık gelebileceği azami dayanak varlık sayısıdır. Pay vadeli işlem ve opsiyon için: her dayanak varlık için MKK tarafından açıklanan fiili dolaşımdaki pay miktarının %3'üne denk gelen dayanak varlık sayısıdır.</li><li><strong>Piyasa bazında pozisyon limiti:</strong> Tüm Vadeli İşlem ve Opsiyon Sözleşmeleri için her dayanak varlık için genel mektupla duyurulacak maktu değerlerdir.</li><li><strong>Üye bazında pozisyon limiti:</strong> Piyasadaki ilgili dayanak varlığa bağlı sözleşmelerde aynı yönlü toplam açık pozisyonun %10'udur.</li></ul>"
+          "content": "<p>Piyasada 3 tip pozisyon limiti uygulanabilir:</p><ul><li><strong>Sicil bazında pozisyon limiti:</strong> Aynı dayanak varlığa bağlı tüm sözleşmeler için bir sicile bağlı tüm hesaplarda alınabilecek aynı yönlü pozisyonların karşılık gelebileceği azami dayanak varlık sayısıdır. Pay vadeli işlem ve opsiyon için: her dayanak varlık için MKK (merkezi kayıt kuruluşu) tarafından açıklanan fiili dolaşımdaki pay miktarının %3'üne denk gelen dayanak varlık sayısıdır.</li><li><strong>Piyasa bazında pozisyon limiti:</strong> Tüm Vadeli İşlem ve Opsiyon Sözleşmeleri için her dayanak varlık için genel mektupla duyurulacak maktu değerlerdir.</li><li><strong>Üye bazında pozisyon limiti:</strong> Piyasadaki ilgili dayanak varlığa bağlı sözleşmelerde aynı yönlü toplam açık pozisyonun %10'udur.</li></ul>"
         },
         {
           "heading": "Fiziki Teslimat ve Nakit Uzlaşma",
-          "content": "<ul><li><strong>Nakit uzlaşma:</strong> Vade sonunda sözleşmede belirtilen günlük uzlaşma fiyatı yerine vade sonu uzlaşma fiyatı kullanılarak tarafların hesaplarına kar/zarar yansıtılır.</li><li><strong>Fiziki teslimat:</strong> Vade sonunda dayanak varlığın teslimi yapılır. Takasbank fiziki teslimat sürecini koordine eder.</li><li><strong>VİOP Temerrüt:</strong> İşlem teminatını tamamlamayan üyeler için zorunlu pozisyon kapatma uygulanır. Temerrüt kaskadı VİOP'ta da aynı sırayla işler.</li></ul>"
+          "content": "<ul><li><strong>Nakit uzlaşma:</strong> Vade sonunda sözleşmede belirtilen günlük uzlaşma fiyatı yerine vade sonu uzlaşma fiyatı kullanılarak tarafların hesaplarına kar/zarar yansıtılır.</li><li><strong>Fiziki teslimat:</strong> Vade sonunda dayanak varlığın teslimi yapılır. Takasbank (istanbul takas ve saklama bankası) fiziki teslimat sürecini koordine eder.</li><li><strong>VİOP Temerrüt:</strong> İşlem teminatını tamamlamayan üyeler için zorunlu pozisyon kapatma uygulanır. Temerrüt kaskadı VİOP'ta da aynı sırayla işler.</li></ul>"
         }
       ]
     },
@@ -35406,15 +35406,15 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Teminat Türleri ve Kabul Koşulları",
-          "content": "<p>Takasbank, teminat olarak aşağıdaki varlıkları kabul eder:</p><table style='width:100%;border-collapse:collapse;font-size:.85rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Teminat Türü</th><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Özel Koşul</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nakit TL</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tam değerden kabul edilir</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nakit USD / EUR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kur riski için haircut uygulanır</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>DİBS (Devlet Tahvili)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fiyat ve likidite riski için haircut</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Hisse Senedi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değerleme katsayısı uygulanır</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Altın</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fiyat dalgalanması için haircut</td></tr></table><p style='margin-top:10px;font-size:.85rem'><strong>Haircut (Değerleme Katsayısı):</strong> Teminata kabul edilen varlığın piyasa değeri üzerinden likidite ve fiyat dalgalanması riskine göre uygulanan indirim oranıdır. Parametre: %99,90 güven aralığı, 2 iş günü likidite periyodu.</p>"
+          "content": "<p>Takasbank (istanbul takas ve saklama bankası), teminat olarak aşağıdaki varlıkları kabul eder:</p><table style='width:100%;border-collapse:collapse;font-size:.85rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Teminat Türü</th><th style='padding:7px 10px;text-align:left;border:1px solid var(--bdr)'>Özel Koşul</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nakit TL</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tam değerden kabul edilir</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nakit USD / EUR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kur riski için haircut uygulanır</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>DİBS (Devlet Tahvili)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fiyat ve likidite riski için haircut</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Hisse Senedi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değerleme katsayısı uygulanır</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Altın</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fiyat dalgalanması için haircut</td></tr></table><p style='margin-top:10px;font-size:.85rem'><strong>Haircut (Değerleme Katsayısı):</strong> Teminata kabul edilen varlığın piyasa değeri üzerinden likidite ve fiyat dalgalanması riskine göre uygulanan indirim oranıdır. Parametre: %99,90 güven aralığı, 2 iş günü likidite periyodu.</p>"
         },
         {
           "heading": "Garanti Fonu ve Temerrüt Kaskadı",
-          "content": "<p>Garanti fonu, herhangi bir üyenin temerrüdünde oluşan kaybın tüm sisteme yayılmasını önleyen kolektif kaynak havuzudur.</p><div class='hl'><strong>Temerrüt kaskadı sırası:</strong><br>1. Temerrüde düşen üyenin işlem teminatı<br>2. Temerrüde düşen üyenin garanti fonu katkı payı<br>3. Takasbank'ın skin-in-the-game özsermaye katkısı<br>4. Diğer sağlıklı MKT üyelerinin garanti fonu katkıları</div><ul style='margin-top:12px'><li><strong>Katkı payı belirlenmesi:</strong> Üyenin ilgili MKT üyesinin işlemlerinden kaynaklanan riskleri ile doğru orantılı olarak belirlenir.</li><li><strong>Tamamlama çağrısı:</strong> Üyenin garanti fonu katkı payının nakit ve nakit dışı olarak her biri için yatırması gereken tutarın altına düşmesi durumunda, üyeye garanti fonu katkı payı tamamlama çağrısı yapılır. Tamamlama çağrısı üye tarafından <strong>1 iş günü</strong> içerisinde yerine getirilir. Süresi içinde yerine getirilmezse üye temerrüde düşmüş sayılır.</li><li><strong>Nemalandırma:</strong> Takasbank üyeler tarafından tesis edilen nakit Türk Lirası garanti fonu katkı paylarının zorunlu karşılık oranı düşüldükten sonra kalan tutarını kredi riski, likidite koşulları dikkate alınarak Takasbank limitleri dahilinde mümkün olan en iyi koşullarla nemalandırır. Nemalandırma işlemleri saat 15:40'taki üye hesap bakiyeleri üzerinden yapılır.</li></ul>"
+          "content": "<p>Garanti fonu, herhangi bir üyenin temerrüdünde oluşan kaybın tüm sisteme yayılmasını önleyen kolektif kaynak havuzudur.</p><div class='hl'><strong>Temerrüt kaskadı sırası:</strong><br>1. Temerrüde düşen üyenin işlem teminatı<br>2. Temerrüde düşen üyenin garanti fonu katkı payı<br>3. Takasbank (istanbul takas ve saklama bankası)'ın skin-in-the-game özsermaye katkısı<br>4. Diğer sağlıklı MKT üyelerinin garanti fonu katkıları</div><ul style='margin-top:12px'><li><strong>Katkı payı belirlenmesi:</strong> Üyenin ilgili MKT üyesinin işlemlerinden kaynaklanan riskleri ile doğru orantılı olarak belirlenir.</li><li><strong>Tamamlama çağrısı:</strong> Üyenin garanti fonu katkı payının nakit ve nakit dışı olarak her biri için yatırması gereken tutarın altına düşmesi durumunda, üyeye garanti fonu katkı payı tamamlama çağrısı yapılır. Tamamlama çağrısı üye tarafından <strong>1 iş günü</strong> içerisinde yerine getirilir. Süresi içinde yerine getirilmezse üye temerrüde düşmüş sayılır.</li><li><strong>Nemalandırma:</strong> Takasbank (istanbul takas ve saklama bankası) üyeler tarafından tesis edilen nakit Türk Lirası garanti fonu katkı paylarının zorunlu karşılık oranı düşüldükten sonra kalan tutarını kredi riski, likidite koşulları dikkate alınarak Takasbank (istanbul takas ve saklama bankası) limitleri dahilinde mümkün olan en iyi koşullarla nemalandırır. Nemalandırma işlemleri saat 15:40'taki üye hesap bakiyeleri üzerinden yapılır.</li></ul>"
         },
         {
           "heading": "Stres Testleri ve Risk Yönetimi",
-          "content": "<ul><li><strong>Geriye dönük test:</strong> Risk ölçüm modellerinin performansını ölçmeye yönelik örneklem içi veya örneklem dışı testlerdir.</li><li><strong>Stres testleri:</strong> Piyasa stres koşulları altında teminat ve garanti fonu yeterliliği test edilir; sonuçlar SPK (sermaye piyasası kurulu)'ya düzenli raporlanır.</li><li><strong>Risk komitesi:</strong> MKT risk yönetim çerçevesi, risk komitesinin önerisi ve Takasbank yönetim kurulunun onayıyla belirlenir.</li><li><strong>Karşılanmış riskler (covered risk):</strong> Takasbank'ın verdiği merkezi karşı taraf hizmeti nedeniyle maruz kaldığı, ancak teminatlar, garanti fonu ve Takasbank sermayesinden tahsis edilen bölüm ile korunan risklerdir.</li></ul>"
+          "content": "<ul><li><strong>Geriye dönük test:</strong> Risk ölçüm modellerinin performansını ölçmeye yönelik örneklem içi veya örneklem dışı testlerdir.</li><li><strong>Stres testleri:</strong> Piyasa stres koşulları altında teminat ve garanti fonu yeterliliği test edilir; sonuçlar SPK (sermaye piyasası kurulu)'ya düzenli raporlanır.</li><li><strong>Risk komitesi:</strong> MKT risk yönetim çerçevesi, risk komitesinin önerisi ve Takasbank (istanbul takas ve saklama bankası) yönetim kurulunun onayıyla belirlenir.</li><li><strong>Karşılanmış riskler (covered risk):</strong> Takasbank (istanbul takas ve saklama bankası)'ın verdiği merkezi karşı taraf hizmeti nedeniyle maruz kaldığı, ancak teminatlar, garanti fonu ve Takasbank (istanbul takas ve saklama bankası) sermayesinden tahsis edilen bölüm ile korunan risklerdir.</li></ul>"
         }
       ]
     }
@@ -35426,7 +35426,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Hazırlanma Gerekçeleri ve SPK (sermaye piyasası kurulu) Yetkileri",
-          "content": "<ul><li><strong>6102 TTK:</strong> Pay sahibi hakları genişletildi, elektronik genel kurul düzenlendi, azınlık hakları güçlendirildi.</li><li><strong>AB uyumu:</strong> Türkiye'nin üyelik müzakereleri; 2000 sonrası kapsamlı AB reformlarına uyum.</li><li><strong>2008 kriz:</strong> Şeffaflık ve yatırımcı korumasının güçlendirilmesi ihtiyacı.</li><li><strong>SPK (sermaye piyasası kurulu) yetkileri:</strong> Düzenleme (ikincil mevzuat), denetim (bilgi/belge/yerinde inceleme), yaptırım (idari para cezası, faaliyet durdurma, lisans iptali), muafiyet.</li></ul>"
+          "content": "<ul><li><strong>6102 TTK (türk ticaret kanunu):</strong> Pay sahibi hakları genişletildi, elektronik genel kurul düzenlendi, azınlık hakları güçlendirildi.</li><li><strong>AB uyumu:</strong> Türkiye'nin üyelik müzakereleri; 2000 sonrası kapsamlı AB reformlarına uyum.</li><li><strong>2008 kriz:</strong> Şeffaflık ve yatırımcı korumasının güçlendirilmesi ihtiyacı.</li><li><strong>SPK (sermaye piyasası kurulu) yetkileri:</strong> Düzenleme (ikincil mevzuat), denetim (bilgi/belge/yerinde inceleme), yaptırım (idari para cezası, faaliyet durdurma, lisans iptali), muafiyet.</li></ul>"
         },
         {
           "heading": "Sermaye Piyasasının Unsurları",
@@ -35447,8 +35447,8 @@ window.__EXT = {
           "content": "<ul><li><strong>İmtiyazlı paylar:</strong> İlk halka arzda kamuya şeffaf duyurulmalı. Üst üste 5 yıl zararda oy/temsil imtiyazları Kurul kararıyla kaldırılabilir.</li><li><strong>Kendi payını iktisap:</strong> Kurul şartlarıyla mümkün; geri alım tutarı kısıtlanmış yedek sınıfına aktarılır.</li><li><strong>Türev araçlar:</strong> Vadeli işlem (vadede teslimat/nakit uzlaşma) ve opsiyon (hak, yükümlülük değil). Kaldıraçlı yapı nedeniyle yatırımcı koruması güçlendirilmiştir.</li></ul>"
         },
         {
-          "heading": "Kaydi Sistem ve MKK — Ayrıntılı",
-          "content": "<ul><li>MKK üyeleri: İhraççılar, aracı kuruluşlar, hak sahipleri. Kayıtlar bu üçlü itibarıyla tutulur.</li><li>Temlikname (devir işlemi): MKK'ya bildirilen tarihten itibaren üçüncü kişilere karşı ileri sürülebilir.</li><li>Rehin kaydı: MKK sicilinde tesis edilir; tapu siciline bağımlı değildir. Ortakların malî ve yönetimsel haklarının kullanımında MKK kayıtları esas alınır.</li><li>Yanlış kayıt sorumluluğu: MKK ve üyeler, kusurları oranında zararı tazmin eder.</li></ul><div class='hl'>Kaydi sistemde kaydedilen haklar ayrıca senede bağlanmaz; fiziksel teslim yapılmaz.</div>"
+          "heading": "Kaydi Sistem ve MKK (merkezi kayıt kuruluşu) — Ayrıntılı",
+          "content": "<ul><li>MKK (merkezi kayıt kuruluşu) üyeleri: İhraççılar, aracı kuruluşlar, hak sahipleri. Kayıtlar bu üçlü itibarıyla tutulur.</li><li>Temlikname (devir işlemi): MKK (merkezi kayıt kuruluşu)'ya bildirilen tarihten itibaren üçüncü kişilere karşı ileri sürülebilir.</li><li>Rehin kaydı: MKK (merkezi kayıt kuruluşu) sicilinde tesis edilir; tapu siciline bağımlı değildir. Ortakların malî ve yönetimsel haklarının kullanımında MKK (merkezi kayıt kuruluşu) kayıtları esas alınır.</li><li>Yanlış kayıt sorumluluğu: MKK (merkezi kayıt kuruluşu) ve üyeler, kusurları oranında zararı tazmin eder.</li></ul><div class='hl'>Kaydi sistemde kaydedilen haklar ayrıca senede bağlanmaz; fiziksel teslim yapılmaz.</div>"
         },
         {
           "heading": "Finansal Teminat Sözleşmeleri",
@@ -35470,7 +35470,7 @@ window.__EXT = {
         },
         {
           "heading": "Sermaye Piyasası Kurumları Sınıflandırması",
-          "content": "<ul><li><strong>Yatırım kuruluşları:</strong> Aracı kurumlar (tüm hizmetler), bankalar (belirli hizmetler), PYŞ'ler.</li><li><strong>Kolektif yatırım kuruluşları:</strong> Yatırım fonları (tüzel kişiliksiz), yatırım ortaklıkları (AŞ), BYF'ler.</li><li><strong>Finansal altyapı:</strong> Takasbank (merkezi takas+MKT), MKK (merkezi saklama), ödeme ve veri depolama sistemleri.</li><li><strong>Diğer:</strong> Bağımsız denetim, derecelendirme, değerleme; ipotek finansmanı; konut/varlık finansmanı fonları; varlık kiralama şirketleri.</li></ul>"
+          "content": "<ul><li><strong>Yatırım kuruluşları:</strong> Aracı kurumlar (tüm hizmetler), bankalar (belirli hizmetler), PYŞ'ler.</li><li><strong>Kolektif yatırım kuruluşları:</strong> Yatırım fonları (tüzel kişiliksiz), yatırım ortaklıkları (AŞ), BYF (borsa yatırım fonu)'ler.</li><li><strong>Finansal altyapı:</strong> Takasbank (merkezi takas+MKT), MKK (merkezi saklama), ödeme ve veri depolama sistemleri.</li><li><strong>Diğer:</strong> Bağımsız denetim, derecelendirme, değerleme; ipotek finansmanı; konut/varlık finansmanı fonları; varlık kiralama şirketleri.</li></ul>"
         }
       ]
     },
@@ -35502,11 +35502,11 @@ window.__EXT = {
         },
         {
           "heading": "İçsel Bilgi Erteleme ve Yönetimi",
-          "content": "<ul><li><strong>3 koşul birlikte sağlanmalı:</strong> Meşru menfaat + piyasayı yanıltmama + gizlilik.</li><li><strong>Erteleme sona erince:</strong> Derhal KAP'a bildirim yapılır.</li><li><strong>Erişim listesi:</strong> İçsel bilgiye erişimi olan kişilerin listesi tutulur; talep üzerine Kurul ve borsaya gönderilir; 5 yıl saklanır.</li></ul>"
+          "content": "<ul><li><strong>3 koşul birlikte sağlanmalı:</strong> Meşru menfaat + piyasayı yanıltmama + gizlilik.</li><li><strong>Erteleme sona erince:</strong> Derhal KAP (kamuyu aydınlatma platformu)'a bildirim yapılır.</li><li><strong>Erişim listesi:</strong> İçsel bilgiye erişimi olan kişilerin listesi tutulur; talep üzerine Kurul ve borsaya gönderilir; 5 yıl saklanır.</li></ul>"
         },
         {
           "heading": "İdari Sorumluluk Bulunan Kişiler",
-          "content": "<ul><li><strong>Kapsam:</strong> YK üyeleri, CEO/CFO/CLO ve benzeri + eş, birinci derece akraba ve kontrolündeki tüzel kişiler.</li><li><strong>Yıllık eşik:</strong> 1.000.000 TL; 5.000 TL üzerindeki her işlem limite dahil.</li><li><strong>Süre:</strong> 3 iş günü içinde KAP'a elektronik imzalı bildirim.</li><li><strong>Çalışma saatleri dışı:</strong> En geç ertesi iş günü 09:00'a kadar.</li></ul>"
+          "content": "<ul><li><strong>Kapsam:</strong> YK üyeleri, CEO/CFO/CLO ve benzeri + eş, birinci derece akraba ve kontrolündeki tüzel kişiler.</li><li><strong>Yıllık eşik:</strong> 1.000.000 TL; 5.000 TL üzerindeki her işlem limite dahil.</li><li><strong>Süre:</strong> 3 iş günü içinde KAP (kamuyu aydınlatma platformu)'a elektronik imzalı bildirim.</li><li><strong>Çalışma saatleri dışı:</strong> En geç ertesi iş günü 09:00'a kadar.</li></ul>"
         }
       ]
     },
@@ -35520,11 +35520,11 @@ window.__EXT = {
         },
         {
           "heading": "Bağımsız YK Üyesi Detayları",
-          "content": "<ul><li>Bağımsızlık kriterleri: Son 5 yılda iş ilişkisi yok; %5+ pay sahibi olmamak; birden fazla komitede üye olmamak vb.</li><li>Bağımsızlık kaybı: Derhal istifa; YK KAP'a bildirir; 30 gün içinde aday gösterimi.</li><li>Kurul olumsuz görüşü: 20 gün içinde şirkete bildirilir; şirket KAP'ta duyurur; bu kişi bağımsız üye olamaz.</li><li>Aday gösterme komitesi: Kurul'un olumsuz görüş bildirdiği listedeki kişiler bağımsız aday gösterilemez.</li></ul><div class='hl'>Denetim komitesinde en az 1 üye: denetim/muhasebe ve finans alanında 5 yıl tecrübe zorunludur.</div>"
+          "content": "<ul><li>Bağımsızlık kriterleri: Son 5 yılda iş ilişkisi yok; %5+ pay sahibi olmamak; birden fazla komitede üye olmamak vb.</li><li>Bağımsızlık kaybı: Derhal istifa; YK KAP (kamuyu aydınlatma platformu)'a bildirir; 30 gün içinde aday gösterimi.</li><li>Kurul olumsuz görüşü: 20 gün içinde şirkete bildirilir; şirket KAP (kamuyu aydınlatma platformu)'ta duyurur; bu kişi bağımsız üye olamaz.</li><li>Aday gösterme komitesi: Kurul'un olumsuz görüş bildirdiği listedeki kişiler bağımsız aday gösterilemez.</li></ul><div class='hl'>Denetim komitesinde en az 1 üye: denetim/muhasebe ve finans alanında 5 yıl tecrübe zorunludur.</div>"
         },
         {
           "heading": "Önemli İşlemler ve Çıkar Çatışması",
-          "content": "<ul><li><strong>Önemli işlem (%10+):</strong> Bağımsız üye çoğunluk onayı zorunlu. Onaylanmazsa → KAP + genel kurul. Genel kurul onayı olmadan gerçekleşemez.</li><li><strong>Kiralama:</strong> Değerleme uzmanı raporu zorunlu.</li><li><strong>YK üyesinin çıkar çatışması:</strong> Yazılı bildirim + ilgili toplantıya katılamaz + oy kullanamaz.</li></ul>"
+          "content": "<ul><li><strong>Önemli işlem (%10+):</strong> Bağımsız üye çoğunluk onayı zorunlu. Onaylanmazsa → KAP (kamuyu aydınlatma platformu) + genel kurul. Genel kurul onayı olmadan gerçekleşemez.</li><li><strong>Kiralama:</strong> Değerleme uzmanı raporu zorunlu.</li><li><strong>YK üyesinin çıkar çatışması:</strong> Yazılı bildirim + ilgili toplantıya katılamaz + oy kullanamaz.</li></ul>"
         }
       ]
     },
@@ -35534,7 +35534,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Fon Türleri Özet Tablosu",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:6px 10px;border:1px solid var(--bdr)'>Fon Türü</th><th style='padding:6px 10px;border:1px solid var(--bdr)'>Temel Özellik</th></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Para piyasası</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Kısa vadeli araçlar; düşük risk</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'>Borçlanma araçları</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Tahvil/bono ağırlıklı portföy</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Hisse senedi</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ağırlıklı hisse; yüksek risk/getiri</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'>Katılım</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Faizsiz araçlar; kira sertifikası vb.</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Garantili/koruma amaçlı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Garantör yatırım dereceli; minimum getiri/anapara koruması</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'>Serbest</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Geniş yetki; kaldıraçlı; nitelikli yatırımcıya</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Borsa yatırım fonu (BYF)</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Endeks takip; borsada sürekli işlem</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'>Fon sepeti fonu</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Diğer fon katılma paylarından oluşan portföy</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:6px 10px;border:1px solid var(--bdr)'>Fon Türü</th><th style='padding:6px 10px;border:1px solid var(--bdr)'>Temel Özellik</th></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Para piyasası</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Kısa vadeli araçlar; düşük risk</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'>Borçlanma araçları</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Tahvil/bono ağırlıklı portföy</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Hisse senedi</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ağırlıklı hisse; yüksek risk/getiri</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'>Katılım</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Faizsiz araçlar; kira sertifikası vb.</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Garantili/koruma amaçlı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Garantör yatırım dereceli; minimum getiri/anapara koruması</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'>Serbest</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Geniş yetki; kaldıraçlı; nitelikli yatırımcıya</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Borsa yatırım fonu (BYF (borsa yatırım fonu))</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Endeks takip; borsada sürekli işlem</td></tr><tr style='background:var(--bg3)'><td style='padding:6px 10px;border:1px solid var(--bdr)'>Fon sepeti fonu</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Diğer fon katılma paylarından oluşan portföy</td></tr></table>"
         },
         {
           "heading": "Portföy Sınırlamaları ve Fiyatlama",
@@ -35542,7 +35542,7 @@ window.__EXT = {
         },
         {
           "heading": "Katılma Payı ve TEFAS",
-          "content": "<ul><li><strong>Katılma payı değeri:</strong> Fon toplam değeri ÷ tedavüldeki pay sayısı. Günlük KAP'ta ilan.</li><li><strong>TEFAS:</strong> Farklı PYŞ fonlarına tek platformdan erişim.</li><li><strong>YBF (Yatırımcı Bilgi Formu):</strong> Risk/getiri göstergesi, giderler, geçmiş performans. 'Geçmiş performans gelecek için gösterge değildir' zorunlu uyarısı.</li><li><strong>İçtüzük değişikliği:</strong> KAP'ta duyurulur; önemli değişikliklerde itiraz süresi tanınır.</li></ul>"
+          "content": "<ul><li><strong>Katılma payı değeri:</strong> Fon toplam değeri ÷ tedavüldeki pay sayısı. Günlük KAP (kamuyu aydınlatma platformu)'ta ilan.</li><li><strong>TEFAS:</strong> Farklı PYŞ fonlarına tek platformdan erişim.</li><li><strong>YBF (Yatırımcı Bilgi Formu):</strong> Risk/getiri göstergesi, giderler, geçmiş performans. 'Geçmiş performans gelecek için gösterge değildir' zorunlu uyarısı.</li><li><strong>İçtüzük değişikliği:</strong> KAP (kamuyu aydınlatma platformu)'ta duyurulur; önemli değişikliklerde itiraz süresi tanınır.</li></ul>"
         }
       ]
     },
@@ -35576,7 +35576,7 @@ window.__EXT = {
         },
         {
           "heading": "Pay Sahipliği Hakları — Ayrıntılı",
-          "content": "<ul><li><strong>Mali haklar (9 başlık):</strong> Hazırlık dönemi faizi, kâr payı, tasfiye bakiyesi, geri alma, bedelsiz pay, yeni pay alma (rüçhan), şarta bağlı sermaye artırımında muhatap olma, ortaklıktan çıkma, ortaklıktan çıkarılma, sermayenin korunmasını isteme hakkı.</li><li><strong>İdari haklar (7 başlık):</strong> Genel kurulu toplantıya çağırma, genel kurula davet ve katılma, oy, genel kurulun ertelenmesini isteme, yönetim kurulunda temsil, bilgi alma ve inceleme, özel denetim isteme.</li><li><strong>Dava hakları (9 başlık):</strong> Butlan, iptal, denkleştirme akçesi davası, hakimiyet ilişkisine ait davalar, organlardaki eksiklik giderilmesi, sorumluluk, ibranın kaldırılması, bilgi alma ve inceleme, özel denetim isteme davası.</li><li><strong>İmtiyazlı oy:</strong> Eşit itibari değerdeki paylara farklı sayıda oy hakkı. TTK uyarınca istisnai haller hariç en çok 15 oy hakkı tanınabilir. Oy imtiyazı esas sözleşme değişikliği ve ibra kararlarında kullanılamaz.</li></ul>"
+          "content": "<ul><li><strong>Mali haklar (9 başlık):</strong> Hazırlık dönemi faizi, kâr payı, tasfiye bakiyesi, geri alma, bedelsiz pay, yeni pay alma (rüçhan), şarta bağlı sermaye artırımında muhatap olma, ortaklıktan çıkma, ortaklıktan çıkarılma, sermayenin korunmasını isteme hakkı.</li><li><strong>İdari haklar (7 başlık):</strong> Genel kurulu toplantıya çağırma, genel kurula davet ve katılma, oy, genel kurulun ertelenmesini isteme, yönetim kurulunda temsil, bilgi alma ve inceleme, özel denetim isteme.</li><li><strong>Dava hakları (9 başlık):</strong> Butlan, iptal, denkleştirme akçesi davası, hakimiyet ilişkisine ait davalar, organlardaki eksiklik giderilmesi, sorumluluk, ibranın kaldırılması, bilgi alma ve inceleme, özel denetim isteme davası.</li><li><strong>İmtiyazlı oy:</strong> Eşit itibari değerdeki paylara farklı sayıda oy hakkı. TTK (türk ticaret kanunu) uyarınca istisnai haller hariç en çok 15 oy hakkı tanınabilir. Oy imtiyazı esas sözleşme değişikliği ve ibra kararlarında kullanılamaz.</li></ul>"
         },
         {
           "heading": "Pay – Borçlanma Aracı Karşılaştırması",
@@ -35598,7 +35598,7 @@ window.__EXT = {
         },
         {
           "heading": "Halka Açılma Sonrası Yükümlülükler ve Geri Alım",
-          "content": "<ul><li><strong>Halka açılma sonrası yükümlülükler:</strong> Özel durum açıklamaları (KAP), periyodik raporlar (çeyreklik, yıllık), bağımsız denetim, kurumsal yönetim ilkelerine uyum.</li><li><strong>Kendi payını geri alım (iktisap):</strong> Kurul'un belirlediği şartlar çerçevesinde halka açık ortaklıklar kendi paylarını satın alabilir. Geri alınan paylar kısıtlanmış yedek sınıfına girer. Payların yönetim kurulu veya YK üyelerine uygulanacak pay bazlı ücret programları kapsamında kullanılması mümkündür.</li><li><strong>Payları borsada işlem görmeyen halka açık ortaklıklar:</strong> Ortak sayısı 500'ü aşan ortaklıklar Kurul'ca halka açık kabul edilir. Bu ortaklıklar özel durumlar ve bilgilendirme yükümlülüklerine tabidir; ancak bazı hafifletilmiş yükümlülükler uygulanır.</li></ul>"
+          "content": "<ul><li><strong>Halka açılma sonrası yükümlülükler:</strong> Özel durum açıklamaları (KAP (kamuyu aydınlatma platformu)), periyodik raporlar (çeyreklik, yıllık), bağımsız denetim, kurumsal yönetim ilkelerine uyum.</li><li><strong>Kendi payını geri alım (iktisap):</strong> Kurul'un belirlediği şartlar çerçevesinde halka açık ortaklıklar kendi paylarını satın alabilir. Geri alınan paylar kısıtlanmış yedek sınıfına girer. Payların yönetim kurulu veya YK üyelerine uygulanacak pay bazlı ücret programları kapsamında kullanılması mümkündür.</li><li><strong>Payları borsada işlem görmeyen halka açık ortaklıklar:</strong> Ortak sayısı 500'ü aşan ortaklıklar Kurul'ca halka açık kabul edilir. Bu ortaklıklar özel durumlar ve bilgilendirme yükümlülüklerine tabidir; ancak bazı hafifletilmiş yükümlülükler uygulanır.</li></ul>"
         }
       ]
     },
@@ -35615,8 +35615,8 @@ window.__EXT = {
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Araç</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Temel Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Not</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Düz tahvil</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sabit faiz, belirli vade</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>En yaygın borçlanma aracı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değişken faizli tahvil</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faiz referans orana bağlı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>TCMB (türkiye cumhuriyet merkez bankası) politika faizine endeksli olabilir</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Paya dönüştürülebilir tahvil (PDT)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sahip payaya dönüştürme hakkına sahip</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Şarta bağlı sermaye artırımına yol açar</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değiştirilebilir tahvil</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Başka ortaklığın payına dönüşür</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İhraçcının değil, başka şirketin payı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Finansman bonosu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kısa vadeli (&lt;1 yıl); iskontolu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nakit akışı yönetimi için</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kıymetli maden bonosu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Altın veya gümüşe endeksli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fiziksel teslim veya nakit uzlaşı</td></tr></table>"
         },
         {
-          "heading": "TTK'daki İhraç Yetki ve Sınırlamaları",
-          "content": "<ul><li><strong>Genel kurul kararı zorunluluğu (TTK md.504):</strong> Borçlanma araçları aksi öngörülmedikçe genel kurul kararıyla çıkarılır. Halka açık ortaklıklarda SPK (sermaye piyasası kurulu)n md.31/3 uyarınca YK'ya en fazla 15 ay yetki devredilebilir.</li><li><strong>Toplam sınır (TTK md.506):</strong> Borçlanma araçları toplam tutarı = ödenmiş sermaye + yedek akçeler toplamını aşamaz. SPK (sermaye piyasası kurulu) mevzuatı saklıdır (yani SPK (sermaye piyasası kurulu) daha geniş ihraç limiti belirleyebilir).</li><li><strong>Nakit ödeme şartı:</strong> Borçlanma senetlerinin bedelleri nakit olmalı ve teslim anında tamamen ödenmelidir.</li><li><strong>Yönetim kurulu devri:</strong> TTK md.504 kapsamında genel kurul ihraç yetkisini en fazla 15 ay için YK'ya bırakabilir. SPK (sermaye piyasası kurulu)n'de bu süre de en fazla 15 aydır.</li></ul>"
+          "heading": "TTK (türk ticaret kanunu)'daki İhraç Yetki ve Sınırlamaları",
+          "content": "<ul><li><strong>Genel kurul kararı zorunluluğu (TTK (türk ticaret kanunu) md.504):</strong> Borçlanma araçları aksi öngörülmedikçe genel kurul kararıyla çıkarılır. Halka açık ortaklıklarda SPK (sermaye piyasası kurulu)n md.31/3 uyarınca YK'ya en fazla 15 ay yetki devredilebilir.</li><li><strong>Toplam sınır (TTK (türk ticaret kanunu) md.506):</strong> Borçlanma araçları toplam tutarı = ödenmiş sermaye + yedek akçeler toplamını aşamaz. SPK (sermaye piyasası kurulu) mevzuatı saklıdır (yani SPK (sermaye piyasası kurulu) daha geniş ihraç limiti belirleyebilir).</li><li><strong>Nakit ödeme şartı:</strong> Borçlanma senetlerinin bedelleri nakit olmalı ve teslim anında tamamen ödenmelidir.</li><li><strong>Yönetim kurulu devri:</strong> TTK (türk ticaret kanunu) md.504 kapsamında genel kurul ihraç yetkisini en fazla 15 ay için YK'ya bırakabilir. SPK (sermaye piyasası kurulu)n'de bu süre de en fazla 15 aydır.</li></ul>"
         }
       ]
     },
@@ -35626,7 +35626,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "İhraç Limiti ve Yetkili Organ Kararı",
-          "content": "<ul><li><strong>İhraç limiti hesabı:</strong> Başvuru tarihindeki finansal tablolara göre hesaplanır. Borsa'da işlem görenler için bağımsız denetimden geçmiş tablolar; konsolide tablo varsa konsolide esaslı. Kurulca inceleme süresince daha önce verilmiş diğer tavanlar ve itfa tutarlar hesaba katılır.</li><li><strong>Yetkili organ kararı (tablo):</strong><br>• TTK'da: Genel Kurul kararıyla YK'ya en fazla 15 ay yetki devri<br>• SPK (sermaye piyasası kurulu)n'de: Esas sözleşme ile YK'ya sürekli yetki veya Genel Kurul kararıyla en fazla 15 ay yetki devri<br>• Kararın içermesi gerekenler: Azami ihraç tutarı ve satış yöntemi; paya dönüştürülebilir ise türü</li><li><strong>Kurula başvuru:</strong> İzahname veya ihraç belgesi Kurul'a başvurusu ile birlikte; halka arz edilmeyenlerde sadece ihraç belgesi ile başvuru yeterli.</li></ul>"
+          "content": "<ul><li><strong>İhraç limiti hesabı:</strong> Başvuru tarihindeki finansal tablolara göre hesaplanır. Borsa'da işlem görenler için bağımsız denetimden geçmiş tablolar; konsolide tablo varsa konsolide esaslı. Kurulca inceleme süresince daha önce verilmiş diğer tavanlar ve itfa tutarlar hesaba katılır.</li><li><strong>Yetkili organ kararı (tablo):</strong><br>• TTK (türk ticaret kanunu)'da: Genel Kurul kararıyla YK'ya en fazla 15 ay yetki devri<br>• SPK (sermaye piyasası kurulu)n'de: Esas sözleşme ile YK'ya sürekli yetki veya Genel Kurul kararıyla en fazla 15 ay yetki devri<br>• Kararın içermesi gerekenler: Azami ihraç tutarı ve satış yöntemi; paya dönüştürülebilir ise türü</li><li><strong>Kurula başvuru:</strong> İzahname veya ihraç belgesi Kurul'a başvurusu ile birlikte; halka arz edilmeyenlerde sadece ihraç belgesi ile başvuru yeterli.</li></ul>"
         },
         {
           "heading": "Kredi Derecelendirmesi ve BASK",
@@ -35634,7 +35634,7 @@ window.__EXT = {
         },
         {
           "heading": "Yeşil ve Sürdürülebilir Tahvil Esasları",
-          "content": "<ul><li><strong>Yeşil tahvil:</strong> Fonların çevresel fayda projelerine tahsis edildiğinin ihraçcı tarafından taahhüt edildiği tahvil. Kullanım raporlaması zorunlu.</li><li><strong>Sosyal tahvil:</strong> Sosyal fayda yaratan projelere fon sağlayan tahvil; istihdam, sağlık, eğitim alanları.</li><li><strong>Sürdürülebilirlik bağlantılı tahvil:</strong> Belirli ESG hedeflere ulaşılıp ulaşılmamasına göre faiz oranı değişebilen yapı. Hedef sağlanmazsa ihraçcı aleyhine finansal yaptırım devreye girer.</li><li><strong>BİST Sürdürülebilirlik Temalı Borçlanma Araçları Endeksi:</strong> Yeşil/sürdürülebilir tahvillerin işlem gördüğü BİST endeksi. Yatırımcılara ESG odaklı yatırım imkânı sunar.</li></ul>"
+          "content": "<ul><li><strong>Yeşil tahvil:</strong> Fonların çevresel fayda projelerine tahsis edildiğinin ihraçcı tarafından taahhüt edildiği tahvil. Kullanım raporlaması zorunlu.</li><li><strong>Sosyal tahvil:</strong> Sosyal fayda yaratan projelere fon sağlayan tahvil; istihdam, sağlık, eğitim alanları.</li><li><strong>Sürdürülebilirlik bağlantılı tahvil:</strong> Belirli ESG (çevresel, sosyal ve yönetişim) hedeflere ulaşılıp ulaşılmamasına göre faiz oranı değişebilen yapı. Hedef sağlanmazsa ihraçcı aleyhine finansal yaptırım devreye girer.</li><li><strong>BİST Sürdürülebilirlik Temalı Borçlanma Araçları Endeksi:</strong> Yeşil/sürdürülebilir tahvillerin işlem gördüğü BİST endeksi. Yatırımcılara ESG (çevresel, sosyal ve yönetişim) odaklı yatırım imkânı sunar.</li></ul>"
         }
       ]
     },
@@ -35652,7 +35652,7 @@ window.__EXT = {
         },
         {
           "heading": "Katılma Payı Değeri ve Alım-Satım",
-          "content": "<ul><li><strong>Katılma payı değeri (KPD):</strong> Fon toplam değeri ÷ tedavüldeki pay sayısı. Günlük hesaplanır; KAP'ta ilan edilir.</li><li><strong>İleriye dönük fiyatlama:</strong> Emir günü henüz hesaplanmamış fiyat üzerinden işlem; geriye dönük fiyatlama yasak.</li><li><strong>Fon sona ermesi:</strong> İzahname süresinin dolması, kurucunun iflas/tasfiyesi, fonun kendi yükümlülüklerini karşılayamaması, Kurul kararı ile. Sona ermede katılma payı sahiplerine tasfiye bakiyesi ödenir.</li></ul>"
+          "content": "<ul><li><strong>Katılma payı değeri (KPD):</strong> Fon toplam değeri ÷ tedavüldeki pay sayısı. Günlük hesaplanır; KAP (kamuyu aydınlatma platformu)'ta ilan edilir.</li><li><strong>İleriye dönük fiyatlama:</strong> Emir günü henüz hesaplanmamış fiyat üzerinden işlem; geriye dönük fiyatlama yasak.</li><li><strong>Fon sona ermesi:</strong> İzahname süresinin dolması, kurucunun iflas/tasfiyesi, fonun kendi yükümlülüklerini karşılayamaması, Kurul kararı ile. Sona ermede katılma payı sahiplerine tasfiye bakiyesi ödenir.</li></ul>"
         }
       ]
     },
@@ -35662,7 +35662,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Vadeli İşlem Sözleşmeleri",
-          "content": "<ul><li><strong>Tanım:</strong> Belirli bir varlığı, önceden belirlenmiş fiyat ve tarihte alma/satma yükümlülüğü doğuran sözleşme. Her iki taraf da yükümlülük altındadır; hak değil, borç ilişkisi.</li><li><strong>Opsiyondan farkı:</strong> Vadeli işlemde iki taraf da zorunlu; opsiyonda alıcı hak sahibi, satıcı yükümlü.</li><li><strong>VİOP'ta işleyiş:</strong> Takasbank MKT sıfatıyla her sözleşmede karşı taraftır; teslim karşılığı ödeme ilkesi. Başlangıç teminatı ve değişim teminatı uygulanır.</li><li><strong>Dayanak varlıklar (VİOP'ta):</strong> Hisse senedi, endeks, döviz, altın, emtia, faiz.</li></ul>"
+          "content": "<ul><li><strong>Tanım:</strong> Belirli bir varlığı, önceden belirlenmiş fiyat ve tarihte alma/satma yükümlülüğü doğuran sözleşme. Her iki taraf da yükümlülük altındadır; hak değil, borç ilişkisi.</li><li><strong>Opsiyondan farkı:</strong> Vadeli işlemde iki taraf da zorunlu; opsiyonda alıcı hak sahibi, satıcı yükümlü.</li><li><strong>VİOP'ta işleyiş:</strong> Takasbank (istanbul takas ve saklama bankası) MKT sıfatıyla her sözleşmede karşı taraftır; teslim karşılığı ödeme ilkesi. Başlangıç teminatı ve değişim teminatı uygulanır.</li><li><strong>Dayanak varlıklar (VİOP'ta):</strong> Hisse senedi, endeks, döviz, altın, emtia, faiz.</li></ul>"
         },
         {
           "heading": "Opsiyon Sözleşmeleri",
@@ -35688,7 +35688,7 @@ window.__EXT = {
         },
         {
           "heading": "Birincil ve İkincil Piyasa",
-          "content": "<ul><li><strong>Birincil piyasa — İhale yöntemleri:</strong><br>• Tek fiyat ihalesi (Hollanda ihalesi): En düşük kabul edilen teklif fiyatı herkese uygulanır.<br>• Çok fiyat ihalesi: Her katılımcı kendi teklif fiyatından alır. Hazine birincil satış dışında halka doğrudan satış da yapabilir.</li><li><strong>İkincil piyasa:</strong> BİST Borçlanma Araçları Piyasası (BAP) — kesin alım satım ve repo/ters repo işlemleri. Takasbank DVP prensibini uygular; takas T+0 veya T+1.</li><li><strong>Repo işlemi:</strong> Belli bir tarihte geri satmak şartıyla menkul kıymet satma (fonlama aracı). Ters repo: geri almak şartıyla satın alma.</li></ul>"
+          "content": "<ul><li><strong>Birincil piyasa — İhale yöntemleri:</strong><br>• Tek fiyat ihalesi (Hollanda ihalesi): En düşük kabul edilen teklif fiyatı herkese uygulanır.<br>• Çok fiyat ihalesi: Her katılımcı kendi teklif fiyatından alır. Hazine birincil satış dışında halka doğrudan satış da yapabilir.</li><li><strong>İkincil piyasa:</strong> BİST Borçlanma Araçları Piyasası (BAP) — kesin alım satım ve repo/ters repo işlemleri. Takasbank (istanbul takas ve saklama bankası) DVP prensibini uygular; takas T+0 veya T+1.</li><li><strong>Repo işlemi:</strong> Belli bir tarihte geri satmak şartıyla menkul kıymet satma (fonlama aracı). Ters repo: geri almak şartıyla satın alma.</li></ul>"
         }
       ]
     },
@@ -35746,7 +35746,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Faiz Swabı Detayı",
-          "content": "<ul><li><strong>Sabit-değişken IRS örneği:</strong> A firması sabit %5 öder, B firması LIBOR alır. Net ödeme: faiz farkı kadar. Anapara (nosyonal) el değiştirmez.</li><li><strong>Swap değerlemesi:</strong> Başlangıçta NPV = 0. Faizler değiştikçe değer oluşur. Sabit ödeyenin pozisyonu faiz artışından yarar (kilitli düşük oran avantajı).</li><li><strong>Karşılaştırmalı üstünlük:</strong> A sabit piyasada, B değişken piyasada avantajlıysa swap ile her ikisi de maliyet düşürür — swabın teorik temeli.</li><li><div class='hl'>Para swabında hem faiz hem anapara el değiştirir. CDS'te ise sadece prim ödemeleri ve temerrüt durumunda ödeme söz konusudur.</div></li></ul>"
+          "content": "<ul><li><strong>Sabit-değişken IRS örneği:</strong> A firması sabit %5 öder, B firması LIBOR (londra bankalararası teklif faizi) alır. Net ödeme: faiz farkı kadar. Anapara (nosyonal) el değiştirmez.</li><li><strong>Swap değerlemesi:</strong> Başlangıçta NPV = 0. Faizler değiştikçe değer oluşur. Sabit ödeyenin pozisyonu faiz artışından yarar (kilitli düşük oran avantajı).</li><li><strong>Karşılaştırmalı üstünlük:</strong> A sabit piyasada, B değişken piyasada avantajlıysa swap ile her ikisi de maliyet düşürür — swabın teorik temeli.</li><li><div class='hl'>Para swabında hem faiz hem anapara el değiştirir. CDS (kredi temerrüt swap)'te ise sadece prim ödemeleri ve temerrüt durumunda ödeme söz konusudur.</div></li></ul>"
         },
         {
           "heading": "Opsiyon Stratejileri — Kâr Profili",
@@ -35760,11 +35760,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Kur ve Faiz Riski Yönetimi Örnekleri",
-          "content": "<ul><li><strong>İthalatçı kur riskinden korunma:</strong> 3 ay sonra $1M ödeyecek Türk şirket → dolar futures alır (long). Dolar yükselirse futures kazancı döviz maliyetini dengeler.</li><li><strong>İhracatçı kur riskinden korunma:</strong> 3 ay sonra $1M alacak ihracatçı → dolar futures satar (short). Dolar düşerse korunma devreye girer.</li><li><strong>Faiz riskinden korunma (IRS):</strong> LIBOR+2% değişken faizli borçlu → IRS'e girerek sabit %6 öder/değişken alır. Net yükümlülük sabitleniyor, faiz artışından korunuyor.</li><li><strong>Portföy delta hedging:</strong> 100 lot short call, delta −0,40 → 4.000 hisse al. Net delta ≈ 0. Delta değiştikçe dinamik yeniden dengeleme gerekir.</li></ul>"
+          "content": "<ul><li><strong>İthalatçı kur riskinden korunma:</strong> 3 ay sonra $1M ödeyecek Türk şirket → dolar futures alır (long). Dolar yükselirse futures kazancı döviz maliyetini dengeler.</li><li><strong>İhracatçı kur riskinden korunma:</strong> 3 ay sonra $1M alacak ihracatçı → dolar futures satar (short). Dolar düşerse korunma devreye girer.</li><li><strong>Faiz riskinden korunma (IRS):</strong> LIBOR (londra bankalararası teklif faizi)+2% değişken faizli borçlu → IRS'e girerek sabit %6 öder/değişken alır. Net yükümlülük sabitleniyor, faiz artışından korunuyor.</li><li><strong>Portföy delta hedging:</strong> 100 lot short call, delta −0,40 → 4.000 hisse al. Net delta ≈ 0. Delta değiştikçe dinamik yeniden dengeleme gerekir.</li></ul>"
         },
         {
-          "heading": "VaR ve Türev Araçlarda Risk Ölçümü",
-          "content": "<ul><li><strong>VaR tanımı:</strong> %99 güven düzeyinde 1 günlük maksimum beklenen kayıp. 100 günden 1 günü bu tutarı aşar.</li><li><strong>Lineer olmayan pozisyonlar:</strong> Opsiyonlar doğrusal değil → delta yaklaşımı yanıltıcı. Gamma etkisi VaR'ı bozar. Tam değerleme (Monte Carlo) gerekebilir.</li><li><strong>CVaR (Expected Shortfall):</strong> VaR'ı aşan kayıpların beklentisi. Kuyruk riskini daha iyi ölçer.</li><li><div class='hl'>OTC türevlerde temel riskler: piyasa riski, karşı taraf riski (CCR), likidite riski, model riski. CCR için CVA (Credit Valuation Adjustment) fiyatlamaya eklenir.</div></li></ul>"
+          "heading": "VaR (riske maruz değer) ve Türev Araçlarda Risk Ölçümü",
+          "content": "<ul><li><strong>VaR (riske maruz değer) tanımı:</strong> %99 güven düzeyinde 1 günlük maksimum beklenen kayıp. 100 günden 1 günü bu tutarı aşar.</li><li><strong>Lineer olmayan pozisyonlar:</strong> Opsiyonlar doğrusal değil → delta yaklaşımı yanıltıcı. Gamma etkisi VaR (riske maruz değer)'ı bozar. Tam değerleme (Monte Carlo) gerekebilir.</li><li><strong>CVaR (Expected Shortfall):</strong> VaR (riske maruz değer)'ı aşan kayıpların beklentisi. Kuyruk riskini daha iyi ölçer.</li><li><div class='hl'>OTC türevlerde temel riskler: piyasa riski, karşı taraf riski (CCR), likidite riski, model riski. CCR için CVA (Credit Valuation Adjustment) fiyatlamaya eklenir.</div></li></ul>"
         }
       ]
     },
@@ -35790,7 +35790,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Vergi Hukuku Kaynakları Hiyerarşisi",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kaynak</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Açıklama</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Anayasa</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Temel norm; vergilemede kanunilik ve eşitlik ilkesi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kanunlar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>GVK, KVK, KDVK, VUK, AATUHK</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>CB Kararnameleri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergi oranı değişikliği yetkisi (Anayasa md.73)</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tebliğ / Genelge</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Uygulama rehberi, bağlayıcı değil ancak yönlendirici</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Mukteza / Özelge</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bireysel yorum; alanın kendisi için bağlayıcı</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kaynak</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Açıklama</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Anayasa</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Temel norm; vergilemede kanunilik ve eşitlik ilkesi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kanunlar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>GVK, KVK, KDVK, VUK (vergi usul kanunu), AATUHK</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>CB Kararnameleri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergi oranı değişikliği yetkisi (Anayasa md.73)</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tebliğ / Genelge</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Uygulama rehberi, bağlayıcı değil ancak yönlendirici</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Mukteza / Özelge</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bireysel yorum; alanın kendisi için bağlayıcı</td></tr></table>"
         },
         {
           "heading": "Mükellef, Sorumlu ve Muafiyet Kavramları",
@@ -35849,7 +35849,7 @@ window.__EXT = {
           "content": "<ul><li><strong>Amaç:</strong> Çeşitli istisna ve indirimler nedeniyle efektif vergi oranının çok düşmesini önlemek.</li><li><strong>Hesaplama:</strong> İstisna ve indirimler uygulanmadan önceki kurum hasılatının %2'si ile %10 üzerinden hesaplanan asgari KV karşılaştırılır — yüksek olan ödenir.</li><li><strong>İstisna kapsamındaki istisnalar:</strong> İştirak kazancı istisnası, yurt dışı iştirak kazancı istisnası ve emisyon primi gibi bazı istisnalar asgari vergiye dahil edilmez — bu kazançlar için asgari vergi hesaplanmaz.</li></ul>"
         },
         {
-          "heading": "OECD Pillar 2 — Küresel Asgari Vergi (%15)",
+          "heading": "OECD (ekonomik kalkınma ve işbirliği örgütü) Pillar 2 — Küresel Asgari Vergi (%15)",
           "content": "<ul><li><strong>Kapsam:</strong> Yıllık konsolide hasılatı 750 milyon Euro üzerinde olan çok uluslu şirket grupları.</li><li><strong>ETR hesabı:</strong> Ülke bazında vergilendirilebilir kâr / ödenen vergi. ETR %15 altında kalıyorsa fark tamamlayıcı vergi olarak alınır.</li><li><strong>IIR (Income Inclusion Rule):</strong> Ana şirket ülkesi, düşük vergi ödenen bağlı ortaklığın kazancını vergilendirir.</li><li><strong>UTPR (Undertaxed Profits Rule):</strong> IIR uygulanmıyorsa diğer ülkeler tarafından uygulanan yedek kural.</li><li><strong>QDMTT (Nitelikli Yurt İçi Asgari Tamamlayıcı Vergi):</strong> Türkiye, kendi topraklarındaki şirketlerin ETR'ını %15'e tamamlar — diğer ülkelerin toplaması yerine Türkiye toplar.</li><li><div class='hl'>Türkiye'de QDMTT 2025 başından itibaren yürürlükte. Büyük çok uluslu gruplar için önemli ek yük oluşturabilir.</div></li></ul>"
         }
       ]
@@ -35886,15 +35886,15 @@ window.__EXT = {
     },
     {
       "num": "03",
-      "title": "CAPM ve Portföy Teorisi Detayları",
+      "title": "CAPM (sermaye varlığı fiyatlama modeli) ve Portföy Teorisi Detayları",
       "sections": [
         {
           "heading": "CML vs SML Farkı",
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>CML</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>SML</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kapsam</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Etkin portföyler</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tüm varlıklar + portföyler</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>X ekseni</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Toplam risk (σ)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sistematik risk (β)</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Eğim</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sharpe oranı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Piyasa risk primi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değerleme</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Portföy seçimi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bireysel varlık fiyatı</td></tr></table>"
         },
         {
-          "heading": "CAPM Alfa Yorumu",
-          "content": "<ul><li><strong>Alfa (α) = Gerçekleşen getiri − CAPM getirisi</strong></li><li>α &gt; 0: Varlık SML'nin üzerinde → piyasaya göre düşük fiyatlı (ucuz) → al</li><li>α &lt; 0: Varlık SML'nin altında → aşırı fiyatlı → sat</li><li>α = 0: Denge fiyatında, CAPM'e göre doğru fiyatlanmış</li><li><strong>Pazar portföyü:</strong> α = 0, β = 1. Piyasa tam etkin ise tüm varlıkların alfa sıfıra yakınsar.</li><li><div class='hl'>Sınav formülü: E(Ri) = Rf + βi × (E(Rm) − Rf). Örnek: Rf=%5, β=1,2, E(Rm)=%12 → E(Ri) = %5 + 1,2×%7 = %13,4.</div></li></ul>"
+          "heading": "CAPM (sermaye varlığı fiyatlama modeli) Alfa Yorumu",
+          "content": "<ul><li><strong>Alfa (α) = Gerçekleşen getiri − CAPM (sermaye varlığı fiyatlama modeli) getirisi</strong></li><li>α &gt; 0: Varlık SML'nin üzerinde → piyasaya göre düşük fiyatlı (ucuz) → al</li><li>α &lt; 0: Varlık SML'nin altında → aşırı fiyatlı → sat</li><li>α = 0: Denge fiyatında, CAPM (sermaye varlığı fiyatlama modeli)'e göre doğru fiyatlanmış</li><li><strong>Pazar portföyü:</strong> α = 0, β = 1. Piyasa tam etkin ise tüm varlıkların alfa sıfıra yakınsar.</li><li><div class='hl'>Sınav formülü: E(Ri) = Rf + βi × (E(Rm) − Rf). Örnek: Rf=%5, β=1,2, E(Rm)=%12 → E(Ri) = %5 + 1,2×%7 = %13,4.</div></li></ul>"
         }
       ]
     },
@@ -35917,8 +35917,8 @@ window.__EXT = {
       "title": "APT ve Faktör Modelleri",
       "sections": [
         {
-          "heading": "APT vs CAPM Karşılaştırması",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>CAPM</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>APT</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faktör sayısı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tek (pazar portföyü)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çok faktörlü</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Temel öncül</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ortalama-varyans optimizasyonu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Arbitraj yok</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Pazar portföyü</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gerekli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gerekli değil</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ampirik destek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Karma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>FF3/FF5 ile güçlü</td></tr></table>"
+          "heading": "APT vs CAPM (sermaye varlığı fiyatlama modeli) Karşılaştırması",
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>CAPM (sermaye varlığı fiyatlama modeli)</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>APT</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faktör sayısı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tek (pazar portföyü)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çok faktörlü</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Temel öncül</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ortalama-varyans optimizasyonu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Arbitraj yok</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Pazar portföyü</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gerekli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gerekli değil</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ampirik destek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Karma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>FF3/FF5 ile güçlü</td></tr></table>"
         },
         {
           "heading": "Teknik Analiz Temel Kavramları",
@@ -35948,7 +35948,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Beklenen Kayıp (EL) Formülü",
-          "content": "<ul><li><strong>EL = PD × LGD × EAD</strong><br>→ PD (Probability of Default): 1 yıl içinde temerrüde düşme olasılığı — scoring/rating ile tahmin.<br>→ LGD (Loss Given Default): Temerrüt halinde geri kazanılamayan kayıp oranı. Teminatlı kredilerde düşük (%20-40), teminatsızda yüksek (%50-80).<br>→ EAD (Exposure at Default): Temerrüt anında kullanılan bakiye + taahhütlerin belirli oranı (CCF × çekilmemiş limit).</li><li><strong>Beklenmeyen kayıp (UL):</strong> EL'in standart sapması — sermaye ile karşılanır. Basel II IRB yaklaşımının temelini oluşturur.</li><li><div class='hl'>EL sermaye ayırmayı gerektirmez (fiyatlamaya ve karşılıklara yansıtılır). UL için sermaye ayrılır.</div></li></ul>"
+          "content": "<ul><li><strong>EL = PD × LGD × EAD</strong><br>→ PD (Probability of Default): 1 yıl içinde temerrüde düşme olasılığı — scoring/rating ile tahmin.<br>→ LGD (Loss Given Default): Temerrüt halinde geri kazanılamayan kayıp oranı. Teminatlı kredilerde düşük (%20-40), teminatsızda yüksek (%50-80).<br>→ EAD (Exposure at Default): Temerrüt anında kullanılan bakiye + taahhütlerin belirli oranı (CCF × çekilmemiş limit).</li><li><strong>Beklenmeyen kayıp (UL):</strong> EL'in standart sapması — sermaye ile karşılanır. Basel (uluslararası bankacılık düzenleme çerçevesi) II IRB yaklaşımının temelini oluşturur.</li><li><div class='hl'>EL sermaye ayırmayı gerektirmez (fiyatlamaya ve karşılıklara yansıtılır). UL için sermaye ayrılır.</div></li></ul>"
         },
         {
           "heading": "Altman Z-Skoru (Diskriminant Analizi)",
@@ -35962,7 +35962,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Temel Finansal Oranlar Tablosu",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kategori</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Oran</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Formül</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Likidite</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Cari oran</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dönen varlıklar / KVB</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Likidite</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Asit-test</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>(Dönen − Stoklar) / KVB</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kaldıraç</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Borç/Özsermaye</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Toplam borç / Özsermaye</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kaldıraç</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faiz karşılama</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>FVÖK / Faiz gideri</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kârlılık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ROA</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Net kâr / Toplam aktif</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kârlılık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ROE</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Net kâr / Özsermaye</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Devir</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Alacak tahsil süresi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>365 / Alacak devir hızı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Devir</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Stok devir hızı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>SMM / Ortalama stoklar</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kategori</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Oran</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Formül</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Likidite</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Cari oran</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dönen varlıklar / KVB</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Likidite</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Asit-test</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>(Dönen − Stoklar) / KVB</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kaldıraç</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Borç/Özsermaye</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Toplam borç / Özsermaye</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kaldıraç</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faiz karşılama</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>FVÖK / Faiz gideri</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kârlılık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ROA (aktif kârlılığı)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Net kâr / Toplam aktif</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kârlılık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ROE (özsermaye kârlılığı)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Net kâr / Özsermaye</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Devir</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Alacak tahsil süresi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>365 / Alacak devir hızı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Devir</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Stok devir hızı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>SMM / Ortalama stoklar</td></tr></table>"
         },
         {
           "heading": "Nakit Akış Analizi ve Makyaj Tespiti",
@@ -35972,14 +35972,14 @@ window.__EXT = {
     },
     {
       "num": "04",
-      "title": "Basel II/III Sermaye Yeterliliği Hesabı",
+      "title": "Basel (uluslararası bankacılık düzenleme çerçevesi) II/III Sermaye Yeterliliği Hesabı",
       "sections": [
         {
           "heading": "IRB Yaklaşımında Risk Ağırlığı Hesabı",
-          "content": "<ul><li><strong>Temel IRB:</strong> Banka yalnızca PD'yi tahmin eder. LGD, EAD ve M düzenleyici tarafından belirlenir.</li><li><strong>Gelişmiş IRB:</strong> Banka PD, LGD ve EAD'yi de tahmin eder — daha hassas sermaye hesabı.</li><li><strong>Varlık kategorileri:</strong> Kurumsal krediler, KOBİ kredileri, perakende (konut ve diğer), banka ve hazine kredileri her biri için ayrı risk ağırlığı fonksiyonu.</li><li><strong>Korelasyon faktörü (R):</strong> Kurumsal kredilerde R = 0.12 ile 0.24 arasında; küçük firmalar için düşük, büyük firmalar için yüksek. Konut kredilerinde R = 0.15 sabit.</li><li><div class='hl'>Sınav formülü: Sermaye yükümlülüğü = Risk ağırlıklı varlık × %8 (toplam sermaye). CET1 = %4.5, Tier1 = %6, Toplam = %8 + %2.5 tampon = %10.5</div></li></ul>"
+          "content": "<ul><li><strong>Temel IRB:</strong> Banka yalnızca PD'yi tahmin eder. LGD, EAD ve M düzenleyici tarafından belirlenir.</li><li><strong>Gelişmiş IRB:</strong> Banka PD, LGD ve EAD'yi de tahmin eder — daha hassas sermaye hesabı.</li><li><strong>Varlık kategorileri:</strong> Kurumsal krediler, KOBİ (küçük ve orta büyüklükteki işletmeler) kredileri, perakende (konut ve diğer), banka ve hazine kredileri her biri için ayrı risk ağırlığı fonksiyonu.</li><li><strong>Korelasyon faktörü (R):</strong> Kurumsal kredilerde R = 0.12 ile 0.24 arasında; küçük firmalar için düşük, büyük firmalar için yüksek. Konut kredilerinde R = 0.15 sabit.</li><li><div class='hl'>Sınav formülü: Sermaye yükümlülüğü = Risk ağırlıklı varlık × %8 (toplam sermaye). CET1 = %4.5, Tier1 = %6, Toplam = %8 + %2.5 tampon = %10.5</div></li></ul>"
         },
         {
-          "heading": "Basel III Likidite Standartları",
+          "heading": "Basel (uluslararası bankacılık düzenleme çerçevesi) III Likidite Standartları",
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Standart</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Formül</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Eşik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Amaç</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>LCR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>HQLA / 30 günlük net nakit çıkışı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>≥ %100</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kısa vadeli likidite stresi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>NSFR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Mevcut istikrarlı fonlama / Gereken fonlama</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>≥ %100</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Uzun vadeli vade uyumsuzluğu</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kaldıraç</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tier 1 / Toplam varlıklar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>≥ %3</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Aşırı kaldıraç sınırı</td></tr></table>"
         }
       ]
@@ -35990,7 +35990,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "VaR (RMD) Hesaplama — Varyans-Kovaryans Yöntemi",
-          "content": "<ul><li><strong>Tek varlık RMD:</strong> RMD = W × σ × z × √N<br>W: pozisyon değeri, σ: günlük standart sapma, z: güven düzeyi katsayısı (%95 → 1.645, %99 → 2.326), N: elde tutma günü.</li><li><strong>Portföy RMD:</strong> Korelasyon dikkate alınır → portföy riski iki varlığın RMD'lerinin toplamından küçüktür (diversifikasyon etkisi).</li><li><strong>10 günlük RMD:</strong> 1 günlük RMD × √10 (elde tutma dönemi karekökü ile ölçekleme).</li><li><strong>Tarihsel simülasyon:</strong> Son 250 işlem günü getirisi portföye uygulanır, en kötü %1 veya %5'e karşılık gelen kayıp RMD olarak alınır. Normal dağılım varsayımı gerektirmez.</li><li><div class='hl'>Basel III: Piyasa riski için stresli VaR (SVaR) hesabı — 2007-2009 kriz döneminin stres verisi kullanılarak hesaplanan VaR. Sermaye gerekliliği = maks(VaR, 3×ortalama VaR) + stresli VaR bileşeni.</div></li></ul>"
+          "content": "<ul><li><strong>Tek varlık RMD:</strong> RMD = W × σ × z × √N<br>W: pozisyon değeri, σ: günlük standart sapma, z: güven düzeyi katsayısı (%95 → 1.645, %99 → 2.326), N: elde tutma günü.</li><li><strong>Portföy RMD:</strong> Korelasyon dikkate alınır → portföy riski iki varlığın RMD'lerinin toplamından küçüktür (diversifikasyon etkisi).</li><li><strong>10 günlük RMD:</strong> 1 günlük RMD × √10 (elde tutma dönemi karekökü ile ölçekleme).</li><li><strong>Tarihsel simülasyon:</strong> Son 250 işlem günü getirisi portföye uygulanır, en kötü %1 veya %5'e karşılık gelen kayıp RMD olarak alınır. Normal dağılım varsayımı gerektirmez.</li><li><div class='hl'>Basel (uluslararası bankacılık düzenleme çerçevesi) III: Piyasa riski için stresli VaR (SVaR (riske maruz değer)) hesabı — 2007-2009 kriz döneminin stres verisi kullanılarak hesaplanan VaR (riske maruz değer). Sermaye gerekliliği = maks(VaR (riske maruz değer), 3×ortalama VaR (riske maruz değer)) + stresli VaR (riske maruz değer) bileşeni.</div></li></ul>"
         },
         {
           "heading": "Operasyonel Risk Yaklaşımları",
@@ -36006,7 +36006,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Temel Teoriler Karşılaştırma Tablosu",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Teori</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Odak Nokta</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>KY'ye Etkisi</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vekâlet Teorisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Asil-vekil çıkar çatışması</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bağımsız YK, teşvik yapıları, şeffaflık</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Paydaş Teorisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tüm menfaat sahiplerinin değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ESG, sosyal sorumluluk, uzun vade</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kaynak Bağımlılığı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>YK üyelerinin kaynaklara erişimi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çeşitli YK kompozisyonu</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>İdari Hizmetkâr Teorisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yöneticiler şirket çıkarını önceler</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yöneticilere özerklik, güven</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Teori</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Odak Nokta</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>KY'ye Etkisi</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vekâlet Teorisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Asil-vekil çıkar çatışması</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bağımsız YK, teşvik yapıları, şeffaflık</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Paydaş Teorisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tüm menfaat sahiplerinin değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ESG (çevresel, sosyal ve yönetişim), sosyal sorumluluk, uzun vade</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kaynak Bağımlılığı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>YK üyelerinin kaynaklara erişimi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çeşitli YK kompozisyonu</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>İdari Hizmetkâr Teorisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yöneticiler şirket çıkarını önceler</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yöneticilere özerklik, güven</td></tr></table>"
         },
         {
           "heading": "Bağımsız YK Üyeliği — Kriter Detayları",
@@ -36052,16 +36052,16 @@ window.__EXT = {
         },
         {
           "heading": "Derecelendirme Sürecinin Adımları",
-          "content": "<ul><li><strong>1. Başlangıç:</strong> Ortaklık talebi + sözleşme veya zorunlu derecelendirme. Bilgi ve belge talep formu gönderilir.</li><li><strong>2. Veri toplama:</strong> Kamuya açık bilgiler + şirket ziyareti + yönetimle görüşme. Derecelendirme kuruluşu tarafsızlığını korur.</li><li><strong>3. Analiz ve komite:</strong> Analist taslak hazırlar → derecelendirme komitesi kararı (en az 3 üye, çoğunluk).</li><li><strong>4. Ön bildirim:</strong> Şirkete not önceden bildirilir → şirket itiraz edebilir (yeni belge sunabilir).</li><li><strong>5. Yayın ve izleme:</strong> Not KAP'ta yayımlanır. Dönem içinde önemli gelişme varsa not gözden geçirilir.</li><li><div class='hl'>Not geçerlilik süresi: 1 yıl. Yıllık güncelleme zorunlu. Talep edilmeksizin de not revize edilebilir (watchlist — izleme).</div></li></ul>"
+          "content": "<ul><li><strong>1. Başlangıç:</strong> Ortaklık talebi + sözleşme veya zorunlu derecelendirme. Bilgi ve belge talep formu gönderilir.</li><li><strong>2. Veri toplama:</strong> Kamuya açık bilgiler + şirket ziyareti + yönetimle görüşme. Derecelendirme kuruluşu tarafsızlığını korur.</li><li><strong>3. Analiz ve komite:</strong> Analist taslak hazırlar → derecelendirme komitesi kararı (en az 3 üye, çoğunluk).</li><li><strong>4. Ön bildirim:</strong> Şirkete not önceden bildirilir → şirket itiraz edebilir (yeni belge sunabilir).</li><li><strong>5. Yayın ve izleme:</strong> Not KAP (kamuyu aydınlatma platformu)'ta yayımlanır. Dönem içinde önemli gelişme varsa not gözden geçirilir.</li><li><div class='hl'>Not geçerlilik süresi: 1 yıl. Yıllık güncelleme zorunlu. Talep edilmeksizin de not revize edilebilir (watchlist — izleme).</div></li></ul>"
         }
       ]
     },
     {
       "num": "05",
-      "title": "G20/OECD İlkeleri ve Sarbanes-Oxley Karşılaştırması",
+      "title": "G20/OECD (ekonomik kalkınma ve işbirliği örgütü) İlkeleri ve Sarbanes-Oxley Karşılaştırması",
       "sections": [
         {
-          "heading": "OECD Kurumsal Yönetim İlkeleri (2015 Revizyonu)",
+          "heading": "OECD (ekonomik kalkınma ve işbirliği örgütü) Kurumsal Yönetim İlkeleri (2015 Revizyonu)",
           "content": "<ul><li><strong>I. Etkin KY çerçevesi:</strong> Yasal, düzenleyici ve kurumsal altyapı piyasa şeffaflığını ve hesap verebilirliği desteklemeli.</li><li><strong>II. Pay sahipleri hakları ve eşit muamele:</strong> Temel hakların korunması, sınır ötesi oy kullanım kolaylığı, içeriden bilgi ticaretine karşı düzenleme.</li><li><strong>III. Kurumsal yatırımcılar:</strong> Emeklilik fonları, yatırım fonları ve diğer kurumsal yatırımcıların sorumlu yatırım ilkeleri uygulaması.</li><li><strong>IV. Kamuyu aydınlatma:</strong> Finansal ve finansal olmayan bilgi açıklaması — risk, yönetim ücretleri, ilişkili taraf işlemleri dahil.</li><li><strong>V. YK sorumlulukları:</strong> Strateji, gözetim ve hesap verebilirlik. Bağımsız YK üyeleri, komiteler, yönetim değerlendirme.</li></ul>"
         },
         {
@@ -36192,7 +36192,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Yaygın Saldırı Türleri",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Saldırı</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Açıklama</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Önlem</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Phishing</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sahte e-posta ile kimlik bilgisi çalmak</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Farkındalık eğitimi, SPF/DKIM, MFA</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ransomware</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dosyaları şifreleyip fidye isteme</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yedekleme, yama, davranışsal EDR</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>SQL Injection</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>DB sorgusuna kötü amaçlı kod enjeksiyonu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Parameterize sorgu, WAF, input validation</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>XSS</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Web sayfasına kötü amaçlı script ekleme</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Output encoding, CSP header, WAF</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>MITM</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İki taraf arasına girerek iletişimi ele geçirme</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>TLS/HTTPS, sertifika sabitleme</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Saldırı</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Açıklama</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Önlem</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Phishing</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sahte e-posta ile kimlik bilgisi çalmak</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Farkındalık eğitimi, SPF (sermaye piyasası faaliyetleri)/DKIM, MFA</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ransomware</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dosyaları şifreleyip fidye isteme</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yedekleme, yama, davranışsal EDR</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>SQL Injection</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>DB sorgusuna kötü amaçlı kod enjeksiyonu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Parameterize sorgu, WAF, input validation</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>XSS</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Web sayfasına kötü amaçlı script ekleme</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Output encoding, CSP header, WAF</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>MITM</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İki taraf arasına girerek iletişimi ele geçirme</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>TLS/HTTPS, sertifika sabitleme</td></tr></table>"
         },
         {
           "heading": "Cyber Kill Chain Aşamaları",
@@ -36264,7 +36264,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Blok Zincir Güvenlik Riskleri",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Risk</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Açıklama</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>51% Saldırısı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ağın %51'inden fazla hesaplama gücü ele geçirilerek işlem geçmişinin değiştirilmesi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Reentrancy açıklığı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Akıllı sözleşmede tekrar çağrı yoluyla fon çalma (DAO hack 2016)</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Private key çalınması</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Özel anahtarı kaybeden cüzdanına erişemez, çalınan anahtarla varlıklar çalınır</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Flash loan saldırısı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Teminatsız anlık kredi ile DeFi protokollerini manipüle etme</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Risk</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Açıklama</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>51% Saldırısı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ağın %51'inden fazla hesaplama gücü ele geçirilerek işlem geçmişinin değiştirilmesi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Reentrancy açıklığı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Akıllı sözleşmede tekrar çağrı yoluyla fon çalma (DAO hack 2016)</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Private key çalınması</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Özel anahtarı kaybeden cüzdanına erişemez, çalınan anahtarla varlıklar çalınır</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Flash loan saldırısı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Teminatsız anlık kredi ile DeFi (merkeziyetsiz finans) protokollerini manipüle etme</td></tr></table>"
         },
         {
           "heading": "Blok Zincir Denetiminde Dikkat Edilecekler",
@@ -36455,8 +36455,8 @@ window.__EXT = {
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kalem</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Formül</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tamamlanma Oranı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dönem Sonu Birikimli Maliyet / Toplam Tahmini Maliyet</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dönem Hasılatı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Toplam Sözleşme Bedeli × Tamamlanma Oranı − Önceki Dönem Tanınan Hasılat</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dönem Brüt Kârı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dönem Hasılatı − Dönem Maliyeti</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Beklenen Zarar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Toplam tahmini maliyet &gt; sözleşme bedeli → hemen zarar yaz</td></tr></table>"
         },
         {
-          "heading": "VUK vs TFRS 15 Muhasebe Farkları",
-          "content": "<ul><li><strong>VUK (iş bitimi):</strong> Tüm maliyetler 170-177'de birikir. Tüm hakedişler 350-357'de birikir. Kâr/zarar yalnızca iş bitiminde. Stopaj (%3) hakediş kesintisinde uygulanır.</li><li><strong>TFRS 15 (tamamlanma oranı):</strong> 740 Hizmet Üretim Maliyeti dönemsel. 600 Satışlar tamamlanma oranına göre dönemsel. 140 Devam Eden Sözleşmelerden Alacaklar veya 340 Müşterilere Borçlar sözleşme varlığı/yükümlülüğü.</li><li><strong>Geçici fark:</strong> TFRS 15'e göre erken tanınan hasılat, VUK'tan fazlaysa ertelenmiş vergi yükümlülüğü doğar. VUK'tan az hasılat tanınırsa ertelenmiş vergi varlığı doğar.</li></ul>"
+          "heading": "VUK (vergi usul kanunu) vs TFRS (türkiye finansal raporlama standartları) 15 Muhasebe Farkları",
+          "content": "<ul><li><strong>VUK (iş bitimi):</strong> Tüm maliyetler 170-177'de birikir. Tüm hakedişler 350-357'de birikir. Kâr/zarar yalnızca iş bitiminde. Stopaj (%3) hakediş kesintisinde uygulanır.</li><li><strong>TFRS (türkiye finansal raporlama standartları) 15 (tamamlanma oranı):</strong> 740 Hizmet Üretim Maliyeti dönemsel. 600 Satışlar tamamlanma oranına göre dönemsel. 140 Devam Eden Sözleşmelerden Alacaklar veya 340 Müşterilere Borçlar sözleşme varlığı/yükümlülüğü.</li><li><strong>Geçici fark:</strong> TFRS (türkiye finansal raporlama standartları) 15'e göre erken tanınan hasılat, VUK (vergi usul kanunu)'tan fazlaysa ertelenmiş vergi yükümlülüğü doğar. VUK (vergi usul kanunu)'tan az hasılat tanınırsa ertelenmiş vergi varlığı doğar.</li></ul>"
         }
       ]
     },
@@ -36476,7 +36476,7 @@ window.__EXT = {
     },
     {
       "num": "04",
-      "title": "TFRS 16 Kiralama — Kiracı Muhasebesi",
+      "title": "TFRS (türkiye finansal raporlama standartları) 16 Kiralama — Kiracı Muhasebesi",
       "sections": [
         {
           "heading": "Kiralama Borcunun Hesaplanması",
@@ -36494,11 +36494,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Geçici Fark Türleri ve Ertelenmiş Vergi",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Durum</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Fark Türü</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Sonuç</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS 15 hasılat > VUK hasılat</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergilendirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>489 Ertelenmiş Vergi Yükümlülüğü</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS 15 hasılat &lt; VUK hasılat</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İndirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>289 Ertelenmiş Vergi Varlığı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kıdem tazminatı karşılığı (TMS37)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İndirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>289 Ertelenmiş Vergi Varlığı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 40 GUD artışı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergilendirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>489 Ertelenmiş Vergi Yükümlülüğü</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 16 yeniden değerleme artışı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergilendirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>489 (özkaynaklara etkili)</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Durum</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Fark Türü</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Sonuç</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS (türkiye finansal raporlama standartları) 15 hasılat > VUK (vergi usul kanunu) hasılat</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergilendirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>489 Ertelenmiş Vergi Yükümlülüğü</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS (türkiye finansal raporlama standartları) 15 hasılat &lt; VUK (vergi usul kanunu) hasılat</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İndirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>289 Ertelenmiş Vergi Varlığı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kıdem tazminatı karşılığı (TMS37)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İndirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>289 Ertelenmiş Vergi Varlığı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 40 GUD artışı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergilendirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>489 Ertelenmiş Vergi Yükümlülüğü</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 16 yeniden değerleme artışı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergilendirilebilir geçici fark</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>489 (özkaynaklara etkili)</td></tr></table>"
         },
         {
           "heading": "Ertelenmiş Vergi Hesaplama Adımları",
-          "content": "<ul><li><strong>1. Defter değerini belirle</strong> — TMS/TFRS'ye göre bilanço değeri.</li><li><strong>2. Vergi matrahını belirle</strong> — VUK'a göre değer veya VUK'a göre vergi etkisi.</li><li><strong>3. Fark hesapla</strong> — Geçici fark = Defter değeri − Vergi matrahı.</li><li><strong>4. Vergi oranını uygula</strong> — Geçici fark × Yürürlükteki vergi oranı = Ertelenmiş vergi.</li><li><strong>5. Dönem başı bakiyesiyle karşılaştır</strong> — Fark = Dönem ertelenmiş vergi gelir/gider etkisi.</li><li><div class='hl'>Sürekli fark örneği: Bağış giderleri VUK'ta gider kabul edilmezken TMS/TFRS'de gider. Bu fark ileride kapanmadığından ertelenmiş vergi doğurmaz — yalnızca cari dönem vergi matrahı etkiler.</div></li></ul>"
+          "content": "<ul><li><strong>1. Defter değerini belirle</strong> — TMS/TFRS (türkiye finansal raporlama standartları)'ye göre bilanço değeri.</li><li><strong>2. Vergi matrahını belirle</strong> — VUK (vergi usul kanunu)'a göre değer veya VUK (vergi usul kanunu)'a göre vergi etkisi.</li><li><strong>3. Fark hesapla</strong> — Geçici fark = Defter değeri − Vergi matrahı.</li><li><strong>4. Vergi oranını uygula</strong> — Geçici fark × Yürürlükteki vergi oranı = Ertelenmiş vergi.</li><li><strong>5. Dönem başı bakiyesiyle karşılaştır</strong> — Fark = Dönem ertelenmiş vergi gelir/gider etkisi.</li><li><div class='hl'>Sürekli fark örneği: Bağış giderleri VUK (vergi usul kanunu)'ta gider kabul edilmezken TMS/TFRS (türkiye finansal raporlama standartları)'de gider. Bu fark ileride kapanmadığından ertelenmiş vergi doğurmaz — yalnızca cari dönem vergi matrahı etkiler.</div></li></ul>"
         }
       ]
     }
@@ -36582,7 +36582,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Değer Türleri Karşılaştırma Tablosu",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Değer Türü</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Tanım</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kullanım Alanı</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Pazar Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Açık piyasada, bilgili, istekli, bağımsız alıcı-satıcı arasındaki en olası satış fiyatı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İpotek, alım-satım, vergi, sigorta</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Makul Değer</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Belirli taraflar arasındaki işlemde muhtemel fiyat; zorunlu değil, pazar tarafsızlığı şartı yok</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Muhasebe (UFRS), mahkeme kararı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yatırım Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Belirli bir yatırımcının getiri beklentisi ve koşullarına göre hesaplanan değer</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yatırım kararı, portföy yönetimi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sinerji Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Birleşme/satın alma sonucunda oluşan ek değer</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>M&A, GYO birleşmesi</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tasfiye Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kısa sürede, zorla satış koşullarında elde edilebilecek değer; pazar değerinin altında</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İcra, iflas, acil satış</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sigorta Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Hasar durumunda yeniden yapım veya ikame maliyeti</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sigorta poliçesi</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Değer Türü</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Tanım</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kullanım Alanı</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Pazar Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Açık piyasada, bilgili, istekli, bağımsız alıcı-satıcı arasındaki en olası satış fiyatı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İpotek, alım-satım, vergi, sigorta</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Makul Değer</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Belirli taraflar arasındaki işlemde muhtemel fiyat; zorunlu değil, pazar tarafsızlığı şartı yok</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Muhasebe (UFRS (uluslararası finansal raporlama standartları)), mahkeme kararı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yatırım Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Belirli bir yatırımcının getiri beklentisi ve koşullarına göre hesaplanan değer</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yatırım kararı, portföy yönetimi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sinerji Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Birleşme/satın alma sonucunda oluşan ek değer</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>M&A, GYO (gayrimenkul yatırım ortaklığı) birleşmesi</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tasfiye Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kısa sürede, zorla satış koşullarında elde edilebilecek değer; pazar değerinin altında</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İcra, iflas, acil satış</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sigorta Değeri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Hasar durumunda yeniden yapım veya ikame maliyeti</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sigorta poliçesi</td></tr></table>"
         },
         {
           "heading": "UDS'de Temel Terimler ve Pazar Değeri Tanımı",
@@ -36596,7 +36596,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Doğrudan Kapitalizasyon ve İNA Karşılaştırması",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Yöntem</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Formül</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Uygun Durum</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Doğrudan Kapitalizasyon</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>V = NOI / R</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Stabil, sürekli gelir; tek dönem</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gordon Büyüme Modeli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>V = NOI / (R − g)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sabit büyüme oranıyla süresiz gelir</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>İNA/DCF</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>V = Σ CF_t/(1+r)ᵗ + Satış/(1+r)ⁿ</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değişken gelir; geliştirme projesi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Artık Yöntem</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Arsa V = GDV − Maliyet − Kâr</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Boş arsa; geliştirme hakkı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kâr Yöntemi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>V = (Net işletme kârı − ticari ücret) / R</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Otel, restoran, petrol istasyonu</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Yöntem</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Formül</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Uygun Durum</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Doğrudan Kapitalizasyon</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>V = NOI / R</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Stabil, sürekli gelir; tek dönem</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gordon Büyüme Modeli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>V = NOI / (R − g)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sabit büyüme oranıyla süresiz gelir</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>İNA/DCF (indirgenmiş nakit akışı)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>V = Σ CF_t/(1+r)ᵗ + Satış/(1+r)ⁿ</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değişken gelir; geliştirme projesi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Artık Yöntem</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Arsa V = GDV − Maliyet − Kâr</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Boş arsa; geliştirme hakkı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kâr Yöntemi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>V = (Net işletme kârı − ticari ücret) / R</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Otel, restoran, petrol istasyonu</td></tr></table>"
         },
         {
           "heading": "Net Faaliyet Geliri (NOI) Hesabı",
@@ -36668,7 +36668,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Defter ve Belgeler",
-          "content": "<ul><li><strong>Zorunlu defterler:</strong> Yevmiye defteri, büyük defter (defteri kebir), envanter defteri. TTK kapsamında ticaret şirketleri bu defterleri tutmak zorundadır.</li><li><strong>Yevmiye kaydı yapısı:</strong> (i) tarih, (ii) borçlu hesap ve tutarı, (iii) alacaklı hesap ve tutarı, (iv) açıklama. Borçlu hesap her zaman önce yazılır.</li><li><strong>Muhasebe akışı:</strong> Belge → Yevmiye defteri → Büyük defter aktarımı → Genel mizan → Dönem sonu ayarlamaları → Kesin mizan → Finansal tablolar.</li><li><strong>Mizan türleri:</strong> Aylık mizan (geçici), kesin mizan (dönem sonu, ayarlama sonrası). Mizanda borç toplamı = alacak toplamı olmalı.</li></ul>"
+          "content": "<ul><li><strong>Zorunlu defterler:</strong> Yevmiye defteri, büyük defter (defteri kebir), envanter defteri. TTK (türk ticaret kanunu) kapsamında ticaret şirketleri bu defterleri tutmak zorundadır.</li><li><strong>Yevmiye kaydı yapısı:</strong> (i) tarih, (ii) borçlu hesap ve tutarı, (iii) alacaklı hesap ve tutarı, (iv) açıklama. Borçlu hesap her zaman önce yazılır.</li><li><strong>Muhasebe akışı:</strong> Belge → Yevmiye defteri → Büyük defter aktarımı → Genel mizan → Dönem sonu ayarlamaları → Kesin mizan → Finansal tablolar.</li><li><strong>Mizan türleri:</strong> Aylık mizan (geçici), kesin mizan (dönem sonu, ayarlama sonrası). Mizanda borç toplamı = alacak toplamı olmalı.</li></ul>"
         },
         {
           "heading": "Tekdüzen Muhasebe Sistemi Hesap Planı",
@@ -36700,20 +36700,20 @@ window.__EXT = {
         },
         {
           "heading": "Dönem Sonu Kapanış İşlemleri",
-          "content": "<ul><li><strong>Sıra:</strong> (1) Sayım ve tespit, (2) Değerleme, (3) Amortisman, (4) Karşılıklar, (5) Reeskont, (6) Kur farkları, (7) Tahakkuk ve ertelemeler, (8) Gelir-gider hesaplarının kapatılması.</li><li><strong>Sonuç hesaplarının kapatılması:</strong> 690 (Dönem Kârı/Zararı hesabına) aktarılır. Kâr 590'a (Dönem Net Kârı), zarar 591'e (Dönem Net Zararı) devredilir.</li><li><strong>Kâr dağıtımı:</strong> TTK'ya göre yasal yedek (%5 minimum), isteğe bağlı yedekler, temettü ayrımı. Dağıtılmayan kâr geçmiş yıllar kârlarına (570) aktarılır.</li></ul>"
+          "content": "<ul><li><strong>Sıra:</strong> (1) Sayım ve tespit, (2) Değerleme, (3) Amortisman, (4) Karşılıklar, (5) Reeskont, (6) Kur farkları, (7) Tahakkuk ve ertelemeler, (8) Gelir-gider hesaplarının kapatılması.</li><li><strong>Sonuç hesaplarının kapatılması:</strong> 690 (Dönem Kârı/Zararı hesabına) aktarılır. Kâr 590'a (Dönem Net Kârı), zarar 591'e (Dönem Net Zararı) devredilir.</li><li><strong>Kâr dağıtımı:</strong> TTK (türk ticaret kanunu)'ya göre yasal yedek (%5 minimum), isteğe bağlı yedekler, temettü ayrımı. Dağıtılmayan kâr geçmiş yıllar kârlarına (570) aktarılır.</li></ul>"
         }
       ]
     },
     {
       "num": "05",
-      "title": "TMS/TFRS Standartları — Önemli Standartlar",
+      "title": "TMS/TFRS (türkiye finansal raporlama standartları) Standartları — Önemli Standartlar",
       "sections": [
         {
           "heading": "Kritik TMS'ler",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Standart</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Konu</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kritik kural</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 2</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Stoklar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>LIFO yasak; maliyet/NRV düşüğü</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 16</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Maddi Duran Varlıklar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Maliyet veya yeniden değerleme modeli</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 19</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çalışan Hakları</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kıdem tazminatı aktüeryal hesap</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 36</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değer Düşüklüğü</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Geri kaz. tutar &lt; defter = zarar</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 38</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Maddi Olmayan DVA</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ar-Gider; geliştirme koşullu aktif</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS 9</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Finansal Araçlar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sınıflandırma: VBMS, GDKD, GUD</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS 15</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Hasılat</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>5 adımlı model; performans yükümlülüğü</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS 16</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kiralamalar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kiracı: kullanım hakkı varlığı + borç</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Standart</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Konu</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kritik kural</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 2</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Stoklar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>LIFO yasak; maliyet/NRV düşüğü</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 16</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Maddi Duran Varlıklar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Maliyet veya yeniden değerleme modeli</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 19</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çalışan Hakları</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kıdem tazminatı aktüeryal hesap</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 36</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değer Düşüklüğü</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Geri kaz. tutar &lt; defter = zarar</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TMS 38</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Maddi Olmayan DVA</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ar-Gider; geliştirme koşullu aktif</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS (türkiye finansal raporlama standartları) 9</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Finansal Araçlar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sınıflandırma: VBMS, GDKD, GUD</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS (türkiye finansal raporlama standartları) 15</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Hasılat</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>5 adımlı model; performans yükümlülüğü</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TFRS (türkiye finansal raporlama standartları) 16</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kiralamalar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kiracı: kullanım hakkı varlığı + borç</td></tr></table>"
         },
         {
-          "heading": "TFRS 15 — Hasılat 5 Adımlı Model",
+          "heading": "TFRS (türkiye finansal raporlama standartları) 15 — Hasılat 5 Adımlı Model",
           "content": "<ul><li><strong>Adım 1:</strong> Müşteri ile sözleşmeyi tanımla</li><li><strong>Adım 2:</strong> Sözleşmedeki performans yükümlülüklerini belirle</li><li><strong>Adım 3:</strong> İşlem fiyatını belirle</li><li><strong>Adım 4:</strong> İşlem fiyatını performans yükümlülüklerine dağıt</li><li><strong>Adım 5:</strong> Performans yükümlülüğü yerine getirilince (veya getirilirken) hasılatı kaydet</li><li><div class='hl'>Hasılat yalnızca müşteriye kontrol geçince tanınır — risk ve getirilerin transferi artık belirleyici değil.</div></li></ul>"
         }
       ]
@@ -36741,8 +36741,8 @@ window.__EXT = {
           "content": "<ul><li><strong>Denetim riski = Önemli yanlışlık riski × Tespit riski</strong></li><li><strong>Önemli yanlışlık riski = Doğal risk × Kontrol riski</strong></li><li><strong>Doğal risk:</strong> İşletmenin faaliyet yapısı ve çevresinden kaynaklanan, iç kontrolden bağımsız yanlışlık olasılığı.</li><li><strong>Kontrol riski:</strong> İç kontrol sisteminin yanlışlıkları zamanında önleyememesi veya tespit edememesi.</li><li><strong>Tespit riski:</strong> Denetçinin uyguladığı prosedürlerin önemli yanlışlıkları bulamaması riski. Denetçi bunu planlama ile kontrol eder.</li><li><div class='hl'>Yüksek iç kontrol etkinliği → düşük kontrol riski → denetçi daha az maddi doğruluk testi yapabilir.</div></li></ul>"
         },
         {
-          "heading": "Denetim Görüşleri ve KGK",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Görüş</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Koşul</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Olumlu (temiz)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tablolar TMS/TFRS'ye uygun; dürüst resim</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Şartlı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sınırlı aykırılık; genel tablo kabul edilebilir</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Olumsuz</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yaygın ve önemli aykırılık; tablo yanıltıcı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Görüş vermekten kaçınma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yaygın belirsizlik; görüş oluşturulamıyor</td></tr></table><div class='hl' style='margin-top:10px'>KGK (660 sayılı KHK — 2011): Türkiye'de bağımsız denetim lisanslarını verir, BDS'yi yayımlar, denetim firmalarını denetler. IAASB ile koordineli.</div>"
+          "heading": "Denetim Görüşleri ve KGK (kamu gözetimi kurumu)",
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Görüş</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Koşul</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Olumlu (temiz)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tablolar TMS/TFRS (türkiye finansal raporlama standartları)'ye uygun; dürüst resim</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Şartlı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sınırlı aykırılık; genel tablo kabul edilebilir</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Olumsuz</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yaygın ve önemli aykırılık; tablo yanıltıcı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Görüş vermekten kaçınma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yaygın belirsizlik; görüş oluşturulamıyor</td></tr></table><div class='hl' style='margin-top:10px'>KGK (660 sayılı KHK — 2011): Türkiye'de bağımsız denetim lisanslarını verir, BDS'yi yayımlar, denetim firmalarını denetler. IAASB ile koordineli.</div>"
         }
       ]
     },
@@ -36752,7 +36752,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "II-14.1 Tebliği Kapsamı ve Zorunluluklar",
-          "content": "<ul><li><strong>Zorunlu tablolar:</strong> Finansal durum tablosu (bilanço), kapsamlı gelir tablosu, özkaynak değişim tablosu, nakit akış tablosu, dipnotlar.</li><li><strong>Sunum para birimi:</strong> Türk Lirası zorunlu; yabancı para biriminde de sunulabilir ancak TL de yer almalıdır.</li><li><strong>Konsolidasyon yükümlülüğü:</strong> Bağlı ortaklıkları olan halka açık şirketler konsolide finansal tablo hazırlar. Özsermaye yöntemi: iştiraklere (önemli etki) uygulanır.</li><li><strong>KAP açıklama süreleri:</strong> Yıllık finansal tablolar: hesap dönemi kapanışından itibaren 3 ay içinde. Ara dönem (6 aylık): 2 ay içinde. Ara dönem (3 ve 9 aylık): 1,5 ay içinde.</li></ul>"
+          "content": "<ul><li><strong>Zorunlu tablolar:</strong> Finansal durum tablosu (bilanço), kapsamlı gelir tablosu, özkaynak değişim tablosu, nakit akış tablosu, dipnotlar.</li><li><strong>Sunum para birimi:</strong> Türk Lirası zorunlu; yabancı para biriminde de sunulabilir ancak TL de yer almalıdır.</li><li><strong>Konsolidasyon yükümlülüğü:</strong> Bağlı ortaklıkları olan halka açık şirketler konsolide finansal tablo hazırlar. Özsermaye yöntemi: iştiraklere (önemli etki) uygulanır.</li><li><strong>KAP (kamuyu aydınlatma platformu) açıklama süreleri:</strong> Yıllık finansal tablolar: hesap dönemi kapanışından itibaren 3 ay içinde. Ara dönem (6 aylık): 2 ay içinde. Ara dönem (3 ve 9 aylık): 1,5 ay içinde.</li></ul>"
         },
         {
           "heading": "Nakit Akış Tablosu (TMS 7)",
@@ -36770,7 +36770,7 @@ window.__EXT = {
         },
         {
           "heading": "Önemlilik (Materiality)",
-          "content": "<ul><li><strong>Tanım:</strong> Bir bilginin ihmal edilmesi veya yanlış beyan edilmesinin, finansal tablo kullanıcısının kararını etkileyip etkilemeyeceğinin yargısal değerlendirmesi.</li><li><strong>Önemlilik eşiği belirleme:</strong> Genellikle brüt kârın veya toplam varlıkların belirli bir yüzdesi esas alınır (sektöre göre %0,5-%5 arasında). Denetçi takdiri geniş.</li><li><strong>Performans önemliliği:</strong> Tespit edilmemiş önemsiz hataların toplamının önemlilik eşiğini aşmaması için genel önemlilik eşiğinin altında belirlenir (%50-75 oranında).</li><li><strong>SPK (sermaye piyasası kurulu) Seri X No:22 Tebliği:</strong> Sermaye piyasasında bağımsız denetçilerin nitelikleri, seçilme engelleri ve bağımsızlık kurallarını düzenler. KGK ile uyumlu.</li></ul>"
+          "content": "<ul><li><strong>Tanım:</strong> Bir bilginin ihmal edilmesi veya yanlış beyan edilmesinin, finansal tablo kullanıcısının kararını etkileyip etkilemeyeceğinin yargısal değerlendirmesi.</li><li><strong>Önemlilik eşiği belirleme:</strong> Genellikle brüt kârın veya toplam varlıkların belirli bir yüzdesi esas alınır (sektöre göre %0,5-%5 arasında). Denetçi takdiri geniş.</li><li><strong>Performans önemliliği:</strong> Tespit edilmemiş önemsiz hataların toplamının önemlilik eşiğini aşmaması için genel önemlilik eşiğinin altında belirlenir (%50-75 oranında).</li><li><strong>SPK (sermaye piyasası kurulu) Seri X No:22 Tebliği:</strong> Sermaye piyasasında bağımsız denetçilerin nitelikleri, seçilme engelleri ve bağımsızlık kurallarını düzenler. KGK (kamu gözetimi kurumu) ile uyumlu.</li></ul>"
         }
       ]
     }
@@ -36809,12 +36809,12 @@ window.__EXT = {
       "title": "Sermaye Maliyeti — AOSM Hesabı",
       "sections": [
         {
-          "heading": "FVFM (CAPM) ile Özsermaye Maliyeti",
-          "content": "<ul><li><strong>Formül:</strong> k_s = R_f + β × (R_m − R_f)</li><li><strong>R_f:</strong> Risksiz faiz — T-bonosu veya DİBS getirisi.</li><li><strong>β (Beta):</strong> Hisse senedinin piyasaya göre sistematik riski. β=1 → piyasayla aynı; β>1 → daha oynak; β<1 → daha az oynak.</li><li><strong>Kaldıraçlı beta (β_L) → kaldıraçsız beta (β_U):</strong> β_U = β_L / [1 + (1−T) × D/E]. Farklı sermaye yapılı şirket karşılaştırması için.</li><li><strong>Gordon (temettü büyüme) modeli:</strong> k_s = D₁/P₀ + g. D₁: beklenen temettü, g: sürdürülebilir büyüme oranı = ROE × (1 − dağıtım oranı).</li></ul>"
+          "heading": "FVFM (CAPM (sermaye varlığı fiyatlama modeli)) ile Özsermaye Maliyeti",
+          "content": "<ul><li><strong>Formül:</strong> k_s = R_f + β × (R_m − R_f)</li><li><strong>R_f:</strong> Risksiz faiz — T-bonosu veya DİBS getirisi.</li><li><strong>β (Beta):</strong> Hisse senedinin piyasaya göre sistematik riski. β=1 → piyasayla aynı; β>1 → daha oynak; β<1 → daha az oynak.</li><li><strong>Kaldıraçlı beta (β_L) → kaldıraçsız beta (β_U):</strong> β_U = β_L / [1 + (1−T) × D/E]. Farklı sermaye yapılı şirket karşılaştırması için.</li><li><strong>Gordon (temettü büyüme) modeli:</strong> k_s = D₁/P₀ + g. D₁: beklenen temettü, g: sürdürülebilir büyüme oranı = ROE (özsermaye kârlılığı) × (1 − dağıtım oranı).</li></ul>"
         },
         {
           "heading": "AOSM Hesaplama Adımları",
-          "content": "<ul><li><strong>1.</strong> Her kaynağın piyasa değerini hesapla (tahvil için piyasa fiyatı, özsermaye için P × hisse sayısı).</li><li><strong>2.</strong> Her kaynağın toplam içindeki ağırlığını hesapla (w_d, w_s, w_p).</li><li><strong>3.</strong> Her kaynağın vergi sonrası maliyetini hesapla: borç → k_d × (1−T); özsermaye → CAPM veya Gordon.</li><li><strong>4.</strong> AOSM = Σ(ağırlık × maliyet).</li><li><div class='hl'>Defter değeri değil, piyasa değeri kullanılır. Tarihi maliyet değil, marjinal maliyet kullanılır.</div></li></ul>"
+          "content": "<ul><li><strong>1.</strong> Her kaynağın piyasa değerini hesapla (tahvil için piyasa fiyatı, özsermaye için P × hisse sayısı).</li><li><strong>2.</strong> Her kaynağın toplam içindeki ağırlığını hesapla (w_d, w_s, w_p).</li><li><strong>3.</strong> Her kaynağın vergi sonrası maliyetini hesapla: borç → k_d × (1−T); özsermaye → CAPM (sermaye varlığı fiyatlama modeli) veya Gordon.</li><li><strong>4.</strong> AOSM = Σ(ağırlık × maliyet).</li><li><div class='hl'>Defter değeri değil, piyasa değeri kullanılır. Tarihi maliyet değil, marjinal maliyet kullanılır.</div></li></ul>"
         }
       ]
     },
@@ -36880,11 +36880,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Kritik Oranlar ve Yorumu",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Grup</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Oran</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Formül</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Likidite</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Cari oran</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dönen Varlık / KVB</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Likidite</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Asit-test</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>(DV − Stok) / KVB</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Finansal yapı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faiz karşılama</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>FVÖK / Faiz</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faaliyet</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Alacak devir hızı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Satışlar / Ort. Alacak</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kârlılık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ROE</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Net Kâr / Özsermaye</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kârlılık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ROA</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Net Kâr / Aktif</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Grup</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Oran</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Formül</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Likidite</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Cari oran</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dönen Varlık / KVB</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Likidite</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Asit-test</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>(DV − Stok) / KVB</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Finansal yapı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faiz karşılama</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>FVÖK / Faiz</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faaliyet</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Alacak devir hızı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Satışlar / Ort. Alacak</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kârlılık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ROE (özsermaye kârlılığı)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Net Kâr / Özsermaye</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kârlılık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ROA (aktif kârlılığı)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Net Kâr / Aktif</td></tr></table>"
         },
         {
           "heading": "DuPont Analizi",
-          "content": "<ul><li><strong>ROE = Net Kâr Marjı × Aktif Devir Hızı × Finansal Kaldıraç</strong></li><li>= (Net Kâr/Satışlar) × (Satışlar/Aktif) × (Aktif/Özsermaye)</li><li><strong>Kullanım amacı:</strong> ROE'deki değişimin hangi bileşenden (kârlılık, verimlilik, kaldıraç) kaynaklandığını tespit etmek.</li><li><strong>Finansal tablo makyajı işaretleri:</strong> Anormal alacak artışı (agresif gelir tanıma), nakit akışı/kâr uyumsuzluğu, olağandışı gider ertelemesi, grup içi işlemlerde yüksek kâr.</li></ul>"
+          "content": "<ul><li><strong>ROE (özsermaye kârlılığı) = Net Kâr Marjı × Aktif Devir Hızı × Finansal Kaldıraç</strong></li><li>= (Net Kâr/Satışlar) × (Satışlar/Aktif) × (Aktif/Özsermaye)</li><li><strong>Kullanım amacı:</strong> ROE (özsermaye kârlılığı)'deki değişimin hangi bileşenden (kârlılık, verimlilik, kaldıraç) kaynaklandığını tespit etmek.</li><li><strong>Finansal tablo makyajı işaretleri:</strong> Anormal alacak artışı (agresif gelir tanıma), nakit akışı/kâr uyumsuzluğu, olağandışı gider ertelemesi, grup içi işlemlerde yüksek kâr.</li></ul>"
         }
       ]
     },
@@ -36894,7 +36894,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Finansal Leasing vs Faaliyet Leasingi",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Finansal Leasing</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Faaliyet Leasingi</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bilanço etkisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Varlık + Borç aktifleşir</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bilanço dışı (TFRS 16 öncesi)</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bakım sorumluluğu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kiracı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kiralayan</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>İptal edilebilirlik</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genellikle iptal edilemez</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İptal edilebilir</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergi etkisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Amortisman + faiz gider</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tüm kira gider yazılır</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Finansal Leasing</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Faaliyet Leasingi</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bilanço etkisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Varlık + Borç aktifleşir</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bilanço dışı (TFRS (türkiye finansal raporlama standartları) 16 öncesi)</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Bakım sorumluluğu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kiracı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kiralayan</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>İptal edilebilirlik</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genellikle iptal edilemez</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İptal edilebilir</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vergi etkisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Amortisman + faiz gider</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tüm kira gider yazılır</td></tr></table>"
         },
         {
           "heading": "Faktoring vs Forfaiting Karşılaştırması",
@@ -36932,7 +36932,7 @@ window.__EXT = {
         },
         {
           "heading": "İdari Sorumluluk ve Bildirim Yükümlülükleri",
-          "content": "<ul><li><strong>Yükümlü kişiler:</strong> YK üyeleri, CEO/CFO/CLO ve üst yöneticiler ile bunların eşleri, birinci derece akrabaları ve kontrol ettikleri tüzel kişiler.</li><li><strong>Bildirim eşiği:</strong> Bir takvim yılında toplam 1.000.000 TL'yi aşan işlemler; 5.000 TL üzerindeki her işlem limite dahil.</li><li><strong>Süre:</strong> 3 iş günü içinde KAP'a elektronik imzalı bildirim.</li><li><strong>İçsel bilgilere erişim listesi:</strong> Tutulması ve talep halinde Kurul'a iletilmesi zorunlu; 5 yıl saklanmalı.</li><li><strong>Bilgilendirme politikası:</strong> Yönetim kurulu tarafından onaylanmış yazılı politika; web sitesinde yayımlanmalı.</li></ul>"
+          "content": "<ul><li><strong>Yükümlü kişiler:</strong> YK üyeleri, CEO/CFO/CLO ve üst yöneticiler ile bunların eşleri, birinci derece akrabaları ve kontrol ettikleri tüzel kişiler.</li><li><strong>Bildirim eşiği:</strong> Bir takvim yılında toplam 1.000.000 TL'yi aşan işlemler; 5.000 TL üzerindeki her işlem limite dahil.</li><li><strong>Süre:</strong> 3 iş günü içinde KAP (kamuyu aydınlatma platformu)'a elektronik imzalı bildirim.</li><li><strong>İçsel bilgilere erişim listesi:</strong> Tutulması ve talep halinde Kurul'a iletilmesi zorunlu; 5 yıl saklanmalı.</li><li><strong>Bilgilendirme politikası:</strong> Yönetim kurulu tarafından onaylanmış yazılı politika; web sitesinde yayımlanmalı.</li></ul>"
         }
       ]
     },
@@ -36942,25 +36942,25 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Bağımsız YK Üyesi — Kritik Kriterler",
-          "content": "<ul><li><strong>Bağımsızlık kriterleri:</strong> Son 5 yılda şirketle ticari ilişki yok; şirkette veya bağlı ortaklıklarda %5+ pay yok; son 5 yılda yönetici pozisyonu yok; birden fazla komitede görev almamak.</li><li><strong>Bağımsızlık kaybı:</strong> Derhal istifa → YK durumu KAP'a bildirir → 30 gün içinde yeni aday.</li><li><strong>Kurul olumsuz görüşü:</strong> 20 gün içinde şirkete bildirilir; şirket KAP'ta duyurur; bu kişi bağımsız üye olamaz.</li><li><strong>Kadın üye:</strong> En az %25 hedefi; politika oluşturulması ve yıllık değerlendirme zorunlu.</li></ul>"
+          "content": "<ul><li><strong>Bağımsızlık kriterleri:</strong> Son 5 yılda şirketle ticari ilişki yok; şirkette veya bağlı ortaklıklarda %5+ pay yok; son 5 yılda yönetici pozisyonu yok; birden fazla komitede görev almamak.</li><li><strong>Bağımsızlık kaybı:</strong> Derhal istifa → YK durumu KAP (kamuyu aydınlatma platformu)'a bildirir → 30 gün içinde yeni aday.</li><li><strong>Kurul olumsuz görüşü:</strong> 20 gün içinde şirkete bildirilir; şirket KAP (kamuyu aydınlatma platformu)'ta duyurur; bu kişi bağımsız üye olamaz.</li><li><strong>Kadın üye:</strong> En az %25 hedefi; politika oluşturulması ve yıllık değerlendirme zorunlu.</li></ul>"
         },
         {
           "heading": "İlişkili Taraf İşlemleri ve Önemli İşlemler",
-          "content": "<ul><li><strong>İlişkili taraf tanımı:</strong> Ana ortak, yöneticiler, bunların yakınları ve bu kişilerin kontrol ettiği şirketler.</li><li><strong>Önemli işlem eşiği (%10):</strong> Son yıllık finansal tablolara göre aktifin, cironun veya piyasa değerinin %10'unu aşan işlemler. Bağımsız üye çoğunluk onayı zorunlu.</li><li><strong>Onay alınamazsa:</strong> KAP'ta açıklama + genel kurulun onayına sunma. Genel kurul onayı olmadan gerçekleştirilemez.</li><li><strong>Değerleme zorunluluğu:</strong> Kiralama işlemleri dahil ilişkili taraf işlemlerinde değerleme uzmanı raporu alınmalı.</li></ul>"
+          "content": "<ul><li><strong>İlişkili taraf tanımı:</strong> Ana ortak, yöneticiler, bunların yakınları ve bu kişilerin kontrol ettiği şirketler.</li><li><strong>Önemli işlem eşiği (%10):</strong> Son yıllık finansal tablolara göre aktifin, cironun veya piyasa değerinin %10'unu aşan işlemler. Bağımsız üye çoğunluk onayı zorunlu.</li><li><strong>Onay alınamazsa:</strong> KAP (kamuyu aydınlatma platformu)'ta açıklama + genel kurulun onayına sunma. Genel kurul onayı olmadan gerçekleştirilemez.</li><li><strong>Değerleme zorunluluğu:</strong> Kiralama işlemleri dahil ilişkili taraf işlemlerinde değerleme uzmanı raporu alınmalı.</li></ul>"
         }
       ]
     },
     {
       "num": "04",
-      "title": "Gayrimenkul Yatırım Ortaklıkları (GYO)",
+      "title": "Gayrimenkul Yatırım Ortaklıkları (GYO (gayrimenkul yatırım ortaklığı))",
       "sections": [
         {
-          "heading": "GYO Portföy Yapısı ve Kısıtlar",
-          "content": "<ul><li><strong>Portföy bileşenleri:</strong> Gayrimenkuller, gayrimenkul projeleri, gayrimenkule dayalı haklar, altyapı yatırımları, sermaye piyasası araçları, para piyasası araçları, mevduat, iştirakler.</li><li><strong>Asgari %51 kuralı:</strong> Portföy değerinin en az %51'i gayrimenkul ve gayrimenkule dayalı haklardan oluşmalı.</li><li><strong>Tek gayrimenkul/proje sınırı:</strong> Kurul'ca belirlenen oran aşılamaz. Yabancı gayrimenkul: portföyün en fazla %49'u.</li><li><strong>Boş arsa/arazi:</strong> Portföy değerinin %20'sini aşamaz (genel GYO için).</li></ul>"
+          "heading": "GYO (gayrimenkul yatırım ortaklığı) Portföy Yapısı ve Kısıtlar",
+          "content": "<ul><li><strong>Portföy bileşenleri:</strong> Gayrimenkuller, gayrimenkul projeleri, gayrimenkule dayalı haklar, altyapı yatırımları, sermaye piyasası araçları, para piyasası araçları, mevduat, iştirakler.</li><li><strong>Asgari %51 kuralı:</strong> Portföy değerinin en az %51'i gayrimenkul ve gayrimenkule dayalı haklardan oluşmalı.</li><li><strong>Tek gayrimenkul/proje sınırı:</strong> Kurul'ca belirlenen oran aşılamaz. Yabancı gayrimenkul: portföyün en fazla %49'u.</li><li><strong>Boş arsa/arazi:</strong> Portföy değerinin %20'sini aşamaz (genel GYO (gayrimenkul yatırım ortaklığı) için).</li></ul>"
         },
         {
-          "heading": "GYO'ların Yapamayacakları İşler",
-          "content": "<ul><li>Otel, hastane, alışveriş merkezi vb. tesisleri bizzat işletmek (inşaat müteahhidi sıfatıyla inşa edilebilir).</li><li>Portföydeki amaçlar dışında ticaret yapmak.</li><li>Portföyünde bulunan gayrimenkuller üzerinden bireysel finansal kiralama yapmak.</li><li>Başka şirketlere, GYO veya GYF'lere katılım amacı dışında iştirak etmek.</li><li>Hazine garantisi olmaksızın türev araçlarda uzun vadeli pozisyon almak.</li><li><strong>Kâr dağıtımı:</strong> Net dönem kârının Kurul'ca belirlenen oranı (genellikle en az %20) nakit kâr payı olarak dağıtılmalıdır.</li></ul>"
+          "heading": "GYO (gayrimenkul yatırım ortaklığı)'ların Yapamayacakları İşler",
+          "content": "<ul><li>Otel, hastane, alışveriş merkezi vb. tesisleri bizzat işletmek (inşaat müteahhidi sıfatıyla inşa edilebilir).</li><li>Portföydeki amaçlar dışında ticaret yapmak.</li><li>Portföyünde bulunan gayrimenkuller üzerinden bireysel finansal kiralama yapmak.</li><li>Başka şirketlere, GYO (gayrimenkul yatırım ortaklığı) veya GYF (gayrimenkul yatırım fonu)'lere katılım amacı dışında iştirak etmek.</li><li>Hazine garantisi olmaksızın türev araçlarda uzun vadeli pozisyon almak.</li><li><strong>Kâr dağıtımı:</strong> Net dönem kârının Kurul'ca belirlenen oranı (genellikle en az %20) nakit kâr payı olarak dağıtılmalıdır.</li></ul>"
         }
       ]
     },
@@ -36984,21 +36984,21 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Fon Türleri Özet Tablosu",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Fon Türü</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Ana Yatırım</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Yatırımcı</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Para piyasası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kısa vadeli borçlanma araçları</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Hisse senedi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ağırlıklı pay senetleri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Katılım</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faizsiz araçlar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Serbest fon</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Geniş yetki; kaldıraçlı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nitelikli</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Garantili/koruma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Belirli vade; minimum getiri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>BYF</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Endeks takip; borsada işlem</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Fon Türü</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Ana Yatırım</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Yatırımcı</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Para piyasası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kısa vadeli borçlanma araçları</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Hisse senedi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ağırlıklı pay senetleri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Katılım</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faizsiz araçlar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Serbest fon</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Geniş yetki; kaldıraçlı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nitelikli</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Garantili/koruma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Belirli vade; minimum getiri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>BYF (borsa yatırım fonu)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Endeks takip; borsada işlem</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel</td></tr></table>"
         },
         {
-          "heading": "BYF — Birincil ve İkincil Piyasa",
-          "content": "<ul><li><strong>Birincil piyasa:</strong> Yetkili katılımcılar (authorized participants) aracılığıyla ayni oluşturma/geri alma (in-kind creation/redemption). Minimum lot: belirlenen sepet büyüklüğü.</li><li><strong>İkincil piyasa:</strong> Borsada hisse senedi gibi sürekli işlem; piyasa yapıcı zorunlu.</li><li><strong>Takip farkı:</strong> BYF piyasa fiyatı ile izlenen endeks arasındaki fark. Takip hatası: izleme sapmasının standart sapması.</li><li><strong>Replikasyon yöntemleri:</strong> Tam replikasyon (tüm hisseler alınır), örnekleme yöntemi, sentetik replikasyon (swap kullanımı).</li></ul>"
+          "heading": "BYF (borsa yatırım fonu) — Birincil ve İkincil Piyasa",
+          "content": "<ul><li><strong>Birincil piyasa:</strong> Yetkili katılımcılar (authorized participants) aracılığıyla ayni oluşturma/geri alma (in-kind creation/redemption). Minimum lot: belirlenen sepet büyüklüğü.</li><li><strong>İkincil piyasa:</strong> Borsada hisse senedi gibi sürekli işlem; piyasa yapıcı zorunlu.</li><li><strong>Takip farkı:</strong> BYF (borsa yatırım fonu) piyasa fiyatı ile izlenen endeks arasındaki fark. Takip hatası: izleme sapmasının standart sapması.</li><li><strong>Replikasyon yöntemleri:</strong> Tam replikasyon (tüm hisseler alınır), örnekleme yöntemi, sentetik replikasyon (swap kullanımı).</li></ul>"
         }
       ]
     },
     {
       "num": "07",
-      "title": "GYF, GSYF ve GSYO",
+      "title": "GYF (gayrimenkul yatırım fonu), GSYF ve GSYO",
       "sections": [
         {
-          "heading": "GYF, GSYF ve GSYO Karşılaştırması",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>GYF</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>GSYF</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>GSYO</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yapı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fon (tüzel kişiliksiz)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fon (tüzel kişiliksiz)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ortaklık (AŞ)</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yatırımcı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nitelikli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nitelikli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Halka açık</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Odak</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gayrimenkul</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Girişim şirketi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Girişim şirketi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Min. portföy oranı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>%51 gayrimenkul</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>%80 girişim yatırımı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>%51 girişim yatırımı</td></tr></table>"
+          "heading": "GYF (gayrimenkul yatırım fonu), GSYF ve GSYO Karşılaştırması",
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>GYF (gayrimenkul yatırım fonu)</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>GSYF</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>GSYO</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yapı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fon (tüzel kişiliksiz)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fon (tüzel kişiliksiz)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ortaklık (AŞ)</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yatırımcı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nitelikli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nitelikli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Halka açık</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Odak</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gayrimenkul</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Girişim şirketi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Girişim şirketi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Min. portföy oranı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>%51 gayrimenkul</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>%80 girişim yatırımı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>%51 girişim yatırımı</td></tr></table>"
         },
         {
           "heading": "GSYF Yatırım Komitesi ve Girişim Şirketi Tanımı",
@@ -37070,7 +37070,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "VİOP Sözleşme Kodlaması",
-          "content": "<ul><li><strong>Sözleşme kodu yapısı:</strong> Dayanak varlık kodu + Vade ayı/yılı + Tür (F:Vadeli, O:Opsiyon) + Seçenek (A:Amerikan, E:Avrupa). Örnek: XU030K2401F → BIST30 Ocak 2024 Vadeli İşlem.</li><li><strong>Amerikan vs Avrupa opsiyonu:</strong> Amerikan: vade sonuna kadar herhangi bir gün kullanılabilir. Avrupa: yalnızca vade sonunda kullanılabilir.</li><li><strong>Fiziki teslimat vs nakit uzlaşma:</strong> Pay vadeli işlemlerinde fiziki teslimat; endeks ve döviz vadeli işlemlerinde nakit uzlaşma.</li></ul>"
+          "content": "<ul><li><strong>Sözleşme kodu yapısı:</strong> Dayanak varlık kodu + Vade ayı/yılı + Tür (F:Vadeli, O:Opsiyon) + Seçenek (A:Amerikan, E:Avrupa). Örnek: XU030K2401F → BIS (uluslararası ödemeler bankası)T (borsa istanbul)30 Ocak 2024 Vadeli İşlem.</li><li><strong>Amerikan vs Avrupa opsiyonu:</strong> Amerikan: vade sonuna kadar herhangi bir gün kullanılabilir. Avrupa: yalnızca vade sonunda kullanılabilir.</li><li><strong>Fiziki teslimat vs nakit uzlaşma:</strong> Pay vadeli işlemlerinde fiziki teslimat; endeks ve döviz vadeli işlemlerinde nakit uzlaşma.</li></ul>"
         },
         {
           "heading": "Teminat ve Uzlaşma Sistemi",
@@ -37084,7 +37084,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "OTC ve Organize Piyasa Karşılaştırması",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Organize Piyasa</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Tezgahüstü (OTC)</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Merkezi yapı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Var</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yok</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Standartlaşma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yüksek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Düşük / esnek</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Takas güvencesi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>MKT (Takasbank)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Karşı taraf riski mevcut</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Şeffaflık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yüksek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Düşük</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Organize Piyasa</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Tezgahüstü (OTC)</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Merkezi yapı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Var</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yok</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Standartlaşma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yüksek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Düşük / esnek</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Takas güvencesi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>MKT (Takasbank (istanbul takas ve saklama bankası))</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Karşı taraf riski mevcut</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Şeffaflık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yüksek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Düşük</td></tr></table>"
         },
         {
           "heading": "TCMB (türkiye cumhuriyet merkez bankası) Para Politikası Araçları",
@@ -37094,15 +37094,15 @@ window.__EXT = {
     },
     {
       "num": "06",
-      "title": "Bankalararası Piyasalar ve Takasbank Piyasaları",
+      "title": "Bankalararası Piyasalar ve Takasbank (istanbul takas ve saklama bankası) Piyasaları",
       "sections": [
         {
-          "heading": "Takasbank Para Piyasası (TPP) — Ayrıntılı",
-          "content": "<ul><li><strong>TPP yapısı:</strong> 1 Ekim 1996'dan bu yana faaliyette; organize piyasa; Takasbank garantisi altında. Alış-satış kotasyonu vermez; üyeler kendi aralarında eşleşir.</li><li><strong>Teminat türleri (TPP):</strong> DİBS, hazine bonosu, banka bonoları, nakit TL/döviz. Her varlık türü için farklı haircut oranları uygulanır.</li><li><strong>Garanti fonu:</strong> TPP ve ÖPP'de temerrüt durumlarına karşı kolektif güvence; katkı payı üye riskiyle orantılı.</li><li><strong>İşlem limitleri:</strong> Her üye için sermaye bazlı limit; üyenin taahhüt ettiği sermaye tutarı belirleyici.</li></ul>"
+          "heading": "Takasbank (istanbul takas ve saklama bankası) Para Piyasası (TPP) — Ayrıntılı",
+          "content": "<ul><li><strong>TPP yapısı:</strong> 1 Ekim 1996'dan bu yana faaliyette; organize piyasa; Takasbank (istanbul takas ve saklama bankası) garantisi altında. Alış-satış kotasyonu vermez; üyeler kendi aralarında eşleşir.</li><li><strong>Teminat türleri (TPP):</strong> DİBS, hazine bonosu, banka bonoları, nakit TL/döviz. Her varlık türü için farklı haircut oranları uygulanır.</li><li><strong>Garanti fonu:</strong> TPP ve ÖPP'de temerrüt durumlarına karşı kolektif güvence; katkı payı üye riskiyle orantılı.</li><li><strong>İşlem limitleri:</strong> Her üye için sermaye bazlı limit; üyenin taahhüt ettiği sermaye tutarı belirleyici.</li></ul>"
         },
         {
           "heading": "Ödünç Pay Piyasası (ÖPP) — Ayrıntılı",
-          "content": "<ul><li><strong>Vade seçenekleri:</strong> 1, 2, 3, 6, 9 ve 12 ay. İşlem süresi uzatılabilir.</li><li><strong>Komisyon formülü:</strong> Ödünç alınan kıymetin piyasa değeri × oran × gün/365. Komisyon oranı emir rekabeti ile belirlenir.</li><li><strong>Kâr payı/temettü:</strong> Ödünç döneminde pay ödünç alanda iken temettü dağıtılırsa; ödünç alan tazminat ödemekle yükümlü.</li><li><strong>Temerrüt:</strong> Vade sonunda iade yapılamazsa Takasbank piyasadan kıymeti temin eder; fark ödünç alandan tahsil edilir.</li></ul>"
+          "content": "<ul><li><strong>Vade seçenekleri:</strong> 1, 2, 3, 6, 9 ve 12 ay. İşlem süresi uzatılabilir.</li><li><strong>Komisyon formülü:</strong> Ödünç alınan kıymetin piyasa değeri × oran × gün/365. Komisyon oranı emir rekabeti ile belirlenir.</li><li><strong>Kâr payı/temettü:</strong> Ödünç döneminde pay ödünç alanda iken temettü dağıtılırsa; ödünç alan tazminat ödemekle yükümlü.</li><li><strong>Temerrüt:</strong> Vade sonunda iade yapılamazsa Takasbank (istanbul takas ve saklama bankası) piyasadan kıymeti temin eder; fark ödünç alandan tahsil edilir.</li></ul>"
         }
       ]
     },
@@ -37112,7 +37112,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "TEFAS'ın İşleyişi",
-          "content": "<ul><li><strong>Alım talimatı akışı:</strong> Müşteri → dağıtım kuruluşu → TEFAS sistemi → PYŞ. Emir kesilme saatine kadar (genellikle 13:30) iletilen talimatlar o günün fiyatıyla geçerlidir.</li><li><strong>Netleştirme:</strong> Gün sonunda tüm üyelerin alım-satım emirleri netleştirilir. Borçlu üye net nakit transfer eder; alacaklı üye kıymet alır.</li><li><strong>Fiyat:</strong> Birim katılma payı değeri (BKPd) günlük KAP'ta ilan edilir. Alım-satım bu fiyat üzerinden gerçekleşir.</li><li><strong>TEFAS'ta işlem göremeyecek fonlar:</strong> Serbest fonların bazı alt tipleri; yabancı fon payları TEFAS aracılığıyla alınıp satılamaz.</li></ul>"
+          "content": "<ul><li><strong>Alım talimatı akışı:</strong> Müşteri → dağıtım kuruluşu → TEFAS sistemi → PYŞ. Emir kesilme saatine kadar (genellikle 13:30) iletilen talimatlar o günün fiyatıyla geçerlidir.</li><li><strong>Netleştirme:</strong> Gün sonunda tüm üyelerin alım-satım emirleri netleştirilir. Borçlu üye net nakit transfer eder; alacaklı üye kıymet alır.</li><li><strong>Fiyat:</strong> Birim katılma payı değeri (BKPd) günlük KAP (kamuyu aydınlatma platformu)'ta ilan edilir. Alım-satım bu fiyat üzerinden gerçekleşir.</li><li><strong>TEFAS'ta işlem göremeyecek fonlar:</strong> Serbest fonların bazı alt tipleri; yabancı fon payları TEFAS aracılığıyla alınıp satılamaz.</li></ul>"
         },
         {
           "heading": "TEFAS Temerrüt ve Komisyon",
@@ -37150,7 +37150,7 @@ window.__EXT = {
         },
         {
           "heading": "Satış Yöntemleri ve Tahsisat Kuralları",
-          "content": "<ul><li><strong>Fiyat aralığı ile talep toplama:</strong> Tavan fiyat, taban fiyatın en fazla <strong>%20</strong> fazlası olabilir. Talep toplanmadan nihai fiyat belirlenemez.</li><li><strong>Sabit fiyatla talep toplama:</strong> Sabit ilan edilen fiyat; değiştirilemiyor.</li><li><strong>İlk halka arzda tahsisat zorunlulukları:</strong><br>→ Yurt içi bireysel yatırımcı payı: en az <strong>%10</strong><br>→ Yurt dışı yatırımcılara satış: ihraç belgesi yeterliyse izahname gerekmez<br>→ Çalışanlara: serbest olarak belirlenebilir</li><li><strong>Dağıtım listesi:</strong> Satış tamamlandığında en geç 2 iş günü içinde KAP'ta açıklanır.</li></ul>"
+          "content": "<ul><li><strong>Fiyat aralığı ile talep toplama:</strong> Tavan fiyat, taban fiyatın en fazla <strong>%20</strong> fazlası olabilir. Talep toplanmadan nihai fiyat belirlenemez.</li><li><strong>Sabit fiyatla talep toplama:</strong> Sabit ilan edilen fiyat; değiştirilemiyor.</li><li><strong>İlk halka arzda tahsisat zorunlulukları:</strong><br>→ Yurt içi bireysel yatırımcı payı: en az <strong>%10</strong><br>→ Yurt dışı yatırımcılara satış: ihraç belgesi yeterliyse izahname gerekmez<br>→ Çalışanlara: serbest olarak belirlenebilir</li><li><strong>Dağıtım listesi:</strong> Satış tamamlandığında en geç 2 iş günü içinde KAP (kamuyu aydınlatma platformu)'ta açıklanır.</li></ul>"
         }
       ]
     },
@@ -37192,7 +37192,7 @@ window.__EXT = {
         },
         {
           "heading": "Gayrimenkul Sertifikası vs Diğer Araçlarla Karşılaştırma",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Araç</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Dayanak</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Temel Fark</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gayrimenkul sertifikası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Belirli proje/bağımsız bölüm</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Teslim yükümlülüğü; taşınmaz mülkiyet hakkı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>GYO payı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çeşitli gayrimenkul portföyü</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ortaklık hakkı; belli bir mülk yok</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kira sertifikası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Varlık geliri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faizsiz; getiri kira geliri</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Araç</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Dayanak</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Temel Fark</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gayrimenkul sertifikası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Belirli proje/bağımsız bölüm</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Teslim yükümlülüğü; taşınmaz mülkiyet hakkı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>GYO (gayrimenkul yatırım ortaklığı) payı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çeşitli gayrimenkul portföyü</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ortaklık hakkı; belli bir mülk yok</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kira sertifikası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Varlık geliri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faizsiz; getiri kira geliri</td></tr></table>"
         }
       ]
     },
@@ -37354,7 +37354,7 @@ window.__EXT = {
         },
         {
           "heading": "Borçlanmaya Dayalı Kitle Fonlaması",
-          "content": "<ul><li><strong>Tanım:</strong> Borçlanma aracı karşılığında platformlar aracılığıyla halktan para toplanması. Girişimci bir projeyi borçlanarak finanse eder.</li><li><strong>Yatırım sınırları:</strong> Genel yatırımcı tek bir girişimcide yıllık en fazla 20.000 TL; toplam yıllık 60.000 TL. Bankacılık mevzuatı uygulanmaz.</li><li><strong>Risk değerlendirmesi:</strong> Platform borçlanmaya dayalı kampanyalarda girişimin geri ödeme kapasitesini değerlendirmek zorundadır; MKK'nın Yatırımcı Risk Takip Sistemi ile entegrasyon zorunlu.</li></ul>"
+          "content": "<ul><li><strong>Tanım:</strong> Borçlanma aracı karşılığında platformlar aracılığıyla halktan para toplanması. Girişimci bir projeyi borçlanarak finanse eder.</li><li><strong>Yatırım sınırları:</strong> Genel yatırımcı tek bir girişimcide yıllık en fazla 20.000 TL; toplam yıllık 60.000 TL. Bankacılık mevzuatı uygulanmaz.</li><li><strong>Risk değerlendirmesi:</strong> Platform borçlanmaya dayalı kampanyalarda girişimin geri ödeme kapasitesini değerlendirmek zorundadır; MKK (merkezi kayıt kuruluşu)'nın Yatırımcı Risk Takip Sistemi ile entegrasyon zorunlu.</li></ul>"
         },
         {
           "heading": "Platform Yükümlülükleri ve Yasakları",
@@ -37376,7 +37376,7 @@ window.__EXT = {
         },
         {
           "heading": "Kayıt ve Sorumluluk",
-          "content": "<ul><li>Görüntülü görüşme kayıtları ve kimlik doğrulama belgeleri en az 10 yıl saklanmalı.</li><li>Uzaktan kimlik tespiti sırasında elde edilen veriler yalnızca kimlik doğrulama amacıyla kullanılabilir; üçüncü kişilerle paylaşılamaz (KVKK uyumu zorunlu).</li><li>Uzaktan kimlik tespitinin başarısız olması ya da şüpheli durumda süreç sonlandırılır; müşteriye şube başvurusu önerilir.</li><li>Tüm sorumluluk aracı kuruma aittir; hizmet aldığı teknoloji sağlayıcı bile olsa sorumluluk devredilemiyor.</li></ul>"
+          "content": "<ul><li>Görüntülü görüşme kayıtları ve kimlik doğrulama belgeleri en az 10 yıl saklanmalı.</li><li>Uzaktan kimlik tespiti sırasında elde edilen veriler yalnızca kimlik doğrulama amacıyla kullanılabilir; üçüncü kişilerle paylaşılamaz (KVKK (kişisel verilerin korunması kanunu) uyumu zorunlu).</li><li>Uzaktan kimlik tespitinin başarısız olması ya da şüpheli durumda süreç sonlandırılır; müşteriye şube başvurusu önerilir.</li><li>Tüm sorumluluk aracı kuruma aittir; hizmet aldığı teknoloji sağlayıcı bile olsa sorumluluk devredilemiyor.</li></ul>"
         }
       ]
     },
@@ -37399,7 +37399,7 @@ window.__EXT = {
       ]
     }
   ],
-  "UY_MASAK (mali suçları araştırma kurulu)": [
+  "UY_MASAK": [
     {
       "num": "01",
       "title": "MASAK (mali suçları araştırma kurulu)'ın Kuruluşu ve Hukuki Statüsü",
@@ -37510,7 +37510,7 @@ window.__EXT = {
         },
         {
           "heading": "Kripto Varlıklar Üzerinden Aklama",
-          "content": "<ul><li><strong>Mixing/Tumbling:</strong> Birden fazla kullanıcının kripto parası karıştırılarak izlenebilirlik azaltılır.</li><li><strong>Privacy coins:</strong> Monero, Zcash gibi gizlilik odaklı kripto paralar — Türkiye'de 2024'ten itibaren yasaklandı.</li><li><strong>Chain hopping:</strong> Farklı blok zincirler arasında geçiş yaparak iz kaybettirme.</li><li><strong>DeFi protokolleri:</strong> Merkeziyetsiz finans platformları aracılığıyla düzenleme dışı transfer.</li></ul>"
+          "content": "<ul><li><strong>Mixing/Tumbling:</strong> Birden fazla kullanıcının kripto parası karıştırılarak izlenebilirlik azaltılır.</li><li><strong>Privacy coins:</strong> Monero, Zcash gibi gizlilik odaklı kripto paralar — Türkiye'de 2024'ten itibaren yasaklandı.</li><li><strong>Chain hopping:</strong> Farklı blok zincirler arasında geçiş yaparak iz kaybettirme.</li><li><strong>DeFi (merkeziyetsiz finans) protokolleri:</strong> Merkeziyetsiz finans platformları aracılığıyla düzenleme dışı transfer.</li></ul>"
         }
       ]
     },
@@ -37620,7 +37620,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Türkiye Ödeme Sistemi Ekosistemi",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kuruluş</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Sistem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>İşlev</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>TCMB (türkiye cumhuriyet merkez bankası)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>EFT, EMKT, FAST</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalar arası transfer ve menkul kıymet</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Takasbank</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Türev takas</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Borsa işlemleri takas ve mutabakat</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>MKK</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Merkezi saklama</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Menkul kıymet saklama ve kayıt</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>BKM</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kart ödemeleri</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalararası kart işlemleri</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kuruluş</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Sistem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>İşlev</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>TCMB (türkiye cumhuriyet merkez bankası)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>EFT, EMKT, FAST</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalar arası transfer ve menkul kıymet</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Takasbank (istanbul takas ve saklama bankası)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Türev takas</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Borsa işlemleri takas ve mutabakat</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>MKK (merkezi kayıt kuruluşu)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Merkezi saklama</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Menkul kıymet saklama ve kayıt</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>BKM</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kart ödemeleri</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalararası kart işlemleri</td></tr></table>"
         }
       ]
     },
