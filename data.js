@@ -19,12 +19,12 @@ window.__C = {
       {
         "num": "04",
         "title": "Anonim Şirketin Kuruluşu",
-        "body": "<ul><li><strong>Kurucu tanımı (TTK md. 337):</strong> Pay taahhüt edip esas sözleşmeyi imzalayan gerçek ve tüzel kişiler. En az 1 kurucu yeterli.</li><li><strong>Ani kuruluş:</strong> Tüm paylar kurucular tarafından taahhüt edilir; ödeme taahhüdü tescille başlar. En sık kullanılan yöntem.</li><li><strong>Halka arz taahhüdü yoluyla kuruluş:</strong> Payların bir kısmı halka arz edilir; SPK düzenlemeleri uygulanır.</li><li><strong>Kuruluşta izin:</strong> Bankacılık, sigortacılık gibi düzenlenmiş sektörlerde Bakanlar Kurulu/ilgili bakanlık izni gerekir.</li><li><strong>Tescil ve tüzel kişilik:</strong> Ticaret siciline tescille tüzel kişilik kazanılır. Tescilden önce şirket adına yapılan işlemler kurucuları bağlar (TTK md. 355).</li><li><strong>Kanuna karşı hile / devralma:</strong> Kuruluştan sonraki 2 yıl içinde gerçek değerinin %10'undan fazlasına tekabül eden ayni sermaye veya şirket devralma işlemleri GK onayı ve değerleme zorunluluğuna tabi.</li></ul>"
+        "body": "<ul><li><strong>Kurucu tanımı (TTK md. 337):</strong> Pay taahhüt edip esas sözleşmeyi imzalayan gerçek ve tüzel kişiler. En az 1 kurucu yeterli.</li><li><strong>Ani kuruluş:</strong> Tüm paylar kurucular tarafından taahhüt edilir; ödeme taahhüdü tescille başlar. En sık kullanılan yöntem.</li><li><strong>Halka arz taahhüdü yoluyla kuruluş:</strong> Payların bir kısmı halka arz edilir; SPK (sermaye piyasası kurulu) düzenlemeleri uygulanır.</li><li><strong>Kuruluşta izin:</strong> Bankacılık, sigortacılık gibi düzenlenmiş sektörlerde Bakanlar Kurulu/ilgili bakanlık izni gerekir.</li><li><strong>Tescil ve tüzel kişilik:</strong> Ticaret siciline tescille tüzel kişilik kazanılır. Tescilden önce şirket adına yapılan işlemler kurucuları bağlar (TTK md. 355).</li><li><strong>Kanuna karşı hile / devralma:</strong> Kuruluştan sonraki 2 yıl içinde gerçek değerinin %10'undan fazlasına tekabül eden ayni sermaye veya şirket devralma işlemleri GK onayı ve değerleme zorunluluğuna tabi.</li></ul>"
       },
       {
         "num": "05",
         "title": "Yönetim Kurulu",
-        "body": "<ul><li><strong>Yapı (TTK md. 359):</strong> En az 1 üye; tamamı gerçek kişilerden oluşur. Pay sahibi olması zorunlu değil. SPK'ya tabi halka açık şirketlerde bağımsız üye zorunluluğu var.</li><li><strong>Devredilemez ve vazgeçilemez görev ve yetkiler (TTK md. 375):</strong> Şirketin yönetimi, temsil yetkisinin devri, muhasebe sistemi kurma, finansal tablolar, genel kurulun toplanması ve tasfiye. Bu yetkiler devredilemez.</li><li><strong>Temsil yetkisi:</strong> YK şirketi temsil eder. Temsil yetkisi yazılı olarak iç yönergede belirtilen kişilere devredilebilir (TTK md. 370-371). 3. kişilere karşı imzaların tescil edilmesi gerekir.</li><li><strong>YK üyelerinin borçları:</strong> Özen ve bağlılık borcu. Rekabet yasağı (TTK md. 396). Şirkete borçlanma yasağı (TTK md. 395).</li><li><strong>YK üyelerinin sorumluluğu (TTK md. 553):</strong> Kanundan veya esas sözleşmeden doğan yükümlülüklerin ihlali → şirkete, pay sahiplerine ve alacaklılara karşı tazminat sorumluluğu. İbra ile sorumluluktan kurtulma.</li></ul>"
+        "body": "<ul><li><strong>Yapı (TTK md. 359):</strong> En az 1 üye; tamamı gerçek kişilerden oluşur. Pay sahibi olması zorunlu değil. SPK (sermaye piyasası kurulu)'ya tabi halka açık şirketlerde bağımsız üye zorunluluğu var.</li><li><strong>Devredilemez ve vazgeçilemez görev ve yetkiler (TTK md. 375):</strong> Şirketin yönetimi, temsil yetkisinin devri, muhasebe sistemi kurma, finansal tablolar, genel kurulun toplanması ve tasfiye. Bu yetkiler devredilemez.</li><li><strong>Temsil yetkisi:</strong> YK şirketi temsil eder. Temsil yetkisi yazılı olarak iç yönergede belirtilen kişilere devredilebilir (TTK md. 370-371). 3. kişilere karşı imzaların tescil edilmesi gerekir.</li><li><strong>YK üyelerinin borçları:</strong> Özen ve bağlılık borcu. Rekabet yasağı (TTK md. 396). Şirkete borçlanma yasağı (TTK md. 395).</li><li><strong>YK üyelerinin sorumluluğu (TTK md. 553):</strong> Kanundan veya esas sözleşmeden doğan yükümlülüklerin ihlali → şirkete, pay sahiplerine ve alacaklılara karşı tazminat sorumluluğu. İbra ile sorumluluktan kurtulma.</li></ul>"
       },
       {
         "num": "06",
@@ -403,7 +403,7 @@ window.__C = {
           "o": [
             "A) Otomatik olarak sona erer; tescil gerekmez",
             "B) Mahkeme tarafından fesih kararı verilir; herhangi bir ilgili kişi mahkemeden fesih talep edebilir",
-            "C) Yalnızca SPK kararıyla feshedilir",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) kararıyla feshedilir",
             "D) YK kararıyla sona erer"
           ],
           "a": 1,
@@ -462,7 +462,7 @@ window.__C = {
             "D) GK kararları ancak tüm pay sahipleri katılırsa geçerlidir"
           ],
           "a": 1,
-          "e": "TTK md. 425-426: bir pay sahibi GK toplantısına bizzat katılamıyorsa yazılı bir vekâletname ile bir temsilci atayabilir. Ayrıca elektronik genel kurul sistemi (EGKS) üzerinden uzaktan katılım ve oy kullanma imkânı mevcuttur. Halka açık şirketlerde SPK mevzuatı posta yoluyla oy kullanımına da imkân tanıyabilir."
+          "e": "TTK md. 425-426: bir pay sahibi GK toplantısına bizzat katılamıyorsa yazılı bir vekâletname ile bir temsilci atayabilir. Ayrıca elektronik genel kurul sistemi (EGKS) üzerinden uzaktan katılım ve oy kullanma imkânı mevcuttur. Halka açık şirketlerde SPK (sermaye piyasası kurulu) mevzuatı posta yoluyla oy kullanımına da imkân tanıyabilir."
         },
         {
           "q": "Anonim şirkette 'sermaye azaltımında' alacaklıları korumak için öngörülen prosedür nedir?",
@@ -503,12 +503,12 @@ window.__C = {
           "q": "Anonim şirkette 'kamuyu aydınlatma' yükümlülüğü kapsamında hangi belgeler zorunlu olarak hazırlanır?",
           "o": [
             "A) Yalnızca yıllık faaliyet raporu",
-            "B) Finansal tablolar, yıllık faaliyet raporu ve özel durumlar açıklamaları; halka açık şirketlerde SPK mevzuatı ek yükümlülükler ekler",
+            "B) Finansal tablolar, yıllık faaliyet raporu ve özel durumlar açıklamaları; halka açık şirketlerde SPK (sermaye piyasası kurulu) mevzuatı ek yükümlülükler ekler",
             "C) Yalnızca nakit akış tablosu",
             "D) Yönetim kurulunun toplantı tutanakları"
           ],
           "a": 1,
-          "e": "TTK md. 516-520: YK'nın düzenleme yükümlülüğünde bilanço, gelir tablosu ve yıllık faaliyet raporu zorunlu finansal belgelerdir. Faaliyet raporunda şirketin mali durumu, çevre ve sosyal etkileri yer alır. Halka açık şirketlerde SPK mevzuatı; kamuyu aydınlatma platformu (KAP), özel durum açıklamaları ve içsel bilgilere ilişkin ek yükümlülükler öngörmektedir."
+          "e": "TTK md. 516-520: YK'nın düzenleme yükümlülüğünde bilanço, gelir tablosu ve yıllık faaliyet raporu zorunlu finansal belgelerdir. Faaliyet raporunda şirketin mali durumu, çevre ve sosyal etkileri yer alır. Halka açık şirketlerde SPK (sermaye piyasası kurulu) mevzuatı; kamuyu aydınlatma platformu (KAP), özel durum açıklamaları ve içsel bilgilere ilişkin ek yükümlülükler öngörmektedir."
         },
         {
           "q": "YK toplantı kararlarının 'geçersizliği' için TTK'da hangi yaptırım öngörülmüştür?",
@@ -580,12 +580,12 @@ window.__C = {
           "q": "'Esas sözleşmenin değiştirilmesi' genel kurul kararının yanı sıra hangi ek koşul gerektirebilir?",
           "o": [
             "A) Yalnızca GK kararı yeterlidir; ek koşul yoktur",
-            "B) Tescil zorunluluğu; bazı konularda Bakanlık veya SPK onayı; imtiyaz ve azınlık haklarını etkileyen değişikliklerde ek yetersayılar",
+            "B) Tescil zorunluluğu; bazı konularda Bakanlık veya SPK (sermaye piyasası kurulu) onayı; imtiyaz ve azınlık haklarını etkileyen değişikliklerde ek yetersayılar",
             "C) Yalnızca pay sahipleri oy birliği kararı",
             "D) Esas sözleşme hiçbir zaman değiştirilemez"
           ],
           "a": 1,
-          "e": "Esas sözleşme değişikliği GK kararıyla olur; ancak ek koşullar da bulunmaktadır: değişikliğin ticaret siciline tescil edilmesi zorunludur (tescilden önce yürürlüğe girmez); bazı konularda (bankacılık, sigorta vb.) ilgili bakanlık veya SPK onayı gerekir; imtiyazları kaldıran veya azınlık haklarını daraltan değişiklikler için daha yüksek yetersayılar öngörülmüştür."
+          "e": "Esas sözleşme değişikliği GK kararıyla olur; ancak ek koşullar da bulunmaktadır: değişikliğin ticaret siciline tescil edilmesi zorunludur (tescilden önce yürürlüğe girmez); bazı konularda (bankacılık, sigorta vb.) ilgili bakanlık veya SPK (sermaye piyasası kurulu) onayı gerekir; imtiyazları kaldıran veya azınlık haklarını daraltan değişiklikler için daha yüksek yetersayılar öngörülmüştür."
         },
         {
           "q": "Anonim şirkette 'tasfiye payı hakkı' nedir?",
@@ -613,12 +613,12 @@ window.__C = {
           "q": "Anonim şirkette 'halka arz taahhüdü yoluyla kuruluş' neden ani kuruluştan farklıdır?",
           "o": [
             "A) Halka arz yoluyla kuruluşta pay sahipleri daha az sorumluluk taşır",
-            "B) Payların bir kısmı kamuya açık bir arzla satılır; SPK düzenlemeleri, izahname zorunluluğu ve daha uzun süreç uygulanır",
+            "B) Payların bir kısmı kamuya açık bir arzla satılır; SPK (sermaye piyasası kurulu) düzenlemeleri, izahname zorunluluğu ve daha uzun süreç uygulanır",
             "C) Halka arz yoluyla kuruluş anonim şirkette yasaktır",
             "D) İkisi arasında pratikte hiçbir fark yoktur"
           ],
           "a": 1,
-          "e": "Halka arz taahhüdü yoluyla kuruluş, ani kuruluştan farklı olarak payların bir kısmının veya tamamının ilan yoluyla kamuya arz edilerek kuruluş sermayesinin tamamlanmasını öngörür. Bu kuruluş türünde SPK mevzuatı uygulanır, izahname zorunluluğu doğar ve daha kapsamlı kamuyu aydınlatma yükümlülükleri ortaya çıkar."
+          "e": "Halka arz taahhüdü yoluyla kuruluş, ani kuruluştan farklı olarak payların bir kısmının veya tamamının ilan yoluyla kamuya arz edilerek kuruluş sermayesinin tamamlanmasını öngörür. Bu kuruluş türünde SPK (sermaye piyasası kurulu) mevzuatı uygulanır, izahname zorunluluğu doğar ve daha kapsamlı kamuyu aydınlatma yükümlülükleri ortaya çıkar."
         },
         {
           "q": "Sürdürülebilir finans bağlamında 'ESG' kısaltmasının açılımı ve şirket yönetimiyle ilişkisi nedir?",
@@ -906,7 +906,7 @@ window.__C = {
             "D) Şirketin kurucu ortakları belirler"
           ],
           "a": 1,
-          "e": "TTK md. 399: bağımsız denetçi genel kurul tarafından seçilir. Uygulamada denetim komitesi veya YK, belirli kriterlere göre bir veya birkaç aday önerir; GK bu öneriler arasından seçim yapar ya da onaylar. SPK'ya tabi şirketlerde denetim komitesinin önerisinin önemi daha belirgindir."
+          "e": "TTK md. 399: bağımsız denetçi genel kurul tarafından seçilir. Uygulamada denetim komitesi veya YK, belirli kriterlere göre bir veya birkaç aday önerir; GK bu öneriler arasından seçim yapar ya da onaylar. SPK (sermaye piyasası kurulu)'ya tabi şirketlerde denetim komitesinin önerisinin önemi daha belirgindir."
         },
         {
           "q": "'Birleşme raporu' nedir ve niçin zorunludur?",
@@ -1035,12 +1035,12 @@ window.__C = {
           "q": "Anonim şirkette 'borçlanma araçlarının (tahvil, bono) çıkarılması' yetkisi kime aittir?",
           "o": [
             "A) Her zaman GK tarafından kullanılır",
-            "B) YK, GK'dan yetki almak kaydıyla tahvil ve diğer borçlanma araçlarını ihraç edebilir; SPK'ya tabi şirketlerde izahname zorunludur",
+            "B) YK, GK'dan yetki almak kaydıyla tahvil ve diğer borçlanma araçlarını ihraç edebilir; SPK (sermaye piyasası kurulu)'ya tabi şirketlerde izahname zorunludur",
             "C) Yalnızca halka açık şirketler borçlanma aracı çıkarabilir",
-            "D) SPK izni tek başına yeterlidir; GK yetkisi aranmaz"
+            "D) SPK (sermaye piyasası kurulu) izni tek başına yeterlidir; GK yetkisi aranmaz"
           ],
           "a": 1,
-          "e": "TTK md. 504-505: YK, GK'dan yetki almak kaydıyla tahvil ve benzeri borçlanma araçları ihraç edebilir. SPK'ya tabi anonim şirketlerde izahname veya ihraç belgesi hazırlanması ve SPK onayı zorunludur. Bu ihraçlar şirkete alternatif finansman kaynağı sağlarken pay sahibi olmaksızın yatırım imkânı sunar."
+          "e": "TTK md. 504-505: YK, GK'dan yetki almak kaydıyla tahvil ve benzeri borçlanma araçları ihraç edebilir. SPK (sermaye piyasası kurulu)'ya tabi anonim şirketlerde izahname veya ihraç belgesi hazırlanması ve SPK (sermaye piyasası kurulu) onayı zorunludur. Bu ihraçlar şirkete alternatif finansman kaynağı sağlarken pay sahibi olmaksızın yatırım imkânı sunar."
         },
         {
           "q": "Anonim şirkette 'tasfiye payı dağıtımı' için sıralama nedir?",
@@ -1165,17 +1165,17 @@ window.__C = {
       {
         "num": "02",
         "title": "MKK — Merkezi Kayıt Kuruluşu",
-        "body": "<ul><li><strong>Sermaye sınırları:</strong> Takasbank max %75, BİST max %50, TSPB max %10.</li><li>Üyeler: Aracı kurumlar, bankalar, portföy yönetim şirketleri, ihraçcılar.</li><li>Hesap türleri: Yatırımcı hesabı, havuz hesabı, emanet hesabı.</li><li>Kaydileştirmede fiziksel senet iptal edilir; hak sahipliği MKK sicilinden belirlenir.</li><li>Hisse senetleri üzerine MKK nezdinde rehin tesis edilebilir.</li></ul><div class='highlight'>Üyelikten çıkarma: Koşulları yitiren üyenin üyeliği SPK kararıyla sona erdirilir.</div>"
+        "body": "<ul><li><strong>Sermaye sınırları:</strong> Takasbank max %75, BİST max %50, TSPB max %10.</li><li>Üyeler: Aracı kurumlar, bankalar, portföy yönetim şirketleri, ihraçcılar.</li><li>Hesap türleri: Yatırımcı hesabı, havuz hesabı, emanet hesabı.</li><li>Kaydileştirmede fiziksel senet iptal edilir; hak sahipliği MKK sicilinden belirlenir.</li><li>Hisse senetleri üzerine MKK nezdinde rehin tesis edilebilir.</li></ul><div class='highlight'>Üyelikten çıkarma: Koşulları yitiren üyenin üyeliği SPK (sermaye piyasası kurulu) kararıyla sona erdirilir.</div>"
       },
       {
         "num": "03",
         "title": "MTK / MKT Düzenlemeleri",
-        "body": "<ul><li><strong>Üyelik türleri:</strong> Genel Takas Üyesi (kendi + müşteri) · Doğrudan Takas Üyesi (yalnızca kendi).</li><li><strong>Temerrüt kaskadı:</strong> 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı.</li><li>MTK açık pozisyonları piyasada kapatma yetkisine sahiptir.</li><li>Yabancı MTK için SPK onayı gereklidir.</li></ul>"
+        "body": "<ul><li><strong>Üyelik türleri:</strong> Genel Takas Üyesi (kendi + müşteri) · Doğrudan Takas Üyesi (yalnızca kendi).</li><li><strong>Temerrüt kaskadı:</strong> 1) Üye teminatı → 2) Üyenin GF katkısı → 3) Takasbank skin-in-the-game → 4) Diğer üyelerin GF katkısı.</li><li>MTK açık pozisyonları piyasada kapatma yetkisine sahiptir.</li><li>Yabancı MTK için SPK (sermaye piyasası kurulu) onayı gereklidir.</li></ul>"
       },
       {
         "num": "04",
         "title": "Portföy Saklama Hizmeti",
-        "body": "<ul><li>Saklayıcı: SPK yetkili bankalar ve Takasbank.</li><li><strong>Değişim bildirimi: En az 90 gün önceden yapılmalıdır.</strong></li><li>Operasyonel bağımsızlık zorunludur.</li><li>İhlal tespitinde saklayıcı derhal SPK'ya bildirim yapar.</li><li>Alt saklayıcı kullanılsa bile sorumluluk ana saklayıcıda kalır.</li></ul>"
+        "body": "<ul><li>Saklayıcı: SPK (sermaye piyasası kurulu) yetkili bankalar ve Takasbank.</li><li><strong>Değişim bildirimi: En az 90 gün önceden yapılmalıdır.</strong></li><li>Operasyonel bağımsızlık zorunludur.</li><li>İhlal tespitinde saklayıcı derhal SPK (sermaye piyasası kurulu)'ya bildirim yapar.</li><li>Alt saklayıcı kullanılsa bile sorumluluk ana saklayıcıda kalır.</li></ul>"
       },
       {
         "num": "05",
@@ -1325,12 +1325,12 @@ window.__C = {
           "q": "MTK/MKT olmak için ne gereklidir?",
           "o": [
             "A) Borsa üyeliği yeterlidir",
-            "B) SPK'dan özel lisans alınması",
+            "B) SPK (sermaye piyasası kurulu)'dan özel lisans alınması",
             "C) Hazine onayı",
-            "D) BDDK izni"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) izni"
           ],
           "a": 1,
-          "e": "MTK/MKT faaliyeti için SPK'dan özel lisans alınması zorunludur."
+          "e": "MTK/MKT faaliyeti için SPK (sermaye piyasası kurulu)'dan özel lisans alınması zorunludur."
         },
         {
           "q": "Değişim teminatının ödenmemesi durumunda ne olur?",
@@ -1349,7 +1349,7 @@ window.__C = {
             "A) Alt saklayıcıya geçer",
             "B) Tamamen ortadan kalkar",
             "C) Ana saklayıcıda kalır",
-            "D) SPK üstlenir"
+            "D) SPK (sermaye piyasası kurulu) üstlenir"
           ],
           "a": 2,
           "e": "Alt saklayıcı kullanılsa bile hukuki sorumluluk ana saklayıcıda kalır."
@@ -1402,9 +1402,9 @@ window.__C = {
           "q": "BİST'te Merkezi Karşı Taraf işlevi hangi kuruluş tarafından yürütülür?",
           "o": [
             "A) MKK",
-            "B) SPK",
+            "B) SPK (sermaye piyasası kurulu)",
             "C) Takasbank",
-            "D) BDDK"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu)"
           ],
           "a": 2,
           "e": "Takasbank, Borsa İstanbul'daki tüm organize piyasalarda MKT sıfatıyla faaliyet gösterir."
@@ -1449,7 +1449,7 @@ window.__C = {
           "o": [
             "A) Aynı birimin yönetmesi yeterlidir",
             "B) Operasyonel bağımsızlık şarttır",
-            "C) SPK özel izin verir",
+            "C) SPK (sermaye piyasası kurulu) özel izin verir",
             "D) Yasal olarak yasaktır"
           ],
           "a": 1,
@@ -1460,11 +1460,11 @@ window.__C = {
           "o": [
             "A) Herhangi bir anonim şirket",
             "B) Yalnızca aracı kurumlar",
-            "C) SPK tarafından yetkilendirilmiş bankalar ve Takasbank",
+            "C) SPK (sermaye piyasası kurulu) tarafından yetkilendirilmiş bankalar ve Takasbank",
             "D) Sigorta şirketleri"
           ],
           "a": 2,
-          "e": "Portföy saklama hizmetini yalnızca SPK tarafından yetkilendirilmiş bankalar ve Takasbank verebilir."
+          "e": "Portföy saklama hizmetini yalnızca SPK (sermaye piyasası kurulu) tarafından yetkilendirilmiş bankalar ve Takasbank verebilir."
         },
         {
           "q": "MKT üyeliğinden çıkarılma hangi durumda gerçekleşir?",
@@ -1478,7 +1478,7 @@ window.__C = {
           "e": "Sermaye yeterliliği şartlarını yitiren veya temerrüt durumuna düşen üyeler sistemden çıkarılır."
         },
         {
-          "q": "Hangi durumda SPK'ya bildirim yapılmalıdır?",
+          "q": "Hangi durumda SPK (sermaye piyasası kurulu)'ya bildirim yapılmalıdır?",
           "o": [
             "A) Fon değeri artışında",
             "B) Yatırım sınırı ihlali tespit edildiğinde",
@@ -1486,13 +1486,13 @@ window.__C = {
             "D) Portföy yöneticisi değiştiğinde"
           ],
           "a": 1,
-          "e": "Yatırım sınırlarına aykırılık tespit eden saklayıcı derhal portföy yöneticisine ve SPK'ya bildirmekle yükümlüdür."
+          "e": "Yatırım sınırlarına aykırılık tespit eden saklayıcı derhal portföy yöneticisine ve SPK (sermaye piyasası kurulu)'ya bildirmekle yükümlüdür."
         },
         {
           "q": "Temerrüt yönetiminde pozisyon kapatma yetkisi kime aittir?",
           "o": [
             "A) Borsa yönetimine",
-            "B) SPK'ya",
+            "B) SPK (sermaye piyasası kurulu)'ya",
             "C) MTK'ya (Takasbank)",
             "D) Hazine'ye"
           ],
@@ -1504,22 +1504,22 @@ window.__C = {
           "o": [
             "A) Herhangi bir izin gerekmez",
             "B) Yalnızca Hazine onayıyla",
-            "C) SPK kararıyla",
-            "D) BDDK izniyle"
+            "C) SPK (sermaye piyasası kurulu) kararıyla",
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) izniyle"
           ],
           "a": 2,
-          "e": "Yabancı MTK'ların Türkiye'de faaliyet göstermesi için SPK'nın özel kararı gereklidir."
+          "e": "Yabancı MTK'ların Türkiye'de faaliyet göstermesi için SPK (sermaye piyasası kurulu)'nın özel kararı gereklidir."
         },
         {
           "q": "Stres testi sonucunda garanti fonu yetersiz kalırsa ne yapılır?",
           "o": [
             "A) İşlemler durdurulur",
-            "B) Takasbank ek katkı talep eder ve SPK'ya raporlar",
+            "B) Takasbank ek katkı talep eder ve SPK (sermaye piyasası kurulu)'ya raporlar",
             "C) Kayıp sigorta şirketine aktarılır",
             "D) Devlet garantisi devreye girer"
           ],
           "a": 1,
-          "e": "Garanti fonu yetersizliği saptanırsa ek katkı talep edilir ve SPK'ya raporlanır."
+          "e": "Garanti fonu yetersizliği saptanırsa ek katkı talep edilir ve SPK (sermaye piyasası kurulu)'ya raporlanır."
         },
         {
           "q": "Portföy saklama ücreti nasıl tahsil edilir?",
@@ -1549,7 +1549,7 @@ window.__C = {
             "A) En büyük üyenin tüm kaybı üstlenmesi",
             "B) Kayıpların üyeler arasında pozisyon büyüklükleriyle orantılı dağıtılması",
             "C) Takasbank'ın tüm kaybı karşılaması",
-            "D) SPK'nın hakem rolü üstlenmesi"
+            "D) SPK (sermaye piyasası kurulu)'nın hakem rolü üstlenmesi"
           ],
           "a": 1,
           "e": "Pro-rata dağıtımda temerrüt zararları kalan üyelerin GF katkıları ile orantılı paylaştırılır."
@@ -1569,12 +1569,12 @@ window.__C = {
           "q": "Bağımsızlık ilkesinin ihlali durumunda ne olabilir?",
           "o": [
             "A) Sadece uyarı gönderilir",
-            "B) SPK lisansı iptal edilebilir ve idari para cezası uygulanabilir",
+            "B) SPK (sermaye piyasası kurulu) lisansı iptal edilebilir ve idari para cezası uygulanabilir",
             "C) Yalnızca fon yöneticisi uyarılır",
             "D) Yatırımcılara bildirim yapılır"
           ],
           "a": 1,
-          "e": "Bağımsızlık ilkesinin ihlali ciddi bir düzenleme ihlalidir; SPK lisansı askıya alabilir veya iptal edebilir."
+          "e": "Bağımsızlık ilkesinin ihlali ciddi bir düzenleme ihlalidir; SPK (sermaye piyasası kurulu) lisansı askıya alabilir veya iptal edebilir."
         },
         {
           "q": "Saklayıcı nakit akışını ne zaman takip eder?",
@@ -1604,7 +1604,7 @@ window.__C = {
             "A) Daha düşük teminat yatırması",
             "B) Müşteri pozisyonlarını da garanti altına alması",
             "C) Yalnızca kendi işlemlerini takaslaması",
-            "D) SPK lisansı gerekmemesi"
+            "D) SPK (sermaye piyasası kurulu) lisansı gerekmemesi"
           ],
           "a": 1,
           "e": "Genel Takas Üyesi müşteri işlemlerini de takaslayabildiği için müşteri pozisyonlarına ilişkin riski de üstlenir."
@@ -1624,7 +1624,7 @@ window.__C = {
           "q": "BİST Pay Piyasası'nda takas garantisi kimin tarafından verilmektedir?",
           "o": [
             "A) BİST Yönetim Kurulu",
-            "B) SPK",
+            "B) SPK (sermaye piyasası kurulu)",
             "C) Takasbank (MKT sıfatıyla)",
             "D) Bireysel aracı kurumlar"
           ],
@@ -1637,7 +1637,7 @@ window.__C = {
             "A) Yatırımcıların kendi adına açtırdığı bireysel hesaplar",
             "B) Yurtdışında yerleşik hak sahiplerine ait araçların YMSK nezdinde hak sahibi ismine açılmaksızın toplu tutulduğu havuz hesabı",
             "C) Merkezi takas kuruluşunun takas işlemleri için kullandığı hesap",
-            "D) TCMB'nin DİBS saklama hesabı"
+            "D) TCMB (türkiye cumhuriyet merkez bankası)'nin DİBS saklama hesabı"
           ],
           "a": 1,
           "e": "Yabancı Saklama Global Hesabı; yurtdışında yerleşik hak sahiplerine ait sermaye piyasası araçlarının yabancı merkezi saklama kuruluşları (YMSK) nezdinde hak sahibi ismine açılmaksızın toplu olarak tutulduğu havuz niteliğindeki hesaplardır."
@@ -1780,7 +1780,7 @@ window.__C = {
           "q": "Takas garantisi kimin tarafından verilmektedir?",
           "o": [
             "A) BİST Yönetim Kurulu",
-            "B) SPK",
+            "B) SPK (sermaye piyasası kurulu)",
             "C) Takasbank (MKT sıfatıyla)",
             "D) Bireysel aracı kurumlar"
           ],
@@ -1834,10 +1834,10 @@ window.__C = {
         {
           "q": "Pay piyasası temerrüt cezası hesaplamasında referans faiz oranı kim tarafından belirlenir?",
           "o": [
-            "A) SPK tarafından Resmi Gazete'de yayımlanarak",
+            "A) SPK (sermaye piyasası kurulu) tarafından Resmi Gazete'de yayımlanarak",
             "B) BİST yönetim kurulu tarafından",
             "C) Takasbank tarafından piyasa koşullarına göre belirlenir",
-            "D) BDDK tarafından bankacılık mevzuatı çerçevesinde"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) tarafından bankacılık mevzuatı çerçevesinde"
           ],
           "a": 2,
           "e": "Temerrüt cezası hesaplamasında kullanılan referans faiz oranı, Takasbank tarafından piyasa koşulları dikkate alınarak belirlenir ve duyurulur."
@@ -1960,7 +1960,7 @@ window.__C = {
             "A) Üyelere faiz geliri sağlamak",
             "B) Tek bir üyenin temerrüdünün tüm sistemi etkilememesini sağlamak",
             "C) İşlem hacmini artırmak",
-            "D) SPK denetim maliyetlerini karşılamak"
+            "D) SPK (sermaye piyasası kurulu) denetim maliyetlerini karşılamak"
           ],
           "a": 1,
           "e": "Garanti fonu, bir üyenin temerrüdünde oluşan kaybın tüm sisteme yayılmasını önleyen kolektif kaynak havuzudur."
@@ -1969,7 +1969,7 @@ window.__C = {
           "q": "VİOP fiziki teslimat sözleşmelerinde süreci kim koordine eder?",
           "o": [
             "A) BİST",
-            "B) SPK",
+            "B) SPK (sermaye piyasası kurulu)",
             "C) Takasbank",
             "D) Saklayıcı banka"
           ],
@@ -1993,7 +1993,7 @@ window.__C = {
             "A) İşlem otomatik iptal edilir",
             "B) Açık pozisyon sonraki güne devredilir",
             "C) Zorunlu pozisyon kapatma uygulanır",
-            "D) SPK müdahale eder"
+            "D) SPK (sermaye piyasası kurulu) müdahale eder"
           ],
           "a": 2,
           "e": "Teminat açığını belirlenen sürede kapatmayan üyenin pozisyonları Takasbank tarafından zorla kapatılır."
@@ -2040,7 +2040,7 @@ window.__C = {
             "D) Yalnızca kriz dönemlerinde"
           ],
           "a": 2,
-          "e": "Stres testleri düzenli ve sık aralıklarla yapılır; sonuçlar SPK'ya raporlanır."
+          "e": "Stres testleri düzenli ve sık aralıklarla yapılır; sonuçlar SPK (sermaye piyasası kurulu)'ya raporlanır."
         },
         {
           "q": "BAP'ta 17:31 sonrasında katsayının 3'e yükselmesinin amacı nedir?",
@@ -2058,7 +2058,7 @@ window.__C = {
           "o": [
             "A) Takasbank gelir elde etmek ister",
             "B) Fiyat düşüşü ve likidite riski nedeniyle teminat değerinin aşınabileceği ihtimali",
-            "C) SPK zorunlu kılar",
+            "C) SPK (sermaye piyasası kurulu) zorunlu kılar",
             "D) Piyasa yapıcıları korumak için"
           ],
           "a": 1,
@@ -2092,9 +2092,9 @@ window.__C = {
           "q": "BİST'te Merkezi Karşı Taraf işlevi hangi kuruluş tarafından yürütülür?",
           "o": [
             "A) MKK",
-            "B) SPK",
+            "B) SPK (sermaye piyasası kurulu)",
             "C) Takasbank",
-            "D) BDDK"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu)"
           ],
           "a": 2,
           "e": "Takasbank, Borsa İstanbul'daki tüm organize piyasalarda MKT sıfatıyla faaliyet gösterir."
@@ -2170,7 +2170,7 @@ window.__C = {
           "o": [
             "A) Takasbank'ın gelirini artırmak",
             "B) Mağdur üyenin takas gecikmesinden kaynaklanan kaybını kısmen telafi etmek",
-            "C) SPK'ya aktarım sağlamak",
+            "C) SPK (sermaye piyasası kurulu)'ya aktarım sağlamak",
             "D) Temerrüde düşen üyeye yardım etmek"
           ],
           "a": 1,
@@ -2188,7 +2188,7 @@ window.__C = {
           "e": "Portföy saklayıcısı, fon içtüzüğüne ve yatırım kısıtlarına uyumu sürekli denetlemekle yükümlüdür."
         },
         {
-          "q": "Stres testi sonuçlarında SPK'ya ne raporlanır?",
+          "q": "Stres testi sonuçlarında SPK (sermaye piyasası kurulu)'ya ne raporlanır?",
           "o": [
             "A) Üye isim listesi",
             "B) Garanti fonu yeterliliği ve senaryo analizi sonuçları",
@@ -2316,7 +2316,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Sermaye Piyasası Kanunu Temelleri",
-        "body": "<ul><li><strong>Sermaye piyasası:</strong> Orta ve uzun vadeli fonların, sermaye piyasası araçları alım-satımı yoluyla tasarruf sahiplerinden fon talep edenlere aktarıldığı piyasa.</li><li><strong>6362 sayılı SPKn:</strong> 2012 yürürlük. Hazırlık nedenleri: 6102 TTK reformları, AB mevzuatı uyumu, 2008 kriz dersleri.</li><li><strong>SPK misyonu:</strong> Güvenilir, şeffaf, etkin işleyiş; yatırımcı koruması. (SPKn md.1)</li><li><strong>5 Unsur:</strong> Fon talep edenler, fon arz edenler, sermaye piyasası araçları, yardımcı kuruluşlar, borsalar.</li><li><strong>Nitelikli yatırımcı:</strong> Kurul kıstaslarını karşılayan profesyonel müşteriler.</li></ul>"
+        "body": "<ul><li><strong>Sermaye piyasası:</strong> Orta ve uzun vadeli fonların, sermaye piyasası araçları alım-satımı yoluyla tasarruf sahiplerinden fon talep edenlere aktarıldığı piyasa.</li><li><strong>6362 sayılı SPK (sermaye piyasası kurulu)n:</strong> 2012 yürürlük. Hazırlık nedenleri: 6102 TTK reformları, AB mevzuatı uyumu, 2008 kriz dersleri.</li><li><strong>SPK (sermaye piyasası kurulu) misyonu:</strong> Güvenilir, şeffaf, etkin işleyiş; yatırımcı koruması. (SPK (sermaye piyasası kurulu)n md.1)</li><li><strong>5 Unsur:</strong> Fon talep edenler, fon arz edenler, sermaye piyasası araçları, yardımcı kuruluşlar, borsalar.</li><li><strong>Nitelikli yatırımcı:</strong> Kurul kıstaslarını karşılayan profesyonel müşteriler.</li></ul>"
       },
       {
         "num": "02",
@@ -2326,11 +2326,11 @@ window.__C = {
       {
         "num": "03",
         "title": "Yatırım Hizmetleri ve Sermaye Piyasası Kurumları",
-        "body": "<ul><li><strong>10 yatırım hizmeti (md.37):</strong> Emir iletimi, işlem aracılığı, portföy aracılığı, portföy yöneticiliği, yatırım danışmanlığı, yüklenimli/yüklenimsiz halka arza aracılık, çok taraflı alım satım sistemi, saklama/yönetim.</li><li><strong>Yan hizmetler:</strong> Yatırım araştırması, finansal analiz, proje finansmanı, kambiyo. Ayrı izin gerekmez.</li><li><strong>Kitle fonlaması (7061):</strong> Yatırım hizmeti değil; SPK lisanslı platformlar aracılığıyla.</li><li><strong>Kripto varlık:</strong> SPK lisansı zorunlu. Zimmet suçu md.110/A.</li></ul>"
+        "body": "<ul><li><strong>10 yatırım hizmeti (md.37):</strong> Emir iletimi, işlem aracılığı, portföy aracılığı, portföy yöneticiliği, yatırım danışmanlığı, yüklenimli/yüklenimsiz halka arza aracılık, çok taraflı alım satım sistemi, saklama/yönetim.</li><li><strong>Yan hizmetler:</strong> Yatırım araştırması, finansal analiz, proje finansmanı, kambiyo. Ayrı izin gerekmez.</li><li><strong>Kitle fonlaması (7061):</strong> Yatırım hizmeti değil; SPK (sermaye piyasası kurulu) lisanslı platformlar aracılığıyla.</li><li><strong>Kripto varlık:</strong> SPK (sermaye piyasası kurulu) lisansı zorunlu. Zimmet suçu md.110/A.</li></ul>"
       },
       {
         "num": "04",
-        "title": "SPK Denetimi ve Yaptırımlar",
+        "title": "SPK (sermaye piyasası kurulu) Denetimi ve Yaptırımlar",
         "body": "<ul><li><strong>İdari para cezası (md.103):</strong> 20.000-250.000 TL; menfaat temin edilmişse 2 katından az olamaz; tekrarda iki kat artırım.</li><li><strong>Suç cezaları:</strong> İçsel bilgi kullanımı md.106 → 2-5 yıl; Piyasa dolandırıcılığı md.107 → 3-5 yıl; İzinsiz faaliyet md.108 → 2-5 yıl; Kripto zimmet md.110/A → 6-12 yıl (zarar 3 katı).</li><li><strong>Yönetici sorumluluğu:</strong> 6 ay içinde alım-satım kazancını ortaklığa iade.</li></ul>"
       },
       {
@@ -2351,7 +2351,7 @@ window.__C = {
       {
         "num": "08",
         "title": "TSPB Meslek Kuralları ve Etik İlkeler",
-        "body": "<ul><li><strong>TSPB:</strong> SPKn md.74 uyarınca kamu kurumu niteliğinde meslek kuruluşu. Üyeler: aracı kurumlar, bankalar, PYŞ, yatırım ortaklıkları.</li><li><strong>6 etik ilke:</strong> Temel ilke, bağımsızlık/dürüstlük/adillik, özen ve titizlik, sürekli gelişim, sır saklama, etik düşünme.</li><li><strong>Scalping yasağı:</strong> Müşteri emrinden önce aynı araçta kendi adına işlem yasak.</li><li><strong>Disiplin cezaları (hafiften ağıra):</strong> Uyarı → Kınama → İPC → Geçici çıkarma → Sürekli çıkarma. Kesinleşen ceza sicile işlenir ve Kurul'a bildirilir.</li></ul>"
+        "body": "<ul><li><strong>TSPB:</strong> SPK (sermaye piyasası kurulu)n md.74 uyarınca kamu kurumu niteliğinde meslek kuruluşu. Üyeler: aracı kurumlar, bankalar, PYŞ, yatırım ortaklıkları.</li><li><strong>6 etik ilke:</strong> Temel ilke, bağımsızlık/dürüstlük/adillik, özen ve titizlik, sürekli gelişim, sır saklama, etik düşünme.</li><li><strong>Scalping yasağı:</strong> Müşteri emrinden önce aynı araçta kendi adına işlem yasak.</li><li><strong>Disiplin cezaları (hafiften ağıra):</strong> Uyarı → Kınama → İPC → Geçici çıkarma → Sürekli çıkarma. Kesinleşen ceza sicile işlenir ve Kurul'a bildirilir.</li></ul>"
       }
     ],
     "tests": {
@@ -2365,7 +2365,7 @@ window.__C = {
             "D) Türkiye'nin IMF'ye üyelik zorunluluğu"
           ],
           "a": 3,
-          "e": "SPKn'nun hazırlanmasında üç temel etken belirleyicidir: 6102 sayılı TTK reformları, AB mevzuatına uyum ve 2008 krizinin dersleri. IMF üyeliği bu faktörler arasında yer almaz."
+          "e": "SPK (sermaye piyasası kurulu)n'nun hazırlanmasında üç temel etken belirleyicidir: 6102 sayılı TTK reformları, AB mevzuatına uyum ve 2008 krizinin dersleri. IMF üyeliği bu faktörler arasında yer almaz."
         },
         {
           "q": "Sermaye piyasasının temel amacı nedir?",
@@ -2379,7 +2379,7 @@ window.__C = {
           "e": "Sermaye piyasası, orta ve uzun vadeli fonların sermaye piyasası araçları alım-satımı yoluyla aktarıldığı piyasadır; para piyasasından bu vadesiyle ayrışır."
         },
         {
-          "q": "SPK'nın temel misyonu hangisidir?",
+          "q": "SPK (sermaye piyasası kurulu)'nın temel misyonu hangisidir?",
           "o": [
             "A) Kâr amacıyla yatırım yapmak",
             "B) Sermaye piyasasının güvenilir, şeffaf ve etkin işleyişini sağlamak ve yatırımcıları korumak",
@@ -2387,7 +2387,7 @@ window.__C = {
             "D) Devlet tahvili ihraç etmek"
           ],
           "a": 1,
-          "e": "SPKn md.1 uyarınca SPK'nın misyonu; sermaye piyasasının güvenilir, şeffaf, etkin, istikrarlı işleyişini ve gelişimini sağlamak ile yatırımcıları korumaktır."
+          "e": "SPK (sermaye piyasası kurulu)n md.1 uyarınca SPK (sermaye piyasası kurulu)'nın misyonu; sermaye piyasasının güvenilir, şeffaf, etkin, istikrarlı işleyişini ve gelişimini sağlamak ile yatırımcıları korumaktır."
         },
         {
           "q": "Sermaye piyasasının beş unsurundan biri değildir?",
@@ -2401,7 +2401,7 @@ window.__C = {
           "e": "Sermaye piyasasının beş unsuru: fon talep edenler, fon arz edenler, sermaye piyasası araçları, yardımcı kuruluşlar ve borsalardır. Merkez bankası para politikası bu unsurlara dahil değildir."
         },
         {
-          "q": "SPKn kapsamında 'nitelikli yatırımcı' tanımı hangi kriterle belirlenir?",
+          "q": "SPK (sermaye piyasası kurulu)n kapsamında 'nitelikli yatırımcı' tanımı hangi kriterle belirlenir?",
           "o": [
             "A) Yalnızca kurumsal yatırımcı olmak",
             "B) Kurul düzenlemelerinde belirlenen kıstasları karşılayan profesyonel müşteriler",
@@ -2417,10 +2417,10 @@ window.__C = {
             "A) Fiziksel senet teslimi esasına dayanır",
             "B) Sermaye piyasası araçlarının MKK tarafından elektronik ortamda tutulduğu sistemdir",
             "C) Yalnızca devlet tahvillerini kapsar",
-            "D) SPK tarafından doğrudan işletilir"
+            "D) SPK (sermaye piyasası kurulu) tarafından doğrudan işletilir"
           ],
           "a": 1,
-          "e": "Kaydi sistem; SPKn'nun belirlediği araçların MKK tarafından elektronik ortamda tutulduğu sistemdir. Fiziksel senet yoktur; haklar sicil kaydına göre belirlenir."
+          "e": "Kaydi sistem; SPK (sermaye piyasası kurulu)n'nun belirlediği araçların MKK tarafından elektronik ortamda tutulduğu sistemdir. Fiziksel senet yoktur; haklar sicil kaydına göre belirlenir."
         },
         {
           "q": "MKK'nın yanlış kayıt nedeniyle oluşan zararlardan sorumluluğu nasıldır?",
@@ -2434,7 +2434,7 @@ window.__C = {
           "e": "MKK ve üyeleri, tuttukları kayıtların yanlış olmasından dolayı hak sahiplerinin uğrayacağı zararlardan kusurları oranında sorumludur."
         },
         {
-          "q": "SPKn kapsamında yatırım hizmet ve faaliyetleri kaç başlık altında sayılmıştır?",
+          "q": "SPK (sermaye piyasası kurulu)n kapsamında yatırım hizmet ve faaliyetleri kaç başlık altında sayılmıştır?",
           "o": [
             "A) 5",
             "B) 7",
@@ -2442,7 +2442,7 @@ window.__C = {
             "D) 10"
           ],
           "a": 3,
-          "e": "SPKn md.37'de yatırım hizmet ve faaliyetleri 10 başlık altında sayılmıştır: emir iletimi, işlem aracılığı, portföy aracılığı, portföy yöneticiliği, yatırım danışmanlığı, yüklenimli/yüklenimsiz halka arza aracılık, çok taraflı alım satım sistemi, müşteri adına saklama ve Kurulca belirlenecek diğerleri."
+          "e": "SPK (sermaye piyasası kurulu)n md.37'de yatırım hizmet ve faaliyetleri 10 başlık altında sayılmıştır: emir iletimi, işlem aracılığı, portföy aracılığı, portföy yöneticiliği, yatırım danışmanlığı, yüklenimli/yüklenimsiz halka arza aracılık, çok taraflı alım satım sistemi, müşteri adına saklama ve Kurulca belirlenecek diğerleri."
         },
         {
           "q": "Yan hizmetler ile yatırım hizmetleri arasındaki temel fark nedir?",
@@ -2456,7 +2456,7 @@ window.__C = {
           "e": "Yan hizmetlerin en önemli özelliği, bunların icra edilebilmesi için ayrıca izin alınması zorunluluğunun bulunmamasıdır. Ancak münhasıran yan hizmet sunmak amacıyla yatırım kuruluşu kurulamaz."
         },
         {
-          "q": "Kitle fonlaması faaliyeti hangi kanunla SPKn'ye eklenmiştir?",
+          "q": "Kitle fonlaması faaliyeti hangi kanunla SPK (sermaye piyasası kurulu)n'ye eklenmiştir?",
           "o": [
             "A) 6102 sayılı TTK",
             "B) 7061 sayılı Kanun",
@@ -2464,21 +2464,21 @@ window.__C = {
             "D) 4054 sayılı Rekabet Kanunu"
           ],
           "a": 1,
-          "e": "Kitle fonlamasına ilişkin hükümler 7061 sayılı Kanun ile SPKn'ye kazandırılmıştır. Buna göre kitle fonlama platformları SPK lisansıyla faaliyette bulunur."
+          "e": "Kitle fonlamasına ilişkin hükümler 7061 sayılı Kanun ile SPK (sermaye piyasası kurulu)n'ye kazandırılmıştır. Buna göre kitle fonlama platformları SPK (sermaye piyasası kurulu) lisansıyla faaliyette bulunur."
         },
         {
-          "q": "SPK'nın idari para cezası verme yetkisi hangi maddede düzenlenmiştir?",
+          "q": "SPK (sermaye piyasası kurulu)'nın idari para cezası verme yetkisi hangi maddede düzenlenmiştir?",
           "o": [
-            "A) SPKn md.89",
-            "B) SPKn md.103",
-            "C) SPKn md.106",
-            "D) SPKn md.110"
+            "A) SPK (sermaye piyasası kurulu)n md.89",
+            "B) SPK (sermaye piyasası kurulu)n md.103",
+            "C) SPK (sermaye piyasası kurulu)n md.106",
+            "D) SPK (sermaye piyasası kurulu)n md.110"
           ],
           "a": 1,
-          "e": "SPKn md.103/1 hükmü uyarınca SPK, aykırı hareket eden kişilere idari para cezası verme yetkisine sahiptir."
+          "e": "SPK (sermaye piyasası kurulu)n md.103/1 hükmü uyarınca SPK (sermaye piyasası kurulu), aykırı hareket eden kişilere idari para cezası verme yetkisine sahiptir."
         },
         {
-          "q": "SPKn kapsamında piyasa dolandırıcılığı için öngörülen ceza nedir?",
+          "q": "SPK (sermaye piyasası kurulu)n kapsamında piyasa dolandırıcılığı için öngörülen ceza nedir?",
           "o": [
             "A) 1-3 yıl hapis",
             "B) 2-5 yıl hapis",
@@ -2486,7 +2486,7 @@ window.__C = {
             "D) Yalnızca para cezası"
           ],
           "a": 2,
-          "e": "SPKn md.107 uyarınca piyasa dolandırıcılığı suçunda 3 yıldan 5 yıla kadar hapis cezası ve adli para cezası öngörülmüştür."
+          "e": "SPK (sermaye piyasası kurulu)n md.107 uyarınca piyasa dolandırıcılığı suçunda 3 yıldan 5 yıla kadar hapis cezası ve adli para cezası öngörülmüştür."
         },
         {
           "q": "İçsel bilgi suistimalinde (piyasa dolandırıcılığı değil) ceza ne kadardır?",
@@ -2497,7 +2497,7 @@ window.__C = {
             "D) 5-10 yıl hapis"
           ],
           "a": 1,
-          "e": "SPKn md.106 uyarınca içsel bilgi kullanımı (insider trading) suçunda 2 yıldan 5 yıla kadar hapis cezası ve adli para cezası öngörülmüştür."
+          "e": "SPK (sermaye piyasası kurulu)n md.106 uyarınca içsel bilgi kullanımı (insider trading) suçunda 2 yıldan 5 yıla kadar hapis cezası ve adli para cezası öngörülmüştür."
         },
         {
           "q": "Özel durum açıklamasının bildirim şekli nasıldır?",
@@ -2513,13 +2513,13 @@ window.__C = {
         {
           "q": "TSPB hangi kanun maddesi uyarınca kurulmuştur?",
           "o": [
-            "A) SPKn md.45",
-            "B) SPKn md.74",
-            "C) SPKn md.89",
-            "D) SPKn md.103"
+            "A) SPK (sermaye piyasası kurulu)n md.45",
+            "B) SPK (sermaye piyasası kurulu)n md.74",
+            "C) SPK (sermaye piyasası kurulu)n md.89",
+            "D) SPK (sermaye piyasası kurulu)n md.103"
           ],
           "a": 1,
-          "e": "TSPB, SPKn md.74'te düzenlenen yasal dayanağa sahip, kamu kurumu niteliğinde meslek kuruluşudur. Birlik Statüsü'ne ve Birlik kararlarına uymak üyelerin zorunluluğudur."
+          "e": "TSPB, SPK (sermaye piyasası kurulu)n md.74'te düzenlenen yasal dayanağa sahip, kamu kurumu niteliğinde meslek kuruluşudur. Birlik Statüsü'ne ve Birlik kararlarına uymak üyelerin zorunluluğudur."
         },
         {
           "q": "TSPB'nin disiplin cezaları hafiften ağıra doğru sıralandığında hangisi doğrudur?",
@@ -2544,7 +2544,7 @@ window.__C = {
           "e": "Yatırım fonu; katılma payı karşılığında toplanan varlıklarla portföy işleten, tüzel kişiliği bulunmayan mal varlığıdır. PYŞ tarafından içtüzük ile kurulur."
         },
         {
-          "q": "Kurumsal yönetimin SPK ilkeleri kaç ana bölümden oluşmaktadır?",
+          "q": "Kurumsal yönetimin SPK (sermaye piyasası kurulu) ilkeleri kaç ana bölümden oluşmaktadır?",
           "o": [
             "A) 2",
             "B) 3",
@@ -2552,7 +2552,7 @@ window.__C = {
             "D) 5"
           ],
           "a": 2,
-          "e": "SPK kurumsal yönetim ilkeleri 4 ana bölümden oluşur: pay sahipleri, kamuyu aydınlatma ve şeffaflık, menfaat sahipleri ve yönetim kurulu."
+          "e": "SPK (sermaye piyasası kurulu) kurumsal yönetim ilkeleri 4 ana bölümden oluşur: pay sahipleri, kamuyu aydınlatma ve şeffaflık, menfaat sahipleri ve yönetim kurulu."
         },
         {
           "q": "Şemsiye fon yapısının temel özelliği nedir?",
@@ -2560,7 +2560,7 @@ window.__C = {
             "A) Yalnızca hisse senedine yatırım yapabilir",
             "B) Tek içtüzük altında birden fazla alt fonu kapsar",
             "C) Garanti fonu zorunludur",
-            "D) SPK doğrudan yönetir"
+            "D) SPK (sermaye piyasası kurulu) doğrudan yönetir"
           ],
           "a": 1,
           "e": "Şemsiye fon; katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan yatırım fonudur. Farklı yatırım stratejilerine sahip alt fonlar tek çatı altında toplanır."
@@ -2579,7 +2579,7 @@ window.__C = {
       ],
       "t2": [
         {
-          "q": "SPKn'nın uygulama alanı (saklı hükümler) kapsamında hangisi doğrudur?",
+          "q": "SPK (sermaye piyasası kurulu)n'nın uygulama alanı (saklı hükümler) kapsamında hangisi doğrudur?",
           "o": [
             "A) Yalnızca halka açık şirketlere uygulanır",
             "B) 500'den az ortağa sahip şirketler tamamen muaf tutulabilir",
@@ -2587,7 +2587,7 @@ window.__C = {
             "D) Yabancı şirketler kapsam dışındadır"
           ],
           "a": 1,
-          "e": "SPKn'nın muafiyet mekanizması uyarınca 500'den az ortağa sahip halka açık olmayan şirketler, Kanun'dan kaynaklanan yükümlülüklerden kısmen veya tamamen muaf tutulabilir."
+          "e": "SPK (sermaye piyasası kurulu)n'nın muafiyet mekanizması uyarınca 500'den az ortağa sahip halka açık olmayan şirketler, Kanun'dan kaynaklanan yükümlülüklerden kısmen veya tamamen muaf tutulabilir."
         },
         {
           "q": "Menkul kıymetler içinde 'pay' kavramının temel özellikleri nelerdir?",
@@ -2606,7 +2606,7 @@ window.__C = {
             "A) Gizli tutulabilir",
             "B) İlk halka arzda şeffaf biçimde kamuya duyurulmalıdır",
             "C) Yalnızca yabancı ortaklara tanınabilir",
-            "D) SPK onayı gerekmez"
+            "D) SPK (sermaye piyasası kurulu) onayı gerekmez"
           ],
           "a": 1,
           "e": "İmtiyazlı paylar, ortaklığın ilk halka arzında şeffaf ve anlaşılır biçimde kamuya duyurulmak zorundadır. Yatırımcılar bu imtiyazları dikkate alarak kararlarını alacaktır."
@@ -2620,7 +2620,7 @@ window.__C = {
             "D) Yalnızca devlet tahvili"
           ],
           "a": 1,
-          "e": "SPKn'na göre türev araçlarda dayanak varlık; sermaye piyasası araçları, kambiyo, kıymetli maden ve kıymetli taşlar ile Kurul'ca uygun görülen diğer sözleşmeler, belgeler ve kıymetler olabilir."
+          "e": "SPK (sermaye piyasası kurulu)n'na göre türev araçlarda dayanak varlık; sermaye piyasası araçları, kambiyo, kıymetli maden ve kıymetli taşlar ile Kurul'ca uygun görülen diğer sözleşmeler, belgeler ve kıymetler olabilir."
         },
         {
           "q": "Kendi payını iktisap eden halka açık şirket için zorunluluk nedir?",
@@ -2647,16 +2647,16 @@ window.__C = {
         {
           "q": "Kripto varlık hizmet sağlayıcısı hangi makamdan lisans almak zorundadır?",
           "o": [
-            "A) BDDK",
-            "B) SPK",
+            "A) BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "B) SPK (sermaye piyasası kurulu)",
             "C) Hazine ve Maliye Bakanlığı",
-            "D) TCMB"
+            "D) TCMB (türkiye cumhuriyet merkez bankası)"
           ],
           "a": 1,
-          "e": "SPKn'ye eklenen düzenlemeyle kripto varlık saklama ve işlem hizmetleri için SPK lisansı zorunlu hale getirilmiştir. Bu düzenleme önceki hukuki boşluğu kapatmak amacıyla yapılmıştır."
+          "e": "SPK (sermaye piyasası kurulu)n'ye eklenen düzenlemeyle kripto varlık saklama ve işlem hizmetleri için SPK (sermaye piyasası kurulu) lisansı zorunlu hale getirilmiştir. Bu düzenleme önceki hukuki boşluğu kapatmak amacıyla yapılmıştır."
         },
         {
-          "q": "SPKn md.103 kapsamındaki idari para cezasında menfaat temin edilmişse alt sınır nasıl belirlenir?",
+          "q": "SPK (sermaye piyasası kurulu)n md.103 kapsamındaki idari para cezasında menfaat temin edilmişse alt sınır nasıl belirlenir?",
           "o": [
             "A) Kanuni asgari tutar uygulanır",
             "B) Menfaatin iki katından az olamaz",
@@ -2664,13 +2664,13 @@ window.__C = {
             "D) Menfaatle ilişkili değildir"
           ],
           "a": 1,
-          "e": "SPKn md.103/1 uyarınca idari para cezası miktarı, yükümlülüğe aykırılık dolayısıyla menfaat temin edilmiş olması hâlinde bu menfaatin iki katından az olamaz."
+          "e": "SPK (sermaye piyasası kurulu)n md.103/1 uyarınca idari para cezası miktarı, yükümlülüğe aykırılık dolayısıyla menfaat temin edilmiş olması hâlinde bu menfaatin iki katından az olamaz."
         },
         {
           "q": "Özel durum açıklamasında 'içsel bilginin ertelenmesi' için şart nedir?",
           "o": [
             "A) YK kararı yeterlidir",
-            "B) SPK'ya önceden başvurmak gerekir",
+            "B) SPK (sermaye piyasası kurulu)'ya önceden başvurmak gerekir",
             "C) Meşru bir menfaat bulunmalı ve piyasa yanıltılmamalı",
             "D) İçsel bilgi hiçbir zaman ertelemez"
           ],
@@ -2689,11 +2689,11 @@ window.__C = {
           "e": "İdari sorumluluğu bulunan kişiler ve bunların yakınları tarafından yapılan işlemlerin KAP'a bildirim süresi 3 iş günüdür."
         },
         {
-          "q": "SPK kurumsal yönetim ilkelerine göre bağımsız YK üyesi bağımsızlığını kaybederse ne yapmalıdır?",
+          "q": "SPK (sermaye piyasası kurulu) kurumsal yönetim ilkelerine göre bağımsız YK üyesi bağımsızlığını kaybederse ne yapmalıdır?",
           "o": [
             "A) Komitelerden ayrılması yeterlidir",
             "B) Derhal istifa etmeli ve YK durumu KAP'a bildirmelidir",
-            "C) SPK'nın onayını beklemeli",
+            "C) SPK (sermaye piyasası kurulu)'nın onayını beklemeli",
             "D) Görevine devam edebilir"
           ],
           "a": 1,
@@ -2708,7 +2708,7 @@ window.__C = {
             "D) En az %30"
           ],
           "a": 2,
-          "e": "SPK kurumsal yönetim tebliğine göre yönetim kurulunda kadın üye oranı için en az %25 hedef belirlenmeli ve bu hedefe ulaşmak için politika oluşturulmalıdır."
+          "e": "SPK (sermaye piyasası kurulu) kurumsal yönetim tebliğine göre yönetim kurulunda kadın üye oranı için en az %25 hedef belirlenmeli ve bu hedefe ulaşmak için politika oluşturulmalıdır."
         },
         {
           "q": "Yatırım fonunda 'ileriye dönük fiyatlama' ne anlama gelir?",
@@ -2759,8 +2759,8 @@ window.__C = {
           "o": [
             "A) Garanti süresi en az 10 yıl olmalıdır",
             "B) Garantör kuruluşun yatırım dereceli olması gerekir",
-            "C) Yalnızca TCMB garantör olabilir",
-            "D) Garanti taahhüdü SPK tarafından verilmelidir"
+            "C) Yalnızca TCMB (türkiye cumhuriyet merkez bankası) garantör olabilir",
+            "D) Garanti taahhüdü SPK (sermaye piyasası kurulu) tarafından verilmelidir"
           ],
           "a": 1,
           "e": "Garantili ve koruma amaçlı fonlarda garantör kuruluşun yatırım dereceli (investment grade) bir kuruluş olması şarttır. Bu şart yatırımcı güvencesi açısından kritiktir."
@@ -2770,7 +2770,7 @@ window.__C = {
           "o": [
             "A) Müşteriye bildirmek yeterlidir",
             "B) İşverene yazılı bildirim yapılmalı ve yazılı izin alınmalıdır",
-            "C) SPK'ya önceden başvurulmalıdır",
+            "C) SPK (sermaye piyasası kurulu)'ya önceden başvurulmalıdır",
             "D) İşleme devam edilmez, iptal edilir"
           ],
           "a": 1,
@@ -2801,7 +2801,7 @@ window.__C = {
       ],
       "t3": [
         {
-          "q": "SPKn'da 'sermaye piyasası kurumları' olarak sayılan kuruluş hangisidir?",
+          "q": "SPK (sermaye piyasası kurulu)n'da 'sermaye piyasası kurumları' olarak sayılan kuruluş hangisidir?",
           "o": [
             "A) Ticari bankalar (tüm faaliyetleri için)",
             "B) Portföy yönetim şirketleri",
@@ -2809,10 +2809,10 @@ window.__C = {
             "D) Noterlerin tamamı"
           ],
           "a": 1,
-          "e": "SPKn md.35'de sermaye piyasası kurumları olarak; yatırım kuruluşları, kolektif yatırım kuruluşları, bağımsız denetim/değerleme/derecelendirme kuruluşları, portföy yönetim şirketleri, ipotek finansmanı kuruluşları, merkezi takas ve saklama kuruluşları vb. sayılmıştır."
+          "e": "SPK (sermaye piyasası kurulu)n md.35'de sermaye piyasası kurumları olarak; yatırım kuruluşları, kolektif yatırım kuruluşları, bağımsız denetim/değerleme/derecelendirme kuruluşları, portföy yönetim şirketleri, ipotek finansmanı kuruluşları, merkezi takas ve saklama kuruluşları vb. sayılmıştır."
         },
         {
-          "q": "SPKn'nda 'izinsiz faaliyet' suçu için öngörülen ceza nedir?",
+          "q": "SPK (sermaye piyasası kurulu)n'nda 'izinsiz faaliyet' suçu için öngörülen ceza nedir?",
           "o": [
             "A) 1-3 yıl hapis",
             "B) 2-5 yıl hapis",
@@ -2820,14 +2820,14 @@ window.__C = {
             "D) Yalnızca idari para cezası"
           ],
           "a": 1,
-          "e": "SPKn md.108 uyarınca SPK'dan gerekli izin veya lisansı almaksızın sermaye piyasası faaliyetinde bulunanlar 2 yıldan 5 yıla kadar hapis ve adli para cezasıyla cezalandırılır."
+          "e": "SPK (sermaye piyasası kurulu)n md.108 uyarınca SPK (sermaye piyasası kurulu)'dan gerekli izin veya lisansı almaksızın sermaye piyasası faaliyetinde bulunanlar 2 yıldan 5 yıla kadar hapis ve adli para cezasıyla cezalandırılır."
         },
         {
           "q": "Özel durum açıklamasında 'olağandışı fiyat hareketi' durumunda ne yapılmalıdır?",
           "o": [
             "A) Borsaya başvurulur ve fiyat tarihi incelenir",
             "B) İhraççı kamuoyundaki haber veya söylentileri doğrulamalı veya yalanlamalıdır",
-            "C) Yalnızca SPK bilgilendirilir",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) bilgilendirilir",
             "D) İşlemler durdurulur"
           ],
           "a": 1,
@@ -2886,7 +2886,7 @@ window.__C = {
             "D) Menfaatin bir katından az olamaz"
           ],
           "a": 2,
-          "e": "SPKn md.110/A uyarınca kripto varlık hizmet sağlayıcısının zimmet suçunda adli para cezasının miktarı, kripto varlık hizmet sağlayıcısının ve müşterilerinin uğradığı zararın üç katından az olamaz."
+          "e": "SPK (sermaye piyasası kurulu)n md.110/A uyarınca kripto varlık hizmet sağlayıcısının zimmet suçunda adli para cezasının miktarı, kripto varlık hizmet sağlayıcısının ve müşterilerinin uğradığı zararın üç katından az olamaz."
         },
         {
           "q": "Şemsiye fon türleri arasında hangisi yer ALMAZ?",
@@ -2905,13 +2905,13 @@ window.__C = {
             "A) İşlem otomatik geçerli olur",
             "B) İşlem KAP'ta açıklanır ve genel kurula sunulur",
             "C) YK çoğunlukla onaylayabilir",
-            "D) SPK onayı aranır"
+            "D) SPK (sermaye piyasası kurulu) onayı aranır"
           ],
           "a": 1,
           "e": "Bağımsız YK üyelerinin çoğunluğu önemli işlemi onaylamazsa bu durum KAP'ta açıklanır ve genel kurulun onayına sunulur; genel kurul onayı alınmadan işlem gerçekleşemez."
         },
         {
-          "q": "SPK denetim yetkisi kapsamında hangisi yapılabilir?",
+          "q": "SPK (sermaye piyasası kurulu) denetim yetkisi kapsamında hangisi yapılabilir?",
           "o": [
             "A) Yalnızca idari para cezası verme",
             "B) Bilgi ve belge talep etme, yerinde inceleme, tedbir alma",
@@ -2919,7 +2919,7 @@ window.__C = {
             "D) Yalnızca raporlama zorunluluğu getirme"
           ],
           "a": 1,
-          "e": "SPKn md.89 uyarınca Kurul personeli, SPKn kapsamındaki kişi ve kurumlardan her türlü bilgi ve belge talep edebilir, yerinde inceleme yapabilir; md.96-101 kapsamında tedbir alabilir."
+          "e": "SPK (sermaye piyasası kurulu)n md.89 uyarınca Kurul personeli, SPK (sermaye piyasası kurulu)n kapsamındaki kişi ve kurumlardan her türlü bilgi ve belge talep edebilir, yerinde inceleme yapabilir; md.96-101 kapsamında tedbir alabilir."
         },
         {
           "q": "Yatırım Fonları Tebliği'ne göre Yatırımcı Bilgi Formu (YBF) hangi bilgileri içermelidir?",
@@ -3007,7 +3007,7 @@ window.__C = {
             "D) Yüklenimli halka arz aracılığı"
           ],
           "a": 2,
-          "e": "Kitle fonlaması ve buna bağlı işlemler SPKn md.37'deki yatırım hizmetleri kapsamına girmemektedir. Bu faaliyet 7061 sayılı Kanunla düzenlenen ayrı bir faaliyet türüdür."
+          "e": "Kitle fonlaması ve buna bağlı işlemler SPK (sermaye piyasası kurulu)n md.37'deki yatırım hizmetleri kapsamına girmemektedir. Bu faaliyet 7061 sayılı Kanunla düzenlenen ayrı bir faaliyet türüdür."
         },
         {
           "q": "Yatırım fonunda 'fon toplam değeri' nasıl hesaplanır?",
@@ -3023,7 +3023,7 @@ window.__C = {
       ],
       "t4": [
         {
-          "q": "6362 sayılı SPKn kapsamında 'finansal teminat sözleşmesi' için zorunlu koşul nedir?",
+          "q": "6362 sayılı SPK (sermaye piyasası kurulu)n kapsamında 'finansal teminat sözleşmesi' için zorunlu koşul nedir?",
           "o": [
             "A) Her iki tarafın da gerçek kişi olması",
             "B) Taraflardan en az birinin profesyonel müşteri veya nitelikli yatırımcı olması",
@@ -3034,7 +3034,7 @@ window.__C = {
           "e": "Finansal teminat sözleşmesinin geçerliliği için taraflardan en az birinin profesyonel müşteri veya nitelikli yatırımcı niteliğini taşıması ve işlemin sermaye piyasası araçları veya nakdi konu alması gerekir."
         },
         {
-          "q": "SPK'ya bilgi vermeyenler hakkında hangi yaptırım öngörülmüştür?",
+          "q": "SPK (sermaye piyasası kurulu)'ya bilgi vermeyenler hakkında hangi yaptırım öngörülmüştür?",
           "o": [
             "A) Yalnızca idari para cezası",
             "B) Hapis cezası öngörülmüştür",
@@ -3042,7 +3042,7 @@ window.__C = {
             "D) Lisans iptali"
           ],
           "a": 1,
-          "e": "SPKn md.89 kapsamında yapılan denetimde istenilen bilgi ve belgelere ilişkin olarak başkalarına açıklamada bulunanlar hakkında hapis cezası öngörülmüştür."
+          "e": "SPK (sermaye piyasası kurulu)n md.89 kapsamında yapılan denetimde istenilen bilgi ve belgelere ilişkin olarak başkalarına açıklamada bulunanlar hakkında hapis cezası öngörülmüştür."
         },
         {
           "q": "Özel durum açıklamalarının çalışma saatleri dışında yapılması durumunda son bildirim saati nedir?",
@@ -3069,7 +3069,7 @@ window.__C = {
         {
           "q": "TSPB'de idari para cezasını gerektiren bir karar kesinleştikten sonra üye ne yapmalıdır?",
           "o": [
-            "A) SPK'ya ödeme yapar",
+            "A) SPK (sermaye piyasası kurulu)'ya ödeme yapar",
             "B) Ceza tutarını Birlik hesabına yatırır",
             "C) Merkez bankası hesabına aktarır",
             "D) Devlet hazinesine öder"
@@ -3086,7 +3086,7 @@ window.__C = {
             "D) 3-5 yıl hapis"
           ],
           "a": 1,
-          "e": "SPKn md.109 uyarınca uygun olmayan yatırım tavsiyesi için 1 yıldan 3 yıla kadar hapis cezası öngörülmüştür."
+          "e": "SPK (sermaye piyasası kurulu)n md.109 uyarınca uygun olmayan yatırım tavsiyesi için 1 yıldan 3 yıla kadar hapis cezası öngörülmüştür."
         },
         {
           "q": "Yatırım fonu portföyünde borsa dışı sözleşmeler için karşı taraf koşulu nedir?",
@@ -3094,7 +3094,7 @@ window.__C = {
             "A) Herhangi bir kuruluş olabilir",
             "B) Yatırım dereceli olmalı ve aynı karşı taraf fon varlıklarının %10'unu aşmamalı",
             "C) Yalnızca bankalar karşı taraf olabilir",
-            "D) TCMB onaylı olmalı"
+            "D) TCMB (türkiye cumhuriyet merkez bankası) onaylı olmalı"
           ],
           "a": 1,
           "e": "Fon portföyündeki borsa dışı işlemlerde karşı tarafın yatırım dereceli olması ve tek karşı tarafa maruziyetin fon varlıklarının %10'unu aşmaması zorunludur."
@@ -3108,7 +3108,7 @@ window.__C = {
             "D) Hepsi doğrudur"
           ],
           "a": 3,
-          "e": "Kitle fonlama platformları; SPKn kapsamındaki borsa, piyasa işleticisi, teşkilatlanmış pazar yeri veya halka açık ortaklık gibi kavramlardan hiçbiriyle özdeşleştirilemez."
+          "e": "Kitle fonlama platformları; SPK (sermaye piyasası kurulu)n kapsamındaki borsa, piyasa işleticisi, teşkilatlanmış pazar yeri veya halka açık ortaklık gibi kavramlardan hiçbiriyle özdeşleştirilemez."
         },
         {
           "q": "'Menfaatlerin bildirilmesi' davranış kuralı uyarınca yazılı iznin şekli nasıldır?",
@@ -3116,7 +3116,7 @@ window.__C = {
             "A) Sözlü olabilir",
             "B) Yazılı iletişim (e-posta, faks vb.) yeterlidir",
             "C) Noter onaylı olmalıdır",
-            "D) SPK onayı gereklidir"
+            "D) SPK (sermaye piyasası kurulu) onayı gereklidir"
           ],
           "a": 1,
           "e": "TSPB davranış kuralları uyarınca işverenden menfaat kabulü için gerekli izin, yazılı iletişim yoluyla (örneğin e-posta veya yazılı bildirim) alınabilir."
@@ -3133,7 +3133,7 @@ window.__C = {
           "e": "Tebliğ yükümlülüklerine tabi olmayanlar arasında yurt dışında sermaye piyasası aracı ihraç eden halka açık olmayan ortaklıklar sayılmıştır; bu şirketler ikinci ve üçüncü bölüm hükümleri dışında kalan Tebliğ yükümlülüklerinden muaftır."
         },
         {
-          "q": "SPKn kapsamında 'kolektif yatırım kuruluşları' hangi yapıları kapsar?",
+          "q": "SPK (sermaye piyasası kurulu)n kapsamında 'kolektif yatırım kuruluşları' hangi yapıları kapsar?",
           "o": [
             "A) Yalnızca yatırım fonları",
             "B) Yatırım fonları, yatırım ortaklıkları ve borsa yatırım fonları",
@@ -3159,7 +3159,7 @@ window.__C = {
           "o": [
             "A) Türk vatandaşı olması",
             "B) Yatırım dereceli bir kuruluş olması",
-            "C) SPK tarafından atanmış olması",
+            "C) SPK (sermaye piyasası kurulu) tarafından atanmış olması",
             "D) Minimum 10 yıllık tecrübe"
           ],
           "a": 1,
@@ -3174,14 +3174,14 @@ window.__C = {
             "D) Her ikisi de yalnızca para cezasıdır"
           ],
           "a": 1,
-          "e": "SPKn md.107 (piyasa dolandırıcılığı): 3-5 yıl hapis. SPKn md.106 (içsel bilgi kullanımı): 2-5 yıl hapis. Alt sınırlar açısından piyasa dolandırıcılığı daha ağırdır."
+          "e": "SPK (sermaye piyasası kurulu)n md.107 (piyasa dolandırıcılığı): 3-5 yıl hapis. SPK (sermaye piyasası kurulu)n md.106 (içsel bilgi kullanımı): 2-5 yıl hapis. Alt sınırlar açısından piyasa dolandırıcılığı daha ağırdır."
         },
         {
           "q": "Kurumsal yönetimde 'kiralama işlemleri' için zorunluluk nedir?",
           "o": [
             "A) YK çoğunluk kararı yeterlidir",
             "B) Değerleme uzmanı raporu zorunludur",
-            "C) SPK onayı gereklidir",
+            "C) SPK (sermaye piyasası kurulu) onayı gereklidir",
             "D) Bağımsız üye yoksa yapılamaz"
           ],
           "a": 1,
@@ -3203,7 +3203,7 @@ window.__C = {
           "o": [
             "A) Maliyet nedeniyle uygulanması güçtür",
             "B) Çünkü yatırımcının önceden fiyatı bilerek fayda sağlamasına imkân tanır",
-            "C) SPK tarafından yasaklanmamıştır",
+            "C) SPK (sermaye piyasası kurulu) tarafından yasaklanmamıştır",
             "D) Yalnızca yabancı yatırımcılar için yasaktır"
           ],
           "a": 1,
@@ -3221,15 +3221,15 @@ window.__C = {
           "e": "Özen ve titizlik ilkesi; sermaye piyasası çalışanının işini mesleki standartlara, uzmanlık gereksinimine ve gerekli beceriye uygun biçimde yerine getirmesini ve bu niteliklerini sürdürmesini gerektirir."
         },
         {
-          "q": "SPK'nın birden fazla kez işlenen ihlallerde idari para cezasını nasıl artırabileceği kuralı nedir?",
+          "q": "SPK (sermaye piyasası kurulu)'nın birden fazla kez işlenen ihlallerde idari para cezasını nasıl artırabileceği kuralı nedir?",
           "o": [
             "A) Sabit tutar iki kat artırılır",
             "B) Ceza iki kat artırılır; ancak menfaatin/zararın üç katından az olamaz",
             "C) Her ihlal için ayrı dava açılır",
-            "D) SPK kendi takdirine göre belirler"
+            "D) SPK (sermaye piyasası kurulu) kendi takdirine göre belirler"
           ],
           "a": 1,
-          "e": "SPKn md.103 uyarınca aynı kabahat birden fazla kez işlendiğinde verilecek idari para cezası iki kat artırılır; ancak menfaat temin veya zarar meydana gelmişse ceza bu menfaat veya zararın üç katından az olamaz."
+          "e": "SPK (sermaye piyasası kurulu)n md.103 uyarınca aynı kabahat birden fazla kez işlendiğinde verilecek idari para cezası iki kat artırılır; ancak menfaat temin veya zarar meydana gelmişse ceza bu menfaat veya zararın üç katından az olamaz."
         },
         {
           "q": "Şemsiye fon içtüzüğünde değişiklik yapılması için ne gerekir?",
@@ -3245,7 +3245,7 @@ window.__C = {
       ],
       "t5": [
         {
-          "q": "SPKn'nda hangi hususlar 'saklı hükümler' kapsamında değerlendirilebilir?",
+          "q": "SPK (sermaye piyasası kurulu)n'nda hangi hususlar 'saklı hükümler' kapsamında değerlendirilebilir?",
           "o": [
             "A) Kurul kararları yalnızca",
             "B) Kanun'dan kaynaklanan yükümlülüklerden muafiyet tanınan durumlar",
@@ -3253,7 +3253,7 @@ window.__C = {
             "D) Kripto varlıklara ilişkin hükümler"
           ],
           "a": 1,
-          "e": "Saklı hükümler; Kurul'un, SPKn'dan kaynaklanan yükümlülükleri belirli şartlarda kısmen veya tamamen uygulamamasına (muafiyet) ilişkin yetkisini kapsar."
+          "e": "Saklı hükümler; Kurul'un, SPK (sermaye piyasası kurulu)n'dan kaynaklanan yükümlülükleri belirli şartlarda kısmen veya tamamen uygulamamasına (muafiyet) ilişkin yetkisini kapsar."
         },
         {
           "q": "Sermaye piyasası araçları üzerindeki rehni MKK'da tesis etmenin avantajı nedir?",
@@ -3278,7 +3278,7 @@ window.__C = {
           "e": "Yatırım danışmanlığı; belirli bir müşterinin koşullarına özel, kişiselleştirilmiş yatırım tavsiyesi sunmaktır. Genel piyasa yorumu veya analiz yayınlamak yatırım danışmanlığı sayılmaz."
         },
         {
-          "q": "SPKn md.112'de yasal defterlerde usulsüzlük için öngörülen hapis süresi nedir?",
+          "q": "SPK (sermaye piyasası kurulu)n md.112'de yasal defterlerde usulsüzlük için öngörülen hapis süresi nedir?",
           "o": [
             "A) 3 ay - 1 yıl",
             "B) 6 ay - 2 yıl",
@@ -3286,7 +3286,7 @@ window.__C = {
             "D) 2 - 5 yıl"
           ],
           "a": 1,
-          "e": "SPKn md.112/1 uyarınca kasıtlı olarak defterleri usulüne uygun tutmayan veya saklamamakla yükümlü olduğu belgeleri saklamayanlar 6 aydan 2 yıla kadar hapis ve adli para cezasıyla cezalandırılır."
+          "e": "SPK (sermaye piyasası kurulu)n md.112/1 uyarınca kasıtlı olarak defterleri usulüne uygun tutmayan veya saklamamakla yükümlü olduğu belgeleri saklamayanlar 6 aydan 2 yıla kadar hapis ve adli para cezasıyla cezalandırılır."
         },
         {
           "q": "TEFAS hangi amaca hizmet etmektedir?",
@@ -3300,7 +3300,7 @@ window.__C = {
           "e": "TEFAS (Türkiye Elektronik Fon Dağıtım Platformu), farklı portföy yönetim şirketlerinin yatırım fonlarına tek bir dijital platform üzerinden erişimi kolaylaştırmak amacıyla kurulmuştur."
         },
         {
-          "q": "SPK Kurumsal Yönetim İlkeleri'nde 'pay sahipleri' bölümünde yer almaz?",
+          "q": "SPK (sermaye piyasası kurulu) Kurumsal Yönetim İlkeleri'nde 'pay sahipleri' bölümünde yer almaz?",
           "o": [
             "A) Oy hakkı kullanımının kolaylaştırılması",
             "B) Azınlık haklarının korunması",
@@ -3316,7 +3316,7 @@ window.__C = {
             "A) Kesinleşince üye siciline işlenir ve Kurul'a bildirilir",
             "B) Kesinleşince üyenin faaliyet lisansı askıya alınır",
             "C) Yalnızca para cezasıyla eşlik eder",
-            "D) Sadece SPK tarafından verilir"
+            "D) Sadece SPK (sermaye piyasası kurulu) tarafından verilir"
           ],
           "a": 0,
           "e": "TSPB'de kesinleşen disiplin cezaları (kınama dahil) üye siciline işlenir ve Kurul'a bildirilir. Kınama tek başına lisans askıya alınması veya para cezasını gerektirmez."
@@ -3349,7 +3349,7 @@ window.__C = {
             "A) Yalnızca en iyi dönemleri göstermek",
             "B) Geçmiş performansın gelecek için gösterge olmadığı uyarısıyla birlikte gerçeği yansıtır sunum",
             "C) Beklenen getiriyi kesin olarak taahhüt etmek",
-            "D) SPK'nın onayladığı şablonla hazırlamak"
+            "D) SPK (sermaye piyasası kurulu)'nın onayladığı şablonla hazırlamak"
           ],
           "a": 1,
           "e": "Performans sunumunda gerçek ve dürüst bilgi sunulmalı; 'geçmiş performans gelecek için gösterge değildir' ifadesi zorunlu olarak belirtilmeli; yalnızca olumlu dönemlerin seçilerek gösterilmesi gerçekdışı gösterim yasağını ihlal eder."
@@ -3385,21 +3385,21 @@ window.__C = {
             "D) Sorumluluk yoktur"
           ],
           "a": 1,
-          "e": "SPKn uyarınca halka açık ortaklık yönetim kademesindekiler, ortaklığın ihraç ettiği sermaye piyasası araçları alım-satımından kazanç elde ettiklerinde bu tutarı 6 ay içinde ortaklığa geri vermek zorundadır."
+          "e": "SPK (sermaye piyasası kurulu)n uyarınca halka açık ortaklık yönetim kademesindekiler, ortaklığın ihraç ettiği sermaye piyasası araçları alım-satımından kazanç elde ettiklerinde bu tutarı 6 ay içinde ortaklığa geri vermek zorundadır."
         },
         {
           "q": "TSPB 'çıkar çatışması' kuralında 'işverenin yazılı izninin' şekil şartı nedir?",
           "o": [
             "A) Noter tasdikli olmalı",
             "B) Yazılı iletişim (e-posta dahil) yeterlidir",
-            "C) SPK'nın da onayı gerekli",
+            "C) SPK (sermaye piyasası kurulu)'nın da onayı gerekli",
             "D) Sadece ıslak imzalı belge kabul edilir"
           ],
           "a": 1,
           "e": "TSPB meslek kuralları uyarınca çıkar çatışması durumunda işverenden alınacak yazılı izin için özel bir biçim şartı öngörülmemiştir; e-posta da dahil yazılı iletişim yeterlidir."
         },
         {
-          "q": "SPK kurumsal yönetim ilkelerine göre 'pay sahipliği haklarının kullanımında' temel amaç nedir?",
+          "q": "SPK (sermaye piyasası kurulu) kurumsal yönetim ilkelerine göre 'pay sahipliği haklarının kullanımında' temel amaç nedir?",
           "o": [
             "A) Kurumsal yatırımcılara öncelik tanımak",
             "B) Tüm pay sahiplerinin bilgi ve haklara eşit erişimini sağlamak",
@@ -3434,7 +3434,7 @@ window.__C = {
         {
           "q": "TSPB Birlik Meslek Kuralları'nı kim onaylar?",
           "o": [
-            "A) SPK",
+            "A) SPK (sermaye piyasası kurulu)",
             "B) Birlik Genel Kurulu",
             "C) Yönetim Kurulu",
             "D) Hazine Bakanlığı"
@@ -3447,18 +3447,18 @@ window.__C = {
           "o": [
             "A) Fonun yıllık raporu",
             "B) Fonun temel kuruluş ve işleyiş kurallarını düzenleyen sözleşme belgesi",
-            "C) SPK tarafından hazırlanan standart belge",
+            "C) SPK (sermaye piyasası kurulu) tarafından hazırlanan standart belge",
             "D) Katılımcıların imzaladığı abonelik sözleşmesi"
           ],
           "a": 1,
-          "e": "İçtüzük; yatırım fonunun temel işleyişini, yönetim esaslarını, katılımcı haklarını ve yükümlülüklerini belirleyen temel kuruluş belgesidir. PYŞ tarafından hazırlanır, SPK tarafından onaylanır."
+          "e": "İçtüzük; yatırım fonunun temel işleyişini, yönetim esaslarını, katılımcı haklarını ve yükümlülüklerini belirleyen temel kuruluş belgesidir. PYŞ tarafından hazırlanır, SPK (sermaye piyasası kurulu) tarafından onaylanır."
         },
         {
           "q": "TSPB Birlik Meslek Kuralları hangi organ tarafından onaylanarak yürürlüğe girer?",
           "o": [
             "A) Yönetim Kurulu",
             "B) Birlik Genel Kurulu",
-            "C) SPK",
+            "C) SPK (sermaye piyasası kurulu)",
             "D) Hazine Bakanlığı"
           ],
           "a": 1,
@@ -3482,7 +3482,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Borçlanma Araçları — Kavramsal Çerçeve",
-        "body": "<ul><li><strong>Borçlanma aracı tanımı (VII-128.8):</strong> İhraççıların borçlu sıfatıyla düzenleyerek ihraç ettiği; tahvil, paya dönüştürülebilir tahvil, değiştirilebilir tahvil, finansman bonosu, kıymetli maden bonosu ve Kurul'ca kabul edilen diğer araçlar.</li><li><strong>Kıymetli evrak – menkul kıymet – sermaye piyasası aracı ilişkisi:</strong> Her sermaye piyasası aracı kıymetli evrak değildir; menkul kıymetler kaydileştirilerek senede bağlanmaz. Kıymetli evrak: çek/bono/poliçe (ödeme aracı); menkul kıymet: yatırım aracı.</li><li><strong>Borçlanma aracı özellikleri:</strong> Belirli vadeli; sabit veya değişken faizli; ihraçcının borç yükümlülüğünü temsil eder. Pay sahiplerine nazaran önce ödeme hakkı vardır.</li><li><strong>İhraç yetkilisi:</strong> Genel kurul kararı zorunludur (TTK md.504). İhraç yetkisi yönetim kuruluna en fazla 15 ay için devredilebilir (SPK md.31/3 → en fazla 15 ay).</li><li><strong>TTK'daki sınır:</strong> Borçlanma araçları toplam tutarı ödenmiş sermaye + yedek akçeler toplamını aşamaz (SPK mevzuatı saklı).</li></ul>"
+        "body": "<ul><li><strong>Borçlanma aracı tanımı (VII-128.8):</strong> İhraççıların borçlu sıfatıyla düzenleyerek ihraç ettiği; tahvil, paya dönüştürülebilir tahvil, değiştirilebilir tahvil, finansman bonosu, kıymetli maden bonosu ve Kurul'ca kabul edilen diğer araçlar.</li><li><strong>Kıymetli evrak – menkul kıymet – sermaye piyasası aracı ilişkisi:</strong> Her sermaye piyasası aracı kıymetli evrak değildir; menkul kıymetler kaydileştirilerek senede bağlanmaz. Kıymetli evrak: çek/bono/poliçe (ödeme aracı); menkul kıymet: yatırım aracı.</li><li><strong>Borçlanma aracı özellikleri:</strong> Belirli vadeli; sabit veya değişken faizli; ihraçcının borç yükümlülüğünü temsil eder. Pay sahiplerine nazaran önce ödeme hakkı vardır.</li><li><strong>İhraç yetkilisi:</strong> Genel kurul kararı zorunludur (TTK md.504). İhraç yetkisi yönetim kuruluna en fazla 15 ay için devredilebilir (SPK (sermaye piyasası kurulu) md.31/3 → en fazla 15 ay).</li><li><strong>TTK'daki sınır:</strong> Borçlanma araçları toplam tutarı ödenmiş sermaye + yedek akçeler toplamını aşamaz (SPK (sermaye piyasası kurulu) mevzuatı saklı).</li></ul>"
       },
       {
         "num": "04",
@@ -3606,7 +3606,7 @@ window.__C = {
             "A) Borçlanma aracı sahiplerinin önünde",
             "B) Tüm alacaklılar ile eş zamanlı",
             "C) En sonda; tüm borçlar ödendikten sonra kalan artık pay sahiplerine dağıtılır",
-            "D) BDDK güvencesiyle öncelikli konumdadır"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) güvencesiyle öncelikli konumdadır"
           ],
           "a": 2,
           "e": "Pay sahipleri ödeme sıralamasında en sonda yer alır. Ortaklığın iflas veya tasfiyesinde tüm borçlar ödendikten sonra kalan artık varsa pay sahipleri arasında pay oranında dağıtılır. Kalan artık yoksa pay sahipleri hiçbir şey alamaz."
@@ -3694,10 +3694,10 @@ window.__C = {
             "A) Ödenmiş sermayenin iki katı",
             "B) Ödenmiş sermaye + yedek akçeler toplamını aşamaz",
             "C) Yalnızca yedek akçeler kadar",
-            "D) SPK'nın her yıl belirlediği tutar kadar"
+            "D) SPK (sermaye piyasası kurulu)'nın her yıl belirlediği tutar kadar"
           ],
           "a": 1,
-          "e": "TTK md.506 uyarınca borçlanma araçlarının toplam tutarı, ödenmiş (ya da çıkarılmış) sermaye ile bilançodaki yedek akçelerin toplamını aşamaz. Ancak SPK mevzuatı saklı tutulmuştur; SPK bu sınırın üzerinde ihraç limiti belirleyebilir."
+          "e": "TTK md.506 uyarınca borçlanma araçlarının toplam tutarı, ödenmiş (ya da çıkarılmış) sermaye ile bilançodaki yedek akçelerin toplamını aşamaz. Ancak SPK (sermaye piyasası kurulu) mevzuatı saklı tutulmuştur; SPK (sermaye piyasası kurulu) bu sınırın üzerinde ihraç limiti belirleyebilir."
         },
         {
           "q": "İhraç yetkisi yönetim kuruluna devredilebiliyorsa bu devrin azami süresi nedir?",
@@ -3708,7 +3708,7 @@ window.__C = {
             "D) 24 ay"
           ],
           "a": 2,
-          "e": "TTK md.504 ve SPKn md.31/3 uyarınca borçlanma araçları ihraç yetkisi genel kurul tarafından yönetim kuruluna en fazla 15 ay için devredilebilir. Bu süre hem TTK hem SPK açısından geçerlidir."
+          "e": "TTK md.504 ve SPK (sermaye piyasası kurulu)n md.31/3 uyarınca borçlanma araçları ihraç yetkisi genel kurul tarafından yönetim kuruluna en fazla 15 ay için devredilebilir. Bu süre hem TTK hem SPK (sermaye piyasası kurulu) açısından geçerlidir."
         },
         {
           "q": "Borçlanma Aracı Sahipleri Kurulu (BASK) ne zaman zorunlu olarak kurulur?",
@@ -3765,7 +3765,7 @@ window.__C = {
             "D) DİBS ve Eurobond"
           ],
           "a": 2,
-          "e": "SPKn md.3/1-o hükmüne göre menkul kıymetler tanımında 'para, çek, poliçe ve bono hariç' ifadesine yer verilmiştir. Dolayısıyla bu dört araç kıymetli evrak olmakla birlikte menkul kıymet sayılmaz; ödeme ve kredi araçlarıdır."
+          "e": "SPK (sermaye piyasası kurulu)n md.3/1-o hükmüne göre menkul kıymetler tanımında 'para, çek, poliçe ve bono hariç' ifadesine yer verilmiştir. Dolayısıyla bu dört araç kıymetli evrak olmakla birlikte menkul kıymet sayılmaz; ödeme ve kredi araçlarıdır."
         },
         {
           "q": "Borçlanma araçlarının halka arz edilmeksizin satışı kaç şekilde yapılabilir?",
@@ -4027,7 +4027,7 @@ window.__C = {
           "o": [
             "A) Türk vatandaşı olması",
             "B) Yatırım dereceli olması",
-            "C) SPK tarafından atanmış olması",
+            "C) SPK (sermaye piyasası kurulu) tarafından atanmış olması",
             "D) En az 10 yıllık faaliyet geçmişi olması"
           ],
           "a": 1,
@@ -4037,12 +4037,12 @@ window.__C = {
           "q": "Değişken faizli tahvilin sabit faizli tahvilden farkı nedir?",
           "o": [
             "A) Değişken faizli tahvilde vade daha kısadır",
-            "B) Değişken faizli tahvilin faizi bir referans orana (örn. TCMB politika faizi) endekslidir",
+            "B) Değişken faizli tahvilin faizi bir referans orana (örn. TCMB (türkiye cumhuriyet merkez bankası) politika faizi) endekslidir",
             "C) Değişken faizli tahvilde anaparanın geri ödenmesi garantili değildir",
             "D) İkisi arasında fark yoktur; yalnızca isim farklılığı"
           ],
           "a": 1,
-          "e": "Değişken faizli tahvilin kuponu; TCMB politika faizi, enflasyon endeksi gibi bir referans orana bağlı olarak dönemsel olarak güncellenir. Bu yapı faiz riskine karşı bir tür doğal koruma sağlar; sabit faizli tahvilde ise kupon ihraç sırasında belirlenir ve sabit kalır."
+          "e": "Değişken faizli tahvilin kuponu; TCMB (türkiye cumhuriyet merkez bankası) politika faizi, enflasyon endeksi gibi bir referans orana bağlı olarak dönemsel olarak güncellenir. Bu yapı faiz riskine karşı bir tür doğal koruma sağlar; sabit faizli tahvilde ise kupon ihraç sırasında belirlenir ve sabit kalır."
         },
         {
           "q": "Modifiye süre (duration) ne anlama gelir?",
@@ -4116,7 +4116,7 @@ window.__C = {
             "A) Yalnızca vade sonunda",
             "B) Yılda en az bir kez; önemli gelişmelerde derhal",
             "C) Her 3 yılda bir",
-            "D) SPK talebi üzerine"
+            "D) SPK (sermaye piyasası kurulu) talebi üzerine"
           ],
           "a": 1,
           "e": "Borçlanma Araçları Tebliği uyarınca kredi derecelendirme notu yılda en az bir kez güncellenir. Ayrıca notu etkileyen önemli gelişmeler yaşandığında derhal güncelleme yapılması zorunludur. Bu süreklilik yatırımcıyı koruma amacına hizmet eder."
@@ -4133,15 +4133,15 @@ window.__C = {
           "e": "BİST BAP'ta Takasbank, DVP (Delivery versus Payment — Teslimat Karşılığı Ödeme) prensibini uygular. Menkul kıymet teslimatı ile nakit ödeme eş anlı gerçekleştirilir; takas T+0 veya T+1 valörlü olarak yapılır."
         },
         {
-          "q": "Halka açık olmayan anonim ortaklıkların paylarını SPKn'den ayrıştıran özellik nedir?",
+          "q": "Halka açık olmayan anonim ortaklıkların paylarını SPK (sermaye piyasası kurulu)n'den ayrıştıran özellik nedir?",
           "o": [
             "A) Değersiz oldukları için özel muamele görürler",
-            "B) Halka arz edilmeyen pay ihraçları SPKn kapsamı dışındadır; ancak borçlanma araçları için bu istisna geçerli değildir",
+            "B) Halka arz edilmeyen pay ihraçları SPK (sermaye piyasası kurulu)n kapsamı dışındadır; ancak borçlanma araçları için bu istisna geçerli değildir",
             "C) Bu paylar hiçbir zaman halka arz edilemez",
             "D) Bu paylar vergisel açıdan farklı muamele görür"
           ],
           "a": 1,
-          "e": "SPKn'nin 'Kapsam' maddesinde halka açık olmayan anonim ortaklıkların halka arz edilmeyen pay ihraçları SPKn kapsamı dışında bırakılmıştır. Ancak borçlanma araçlarında bu istisna yoktur; tüm borçlanma aracı ihraçları —halka arz edilsin veya edilmesin— SPKn kapsamındadır."
+          "e": "SPK (sermaye piyasası kurulu)n'nin 'Kapsam' maddesinde halka açık olmayan anonim ortaklıkların halka arz edilmeyen pay ihraçları SPK (sermaye piyasası kurulu)n kapsamı dışında bırakılmıştır. Ancak borçlanma araçlarında bu istisna yoktur; tüm borçlanma aracı ihraçları —halka arz edilsin veya edilmesin— SPK (sermaye piyasası kurulu)n kapsamındadır."
         },
         {
           "q": "Yatırım fonunun katılma payı değeri (KPD) nasıl hesaplanır?",
@@ -4157,10 +4157,10 @@ window.__C = {
         {
           "q": "Borçlanma araçlarının yurt dışında satışı (Eurobond hariç) hangi tebliğ kapsamındadır?",
           "o": [
-            "A) SPKn kapsamı dışındadır",
+            "A) SPK (sermaye piyasası kurulu)n kapsamı dışındadır",
             "B) VII-128.8 sayılı Borçlanma Araçları Tebliği kapsamındadır",
             "C) Yalnızca Hazine ve Maliye Bakanlığı mevzuatına tabidir",
-            "D) BDDK mevzuatına tabidir"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) mevzuatına tabidir"
           ],
           "a": 1,
           "e": "Borçlanma Araçları Tebliği (VII-128.8); istisnaları saklı kalmak kaydıyla yurt içinde halka arz edilsin veya edilmesin, yurt dışında satılsın veya satılmasın ihraç edilen tüm borçlanma araçlarını kapsamaktadır."
@@ -4183,7 +4183,7 @@ window.__C = {
           "o": [
             "A) Maliyet çok yüksek olduğundan",
             "B) Bu kararlar tüm pay sahiplerini etkiler; imtiyaz belirli bir gruba haksız güç verirdi",
-            "C) SPK yasak koyduğundan",
+            "C) SPK (sermaye piyasası kurulu) yasak koyduğundan",
             "D) Borsa zorunluluk getirdiğinden"
           ],
           "a": 1,
@@ -4283,21 +4283,21 @@ window.__C = {
             "A) Genel kuruldan yeniden karar alır",
             "B) Şarta bağlı sermaye artırımı çerçevesinde önceden belirlenen koşullara göre yeni pay çıkarır",
             "C) Borsa onayı bekler",
-            "D) SPK'ya ek başvuru yapar"
+            "D) SPK (sermaye piyasası kurulu)'ya ek başvuru yapar"
           ],
           "a": 1,
-          "e": "PDT ile şarta bağlı sermaye artırımının özü şudur: Ortaklık PDT ihracıyla eş zamanlı olarak ilerideki dönüşüme yönelik şarta bağlı sermaye artırımına karar alır. Dönüşüm gerçekleştiğinde bu karar devreye girer; ekstra genel kurul toplantısı veya SPK başvurusu gerekmez."
+          "e": "PDT ile şarta bağlı sermaye artırımının özü şudur: Ortaklık PDT ihracıyla eş zamanlı olarak ilerideki dönüşüme yönelik şarta bağlı sermaye artırımına karar alır. Dönüşüm gerçekleştiğinde bu karar devreye girer; ekstra genel kurul toplantısı veya SPK (sermaye piyasası kurulu) başvurusu gerekmez."
         },
         {
           "q": "Halka açık ortaklıkların borsada işlem görmeyen payları için hangi koşul geçerlidir?",
           "o": [
-            "A) SPKn yükümlülükleri uygulanmaz",
+            "A) SPK (sermaye piyasası kurulu)n yükümlülükleri uygulanmaz",
             "B) Ortak sayısı 500'ü aşan ortaklıklar halka açık sayılır ve bazı yükümlülüklere tabidir",
             "C) Bu ortaklıklar borsa kotasyonu için başvurmak zorundadır",
-            "D) Yalnızca BDDK denetimine tabidir"
+            "D) Yalnızca BDDK (bankacılık düzenleme ve denetleme kurumu) denetimine tabidir"
           ],
           "a": 1,
-          "e": "Pay sayısı değil, ortak sayısı 500'ü aşan anonim ortaklıklar Kurul'ca halka açık sayılır. Bu ortaklıklar borsada işlem görmese de özel durum açıklamaları ve bilgilendirme yükümlülükleri gibi bazı SPKn hükümlerine tabidir; ancak belirli hafifletmelerden yararlanabilirler."
+          "e": "Pay sayısı değil, ortak sayısı 500'ü aşan anonim ortaklıklar Kurul'ca halka açık sayılır. Bu ortaklıklar borsada işlem görmese de özel durum açıklamaları ve bilgilendirme yükümlülükleri gibi bazı SPK (sermaye piyasası kurulu)n hükümlerine tabidir; ancak belirli hafifletmelerden yararlanabilirler."
         },
         {
           "q": "'Call opsiyon kârı' hangi koşulda başlar?",
@@ -4385,7 +4385,7 @@ window.__C = {
             "D) Yalnızca hisse senetleri fiziksel basılabilir; tahviller kaydileştirilmiştir"
           ],
           "a": 1,
-          "e": "SPKn'deki düzenlemeler çerçevesinde sermaye piyasası araçları artık senede bağlanmayıp elektronik ortamda (MKK nezdinde) kayden izlenmektedir. Bu nedenle söz konusu araçlar şeklen kıymetli evrak alanının dışına çıkmış olmakla birlikte mahiyetlerine uygun düştüğü ölçüde kıymetli evrak hükümlerine tabidir."
+          "e": "SPK (sermaye piyasası kurulu)n'deki düzenlemeler çerçevesinde sermaye piyasası araçları artık senede bağlanmayıp elektronik ortamda (MKK nezdinde) kayden izlenmektedir. Bu nedenle söz konusu araçlar şeklen kıymetli evrak alanının dışına çıkmış olmakla birlikte mahiyetlerine uygun düştüğü ölçüde kıymetli evrak hükümlerine tabidir."
         },
         {
           "q": "Tek fiyat (Hollanda) ihalesinde Hazine'nin gelir açısından temel riski nedir?",
@@ -4417,7 +4417,7 @@ window.__C = {
             "A) Tahvil otomatik olarak hisse senedine dönüşür",
             "B) Tahvil normal bir borçlanma aracı gibi işlem görmeye devam eder; vade sonunda anapara ve faiz ödenir",
             "C) Tahvil iptal edilir",
-            "D) SPK müdahale eder"
+            "D) SPK (sermaye piyasası kurulu) müdahale eder"
           ],
           "a": 1,
           "e": "PDT'de dönüşüm bir hak olup yükümlülük değildir; kullanılmak zorunda değildir. Dönüşüm hakkı kullanılmazsa tahvil normal seyrine devam eder; vade sonunda ihraçcı tahvil bedelini ve faizini öder, standart bir borçlanma aracı gibi."
@@ -4427,7 +4427,7 @@ window.__C = {
           "o": [
             "A) Fonları istedikleri gibi kullanabilir; sadece 'yeşil' etiketi taşıması yeterlidir",
             "B) Fonların yeşil projelere tahsis edildiğini düzenli raporlamayla belgelemek zorundadır",
-            "C) SPK her yıl denetler; belge gerekmez",
+            "C) SPK (sermaye piyasası kurulu) her yıl denetler; belge gerekmez",
             "D) Yalnızca borsaya bildirim yeterlidir"
           ],
           "a": 1,
@@ -4438,7 +4438,7 @@ window.__C = {
           "o": [
             "A) Maliyet düşük olduğundan herkes katılabilmeli",
             "B) Kaldıraç ve geniş yatırım esnekliği yüksek risk taşır; nitelikli yatırımcı bu riski anlayıp karşılayabilir",
-            "C) SPK rekabeti kısıtlamak istediğinden",
+            "C) SPK (sermaye piyasası kurulu) rekabeti kısıtlamak istediğinden",
             "D) Yabancı yatırımcılara özel fon türüdür"
           ],
           "a": 1,
@@ -4541,7 +4541,7 @@ window.__C = {
             "D) Borsa yönetimi belirler"
           ],
           "a": 1,
-          "e": "Repo faizi; menkul kıymeti teslim eden tarafın kısa vadeli fon maliyetini temsil eder ve piyasa arz-talep koşullarına göre oluşur. TCMB politika faizi, genel likidite koşulları ve menkul kıymetin türü repo faizini etkileyen başlıca faktörlerdir."
+          "e": "Repo faizi; menkul kıymeti teslim eden tarafın kısa vadeli fon maliyetini temsil eder ve piyasa arz-talep koşullarına göre oluşur. TCMB (türkiye cumhuriyet merkez bankası) politika faizi, genel likidite koşulları ve menkul kıymetin türü repo faizini etkileyen başlıca faktörlerdir."
         },
         {
           "q": "'Kâra İştirakli Tahvil' nasıl çalışır?",
@@ -4570,7 +4570,7 @@ window.__C = {
           "o": [
             "A) Ortaklara temettü olarak dağıtılır",
             "B) Pay ihraç primleri hesabına alınarak iç kaynaklara katılır",
-            "C) SPK'ya aktarılır",
+            "C) SPK (sermaye piyasası kurulu)'ya aktarılır",
             "D) Yatırım hesabında ayrı tutulur"
           ],
           "a": 1,
@@ -4687,9 +4687,9 @@ window.__C = {
         {
           "q": "VİOP hangi kurum bünyesinde faaliyet gösterir?",
           "o": [
-            "A) TCMB",
+            "A) TCMB (türkiye cumhuriyet merkez bankası)",
             "B) Borsa İstanbul",
-            "C) SPK",
+            "C) SPK (sermaye piyasası kurulu)",
             "D) Takasbank"
           ],
           "a": 1,
@@ -5570,7 +5570,7 @@ window.__C = {
             "D) Düşük volatilite beklentisinde"
           ],
           "a": 1,
-          "e": "Long straddle: ATM call al ve ATM put al (aynı K, T). Kâr: fiyat yeterince yukarı veya aşağı hareket ederse. TCMB kararı gibi büyük hareket beklentisi ama yön bilinmiyorsa kullanılır."
+          "e": "Long straddle: ATM call al ve ATM put al (aynı K, T). Kâr: fiyat yeterince yukarı veya aşağı hareket ederse. TCMB (türkiye cumhuriyet merkez bankası) kararı gibi büyük hareket beklentisi ama yön bilinmiyorsa kullanılır."
         },
         {
           "q": "Bull call spread'in kâr ve zarar sınırları nedir?",
@@ -6187,12 +6187,12 @@ window.__C = {
           "q": "Nakdi sermaye artışında faiz indirimi nedir?",
           "o": [
             "A) Borç faizleri matrahtan düşülür",
-            "B) Nakit olarak artırılan sermayenin belirli oran (TCMB ağırlıklı ort. mevduat faizi × %50) kadar kısmı kurum kazancından indirilebilir",
+            "B) Nakit olarak artırılan sermayenin belirli oran (TCMB (türkiye cumhuriyet merkez bankası) ağırlıklı ort. mevduat faizi × %50) kadar kısmı kurum kazancından indirilebilir",
             "C) Tüm sermaye artışları vergi indirimi sağlar",
             "D) Yalnızca halka açık şirketlere uygulanır"
           ],
           "a": 1,
-          "e": "KVK md.10/1-ı: Finanse edilmesinde yabancı kaynak kullanılmayan nakit sermaye artışlarında, artırılan tutar üzerinden TCMB'nin yıllık ağırlıklı ortalama vadeli mevduat faiz oranının %50'si (bazı koşullarda %25 veya %75) oranında hesaplanan tutarın yüzde ellisi matrahtan indirilir. Amacı öz kaynak finansmanını teşvik etmek."
+          "e": "KVK md.10/1-ı: Finanse edilmesinde yabancı kaynak kullanılmayan nakit sermaye artışlarında, artırılan tutar üzerinden TCMB (türkiye cumhuriyet merkez bankası)'nin yıllık ağırlıklı ortalama vadeli mevduat faiz oranının %50'si (bazı koşullarda %25 veya %75) oranında hesaplanan tutarın yüzde ellisi matrahtan indirilir. Amacı öz kaynak finansmanını teşvik etmek."
         },
         {
           "q": "İndirimli kurumlar vergisi uygulamasında teşvik belgeli yatırım ne anlama gelir?",
@@ -6566,12 +6566,12 @@ window.__C = {
           "q": "GVK'da 'indirim oranı uygulaması' nedir ve hangi gelirler için geçerlidir?",
           "o": [
             "A) Standart %50 indirim",
-            "B) TCMB'nin yıllık net enflasyon oranını geçmemek üzere devlet tahvili/hazine bonosu faiz gelirinde enflasyon kısmı düşülerek gerçek getiri üzerinden vergileme; 2006 öncesi ihraçlara uygulanır",
+            "B) TCMB (türkiye cumhuriyet merkez bankası)'nin yıllık net enflasyon oranını geçmemek üzere devlet tahvili/hazine bonosu faiz gelirinde enflasyon kısmı düşülerek gerçek getiri üzerinden vergileme; 2006 öncesi ihraçlara uygulanır",
             "C) Tüm menkul gelirlere uygulanır",
             "D) İndirim oranı kaldırılmıştır"
           ],
           "a": 1,
-          "e": "İndirim oranı (GVK md.76): 2006 öncesi ihraç edilen devlet tahvili ve hazine bonosu faiz gelirlerinde TCMB kısa vadeli avans faiz oranının, yıllık TEFE artış oranına bölünmesiyle bulunan indirim oranı uygulanarak enflasyon kaynaklı kısım gelirden düşülür. Gerçek getiri (reel kazanç) üzerinden vergileme. Günümüzde 2006 öncesi ihraç menkul kıymet kalmadığından pratik önemi azalmıştır."
+          "e": "İndirim oranı (GVK md.76): 2006 öncesi ihraç edilen devlet tahvili ve hazine bonosu faiz gelirlerinde TCMB (türkiye cumhuriyet merkez bankası) kısa vadeli avans faiz oranının, yıllık TEFE artış oranına bölünmesiyle bulunan indirim oranı uygulanarak enflasyon kaynaklı kısım gelirden düşülür. Gerçek getiri (reel kazanç) üzerinden vergileme. Günümüzde 2006 öncesi ihraç menkul kıymet kalmadığından pratik önemi azalmıştır."
         },
         {
           "q": "Sermaye piyasası kurumlarının (aracı kurumların) vergilendirilmesinde özel durum var mı?",
@@ -6667,7 +6667,7 @@ window.__C = {
             "A) Teşvik amaçlı",
             "B) Bankacılık/finans kurumu sayılır; KVK md.32 gereği %30 oran uygulanır",
             "C) Daha az risk taşır",
-            "D) SPK denetiminde olduğu için"
+            "D) SPK (sermaye piyasası kurulu) denetiminde olduğu için"
           ],
           "a": 1,
           "e": "KVK md.32: Finansal kiralama, faktoring, finansman şirketleri finans kurumu sayılır, %30 KV oranına tabi. Genel oran %25."
@@ -6730,12 +6730,12 @@ window.__C = {
           "e": "GVK Geçici 67: stopaja tabi tutulan menkul kıymet kazançları beyana dahil edilmez (nihaî vergi). Ancak başka gelirleri de olan mükellef yıllık beyanname verir; beyannamede Geçici 67 gelirlerini birleştirmek zorunlu değil, tercihlidir. Birleştirme durumunda ödenen stopaj mahsup edilir; ancak artan oranlı tarife yükü artırabilir."
         },
         {
-          "q": "Çifte vergileme anlaşmalarının SPK araçlarının vergilemesine etkisi nedir?",
+          "q": "Çifte vergileme anlaşmalarının SPK (sermaye piyasası kurulu) araçlarının vergilemesine etkisi nedir?",
           "o": [
             "A) Etkisi yoktur",
             "B) Temettü, faiz ve değer artış kazançları için anlaşma hükümleri iç hukuktan düşük oran veya istisna sağlayabilir — dar mükellef yabancı yatırımcılar için önemli",
             "C) Yalnızca maaş için geçerli",
-            "D) Anlaşmalar SPK araçlarını kapsamaz"
+            "D) Anlaşmalar SPK (sermaye piyasası kurulu) araçlarını kapsamaz"
           ],
           "a": 1,
           "e": "Çifte vergileme anlaşmaları OECD Model Anlaşması temelli: md.10 (temettü), md.11 (faiz), md.13 (değer artış kazancı). Dar mükellef yabancı yatırımcı BİST'teki temettü veya alım-satım kazancı için kendi ülkesiyle Türkiye arasındaki anlaşmaya başvurabilir. Anlaşma iç hukuktan düşük oran öngörüyorsa indirimli oran/istisna uygulanır. Mükellef anlaşma hükmünden yararlanmak için başvuruda bulunmalı."
@@ -8102,7 +8102,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Derecelendirme Kavramı ve Genel Esaslar",
-        "body": "<ul><li><strong>Kredi derecelendirmesi nedir?</strong> Bir borçlunun (şirket, banka, devlet) finansal yükümlülüklerini zamanında ve tam olarak yerine getirme kapasitesinin bağımsız bir kuruluş tarafından sembolik harflerle (AAA, BB+ gibi) ifade edilmesidir.</li><li><strong>Kimler kullanır?</strong> Yatırımcılar (risk-getiri kararı), ihraççılar (borçlanma maliyetini düşürmek), düzenleyiciler (sermaye yükümlülüğü hesabı), aracı kurumlar ve bankalar.</li><li><strong>Makroekonomik yararları:</strong> Sermaye piyasalarına erişimi genişletir, bilgi asimetrisini azaltır, yabancı sermaye girişini kolaylaştırır, piyasa etkinliğini artırır.</li><li><strong>SPK Tebliği (Seri VIII No:51) kapsamı:</strong> Türkiye'de derecelendirme faaliyetinin kapsamı, kuruluşların yetkilendirilme koşulları, kontrolör ve uzman nitelikleri, bağımsızlık kuralları, çıkar çatışması yasağı ve kamuyu aydınlatma yükümlülükleri düzenlenmektedir.</li><li><strong>Temel bağımsızlık kuralları:</strong> Derecelendirme uzmanları müşteride ticaret yapamaz, derecelendirme bitiminden 2 yıl geçmeden müşteride çalışamaz, müşteriden derecelendirme dışı gelir elde edemez.</li></ul>"
+        "body": "<ul><li><strong>Kredi derecelendirmesi nedir?</strong> Bir borçlunun (şirket, banka, devlet) finansal yükümlülüklerini zamanında ve tam olarak yerine getirme kapasitesinin bağımsız bir kuruluş tarafından sembolik harflerle (AAA, BB+ gibi) ifade edilmesidir.</li><li><strong>Kimler kullanır?</strong> Yatırımcılar (risk-getiri kararı), ihraççılar (borçlanma maliyetini düşürmek), düzenleyiciler (sermaye yükümlülüğü hesabı), aracı kurumlar ve bankalar.</li><li><strong>Makroekonomik yararları:</strong> Sermaye piyasalarına erişimi genişletir, bilgi asimetrisini azaltır, yabancı sermaye girişini kolaylaştırır, piyasa etkinliğini artırır.</li><li><strong>SPK (sermaye piyasası kurulu) Tebliği (Seri VIII No:51) kapsamı:</strong> Türkiye'de derecelendirme faaliyetinin kapsamı, kuruluşların yetkilendirilme koşulları, kontrolör ve uzman nitelikleri, bağımsızlık kuralları, çıkar çatışması yasağı ve kamuyu aydınlatma yükümlülükleri düzenlenmektedir.</li><li><strong>Temel bağımsızlık kuralları:</strong> Derecelendirme uzmanları müşteride ticaret yapamaz, derecelendirme bitiminden 2 yıl geçmeden müşteride çalışamaz, müşteriden derecelendirme dışı gelir elde edemez.</li></ul>"
       },
       {
         "num": "02",
@@ -8170,7 +8170,7 @@ window.__C = {
           "e": "Yatırım yapılabilir/spekülatif sınır: S&P/Fitch'te BBB−, Moody's'te Baa3 ve üzeri yatırım yapılabilir kategoridedir. Altına düşünce 'fallen angel' denir. Emeklilik fonları, sigorta şirketleri gibi kurumsal yatırımcıların çoğu tüzük gereği spekülatif kâğıt tutamaz — bu durum ani satış baskısı yaratır."
         },
         {
-          "q": "SPK Tebliği Seri VIII No:51'e göre derecelendirme uzmanının müşteri şirkette çalışabilmesi için kaç yıl geçmesi gerekir?",
+          "q": "SPK (sermaye piyasası kurulu) Tebliği Seri VIII No:51'e göre derecelendirme uzmanının müşteri şirkette çalışabilmesi için kaç yıl geçmesi gerekir?",
           "o": [
             "A) 1 yıl",
             "B) 2 yıl",
@@ -8266,7 +8266,7 @@ window.__C = {
             "D) Risk danışmanlığı"
           ],
           "a": 2,
-          "e": "SPK Tebliği: Derecelendirme hizmeti verilen döneme ait müşteriye aynı dönemde bağımsız denetim ve/veya değerleme hizmeti verilemez. Bu kural derecelendirme bağımsızlığını korumak amacıyla konulmuştur."
+          "e": "SPK (sermaye piyasası kurulu) Tebliği: Derecelendirme hizmeti verilen döneme ait müşteriye aynı dönemde bağımsız denetim ve/veya değerleme hizmeti verilemez. Bu kural derecelendirme bağımsızlığını korumak amacıyla konulmuştur."
         },
         {
           "q": "PD (Probability of Default) nedir?",
@@ -8696,7 +8696,7 @@ window.__C = {
             "A) Yönetim not kararını verir",
             "B) Analist finansal analiz ve yönetim toplantısı sonrası taslak not hazırlar; derecelendirme komitesi (en az 3 üye) tartışma ve oylama ile nihai kararı verir — tek analist hâkim değil",
             "C) Müşteri onay verir",
-            "D) SPK not kararını verir"
+            "D) SPK (sermaye piyasası kurulu) not kararını verir"
           ],
           "a": 1,
           "e": "Rating süreci: (1) Başvuru/sözleşme. (2) Analitik ekip finansal analiz + yönetim toplantısı. (3) Taslak rapor ve tavsiye notu. (4) Derecelendirme komitesi (en az 3 üye — Tebliğ gereği); oylama ile karar. (5) İtiraz süreci (ihtiyari). (6) Not yayını ve izleme. Komite yapısı tek analistin etkisini sınırlar."
@@ -8924,7 +8924,7 @@ window.__C = {
           "e": "Downturn LGD: Basel II IRB'de LGD tahminlerinin ekonomik daralma dönemini (downturn) yansıtması zorunlu. Kriz döneminde: (1) Teminat değerleri düşer. (2) Tasfiye süreci uzar ve maliyeti artar. (3) Geri kazanım oranı düşer → LGD yükselir. Ortalama LGD kullanmak ekonomik döngünün en kötü noktasında sermayeyi hafife almak anlamına gelir."
         },
         {
-          "q": "Türkiye'de SPK Tebliği çerçevesinde derecelendirme kuruluşlarının kamuyu aydınlatma yükümlülükleri nelerdir?",
+          "q": "Türkiye'de SPK (sermaye piyasası kurulu) Tebliği çerçevesinde derecelendirme kuruluşlarının kamuyu aydınlatma yükümlülükleri nelerdir?",
           "o": [
             "A) Yükümlülük yoktur",
             "B) Not değişikliklerini tüm yatırımcılara ücretsiz duyurma, metodoloji açıklaması, not değişikliği gerekçesi, her müşteri için süreçte müşterinin rolünü açıklama ve önemli metodoloji değişikliklerini kamuya bildirme",
@@ -8932,7 +8932,7 @@ window.__C = {
             "D) Yalnızca büyük şirketler için"
           ],
           "a": 1,
-          "e": "SPK Tebliği kamuyu aydınlatma yükümlülükleri: (1) Not değişiklikleri tüm yatırımcılara ücretsiz ulaşmalı. (2) Not ve gerekçesi kamuya açıklanmalı. (3) Metodoloji şeffaf olmalı. (4) Önemli metodoloji değişiklikleri önceden kamuya bildirilmeli. (5) Her derecelendirme için müşterinin sürece katılımı açıklanmalı. (6) Not performans istatistikleri düzenli yayımlanmalı."
+          "e": "SPK (sermaye piyasası kurulu) Tebliği kamuyu aydınlatma yükümlülükleri: (1) Not değişiklikleri tüm yatırımcılara ücretsiz ulaşmalı. (2) Not ve gerekçesi kamuya açıklanmalı. (3) Metodoloji şeffaf olmalı. (4) Önemli metodoloji değişiklikleri önceden kamuya bildirilmeli. (5) Her derecelendirme için müşterinin sürece katılımı açıklanmalı. (6) Not performans istatistikleri düzenli yayımlanmalı."
         },
         {
           "q": "Operasyonel risk için İçsel Ölçüm Yaklaşımı'nda (IMA) Monte Carlo simülasyonunun rolü nedir?",
@@ -9288,22 +9288,22 @@ window.__C = {
       {
         "num": "06",
         "title": "Bağımsız Yönetim Kurulu Üyeliği ve Komiteler",
-        "body": "<ul><li><strong>Bağımsız üye kriterleri:</strong> Son 5 yılda şirket veya bağlı ortaklıklarında çalışmamış, son 5 yılda önemli mal/hizmet ilişkisi olmamış, yakın aile üyeleri dahil. Son 3 yılda başka ortaklıklarda çok sayıda bağımsız üyelik üstlenmemiş. Bağımsızlık beyanı yıllık verilir.</li><li><strong>1. Grup şirketlerde:</strong> Bağımsız üye aday listesi GK'dan en az 60 gün önce SPK'ya bildirilir. SPK 30 gün içinde olumsuz görüş bildirebilir. Olumsuz görüş bildirilen kişi aday gösterilemez.</li><li><strong>Denetimden Sorumlu Komite:</strong> En az 2 bağımsız üye. Üyelerden en az biri muhasebe/finans uzmanlığına sahip. Bağımsız denetçinin atanması/görevden alınması, iç kontrol ve iç denetim faaliyetlerinin gözetimi.</li><li><strong>Riskin Erken Saptanması Komitesi:</strong> Şirketin varlığını tehdit eden risklerin tespiti ve yönetimi. En az 2 üye, çoğunluğu bağımsız. Yılda en az 6 kez toplanır.</li><li><strong>Kurumsal Yönetim Komitesi:</strong> KY ilkelerine uyumu izler, yatırımcı ilişkileri bölümünü denetler. Aday Gösterme ve Ücret komitesi görevleri de üstlenebilir.</li></ul>"
+        "body": "<ul><li><strong>Bağımsız üye kriterleri:</strong> Son 5 yılda şirket veya bağlı ortaklıklarında çalışmamış, son 5 yılda önemli mal/hizmet ilişkisi olmamış, yakın aile üyeleri dahil. Son 3 yılda başka ortaklıklarda çok sayıda bağımsız üyelik üstlenmemiş. Bağımsızlık beyanı yıllık verilir.</li><li><strong>1. Grup şirketlerde:</strong> Bağımsız üye aday listesi GK'dan en az 60 gün önce SPK (sermaye piyasası kurulu)'ya bildirilir. SPK (sermaye piyasası kurulu) 30 gün içinde olumsuz görüş bildirebilir. Olumsuz görüş bildirilen kişi aday gösterilemez.</li><li><strong>Denetimden Sorumlu Komite:</strong> En az 2 bağımsız üye. Üyelerden en az biri muhasebe/finans uzmanlığına sahip. Bağımsız denetçinin atanması/görevden alınması, iç kontrol ve iç denetim faaliyetlerinin gözetimi.</li><li><strong>Riskin Erken Saptanması Komitesi:</strong> Şirketin varlığını tehdit eden risklerin tespiti ve yönetimi. En az 2 üye, çoğunluğu bağımsız. Yılda en az 6 kez toplanır.</li><li><strong>Kurumsal Yönetim Komitesi:</strong> KY ilkelerine uyumu izler, yatırımcı ilişkileri bölümünü denetler. Aday Gösterme ve Ücret komitesi görevleri de üstlenebilir.</li></ul>"
       },
       {
         "num": "07",
         "title": "İlişkili Taraf İşlemleri ve Teminata İlişkin Düzenlemeler",
-        "body": "<ul><li><strong>İlişkili taraf tanımı:</strong> Ortaklığın pay sahipleri, yöneticileri ve bunların yakın aile üyeleri ile kontrol ettiği şirketler.</li><li><strong>Yaygın ve süreklilik arz etmeyen işlemler:</strong> İşlem öncesi YK kararı zorunlu. Bağımsız üyeler işleme olumsuz oy kullanırsa kamuya açıklanır ve GK onayına sunulur.</li><li><strong>Yaygın ve süreklilik arz eden işlemler:</strong> Yıllık GK onayı. Fiyatın piyasa koşullarına uygunluğu bağımsız denetçi tarafından doğrulanır.</li><li><strong>Teminat, rehin, ipotek, kefalet (TRİK):</strong> Şirket kendi iş faaliyetleri dışında 3. kişilere TRİK veremez. SPK kararı gereği zorunlu kamuya açıklama. Yıllık GK'da TRİK tutarı ayrı gündem maddesi.</li><li><strong>Yatırımcı İlişkileri Bölümü:</strong> Genel müdür veya yardımcısına doğrudan bağlı. Yılda en az bir kere YK'ya rapor. Bölüm yöneticisinin lisans şartı: İleri Düzey Lisans veya KY Derecelendirme Uzmanlığı Lisansı (3. grup için Temel Düzey yeterli).</li></ul>"
+        "body": "<ul><li><strong>İlişkili taraf tanımı:</strong> Ortaklığın pay sahipleri, yöneticileri ve bunların yakın aile üyeleri ile kontrol ettiği şirketler.</li><li><strong>Yaygın ve süreklilik arz etmeyen işlemler:</strong> İşlem öncesi YK kararı zorunlu. Bağımsız üyeler işleme olumsuz oy kullanırsa kamuya açıklanır ve GK onayına sunulur.</li><li><strong>Yaygın ve süreklilik arz eden işlemler:</strong> Yıllık GK onayı. Fiyatın piyasa koşullarına uygunluğu bağımsız denetçi tarafından doğrulanır.</li><li><strong>Teminat, rehin, ipotek, kefalet (TRİK):</strong> Şirket kendi iş faaliyetleri dışında 3. kişilere TRİK veremez. SPK (sermaye piyasası kurulu) kararı gereği zorunlu kamuya açıklama. Yıllık GK'da TRİK tutarı ayrı gündem maddesi.</li><li><strong>Yatırımcı İlişkileri Bölümü:</strong> Genel müdür veya yardımcısına doğrudan bağlı. Yılda en az bir kere YK'ya rapor. Bölüm yöneticisinin lisans şartı: İleri Düzey Lisans veya KY Derecelendirme Uzmanlığı Lisansı (3. grup için Temel Düzey yeterli).</li></ul>"
       },
       {
         "num": "08",
         "title": "Kurumsal Yönetim Derecelendirmesi ve Metodoloji",
-        "body": "<ul><li><strong>Derecelendirme süreci:</strong> Talebe bağlı (isteğe bağlı) veya zorunlu. Şirket başvurusu → sözleşme → veri toplama → analiz → komite kararı → ön bildirim → itiraz → not yayını → izleme.</li><li><strong>Dört ana bölüm ve ağırlıkları:</strong> Pay Sahipleri (%25), Kamuyu Aydınlatma ve Şeffaflık (%25), Menfaat Sahipleri (%15), Yönetim Kurulu (%35). Toplam 100 puan, 10 üzerinden not.</li><li><strong>Not aralıkları:</strong> 9.00-10.00 → olağanüstü. 7.00-8.99 → iyi. 5.00-6.99 → orta. 5.00 altı → yetersiz.</li><li><strong>Metodoloji güncelleme:</strong> Kuruluşlar metodolojilerinde zorunlu bir değişiklik yapacaklarsa SPK'ya 30 gün önceden bildirimde bulunur. Zorunlu olmayan değişikliklerde en az 60 gün önceden kamuya duyuru yapılır.</li><li><strong>BIST Kurumsal Yönetim Endeksi:</strong> Kurumsal yönetim notu en az 7 (bazı dönemlerde 6.5) olan ve belirli kriterleri sağlayan şirketler endekse dahil edilir. Endeks hesaplamasında piyasa değeri ile dolaşımdaki pay oranı dikkate alınır.</li></ul>"
+        "body": "<ul><li><strong>Derecelendirme süreci:</strong> Talebe bağlı (isteğe bağlı) veya zorunlu. Şirket başvurusu → sözleşme → veri toplama → analiz → komite kararı → ön bildirim → itiraz → not yayını → izleme.</li><li><strong>Dört ana bölüm ve ağırlıkları:</strong> Pay Sahipleri (%25), Kamuyu Aydınlatma ve Şeffaflık (%25), Menfaat Sahipleri (%15), Yönetim Kurulu (%35). Toplam 100 puan, 10 üzerinden not.</li><li><strong>Not aralıkları:</strong> 9.00-10.00 → olağanüstü. 7.00-8.99 → iyi. 5.00-6.99 → orta. 5.00 altı → yetersiz.</li><li><strong>Metodoloji güncelleme:</strong> Kuruluşlar metodolojilerinde zorunlu bir değişiklik yapacaklarsa SPK (sermaye piyasası kurulu)'ya 30 gün önceden bildirimde bulunur. Zorunlu olmayan değişikliklerde en az 60 gün önceden kamuya duyuru yapılır.</li><li><strong>BIST Kurumsal Yönetim Endeksi:</strong> Kurumsal yönetim notu en az 7 (bazı dönemlerde 6.5) olan ve belirli kriterleri sağlayan şirketler endekse dahil edilir. Endeks hesaplamasında piyasa değeri ile dolaşımdaki pay oranı dikkate alınır.</li></ul>"
       },
       {
         "num": "09",
         "title": "Sürdürülebilirlik, ESG ve Entegre Raporlama",
-        "body": "<ul><li><strong>Sürdürülebilir kalkınma:</strong> Brundtland tanımı: 'Bugünün ihtiyaçlarını, gelecek nesillerin kendi ihtiyaçlarını karşılama kapasitelerinden ödün vermeden karşılamak.' Şirketlerin uzun vadeli değer yaratması için ESG entegrasyonu kritik.</li><li><strong>ESG faktörleri:</strong> Çevresel — karbon ayak izi, su kullanımı, atık yönetimi, iklim riski. Sosyal — çalışan hakları, çeşitlilik, toplum etkisi. Yönetişim — YK bağımsızlığı, rüşvet karşıtı politikalar, vergi şeffaflığı.</li><li><strong>Sürdürülebilirlik raporlaması:</strong> GRI (Global Reporting Initiative) — en yaygın standart. TCFD (Taskforce on Climate-related Financial Disclosures) — iklim riski açıklamaları. ISSB (International Sustainability Standards Board) — IFRS'e entegre küresel standart.</li><li><strong>SPK Sürdürülebilirlik İlkeleri Uyum Çerçevesi:</strong> II-17.1 Tebliğ değişikliğiyle eklendi (2020). Gönüllülük esaslı ancak uyum durumu faaliyet raporunda açıklanır.</li><li><strong>BIST Sürdürülebilirlik Endeksi:</strong> ESG performansı yüksek şirketleri kapsayan endeks. Uluslararası yatırımcıların ESG değerlendirmesinde referans.</li></ul>"
+        "body": "<ul><li><strong>Sürdürülebilir kalkınma:</strong> Brundtland tanımı: 'Bugünün ihtiyaçlarını, gelecek nesillerin kendi ihtiyaçlarını karşılama kapasitelerinden ödün vermeden karşılamak.' Şirketlerin uzun vadeli değer yaratması için ESG entegrasyonu kritik.</li><li><strong>ESG faktörleri:</strong> Çevresel — karbon ayak izi, su kullanımı, atık yönetimi, iklim riski. Sosyal — çalışan hakları, çeşitlilik, toplum etkisi. Yönetişim — YK bağımsızlığı, rüşvet karşıtı politikalar, vergi şeffaflığı.</li><li><strong>Sürdürülebilirlik raporlaması:</strong> GRI (Global Reporting Initiative) — en yaygın standart. TCFD (Taskforce on Climate-related Financial Disclosures) — iklim riski açıklamaları. ISSB (International Sustainability Standards Board) — IFRS'e entegre küresel standart.</li><li><strong>SPK (sermaye piyasası kurulu) Sürdürülebilirlik İlkeleri Uyum Çerçevesi:</strong> II-17.1 Tebliğ değişikliğiyle eklendi (2020). Gönüllülük esaslı ancak uyum durumu faaliyet raporunda açıklanır.</li><li><strong>BIST Sürdürülebilirlik Endeksi:</strong> ESG performansı yüksek şirketleri kapsayan endeks. Uluslararası yatırımcıların ESG değerlendirmesinde referans.</li></ul>"
       }
     ],
     "tests": {
@@ -9331,7 +9331,7 @@ window.__C = {
           "e": "Vekâlet maliyeti: (1) İzleme (monitoring) maliyeti — hissedarların yöneticileri izlemesi için harcadığı kaynak (denetim, YK masrafları). (2) Bağlanma (bonding) maliyeti — yöneticilerin güvenilirliklerini kanıtlamak için yaptığı harcama (taahhütname, sigorta). (3) Artık kayıp (residual loss) — yönetici davranışından kaynaklanan, önlenemeyen değer kaybı."
         },
         {
-          "q": "SPK Kurumsal Yönetim Tebliği II-17.1'e göre yönetim kurulunda bağımsız üye oranı en az kaç olmalıdır?",
+          "q": "SPK (sermaye piyasası kurulu) Kurumsal Yönetim Tebliği II-17.1'e göre yönetim kurulunda bağımsız üye oranı en az kaç olmalıdır?",
           "o": [
             "A) 1/4",
             "B) 1/3",
@@ -9463,7 +9463,7 @@ window.__C = {
           "e": "Kurumsal yönetim uyum derecelendirme notunun geçerlilik süresi 1 yıldır. Dolayısıyla şirketlerin notlarını yıllık olarak yeniletmeleri gerekir. Dönem içinde şirkette önemli bir gelişme yaşanırsa (örn. YK değişikliği, ilişkili taraf işlemi) derecelendirme kuruluşu notu gözden geçirerek revize edebilir (watchlist / izleme listesi uygulaması)."
         },
         {
-          "q": "Sürdürülebilirlik İlkeleri Uyum Çerçevesi SPK tarafından ne zaman ve nasıl düzenlenmiştir?",
+          "q": "Sürdürülebilirlik İlkeleri Uyum Çerçevesi SPK (sermaye piyasası kurulu) tarafından ne zaman ve nasıl düzenlenmiştir?",
           "o": [
             "A) 2014'te zorunlu düzenleme olarak",
             "B) 2020'de KY Tebliği'nde değişiklik yapılarak gönüllü esasla eklendi; uyum durumu faaliyet raporunda açıklanır",
@@ -9471,7 +9471,7 @@ window.__C = {
             "D) Henüz düzenlenmemiştir"
           ],
           "a": 1,
-          "e": "SPK, 2020 yılında Kurumsal Yönetim Tebliği II-17.1'de değişiklik yaparak Sürdürülebilirlik İlkeleri Uyum Çerçevesi'ni ekledi. Sürdürülebilirlik ilkelerinin uygulanması gönüllülük esasına dayalıdır; ancak ortaklıklar yıllık faaliyet raporlarında sürdürülebilirlik ilkelerine uyup uymadıklarını, uymuyorlarsa gerekçeyi açıklamak zorundadır."
+          "e": "SPK (sermaye piyasası kurulu), 2020 yılında Kurumsal Yönetim Tebliği II-17.1'de değişiklik yaparak Sürdürülebilirlik İlkeleri Uyum Çerçevesi'ni ekledi. Sürdürülebilirlik ilkelerinin uygulanması gönüllülük esasına dayalıdır; ancak ortaklıklar yıllık faaliyet raporlarında sürdürülebilirlik ilkelerine uyup uymadıklarını, uymuyorlarsa gerekçeyi açıklamak zorundadır."
         },
         {
           "q": "TTK md. 375'te sayılan 'devredilemez YK yetkileri' kapsamında olmayan hangisidir?",
@@ -9490,7 +9490,7 @@ window.__C = {
             "A) İşlem otomatik iptal edilir",
             "B) Bu durum kamuya açıklanır ve işlem GK onayına sunulur",
             "C) İşleme devam edilir, olumsuz oy not düşülür",
-            "D) SPK'ya bildirim yapılır ve SPK onayı beklenir"
+            "D) SPK (sermaye piyasası kurulu)'ya bildirim yapılır ve SPK (sermaye piyasası kurulu) onayı beklenir"
           ],
           "a": 1,
           "e": "KY Tebliği: Yaygın ve süreklilik arz etmeyen ilişkili taraf işlemlerinde YK kararı alınmadan önce bağımsız üyelerin görüşü alınır. Bağımsız üyeler işleme olumsuz görüş bildirirse bu durum kamuya açıklanır (özel durum bildirimi) ve işlem GK onayına sunulur. Bu mekanizma azınlık pay sahiplerini ve şirketi ilişkili taraf işlemlerinin olumsuz etkilerinden korumayı amaçlar."
@@ -9507,15 +9507,15 @@ window.__C = {
           "e": "Entegre raporlama (IIRC — International Integrated Reporting Council): Finansal tablolar ile birlikte strateji, yönetişim, performans ve gelecek görünümünü içeren, finansal ve finansal olmayan değer yaratmayı bütünsel biçimde açıklayan raporlama çerçevesi. 6 sermaye türünü kapsar: finansal, üretim, entelektüel, insan, sosyal-ilişkisel ve doğal sermaye."
         },
         {
-          "q": "Türkiye'de kurumsal yönetim derecelendirmesi yapabilmek için SPK'ya başvurmak gerekli midir?",
+          "q": "Türkiye'de kurumsal yönetim derecelendirmesi yapabilmek için SPK (sermaye piyasası kurulu)'ya başvurmak gerekli midir?",
           "o": [
             "A) Hayır, bağımsız kuruluşlar serbestçe faaliyet gösterebilir",
-            "B) Evet — SPK'dan yetkilendirme zorunludur; Seri VIII No.51 Tebliği kapsamında faaliyet gösterilir",
+            "B) Evet — SPK (sermaye piyasası kurulu)'dan yetkilendirme zorunludur; Seri VIII No.51 Tebliği kapsamında faaliyet gösterilir",
             "C) Yalnızca yabancı kuruluşlar başvurur",
             "D) Borsaya başvurmak yeterlidir"
           ],
           "a": 1,
-          "e": "Türkiye'de sermaye piyasasında derecelendirme faaliyeti (hem kredi hem kurumsal yönetim derecelendirmesi) SPK'dan yetkilendirme gerektirir. Seri VIII No.51 Tebliği'ne göre kuruluşlar SPK'ya başvurur, gerekli organizasyon ve uzman şartlarını sağlar, metodolojilerini onaylatır. Yetkisiz derecelendirme faaliyeti yasaktır."
+          "e": "Türkiye'de sermaye piyasasında derecelendirme faaliyeti (hem kredi hem kurumsal yönetim derecelendirmesi) SPK (sermaye piyasası kurulu)'dan yetkilendirme gerektirir. Seri VIII No.51 Tebliği'ne göre kuruluşlar SPK (sermaye piyasası kurulu)'ya başvurur, gerekli organizasyon ve uzman şartlarını sağlar, metodolojilerini onaylatır. Yetkisiz derecelendirme faaliyeti yasaktır."
         },
         {
           "q": "Kadın yönetim kurulu üye oranı için KY Tebliği'ndeki hedef nedir?",
@@ -9572,7 +9572,7 @@ window.__C = {
             "D) 400"
           ],
           "a": 2,
-          "e": "2024/6 sayılı SPK Bültenine göre 2024 yılında 1. grupta 274 ortaklık yer almaktadır. 2013 yılında bu sayı yalnızca 24'tü. Piyasa değeri eşiklerinin yeniden değerleme oranına bağlı güncellenmemesi nedeniyle zaman içinde giderek daha fazla şirket üst gruba geçmektedir."
+          "e": "2024/6 sayılı SPK (sermaye piyasası kurulu) Bültenine göre 2024 yılında 1. grupta 274 ortaklık yer almaktadır. 2013 yılında bu sayı yalnızca 24'tü. Piyasa değeri eşiklerinin yeniden değerleme oranına bağlı güncellenmemesi nedeniyle zaman içinde giderek daha fazla şirket üst gruba geçmektedir."
         },
         {
           "q": "SOX (Sarbanes-Oxley) Kanunu'nun 302. maddesi ne düzenlemektedir?",
@@ -9634,7 +9634,7 @@ window.__C = {
           "o": [
             "A) İşlem her halükarda yapılır",
             "B) İşlem yapılamaz — GK onayı olmaksızın ilişkili taraf işlemi gerçekleştirilemez",
-            "C) SPK onayı alınırsa yapılabilir",
+            "C) SPK (sermaye piyasası kurulu) onayı alınırsa yapılabilir",
             "D) YK yeniden oylama yapabilir"
           ],
           "a": 1,
@@ -9656,7 +9656,7 @@ window.__C = {
           "o": [
             "A) Finansal performans değerlendirmesi",
             "B) YK'nın kendi etkinliğini, üye katkısını ve komiteleri periyodik olarak değerlendirdiği süreç",
-            "C) SPK denetimi",
+            "C) SPK (sermaye piyasası kurulu) denetimi",
             "D) Bağımsız denetçi raporu"
           ],
           "a": 1,
@@ -9688,12 +9688,12 @@ window.__C = {
           "q": "Bağımsız üye boşaldığında YK nasıl hareket eder?",
           "o": [
             "A) GK'ya beklenir",
-            "B) TTK md.363 ile geçici atama; atanan kişi bağımsızlık kriterlerini taşımalı; 1. grupta SPK bildirimi gerekir",
+            "B) TTK md.363 ile geçici atama; atanan kişi bağımsızlık kriterlerini taşımalı; 1. grupta SPK (sermaye piyasası kurulu) bildirimi gerekir",
             "C) Başka üye bağımsız ilan edilir",
-            "D) SPK atar"
+            "D) SPK (sermaye piyasası kurulu) atar"
           ],
           "a": 1,
-          "e": "Boşalan bağımsız üye için YK geçici atama yapar. 1. Grupta bu atama için de SPK'ya bildirim zorunludur (KY Tebliği 4.3.8)."
+          "e": "Boşalan bağımsız üye için YK geçici atama yapar. 1. Grupta bu atama için de SPK (sermaye piyasası kurulu)'ya bildirim zorunludur (KY Tebliği 4.3.8)."
         },
         {
           "q": "Kâr dağıtım politikasında KY ilkeleri ne öngörür?",
@@ -9711,7 +9711,7 @@ window.__C = {
           "o": [
             "A) Borsa üyeliği",
             "B) KY derecelendirme kuruluşlarında uzman olmak ve halka açık şirketlerde yatırımcı ilişkileri yöneticisi görevini üstlenmek",
-            "C) SPK üyesi olmak",
+            "C) SPK (sermaye piyasası kurulu) üyesi olmak",
             "D) Yalnızca akademik amaç"
           ],
           "a": 1,
@@ -9729,7 +9729,7 @@ window.__C = {
           "e": "TTK md. 74 ve YK özen borcu kapsamında menfaat sahiplerinin hakları korunur. KY Tebliği'nde menfaat sahipleri ayrı bölüm olarak düzenlenmiştir."
         },
         {
-          "q": "KY Tebliği'ne aykırılık halinde SPK hangi yaptırımları uygulayabilir?",
+          "q": "KY Tebliği'ne aykırılık halinde SPK (sermaye piyasası kurulu) hangi yaptırımları uygulayabilir?",
           "o": [
             "A) Yaptırım yoktur",
             "B) Zorunlu GK toplantısı, esas sözleşme değişikliği ve gerektiğinde borsadan çıkarma dahil çeşitli tedbirler",
@@ -9737,7 +9737,7 @@ window.__C = {
             "D) Yalnızca uyarı"
           ],
           "a": 1,
-          "e": "KY Tebliği: SPK zorunlu KY ilkelerine aykırılık halinde şirketi olağanüstü GK kararı almaya ve esas sözleşmede değişiklik yapmaya zorlayabilir. Tekrarlayan ihlallerde borsadan çıkarma da gündeme gelebilir."
+          "e": "KY Tebliği: SPK (sermaye piyasası kurulu) zorunlu KY ilkelerine aykırılık halinde şirketi olağanüstü GK kararı almaya ve esas sözleşmede değişiklik yapmaya zorlayabilir. Tekrarlayan ihlallerde borsadan çıkarma da gündeme gelebilir."
         },
         {
           "q": "Kurumsal Yönetim Komitesi hangi durumlarda diğer komitelerin görevlerini üstlenebilir?",
@@ -9772,7 +9772,7 @@ window.__C = {
             "D) Dışsal mekanizmalar yalnızca bankalar için"
           ],
           "a": 1,
-          "e": "Kurumsal yönetim mekanizmaları iki kategoride: İçsel (şirket içi): YK gözetimi, bağımsız YK üyeleri, denetim/ücret/diğer komiteler, iç denetim ve iç kontrol sistemi, yönetici teşvik yapıları. Dışsal (dış çevre): Bağımsız denetçi, SPK ve diğer düzenleyiciler, kredi ve KY derecelendirme kuruluşları, analistler, medya, rakipler ve piyasa disiplini."
+          "e": "Kurumsal yönetim mekanizmaları iki kategoride: İçsel (şirket içi): YK gözetimi, bağımsız YK üyeleri, denetim/ücret/diğer komiteler, iç denetim ve iç kontrol sistemi, yönetici teşvik yapıları. Dışsal (dış çevre): Bağımsız denetçi, SPK (sermaye piyasası kurulu) ve diğer düzenleyiciler, kredi ve KY derecelendirme kuruluşları, analistler, medya, rakipler ve piyasa disiplini."
         },
         {
           "q": "'Çift katlı yönetim kurulu yapısı' (two-tier board) hangi ülkede yaygındır ve nasıl çalışır?",
@@ -9805,7 +9805,7 @@ window.__C = {
             "D) Yalnızca bağımsız üye kararıyla mümkün"
           ],
           "a": 1,
-          "e": "KY Tebliği ve SPK mevzuatı: Şirketlerin kendi paylarını geri satın alması (buy-back) pay sahiplerine eşit muamele ilkesine ve manipülasyon yasağına aykırı olmamalıdır. Geri alım programları SPK mevzuatına göre kamuya açıklanır. Kurumsal yönetim açısından geri alım kararlarının YK tarafından alınması ve tüm pay sahiplerini etkileyecek şekilde şeffaf yürütülmesi beklenir."
+          "e": "KY Tebliği ve SPK (sermaye piyasası kurulu) mevzuatı: Şirketlerin kendi paylarını geri satın alması (buy-back) pay sahiplerine eşit muamele ilkesine ve manipülasyon yasağına aykırı olmamalıdır. Geri alım programları SPK (sermaye piyasası kurulu) mevzuatına göre kamuya açıklanır. Kurumsal yönetim açısından geri alım kararlarının YK tarafından alınması ve tüm pay sahiplerini etkileyecek şekilde şeffaf yürütülmesi beklenir."
         },
         {
           "q": "'Whistleblowing' (ihbar/bildirim) mekanizmaları kurumsal yönetimde hangi ilkeyle ilişkilidir?",
@@ -9838,7 +9838,7 @@ window.__C = {
             "D) Yalnızca kredi kurumlarına verilebilir"
           ],
           "a": 1,
-          "e": "KY Tebliği ve SPK kararı (2009/28-780): Halka açık şirketlerin kendi iş faaliyetleri dışında üçüncü kişiler lehine teminat, rehin, ipotek ve kefalet vermeleri kısıtlanmıştır. TRİK tutarı yıllık GK'ya ayrı gündem maddesi olarak bildirilmek zorundadır. Bağlı ortaklıklar için verilen TRİK'ler de açıklanmalıdır."
+          "e": "KY Tebliği ve SPK (sermaye piyasası kurulu) kararı (2009/28-780): Halka açık şirketlerin kendi iş faaliyetleri dışında üçüncü kişiler lehine teminat, rehin, ipotek ve kefalet vermeleri kısıtlanmıştır. TRİK tutarı yıllık GK'ya ayrı gündem maddesi olarak bildirilmek zorundadır. Bağlı ortaklıklar için verilen TRİK'ler de açıklanmalıdır."
         },
         {
           "q": "SOX kapsamında CEO ve CFO'nun yanlış finansal beyanı durumunda hangi yaptırım söz konusudur?",
@@ -9866,7 +9866,7 @@ window.__C = {
           "q": "Şirket gruplarının belirlenmesinde kullanılan kriterler nelerdir?",
           "o": [
             "A) Çalışan sayısı ve ciro",
-            "B) Piyasa değeri ve fiili dolaşımdaki payların piyasa değeri — yıllık SPK bülteniyle güncellenir",
+            "B) Piyasa değeri ve fiili dolaşımdaki payların piyasa değeri — yıllık SPK (sermaye piyasası kurulu) bülteniyle güncellenir",
             "C) Özkaynak büyüklüğü",
             "D) Hisse fiyatı"
           ],
@@ -9899,12 +9899,12 @@ window.__C = {
           "q": "KY Tebliği'ne uyumda istisna hangi hallerde tanınabilir?",
           "o": [
             "A) Hiçbir zaman",
-            "B) Şirketin kendine özgü yapısı veya koşulları nedeniyle SPK gerekçe değerlendirerek istisna tanıyabilir",
+            "B) Şirketin kendine özgü yapısı veya koşulları nedeniyle SPK (sermaye piyasası kurulu) gerekçe değerlendirerek istisna tanıyabilir",
             "C) Her şirket dilerse",
             "D) Yalnızca küçük şirketler"
           ],
           "a": 1,
-          "e": "SPK, şirketin gerekçeli başvurusu üzerine belirli ilkelerden geçici veya kalıcı istisna tanıyabilir. İstisna kamuya açıklanır."
+          "e": "SPK (sermaye piyasası kurulu), şirketin gerekçeli başvurusu üzerine belirli ilkelerden geçici veya kalıcı istisna tanıyabilir. İstisna kamuya açıklanır."
         },
         {
           "q": "Şeffaflık ilkesinin pratik uygulamaları nelerdir?",
@@ -9933,11 +9933,11 @@ window.__C = {
           "o": [
             "A) Geçerliliğini korur",
             "B) Notlar geçersiz hale gelir; şirketler yeni yetkili kuruluşla sözleşme yapmak zorunda kalır",
-            "C) SPK onaylar ve devam eder",
+            "C) SPK (sermaye piyasası kurulu) onaylar ve devam eder",
             "D) Başka kuruluş devralır"
           ],
           "a": 1,
-          "e": "Derecelendirme kuruluşu SPK yetkilendirmesini kaybederse notları geçersiz hale gelir; BIST KY Endeksi'ndeki şirketlerin yeni yetkili kuruluşla anlaşması gerekir."
+          "e": "Derecelendirme kuruluşu SPK (sermaye piyasası kurulu) yetkilendirmesini kaybederse notları geçersiz hale gelir; BIST KY Endeksi'ndeki şirketlerin yeni yetkili kuruluşla anlaşması gerekir."
         },
         {
           "q": "TTK'da özel denetçi atanması hakkı ne zaman kullanılabilir?",
@@ -9970,7 +9970,7 @@ window.__C = {
             "D) Yalnızca denetçilere"
           ],
           "a": 1,
-          "e": "Hesap verebilirlik: YK ibra oylaması, bağımsız denetim, denetimden sorumlu komite, öz değerlendirme, SPK/BIST denetimi, yönetici ücretlerinin GK onayı."
+          "e": "Hesap verebilirlik: YK ibra oylaması, bağımsız denetim, denetimden sorumlu komite, öz değerlendirme, SPK (sermaye piyasası kurulu)/BIST denetimi, yönetici ücretlerinin GK onayı."
         }
       ],
       "t4": [
@@ -10013,7 +10013,7 @@ window.__C = {
             "A) Şirket isterse her zaman iptal ettirilebilir",
             "B) Derecelendirme sözleşmesinin feshi veya şirkette temel bir gelişme (dolandırıcılık, iflas başvurusu vb.) nedeniyle kuruluş notu çekebilir",
             "C) Not düştüğünde otomatik iptal",
-            "D) SPK emriyle iptal"
+            "D) SPK (sermaye piyasası kurulu) emriyle iptal"
           ],
           "a": 1,
           "e": "Derecelendirme notu: Şirketin sözleşmeyi feshetmesi veya gerekli bilgiyi sunmaması. Şirkette ciddi bir gelişme (büyük hukuki sorun, iflas başvurusu, dolandırıcılık tespiti). Derecelendirme kuruluşunun metodoloji değişikliği veya yetkilendirme kaybı. Bu durumda not izlemeye (watchlist) alınabilir veya kamuya açıklama yapılarak not çekilebilir. KAP'ta açıklama zorunludur."
@@ -10024,7 +10024,7 @@ window.__C = {
             "A) YK'nın şirketin finansal performansını değerlendirmesi",
             "B) YK'nın kendi etkinliğini, üyelerin katkısını ve komitelerin çalışmasını periyodik olarak değerlendirdiği süreç",
             "C) Bağımsız denetçinin YK'yı değerlendirmesi",
-            "D) SPK'nın şirketi denetlemesi"
+            "D) SPK (sermaye piyasası kurulu)'nın şirketi denetlemesi"
           ],
           "a": 1,
           "e": "YK öz değerlendirmesi: YK'nın yılda en az bir kez kendi yapısını, süreç etkinliğini, bilgi düzeyini ve üye katkılarını değerlendirdiği sistematik süreç. İyi kurumsal yönetimin ayrılmaz parçasıdır. Değerlendirme iç (anket-tartışma) veya dış (bağımsız danışman) yöntemle yapılabilir. Sonuçlar iyileştirme planına dönüştürülür. KY Tebliği öz değerlendirme yapılmasını teşvik eder."
@@ -10043,7 +10043,7 @@ window.__C = {
         {
           "q": "KY derecelendirmesi neden zorunlu tutulabilir?",
           "o": [
-            "A) SPK tüm şirketlere zorunlu kılar",
+            "A) SPK (sermaye piyasası kurulu) tüm şirketlere zorunlu kılar",
             "B) BIST KY Endeksi'ne girmek için zorunlu; gönüllü başvuru da mümkün",
             "C) Zorunlu tutulamaz",
             "D) Yalnızca yabancı şirketler"
@@ -10099,7 +10099,7 @@ window.__C = {
           "q": "Üst gruptan alt gruba düşen şirketin yükümlülükleri nasıl değişir?",
           "o": [
             "A) Hemen değişir",
-            "B) Yeni gruba ilişkin ilkelere, SPK bülteni ilanını izleyen ilk GK'dan itibaren uyum",
+            "B) Yeni gruba ilişkin ilkelere, SPK (sermaye piyasası kurulu) bülteni ilanını izleyen ilk GK'dan itibaren uyum",
             "C) Tüm yükümlülükler düşer",
             "D) Değişmez"
           ],
@@ -10111,7 +10111,7 @@ window.__C = {
           "o": [
             "A) Yalnızca şirket sitesinde",
             "B) KAP özel durum bildirimi ve derecelendirme kuruluşunun sitesinde; BIST endeks değişikliklerini duyurur",
-            "C) Yalnızca SPK yayımlar",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) yayımlar",
             "D) Medyaya serbesttir"
           ],
           "a": 1,
@@ -10133,7 +10133,7 @@ window.__C = {
           "o": [
             "A) Gereksiz formalite",
             "B) Şirketin notun açıklanmadan önce hata veya eksiklik varsa itiraz edip düzeltme yapabilmesi için",
-            "C) SPK onayı için",
+            "C) SPK (sermaye piyasası kurulu) onayı için",
             "D) Hissedarları bilgilendirmek için"
           ],
           "a": 1,
@@ -10153,13 +10153,13 @@ window.__C = {
         {
           "q": "Türkiye'de kurumsal yönetim derecelendirmesini denetleyen kuruluş hangisidir?",
           "o": [
-            "A) BDDK",
-            "B) SPK — Seri VIII No.51 Tebliği kapsamında",
+            "A) BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "B) SPK (sermaye piyasası kurulu) — Seri VIII No.51 Tebliği kapsamında",
             "C) TKYD",
             "D) Borsa İstanbul"
           ],
           "a": 1,
-          "e": "Türkiye'de KY derecelendirme faaliyeti SPK denetimindedir. Yetkilendirme ve denetim Seri VIII No.51 Tebliği çerçevesinde yürütülür."
+          "e": "Türkiye'de KY derecelendirme faaliyeti SPK (sermaye piyasası kurulu) denetimindedir. Yetkilendirme ve denetim Seri VIII No.51 Tebliği çerçevesinde yürütülür."
         },
         {
           "q": "YK toplantılarında her üye kaç oy hakkına sahiptir?",
@@ -10189,7 +10189,7 @@ window.__C = {
             "A) Her yıl",
             "B) Dönem içinde önemli bir gelişme olduğunda — YK değişikliği, davalar, büyük ilişkili taraf işlemi",
             "C) Yalnızca not düştüğünde",
-            "D) SPK talebiyle"
+            "D) SPK (sermaye piyasası kurulu) talebiyle"
           ],
           "a": 1,
           "e": "Dönem içinde şirkette önemli değişiklik yaşanırsa (yönetim değişikliği, hukuki gelişme, ilişkili taraf işlemi) derecelendirme kuruluşu notu gözden geçirmek amacıyla 'izlemeye' alabilir; revizyon sonrası yeni not açıklanır."
@@ -10221,13 +10221,13 @@ window.__C = {
         {
           "q": "Türkiye'de kurumsal yönetim derecelendirmesi yapan kuruluşların denetimi kimin tarafından yapılır?",
           "o": [
-            "A) BDDK",
+            "A) BDDK (bankacılık düzenleme ve denetleme kurumu)",
             "B) Türkiye Kurumsal Yönetim Derneği",
-            "C) SPK — Seri VIII No.51 Tebliği kapsamında yetkilendirme ve denetim",
+            "C) SPK (sermaye piyasası kurulu) — Seri VIII No.51 Tebliği kapsamında yetkilendirme ve denetim",
             "D) Borsa İstanbul"
           ],
           "a": 2,
-          "e": "Türkiye'de sermaye piyasasında derecelendirme faaliyeti (kredi ve KY derecelendirmesi) SPK'nın denetim ve gözetimine tabidir. Seri VIII No.51 Tebliği kuruluşların yetkilendirme koşullarını, metodoloji gereksinimlerini, bağımsızlık kurallarını ve faaliyet standartlarını belirler. SPK yetkisiz faaliyet gösteren kuruluşlara idari yaptırım uygulayabilir."
+          "e": "Türkiye'de sermaye piyasasında derecelendirme faaliyeti (kredi ve KY derecelendirmesi) SPK (sermaye piyasası kurulu)'nın denetim ve gözetimine tabidir. Seri VIII No.51 Tebliği kuruluşların yetkilendirme koşullarını, metodoloji gereksinimlerini, bağımsızlık kurallarını ve faaliyet standartlarını belirler. SPK (sermaye piyasası kurulu) yetkisiz faaliyet gösteren kuruluşlara idari yaptırım uygulayabilir."
         },
         {
           "q": "'Hissedar aktivizmi' kurumsal yönetimi nasıl etkiler?",
@@ -10241,7 +10241,7 @@ window.__C = {
           "e": "Hissedar aktivizmi: kurumsal değişim, değer yaratma veya ESG hedefleri için hissedarların YK veya yönetime baskı uygulaması. Araçlar: GK önerileri, vekâlet savaşı, kamuoyu baskısı, medya kampanyası, engagament toplantıları. Etkili aktivizm şirketlerde YK değişikliği, strateji revizyonu ve kâr payı artışını tetikleyebilir. OECD ilkeleri kurumsal yatırımcıların etkin hissedar olmalarını teşvik eder."
         },
         {
-          "q": "'Kurumsal yönetim izleme raporu' SPK tarafından ne amaçla yayımlanmaktadır?",
+          "q": "'Kurumsal yönetim izleme raporu' SPK (sermaye piyasası kurulu) tarafından ne amaçla yayımlanmaktadır?",
           "o": [
             "A) Şirketlere ceza vermek için",
             "B) Türkiye'deki halka açık şirketlerin kurumsal yönetim uyum düzeyini değerlendirmek ve piyasayı bilgilendirmek",
@@ -10249,7 +10249,7 @@ window.__C = {
             "D) Bağımsız denetçileri denetlemek"
           ],
           "a": 1,
-          "e": "SPK Kurumsal Yönetim İzleme Raporu: Halka açık şirketlerin KY ilkelerine ne ölçüde uyduğunu analiz eden yıllık rapor. Bağımsız üye uyumu, komite yapıları, kamuyu aydınlatma kalitesi gibi alanlardaki genel eğilimleri gösterir. Sektörel karşılaştırma yapılır. Piyasada şeffaflığı artırmayı ve şirketleri iyileştirmeye teşvik etmeyi amaçlar."
+          "e": "SPK (sermaye piyasası kurulu) Kurumsal Yönetim İzleme Raporu: Halka açık şirketlerin KY ilkelerine ne ölçüde uyduğunu analiz eden yıllık rapor. Bağımsız üye uyumu, komite yapıları, kamuyu aydınlatma kalitesi gibi alanlardaki genel eğilimleri gösterir. Sektörel karşılaştırma yapılır. Piyasada şeffaflığı artırmayı ve şirketleri iyileştirmeye teşvik etmeyi amaçlar."
         },
         {
           "q": "BIST Sürdürülebilirlik Endeksi ve BIST Kurumsal Yönetim Endeksi arasındaki fark nedir?",
@@ -10271,7 +10271,7 @@ window.__C = {
             "D) Tüm kararları hissedarlara bırakmak"
           ],
           "a": 1,
-          "e": "Vekâlet sorunu çözüm mekanizmaları: (1) Teşvik uyumlaştırması — yönetici ücretini şirket performansına bağlama (hisse, opsiyon, uzun vadeli teşvik). (2) Bağımsız YK ve komiteler — yönetimin gözetimi. (3) Bağımsız denetim — şeffaflık ve doğruluk. (4) Kamuyu aydınlatma yükümlülükleri — bilgi asimetrisini azaltma. (5) Düzenleyici denetim — SPK, piyasa disiplini. Tek bir mekanizma yeterli değil; kombinasyon gerekli."
+          "e": "Vekâlet sorunu çözüm mekanizmaları: (1) Teşvik uyumlaştırması — yönetici ücretini şirket performansına bağlama (hisse, opsiyon, uzun vadeli teşvik). (2) Bağımsız YK ve komiteler — yönetimin gözetimi. (3) Bağımsız denetim — şeffaflık ve doğruluk. (4) Kamuyu aydınlatma yükümlülükleri — bilgi asimetrisini azaltma. (5) Düzenleyici denetim — SPK (sermaye piyasası kurulu), piyasa disiplini. Tek bir mekanizma yeterli değil; kombinasyon gerekli."
         },
         {
           "q": "KY kalitesi ile sermaye maliyeti nasıl ilişkilidir?",
@@ -10340,7 +10340,7 @@ window.__C = {
           "e": "Stewardship kodu: Emeklilik fonları, yatırım fonları gibi kurumsal yatırımcıların yatırım yaptıkları şirketlerde etkin hissedar olmalarını, şeffaf oy politikası yürütmelerini ve yönetimle diyalog kurmalarını teşvik eden çerçeve. OECD, AB ve birçok ülke bu kodları benimsemiştir. Türkiye'de henüz resmi stewardship kodu bulunmamaktadır."
         },
         {
-          "q": "SPK Kurumsal Yönetim İzleme Raporu ne amaçla yayımlanır?",
+          "q": "SPK (sermaye piyasası kurulu) Kurumsal Yönetim İzleme Raporu ne amaçla yayımlanır?",
           "o": [
             "A) Şirketlere ceza vermek için",
             "B) Halka açık şirketlerin KY uyum düzeyini değerlendirmek ve piyasayı bilgilendirmek",
@@ -10348,7 +10348,7 @@ window.__C = {
             "D) Bağımsız denetçileri denetlemek"
           ],
           "a": 1,
-          "e": "SPK KY İzleme Raporu: Şirketlerin KY ilkelerine uyum düzeyini analiz eder, genel eğilimleri gösterir, sektörel karşılaştırma yapar. Piyasa şeffaflığını artırır ve iyileştirmeyi teşvik eder."
+          "e": "SPK (sermaye piyasası kurulu) KY İzleme Raporu: Şirketlerin KY ilkelerine uyum düzeyini analiz eder, genel eğilimleri gösterir, sektörel karşılaştırma yapar. Piyasa şeffaflığını artırır ve iyileştirmeyi teşvik eder."
         },
         {
           "q": "BIST KY Endeksi ile BIST Sürdürülebilirlik Endeksi arasındaki fark nedir?",
@@ -10370,14 +10370,14 @@ window.__C = {
             "D) Tüm kararları hissedarlara bırakmak"
           ],
           "a": 1,
-          "e": "Vekâlet sorunu çözüm kombinasyonu: yönetici performans bağlantılı ücret + bağımsız YK/komiteler + bağımsız denetim + şeffaflık yükümlülükleri + SPK/piyasa disiplini. Tek mekanizma yeterli değil."
+          "e": "Vekâlet sorunu çözüm kombinasyonu: yönetici performans bağlantılı ücret + bağımsız YK/komiteler + bağımsız denetim + şeffaflık yükümlülükleri + SPK (sermaye piyasası kurulu)/piyasa disiplini. Tek mekanizma yeterli değil."
         },
         {
           "q": "KY derecelendirmesinde 'ön bildirim' aşaması neden önemlidir?",
           "o": [
             "A) Formalite",
             "B) Şirketin notun açıklanmadan önce itiraz edip düzeltme yapabilmesi için",
-            "C) SPK onayı için",
+            "C) SPK (sermaye piyasası kurulu) onayı için",
             "D) Hissedarları bilgilendirmek için"
           ],
           "a": 1,
@@ -10434,7 +10434,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Para Politikaları",
-        "body": "<ul><li><strong>Para tanımı ve para arzı:</strong> M1 = nakit + vadesiz mevduat. M2 = M1 + vadeli mevduat. M3 = M2 + repo, para piyasası fonları. Para çoğaltanı = 1/zorunlu karşılık oranı.</li><li><strong>TCMB para politikası araçları:</strong> Açık piyasa işlemleri (en etkili), zorunlu karşılık oranı, reeskont oranı (faiz koridoru). Politika faizi: haftalık repo faizi.</li><li><strong>Para politikası çeşitleri:</strong><br>→ <strong>Daraltıcı (sıkı):</strong> Enflasyonla mücadele — faiz artışı, zorunlu karşılık artışı, tahvil satışı → para arzı azalır.<br>→ <strong>Genişletici:</strong> Büyümeyi destekleme — faiz indirimi, tahvil alımı → para arzı artar.</li><li><strong>Para politikası amaçları:</strong> Fiyat istikrarı (temel amaç), tam istihdam, ekonomik büyüme, döviz istikrarı. TCMB'nin öncelikli hedefi enflasyon hedeflemesi.</li><li><strong>Parasal aktarım mekanizması:</strong> Faiz kanalı, kredi kanalı, döviz kuru kanalı, varlık fiyatları kanalı, beklentiler kanalı.</li></ul>"
+        "body": "<ul><li><strong>Para tanımı ve para arzı:</strong> M1 = nakit + vadesiz mevduat. M2 = M1 + vadeli mevduat. M3 = M2 + repo, para piyasası fonları. Para çoğaltanı = 1/zorunlu karşılık oranı.</li><li><strong>TCMB (türkiye cumhuriyet merkez bankası) para politikası araçları:</strong> Açık piyasa işlemleri (en etkili), zorunlu karşılık oranı, reeskont oranı (faiz koridoru). Politika faizi: haftalık repo faizi.</li><li><strong>Para politikası çeşitleri:</strong><br>→ <strong>Daraltıcı (sıkı):</strong> Enflasyonla mücadele — faiz artışı, zorunlu karşılık artışı, tahvil satışı → para arzı azalır.<br>→ <strong>Genişletici:</strong> Büyümeyi destekleme — faiz indirimi, tahvil alımı → para arzı artar.</li><li><strong>Para politikası amaçları:</strong> Fiyat istikrarı (temel amaç), tam istihdam, ekonomik büyüme, döviz istikrarı. TCMB (türkiye cumhuriyet merkez bankası)'nin öncelikli hedefi enflasyon hedeflemesi.</li><li><strong>Parasal aktarım mekanizması:</strong> Faiz kanalı, kredi kanalı, döviz kuru kanalı, varlık fiyatları kanalı, beklentiler kanalı.</li></ul>"
       },
       {
         "num": "04",
@@ -10510,7 +10510,7 @@ window.__C = {
           "e": "Para çoğaltanı: bankacılık sistemi mevduat-kredi döngüsüyle merkez bankası parasını 'çarpar'. Zorunlu karşılık oranı %10 ise çoğaltan = 1/0,10 = 10; yani 1 TL merkez bankası parası 10 TL mevduat yaratır. Karşılık oranı yükseldikçe çoğaltan küçülür, para arzı daralır."
         },
         {
-          "q": "TCMB'nin temel para politikası aracı hangisidir?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası)'nin temel para politikası aracı hangisidir?",
           "o": [
             "A) Döviz müdahalesi",
             "B) Zorunlu karşılık oranı",
@@ -10518,7 +10518,7 @@ window.__C = {
             "D) Reeskont penceresi"
           ],
           "a": 2,
-          "e": "Açık piyasa işlemleri TCMB'nin en etkili ve sık kullandığı para politikası aracıdır. Tahvil alım-satımı ile piyasadaki likiditeyi doğrudan etkiler. Haftalık repo ihale faizi TCMB'nin politika faizi olarak işlev görür ve piyasa faizlerine yön verir."
+          "e": "Açık piyasa işlemleri TCMB (türkiye cumhuriyet merkez bankası)'nin en etkili ve sık kullandığı para politikası aracıdır. Tahvil alım-satımı ile piyasadaki likiditeyi doğrudan etkiler. Haftalık repo ihale faizi TCMB (türkiye cumhuriyet merkez bankası)'nin politika faizi olarak işlev görür ve piyasa faizlerine yön verir."
         },
         {
           "q": "Daraltıcı para politikasının beklenen etkileri nelerdir?",
@@ -10754,15 +10754,15 @@ window.__C = {
           "e": "Fisher etkisi: (1+i) = (1+r)(1+π). Basit haliyle: i ≈ r + π. Beklenen enflasyon 1 puan artarsa nominal faiz de yaklaşık 1 puan artar; reel faiz değişmez. Uzun dönemde geçerlidir. Merkez bankaları reel faizi kontrol etmek için nominal faizi enflasyon değişimine göre ayarlar."
         },
         {
-          "q": "Avrupa Merkez Bankası ve TCMB para politikası amaçları arasındaki temel fark nedir?",
+          "q": "Avrupa Merkez Bankası ve TCMB (türkiye cumhuriyet merkez bankası) para politikası amaçları arasındaki temel fark nedir?",
           "o": [
             "A) İkisi de aynı amaca sahiptir",
-            "B) ECB'nin yasal tek amacı fiyat istikrarıdır; TCMB büyüme ve istihdamı da gözetir",
-            "C) TCMB yalnızca döviz kurunu hedefler",
+            "B) ECB'nin yasal tek amacı fiyat istikrarıdır; TCMB (türkiye cumhuriyet merkez bankası) büyüme ve istihdamı da gözetir",
+            "C) TCMB (türkiye cumhuriyet merkez bankası) yalnızca döviz kurunu hedefler",
             "D) ECB faiz kararlarında hükümet onayı gerektirir"
           ],
           "a": 1,
-          "e": "ECB Maastricht Antlaşması ile yalnızca fiyat istikrarını birincil hedef olarak belirlemiş; büyüme ve istihdam ikincil önem taşır. TCMB'nin temel amacı da fiyat istikrarı olmakla birlikte yasası büyüme ve istihdam hedeflerini de içermektedir. ABD Fed ise çift mandate — fiyat istikrarı ve maksimum istihdam — ile yönetilir."
+          "e": "ECB Maastricht Antlaşması ile yalnızca fiyat istikrarını birincil hedef olarak belirlemiş; büyüme ve istihdam ikincil önem taşır. TCMB (türkiye cumhuriyet merkez bankası)'nin temel amacı da fiyat istikrarı olmakla birlikte yasası büyüme ve istihdam hedeflerini de içermektedir. ABD Fed ise çift mandate — fiyat istikrarı ve maksimum istihdam — ile yönetilir."
         },
         {
           "q": "Laffer eğrisi ile ilgili aşağıdakilerden hangisi doğrudur?",
@@ -11384,7 +11384,7 @@ window.__C = {
             "D) Yalnızca uzun dönemde önemlidir"
           ],
           "a": 1,
-          "e": "Beklenti kanalı: firmalar ve hanehalkı gelecek enflasyon beklentisine göre şimdiden fiyat ve ücret kararları alır. Beklentiler yüksekse gerçek enflasyon da yüksek olur (kendi kendini gerçekleştiren kehanet). Bu nedenle merkez bankası güvenilirliği ve iletişimi kritiktir — 'enflasyon beklentilerini çıpalamak' modern para politikasının özüdür. TCMB'nin şeffaf iletişimi bu işleve hizmet eder."
+          "e": "Beklenti kanalı: firmalar ve hanehalkı gelecek enflasyon beklentisine göre şimdiden fiyat ve ücret kararları alır. Beklentiler yüksekse gerçek enflasyon da yüksek olur (kendi kendini gerçekleştiren kehanet). Bu nedenle merkez bankası güvenilirliği ve iletişimi kritiktir — 'enflasyon beklentilerini çıpalamak' modern para politikasının özüdür. TCMB (türkiye cumhuriyet merkez bankası)'nin şeffaf iletişimi bu işleve hizmet eder."
         },
         {
           "q": "Serbest ticaretin korunmacılığa karşı argümanlarını özetleyiniz.",
@@ -12362,7 +12362,7 @@ window.__C = {
             "D) Veritabanı standardı"
           ],
           "a": 1,
-          "e": "ISO/IEC 27001: Bilgi güvenliği için PDCA döngüsü. Risk değerlendirmesi ve risk işleme. Annex A'da 93 kontrol başlığı (2022 sürümü). Sertifikasyon mümkün — üçüncü tarafça bağımsız denetim. ISO 27002: uygulama kılavuzu. ISO 27032: siber güvenlik kılavuzu. SPK BSYUE düzenlemeleri ile ilişkili."
+          "e": "ISO/IEC 27001: Bilgi güvenliği için PDCA döngüsü. Risk değerlendirmesi ve risk işleme. Annex A'da 93 kontrol başlığı (2022 sürümü). Sertifikasyon mümkün — üçüncü tarafça bağımsız denetim. ISO 27002: uygulama kılavuzu. ISO 27032: siber güvenlik kılavuzu. SPK (sermaye piyasası kurulu) BSYUE düzenlemeleri ile ilişkili."
         },
         {
           "q": "Güvenlik denetiminde adli bilişim (digital forensics) nasıl uygulanır?",
@@ -12395,7 +12395,7 @@ window.__C = {
             "D) Kapasite planlaması"
           ],
           "a": 1,
-          "e": "Log saklama süreleri: Yasal gereklilikler değişir: KVKK, bankacılık, sermaye piyasası düzenlemeleri. SPK düzenlemeleri log saklama süresi belirler. Güvenlik ihlali soruşturmasında loglar kritik delil. Log bütünlüğü: zaman damgası, dijital imza, değiştirilemez depolama. Merkezi log yönetimi (SIEM) ile kolay erişim ve analiz."
+          "e": "Log saklama süreleri: Yasal gereklilikler değişir: KVKK, bankacılık, sermaye piyasası düzenlemeleri. SPK (sermaye piyasası kurulu) düzenlemeleri log saklama süresi belirler. Güvenlik ihlali soruşturmasında loglar kritik delil. Log bütünlüğü: zaman damgası, dijital imza, değiştirilemez depolama. Merkezi log yönetimi (SIEM) ile kolay erişim ve analiz."
         },
         {
           "q": "Güvenlik mimarisinde 'Zero Trust Network Access' (ZTNA) geleneksel VPN'den nasıl farklıdır?",
@@ -12417,7 +12417,7 @@ window.__C = {
             "D) Kullanıcıyı kilitler"
           ],
           "a": 1,
-          "e": "Fail secure (güvenli hata): Güvenlik kontrolü başarısız olduğunda sistem güvenli tarafta hata yapar. Örn: Erişim kontrol sistemi çöktüğünde erişimi AÇMA → REDDET. Güvenlik duvarı çöktüğünde tüm trafiğe izin verme → engelle (fail closed). Fail open (fail insecure) ile karıştırılmamalı — ikincisi tehlikeli. Hayat güvenliği sistemlerinde (yangın kapısı) fail open kullanılır."
+          "e": "Fail secure (güvenli hata): Güvenlik kontrolü başarısız olduğunda sistem güvenli tarafta hata yapar. Örn: Erişim kontrol sistemi çöktüğünde erişimi AÇMA → REDD (güçlendirilmiş durum tespiti)ET. Güvenlik duvarı çöktüğünde tüm trafiğe izin verme → engelle (fail closed). Fail open (fail insecure) ile karıştırılmamalı — ikincisi tehlikeli. Hayat güvenliği sistemlerinde (yangın kapısı) fail open kullanılır."
         },
         {
           "q": "Güvenlik gözetiminde tehdit avı (threat hunting) nedir?",
@@ -12584,7 +12584,7 @@ window.__C = {
             "D) Yedekleme doğrulama"
           ],
           "a": 1,
-          "e": "Audit trail (denetim izi): Her önemli işlemin kaydı — kullanıcı, zaman, kaynak, eylem, sonuç. Kullanım alanları: Güvenlik ihlali soruşturması. Uyum kanıtı (KVKK, SPK). Adli inceleme (forensics). Hesap verebilirlik. Log bütünlüğü: zaman damgası, değiştirilemezlik, merkezi depolama. BS denetçisi audit trail'in eksiksiz, güvenli ve analiz edildiğini doğrular."
+          "e": "Audit trail (denetim izi): Her önemli işlemin kaydı — kullanıcı, zaman, kaynak, eylem, sonuç. Kullanım alanları: Güvenlik ihlali soruşturması. Uyum kanıtı (KVKK, SPK (sermaye piyasası kurulu)). Adli inceleme (forensics). Hesap verebilirlik. Log bütünlüğü: zaman damgası, değiştirilemezlik, merkezi depolama. BS denetçisi audit trail'in eksiksiz, güvenli ve analiz edildiğini doğrular."
         },
         {
           "q": "Kriptografide 'rainbow table' saldırısı nedir ve nasıl önlenir?",
@@ -13219,7 +13219,7 @@ window.__C = {
             "D) Vergi uyumsuzluğu"
           ],
           "a": 1,
-          "e": "Kripto borsası güvenlik riskleri: Özel anahtar hırsızlığı (Mt. Gox, Bitfinex örnekleri). Sıcak cüzdan oranı. İç hile ve yetkisiz işlemler. Müşteri varlık ayrımı. KYC/AML uyumu. İşlem kaydı ve denetim izi."
+          "e": "Kripto borsası güvenlik riskleri: Özel anahtar hırsızlığı (Mt. Gox, Bitfinex örnekleri). Sıcak cüzdan oranı. İç hile ve yetkisiz işlemler. Müşteri varlık ayrımı. KYC (müşteri tanıma)/AML uyumu. İşlem kaydı ve denetim izi."
         },
         {
           "q": "Akıllı sözleşme denetimi neden deploy öncesinde kritiktir?",
@@ -13463,7 +13463,7 @@ window.__C = {
             "D) Özel bulutun bir türü"
           ],
           "a": 1,
-          "e": "Topluluk bulutu (community cloud): Benzer gereksinimlere sahip organizasyonlar grubu tarafından paylaşılır. Örn. aynı sektörün düzenleyici uyum gereksinimleri (finans sektörü, sağlık). Genel buluttan daha fazla kontrol, özel buluttan daha az maliyet. SPK düzenlemelerine tabi kuruluşlar için uygun olabilir."
+          "e": "Topluluk bulutu (community cloud): Benzer gereksinimlere sahip organizasyonlar grubu tarafından paylaşılır. Örn. aynı sektörün düzenleyici uyum gereksinimleri (finans sektörü, sağlık). Genel buluttan daha fazla kontrol, özel buluttan daha az maliyet. SPK (sermaye piyasası kurulu) düzenlemelerine tabi kuruluşlar için uygun olabilir."
         },
         {
           "q": "BS işletiminde talep yönetimi olay yönetiminden nasıl ayrışır?",
@@ -15057,8 +15057,8 @@ window.__C = {
       },
       {
         "num": "05",
-        "title": "SPK Tebliğleri — BS Yönetimi ve Denetimi",
-        "body": "<ul><li><strong>BSYUE (VII-128.10) — BS Yönetimine İlişkin Usul ve Esaslar:</strong> Halka açık şirketler ve sermaye piyasası kurumları için BS yönetim gereklilikleri. BS politikaları, risk yönetimi, iş sürekliliği, değişim yönetimi, erişim kontrolü zorunlulukları.</li><li><strong>BSBD Tebliği (III-62.2) — BS Bağımsız Denetimi:</strong> BS bağımsız denetim kuruluşlarının yetkilendirilmesi, faaliyete ilişkin genel esaslar, denetim metodolojisi, raporlama. Genel BS kontrolleri ve uygulama kontrolleri denetim kapsamında.</li><li><strong>Bağımsız Denetim Standartları (Seri:X, No:22):</strong> Denetime tabi işletmeler, bağımsız denetçi nitelikleri, bağımsızlık ilkeleri, denetim sözleşmesi, raporlama standartları.</li><li><strong>Bağımsızlık ilkeleri:</strong> Fikir bağımsızlığı (independence in mind) ve görünürde bağımsızlık (independence in appearance). Bağımsızlığı tehdit eden durumlar: öz inceleme, savunuculuk, yakınlık, yıldırma, kişisel çıkar.</li><li><strong>Diğer düzenleyiciler:</strong> BDDK (bankalar), SEDDK (sigorta/emeklilik), GİB (e-defter), TCMB. Her sektör için BS denetim gereklilikleri farklı.</li></ul>"
+        "title": "SPK (sermaye piyasası kurulu) Tebliğleri — BS Yönetimi ve Denetimi",
+        "body": "<ul><li><strong>BSYUE (VII-128.10) — BS Yönetimine İlişkin Usul ve Esaslar:</strong> Halka açık şirketler ve sermaye piyasası kurumları için BS yönetim gereklilikleri. BS politikaları, risk yönetimi, iş sürekliliği, değişim yönetimi, erişim kontrolü zorunlulukları.</li><li><strong>BSBD Tebliği (III-62.2) — BS Bağımsız Denetimi:</strong> BS bağımsız denetim kuruluşlarının yetkilendirilmesi, faaliyete ilişkin genel esaslar, denetim metodolojisi, raporlama. Genel BS kontrolleri ve uygulama kontrolleri denetim kapsamında.</li><li><strong>Bağımsız Denetim Standartları (Seri:X, No:22):</strong> Denetime tabi işletmeler, bağımsız denetçi nitelikleri, bağımsızlık ilkeleri, denetim sözleşmesi, raporlama standartları.</li><li><strong>Bağımsızlık ilkeleri:</strong> Fikir bağımsızlığı (independence in mind) ve görünürde bağımsızlık (independence in appearance). Bağımsızlığı tehdit eden durumlar: öz inceleme, savunuculuk, yakınlık, yıldırma, kişisel çıkar.</li><li><strong>Diğer düzenleyiciler:</strong> BDDK (bankalar), SEDD (güçlendirilmiş durum tespiti)K (sigorta/emeklilik), GİB (e-defter), TCMB (türkiye cumhuriyet merkez bankası). Her sektör için BS denetim gereklilikleri farklı.</li></ul>"
       },
       {
         "num": "06",
@@ -15167,7 +15167,7 @@ window.__C = {
           "e": "Kontrol riski: İşletmenin iç kontrollerinin var olan önemli bir hatayı önleyemediği, tespit edemediği veya düzeltemediği ihtimalidir. Denetçi bu riski doğrudan kontrol edemez ancak kontrolleri değerlendirerek tahmini belirler. Kontrol riski yüksekse denetçi daha kapsamlı maddi doğrulama prosedürleri uygular."
         },
         {
-          "q": "SPK BSYUE (VII-128.10) Tebliği'nin amacı nedir?",
+          "q": "SPK (sermaye piyasası kurulu) BSYUE (VII-128.10) Tebliği'nin amacı nedir?",
           "o": [
             "A) BS bağımsız denetim kuruluşlarını yetkilendirmek",
             "B) Sermaye piyasası kurumları için BS yönetim politikaları, süreçleri ve kontrollerini düzenlemek",
@@ -15175,7 +15175,7 @@ window.__C = {
             "D) BS personelinin sertifikasyonunu düzenlemek"
           ],
           "a": 1,
-          "e": "BSYUE (Bilgi Sistemleri Yönetimine İlişkin Usul ve Esaslar Tebliği VII-128.10): Halka açık şirketler ve sermaye piyasası kurumları için BS yönetim gerekliliklerini belirler. Kapsam: BS politikaları, erişim yönetimi, değişim yönetimi, iş sürekliliği, veri yönetimi. İşletme bu gerekliliklere uyumu SPK'ya raporlar."
+          "e": "BSYUE (Bilgi Sistemleri Yönetimine İlişkin Usul ve Esaslar Tebliği VII-128.10): Halka açık şirketler ve sermaye piyasası kurumları için BS yönetim gerekliliklerini belirler. Kapsam: BS politikaları, erişim yönetimi, değişim yönetimi, iş sürekliliği, veri yönetimi. İşletme bu gerekliliklere uyumu SPK (sermaye piyasası kurulu)'ya raporlar."
         },
         {
           "q": "ISACA tarafından BS denetiminde kullanılan etik kuralların temel unsurları nelerdir?",
@@ -15288,7 +15288,7 @@ window.__C = {
           "e": "Risk derecelendirmesinde yüksek risk: İşletmenin kritik hedeflerini, varlık güvenliğini veya yasal uyumunu ciddi ölçüde tehdit eden; olası etkisi geniş ve olasılığı yüksek bulgular. Düşük ve orta riskli bulgulardan farklı olarak yüksek riskli bulgular en kısa sürede giderilmeli, sorumlu yöneticilere ve üst yönetime raporlanmalıdır."
         },
         {
-          "q": "SPK BSBD Tebliği (III-62.2) kapsamında BS bağımsız denetim görüşü türleri nelerdir?",
+          "q": "SPK (sermaye piyasası kurulu) BSBD Tebliği (III-62.2) kapsamında BS bağımsız denetim görüşü türleri nelerdir?",
           "o": [
             "A) Yalnızca olumlu ve olumsuz",
             "B) Olumlu, şartlı (sınırlı), olumsuz, görüş vermekten kaçınma",
@@ -15331,7 +15331,7 @@ window.__C = {
             "D) Sunucu bakımı"
           ],
           "a": 1,
-          "e": "Outsourcing prensiplerinden: İşletme BS hizmetlerini dış kaynağa devredebilir ancak bu hizmetlerin denetlenmesi, yönetilmesi ve nihai sorumluluğu hep işletmede kalır. SPK düzenlemeleri de bu yükümlülüğü açıkça düzenler. Hizmet Seviye Anlaşması (SLA) zorunlu."
+          "e": "Outsourcing prensiplerinden: İşletme BS hizmetlerini dış kaynağa devredebilir ancak bu hizmetlerin denetlenmesi, yönetilmesi ve nihai sorumluluğu hep işletmede kalır. SPK (sermaye piyasası kurulu) düzenlemeleri de bu yükümlülüğü açıkça düzenler. Hizmet Seviye Anlaşması (SLA) zorunlu."
         },
         {
           "q": "'Mantıksal erişim kontrolü' kapsamındaki 'en az yetki ilkesi' (least privilege) nedir?",
@@ -15491,7 +15491,7 @@ window.__C = {
           "q": "BS denetiminde 'yasal düzenleyici uyum denetimi' ile 'operasyonel denetim' arasındaki fark nedir?",
           "o": [
             "A) Aynıdır",
-            "B) Uyum denetimi — işletmenin yasal düzenlemelere (SPK, BDDK, KVKK) uygunluğunu değerlendirir. Operasyonel denetim — süreçlerin etkinlik ve verimliğini değerlendirir",
+            "B) Uyum denetimi — işletmenin yasal düzenlemelere (SPK (sermaye piyasası kurulu), BDDK (bankacılık düzenleme ve denetleme kurumu), KVKK) uygunluğunu değerlendirir. Operasyonel denetim — süreçlerin etkinlik ve verimliğini değerlendirir",
             "C) Operasyonel daha kapsamlı",
             "D) Uyum denetimi yalnızca finans için"
           ],
@@ -15666,7 +15666,7 @@ window.__C = {
           "e": "Tam kesme testi (full-interruption / full-scale test): Tüm üretim sistemi durdurulur ve yedek sistemlere geçilir. Test en gerçekçi sonuçları verir ancak üretim sistemlerinin kapatılması iş riskini beraberinde getirir. Alternatifler: paralel test (her ikisi çalışır), kısmi test (bazı bileşenler), masa başı tatbikat. Denetçi DRP testlerinin yapıldığını ve belgelendiğini doğrular."
         },
         {
-          "q": "BDDK'nın BS denetimine ilişkin temel düzenlemesi nedir?",
+          "q": "BDDK (bankacılık düzenleme ve denetleme kurumu)'nın BS denetimine ilişkin temel düzenlemesi nedir?",
           "o": [
             "A) BSYUE",
             "B) Bankaların Bilgi Sistemleri ve Elektronik Bankacılık Hizmetleri Hakkında Yönetmelik ve BS İş Süreçleri Bağımsız Denetimi Hakkında Yönetmelik",
@@ -15674,7 +15674,7 @@ window.__C = {
             "D) COBIT uygulama yükümlülüğü"
           ],
           "a": 1,
-          "e": "BDDK BS düzenlemeleri: Bankaların Bilgi Sistemleri ve Elektronik Bankacılık Hizmetleri Hakkında Yönetmelik — bankacılık BS altyapısı, elektronik hizmetler, siber güvenlik gereklilikleri. BS ve İş Süreçleri Bağımsız Denetimi Hakkında Yönetmelik — bankaların BS'lerinin bağımsız denetimini düzenler. Bu iki düzenleme BS denetim kuruluşları için temel kaynak."
+          "e": "BDDK (bankacılık düzenleme ve denetleme kurumu) BS düzenlemeleri: Bankaların Bilgi Sistemleri ve Elektronik Bankacılık Hizmetleri Hakkında Yönetmelik — bankacılık BS altyapısı, elektronik hizmetler, siber güvenlik gereklilikleri. BS ve İş Süreçleri Bağımsız Denetimi Hakkında Yönetmelik — bankaların BS'lerinin bağımsız denetimini düzenler. Bu iki düzenleme BS denetim kuruluşları için temel kaynak."
         },
         {
           "q": "'Kontrol ortamı' (control environment) neden tüm iç kontrol sisteminin temeli sayılır?",
@@ -15718,7 +15718,7 @@ window.__C = {
             "D) Yasal zorunluluktur"
           ],
           "a": 1,
-          "e": "MFA: Bilgi (şifre), Sahiplik (OTP token), Biyometri (parmak izi) faktörlerinden en az ikisi kullanılır. Şifre çalınsa bile saldırgan fiziksel tokena veya biyometrik veriye ihtiyaç duyar. Özellikle ayrıcalıklı hesaplar ve uzaktan erişim için kritik. BSYUE ve BDDK yönetmelikleri kritik sistemlerde MFA gerektirir."
+          "e": "MFA: Bilgi (şifre), Sahiplik (OTP token), Biyometri (parmak izi) faktörlerinden en az ikisi kullanılır. Şifre çalınsa bile saldırgan fiziksel tokena veya biyometrik veriye ihtiyaç duyar. Özellikle ayrıcalıklı hesaplar ve uzaktan erişim için kritik. BSYUE ve BDDK (bankacılık düzenleme ve denetleme kurumu) yönetmelikleri kritik sistemlerde MFA gerektirir."
         },
         {
           "q": "KVKK BS denetimini nasıl etkiler?",
@@ -15726,7 +15726,7 @@ window.__C = {
             "A) Etkisi yoktur",
             "B) Kişisel veri işleyen sistemlerin erişim kontrolleri, şifreleme, veri maskeleme ve ihlal bildirim prosedürleri denetim kapsamına girer",
             "C) Yalnızca HR sistemleri için",
-            "D) SPK kapsamındadır"
+            "D) SPK (sermaye piyasası kurulu) kapsamındadır"
           ],
           "a": 1,
           "e": "KVKK ve BS denetimi: Kişisel veri işleyen tüm BS bileşenleri değerlendirilir. Denetim konuları: erişim kontrolü, şifreleme, veri minimizasyonu, saklama politikaları, ihlal tespiti ve KVKK'ya bildirim prosedürü, DPIA (veri koruma etki değerlendirmesi)."
@@ -15789,15 +15789,15 @@ window.__C = {
           "e": "Sürekli denetim: Gömülü denetim modülleri, CAAT araçları ve otomatik raporlama ile işlemler sürekli izlenir. Anormallikler anlık tespit edilir. Geleneksel denetim dönemsel ve geriye dönük; sürekli denetim anlık ve proaktif. Büyük hacimli işlem yapan kurumlar için daha etkin risk yönetimi sağlar."
         },
         {
-          "q": "SPK BSBD (III-62.2) Tebliği'ne göre BS bağımsız denetim kuruluşlarının faaliyete ilişkin temel yükümlülükleri nelerdir?",
+          "q": "SPK (sermaye piyasası kurulu) BSBD (III-62.2) Tebliği'ne göre BS bağımsız denetim kuruluşlarının faaliyete ilişkin temel yükümlülükleri nelerdir?",
           "o": [
             "A) Yalnızca rapor hazırlamak",
             "B) Yetkilendirme şartlarını korumak, bağımsızlığı sürdürmek, metodoloji uygulamak, denetim raporlarını zamanında sunmak ve Kurul'a bildirimlerde bulunmak",
-            "C) Yalnızca SPK onayı almak",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) onayı almak",
             "D) Bağımsız denetçi atamak"
           ],
           "a": 1,
-          "e": "BSBD Tebliği yükümlülükleri: Yetkilendirme şartlarını sürekli sağlamak. Bağımsızlık ve mesleki etik kurallara uymak. SPK onaylı metodoloji çerçevesinde denetim yapmak. Denetim raporunu süresi içinde sunmak. Önemli bulguları Kurul'a bildirmek. Personel nitelikleri ve eğitim standartlarını korumak."
+          "e": "BSBD Tebliği yükümlülükleri: Yetkilendirme şartlarını sürekli sağlamak. Bağımsızlık ve mesleki etik kurallara uymak. SPK (sermaye piyasası kurulu) onaylı metodoloji çerçevesinde denetim yapmak. Denetim raporunu süresi içinde sunmak. Önemli bulguları Kurul'a bildirmek. Personel nitelikleri ve eğitim standartlarını korumak."
         },
         {
           "q": "'Kurumsal mimari' (enterprise architecture) neden BS denetiminde önemlidir?",
@@ -15841,7 +15841,7 @@ window.__C = {
             "D) Merkezi Bilgi Sistemi Analizi"
           ],
           "a": 1,
-          "e": "CISA (Certified Information Systems Auditor): ISACA tarafından verilen uluslararası BS denetim sertifikası. Kapsadığı alanlar: BS denetim süreci, BS yönetişim, bilgi sistemi edinimi/geliştirme/uygulama, BS operasyonları/bakımı/destek, bilgi varlıklarının korunması. Türkiye'de SPK düzenlemeleri ISACA etik kurallarına atıf yapar."
+          "e": "CISA (Certified Information Systems Auditor): ISACA tarafından verilen uluslararası BS denetim sertifikası. Kapsadığı alanlar: BS denetim süreci, BS yönetişim, bilgi sistemi edinimi/geliştirme/uygulama, BS operasyonları/bakımı/destek, bilgi varlıklarının korunması. Türkiye'de SPK (sermaye piyasası kurulu) düzenlemeleri ISACA etik kurallarına atıf yapar."
         },
         {
           "q": "BS denetiminde 'örnekleme' ne zaman uygulanır?",
@@ -16074,7 +16074,7 @@ window.__C = {
             "D) Raporun sonuna not düşülür"
           ],
           "a": 1,
-          "e": "Çıkar çatışması yönetimi: Denetçinin müşterisiyle veya denetim konusuyla finansal, kişisel veya mesleki çıkar ilişkisi oluştuğunda: 1) Durumu üst yönetime açıkla. 2) Müşteriye açıkla. 3) Uygun önlem al: ilgili personeli görevden çıkar, konuyu farklı ekibe devret veya görevi reddet. ISACA ve SPK etik kuralları bu yükümlülüğü açıkça düzenler."
+          "e": "Çıkar çatışması yönetimi: Denetçinin müşterisiyle veya denetim konusuyla finansal, kişisel veya mesleki çıkar ilişkisi oluştuğunda: 1) Durumu üst yönetime açıkla. 2) Müşteriye açıkla. 3) Uygun önlem al: ilgili personeli görevden çıkar, konuyu farklı ekibe devret veya görevi reddet. ISACA ve SPK (sermaye piyasası kurulu) etik kuralları bu yükümlülüğü açıkça düzenler."
         },
         {
           "q": "BS denetiminde 'analitik prosedürler' ne amaçla kullanılır?",
@@ -17092,7 +17092,7 @@ window.__C = {
             "A) Halka açık olmak",
             "B) Bağımsız denetime tabi olmak ama KAYİK (Kamuya Yönelik Açıklamalarda İnternet Kullanımı) niteliğinde olmamak",
             "C) Yalnızca büyük şirketler",
-            "D) SPK kaydı"
+            "D) SPK (sermaye piyasası kurulu) kaydı"
           ],
           "a": 1,
           "e": "BOBİ FRS: Bağımsız denetime tabi olmakla birlikte KAYİK niteliğinde olmayan işletmeler için tasarlanmış Büyük ve Orta Boy İşletmeler için Finansal Raporlama Standardı. TMS/TFRS'nin basitleştirilmiş versiyonu. İnşaat şirketleri bağımsız denetim kapsamına giriyorsa ama halka açık değilse BOBİ FRS uygulayabilir."
@@ -17258,11 +17258,11 @@ window.__C = {
           "o": [
             "A) Şirket muhasebe departmanı",
             "B) Tercihen bağımsız değerleme uzmanı; ancak standart iç değerlemeyi yasaklamıyor — yeterli yetkinlik şart",
-            "C) Yalnızca SPK yetkili kuruluş",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) yetkili kuruluş",
             "D) Yalnızca RICS üyesi"
           ],
           "a": 1,
-          "e": "TMS 40 md. 32: Bağımsız ve yetkin profesyonel değerleme uzmanı kullanımı teşvik edilir ama zorunlu değildir. Uzman, mülkün konumu ve kategorisi hakkında yeterli bilgi ve deneyime sahip olmalıdır. Türkiye'de halka açık şirketlerde ise SPK yetkili değerleme kuruluşu zorunludur. İç değerleme için yeterli belgeleme ve kamuya açıklama gerekir."
+          "e": "TMS 40 md. 32: Bağımsız ve yetkin profesyonel değerleme uzmanı kullanımı teşvik edilir ama zorunlu değildir. Uzman, mülkün konumu ve kategorisi hakkında yeterli bilgi ve deneyime sahip olmalıdır. Türkiye'de halka açık şirketlerde ise SPK (sermaye piyasası kurulu) yetkili değerleme kuruluşu zorunludur. İç değerleme için yeterli belgeleme ve kamuya açıklama gerekir."
         },
         {
           "q": "TFRS 16'da kiraya verenin muhasebesi nasıldır?",
@@ -17359,7 +17359,7 @@ window.__C = {
     "summary": [
       {
         "num": "01",
-        "title": "SPK Gayrimenkul Değerleme Kuruluşları Tebliği (III-62.3)",
+        "title": "SPK (sermaye piyasası kurulu) Gayrimenkul Değerleme Kuruluşları Tebliği (III-62.3)",
         "body": "<ul><li><strong>Yetkilendirme şartları:</strong> Anonim şirket olma, asgari ödenmiş sermaye, yeterli uzman kadrosu. En az 2 sorumlu değerleme uzmanı, tam zamanlı çalışma zorunluluğu.</li><li><strong>Bağımsızlık:</strong> Değerleme ücreti değerleme sonucuna bağlanamaz. Son 3 yılda müşteriye veya bağlı şirketine hizmet verilmiş olması bağımsızlığı ortadan kaldırır. Aynı müşteriye 3 ardışık yıl değerleme yapılması durumunda 2 yıllık ara verilmesi gerekir.</li><li><strong>Yasaklar:</strong> Değerleme konusu mülkte çıkar ilişkisi, taraflı değerleme, sonuca göre ücret, gizli bilgilerin ifşası. Müşteri ile mülk üzerinde ortak iş yapılamaz.</li><li><strong>Değerleme raporu:</strong> Rapor bilgileri, müşteri bilgileri, yasal durum, fiziksel özellikler, kullanılan yöntemler, analiz sonuçları, nihai görüş zorunlu unsurlar.</li><li><strong>Sorumlu değerleme uzmanı:</strong> Her raporu imzalayan, değerlemenin teknik sorumluluğunu taşıyan lisanslı uzman. Tam zamanlılık şartı var.</li></ul>"
       },
       {
@@ -17395,7 +17395,7 @@ window.__C = {
       {
         "num": "08",
         "title": "Emlak Vergisi ve Değerli Konut Vergisi",
-        "body": "<ul><li><strong>Emlak vergisi:</strong> Bina vergisi ve arazi vergisi. Vergi mükellefi: malik, intifa hakkı sahibi veya her ikisi yoksa tasarruf eden. Beyan: 4 yılda bir döngüsel beyan.</li><li><strong>Bina vergisi oranları:</strong> Konutlar: normal %0.1, büyükşehir %0.2. İşyerleri: %0.2, büyükşehir %0.4. Fabrika ve sanayi tesisleri: %0.1, büyükşehir %0.2.</li><li><strong>Arazi ve arsa vergisi:</strong> Arazi (tarım arazisi) %0.1. Arsa: normal %0.3, büyükşehir %0.6. Vergi değeri her 4 yılda bir takdir komisyonunca belirlenir.</li><li><strong>Değerli konut vergisi:</strong> Değeri belirli eşiği aşan konutlara uygulanan servet vergisi. Değer tespiti TKGM veya SPK yetkili değerleme kuruluşlarınca yapılır. Eşik üzerinde artan oranlı tarife.</li><li><strong>Takdir komisyonları:</strong> Belediye ve vergi dairesi temsilcilerinden oluşur. 4 yılda bir asgari arsa birim değerleri ve birim yapı maliyet değerlerini belirler.</li></ul>"
+        "body": "<ul><li><strong>Emlak vergisi:</strong> Bina vergisi ve arazi vergisi. Vergi mükellefi: malik, intifa hakkı sahibi veya her ikisi yoksa tasarruf eden. Beyan: 4 yılda bir döngüsel beyan.</li><li><strong>Bina vergisi oranları:</strong> Konutlar: normal %0.1, büyükşehir %0.2. İşyerleri: %0.2, büyükşehir %0.4. Fabrika ve sanayi tesisleri: %0.1, büyükşehir %0.2.</li><li><strong>Arazi ve arsa vergisi:</strong> Arazi (tarım arazisi) %0.1. Arsa: normal %0.3, büyükşehir %0.6. Vergi değeri her 4 yılda bir takdir komisyonunca belirlenir.</li><li><strong>Değerli konut vergisi:</strong> Değeri belirli eşiği aşan konutlara uygulanan servet vergisi. Değer tespiti TKGM veya SPK (sermaye piyasası kurulu) yetkili değerleme kuruluşlarınca yapılır. Eşik üzerinde artan oranlı tarife.</li><li><strong>Takdir komisyonları:</strong> Belediye ve vergi dairesi temsilcilerinden oluşur. 4 yılda bir asgari arsa birim değerleri ve birim yapı maliyet değerlerini belirler.</li></ul>"
       },
       {
         "num": "09",
@@ -17410,7 +17410,7 @@ window.__C = {
       {
         "num": "11",
         "title": "Kentsel Dönüşüm — 6306 Sayılı Kanun",
-        "body": "<ul><li><strong>Riskli alan, riskli yapı, rezerv yapı alanı:</strong> Riskli alan — CB kararıyla ilan edilir. Riskli yapı — lisanslı kuruluşlarca tespit edilir. Rezerv yapı alanı — hazine veya idare tasarrufundaki alanlar.</li><li><strong>Riskli yapı tespiti:</strong> SPK lisanslı değerleme kuruluşu veya lisanslı kuruluş tarafından yapılır. Yapı maliki veya hak sahibi talep edebilir. İtiraz hakkı — teknik heyet incelemesi.</li><li><strong>Yıkım ve yeniden yapım:</strong> Riskli yapı belirlendikten sonra 60 gün içinde boşaltma. Malikler anlaşarak yıkıp yeniden yapabilir (2/3 çoğunluk). Anlaşamazsa Bakanlık acele kamulaştırma dahil müdahale eder.</li><li><strong>Mali teşvikler:</strong> Kira yardımı, vergi muafiyetleri, faiz desteği. TOKİ ile ortaklık imkânı. 6306 kapsamında tapu harcı, damga vergisi, KDV muafiyetleri.</li><li><strong>Lisanslı kuruluş:</strong> Riskli yapı tespiti için Bakanlıktan lisanslı kuruluş gerekli. 4708 sayılı Yapı Denetim Kanunu kapsamında yetkili kuruluşlar da yapabilir.</li></ul>"
+        "body": "<ul><li><strong>Riskli alan, riskli yapı, rezerv yapı alanı:</strong> Riskli alan — CB kararıyla ilan edilir. Riskli yapı — lisanslı kuruluşlarca tespit edilir. Rezerv yapı alanı — hazine veya idare tasarrufundaki alanlar.</li><li><strong>Riskli yapı tespiti:</strong> SPK (sermaye piyasası kurulu) lisanslı değerleme kuruluşu veya lisanslı kuruluş tarafından yapılır. Yapı maliki veya hak sahibi talep edebilir. İtiraz hakkı — teknik heyet incelemesi.</li><li><strong>Yıkım ve yeniden yapım:</strong> Riskli yapı belirlendikten sonra 60 gün içinde boşaltma. Malikler anlaşarak yıkıp yeniden yapabilir (2/3 çoğunluk). Anlaşamazsa Bakanlık acele kamulaştırma dahil müdahale eder.</li><li><strong>Mali teşvikler:</strong> Kira yardımı, vergi muafiyetleri, faiz desteği. TOKİ ile ortaklık imkânı. 6306 kapsamında tapu harcı, damga vergisi, KDV muafiyetleri.</li><li><strong>Lisanslı kuruluş:</strong> Riskli yapı tespiti için Bakanlıktan lisanslı kuruluş gerekli. 4708 sayılı Yapı Denetim Kanunu kapsamında yetkili kuruluşlar da yapabilir.</li></ul>"
       },
       {
         "num": "12",
@@ -17431,7 +17431,7 @@ window.__C = {
     "tests": {
       "t1": [
         {
-          "q": "SPK Tebliği III-62.3'e göre değerleme ücretinin sonuca bağlanması durumunda ne olur?",
+          "q": "SPK (sermaye piyasası kurulu) Tebliği III-62.3'e göre değerleme ücretinin sonuca bağlanması durumunda ne olur?",
           "o": [
             "A) Caiz değil ama yaptırım yok",
             "B) Kesinlikle yasak — bağımsızlığı ortadan kaldırır ve yetkiyi iptal gerektirebilir",
@@ -17439,7 +17439,7 @@ window.__C = {
             "D) İdari para cezası uygulanır ancak yetki sürer"
           ],
           "a": 1,
-          "e": "SPK Tebliği III-62.3 bağımsızlık kuralı: Değerleme ücreti hiçbir koşulda değerleme sonucuna bağlanamaz. Bu durum bağımsızlığı ortadan kaldıran hallerden biridir ve Kurul değerleme kuruluşunun yetkisini iptal edebilir. Bu yasak değerleme sektörünün temel güvenilirlik kuralıdır."
+          "e": "SPK (sermaye piyasası kurulu) Tebliği III-62.3 bağımsızlık kuralı: Değerleme ücreti hiçbir koşulda değerleme sonucuna bağlanamaz. Bu durum bağımsızlığı ortadan kaldıran hallerden biridir ve Kurul değerleme kuruluşunun yetkisini iptal edebilir. Bu yasak değerleme sektörünün temel güvenilirlik kuralıdır."
         },
         {
           "q": "Türk Medeni Kanunu'na göre taşınmaz mülkiyeti hangi yolla kazanılır?",
@@ -17637,14 +17637,14 @@ window.__C = {
             "D) Kiracı"
           ],
           "a": 1,
-          "e": "Değerli konut vergisi: Türkiye sınırları içindeki mesken niteliğini haiz binalar ve bağımsız bölümlerden değeri belirli eşiği aşanlar bu vergiye tabidir. Verginin mükellefi taşınmazın maliki, varsa intifa hakkı sahibidir. Değer tespiti için TKGM veya SPK yetkili değerleme kuruluşlarına başvurulur."
+          "e": "Değerli konut vergisi: Türkiye sınırları içindeki mesken niteliğini haiz binalar ve bağımsız bölümlerden değeri belirli eşiği aşanlar bu vergiye tabidir. Verginin mükellefi taşınmazın maliki, varsa intifa hakkı sahibidir. Değer tespiti için TKGM veya SPK (sermaye piyasası kurulu) yetkili değerleme kuruluşlarına başvurulur."
         },
         {
           "q": "TDUB'a üyelik zorunlu mu, ne zaman üye olunur?",
           "o": [
             "A) İsteğe bağlı",
             "B) Gayrimenkul değerleme lisansı alındığı tarihten itibaren 3 ay içinde zorunlu üyelik",
-            "C) Yalnızca SPK listesindeki kuruluşlar için",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) listesindeki kuruluşlar için",
             "D) Her yıl Ocak ayında yenilenir"
           ],
           "a": 1,
@@ -17653,7 +17653,7 @@ window.__C = {
       ],
       "t2": [
         {
-          "q": "SPK Tebliği'ne göre aynı müşteriye kaç yıl ardışık değerleme yapıldıktan sonra ara verilmesi zorunludur?",
+          "q": "SPK (sermaye piyasası kurulu) Tebliği'ne göre aynı müşteriye kaç yıl ardışık değerleme yapıldıktan sonra ara verilmesi zorunludur?",
           "o": [
             "A) 2 ardışık yıldan sonra 1 yıl ara",
             "B) 3 ardışık yıldan sonra 2 yıl ara",
@@ -17661,7 +17661,7 @@ window.__C = {
             "D) 10 ardışık yıldan sonra 3 yıl ara"
           ],
           "a": 1,
-          "e": "SPK Tebliği III-62.3 md. 16: Bir değerleme kuruluşu aynı müşteriye veya aynı müşterinin bağlı ortaklıklarına ardı ardına 3 yılı aşmamak kaydıyla değerleme hizmeti verebilir. 3 yıl tamamlandığında en az 2 yıl ara vermeleri zorunludur. Bu kural bağımsızlığı koruma amacıyla getirilmiştir."
+          "e": "SPK (sermaye piyasası kurulu) Tebliği III-62.3 md. 16: Bir değerleme kuruluşu aynı müşteriye veya aynı müşterinin bağlı ortaklıklarına ardı ardına 3 yılı aşmamak kaydıyla değerleme hizmeti verebilir. 3 yıl tamamlandığında en az 2 yıl ara vermeleri zorunludur. Bu kural bağımsızlığı koruma amacıyla getirilmiştir."
         },
         {
           "q": "Türk Medeni Kanunu'nda taşınmaz mülkiyetini doğrudan tescilsiz kazandıran haller nelerdir?",
@@ -18265,12 +18265,12 @@ window.__C = {
           "q": "Türkiye'de 'değerli konut vergisi'nin matrahı nasıl belirlenir?",
           "o": [
             "A) Emlak vergi değeri",
-            "B) TKGM veya SPK yetkili değerleme kuruluşlarınca belirlenen değer — her yıl güncellenir",
+            "B) TKGM veya SPK (sermaye piyasası kurulu) yetkili değerleme kuruluşlarınca belirlenen değer — her yıl güncellenir",
             "C) Alış bedeli",
             "D) Sigorta değeri"
           ],
           "a": 1,
-          "e": "1342 sayılı Değerli Konut Vergisi Kanunu: Değerli konutların vergi değeri, Tapu ve Kadastro Genel Müdürlüğü (TKGM) veya SPK'ya kayıtlı yetkili değerleme kuruluşlarınca belirlenir. Değerleme sonucu Resmî Gazete'de ilan edilir. Belirlenen eşiği aşan konutlar için artan oranlı tarife (binde 3 ila binde 10) uygulanır."
+          "e": "1342 sayılı Değerli Konut Vergisi Kanunu: Değerli konutların vergi değeri, Tapu ve Kadastro Genel Müdürlüğü (TKGM) veya SPK (sermaye piyasası kurulu)'ya kayıtlı yetkili değerleme kuruluşlarınca belirlenir. Değerleme sonucu Resmî Gazete'de ilan edilir. Belirlenen eşiği aşan konutlar için artan oranlı tarife (binde 3 ila binde 10) uygulanır."
         },
         {
           "q": "Büyükşehir belediyesinde 'alt yapı koordinasyon merkezi' ne işe yarar?",
@@ -18349,7 +18349,7 @@ window.__C = {
             "D) İşyeri hasarını"
           ],
           "a": 1,
-          "e": "SPK Tebliği III-62.3: Gayrimenkul değerleme kuruluşları ve uzmanları mesleki sorumluluk sigortası yaptırmak zorundadır. Bu sigorta, hatalı, yanıltıcı veya eksik değerleme raporu nedeniyle üçüncü kişilerin uğrayabileceği zararları karşılar. Poliçe limiti ve süre Tebliğ ile belirlenir."
+          "e": "SPK (sermaye piyasası kurulu) Tebliği III-62.3: Gayrimenkul değerleme kuruluşları ve uzmanları mesleki sorumluluk sigortası yaptırmak zorundadır. Bu sigorta, hatalı, yanıltıcı veya eksik değerleme raporu nedeniyle üçüncü kişilerin uğrayabileceği zararları karşılar. Poliçe limiti ve süre Tebliğ ile belirlenir."
         },
         {
           "q": "Türk vergi hukuku açısından 'kat karşılığı inşaat' sözleşmesinde arsa sahibinin vergi yükümlülüğü nedir?",
@@ -18379,10 +18379,10 @@ window.__C = {
             "A) Yalnızca uyarı",
             "B) Uyarı, kınama, geçici lisans iptali; ağır ihlallerde süresiz lisans iptali — Kurul bu kararları onaylar",
             "C) Para cezası yalnızca",
-            "D) TDUB ceza veremez, yalnızca SPK verebilir"
+            "D) TDUB ceza veremez, yalnızca SPK (sermaye piyasası kurulu) verebilir"
           ],
           "a": 1,
-          "e": "TDUB Statüsü: Disiplin komitesi, meslek kurallarını ihlal eden üyelere uyarı, kınama, lisansın geçici iptali ve lisansın süresiz iptali gibi disiplin cezaları verebilir. Bu cezalar yönetim kurulunca da uygulanabilir. Ağır ihlallerde SPK'ya bildirim yapılır. Üyelik sona erdirilebilir."
+          "e": "TDUB Statüsü: Disiplin komitesi, meslek kurallarını ihlal eden üyelere uyarı, kınama, lisansın geçici iptali ve lisansın süresiz iptali gibi disiplin cezaları verebilir. Bu cezalar yönetim kurulunca da uygulanabilir. Ağır ihlallerde SPK (sermaye piyasası kurulu)'ya bildirim yapılır. Üyelik sona erdirilebilir."
         },
         {
           "q": "Kentsel dönüşümde 6306 Sayılı Kanun kapsamında 'rezerv yapı alanı' nedir?",
@@ -18444,11 +18444,11 @@ window.__C = {
           "o": [
             "A) Önemsiz formalite",
             "B) Değerlemenin dayandığı kısıtlamaları (erişim engeli, belge eksikliği, çevre incelemesi yapılmamış) açıklar — kullanıcı riskleri anlayarak karar verebilir",
-            "C) SPK zorunluluğu değil",
+            "C) SPK (sermaye piyasası kurulu) zorunluluğu değil",
             "D) Değer azaltmak için kullanılır"
           ],
           "a": 1,
-          "e": "Değerleme standartları (UDS, RICS, SPK Tebliği): Sınırlayıcı koşullar; değerlemenin bazı kısıtlamalar altında yapıldığını açıklar. Örn. 'Zemin raporu incelenmedi', 'Yapının içine girilemedi', 'Teknik altyapı durum tespiti yapılmadı'. Bu koşullar değerin güvenilirlik sınırını belirler ve kullanıcıyı korur. Eksik beyan mesleki sorumluluk doğurur."
+          "e": "Değerleme standartları (UDS, RICS, SPK (sermaye piyasası kurulu) Tebliği): Sınırlayıcı koşullar; değerlemenin bazı kısıtlamalar altında yapıldığını açıklar. Örn. 'Zemin raporu incelenmedi', 'Yapının içine girilemedi', 'Teknik altyapı durum tespiti yapılmadı'. Bu koşullar değerin güvenilirlik sınırını belirler ve kullanıcıyı korur. Eksik beyan mesleki sorumluluk doğurur."
         },
         {
           "q": "Büyükşehirlerde 'ilçe belediyesi' ile 'büyükşehir belediyesi' arasında hizmet çakışması nasıl çözülür?",
@@ -18476,12 +18476,12 @@ window.__C = {
           "q": "Değerleme uzmanı bir değerleme raporu imzalarken hangi ek sorumluluğu taşır?",
           "o": [
             "A) Yalnızca müşterisine sorumlu",
-            "B) SPK Tebliği III-62.3: İmzalayan uzman, raporun doğru ve bağımsız olduğuna kişisel olarak garantör — üçüncü kişilerin zararlarından da sorumlu olabilir",
+            "B) SPK (sermaye piyasası kurulu) Tebliği III-62.3: İmzalayan uzman, raporun doğru ve bağımsız olduğuna kişisel olarak garantör — üçüncü kişilerin zararlarından da sorumlu olabilir",
             "C) Sorumluluk yalnızca kuruluşta",
             "D) İmza formalite, sorumluluk yok"
           ],
           "a": 1,
-          "e": "SPK Tebliği III-62.3 md. 15 ve 25: Değerleme raporunu imzalayan sorumlu değerleme uzmanı; raporun doğruluğundan, tamlığından ve bağımsızlığından kişisel olarak sorumludur. Mesleki sorumluluk sigortası bu sorumluluğu güvence altına alır. Üçüncü kişilerin rapordan zarar görmesi halinde uzman hukuki sorumlulukla karşılaşabilir."
+          "e": "SPK (sermaye piyasası kurulu) Tebliği III-62.3 md. 15 ve 25: Değerleme raporunu imzalayan sorumlu değerleme uzmanı; raporun doğruluğundan, tamlığından ve bağımsızlığından kişisel olarak sorumludur. Mesleki sorumluluk sigortası bu sorumluluğu güvence altına alır. Üçüncü kişilerin rapordan zarar görmesi halinde uzman hukuki sorumlulukla karşılaşabilir."
         },
         {
           "q": "İmar planı hazırlanmasında 'katılım' ilkesi nasıl uygulanır?",
@@ -18571,7 +18571,7 @@ window.__C = {
       {
         "num": "06",
         "title": "Gayrimenkul Piyasaları ve Kurumlar",
-        "body": "<ul><li><strong>Alt piyasalar:</strong> Arsa, konut, ofis, perakende (AVM, sokak mağazası), tarım, endüstriyel (depo, lojistik), konaklama (otel), özel amaçlı (okul, hastane). Her piyasanın kendine özgü arz-talep dinamiği ve değerleme metodolojisi.</li><li><strong>GYO (Gayrimenkul Yatırım Ortaklığı):</strong> Halka açık, SPK düzenlemesi, portföy en az %51 gayrimenkul. Vergi avantajı (kurumlar vergisi muafiyeti). Likit gayrimenkul yatırım aracı. İnşaat yapamaz, yönetemez — dışarıdan kiralama zorunlu.</li><li><strong>GYF (Gayrimenkul Yatırım Fonu):</strong> Nitelikli yatırımcılara yönelik, halka arz edilmez. Portföy yönetim şirketi tarafından yönetilir. Gayrimenkul, proje, hak ve alacak yatırımı yapabilir.</li><li><strong>Gayrimenkul değerleme kuruluşları:</strong> SPK listesindeki yetkili kuruluşlar. BDDK listesi — bankalar için değerleme. TDUB — değerleme uzmanları meslek birliği.</li><li><strong>Konut finansmanı:</strong> Bankalar (birincil piyasa), İpotek Finansman Kuruluşları, menkul kıymetleştirme (ikincil piyasa). TOKİ — kamu konut üreticisi. TVF — Türkiye Varlık Fonu, büyük altyapı ve arazi yatırımları.</li><li><strong>Gayrimenkul yatırımı riskleri:</strong> Likidite riski, pazar riski (değer düşüşü), kira riski (boşluk, tahsilat), çevresel risk, yasal risk, faiz oranı riski, inşaat/geliştirme riski.</li></ul>"
+        "body": "<ul><li><strong>Alt piyasalar:</strong> Arsa, konut, ofis, perakende (AVM, sokak mağazası), tarım, endüstriyel (depo, lojistik), konaklama (otel), özel amaçlı (okul, hastane). Her piyasanın kendine özgü arz-talep dinamiği ve değerleme metodolojisi.</li><li><strong>GYO (Gayrimenkul Yatırım Ortaklığı):</strong> Halka açık, SPK (sermaye piyasası kurulu) düzenlemesi, portföy en az %51 gayrimenkul. Vergi avantajı (kurumlar vergisi muafiyeti). Likit gayrimenkul yatırım aracı. İnşaat yapamaz, yönetemez — dışarıdan kiralama zorunlu.</li><li><strong>GYF (Gayrimenkul Yatırım Fonu):</strong> Nitelikli yatırımcılara yönelik, halka arz edilmez. Portföy yönetim şirketi tarafından yönetilir. Gayrimenkul, proje, hak ve alacak yatırımı yapabilir.</li><li><strong>Gayrimenkul değerleme kuruluşları:</strong> SPK (sermaye piyasası kurulu) listesindeki yetkili kuruluşlar. BDDK (bankacılık düzenleme ve denetleme kurumu) listesi — bankalar için değerleme. TDUB — değerleme uzmanları meslek birliği.</li><li><strong>Konut finansmanı:</strong> Bankalar (birincil piyasa), İpotek Finansman Kuruluşları, menkul kıymetleştirme (ikincil piyasa). TOKİ — kamu konut üreticisi. TVF — Türkiye Varlık Fonu, büyük altyapı ve arazi yatırımları.</li><li><strong>Gayrimenkul yatırımı riskleri:</strong> Likidite riski, pazar riski (değer düşüşü), kira riski (boşluk, tahsilat), çevresel risk, yasal risk, faiz oranı riski, inşaat/geliştirme riski.</li></ul>"
       },
       {
         "num": "07",
@@ -18581,12 +18581,12 @@ window.__C = {
       {
         "num": "08",
         "title": "Değerleme Düzenlemeleri — Ulusal ve Uluslararası",
-        "body": "<ul><li><strong>RICS (Kırmızı Kitap):</strong> İngiliz değerleme standartları. Pazar değeri ve değerleme raporu formatı tanımları. RICS üyeliği (MRICS, FRICS) — uluslararası tanınan meslekî unvan.</li><li><strong>TEGoVA (Mavi Kitap):</strong> Avrupa Değerleme Uzmanları Birlikleri Grubu. Avrupa Değerleme Standartları (EVS). REV (Recognized European Valuer) unvanı.</li><li><strong>IVSC ve UDS (IVS):</strong> Uluslararası Değerleme Standartları Konseyi. Pazar değeri tanımı, değerleme yaklaşımları ve rapor formatı için küresel çerçeve. Türkiye'de SPK uyumu zorunlu.</li><li><strong>SPK Değerleme Düzenlemesi:</strong> Gayrimenkul değerleme kuruluşlarının yetkilendirilmesi, faaliyet esasları ve değerleme raporu asgari unsurları. Değerleme uzmanı lisans gerekliliği (Gayrimenkul Değerleme veya Konut Değerleme Sınavı).</li><li><strong>BDDK Değerleme Düzenlemesi:</strong> Bankalar için ipotek teminatlı kredi değerlemesi. Banka onaylı değerleme kuruluşu listesi. Değerleme raporu ve güncellik şartları.</li><li><strong>TDUB:</strong> Türkiye Değerleme Uzmanları Birliği. Meslek kuralları, etik ilkeler, sicil tutma, meslekî sorumluluk sigortası.</li></ul>"
+        "body": "<ul><li><strong>RICS (Kırmızı Kitap):</strong> İngiliz değerleme standartları. Pazar değeri ve değerleme raporu formatı tanımları. RICS üyeliği (MRICS, FRICS) — uluslararası tanınan meslekî unvan.</li><li><strong>TEGoVA (Mavi Kitap):</strong> Avrupa Değerleme Uzmanları Birlikleri Grubu. Avrupa Değerleme Standartları (EVS). REV (Recognized European Valuer) unvanı.</li><li><strong>IVSC ve UDS (IVS):</strong> Uluslararası Değerleme Standartları Konseyi. Pazar değeri tanımı, değerleme yaklaşımları ve rapor formatı için küresel çerçeve. Türkiye'de SPK (sermaye piyasası kurulu) uyumu zorunlu.</li><li><strong>SPK (sermaye piyasası kurulu) Değerleme Düzenlemesi:</strong> Gayrimenkul değerleme kuruluşlarının yetkilendirilmesi, faaliyet esasları ve değerleme raporu asgari unsurları. Değerleme uzmanı lisans gerekliliği (Gayrimenkul Değerleme veya Konut Değerleme Sınavı).</li><li><strong>BDDK (bankacılık düzenleme ve denetleme kurumu) Değerleme Düzenlemesi:</strong> Bankalar için ipotek teminatlı kredi değerlemesi. Banka onaylı değerleme kuruluşu listesi. Değerleme raporu ve güncellik şartları.</li><li><strong>TDUB:</strong> Türkiye Değerleme Uzmanları Birliği. Meslek kuralları, etik ilkeler, sicil tutma, meslekî sorumluluk sigortası.</li></ul>"
       },
       {
         "num": "09",
         "title": "GYO, GYF ve Menkul Kıymetleştirme Araçları",
-        "body": "<ul><li><strong>GYO portföy yapısı:</strong> Gayrimenkul, arazi, proje, hak ve alacaklar, sermaye piyasası araçları. En az %51 gayrimenkul zorunluluğu. Kamuya ilan edilen portföy tabloları.</li><li><strong>GYO işlem kısıtları:</strong> Bizzat inşaat yapamaz, adi ortaklık hariç işletme faaliyeti yürütemez. Portföy dışı gayrimenkul alamaz. İlişkili taraf işlemleri sınırı.</li><li><strong>Menkul kıymetleştirme süreci:</strong> Alacaklar SPV'ye devredilir → SPV menkul kıymet ihraç eder → yatırımcılara satılır → ihraççı bilançosu küçülür. Dilim (tranche) yapısı: kıdemli (senior) — düşük risk/getiri, mezzanine, junior (equity). Kredi geliştirme mekanizmaları: fazla teminat, yedek fon, sigorta.</li><li><strong>İDMK ve VDMK farkı:</strong> İDMK konut ipoteği havuzuna dayalı, Fannie Mae/Freddie Mac modeli. VDMK'da alacaklar ihraççının bilançosundan çıkar (gerçek satış). VTMK'da ihraççı bilançosunda kalır — covered bond.</li><li><strong>Gayrimenkul sertifikası:</strong> Belirli bir projenin belirli bir bölümünü temsil eder. Proje tamamlandığında sertifika sahibi bağımsız bölüm alabilir veya nakit karşılığı satabilir. SPK düzenlemesi.</li></ul>"
+        "body": "<ul><li><strong>GYO portföy yapısı:</strong> Gayrimenkul, arazi, proje, hak ve alacaklar, sermaye piyasası araçları. En az %51 gayrimenkul zorunluluğu. Kamuya ilan edilen portföy tabloları.</li><li><strong>GYO işlem kısıtları:</strong> Bizzat inşaat yapamaz, adi ortaklık hariç işletme faaliyeti yürütemez. Portföy dışı gayrimenkul alamaz. İlişkili taraf işlemleri sınırı.</li><li><strong>Menkul kıymetleştirme süreci:</strong> Alacaklar SPV'ye devredilir → SPV menkul kıymet ihraç eder → yatırımcılara satılır → ihraççı bilançosu küçülür. Dilim (tranche) yapısı: kıdemli (senior) — düşük risk/getiri, mezzanine, junior (equity). Kredi geliştirme mekanizmaları: fazla teminat, yedek fon, sigorta.</li><li><strong>İDMK ve VDMK farkı:</strong> İDMK konut ipoteği havuzuna dayalı, Fannie Mae/Freddie Mac modeli. VDMK'da alacaklar ihraççının bilançosundan çıkar (gerçek satış). VTMK'da ihraççı bilançosunda kalır — covered bond.</li><li><strong>Gayrimenkul sertifikası:</strong> Belirli bir projenin belirli bir bölümünü temsil eder. Proje tamamlandığında sertifika sahibi bağımsız bölüm alabilir veya nakit karşılığı satabilir. SPK (sermaye piyasası kurulu) düzenlemesi.</li></ul>"
       }
     ],
     "tests": {
@@ -18677,7 +18677,7 @@ window.__C = {
             "D) %75"
           ],
           "a": 2,
-          "e": "SPK düzenlemesine göre GYO portföyü en az %51'i gayrimenkul, gayrimenkule dayalı haklar ve gayrimenkul projelerinden oluşmalıdır."
+          "e": "SPK (sermaye piyasası kurulu) düzenlemesine göre GYO portföyü en az %51'i gayrimenkul, gayrimenkule dayalı haklar ve gayrimenkul projelerinden oluşmalıdır."
         },
         {
           "q": "Tasfiye değeri ile pazar değeri farkı nedir?",
@@ -18987,7 +18987,7 @@ window.__C = {
             "D) Ticari krediler"
           ],
           "a": 1,
-          "e": "Konut finansmanı kapsamı: Konut edinme amacıyla kullandırılan tüketici kredileri, finansal kiralama alacakları ve tüketici finansmanı alacakları. İkincil piyasada bu alacakların menkul kıymetleştirilmesi (İDMK, VDMK, VTMK). Tüm süreç SPK ve BDDK düzenlemesi altında."
+          "e": "Konut finansmanı kapsamı: Konut edinme amacıyla kullandırılan tüketici kredileri, finansal kiralama alacakları ve tüketici finansmanı alacakları. İkincil piyasada bu alacakların menkul kıymetleştirilmesi (İDMK, VDMK, VTMK). Tüm süreç SPK (sermaye piyasası kurulu) ve BDDK (bankacılık düzenleme ve denetleme kurumu) düzenlemesi altında."
         },
         {
           "q": "Tasarruf finansman şirketleri nasıl çalışır?",
@@ -18998,7 +18998,7 @@ window.__C = {
             "D) Yatırım fonu"
           ],
           "a": 1,
-          "e": "Tasarruf finansman şirketi (sözleşme karşılığında birikim yöntemi): Üyeler düzenli tasarruf yapar → belirli süre sonunda (veya kur/puanla) birikmiş fon üyeye konut alımı için aktarılır. Almanya ve Avusturya'daki Bausparkasse modeli. Türkiye'de BDDK düzenlemesi altında."
+          "e": "Tasarruf finansman şirketi (sözleşme karşılığında birikim yöntemi): Üyeler düzenli tasarruf yapar → belirli süre sonunda (veya kur/puanla) birikmiş fon üyeye konut alımı için aktarılır. Almanya ve Avusturya'daki Bausparkasse modeli. Türkiye'de BDDK (bankacılık düzenleme ve denetleme kurumu) düzenlemesi altında."
         },
         {
           "q": "Mülk değerlemesinde 'irtifak hakkı' değerlemeyi nasıl etkiler?",
@@ -19060,13 +19060,13 @@ window.__C = {
         {
           "q": "Türkiye'de gayrimenkul değerleme sektörünü düzenleyen iki ana kurum hangileridir?",
           "o": [
-            "A) BDDK ve Hazine",
-            "B) SPK ve BDDK",
+            "A) BDDK (bankacılık düzenleme ve denetleme kurumu) ve Hazine",
+            "B) SPK (sermaye piyasası kurulu) ve BDDK (bankacılık düzenleme ve denetleme kurumu)",
             "C) TDUB ve TOKİ",
-            "D) TCMB ve SPK"
+            "D) TCMB (türkiye cumhuriyet merkez bankası) ve SPK (sermaye piyasası kurulu)"
           ],
           "a": 1,
-          "e": "SPK: GYO, GYF ve sermaye piyasası işlemleri için değerleme, yetkili kuruluş listesi, değerleme uzmanı lisansları. BDDK: Banka ipotekli kredi değerlemesi için ayrı kuruluş listesi."
+          "e": "SPK (sermaye piyasası kurulu): GYO, GYF ve sermaye piyasası işlemleri için değerleme, yetkili kuruluş listesi, değerleme uzmanı lisansları. BDDK (bankacılık düzenleme ve denetleme kurumu): Banka ipotekli kredi değerlemesi için ayrı kuruluş listesi."
         },
         {
           "q": "RICS Kırmızı Kitap (Red Book) nedir?",
@@ -19088,7 +19088,7 @@ window.__C = {
             "D) Piyasa fiyat verileri"
           ],
           "a": 1,
-          "e": "UDS ve SPK asgari rapor unsurları: Müşteri ve kullanıcı tanımı, kullanım amacı, değer esası, değerleme tarihi, gayrimenkul tanımı (hukuki+fiziksel), varsayımlar, kullanılan yaklaşımlar, analiz sonuçları, nihai değer, değerleme uzmanı bilgileri ve imzası."
+          "e": "UDS ve SPK (sermaye piyasası kurulu) asgari rapor unsurları: Müşteri ve kullanıcı tanımı, kullanım amacı, değer esası, değerleme tarihi, gayrimenkul tanımı (hukuki+fiziksel), varsayımlar, kullanılan yaklaşımlar, analiz sonuçları, nihai değer, değerleme uzmanı bilgileri ve imzası."
         },
         {
           "q": "Pazar analizi değerleme sürecinde neden yapılır?",
@@ -19307,7 +19307,7 @@ window.__C = {
             "A) Daha kısa vade",
             "B) Senior tranche en önce ödeme alır, en son kayıp üstlenir — en az risk, en düşük getiri",
             "C) Daha az menkul kıymet",
-            "D) SPK zorunlu kılıyor"
+            "D) SPK (sermaye piyasası kurulu) zorunlu kılıyor"
           ],
           "a": 1,
           "e": "Tranche yapısı: Junior ilk kaybı üstlenir (yüksek risk/getiri), Mezzanine orta, Senior en son kayıp (düşük risk/getiri). Bu kayıp hiyerarşisi (waterfall) kredi yoğunlaştırması yaratır."
@@ -19434,15 +19434,15 @@ window.__C = {
           "e": "Monte Carlo simülasyonu: NOI büyüme oranı, kapitalizasyon oranı, boşluk oranı, inşaat maliyeti gibi girdi değişkenleri için olasılık dağılımları tanımlanır. Binlerce iterasyonla farklı senaryolar simüle edilir. Sonuç: olası değer aralığı, beklenen değer ve risk analizi. Büyük geliştirme projelerinde ve risk modellemesinde kullanılır."
         },
         {
-          "q": "Banka değerleme raporunun SPK değerleme raporundan farkı nedir?",
+          "q": "Banka değerleme raporunun SPK (sermaye piyasası kurulu) değerleme raporundan farkı nedir?",
           "o": [
             "A) İkisi aynıdır",
-            "B) Banka (BDDK) değerlemesi ipotek kredisi için mülkün piyasa değeri ve likit değerini belirler; SPK değerlemesi GYO/GYF gibi sermaye piyasası işlemleri için daha kapsamlı analiz",
+            "B) Banka (BDDK (bankacılık düzenleme ve denetleme kurumu)) değerlemesi ipotek kredisi için mülkün piyasa değeri ve likit değerini belirler; SPK (sermaye piyasası kurulu) değerlemesi GYO/GYF gibi sermaye piyasası işlemleri için daha kapsamlı analiz",
             "C) Banka raporu daha ayrıntılı",
-            "D) SPK raporu özel sektör için"
+            "D) SPK (sermaye piyasası kurulu) raporu özel sektör için"
           ],
           "a": 1,
-          "e": "BDDK değerleme: Birincil olarak ipotek teminatlı kredi için piyasa değeri ve likidite değerini belirler. LTV hesabı için kritik. SPK değerleme: GYO portföyü, GYF, halka arz, birleşme vb. sermaye piyasası işlemleri için. Genellikle daha kapsamlı pazar ve gelir analizi içerir. Her iki raporun format gereksinimleri farklı."
+          "e": "BDDK (bankacılık düzenleme ve denetleme kurumu) değerleme: Birincil olarak ipotek teminatlı kredi için piyasa değeri ve likidite değerini belirler. LTV hesabı için kritik. SPK (sermaye piyasası kurulu) değerleme: GYO portföyü, GYF, halka arz, birleşme vb. sermaye piyasası işlemleri için. Genellikle daha kapsamlı pazar ve gelir analizi içerir. Her iki raporun format gereksinimleri farklı."
         },
         {
           "q": "Planlı alanlar imar yönetmeliğinde ön bahçe mesafesi mülk değerini nasıl etkiler?",
@@ -19461,10 +19461,10 @@ window.__C = {
             "A) Herhangi finans lisansı",
             "B) Gayrimenkul Değerleme veya Konut Değerleme SPL Sınavı lisansı — TDUB üyeliği ve meslekî sorumluluk sigortası",
             "C) Yalnızca inşaat mühendisi",
-            "D) BDDK lisansı"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) lisansı"
           ],
           "a": 1,
-          "e": "Türkiye'de değerleme uzmanı: SPL Gayrimenkul Değerleme Sınavı (tüm gayrimenkul türleri) veya Konut Değerleme Sınavı (yalnızca konut) lisansı. TDUB (Türkiye Değerleme Uzmanları Birliği) üyeliği zorunlu. Meslekî sorumluluk sigortası zorunlu. SPK veya BDDK listesindeki kuruluşta görev."
+          "e": "Türkiye'de değerleme uzmanı: SPL Gayrimenkul Değerleme Sınavı (tüm gayrimenkul türleri) veya Konut Değerleme Sınavı (yalnızca konut) lisansı. TDUB (Türkiye Değerleme Uzmanları Birliği) üyeliği zorunlu. Meslekî sorumluluk sigortası zorunlu. SPK (sermaye piyasası kurulu) veya BDDK (bankacılık düzenleme ve denetleme kurumu) listesindeki kuruluşta görev."
         },
         {
           "q": "Değerleme bağlamında 'sınırlayıcı koşul' nedir?",
@@ -19554,7 +19554,7 @@ window.__C = {
             "D) GYO hissesi"
           ],
           "a": 1,
-          "e": "PDMK: Proje gelirleri SPV'ye devredilir, SPV menkul kıymet ihraç eder. Gayrimenkul projesi bağımsız bölüm satış gelirleri veya kira gelirleri teminat. SPK düzenlemesi."
+          "e": "PDMK: Proje gelirleri SPV'ye devredilir, SPV menkul kıymet ihraç eder. Gayrimenkul projesi bağımsız bölüm satış gelirleri veya kira gelirleri teminat. SPK (sermaye piyasası kurulu) düzenlemesi."
         },
         {
           "q": "Çok ölçütlü karar analizi (MOCA) ne amaçla kullanılır?",
@@ -19571,12 +19571,12 @@ window.__C = {
           "q": "IVSC ve UDS'nin Türkiye değerleme sektöründeki önemi nedir?",
           "o": [
             "A) Yalnızca ABD için",
-            "B) Küresel değerleme standartları çerçevesi — pazar değeri tanımı, yaklaşımlar, raporlama. SPK ve Türk mevzuatı UDS uyumunu zorunlu kılar",
+            "B) Küresel değerleme standartları çerçevesi — pazar değeri tanımı, yaklaşımlar, raporlama. SPK (sermaye piyasası kurulu) ve Türk mevzuatı UDS uyumunu zorunlu kılar",
             "C) Yalnızca çevresel değerleme",
             "D) Yalnızca muhasebe standardı"
           ],
           "a": 1,
-          "e": "IVSC/UDS: Küresel değerleme standartları. Türkiye'de SPK düzenlemesi UDS uyumunu zorunlu kılar. Pazar değeri tanımı, maliyet/pazar/gelir yaklaşımları, rapor formatı. Uluslararası yatırımcılara güven verir."
+          "e": "IVSC/UDS: Küresel değerleme standartları. Türkiye'de SPK (sermaye piyasası kurulu) düzenlemesi UDS uyumunu zorunlu kılar. Pazar değeri tanımı, maliyet/pazar/gelir yaklaşımları, rapor formatı. Uluslararası yatırımcılara güven verir."
         },
         {
           "q": "CBS (Coğrafi Bilgi Sistemi) gayrimenkul değerlemesinde nasıl kullanılır?",
@@ -19648,12 +19648,12 @@ window.__C = {
           "q": "Gayrimenkul yatırım ortaklığı (GYO) kurumlar vergisi muafiyetinin şartı nedir?",
           "o": [
             "A) Şart yok",
-            "B) GYO portföy sınırlamalarına ve SPK düzenlemelerine uyum, halka açık ortaklık olması, kazancın büyük bölümünün dağıtılması",
+            "B) GYO portföy sınırlamalarına ve SPK (sermaye piyasası kurulu) düzenlemelerine uyum, halka açık ortaklık olması, kazancın büyük bölümünün dağıtılması",
             "C) Yalnızca konut portföyü",
-            "D) BDDK lisansı"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) lisansı"
           ],
           "a": 1,
-          "e": "GYO kurumlar vergisi muafiyeti: SPK'nın belirlediği portföy kısıtlamalarına uyum (min %51 gayrimenkul). Halka açık anonim ortaklık statüsü. Bizzat inşaat ve işletme yasağına uyum. Belirli oranın ötesindeki kâr dağıtımı (pay sahiplerine). Bu muafiyet GYO'nun ana vergi avantajı ve yatırımcılara çekicilik sağlar."
+          "e": "GYO kurumlar vergisi muafiyeti: SPK (sermaye piyasası kurulu)'nın belirlediği portföy kısıtlamalarına uyum (min %51 gayrimenkul). Halka açık anonim ortaklık statüsü. Bizzat inşaat ve işletme yasağına uyum. Belirli oranın ötesindeki kâr dağıtımı (pay sahiplerine). Bu muafiyet GYO'nun ana vergi avantajı ve yatırımcılara çekicilik sağlar."
         },
         {
           "q": "Değerleme raporunda yer alan 'sonuç' bölümünde neler bulunmalıdır?",
@@ -19686,7 +19686,7 @@ window.__C = {
             "D) Banka tarafından yapılır"
           ],
           "a": 1,
-          "e": "GYO halka arzında değerleme: Portföydeki tüm mülkler SPK listesindeki yetkili değerleme kuruluşu tarafından değerlenir. Değerleme raporu halka arz izahnamesine eklenir. NAV belirlenir ve halka arz fiyatı bu değere göre belirlenir. Portföy değerlemesi yılda en az bir kez yenilenir."
+          "e": "GYO halka arzında değerleme: Portföydeki tüm mülkler SPK (sermaye piyasası kurulu) listesindeki yetkili değerleme kuruluşu tarafından değerlenir. Değerleme raporu halka arz izahnamesine eklenir. NAV belirlenir ve halka arz fiyatı bu değere göre belirlenir. Portföy değerlemesi yılda en az bir kez yenilenir."
         },
         {
           "q": "Değerleme matematiğinde 'kredi portföyünün satılması' ne anlama gelir?",
@@ -19737,7 +19737,7 @@ window.__C = {
       {
         "num": "07",
         "title": "TMS/TFRS — Türkiye Muhasebe ve Finansal Raporlama Standartları",
-        "body": "<ul><li><strong>TMS/TFRS yapısı:</strong> KGK (Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu) tarafından yayımlanır. IASB'nin IAS/IFRS standartlarının Türkçe uyarlaması.</li><li><strong>Temel TMS'ler:</strong> TMS 1 (Finansal Tabloların Sunuluşu), TMS 2 (Stoklar), TMS 7 (Nakit Akış Tablosu), TMS 16 (Maddi Duran Varlıklar), TMS 17/TFRS 16 (Kiralama İşlemleri), TMS 18/TFRS 15 (Hasılat), TMS 19 (Çalışanlara Sağlanan Faydalar), TMS 21 (Kur Farkları), TMS 36 (Varlıklarda Değer Düşüklüğü), TMS 38 (Maddi Olmayan Duran Varlıklar).</li><li><strong>Temel TFRS'ler:</strong> TFRS 3 (İşletme Birleşmeleri), TFRS 7 (Finansal Araçlar: Açıklamalar), TFRS 9 (Finansal Araçlar), TFRS 15 (Müşteri Sözleşmelerinden Hasılat), TFRS 16 (Kiralamalar).</li><li><strong>SPK'ya tabi şirketler:</strong> Finansal tablolarını TMS/TFRS'ye uygun hazırlamak zorundadır. II-14.1 sayılı Tebliğ bunu düzenler.</li></ul>"
+        "body": "<ul><li><strong>TMS/TFRS yapısı:</strong> KGK (Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu) tarafından yayımlanır. IASB'nin IAS/IFRS standartlarının Türkçe uyarlaması.</li><li><strong>Temel TMS'ler:</strong> TMS 1 (Finansal Tabloların Sunuluşu), TMS 2 (Stoklar), TMS 7 (Nakit Akış Tablosu), TMS 16 (Maddi Duran Varlıklar), TMS 17/TFRS 16 (Kiralama İşlemleri), TMS 18/TFRS 15 (Hasılat), TMS 19 (Çalışanlara Sağlanan Faydalar), TMS 21 (Kur Farkları), TMS 36 (Varlıklarda Değer Düşüklüğü), TMS 38 (Maddi Olmayan Duran Varlıklar).</li><li><strong>Temel TFRS'ler:</strong> TFRS 3 (İşletme Birleşmeleri), TFRS 7 (Finansal Araçlar: Açıklamalar), TFRS 9 (Finansal Araçlar), TFRS 15 (Müşteri Sözleşmelerinden Hasılat), TFRS 16 (Kiralamalar).</li><li><strong>SPK (sermaye piyasası kurulu)'ya tabi şirketler:</strong> Finansal tablolarını TMS/TFRS'ye uygun hazırlamak zorundadır. II-14.1 sayılı Tebliğ bunu düzenler.</li></ul>"
       },
       {
         "num": "08",
@@ -20093,7 +20093,7 @@ window.__C = {
             "D) Hesap dönemi kapanışından 6 ay içinde"
           ],
           "a": 2,
-          "e": "SPK'nın II-14.1 sayılı Tebliği'ne göre halka açık şirketler yıllık finansal tablolarını, bağımsız denetim raporu ile birlikte hesap dönemi kapanışından itibaren 3 ay içinde Kamuyu Aydınlatma Platformu'nda (KAP) yayımlamak zorundadır."
+          "e": "SPK (sermaye piyasası kurulu)'nın II-14.1 sayılı Tebliği'ne göre halka açık şirketler yıllık finansal tablolarını, bağımsız denetim raporu ile birlikte hesap dönemi kapanışından itibaren 3 ay içinde Kamuyu Aydınlatma Platformu'nda (KAP) yayımlamak zorundadır."
         },
         {
           "q": "Bağımsız denetimde 'denetim riski' hangi bileşenlerden oluşur?",
@@ -20431,12 +20431,12 @@ window.__C = {
           "q": "Türkiye'de bağımsız denetim mesleğinin uluslararası standartta düzenlenmesini sağlayan yasal çerçeve nedir?",
           "o": [
             "A) Yalnızca TTK md. 397-406",
-            "B) TTK hükümleri + 660 sayılı KHK (KGK) + Bağımsız Denetim Yönetmeliği + SPK Tebliği (Seri X No:22) bütünleşik sistemi",
+            "B) TTK hükümleri + 660 sayılı KHK (KGK) + Bağımsız Denetim Yönetmeliği + SPK (sermaye piyasası kurulu) Tebliği (Seri X No:22) bütünleşik sistemi",
             "C) Yalnızca Maliye Bakanlığı tebliğleri",
             "D) Münhasıran AB direktifleri"
           ],
           "a": 1,
-          "e": "Türkiye bağımsız denetim çerçevesi çok katmanlıdır: TTK md. 397-406 şirket denetimini düzenler; 660 sayılı KHK KGK'yı kurar ve BDS'yi yürürlüğe sokar; Bağımsız Denetim Yönetmeliği denetçi/firma niteliklerini ve bağımsızlık kurallarını belirler; SPK Tebliği (Seri X No:22) sermaye piyasası boyutunu düzenler. Hepsi birlikte uygulanır."
+          "e": "Türkiye bağımsız denetim çerçevesi çok katmanlıdır: TTK md. 397-406 şirket denetimini düzenler; 660 sayılı KHK KGK'yı kurar ve BDS'yi yürürlüğe sokar; Bağımsız Denetim Yönetmeliği denetçi/firma niteliklerini ve bağımsızlık kurallarını belirler; SPK (sermaye piyasası kurulu) Tebliği (Seri X No:22) sermaye piyasası boyutunu düzenler. Hepsi birlikte uygulanır."
         }
       ],
       "t4": [
@@ -20715,7 +20715,7 @@ window.__C = {
             "D) Yalnızca bilanço tarihindeki değerleri doğrular"
           ],
           "a": 1,
-          "e": "Ara dönem finansal tablolar için sınırlı denetim (limited review / gözden geçirme): tam denetimden çok daha az kapsamlı. Denetçi esas olarak analitik prosedürler ve sorgulama uygular. Sonuç: 'dikkatimi çeken olumsuz bir durum yok' şeklinde negatif güvence raporu. SPK mevzuatına göre 6 aylık ara tablolar sınırlı denetime tabi."
+          "e": "Ara dönem finansal tablolar için sınırlı denetim (limited review / gözden geçirme): tam denetimden çok daha az kapsamlı. Denetçi esas olarak analitik prosedürler ve sorgulama uygular. Sonuç: 'dikkatimi çeken olumsuz bir durum yok' şeklinde negatif güvence raporu. SPK (sermaye piyasası kurulu) mevzuatına göre 6 aylık ara tablolar sınırlı denetime tabi."
         },
         {
           "q": "'Finansal durum tablosu' (bilanço) ile 'kapsamlı gelir tablosu' arasındaki bağlantı nasıldır?",
@@ -20787,12 +20787,12 @@ window.__C = {
           "q": "Halka açık bir şirketin finansal tablolarını hazırlarken 'TMS/TFRS' ile 'VUK' arasında seçim hakkı var mıdır?",
           "o": [
             "A) Şirket istediği sistemi seçebilir",
-            "B) SPK mevzuatı uyarınca halka açık şirketler TMS/TFRS'ye uygun finansal tablo hazırlamak zorundadır; VUK'a göre ayrıca vergi tabloları tutulabilir",
+            "B) SPK (sermaye piyasası kurulu) mevzuatı uyarınca halka açık şirketler TMS/TFRS'ye uygun finansal tablo hazırlamak zorundadır; VUK'a göre ayrıca vergi tabloları tutulabilir",
             "C) Yalnızca VUK uygulanır",
             "D) İkisinden biri seçilir ve bir daha değiştirilemez"
           ],
           "a": 1,
-          "e": "Halka açık şirketler SPK'nın II-14.1 sayılı Tebliği ve TFRS zorunluluğu nedeniyle TMS/TFRS'ye uygun finansal tablo hazırlamak zorundadır. Ayrıca vergi amaçlı VUK'a göre beyanname verilmesi de gerektiğinden çoğu şirket iki paralel sistem yürütür veya TMS tablolarından vergi uyarlamaları yapar."
+          "e": "Halka açık şirketler SPK (sermaye piyasası kurulu)'nın II-14.1 sayılı Tebliği ve TFRS zorunluluğu nedeniyle TMS/TFRS'ye uygun finansal tablo hazırlamak zorundadır. Ayrıca vergi amaçlı VUK'a göre beyanname verilmesi de gerektiğinden çoğu şirket iki paralel sistem yürütür veya TMS tablolarından vergi uyarlamaları yapar."
         },
         {
           "q": "'Sürdürülebilirlik raporlaması' finansal raporlamayla nasıl ilişkilendirilmektedir?",
@@ -20803,7 +20803,7 @@ window.__C = {
             "D) Yalnızca büyük şirketler sürdürülebilirlik raporu hazırlar"
           ],
           "a": 1,
-          "e": "Uluslararası Sürdürülebilirlik Standartları Kurulu (ISSB) 2023'te IFRS S1 (genel sürdürülebilirlik açıklamaları) ve IFRS S2 (iklim) standartlarını yayımladı. Bunlar mevcut IFRS finansal raporlamasıyla entegre çalışacak şekilde tasarlanmıştır. Türkiye'de SPK halka açık şirketler için sürdürülebilirlik ilkeleri tebliği yayımladı. ESG bilgisi artık yatırım kararlarının ayrılmaz parçası."
+          "e": "Uluslararası Sürdürülebilirlik Standartları Kurulu (ISSB) 2023'te IFRS S1 (genel sürdürülebilirlik açıklamaları) ve IFRS S2 (iklim) standartlarını yayımladı. Bunlar mevcut IFRS finansal raporlamasıyla entegre çalışacak şekilde tasarlanmıştır. Türkiye'de SPK (sermaye piyasası kurulu) halka açık şirketler için sürdürülebilirlik ilkeleri tebliği yayımladı. ESG bilgisi artık yatırım kararlarının ayrılmaz parçası."
         },
         {
           "q": "Bağımsız denetim raporunda 'kilit denetim konuları (KAM)' nedir ve amacı nedir?",
@@ -22028,8 +22028,8 @@ window.__C = {
     "summary": [
       {
         "num": "01",
-        "title": "Sermaye Piyasası Kanunu (6362 sayılı SPKn) — Temel Kavramlar ve Yapı",
-        "body": "<ul><li><strong>Sermaye piyasası:</strong> Orta ve uzun vadeli fonların sermaye piyasası araçları aracılığıyla tasarruf sahiplerinden fon talep edenlere aktarıldığı piyasa. 6362 sayılı SPKn'nun hazırlanma gerekçeleri: 6102 TTK reformu, AB mevzuatı uyumu, 2008 küresel kriz dersleri.</li><li><strong>Sermaye piyasası araçları:</strong> Menkul kıymetler (paylar, borçlanma araçları) + türev araçlar + diğer araçlar. Para, çek, poliçe, bono kapsam dışı.</li><li><strong>Kaydi sistem — MKK:</strong> Sermaye piyasası araçları fiziksel senet olmaksızın elektronik ortamda izlenir. MKK ve üyeleri hatalı kayıttan doğan zarardan kusurları oranında sorumludur.</li><li><strong>SPK'nın yetkileri:</strong> Düzenleme, denetim, yaptırım, muafiyet. İdari para cezası: 20.000–250.000 TL; menfaat sağlanmışsa 2 katından az olamaz.</li><li><strong>Suçlar ve cezalar:</strong> İçsel bilgi kullanımı md.106 → 2–5 yıl; Piyasa dolandırıcılığı md.107 → 3–5 yıl; İzinsiz faaliyet md.108 → 2–5 yıl; Kripto varlık zimmet md.110/A → 6–12 yıl (zarar 3 katı).</li><li><strong>Yatırım hizmetleri (10 başlık):</strong> Emir iletimi, işlem aracılığı, portföy aracılığı, portföy yöneticiliği, yatırım danışmanlığı, yüklenimli/yüklenimsiz halka arza aracılık, çok taraflı alım satım sistemi, saklama/yönetim, Kurulca belirlenecek diğerleri.</li></ul>"
+        "title": "Sermaye Piyasası Kanunu (6362 sayılı SPK (sermaye piyasası kurulu)n) — Temel Kavramlar ve Yapı",
+        "body": "<ul><li><strong>Sermaye piyasası:</strong> Orta ve uzun vadeli fonların sermaye piyasası araçları aracılığıyla tasarruf sahiplerinden fon talep edenlere aktarıldığı piyasa. 6362 sayılı SPK (sermaye piyasası kurulu)n'nun hazırlanma gerekçeleri: 6102 TTK reformu, AB mevzuatı uyumu, 2008 küresel kriz dersleri.</li><li><strong>Sermaye piyasası araçları:</strong> Menkul kıymetler (paylar, borçlanma araçları) + türev araçlar + diğer araçlar. Para, çek, poliçe, bono kapsam dışı.</li><li><strong>Kaydi sistem — MKK:</strong> Sermaye piyasası araçları fiziksel senet olmaksızın elektronik ortamda izlenir. MKK ve üyeleri hatalı kayıttan doğan zarardan kusurları oranında sorumludur.</li><li><strong>SPK (sermaye piyasası kurulu)'nın yetkileri:</strong> Düzenleme, denetim, yaptırım, muafiyet. İdari para cezası: 20.000–250.000 TL; menfaat sağlanmışsa 2 katından az olamaz.</li><li><strong>Suçlar ve cezalar:</strong> İçsel bilgi kullanımı md.106 → 2–5 yıl; Piyasa dolandırıcılığı md.107 → 3–5 yıl; İzinsiz faaliyet md.108 → 2–5 yıl; Kripto varlık zimmet md.110/A → 6–12 yıl (zarar 3 katı).</li><li><strong>Yatırım hizmetleri (10 başlık):</strong> Emir iletimi, işlem aracılığı, portföy aracılığı, portföy yöneticiliği, yatırım danışmanlığı, yüklenimli/yüklenimsiz halka arza aracılık, çok taraflı alım satım sistemi, saklama/yönetim, Kurulca belirlenecek diğerleri.</li></ul>"
       },
       {
         "num": "02",
@@ -22064,7 +22064,7 @@ window.__C = {
       {
         "num": "08",
         "title": "TSPB Meslek Kuralları ve Etik İlkeler",
-        "body": "<ul><li><strong>TSPB:</strong> SPKn md.74 uyarınca kamu kurumu niteliğinde meslek kuruluşu. Üyeler: aracı kurumlar, bankalar, PYŞ, yatırım ortaklıkları.</li><li><strong>6 temel etik ilke:</strong> Temel ilke/genel standartlar, bağımsızlık/dürüstlük/adillik, özen ve titizlik, sürekli gelişim, sır saklama, etik düşünme.</li><li><strong>Scalping yasağı:</strong> Müşteri emrinden önce aynı araçta kendi adına işlem yapılamaz.</li><li><strong>Çıkar çatışması:</strong> Yazılı bildirim + yazılı izin zorunlu. Üçüncü taraftan menfaat önceden yazılı onay alınmadan kabul edilemez.</li><li><strong>Disiplin cezaları (hafiften ağıra):</strong> Uyarı → Kınama → İdari para cezası → Geçici çıkarma → Sürekli çıkarma. Kesinleşen ceza sicile işlenir, Kurul'a bildirilir.</li><li><strong>Etik ihlal örnekleri:</strong> Gerçekdışı gösterim (seçici performans sunumu), piyasa bozucu eylem, müşteri aleyhine pozisyon alma, sır ifşası, uygunsuz yatırım tavsiyesi.</li></ul>"
+        "body": "<ul><li><strong>TSPB:</strong> SPK (sermaye piyasası kurulu)n md.74 uyarınca kamu kurumu niteliğinde meslek kuruluşu. Üyeler: aracı kurumlar, bankalar, PYŞ, yatırım ortaklıkları.</li><li><strong>6 temel etik ilke:</strong> Temel ilke/genel standartlar, bağımsızlık/dürüstlük/adillik, özen ve titizlik, sürekli gelişim, sır saklama, etik düşünme.</li><li><strong>Scalping yasağı:</strong> Müşteri emrinden önce aynı araçta kendi adına işlem yapılamaz.</li><li><strong>Çıkar çatışması:</strong> Yazılı bildirim + yazılı izin zorunlu. Üçüncü taraftan menfaat önceden yazılı onay alınmadan kabul edilemez.</li><li><strong>Disiplin cezaları (hafiften ağıra):</strong> Uyarı → Kınama → İdari para cezası → Geçici çıkarma → Sürekli çıkarma. Kesinleşen ceza sicile işlenir, Kurul'a bildirilir.</li><li><strong>Etik ihlal örnekleri:</strong> Gerçekdışı gösterim (seçici performans sunumu), piyasa bozucu eylem, müşteri aleyhine pozisyon alma, sır ifşası, uygunsuz yatırım tavsiyesi.</li></ul>"
       }
     ],
     "tests": {
@@ -22078,10 +22078,10 @@ window.__C = {
             "D) Türkiye'nin IMF'ye olan borçlarının yeniden yapılandırılması"
           ],
           "a": 3,
-          "e": "6362 sayılı SPKn'nun hazırlanmasında üç temel etken belirleyici olmuştur: 6102 sayılı TTK'nın yürürlüğe girmesi, AB müktesebatına uyum zorunluluğu ve piyasanın duyduğu ihtiyaçlar ile 2008 küresel finansal krizinin dersleri. IMF borç yapılandırması bu faktörler arasında yer almaz."
+          "e": "6362 sayılı SPK (sermaye piyasası kurulu)n'nun hazırlanmasında üç temel etken belirleyici olmuştur: 6102 sayılı TTK'nın yürürlüğe girmesi, AB müktesebatına uyum zorunluluğu ve piyasanın duyduğu ihtiyaçlar ile 2008 küresel finansal krizinin dersleri. IMF borç yapılandırması bu faktörler arasında yer almaz."
         },
         {
-          "q": "SPKn'ya göre 'halka açık ortaklık' sayılmak için hangi koşullardan biri yeterlidir?",
+          "q": "SPK (sermaye piyasası kurulu)n'ya göre 'halka açık ortaklık' sayılmak için hangi koşullardan biri yeterlidir?",
           "o": [
             "A) Şirketin borsada işlem görmesi",
             "B) Paylarının halka arz edilmiş olması VEYA pay sahibi sayısının 500'ü aşması",
@@ -22089,7 +22089,7 @@ window.__C = {
             "D) Asgari sermayenin 10 milyon TL'yi aşması"
           ],
           "a": 1,
-          "e": "SPKn kapsamında halka açık ortaklık sayılmak için iki yoldan biri yeterlidir: (1) paylarının halka arz edilmiş olması veya (2) pay sahibi sayısının 500'ü aşması. Bu iki koşuldan birinin varlığı halka açık ortaklık statüsünü doğurur."
+          "e": "SPK (sermaye piyasası kurulu)n kapsamında halka açık ortaklık sayılmak için iki yoldan biri yeterlidir: (1) paylarının halka arz edilmiş olması veya (2) pay sahibi sayısının 500'ü aşması. Bu iki koşuldan birinin varlığı halka açık ortaklık statüsünü doğurur."
         },
         {
           "q": "Özel Durumlar Tebliği'ne göre 'içsel bilgi' hangi özelliklere sahip olmalıdır?",
@@ -22097,7 +22097,7 @@ window.__C = {
             "A) Kamuya açıklanmış; fiyatı önemli ölçüde etkileyen",
             "B) Kamuya açıklanmamış; kesin nitelikte; fiyatı önemli ölçüde etkileyebilecek",
             "C) Yalnızca YK kararlarına ilişkin gizli bilgi",
-            "D) SPK'nın özel olarak gizlilik kararı aldığı bilgi"
+            "D) SPK (sermaye piyasası kurulu)'nın özel olarak gizlilik kararı aldığı bilgi"
           ],
           "a": 1,
           "e": "İçsel bilginin dört temel özelliği: (1) kamuya henüz açıklanmamış olması, (2) doğrudan veya dolaylı olarak ihraççıya ilişkin olması, (3) kesin nitelikte olması, (4) kamuya açıklanması halinde araç fiyatını önemli ölçüde etkileyebilecek nitelikte bulunması."
@@ -22108,7 +22108,7 @@ window.__C = {
             "A) Bir sonraki genel kurula kadar görevine devam edebilir",
             "B) Derhal istifa etmeli; YK durumu KAP'ta duyurmalı; 30 gün içinde yeni aday gösterilmeli",
             "C) Yalnızca denetim komitesinden ayrılması yeterlidir",
-            "D) SPK'ya başvurarak geçici muafiyet alabilir"
+            "D) SPK (sermaye piyasası kurulu)'ya başvurarak geçici muafiyet alabilir"
           ],
           "a": 1,
           "e": "Bağımsızlık kriterlerini yitiren YK üyesi derhal istifa etmek zorundadır. YK bu durumu KAP'ta duyurur ve bağımsız üye adayı gösterimini 30 gün içinde tamamlamak zorundadır."
@@ -22138,7 +22138,7 @@ window.__C = {
         {
           "q": "Yatırım Fonları Tebliği'ne göre yatırım fonunun kurucusu kimdir?",
           "o": [
-            "A) SPK",
+            "A) SPK (sermaye piyasası kurulu)",
             "B) Yalnızca bankalar",
             "C) Münhasıran portföy yönetim şirketleri",
             "D) Aracı kurumlar ve bankalar birlikte"
@@ -22184,14 +22184,14 @@ window.__C = {
           "o": [
             "A) Yalnızca meşru menfaat",
             "B) Meşru menfaat + piyasayı yanıltmama + gizliliği sağlama — üçü birlikte",
-            "C) SPK onayı + YK kararı",
+            "C) SPK (sermaye piyasası kurulu) onayı + YK kararı",
             "D) Kamuoyunda söylenti çıkmamış olması"
           ],
           "a": 1,
           "e": "İçsel bilginin açıklanmasının ertelenmesi için üç koşulun birlikte sağlanması zorunludur: (1) ihraççının meşru bir menfaatinin bulunması, (2) ertelemenin piyasayı yanıltmaması, (3) gizliliğin korunabilmesi. Bu koşullardan biri bile eksikse erteleme yapılamaz."
         },
         {
-          "q": "SPKn kapsamında piyasa dolandırıcılığı suçu için öngörülen hapis cezası nedir?",
+          "q": "SPK (sermaye piyasası kurulu)n kapsamında piyasa dolandırıcılığı suçu için öngörülen hapis cezası nedir?",
           "o": [
             "A) 1–3 yıl",
             "B) 2–5 yıl",
@@ -22199,7 +22199,7 @@ window.__C = {
             "D) 5–10 yıl"
           ],
           "a": 2,
-          "e": "SPKn md.107 uyarınca piyasa dolandırıcılığı suçunda 3 yıldan 5 yıla kadar hapis cezası öngörülmüştür. İçsel bilgi kullanımı (md.106) ise 2–5 yıl; bu iki suçun alt sınırı farklıdır — piyasa dolandırıcılığı daha ağırdır."
+          "e": "SPK (sermaye piyasası kurulu)n md.107 uyarınca piyasa dolandırıcılığı suçunda 3 yıldan 5 yıla kadar hapis cezası öngörülmüştür. İçsel bilgi kullanımı (md.106) ise 2–5 yıl; bu iki suçun alt sınırı farklıdır — piyasa dolandırıcılığı daha ağırdır."
         },
         {
           "q": "Borsa Yatırım Fonu'nda (BYF) 'arbitraj mekanizması' ne işe yarar?",
@@ -22246,7 +22246,7 @@ window.__C = {
           "e": "MKYO Tebliği uyarınca portföydeki her bir ihraççının sermaye piyasası araçlarına toplam varlıkların %10'undan fazlası yatırılamaz. Bu kural DİBS ve HMVKŞ tarafından ihraç edilen kira sertifikaları için geçerli değildir."
         },
         {
-          "q": "SPKn kapsamında kripto varlık hizmet sağlayıcısının zimmet suçunda hapis cezası alt sınırı kaçtır?",
+          "q": "SPK (sermaye piyasası kurulu)n kapsamında kripto varlık hizmet sağlayıcısının zimmet suçunda hapis cezası alt sınırı kaçtır?",
           "o": [
             "A) 2 yıl",
             "B) 3 yıl",
@@ -22254,7 +22254,7 @@ window.__C = {
             "D) 6 yıl"
           ],
           "a": 3,
-          "e": "SPKn md.110/A uyarınca kripto varlık hizmet sağlayıcısı yönetici veya çalışanlarının zimmet suçunda 6 yıldan 12 yıla kadar hapis cezası öngörülmüştür. Bu, sermaye piyasası suçları arasında en ağır cezayı taşıyan suç tipidir."
+          "e": "SPK (sermaye piyasası kurulu)n md.110/A uyarınca kripto varlık hizmet sağlayıcısı yönetici veya çalışanlarının zimmet suçunda 6 yıldan 12 yıla kadar hapis cezası öngörülmüştür. Bu, sermaye piyasası suçları arasında en ağır cezayı taşıyan suç tipidir."
         },
         {
           "q": "Girişim Sermayesi Yatırım Fonu (GSYF) katılma payları kimlere satılabilir?",
@@ -22276,7 +22276,7 @@ window.__C = {
             "D) %30"
           ],
           "a": 2,
-          "e": "SPK Kurumsal Yönetim Tebliği uyarınca halka açık ortaklıkların yönetim kurullarında kadın üye oranı hedefi en az %25 olarak belirlenmiş ve bu hedefe ulaşmak için politika oluşturulması zorunlu tutulmuştur."
+          "e": "SPK (sermaye piyasası kurulu) Kurumsal Yönetim Tebliği uyarınca halka açık ortaklıkların yönetim kurullarında kadın üye oranı hedefi en az %25 olarak belirlenmiş ve bu hedefe ulaşmak için politika oluşturulması zorunlu tutulmuştur."
         },
         {
           "q": "PYŞ'nin faaliyet izni alabilmesi için hangi ön koşulların tamamlanmış olması gerekir?",
@@ -22292,7 +22292,7 @@ window.__C = {
       ],
       "t2": [
         {
-          "q": "6362 sayılı SPKn kapsamında 'sermaye piyasası aracı' olarak sayılmayan hangisidir?",
+          "q": "6362 sayılı SPK (sermaye piyasası kurulu)n kapsamında 'sermaye piyasası aracı' olarak sayılmayan hangisidir?",
           "o": [
             "A) Menkul kıymetler",
             "B) Türev araçlar",
@@ -22300,7 +22300,7 @@ window.__C = {
             "D) Kurul'ca belirlenen diğer araçlar"
           ],
           "a": 2,
-          "e": "SPKn'da sermaye piyasası araçları üç kategoride sayılmıştır: menkul kıymetler, türev araçlar ve Kurul'ca belirlenen diğer araçlar. Para (TL ve yabancı para), çek, poliçe ve bono bu kapsamda menkul kıymet sayılmaz; ödeme ve kredi aracıdır."
+          "e": "SPK (sermaye piyasası kurulu)n'da sermaye piyasası araçları üç kategoride sayılmıştır: menkul kıymetler, türev araçlar ve Kurul'ca belirlenen diğer araçlar. Para (TL ve yabancı para), çek, poliçe ve bono bu kapsamda menkul kıymet sayılmaz; ödeme ve kredi aracıdır."
         },
         {
           "q": "Özel Durumlar Tebliği kapsamında pay sahipliği bildirim yükümlülüğü doğuran eşikler hangileridir?",
@@ -22319,7 +22319,7 @@ window.__C = {
             "A) Tüm ilkelere uyum zorunludur; açıklama kabul edilmez",
             "B) İlkelere uymayan şirketler nedenini kamuya açıklayarak esneklik kullanabilir",
             "C) Yalnızca bağımsız üye kuralları için geçerlidir",
-            "D) SPK onayıyla belirli ilkelerden muafiyet alınabilir"
+            "D) SPK (sermaye piyasası kurulu) onayıyla belirli ilkelerden muafiyet alınabilir"
           ],
           "a": 1,
           "e": "Uyum ya da açıkla yaklaşımında şirket her ilkeye uymak zorunda değildir; uymadığı ilkeler için gerekçesini kamuya (KAP'ta) açıklar. Bu esneklik mekanizması özellikle ihtiyari nitelikteki ilkelerde uygulanır."
@@ -22351,7 +22351,7 @@ window.__C = {
           "o": [
             "A) Türk vatandaşlığına sahip olması",
             "B) Yatırım dereceli olması",
-            "C) SPK tarafından atanmış olması",
+            "C) SPK (sermaye piyasası kurulu) tarafından atanmış olması",
             "D) En az 10 yıllık faaliyet geçmişi bulunması"
           ],
           "a": 1,
@@ -22457,7 +22457,7 @@ window.__C = {
           "e": "Şemsiye fon yapısında alt fonlar tamamen bağımsızdır; her alt fon ayrı portföy yönetir. Bir alt fonun borç ve yükümlülükleri diğer alt fonları bağlamaz ve çapraz yükümlülük bulunmamaktadır."
         },
         {
-          "q": "SPKn kapsamında izinsiz sermaye piyasası faaliyetinde bulunmak hangi cezayı gerektirir?",
+          "q": "SPK (sermaye piyasası kurulu)n kapsamında izinsiz sermaye piyasası faaliyetinde bulunmak hangi cezayı gerektirir?",
           "o": [
             "A) Yalnızca idari para cezası",
             "B) 1–3 yıl hapis",
@@ -22465,7 +22465,7 @@ window.__C = {
             "D) 3–5 yıl hapis"
           ],
           "a": 2,
-          "e": "SPKn md.108 uyarınca SPK'dan gerekli izin veya lisansı almaksızın sermaye piyasası faaliyetinde bulunanlar 2 yıldan 5 yıla kadar hapis cezası ve adli para cezasıyla cezalandırılır."
+          "e": "SPK (sermaye piyasası kurulu)n md.108 uyarınca SPK (sermaye piyasası kurulu)'dan gerekli izin veya lisansı almaksızın sermaye piyasası faaliyetinde bulunanlar 2 yıldan 5 yıla kadar hapis cezası ve adli para cezasıyla cezalandırılır."
         },
         {
           "q": "BYF'lerde 'takip hatası (tracking error)' nedir?",
@@ -22514,15 +22514,15 @@ window.__C = {
       ],
       "t3": [
         {
-          "q": "SPKn kapsamında 'Yatırımcı Tazmin Merkezi (YTM)' hangi amaçla kurulmuştur?",
+          "q": "SPK (sermaye piyasası kurulu)n kapsamında 'Yatırımcı Tazmin Merkezi (YTM)' hangi amaçla kurulmuştur?",
           "o": [
-            "A) SPK'nın denetim faaliyetlerini yürütmek",
+            "A) SPK (sermaye piyasası kurulu)'nın denetim faaliyetlerini yürütmek",
             "B) Yatırım kuruluşlarının iflas etmesi halinde yatırımcıların belirli limitler dahilinde tazmin edilmesi",
             "C) Yatırım danışmanlığı hizmeti vermek",
             "D) Borsa işlemlerini denetlemek"
           ],
           "a": 1,
-          "e": "Yatırımcı Tazmin Merkezi, yatırım hizmeti sunan kuruluşların mali açıdan güçlük içine düşmesi veya iflas etmesi durumunda küçük yatırımcıların alacaklarının SPKn'da belirlenen limitler dahilinde tazmin edilmesi amacıyla kurulmuştur."
+          "e": "Yatırımcı Tazmin Merkezi, yatırım hizmeti sunan kuruluşların mali açıdan güçlük içine düşmesi veya iflas etmesi durumunda küçük yatırımcıların alacaklarının SPK (sermaye piyasası kurulu)n'da belirlenen limitler dahilinde tazmin edilmesi amacıyla kurulmuştur."
         },
         {
           "q": "GYO'larda 'altyapı GYO'su' nasıl tanımlanır?",
@@ -22562,11 +22562,11 @@ window.__C = {
           "o": [
             "A) Yalnızca büyük işlemler için geçerlidir",
             "B) Suçtan kaynaklanan malvarlığı değerlerinin aklanması suçuyla mücadele — üyeler şüpheli işlemleri bildirmekle yükümlü",
-            "C) SPK'ya bildirmek yeterlidir; MASAK devre dışıdır",
+            "C) SPK (sermaye piyasası kurulu)'ya bildirmek yeterlidir; MASAK (mali suçları araştırma kurulu) devre dışıdır",
             "D) Yalnızca yabancı müşteriler için uygulanır"
           ],
           "a": 1,
-          "e": "TSPB meslek kuralları kapsamında üyeler, suçtan kaynaklanan malvarlığı değerlerinin aklanması (kara para aklama) suçuyla mücadele kapsamında şüpheli işlemleri ilgili makamlara bildirmekle yükümlüdür. Bu yükümlülük hem TSPB kurallarında hem de MASAK mevzuatında yer alır."
+          "e": "TSPB meslek kuralları kapsamında üyeler, suçtan kaynaklanan malvarlığı değerlerinin aklanması (kara para aklama) suçuyla mücadele kapsamında şüpheli işlemleri ilgili makamlara bildirmekle yükümlüdür. Bu yükümlülük hem TSPB kurallarında hem de MASAK (mali suçları araştırma kurulu) mevzuatında yer alır."
         },
         {
           "q": "BYF ile standart yatırım fonu arasındaki temel işlemsel fark nedir?",
@@ -22626,7 +22626,7 @@ window.__C = {
         {
           "q": "TSPB Disiplin Komitesi'nde soruşturma başlatılması için ne gereklidir?",
           "o": [
-            "A) Yalnızca SPK talebi",
+            "A) Yalnızca SPK (sermaye piyasası kurulu) talebi",
             "B) TSPB Yönetim Kurulu kararı veya yeterli ihbar/şikâyet",
             "C) Savcılık kararı",
             "D) Mahkeme izni"
@@ -22676,7 +22676,7 @@ window.__C = {
             "D) En az 100 pay"
           ],
           "a": 2,
-          "e": "TTK'ya göre azlık hakları için aranan asgari pay oranı sermayenin 1/20'sidir (%5). SPK kurumsal yönetim ilkeleri kapsamında şirketler esas sözleşmelerinde bu oranı daha düşük belirleyerek azlık haklarını genişletebilir."
+          "e": "TTK'ya göre azlık hakları için aranan asgari pay oranı sermayenin 1/20'sidir (%5). SPK (sermaye piyasası kurulu) kurumsal yönetim ilkeleri kapsamında şirketler esas sözleşmelerinde bu oranı daha düşük belirleyerek azlık haklarını genişletebilir."
         },
         {
           "q": "GSYO'da 'halka açıklık oranı' en az kaç yüzde olmalıdır?",
@@ -22717,7 +22717,7 @@ window.__C = {
             "A) Yalnızca deprem gibi doğal afetler için hazırlanır",
             "B) Olağandışı durumlarda faaliyetlerin sürdürülmesini ve müşteri varlıklarının korunmasını sağlayacak prosedürler bütünü",
             "C) Sigorta şirketleri için hazırlanan bir plandır",
-            "D) Yalnızca SPK denetimleri için hazırlanır"
+            "D) Yalnızca SPK (sermaye piyasası kurulu) denetimleri için hazırlanır"
           ],
           "a": 1,
           "e": "PYŞ Tebliği uyarınca acil ve beklenmedik durum planı; doğal afet, sistem arızası, siber saldırı gibi olağandışı durumlarda PYŞ'nin faaliyetlerini sürdürmesini ve müşteri varlıklarını korumasını sağlayacak yazılı prosedürler bütünüdür. Kurul'a bildirim zorunludur."
@@ -22736,15 +22736,15 @@ window.__C = {
       ],
       "t4": [
         {
-          "q": "SPKn'da 'kitle fonlaması faaliyeti' hangi kanunla eklenmiştir ve borçlanmaya dayalı türü için ne geçerlidir?",
+          "q": "SPK (sermaye piyasası kurulu)n'da 'kitle fonlaması faaliyeti' hangi kanunla eklenmiştir ve borçlanmaya dayalı türü için ne geçerlidir?",
           "o": [
             "A) 6102 sayılı TTK ile; bankacılık mevzuatı uygulanır",
             "B) 7061 sayılı Kanun ile; borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanmaz",
-            "C) SPKn'nun ilk halinde yer alıyordu; özel düzenleme yoktur",
+            "C) SPK (sermaye piyasası kurulu)n'nun ilk halinde yer alıyordu; özel düzenleme yoktur",
             "D) 7222 sayılı Kanun ile; yalnızca nitelikli yatırımcılara açık"
           ],
           "a": 1,
-          "e": "Kitle fonlaması hükümleri 7061 sayılı Kanun ile SPKn'ya eklenmiştir. Önemli bir özellik: borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanmaz; münhasıran SPK düzenlemelerine tabidir."
+          "e": "Kitle fonlaması hükümleri 7061 sayılı Kanun ile SPK (sermaye piyasası kurulu)n'ya eklenmiştir. Önemli bir özellik: borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanmaz; münhasıran SPK (sermaye piyasası kurulu) düzenlemelerine tabidir."
         },
         {
           "q": "GYO'da 'ekspertiz değerinin kullanılması' ilkesinin özü nedir?",
@@ -22806,7 +22806,7 @@ window.__C = {
           "o": [
             "A) Otomatik olarak ticaret durdurulur; ihraççının yapacağı bir şey yoktur",
             "B) İhraççı derhal araştırır; açıklamayı haklı kılan özel durum varsa açıklar; piyasadaki söylentiyi doğrular ya da yalanlar",
-            "C) Yalnızca SPK talep ettiğinde açıklama yapılır",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) talep ettiğinde açıklama yapılır",
             "D) İhraççı 30 gün içinde araştırma sonucunu raporlar"
           ],
           "a": 1,
@@ -22817,7 +22817,7 @@ window.__C = {
           "o": [
             "A) Tüm teminatlar derhal iade edilir",
             "B) Teminatlar iflas masasına devredilir; ancak yatırımcı alacakları öncelik sırasında öne alınır",
-            "C) Teminatlar SPK'ya aktarılır",
+            "C) Teminatlar SPK (sermaye piyasası kurulu)'ya aktarılır",
             "D) Teminatlar bir başka PYŞ'ye devredilir"
           ],
           "a": 1,
@@ -22905,7 +22905,7 @@ window.__C = {
           "o": [
             "A) Yalnızca YK çoğunluğunun oyu yeterlidir",
             "B) Bağımsız YK üyelerinin çoğunluk onayı veya genel kurul kararı gerekir",
-            "C) SPK onayı yeterlidir",
+            "C) SPK (sermaye piyasası kurulu) onayı yeterlidir",
             "D) Herhangi bir özel prosedür uygulanmaz"
           ],
           "a": 1,
@@ -22958,7 +22958,7 @@ window.__C = {
       ],
       "t5": [
         {
-          "q": "SPKn md.106 kapsamında 'içsel bilgi kullanımı' suçunun faili kimler olabilir?",
+          "q": "SPK (sermaye piyasası kurulu)n md.106 kapsamında 'içsel bilgi kullanımı' suçunun faili kimler olabilir?",
           "o": [
             "A) Yalnızca şirket içi çalışanlar",
             "B) İçsel bilgiye sahip olan herkes — şirket içinden veya dışından; sır ifşası yoluyla bilgi edinenler dahil",
@@ -23013,7 +23013,7 @@ window.__C = {
           "e": "Etik düşünme ilkesi; sermaye piyasası çalışanının yalnızca mevzuat ve kurallarla sınırlı kalmayarak karşılaştığı her durumu etik değerler çerçevesinde sorgulamasını, doğru olanı arayıp bulmaya çalışmasını ve kurala sığamayan durumlarda sağduyuyla hareket etmesini ifade eder."
         },
         {
-          "q": "SPKn kapsamında 'finansal altyapı kuruluşları' hangi kurumları kapsar?",
+          "q": "SPK (sermaye piyasası kurulu)n kapsamında 'finansal altyapı kuruluşları' hangi kurumları kapsar?",
           "o": [
             "A) Yalnızca borsalar",
             "B) Merkezi takas kuruluşları (Takasbank), merkezi saklama kuruluşları (MKK), ödeme ve veri depolama sistemleri",
@@ -23021,7 +23021,7 @@ window.__C = {
             "D) Yalnızca derecelendirme kuruluşları"
           ],
           "a": 1,
-          "e": "SPKn kapsamında finansal altyapı kuruluşları; merkezi takas kuruluşu (Takasbank), merkezi saklama kuruluşu (MKK), ödeme sistemleri ve veri depolama kuruluşlarını kapsar. Bu kuruluşlar sermaye piyasasının temel işlem altyapısını oluşturur."
+          "e": "SPK (sermaye piyasası kurulu)n kapsamında finansal altyapı kuruluşları; merkezi takas kuruluşu (Takasbank), merkezi saklama kuruluşu (MKK), ödeme sistemleri ve veri depolama kuruluşlarını kapsar. Bu kuruluşlar sermaye piyasasının temel işlem altyapısını oluşturur."
         },
         {
           "q": "GSYF'nin girişim şirketlerine yatırım sınırlamasına aykırılık halinde uygulanacak tedbirler nelerdir?",
@@ -23065,7 +23065,7 @@ window.__C = {
             "D) Yalnızca Kurul izniyle birlikte yürütülebilir"
           ],
           "a": 1,
-          "e": "TSPB Disiplin Yönetmeliği uyarınca disiplin soruşturması, aynı fiil nedeniyle SPK tarafından yürütülen idari soruşturma veya savcılık tarafından yürütülen ceza kovuşturmasıyla eş zamanlı ve bağımsız olarak sürdürülebilir. Biri diğerini durdurmaz."
+          "e": "TSPB Disiplin Yönetmeliği uyarınca disiplin soruşturması, aynı fiil nedeniyle SPK (sermaye piyasası kurulu) tarafından yürütülen idari soruşturma veya savcılık tarafından yürütülen ceza kovuşturmasıyla eş zamanlı ve bağımsız olarak sürdürülebilir. Biri diğerini durdurmaz."
         },
         {
           "q": "GYO'da 'adi ortaklık oluşturmak' hangi koşulda mümkündür?",
@@ -23172,7 +23172,7 @@ window.__C = {
             "A) Müşterilere en yüksek getiriyi garanti etmek",
             "B) Sunulan hizmetlerin güvenilir, doğru ve dengeli olmasını; yanlış beklenti yaratacak ifadelerden kaçınmayı",
             "C) Yalnızca deneyimli yatırımcılara hizmet sunmak",
-            "D) Her işlemi önceden SPK'ya bildirmek"
+            "D) Her işlemi önceden SPK (sermaye piyasası kurulu)'ya bildirmek"
           ],
           "a": 1,
           "e": "Özenli ve basiretli olma ilkesi kapsamında sermaye piyasası çalışanları; sundukları hizmet ve ürünlerin güvenilir, doğru ve dengeli biçimde sunulmasını, yanıltıcı veya abartılı ifadelerden kaçınılmasını ve müşterilerde gerçekçi olmayan beklentiler yaratılmamasını sağlamakla yükümlüdür."
@@ -23185,7 +23185,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Finansal Piyasalar — Temel Kavramlar ve BİST'in Hukuki Yapısı",
-        "body": "<ul><li><strong>Finansal piyasa:</strong> Fon fazlası olanların tasarruflarını fon eksiği olanlara aktardığı, mali varlıkların alınıp satıldığı piyasa. Fon arz edenler, fon talep edenler, araçlar, yardımcı kuruluşlar ve hukuki düzenden oluşur.</li><li><strong>Para piyasası:</strong> Vadesi 1 yılı aşmayan kısa vadeli fon arz-talebi. Araçlar: Hazine bonosu, finansman bonosu, banka bonoları, repo/ters repo.</li><li><strong>Sermaye piyasası:</strong> 1 yılı aşan uzun vadeli finansal varlıkların işlem gördüğü piyasa. İşletmelerin duran varlık finansmanında kullanılır.</li><li><strong>Organize / Tezgahüstü ayrımı:</strong> Organize: merkezi yapı, yazılı kurallar, regülatör denetimi (BİST, Takasbank piyasaları). Tezgahüstü: merkezi yapı yok, esnek kurallar, karşı taraf riski mevcut.</li><li><strong>BİST hukuki yapısı:</strong> SPKn kapsamında anonim şirket; kuruluşa Cumhurbaşkanı izni, faaliyete Kurul izni. Organlar: Genel Kurul, Yönetim Kurulu, Komiteler (Denetim, Uyum, Risk vb.).</li><li><strong>BİST üyeliği:</strong> Aracı kurumlar ve bankalar üye olabilir; üye temsilcisi yetkisi zorunlu. Üyeler disiplin kuruluna tabidir.</li></ul>"
+        "body": "<ul><li><strong>Finansal piyasa:</strong> Fon fazlası olanların tasarruflarını fon eksiği olanlara aktardığı, mali varlıkların alınıp satıldığı piyasa. Fon arz edenler, fon talep edenler, araçlar, yardımcı kuruluşlar ve hukuki düzenden oluşur.</li><li><strong>Para piyasası:</strong> Vadesi 1 yılı aşmayan kısa vadeli fon arz-talebi. Araçlar: Hazine bonosu, finansman bonosu, banka bonoları, repo/ters repo.</li><li><strong>Sermaye piyasası:</strong> 1 yılı aşan uzun vadeli finansal varlıkların işlem gördüğü piyasa. İşletmelerin duran varlık finansmanında kullanılır.</li><li><strong>Organize / Tezgahüstü ayrımı:</strong> Organize: merkezi yapı, yazılı kurallar, regülatör denetimi (BİST, Takasbank piyasaları). Tezgahüstü: merkezi yapı yok, esnek kurallar, karşı taraf riski mevcut.</li><li><strong>BİST hukuki yapısı:</strong> SPK (sermaye piyasası kurulu)n kapsamında anonim şirket; kuruluşa Cumhurbaşkanı izni, faaliyete Kurul izni. Organlar: Genel Kurul, Yönetim Kurulu, Komiteler (Denetim, Uyum, Risk vb.).</li><li><strong>BİST üyeliği:</strong> Aracı kurumlar ve bankalar üye olabilir; üye temsilcisi yetkisi zorunlu. Üyeler disiplin kuruluna tabidir.</li></ul>"
       },
       {
         "num": "02",
@@ -23204,23 +23204,23 @@ window.__C = {
       },
       {
         "num": "05",
-        "title": "Tezgahüstü Piyasalar ve TCMB Piyasaları",
-        "body": "<ul><li><strong>Tezgahüstü (OTC) piyasa özellikleri:</strong> Merkezi yapı yok; karşı taraf riski; esnek sözleşme koşulları; düşük şeffaflık. Örnekler: forward, swap, OTC opsiyon, kredi türev araçları.</li><li><strong>OTC türev piyasası riskleri:</strong> Karşı taraf temerrüt riski, operasyonel risk, sistemik risk. IOSCO, FSB, G-20 gibi uluslararası kuruluşlar tarafından izleniyor.</li><li><strong>Türkiye'de OTC mevzuatı:</strong> SPKn, takas mevzuatı ve III-37.1 sayılı Tebliğ çerçevesinde merkezi takas zorunluluğu getirilebilir.</li><li><strong>TCMB para politikası araçları:</strong> Açık Piyasa İşlemleri (APİ): repo, ters repo, doğrudan alım-satım, likidite senedi. Zorunlu karşılıklar; reeskont penceresi.</li><li><strong>APİ piyasası:</strong> İhale sistemi (Reuters veya TCMB ödeme sistemi). Teminatlar: DİBS, HMVKŞ kira sertifikaları, döviz. Geç likidite penceresi (LON): gün sonu borç veren/alan son kaynak.</li><li><strong>Döviz piyasası:</strong> TCMB döviz alım-satım ihaleleri; interbank döviz piyasası; kur belirleme mekanizmaları. Ödemeler dengesi ve döviz kurunu etkileyen faktörler.</li></ul>"
+        "title": "Tezgahüstü Piyasalar ve TCMB (türkiye cumhuriyet merkez bankası) Piyasaları",
+        "body": "<ul><li><strong>Tezgahüstü (OTC) piyasa özellikleri:</strong> Merkezi yapı yok; karşı taraf riski; esnek sözleşme koşulları; düşük şeffaflık. Örnekler: forward, swap, OTC opsiyon, kredi türev araçları.</li><li><strong>OTC türev piyasası riskleri:</strong> Karşı taraf temerrüt riski, operasyonel risk, sistemik risk. IOSCO, FSB, G-20 gibi uluslararası kuruluşlar tarafından izleniyor.</li><li><strong>Türkiye'de OTC mevzuatı:</strong> SPK (sermaye piyasası kurulu)n, takas mevzuatı ve III-37.1 sayılı Tebliğ çerçevesinde merkezi takas zorunluluğu getirilebilir.</li><li><strong>TCMB (türkiye cumhuriyet merkez bankası) para politikası araçları:</strong> Açık Piyasa İşlemleri (APİ): repo, ters repo, doğrudan alım-satım, likidite senedi. Zorunlu karşılıklar; reeskont penceresi.</li><li><strong>APİ piyasası:</strong> İhale sistemi (Reuters veya TCMB (türkiye cumhuriyet merkez bankası) ödeme sistemi). Teminatlar: DİBS, HMVKŞ kira sertifikaları, döviz. Geç likidite penceresi (LON): gün sonu borç veren/alan son kaynak.</li><li><strong>Döviz piyasası:</strong> TCMB (türkiye cumhuriyet merkez bankası) döviz alım-satım ihaleleri; interbank döviz piyasası; kur belirleme mekanizmaları. Ödemeler dengesi ve döviz kurunu etkileyen faktörler.</li></ul>"
       },
       {
         "num": "06",
         "title": "Bankalararası Piyasalar ve Takasbank Piyasaları",
-        "body": "<ul><li><strong>Bankalararası repo piyasası:</strong> BİST dışında bankalar arası telefon/dealing platformu ile yapılan repo. Karşılıklı kredi limitleri ('line') çerçevesinde; aynı gün veya spot valör. Fiyatlar BİST repo pazarları bazlı.</li><li><strong>Bankalararası tahvil piyasası:</strong> DİBS'lerin bankalar arası doğrudan alım-satımı; BİST dışında, tezgahüstü.</li><li><strong>Takasbank Para Piyasası (TPP):</strong> TL fon arz-talep eden üyelerin karşılaştığı organize piyasa (1996'dan itibaren). Üyeler: aracı kurumlar, bankalar, finansal kiralama, faktoring, sigorta ve emeklilik şirketleri vb. Takasbank garanti verir; alış-satış kotasyonu vermez.</li><li><strong>Ödünç Pay Piyasası (ÖPP):</strong> Takasbank tarafından kurulan; kıymet ödünç alma-verme piyasası. Takasbank açık teklif yöntemiyle MKT. Vadeler: 1, 2, 3, 6, 9, 12 ay. Komisyon formüle göre hesaplanır.</li><li><strong>Borsa İstanbul Para Piyasası (BPP):</strong> BAP bünyesinde TL teminatlı borç alma-verme; Takasbank MKT. T+0 ve T+1 valör.</li><li><strong>BİST Swap Piyasası:</strong> Para Swap Pazarı (TL karşılığı döviz) ve Kıymetli Madenler Swap Pazarı. TCMB de işlem yapabilir.</li></ul>"
+        "body": "<ul><li><strong>Bankalararası repo piyasası:</strong> BİST dışında bankalar arası telefon/dealing platformu ile yapılan repo. Karşılıklı kredi limitleri ('line') çerçevesinde; aynı gün veya spot valör. Fiyatlar BİST repo pazarları bazlı.</li><li><strong>Bankalararası tahvil piyasası:</strong> DİBS'lerin bankalar arası doğrudan alım-satımı; BİST dışında, tezgahüstü.</li><li><strong>Takasbank Para Piyasası (TPP):</strong> TL fon arz-talep eden üyelerin karşılaştığı organize piyasa (1996'dan itibaren). Üyeler: aracı kurumlar, bankalar, finansal kiralama, faktoring, sigorta ve emeklilik şirketleri vb. Takasbank garanti verir; alış-satış kotasyonu vermez.</li><li><strong>Ödünç Pay Piyasası (ÖPP):</strong> Takasbank tarafından kurulan; kıymet ödünç alma-verme piyasası. Takasbank açık teklif yöntemiyle MKT. Vadeler: 1, 2, 3, 6, 9, 12 ay. Komisyon formüle göre hesaplanır.</li><li><strong>Borsa İstanbul Para Piyasası (BPP):</strong> BAP bünyesinde TL teminatlı borç alma-verme; Takasbank MKT. T+0 ve T+1 valör.</li><li><strong>BİST Swap Piyasası:</strong> Para Swap Pazarı (TL karşılığı döviz) ve Kıymetli Madenler Swap Pazarı. TCMB (türkiye cumhuriyet merkez bankası) de işlem yapabilir.</li></ul>"
       },
       {
         "num": "07",
         "title": "TEFAS — Türkiye Elektronik Fon Alım Satım Platformu",
-        "body": "<ul><li><strong>TEFAS nedir:</strong> Yatırım fonu katılma paylarının elektronik merkezi platformda satışına imkân veren sistem. Takas ve saklama Takasbank-MKK entegrasyonuyla tam otomasyon. III-52.1 Tebliği ve i-SPK.52.2 kararı hukuki dayanağı.</li><li><strong>İşlem yapabilecekler:</strong> Aracı kurumlar ve bankalar (dağıtım kuruluşları); fon kurucuları (PYŞ). Müşteri web/mobil üzerinden de erişim.</li><li><strong>Alım talimatları:</strong> Fon payı alım emri platform üzerinden iletilir; ileriye dönük fiyatlama (emir günü fiyatı bilinmez). Netleştirme: günlük borç-alacak netleştirilir.</li><li><strong>Temerrüt:</strong> Üye temerrüdünde TCMB geç likidite penceresi faizi + ek faiz. Teminatlara ve garanti fonuna başvurulur.</li><li><strong>TEFAS'ta işlem görebilecek fonlar:</strong> Para piyasası, borçlanma araçları, hisse senedi, karma, katılım, fon sepeti vb. fonlar. Serbest fonların bazı alt tipleri TEFAS'ta işlem göremez.</li><li><strong>Komisyon:</strong> Üyelik giriş ücreti (fon bazlı, bir kerelik) + işlem komisyonu.</li></ul>"
+        "body": "<ul><li><strong>TEFAS nedir:</strong> Yatırım fonu katılma paylarının elektronik merkezi platformda satışına imkân veren sistem. Takas ve saklama Takasbank-MKK entegrasyonuyla tam otomasyon. III-52.1 Tebliği ve i-SPK (sermaye piyasası kurulu).52.2 kararı hukuki dayanağı.</li><li><strong>İşlem yapabilecekler:</strong> Aracı kurumlar ve bankalar (dağıtım kuruluşları); fon kurucuları (PYŞ). Müşteri web/mobil üzerinden de erişim.</li><li><strong>Alım talimatları:</strong> Fon payı alım emri platform üzerinden iletilir; ileriye dönük fiyatlama (emir günü fiyatı bilinmez). Netleştirme: günlük borç-alacak netleştirilir.</li><li><strong>Temerrüt:</strong> Üye temerrüdünde TCMB (türkiye cumhuriyet merkez bankası) geç likidite penceresi faizi + ek faiz. Teminatlara ve garanti fonuna başvurulur.</li><li><strong>TEFAS'ta işlem görebilecek fonlar:</strong> Para piyasası, borçlanma araçları, hisse senedi, karma, katılım, fon sepeti vb. fonlar. Serbest fonların bazı alt tipleri TEFAS'ta işlem göremez.</li><li><strong>Komisyon:</strong> Üyelik giriş ücreti (fon bazlı, bir kerelik) + işlem komisyonu.</li></ul>"
       },
       {
         "num": "08",
         "title": "BEFAS — Bireysel Emeklilik Fon Alım Satım Platformu",
-        "body": "<ul><li><strong>BEFAS nedir:</strong> Emeklilik yatırım fonu katılma paylarının platform üyesi emeklilik şirketleri arasında satılmasına imkân veren elektronik platform. Takas Takasbank üzerinden. 256 sayılı Cumhurbaşkanlığı Kararı ve SPK-SEDDK mevzuatı dayanağı.</li><li><strong>Üyelik:</strong> Emeklilik branşında faaliyet gösteren şirketler. Katılım zorunluluğu tabi olunan mevzuata bağlı.</li><li><strong>İşlem türleri:</strong> Alım (fon payı ihraç), satım (geri alım). Normal ve ileri valörlü talimatlar; valör tarihine kadar sistemde bekletilir.</li><li><strong>Takas:</strong> Takasbank sistemi üzerinden tam otomasyon. Alım işlemlerinde BEFAS Fon Payı İhraç Havuzu Hesabı kullanılır.</li><li><strong>BEFAS vs TEFAS farkı:</strong> TEFAS bireysel yatırım fonlarına (PYŞ fonları), BEFAS emeklilik yatırım fonlarına odaklanır. BEFAS'ta platformlar arası fon aktarımı (emeklilik şirketi değişikliği) da mümkün.</li><li><strong>Olağanüstü tedbirler:</strong> İşlem kısıtlama, fon payı işlemlerini durdurma; SPK ve SEDDK koordinasyonu.</li></ul>"
+        "body": "<ul><li><strong>BEFAS nedir:</strong> Emeklilik yatırım fonu katılma paylarının platform üyesi emeklilik şirketleri arasında satılmasına imkân veren elektronik platform. Takas Takasbank üzerinden. 256 sayılı Cumhurbaşkanlığı Kararı ve SPK (sermaye piyasası kurulu)-SEDD (güçlendirilmiş durum tespiti)K mevzuatı dayanağı.</li><li><strong>Üyelik:</strong> Emeklilik branşında faaliyet gösteren şirketler. Katılım zorunluluğu tabi olunan mevzuata bağlı.</li><li><strong>İşlem türleri:</strong> Alım (fon payı ihraç), satım (geri alım). Normal ve ileri valörlü talimatlar; valör tarihine kadar sistemde bekletilir.</li><li><strong>Takas:</strong> Takasbank sistemi üzerinden tam otomasyon. Alım işlemlerinde BEFAS Fon Payı İhraç Havuzu Hesabı kullanılır.</li><li><strong>BEFAS vs TEFAS farkı:</strong> TEFAS bireysel yatırım fonlarına (PYŞ fonları), BEFAS emeklilik yatırım fonlarına odaklanır. BEFAS'ta platformlar arası fon aktarımı (emeklilik şirketi değişikliği) da mümkün.</li><li><strong>Olağanüstü tedbirler:</strong> İşlem kısıtlama, fon payı işlemlerini durdurma; SPK (sermaye piyasası kurulu) ve SEDD (güçlendirilmiş durum tespiti)K koordinasyonu.</li></ul>"
       }
     ],
     "tests": {
@@ -23256,18 +23256,18 @@ window.__C = {
             "D) Bankalararası Tahvil Piyasası"
           ],
           "a": 3,
-          "e": "Türkiye'de organize piyasalar: TCMB Piyasaları, Borsa İstanbul Piyasaları ve Takasbank Piyasaları'dır. Bankalararası Tahvil Piyasası ise merkezi yapı arz etmeksizin bankalar arasında serbestçe gerçekleştirilen tezgahüstü (organize olmayan) bir piyasadır."
+          "e": "Türkiye'de organize piyasalar: TCMB (türkiye cumhuriyet merkez bankası) Piyasaları, Borsa İstanbul Piyasaları ve Takasbank Piyasaları'dır. Bankalararası Tahvil Piyasası ise merkezi yapı arz etmeksizin bankalar arasında serbestçe gerçekleştirilen tezgahüstü (organize olmayan) bir piyasadır."
         },
         {
           "q": "Borsa İstanbul A.Ş.'nin kuruluşuna hangi makam izin verir?",
           "o": [
-            "A) SPK",
+            "A) SPK (sermaye piyasası kurulu)",
             "B) Hazine ve Maliye Bakanlığı",
             "C) Cumhurbaşkanı",
-            "D) BDDK"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu)"
           ],
           "a": 2,
-          "e": "SPKn'ye göre borsaların ve piyasa işleticilerinin kuruluşuna Kurul'un (SPK) uygun görüşü üzerine Cumhurbaşkanı tarafından izin verilir. Faaliyete geçmesi ise Kurul iznine tabidir."
+          "e": "SPK (sermaye piyasası kurulu)n'ye göre borsaların ve piyasa işleticilerinin kuruluşuna Kurul'un (SPK (sermaye piyasası kurulu)) uygun görüşü üzerine Cumhurbaşkanı tarafından izin verilir. Faaliyete geçmesi ise Kurul iznine tabidir."
         },
         {
           "q": "BİST Pay Piyasası'nda seans yapısı hangi sırayla işler?",
@@ -23388,10 +23388,10 @@ window.__C = {
             "D) Döviz kurunu sabitlemek"
           ],
           "a": 1,
-          "e": "TCMB'nin birincil amacı fiyat istikrarını sağlamak ve sürdürmektir. Enflasyon hedeflemesi bu amacın temel aracıdır. TCMB diğer ekonomik hedefleri (büyüme, istihdam) ancak bu birincil amaca zarar vermemek koşuluyla destekler."
+          "e": "TCMB (türkiye cumhuriyet merkez bankası)'nin birincil amacı fiyat istikrarını sağlamak ve sürdürmektir. Enflasyon hedeflemesi bu amacın temel aracıdır. TCMB (türkiye cumhuriyet merkez bankası) diğer ekonomik hedefleri (büyüme, istihdam) ancak bu birincil amaca zarar vermemek koşuluyla destekler."
         },
         {
-          "q": "TCMB Açık Piyasa İşlemleri kapsamında 'repo' işleminin amacı nedir?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası) Açık Piyasa İşlemleri kapsamında 'repo' işleminin amacı nedir?",
           "o": [
             "A) Piyasadan kalıcı olarak likidite çekmek",
             "B) Piyasaya geçici olarak likidite vermek",
@@ -23399,7 +23399,7 @@ window.__C = {
             "D) Döviz rezervlerini artırmak"
           ],
           "a": 1,
-          "e": "Repo işleminde TCMB menkul kıymetleri geri satım taahhüdüyle satın alarak piyasaya geçici likidite sağlar. Tersine, ters repo ile piyasadan geçici likidite çeker. Doğrudan alım ise kalıcı likidite sağlar."
+          "e": "Repo işleminde TCMB (türkiye cumhuriyet merkez bankası) menkul kıymetleri geri satım taahhüdüyle satın alarak piyasaya geçici likidite sağlar. Tersine, ters repo ile piyasadan geçici likidite çeker. Doğrudan alım ise kalıcı likidite sağlar."
         },
         {
           "q": "Tezgahüstü (OTC) piyasaların organize piyasalara göre temel dezavantajı nedir?",
@@ -23439,7 +23439,7 @@ window.__C = {
           "o": [
             "A) BİST platformu üzerinden zorunlu olarak",
             "B) Telefonla pazarlık ya da dealing platformları aracılığıyla",
-            "C) TCMB aracılığıyla",
+            "C) TCMB (türkiye cumhuriyet merkez bankası) aracılığıyla",
             "D) Yalnızca Takasbank üzerinden"
           ],
           "a": 1,
@@ -23470,11 +23470,11 @@ window.__C = {
           "e": "VİOP'ta işlem saatleri: Sabah öncesi seans 08:30–09:00, sürekli işlem seansı 09:00–18:15 ve akşam seansı 19:00–23:00. Akşam seansında çeşitli döviz ve emtia sözleşmeleri işlem görmektedir."
         },
         {
-          "q": "TCMB'nin 'Rezerv Opsiyon Mekanizması (ROM)' nedir?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası)'nin 'Rezerv Opsiyon Mekanizması (ROM)' nedir?",
           "o": [
             "A) Bankaların fazla rezervlerini borç olarak verme imkânı",
             "B) Bankaların TL zorunlu karşılıklarının bir kısmını döviz veya altın olarak tutabilmesi",
-            "C) TCMB'nin döviz rezervlerini altına dönüştürmesi",
+            "C) TCMB (türkiye cumhuriyet merkez bankası)'nin döviz rezervlerini altına dönüştürmesi",
             "D) Piyasada kur müdahalesi için kullanılan araç"
           ],
           "a": 1,
@@ -23558,7 +23558,7 @@ window.__C = {
           "e": "Nitelikli Yatırımcıya İhraç Pazarı, borçlanma araçlarının halka arz edilmeksizin yalnızca nitelikli yatırımcılara birincil piyasada satışına imkân tanıyan pazardır. 17 Mayıs 2010'da faaliyete geçmiştir."
         },
         {
-          "q": "TCMB 'geç likidite penceresi (LON)' nedir?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası) 'geç likidite penceresi (LON)' nedir?",
           "o": [
             "A) Sabah açılışında bankalara verilen kısa vadeli kredi",
             "B) Gün sonu bankacılık sistemine son kaynak olarak verilen/alınan likidite imkânı",
@@ -23566,7 +23566,7 @@ window.__C = {
             "D) Zorunlu karşılık tamamlama kolaylığı"
           ],
           "a": 1,
-          "e": "Geç likidite penceresi (LON), gün sonunda bankacılık sistemi için TCMB tarafından uygulanan son kaynak borç verme/alma imkânıdır. Bu faiz oranı politika faizinin üst bandından daha yüksektir. TEFAS temerrüt faizi hesaplamasında da LON faizi referans alınır."
+          "e": "Geç likidite penceresi (LON), gün sonunda bankacılık sistemi için TCMB (türkiye cumhuriyet merkez bankası) tarafından uygulanan son kaynak borç verme/alma imkânıdır. Bu faiz oranı politika faizinin üst bandından daha yüksektir. TEFAS temerrüt faizi hesaplamasında da LON faizi referans alınır."
         },
         {
           "q": "BİST VİOP'ta 'teminat tamamlama çağrısı' için gün içi süre kaç saattir?",
@@ -23714,7 +23714,7 @@ window.__C = {
           "e": "Esnek vadeli işlem ve opsiyon sözleşmeleri, standart sözleşme özelliklerinin dışında Borsa tarafından oluşturulabilen özelleştirilmiş sözleşmelerdir. Müşteri taleplerine göre dayanak varlık, vade ve uzlaşı koşulları farklılaştırılabilir."
         },
         {
-          "q": "TCMB Açık Piyasa İşlemleri'nde kullanılabilecek teminatlar arasında hangisi yer almaz?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası) Açık Piyasa İşlemleri'nde kullanılabilecek teminatlar arasında hangisi yer almaz?",
           "o": [
             "A) DİBS",
             "B) HMVKŞ tarafından yurt içinde ihraç edilen kira sertifikaları",
@@ -23722,7 +23722,7 @@ window.__C = {
             "D) Döviz"
           ],
           "a": 2,
-          "e": "TCMB APİ'de kabul edilen teminatlar arasında DİBS, HMVKŞ kira sertifikaları ve döviz yer alır. Özel sektör hisse senetleri TCMB açık piyasa işlemlerinde teminat olarak kabul edilmez."
+          "e": "TCMB (türkiye cumhuriyet merkez bankası) APİ'de kabul edilen teminatlar arasında DİBS, HMVKŞ kira sertifikaları ve döviz yer alır. Özel sektör hisse senetleri TCMB (türkiye cumhuriyet merkez bankası) açık piyasa işlemlerinde teminat olarak kabul edilmez."
         },
         {
           "q": "BİST VİOP akşam seansında hangi tür sözleşmeler işlem görür?",
@@ -23738,10 +23738,10 @@ window.__C = {
         {
           "q": "Bankalararası döviz ve tahvil piyasalarında işlem yapabilmek için ne gereklidir?",
           "o": [
-            "A) SPK lisansı",
+            "A) SPK (sermaye piyasası kurulu) lisansı",
             "B) 'Line' adı verilen karşılıklı kredi limiti",
             "C) BİST üyeliği",
-            "D) TCMB izni"
+            "D) TCMB (türkiye cumhuriyet merkez bankası) izni"
           ],
           "a": 1,
           "e": "Bankalararası piyasalarda işlem yapabilmek için karşı bankada açılmış 'line' (kredi limiti) bulunması gerekir. Bu limit dahilinde ve ancak line'ı olan bankalarla işlem yapılabilmektedir. Bu piyasalar tezgahüstü nitelik taşır."
@@ -23760,13 +23760,13 @@ window.__C = {
         {
           "q": "TEFAS'ta temerrüt faizi hesaplamasında hangi faiz oranı referans alınır?",
           "o": [
-            "A) TCMB politika faizi",
-            "B) TCMB geç likidite penceresi (LON) borç verme faiz oranı",
+            "A) TCMB (türkiye cumhuriyet merkez bankası) politika faizi",
+            "B) TCMB (türkiye cumhuriyet merkez bankası) geç likidite penceresi (LON) borç verme faiz oranı",
             "C) BİST repo oranı",
             "D) Hazine ihalesi faizi"
           ],
           "a": 1,
-          "e": "TEFAS'ta temerrüt faizi hesaplamasında TCMB geç likidite penceresi (LON) borç verme faiz oranı + belirlenmiş ek faiz baz alınır. Bu oran genellikle piyasadaki en yüksek faiz bandını temsil eder."
+          "e": "TEFAS'ta temerrüt faizi hesaplamasında TCMB (türkiye cumhuriyet merkez bankası) geç likidite penceresi (LON) borç verme faiz oranı + belirlenmiş ek faiz baz alınır. Bu oran genellikle piyasadaki en yüksek faiz bandını temsil eder."
         },
         {
           "q": "BİST BAP'ta 'Taahhütlü İşlemler Pazarı' hangi tarihte faaliyete geçmiştir?",
@@ -23829,7 +23829,7 @@ window.__C = {
             "A) TL cinsinden nominal değer üzerinden",
             "B) İhraç edildiği döviz cinsinden 100 birim üzerinden",
             "C) Euro cinsinden iskonto oranı üzerinden",
-            "D) Yalnızca TCMB kuru üzerinden"
+            "D) Yalnızca TCMB (türkiye cumhuriyet merkez bankası) kuru üzerinden"
           ],
           "a": 1,
           "e": "Uluslararası Tahvil Pazarı'nda her bir döviz cinsinden ihraç edilen tahvillerde emirler aynı döviz cinsi ve 100 birim üzerinden fiyatlandırılmaktadır. Bu pazar Hazine tarafından ihraç edilen Eurotahvillerin işlem gördüğü yerdir."
@@ -23906,7 +23906,7 @@ window.__C = {
           "q": "BİST VİOP'ta 'algoritmik emir iletim sistemleri' için hangi zorunluluk getirilmiştir?",
           "o": [
             "A) Yalnızca kurumsal yatırımcılar kullanabilir",
-            "B) SPK özel izni zorunludur",
+            "B) SPK (sermaye piyasası kurulu) özel izni zorunludur",
             "C) Sistemlerin önceden Borsa'ya bildirilmesi ve denetlenmesi",
             "D) Saatlik işlem limiti uygulanır"
           ],
@@ -23925,7 +23925,7 @@ window.__C = {
           "e": "Menkul Kıymet Tercihli Repo Pazarı, işlem karşılığı belirli bir menkul kıymetin (özellikle DİBS) teslim edilmesinin zorunlu tutulduğu teminatlı repo işlemlerinin yapıldığı pazar bölümüdür. 17 Aralık 2010'da açılmıştır."
         },
         {
-          "q": "TCMB'nin 'zorunlu karşılık' uygulamasının para politikasındaki işlevi nedir?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası)'nin 'zorunlu karşılık' uygulamasının para politikasındaki işlevi nedir?",
           "o": [
             "A) Bankaların kârlılığını artırmak",
             "B) Para arzını ve banka kredi genişlemesini dolaylı olarak etkilemek",
@@ -23933,7 +23933,7 @@ window.__C = {
             "D) Sermaye yeterliliğini sağlamak"
           ],
           "a": 1,
-          "e": "Zorunlu karşılıklar, bankaların mevduatlarının belirli bir yüzdesini TCMB nezdinde tutmasını zorunlu kılar. Bu oran artırıldığında bankalar daha az kredi açabilir (para arzı daralır); düşürüldüğünde kredi genişlemesi kolaylaşır. Dolaylı para politikası aracıdır."
+          "e": "Zorunlu karşılıklar, bankaların mevduatlarının belirli bir yüzdesini TCMB (türkiye cumhuriyet merkez bankası) nezdinde tutmasını zorunlu kılar. Bu oran artırıldığında bankalar daha az kredi açabilir (para arzı daralır); düşürüldüğünde kredi genişlemesi kolaylaşır. Dolaylı para politikası aracıdır."
         },
         {
           "q": "ÖPP'de temerrüt halinde Takasbank nasıl hareket eder?",
@@ -24147,15 +24147,15 @@ window.__C = {
           "e": "Repo işleminin başlangıç bacağında (başlangıç valörü) repo yapan taraf menkul kıymeti teslim ederek nakit alır. Bitiş bacağında (bitiş valörü) ise menkul kıymeti geri alarak anaparayı ve faizi iade eder. Takasbank DVP prensibiyle her iki bacağı da güvence altına alır."
         },
         {
-          "q": "TCMB para piyasasında 'İki Gün İhbarlı Döviz Tevdiat Hesapları (DTH)' nedir?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası) para piyasasında 'İki Gün İhbarlı Döviz Tevdiat Hesapları (DTH)' nedir?",
           "o": [
             "A) Bankaların 2 günde bir kullanabileceği rezerv",
-            "B) Bankaların TCMB nezdinde 2 iş günü ihbarlı olarak tuttuğu döviz tevdiat hesapları",
-            "C) Yabancı bankaların TCMB'ye açtığı hesaplar",
+            "B) Bankaların TCMB (türkiye cumhuriyet merkez bankası) nezdinde 2 iş günü ihbarlı olarak tuttuğu döviz tevdiat hesapları",
+            "C) Yabancı bankaların TCMB (türkiye cumhuriyet merkez bankası)'ye açtığı hesaplar",
             "D) Döviz zorunlu karşılıkları için kullanılan hesaplar"
           ],
           "a": 1,
-          "e": "Bankaların TCMB nezdinde açtırmış oldukları İki Gün İhbarlı DTH hesaplarına ait döviz ve altın mevcutları, zorunlu karşılık yükümlülüğünün karşılanmasında dikkate alınmaktadır. Bu hesaplara TCMB tarafından belirli esaslara göre nema ödenebilir."
+          "e": "Bankaların TCMB (türkiye cumhuriyet merkez bankası) nezdinde açtırmış oldukları İki Gün İhbarlı DTH hesaplarına ait döviz ve altın mevcutları, zorunlu karşılık yükümlülüğünün karşılanmasında dikkate alınmaktadır. Bu hesaplara TCMB (türkiye cumhuriyet merkez bankası) tarafından belirli esaslara göre nema ödenebilir."
         },
         {
           "q": "Finansal piyasalarda 'spot piyasa' ile 'vadeli piyasa' arasındaki temel fark nedir?",
@@ -24213,7 +24213,7 @@ window.__C = {
           "e": "Piyasadan Limite (M2L) emri, başlangıçta piyasadan emir olarak çalışır; ancak karşı tarafta yeterli emir yoksa gerçekleşmeyen kısım otomatik olarak o anki en iyi fiyat üzerinden limite dönüşerek bekler. Bu emir tipi anlık gerçekleşme garantisi olmadığında kullanılır."
         },
         {
-          "q": "TCMB'nin para politikasında 'enflasyon hedeflemesi' rejimini benimseyen ülkelerde merkez bankasının birincil hedefi nedir?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası)'nin para politikasında 'enflasyon hedeflemesi' rejimini benimseyen ülkelerde merkez bankasının birincil hedefi nedir?",
           "o": [
             "A) Döviz kuru istikrarı",
             "B) Fiyat istikrarı ve belirlenen enflasyon hedefine ulaşmak",
@@ -24221,7 +24221,7 @@ window.__C = {
             "D) İstihdam maksimizasyonu"
           ],
           "a": 1,
-          "e": "Enflasyon hedeflemesi rejiminde merkez bankasının birincil ve açıklanmış hedefi fiyat istikrarı — yani belirlenen enflasyon hedefine ulaşmaktır. TCMB bu rejimi benimsemiş olup faiz kararları esas itibarıyla enflasyon görünümüne göre alınır."
+          "e": "Enflasyon hedeflemesi rejiminde merkez bankasının birincil ve açıklanmış hedefi fiyat istikrarı — yani belirlenen enflasyon hedefine ulaşmaktır. TCMB (türkiye cumhuriyet merkez bankası) bu rejimi benimsemiş olup faiz kararları esas itibarıyla enflasyon görünümüne göre alınır."
         },
         {
           "q": "BİST VİOP'ta 'değerleme katsayısı (haircut)' hesaplamasında kullanılan parametreler nelerdir?",
@@ -24257,15 +24257,15 @@ window.__C = {
           "e": "Uluslararası Tahvil Pazarı 16 Nisan 2007 tarihinde kurulmuş ve 13 Eylül 2013 tarihi itibarıyla BİST Borçlanma Araçları Piyasası bünyesine dahil edilmiştir. Bu yaklaşık 6 yıllık süre sonunda BAP'ın bir parçası hâline gelmiştir."
         },
         {
-          "q": "TCMB APİ'de 'doğrudan satım' ile 'ters repo' arasındaki fark nedir?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası) APİ'de 'doğrudan satım' ile 'ters repo' arasındaki fark nedir?",
           "o": [
             "A) İkisi aynı işlemi ifade eder",
             "B) Doğrudan satımda piyasadan kalıcı likidite çekilir; ters repoda geçici likidite çekilir",
             "C) Doğrudan satımda likidite verilir; ters repoda çekilir",
-            "D) Ters repoda TCMB aktif karşı taraf değildir"
+            "D) Ters repoda TCMB (türkiye cumhuriyet merkez bankası) aktif karşı taraf değildir"
           ],
           "a": 1,
-          "e": "TCMB'nin doğrudan satım işleminde menkul kıymetleri piyasaya satarak piyasadan kalıcı likidite çeker. Ters repoda ise menkul kıymetleri geri alım taahhüdüyle satar ve işlem vadesi dolduğunda likidite geri gelir — geçici bir likidite çekme işlemidir."
+          "e": "TCMB (türkiye cumhuriyet merkez bankası)'nin doğrudan satım işleminde menkul kıymetleri piyasaya satarak piyasadan kalıcı likidite çeker. Ters repoda ise menkul kıymetleri geri alım taahhüdüyle satar ve işlem vadesi dolduğunda likidite geri gelir — geçici bir likidite çekme işlemidir."
         },
         {
           "q": "BİST Pay Piyasası'nda likidite sağlayıcılık faaliyeti YİP ve PÖİP'te neden yürütülemez?",
@@ -24282,12 +24282,12 @@ window.__C = {
           "q": "BEFAS'ta 'olağanüstü durumlarda alınacak tedbirler' kapsamında ne gibi önlemler alınabilir?",
           "o": [
             "A) Yalnızca fiyat sınırı getirilebilir",
-            "B) İşlemlerin kısıtlanması veya fon payı işlemlerinin durdurulması; SPK ve SEDDK koordinasyonu",
-            "C) Yalnızca SPK kararıyla önlem alınır",
+            "B) İşlemlerin kısıtlanması veya fon payı işlemlerinin durdurulması; SPK (sermaye piyasası kurulu) ve SEDD (güçlendirilmiş durum tespiti)K koordinasyonu",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) kararıyla önlem alınır",
             "D) Platform kapatılabilir; başka önlem alınamaz"
           ],
           "a": 1,
-          "e": "BEFAS'ta olağanüstü durumlarda işlem kısıtlama, fon payı işlemlerini durdurma gibi tedbirler alınabilir. Bu tedbirler SPK ve SEDDK koordinasyonu çerçevesinde uygulanır; her iki düzenleyicinin yetki alanları emeklilik sektöründe örtüşmektedir."
+          "e": "BEFAS'ta olağanüstü durumlarda işlem kısıtlama, fon payı işlemlerini durdurma gibi tedbirler alınabilir. Bu tedbirler SPK (sermaye piyasası kurulu) ve SEDD (güçlendirilmiş durum tespiti)K koordinasyonu çerçevesinde uygulanır; her iki düzenleyicinin yetki alanları emeklilik sektöründe örtüşmektedir."
         },
         {
           "q": "BİST VİOP'ta 'şarta bağlı emirler' ne zaman aktif hale gelir?",
@@ -24327,7 +24327,7 @@ window.__C = {
           "o": [
             "A) Borsa olağanüstü durumda müdahale yetkisine sahip değildir",
             "B) Borsa olağanüstü koşullarda akşam seansını durdurmak veya seans saatlerini değiştirmek dahil çeşitli tedbirler alabilir",
-            "C) Yalnızca SPK olağanüstü tedbir alabilir",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) olağanüstü tedbir alabilir",
             "D) Otomatik sistem devreye girer; Borsa müdahale etmez"
           ],
           "a": 1,
@@ -24351,7 +24351,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Faizsiz Finans Araçları ve Kira Sertifikaları (III-61.1)",
-        "body": "<ul><li><strong>Faizsiz finans ilkesi:</strong> Paranın zaman değerini reddetmez; ancak kapital faizine izin vermez. Gerçek bir ekonomik işleme/varlığa dayanma zorunluluğu vardır.</li><li><strong>Kira sertifikası (sukuk):</strong> Faizsiz finans prensiplerine uygun, orta-uzun vadeli, sabit veya değişken getirili SPK aracı. Varlık Kiralama Şirketi (VKŞ) tarafından ihraç edilir.</li><li><strong>Kira sertifikası türleri:</strong><br>• <em>Sahipliğe dayalı:</em> VKŞ dayanak varlığı alır, geri kiraladığı ihraççıdan kira geliri elde eder.<br>• <em>Yönetim sözleşmesine dayalı:</em> Varlıkların VKŞ'ye devri; VKŞ yönetim ücreti alır.<br>• <em>Alım-satıma dayalı (murabaha):</em> Malın peşin alınıp vadeli satışı.<br>• <em>Ortaklığa dayalı (muşaraka):</em> Ortak girişim kârdan pay.<br>• <em>Eser sözleşmesine dayalı (istisna):</em> Henüz üretilmemiş varlık için ihraç.</li><li><strong>VKŞ:</strong> Anonim şirket; münhasıran kira sertifikası ihracına aracılık eder; tek amaç.</li></ul>"
+        "body": "<ul><li><strong>Faizsiz finans ilkesi:</strong> Paranın zaman değerini reddetmez; ancak kapital faizine izin vermez. Gerçek bir ekonomik işleme/varlığa dayanma zorunluluğu vardır.</li><li><strong>Kira sertifikası (sukuk):</strong> Faizsiz finans prensiplerine uygun, orta-uzun vadeli, sabit veya değişken getirili SPK (sermaye piyasası kurulu) aracı. Varlık Kiralama Şirketi (VKŞ) tarafından ihraç edilir.</li><li><strong>Kira sertifikası türleri:</strong><br>• <em>Sahipliğe dayalı:</em> VKŞ dayanak varlığı alır, geri kiraladığı ihraççıdan kira geliri elde eder.<br>• <em>Yönetim sözleşmesine dayalı:</em> Varlıkların VKŞ'ye devri; VKŞ yönetim ücreti alır.<br>• <em>Alım-satıma dayalı (murabaha):</em> Malın peşin alınıp vadeli satışı.<br>• <em>Ortaklığa dayalı (muşaraka):</em> Ortak girişim kârdan pay.<br>• <em>Eser sözleşmesine dayalı (istisna):</em> Henüz üretilmemiş varlık için ihraç.</li><li><strong>VKŞ:</strong> Anonim şirket; münhasıran kira sertifikası ihracına aracılık eder; tek amaç.</li></ul>"
       },
       {
         "num": "04",
@@ -24366,7 +24366,7 @@ window.__C = {
       {
         "num": "06",
         "title": "Yabancı Sermaye Piyasası Araçları ve Depo Sertifikaları (VII-128.4)",
-        "body": "<ul><li><strong>Depo sertifikası:</strong> Bir depo kuruluşuna depo edilen menkul kıymeti temsilen ihraç edilen; aynı haklara ve özdeş menkul kıymet. 1927'de ABD'de İngiliz kısıtları nedeniyle ortaya çıkmıştır.</li><li><strong>Türleri:</strong> ADR (American Depositary Receipt), EDR (European), GDR (Global), TDR (Türkiye'de ihraç; Türk ihraçcının yurt dışı paylarını temsil).</li><li><strong>Yabancı sermaye piyasası araçları:</strong> Yabancı ortaklıklarca yurt dışında ihraç edilen paylar; Türkiye'de kotasyon veya tescille satılabilir.</li><li><strong>Yabancı yatırım fonu payları:</strong> Yurt dışında kurulan fonların Türkiye'de satışı; SPK kaydı veya tescil zorunlu.</li><li><strong>Depocu kuruluş:</strong> Depo sertifikalarını ihraç eden; saklama kuruluşunda saklanan yabancı araçları temsil eder. Türk yatırımcı yabancı piyasaya doğrudan girmeksizin yatırım yapabilir.</li><li><strong>TDR:</strong> Türkiye'deki saklama kuruluşunda saklanan yabancı araçları temsilen ihraç edilir; nominal değer TL veya döviz cinsinden olabilir.</li></ul>"
+        "body": "<ul><li><strong>Depo sertifikası:</strong> Bir depo kuruluşuna depo edilen menkul kıymeti temsilen ihraç edilen; aynı haklara ve özdeş menkul kıymet. 1927'de ABD'de İngiliz kısıtları nedeniyle ortaya çıkmıştır.</li><li><strong>Türleri:</strong> ADR (American Depositary Receipt), EDR (European), GDR (Global), TDR (Türkiye'de ihraç; Türk ihraçcının yurt dışı paylarını temsil).</li><li><strong>Yabancı sermaye piyasası araçları:</strong> Yabancı ortaklıklarca yurt dışında ihraç edilen paylar; Türkiye'de kotasyon veya tescille satılabilir.</li><li><strong>Yabancı yatırım fonu payları:</strong> Yurt dışında kurulan fonların Türkiye'de satışı; SPK (sermaye piyasası kurulu) kaydı veya tescil zorunlu.</li><li><strong>Depocu kuruluş:</strong> Depo sertifikalarını ihraç eden; saklama kuruluşunda saklanan yabancı araçları temsil eder. Türk yatırımcı yabancı piyasaya doğrudan girmeksizin yatırım yapabilir.</li><li><strong>TDR:</strong> Türkiye'deki saklama kuruluşunda saklanan yabancı araçları temsilen ihraç edilir; nominal değer TL veya döviz cinsinden olabilir.</li></ul>"
       },
       {
         "num": "07",
@@ -24376,7 +24376,7 @@ window.__C = {
       {
         "num": "08",
         "title": "Teminatlı İhraç (II-31/B.1)",
-        "body": "<ul><li><strong>Teminatlı ihraç:</strong> SPKn md.31/B kapsamında sermaye piyasası araçlarının (borçlanma aracı ve kira sertifikası) belirli varlıklarla teminat altına alınarak ihraç edilmesi.</li><li><strong>Teminat yöneticisi:</strong> Genel saklama yetkisine sahip yatırım kuruluşu sıfatıyla Kurul'a kayıtlı kuruluş. Teminata konu varlıkların mülkiyeti teminat yöneticisine devredilir.</li><li><strong>Temerrüt halinde:</strong> Herhangi bir yargı kararı veya ihbar gereksinimi olmaksızın teminat yöneticisi varlıkları satabilir ve geliri yatırımcılara dağıtır. Bu mekanizma hızlı icra imkânı sağlar.</li><li><strong>Teminata konu varlıklar:</strong> Nakit, Yıldız Pazar payları, Borçlanma araçları, kira sertifikaları, alacaklar ve Kurul'ca uygun görülen diğer varlıklar. Varant, VİDMK bu kapsama girmez.</li><li><strong>Teminat raporu:</strong> Yılda en az dört kez (3'er aylık) kamuya açıklanır.</li><li><strong>Amaç:</strong> Yatırımcıya ihraçcı temerrüdüne karşı ek güvence; ihraçcıya daha düşük maliyetle fonlama imkânı.</li></ul>"
+        "body": "<ul><li><strong>Teminatlı ihraç:</strong> SPK (sermaye piyasası kurulu)n md.31/B kapsamında sermaye piyasası araçlarının (borçlanma aracı ve kira sertifikası) belirli varlıklarla teminat altına alınarak ihraç edilmesi.</li><li><strong>Teminat yöneticisi:</strong> Genel saklama yetkisine sahip yatırım kuruluşu sıfatıyla Kurul'a kayıtlı kuruluş. Teminata konu varlıkların mülkiyeti teminat yöneticisine devredilir.</li><li><strong>Temerrüt halinde:</strong> Herhangi bir yargı kararı veya ihbar gereksinimi olmaksızın teminat yöneticisi varlıkları satabilir ve geliri yatırımcılara dağıtır. Bu mekanizma hızlı icra imkânı sağlar.</li><li><strong>Teminata konu varlıklar:</strong> Nakit, Yıldız Pazar payları, Borçlanma araçları, kira sertifikaları, alacaklar ve Kurul'ca uygun görülen diğer varlıklar. Varant, VİDMK bu kapsama girmez.</li><li><strong>Teminat raporu:</strong> Yılda en az dört kez (3'er aylık) kamuya açıklanır.</li><li><strong>Amaç:</strong> Yatırımcıya ihraçcı temerrüdüne karşı ek güvence; ihraçcıya daha düşük maliyetle fonlama imkânı.</li></ul>"
       }
     ],
     "tests": {
@@ -24533,7 +24533,7 @@ window.__C = {
             "D) Yalnızca borsa üzerinden açık artırmayla"
           ],
           "a": 2,
-          "e": "SPKn md.31/B ve II-31/B.1 sayılı Tebliğ uyarınca temerrüt halinde teminat yöneticisi; mahkeme kararı, ihbar, süre verme, idari izin veya açık artırma gibi ön koşullar olmaksızın teminata konu varlıkları satabilir ve bedellerini yatırımcılar arasında paylaştırabilir."
+          "e": "SPK (sermaye piyasası kurulu)n md.31/B ve II-31/B.1 sayılı Tebliğ uyarınca temerrüt halinde teminat yöneticisi; mahkeme kararı, ihbar, süre verme, idari izin veya açık artırma gibi ön koşullar olmaksızın teminata konu varlıkları satabilir ve bedellerini yatırımcılar arasında paylaştırabilir."
         },
         {
           "q": "Teminatlı menkul kıymet (TMK) ile VİDMK arasındaki temel yapısal fark nedir?",
@@ -24705,7 +24705,7 @@ window.__C = {
         {
           "q": "Teminatlı ihraç kapsamında teminat yöneticisi olmak için hangi koşul aranmaktadır?",
           "o": [
-            "A) SPK'dan özel lisans",
+            "A) SPK (sermaye piyasası kurulu)'dan özel lisans",
             "B) Genel saklama yetkisine sahip ve Kurul'a kayıtlı yatırım kuruluşu",
             "C) Asgari sermaye 50 milyon TL",
             "D) Yalnızca bankalar teminat yöneticisi olabilir"
@@ -24884,12 +24884,12 @@ window.__C = {
           "q": "Yabancı yatırım fonu paylarının Türkiye'de satışı için temel koşul nedir?",
           "o": [
             "A) Türkiye'de şube açmaları",
-            "B) SPK'ya kayıt veya tescil yapılması",
+            "B) SPK (sermaye piyasası kurulu)'ya kayıt veya tescil yapılması",
             "C) BİST'te kote olmaları",
             "D) Merkez bankası izni almaları"
           ],
           "a": 1,
-          "e": "Yabancı yatırım fonu paylarının Türkiye'de satışı için öncelikle SPK'ya kayıt veya tescil yapılması zorunludur. Bu süreçte yurt dışındaki düzenleyici otoritenin onayı da aranır."
+          "e": "Yabancı yatırım fonu paylarının Türkiye'de satışı için öncelikle SPK (sermaye piyasası kurulu)'ya kayıt veya tescil yapılması zorunludur. Bu süreçte yurt dışındaki düzenleyici otoritenin onayı da aranır."
         },
         {
           "q": "PDMK ihraç yapısında 'kaynak kuruluş' kimdir?",
@@ -25083,7 +25083,7 @@ window.__C = {
         {
           "q": "Türkiye'de kira sertifikası piyasasının gelişmesinde hangi düzenleme belirleyici rol oynamıştır?",
           "o": [
-            "A) 6362 sayılı SPKn",
+            "A) 6362 sayılı SPK (sermaye piyasası kurulu)n",
             "B) III-61.1 sayılı Kira Sertifikaları Tebliği",
             "C) 5582 sayılı Konut Finansmanı Kanunu",
             "D) II-31/B.1 sayılı Teminatlı İhraç Tebliği"
@@ -25160,7 +25160,7 @@ window.__C = {
         {
           "q": "VFF/KFF'de fon içtüzüğüne ilişkin hangisi yanlıştır?",
           "o": [
-            "A) Fon içtüzüğü SPK tarafından onaylanır",
+            "A) Fon içtüzüğü SPK (sermaye piyasası kurulu) tarafından onaylanır",
             "B) İçtüzük fon kurucunun yönetim kurulu kararıyla hazırlanır",
             "C) İçtüzükte fon unvanı ve ihraç limitleri yer alır",
             "D) İçtüzük değişiklikleri Kurul onayına gerek olmaksızın yapılabilir"
@@ -25243,7 +25243,7 @@ window.__C = {
             "D) Yatırımcılara tazminat ödenir"
           ],
           "a": 1,
-          "e": "Piyasa yapıcılık yükümlülüğünü yerine getirmeyen varant ihraçcısı borsa tarafından işlem durdurma yaptırımıyla ve SPK tarafından mevzuat ihlali kapsamında idari yaptırımla karşılaşabilir. Bu yükümlülük likiditesi düşük araçlar için kritik öneme sahiptir."
+          "e": "Piyasa yapıcılık yükümlülüğünü yerine getirmeyen varant ihraçcısı borsa tarafından işlem durdurma yaptırımıyla ve SPK (sermaye piyasası kurulu) tarafından mevzuat ihlali kapsamında idari yaptırımla karşılaşabilir. Bu yükümlülük likiditesi düşük araçlar için kritik öneme sahiptir."
         },
         {
           "q": "Teminatlı ihraçta ihraçcının teminat yöneticisiyle akdedeceği 'teminat yönetim sözleşmesi' hangi koşulda sona erer?",
@@ -25292,7 +25292,7 @@ window.__C = {
           "e": "VİDMK (varlığa dayalı menkul kıymet) ipotek alacakları dahil her türlü varlığa dayanabilirken, KİDMK (konut ipoteğine dayalı menkul kıymet) özellikle konut finansmanından kaynaklanan ipotek alacaklarına dayanır. Her ikisinde de %5 risk tutma yükümlülüğü vardır."
         },
         {
-          "q": "Ortaklık varantının SPK izin süreci nasıl işler?",
+          "q": "Ortaklık varantının SPK (sermaye piyasası kurulu) izin süreci nasıl işler?",
           "o": [
             "A) İhraç belgesiyle Kurul başvurusu yeterlidir",
             "B) İzahname onayı zorunludur; genel kurulun ihraç yetkisi vermesi ve şarta bağlı sermaye artırımı kararı gerekmektedir",
@@ -25373,7 +25373,7 @@ window.__C = {
           "o": [
             "A) Yatırımcıların %51'i talep ettiğinde",
             "B) Tüm kira sertifikalarının itfa edilmesinden sonra",
-            "C) SPK kararıyla her zaman",
+            "C) SPK (sermaye piyasası kurulu) kararıyla her zaman",
             "D) VKŞ yönetim kurulunun kararıyla"
           ],
           "a": 1,
@@ -25473,7 +25473,7 @@ window.__C = {
             "A) Kurul'a",
             "B) Borsaya",
             "C) Teminat yöneticisine",
-            "D) BDDK'ya"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu)'ya"
           ],
           "a": 2,
           "e": "Temerrüt durumunda teminat varlıkları üzerindeki satış ve dağıtım yetkisi teminat yöneticisindedir. Teminat yöneticisi; mahkeme kararı, ihbar veya diğer ön koşullar olmaksızın teminata konu varlıkları satıp bedellerini yatırımcılar arasında paylaştırabilir."
@@ -25497,7 +25497,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Yatırım Hizmetleri Tebliği (III-37.1) — Aracı Kurum Grupları ve Alım Satım Aracılığı",
-        "body": "<ul><li><strong>Yatırım kuruluşu kavramı:</strong> SPKn md.37 kapsamında aracı kurumlar, yatırım hizmet ve faaliyetinde bulunmak üzere Kurul tarafından yetkilendirilen sermaye piyasası kurumları ve bankalar.</li><li><strong>Aracı kurum gruplandırması:</strong> Dar yetkili (yalnızca emir iletimi), kısmi yetkili (emir iletimi + işlem aracılığı) ve geniş yetkili (tüm hizmetler dahil portföy aracılığı) olarak üçe ayrılır.</li><li><strong>Emir iletimi aracılığı:</strong> Müşteri emirlerini borsaya veya başka bir yatırım kuruluşuna iletmek. En düşük sermaye gereği; yalnızca hisse senedi piyasasında işlem iletebilirler.</li><li><strong>İşlem aracılığı:</strong> Müşteri adına/hesabına veya kendi adına müşteri hesabına gerçekleştirme. Hesap tutma yetkisi içerir; daha yüksek sermaye şartı var.</li><li><strong>Portföy aracılığı:</strong> Kendi nam ve hesabına işlem yapma (piyasa yapıcılık dahil). En yüksek sermaye gereği; yalnızca geniş yetkili aracı kurumlar yapabilir.</li></ul>"
+        "body": "<ul><li><strong>Yatırım kuruluşu kavramı:</strong> SPK (sermaye piyasası kurulu)n md.37 kapsamında aracı kurumlar, yatırım hizmet ve faaliyetinde bulunmak üzere Kurul tarafından yetkilendirilen sermaye piyasası kurumları ve bankalar.</li><li><strong>Aracı kurum gruplandırması:</strong> Dar yetkili (yalnızca emir iletimi), kısmi yetkili (emir iletimi + işlem aracılığı) ve geniş yetkili (tüm hizmetler dahil portföy aracılığı) olarak üçe ayrılır.</li><li><strong>Emir iletimi aracılığı:</strong> Müşteri emirlerini borsaya veya başka bir yatırım kuruluşuna iletmek. En düşük sermaye gereği; yalnızca hisse senedi piyasasında işlem iletebilirler.</li><li><strong>İşlem aracılığı:</strong> Müşteri adına/hesabına veya kendi adına müşteri hesabına gerçekleştirme. Hesap tutma yetkisi içerir; daha yüksek sermaye şartı var.</li><li><strong>Portföy aracılığı:</strong> Kendi nam ve hesabına işlem yapma (piyasa yapıcılık dahil). En yüksek sermaye gereği; yalnızca geniş yetkili aracı kurumlar yapabilir.</li></ul>"
       },
       {
         "num": "02",
@@ -25527,12 +25527,12 @@ window.__C = {
       {
         "num": "07",
         "title": "Kitle Fonlaması Tebliği (III-35/A.2)",
-        "body": "<ul><li><strong>Kitle fonlaması:</strong> SPKn md.35/A kapsamında bir projenin veya girişim şirketinin ihtiyaç duyduğu fonu kitle fonlama platformları aracılığıyla halktan toplaması. Paya dayalı ve borçlanmaya dayalı olmak üzere ikiye ayrılır.</li><li><strong>Platform kuruluş şartları:</strong> Anonim şirket; asgari 15 milyon TL nakden ödenmiş sermaye; ticaret unvanında 'Kitle Fonlama Platformu' ibaresi; münhasır faaliyet konusu; YK en az 3 kişi.</li><li><strong>Yatırım sınırları:</strong> Paya dayalıda genel yatırımcı yıllık en fazla 60.000 TL; nitelikli yatırımcıda sınır yok. Borçlanmaya dayalıda da benzer sınırlar uygulanır.</li><li><strong>Yatırım komitesi:</strong> Platformların en az bir yatırım komitesi oluşturması zorunlu. Komite kampanyalara ilişkin değerlendirme yapar.</li><li><strong>Platformların yapamayacakları:</strong> Garantörlük, taahhüt, müşteriye kredi açma, saklama hizmeti verme ve fon işletme.</li></ul>"
+        "body": "<ul><li><strong>Kitle fonlaması:</strong> SPK (sermaye piyasası kurulu)n md.35/A kapsamında bir projenin veya girişim şirketinin ihtiyaç duyduğu fonu kitle fonlama platformları aracılığıyla halktan toplaması. Paya dayalı ve borçlanmaya dayalı olmak üzere ikiye ayrılır.</li><li><strong>Platform kuruluş şartları:</strong> Anonim şirket; asgari 15 milyon TL nakden ödenmiş sermaye; ticaret unvanında 'Kitle Fonlama Platformu' ibaresi; münhasır faaliyet konusu; YK en az 3 kişi.</li><li><strong>Yatırım sınırları:</strong> Paya dayalıda genel yatırımcı yıllık en fazla 60.000 TL; nitelikli yatırımcıda sınır yok. Borçlanmaya dayalıda da benzer sınırlar uygulanır.</li><li><strong>Yatırım komitesi:</strong> Platformların en az bir yatırım komitesi oluşturması zorunlu. Komite kampanyalara ilişkin değerlendirme yapar.</li><li><strong>Platformların yapamayacakları:</strong> Garantörlük, taahhüt, müşteriye kredi açma, saklama hizmeti verme ve fon işletme.</li></ul>"
       },
       {
         "num": "08",
         "title": "Uzaktan Kimlik Tespiti Tebliği (III-42.1)",
-        "body": "<ul><li><strong>Uzaktan kimlik tespiti:</strong> Aracı kurumlar ve PYŞ'lerin müşterileri fiziksel ortamda tanımaksızın çevrimiçi görüntülü görüşme yöntemiyle kimlik doğrulaması yapması. SPKn md.42 kapsamında düzenlenmiştir.</li><li><strong>Süreç tasarımı:</strong> Kritik işlem olarak değerlendirilir; bilgi teknolojileri veya personelin tek başına başlatıp tamamlayamayacağı şekilde tasarlanmalı. Kişi başlatır, BT kontrol eder, personel onaylar.</li><li><strong>Kullanılabilecek yöntemler:</strong> Görüntülü görüşme; yapay zeka destekli kimlik doğrulama sistemleri. Yüz yüze kimlik tespitine eşdeğer güvenlik düzeyi zorunlu.</li><li><strong>Sözleşme kurulması:</strong> Kimlik tespiti tamamlandıktan sonra elektronik ortamda çerçeve sözleşme imzalanabilir. Dijital imza veya nitelikli elektronik imza geçerlidir.</li><li><strong>Kayıt ve sorumluluk:</strong> Görüntülü görüşme kaydedilmeli; veriler belirli süre saklanmalı. Tüm sorumluluk aracı kuruma aittir.</li></ul>"
+        "body": "<ul><li><strong>Uzaktan kimlik tespiti:</strong> Aracı kurumlar ve PYŞ'lerin müşterileri fiziksel ortamda tanımaksızın çevrimiçi görüntülü görüşme yöntemiyle kimlik doğrulaması yapması. SPK (sermaye piyasası kurulu)n md.42 kapsamında düzenlenmiştir.</li><li><strong>Süreç tasarımı:</strong> Kritik işlem olarak değerlendirilir; bilgi teknolojileri veya personelin tek başına başlatıp tamamlayamayacağı şekilde tasarlanmalı. Kişi başlatır, BT kontrol eder, personel onaylar.</li><li><strong>Kullanılabilecek yöntemler:</strong> Görüntülü görüşme; yapay zeka destekli kimlik doğrulama sistemleri. Yüz yüze kimlik tespitine eşdeğer güvenlik düzeyi zorunlu.</li><li><strong>Sözleşme kurulması:</strong> Kimlik tespiti tamamlandıktan sonra elektronik ortamda çerçeve sözleşme imzalanabilir. Dijital imza veya nitelikli elektronik imza geçerlidir.</li><li><strong>Kayıt ve sorumluluk:</strong> Görüntülü görüşme kaydedilmeli; veriler belirli süre saklanmalı. Tüm sorumluluk aracı kuruma aittir.</li></ul>"
       }
     ],
     "tests": {
@@ -25645,7 +25645,7 @@ window.__C = {
             "D) Süresiz saklanmalı"
           ],
           "a": 2,
-          "e": "Çerçeve sözleşmeler ve risk bildirim formları 10 yıl süreyle saklanmak zorundadır. Müşteri emir formları ve işlem sonuç formları ise 5 yıl saklanır. Saklama süreleri SPK denetimi ve uyuşmazlık çözümü açısından kritik önem taşır."
+          "e": "Çerçeve sözleşmeler ve risk bildirim formları 10 yıl süreyle saklanmak zorundadır. Müşteri emir formları ve işlem sonuç formları ise 5 yıl saklanır. Saklama süreleri SPK (sermaye piyasası kurulu) denetimi ve uyuşmazlık çözümü açısından kritik önem taşır."
         },
         {
           "q": "Merkezi takas kuruluşlarındaki işlemlere ait muhasebe kayıtları en geç ne zaman defterlere işlenmeli?",
@@ -25708,7 +25708,7 @@ window.__C = {
             "A) İşlem daha hızlı tamamlanır",
             "B) Personel veya BT tek başına işlemi tamamlayamaz; müşteri başlatır, BT kontrol eder, personel onaylar",
             "C) Sadece merkez şubede yapılabilir",
-            "D) SPK onayı aranır"
+            "D) SPK (sermaye piyasası kurulu) onayı aranır"
           ],
           "a": 1,
           "e": "Uzaktan kimlik tespiti kritik işlem olarak değerlendirildiğinden güvenlik açısından üç aşamalı onay zorunludur: müşteri işlemi başlatır, bilgi teknolojileri sistemi kontrolleri uygular, personel onaylar ve ek kontroller yapar. Herhangi bir tek tarafın süreci tek başına tamamlayamaması bu güvenceyi sağlar."
@@ -25722,7 +25722,7 @@ window.__C = {
             "D) 90 gün"
           ],
           "a": 2,
-          "e": "III-39.1 sayılı Tebliğ uyarınca aracı kurumlar müşteri şikâyetlerine en geç 60 gün içinde yazılı olarak yanıt vermek zorundadır. Şikâyetlerin sistematik kaydı ve takibi SPK denetimine açık tutulmalıdır."
+          "e": "III-39.1 sayılı Tebliğ uyarınca aracı kurumlar müşteri şikâyetlerine en geç 60 gün içinde yazılı olarak yanıt vermek zorundadır. Şikâyetlerin sistematik kaydı ve takibi SPK (sermaye piyasası kurulu) denetimine açık tutulmalıdır."
         },
         {
           "q": "Kitle fonlaması kapsamında platformların yapamayacakları faaliyetler arasında hangisi yer alır?",
@@ -25741,7 +25741,7 @@ window.__C = {
             "A) Ödünç alan tarafa (borçlu)",
             "B) Asıl hak sahibine (ödünç veren)",
             "C) Aracı kuruma",
-            "D) SPK'ya emanet edilir"
+            "D) SPK (sermaye piyasası kurulu)'ya emanet edilir"
           ],
           "a": 1,
           "e": "Ödünç alma ve verme işlemlerinde ödünç alınan menkul kıymetlerden doğan oy hakkı asıl hak sahibine (ödünç verene) aittir. Ödünç alan taraf bu hakkı kullanamaz. Bu kural, menkul kıymet ödünç işleminin hukuki çerçevesinin temel ilkelerinden biridir."
@@ -25755,7 +25755,7 @@ window.__C = {
             "D) 10 yıl"
           ],
           "a": 3,
-          "e": "III-42.1 sayılı Uzaktan Kimlik Tespiti Tebliği uyarınca görüntülü görüşme kayıtları ve kimlik doğrulama belgeleri en az 10 yıl süreyle saklanmak zorundadır. Bu süre, hukuki uyuşmazlık durumlarında ispat kolaylığı ve SPK denetimi için öngörülmüştür."
+          "e": "III-42.1 sayılı Uzaktan Kimlik Tespiti Tebliği uyarınca görüntülü görüşme kayıtları ve kimlik doğrulama belgeleri en az 10 yıl süreyle saklanmak zorundadır. Bu süre, hukuki uyuşmazlık durumlarında ispat kolaylığı ve SPK (sermaye piyasası kurulu) denetimi için öngörülmüştür."
         }
       ],
       "t2": [
@@ -25775,7 +25775,7 @@ window.__C = {
           "o": [
             "A) Portföy büyüklüğü, tecrübe ve uzmanlık şartları aranır",
             "B) Yalnızca kurumsal yatırımcı olmak yeterlidir",
-            "C) SPK onayı zorunludur",
+            "C) SPK (sermaye piyasası kurulu) onayı zorunludur",
             "D) Yalnızca yabancı yatırımcılar talep edebilir"
           ],
           "a": 0,
@@ -25787,7 +25787,7 @@ window.__C = {
             "A) Müşterinin e-posta adresi olması yeterlidir",
             "B) III-42.1 sayılı Uzaktan Kimlik Tespiti Tebliği kapsamında uzaktan kimlik tespiti tamamlandıktan sonra",
             "C) Yalnızca kurumsal müşterilerle elektronik sözleşme yapılabilir",
-            "D) SPK'nın her sözleşme için ayrı onayı gereklidir"
+            "D) SPK (sermaye piyasası kurulu)'nın her sözleşme için ayrı onayı gereklidir"
           ],
           "a": 1,
           "e": "Elektronik ortamda çerçeve sözleşme kurulabilmesi için önce III-42.1 sayılı Tebliğ kapsamında uzaktan kimlik tespitinin tamamlanması gerekir. Bu tamamlandıktan sonra nitelikli elektronik imza veya dijital imza ile geçerli sözleşme kurulabilir."
@@ -25831,7 +25831,7 @@ window.__C = {
             "A) Kampanyalar otomatik tamamlanır",
             "B) Kampanyalar dondurulur ve yatırımcı koruması sağlanır",
             "C) Kampanyalar başka bir platforma devredilir",
-            "D) SPK direkt olarak kampanyaları yönetir"
+            "D) SPK (sermaye piyasası kurulu) direkt olarak kampanyaları yönetir"
           ],
           "a": 1,
           "e": "Platform listeden çıkarıldığında aktif kampanyalar dondurulur; yatırımcıların hakları korunarak iade veya devir süreçleri başlatılır. Bu mekanizma yatırımcı güvenliğini platform kapanma riskine karşı güvence altına alır."
@@ -25842,7 +25842,7 @@ window.__C = {
             "A) Aracı kurumların birbirlerine kredi açmaları için",
             "B) Büyük halka arzlarda birden fazla aracı kurumun iş yükü ve riski paylaşarak birlikte hareket etmesi",
             "C) Yatırımcıların ortak portföy oluşturmaları için",
-            "D) SPK'nın denetim amacıyla kurduğu yapı"
+            "D) SPK (sermaye piyasası kurulu)'nın denetim amacıyla kurduğu yapı"
           ],
           "a": 1,
           "e": "Aracılık konsorsiyumu, büyük hacimli halka arzlarda birden fazla aracı kurumun bir araya gelerek lider aracı kurum yönetiminde iş yükü ve riski paylaşmasıdır. Her kurum belirli miktarda pay satışını üstlenir; bu yapı halka arzın başarılı tamamlanma olasılığını artırır."
@@ -25885,7 +25885,7 @@ window.__C = {
           "o": [
             "A) İşlem otomatik olarak sona erer",
             "B) Aracı kurum menkul kıymetleri satarak özkaynağı tamamlayabilir",
-            "C) SPK devreye girer",
+            "C) SPK (sermaye piyasası kurulu) devreye girer",
             "D) Aracı kurum müşteriye kredi açar"
           ],
           "a": 1,
@@ -25930,10 +25930,10 @@ window.__C = {
             "A) Asli faaliyetlerin tamamını",
             "B) Operasyonel ve destek hizmetleri; ancak asli faaliyet ve sorumluluk devredilemez",
             "C) Yalnızca muhasebe hizmetleri",
-            "D) Faaliyet devri serbesttir; SPK onayı gerekmez"
+            "D) Faaliyet devri serbesttir; SPK (sermaye piyasası kurulu) onayı gerekmez"
           ],
           "a": 1,
-          "e": "Aracı kurumlar operasyonel ve destek hizmetlerini (BT, muhasebe, hukuk vb.) dışarıdan temin edebilir; ancak asli faaliyetler (müşteri emri gerçekleştirme, portföy yönetimi vb.) devredilemez. Sorumluluk her koşulda aracı kuruma aittir; SPK'ya bildirim zorunludur."
+          "e": "Aracı kurumlar operasyonel ve destek hizmetlerini (BT, muhasebe, hukuk vb.) dışarıdan temin edebilir; ancak asli faaliyetler (müşteri emri gerçekleştirme, portföy yönetimi vb.) devredilemez. Sorumluluk her koşulda aracı kuruma aittir; SPK (sermaye piyasası kurulu)'ya bildirim zorunludur."
         },
         {
           "q": "Açığa satış emrinin bildirilmesine ilişkin kural nedir?",
@@ -25972,12 +25972,12 @@ window.__C = {
           "q": "Aracı kurumların yurt dışına merkez dışı örgüt kurarken nelere dikkat etmesi gerekir?",
           "o": [
             "A) Yalnızca kira sözleşmesi yeterlidir",
-            "B) SPK'nın önceden uygun görüşü alınmalı; Türk mevzuatına da uyum zorunludur",
+            "B) SPK (sermaye piyasası kurulu)'nın önceden uygun görüşü alınmalı; Türk mevzuatına da uyum zorunludur",
             "C) Yalnızca o ülkenin otoritesinin izni yeterlidir",
             "D) TSPB bildirilmesi yeterlidir"
           ],
           "a": 1,
-          "e": "Yurt dışında merkez dışı örgüt kurmak için SPK'nın önceden uygun görüşü alınmak zorundadır. Ayrıca Türk mevzuatına uyum yurt dışı faaliyetlerde de devam eder; yerel otoritenin kurallarına ek olarak Türk düzenleyici çerçevesi geçerliliğini korur."
+          "e": "Yurt dışında merkez dışı örgüt kurmak için SPK (sermaye piyasası kurulu)'nın önceden uygun görüşü alınmak zorundadır. Ayrıca Türk mevzuatına uyum yurt dışı faaliyetlerde de devam eder; yerel otoritenin kurallarına ek olarak Türk düzenleyici çerçevesi geçerliliğini korur."
         }
       ],
       "t3": [
@@ -26029,12 +26029,12 @@ window.__C = {
           "q": "Yatırım kuruluşlarının 'faaliyet izni iptal edilmeden kendi isteğiyle faaliyeti geçici durdurabilmesi' için ne gerekmektedir?",
           "o": [
             "A) Yönetim kurulu kararı yeterlidir",
-            "B) SPK'ya bildirim ve SPK'nın uygun görüşü",
+            "B) SPK (sermaye piyasası kurulu)'ya bildirim ve SPK (sermaye piyasası kurulu)'nın uygun görüşü",
             "C) Borsa onayı gereklidir",
             "D) TSPB'nin izni aranmaktadır"
           ],
           "a": 1,
-          "e": "Yatırım kuruluşları kendi isteğiyle geçici faaliyet durdurabilmek için SPK'ya bildirimde bulunmak ve SPK'nın bu konudaki uygun görüşünü almak zorundadır. Müşteri varlıklarının korunmasına ilişkin önlemler de eş zamanlı alınmalıdır."
+          "e": "Yatırım kuruluşları kendi isteğiyle geçici faaliyet durdurabilmek için SPK (sermaye piyasası kurulu)'ya bildirimde bulunmak ve SPK (sermaye piyasası kurulu)'nın bu konudaki uygun görüşünü almak zorundadır. Müşteri varlıklarının korunmasına ilişkin önlemler de eş zamanlı alınmalıdır."
         },
         {
           "q": "Özkaynak olarak kabul edilebilecek kıymetler arasında hangisi YER ALMAZ?",
@@ -26075,7 +26075,7 @@ window.__C = {
             "A) Yurt dışı kuruluşa",
             "B) Müşteriye",
             "C) Türk aracı kuruma",
-            "D) SPK'ya"
+            "D) SPK (sermaye piyasası kurulu)'ya"
           ],
           "a": 2,
           "e": "Türk aracı kurumlar müşteri emirlerini yurt dışında yerleşik kuruluşlar aracılığıyla gerçekleştirse dahi mevzuata uygunluğun denetimi ve müşteriye karşı sorumluluk Türk aracı kuruma aittir. Yurt dışı kuruluşun seçimi ve denetimi de aracı kurumun yükümlülüğü kapsamındadır."
@@ -26083,13 +26083,13 @@ window.__C = {
         {
           "q": "Kaldıraçlı işlemlerde 'piyasada oluşan özel haller' raporlanmasında hangi makama bildirim yapılır?",
           "o": [
-            "A) TCMB",
-            "B) SPK",
-            "C) BDDK",
+            "A) TCMB (türkiye cumhuriyet merkez bankası)",
+            "B) SPK (sermaye piyasası kurulu)",
+            "C) BDDK (bankacılık düzenleme ve denetleme kurumu)",
             "D) BİST"
           ],
           "a": 1,
-          "e": "Kaldıraçlı işlemlerde piyasada oluşan olağandışı fiyat hareketleri, manipülasyon şüphesi veya diğer özel haller SPK'ya raporlanmak zorundadır. Bu yükümlülük piyasa bütünlüğü ve yatırımcı korumasına katkı sağlar."
+          "e": "Kaldıraçlı işlemlerde piyasada oluşan olağandışı fiyat hareketleri, manipülasyon şüphesi veya diğer özel haller SPK (sermaye piyasası kurulu)'ya raporlanmak zorundadır. Bu yükümlülük piyasa bütünlüğü ve yatırımcı korumasına katkı sağlar."
         },
         {
           "q": "Aracı kurumların internet sitelerine ilişkin zorunluluklar neler içerir?",
@@ -26119,7 +26119,7 @@ window.__C = {
             "A) Otomatik onay verilir",
             "B) Süreç sonlandırılır; müşteriye şube başvurusu önerilir",
             "C) Bir hafta sonra yeniden denenir",
-            "D) SPK devreye girer"
+            "D) SPK (sermaye piyasası kurulu) devreye girer"
           ],
           "a": 1,
           "e": "Uzaktan kimlik tespiti başarısız olduğunda veya personel süreci riskli bulduğunda işlem sonlandırılır. Müşteriye fiziksel şubeye başvurması önerilir. Bu güvence, teknolojik yöntemin yetersiz kaldığı durumlarda müşteri kimliğinin sağlıklı teyit edilmesini sağlar."
@@ -26128,12 +26128,12 @@ window.__C = {
           "q": "Aracı kurumların 'izinsiz sermaye piyasası faaliyetlerini takip ve bildirim yükümlülüğü' ne içermektedir?",
           "o": [
             "A) Yalnızca kendi hataları için raporlama",
-            "B) Tespit edilen izinsiz faaliyetleri SPK'ya bildirmek zorundalar",
+            "B) Tespit edilen izinsiz faaliyetleri SPK (sermaye piyasası kurulu)'ya bildirmek zorundalar",
             "C) Yalnızca müşteri şikâyetlerini iletmek",
             "D) Bu yükümlülük yalnızca Hazine'ye aittir"
           ],
           "a": 1,
-          "e": "Yatırım kuruluşları faaliyetleri sırasında başka kişi veya kuruluşların izinsiz sermaye piyasası faaliyeti yürüttüğünü tespit ederlerse bunu SPK'ya bildirmek zorundadır. Bu yükümlülük piyasa denetimine katkı amacı taşır."
+          "e": "Yatırım kuruluşları faaliyetleri sırasında başka kişi veya kuruluşların izinsiz sermaye piyasası faaliyeti yürüttüğünü tespit ederlerse bunu SPK (sermaye piyasası kurulu)'ya bildirmek zorundadır. Bu yükümlülük piyasa denetimine katkı amacı taşır."
         },
         {
           "q": "Kaldıraçlı işlemlerde 'emir iptali' ne zaman söz konusu olabilir?",
@@ -26174,7 +26174,7 @@ window.__C = {
             "A) Birleşme mümkün değildir",
             "B) Yatırım kuruluşu yalnızca başka bir yatırım kuruluşuyla birleşebilir; Kurul onayı zorunludur",
             "C) Birleşmeler yalnızca borsa kanalıyla yapılabilir",
-            "D) BDDK onayı yeterlidir"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) onayı yeterlidir"
           ],
           "a": 1,
           "e": "III-39.1 sayılı Tebliğ kapsamında yatırım kuruluşlarının birleşmesi Kurul onayına tabidir. Birleşme sürecinde müşteri varlıklarının korunması, faaliyet izinlerinin devredilip devredilemeyeceği ve yeni yapının mevzuat şartlarını karşılayıp karşılamadığı değerlendirilir."
@@ -26185,7 +26185,7 @@ window.__C = {
             "A) Yalnızca en düşük fiyattan işlem yapmak",
             "B) Yazılı politika oluşturmak ve müşteriye iletmek; fiyat, hız, olasılık ve maliyet faktörlerini gözetmek",
             "C) Sadece borsada işlem yapmak",
-            "D) Her işlem için SPK onayı almak"
+            "D) Her işlem için SPK (sermaye piyasası kurulu) onayı almak"
           ],
           "a": 1,
           "e": "En iyi icra politikası kapsamında aracı kurumlar yazılı bir politika oluşturmak ve bu politikayı müşterilere açıklamak zorundadır. Politika; fiyat, hız, gerçekleşme olasılığı, büyüklük ve maliyet gibi faktörleri nasıl dengelediklerini ortaya koymalıdır."
@@ -26264,7 +26264,7 @@ window.__C = {
             "A) Yalnızca emir tutarı",
             "B) İşlem tarihi, döviz çifti, kaldıraç oranı, teminat miktarı ve fiyat limiti",
             "C) Yalnızca müşteri imzası",
-            "D) SPK referans numarası"
+            "D) SPK (sermaye piyasası kurulu) referans numarası"
           ],
           "a": 1,
           "e": "Kaldıraçlı alım satım işlemleri emir formlarında; işlem tarihi ve saati, işlem konusu döviz çifti veya enstrüman, kaldıraç oranı, teminat miktarı, fiyat limiti ve stop-loss düzeyi gibi bilgilerin eksiksiz yer alması zorunludur."
@@ -26275,7 +26275,7 @@ window.__C = {
             "A) Faaliyet başladıktan 1 yıl sonra",
             "B) Faaliyet izni alınmadan önce, organizasyon yapısıyla birlikte",
             "C) Yalnızca büyük aracı kurumlar için",
-            "D) SPK talebi üzerine"
+            "D) SPK (sermaye piyasası kurulu) talebi üzerine"
           ],
           "a": 1,
           "e": "III-39.1 sayılı Tebliğ uyarınca çıkar çatışması politikasının hazırlanması faaliyet izninden önce tamamlanması gereken ön koşullar arasındadır. Bu politika yatırım kuruluşlarının müşteri çıkarlarını kendi çıkarlarının önünde tutmasını güvence altına alır."
@@ -26300,25 +26300,25 @@ window.__C = {
             "D) Yatırım kuruluşu yalnızca kamu kurumlarıdır"
           ],
           "a": 1,
-          "e": "Yatırım kuruluşu; SPKn'nin Tanımlar maddesinde aracı kurumlar ile yatırım hizmeti ve faaliyetinde bulunmak üzere Kurul tarafından yetkilendirilen diğer sermaye piyasası kurumlarını ve bankaları kapsayan üst kavram olarak tanımlanmıştır."
+          "e": "Yatırım kuruluşu; SPK (sermaye piyasası kurulu)n'nin Tanımlar maddesinde aracı kurumlar ile yatırım hizmeti ve faaliyetinde bulunmak üzere Kurul tarafından yetkilendirilen diğer sermaye piyasası kurumlarını ve bankaları kapsayan üst kavram olarak tanımlanmıştır."
         },
         {
           "q": "Aracı kurumun yurt dışında merkez dışı örgüt kurabilmesi için hangi koşul gereklidir?",
           "o": [
             "A) Yalnızca o ülkenin onayı",
-            "B) SPK'nın önceden uygun görüşü",
+            "B) SPK (sermaye piyasası kurulu)'nın önceden uygun görüşü",
             "C) TSPB'nin izni",
             "D) Hiçbir koşul aranmaz"
           ],
           "a": 1,
-          "e": "Yatırım kuruluşlarının yurt dışında şube, temsilcilik veya benzeri yapı kurabilmesi için SPK'nın önceden uygun görüşünün alınması zorunludur. Bu koşul, aracı kurumların yurt dışı faaliyetleri üzerindeki düzenleyici gözetimi sürdürmeye hizmet eder."
+          "e": "Yatırım kuruluşlarının yurt dışında şube, temsilcilik veya benzeri yapı kurabilmesi için SPK (sermaye piyasası kurulu)'nın önceden uygun görüşünün alınması zorunludur. Bu koşul, aracı kurumların yurt dışı faaliyetleri üzerindeki düzenleyici gözetimi sürdürmeye hizmet eder."
         },
         {
           "q": "Kaldıraçlı işlemlerde aracı kurum hangi durumlarda müşteri pozisyonunu resen kapatabilir?",
           "o": [
             "A) Hiçbir zaman resen kapatamaz",
             "B) Teminat oranı belirli seviyenin altına düşünce ve müşteri tamamlamazsa",
-            "C) Yalnızca SPK talimatıyla",
+            "C) Yalnızca SPK (sermaye piyasası kurulu) talimatıyla",
             "D) Yalnızca piyasa kapanışında"
           ],
           "a": 1,
@@ -26340,7 +26340,7 @@ window.__C = {
           "o": [
             "A) Dışarıdan hizmet alımı tamamen yasaktır",
             "B) Asli olmayan hizmetler alınabilir; ancak sorumluluk platformda kalır; Kurul'a bildirim zorunludur",
-            "C) SPK onayı olmadan hiçbir hizmet alınamaz",
+            "C) SPK (sermaye piyasası kurulu) onayı olmadan hiçbir hizmet alınamaz",
             "D) Yalnızca BT hizmetleri alınabilir"
           ],
           "a": 1,
@@ -26383,12 +26383,12 @@ window.__C = {
           "q": "Aracı kurumlar 'dışarıdan hizmet alımı' durumunu hangi makama bildirmek zorundadır?",
           "o": [
             "A) Yalnızca TSPB'ye",
-            "B) SPK'ya",
+            "B) SPK (sermaye piyasası kurulu)'ya",
             "C) Yalnızca Borsaya",
             "D) Bildirim zorunluluğu yoktur"
           ],
           "a": 1,
-          "e": "III-39.1 sayılı Tebliğ uyarınca aracı kurumlar önemli operasyonel hizmetleri dışarıdan aldıklarında bunu SPK'ya bildirmek zorundadır. Bu yükümlülük, düzenleyicinin hizmet zinciri üzerindeki gözetimini sürdürmesine imkân tanır."
+          "e": "III-39.1 sayılı Tebliğ uyarınca aracı kurumlar önemli operasyonel hizmetleri dışarıdan aldıklarında bunu SPK (sermaye piyasası kurulu)'ya bildirmek zorundadır. Bu yükümlülük, düzenleyicinin hizmet zinciri üzerindeki gözetimini sürdürmesine imkân tanır."
         },
         {
           "q": "Aracı kurumun müşteri hesap bilgilerini yetkisiz üçüncü kişilere açıklaması hangi sonuçlara yol açar?",
@@ -26399,7 +26399,7 @@ window.__C = {
             "D) Hiçbir yaptırımı yoktur"
           ],
           "a": 1,
-          "e": "Müşteri hesap bilgilerinin yetkisiz açıklanması hem sermaye piyasası mevzuatı hem de KVKK kapsamında ihlal oluşturur. SPK idari yaptırım uygulayabilir; müşteri maddi zarar görmüşse tazminat davası açabilir."
+          "e": "Müşteri hesap bilgilerinin yetkisiz açıklanması hem sermaye piyasası mevzuatı hem de KVKK kapsamında ihlal oluşturur. SPK (sermaye piyasası kurulu) idari yaptırım uygulayabilir; müşteri maddi zarar görmüşse tazminat davası açabilir."
         },
         {
           "q": "'Tedrici tasfiye' ile 'olağan tasfiye' arasındaki fark nedir?",
@@ -26410,18 +26410,18 @@ window.__C = {
             "D) Olağan tasfiyede müşteri varlıkları risk altındadır"
           ],
           "a": 1,
-          "e": "Tedrici tasfiyede SPK müdahalesiyle aracı kurum faaliyetlerini kademeli olarak azaltır; müşteri varlıkları bu süreçte başka bir kuruma transfer edilebilir ve korunur. Olağan tasfiyede ise Ticaret Kanunu hükümleri çerçevesinde tüm faaliyetler durdurulur."
+          "e": "Tedrici tasfiyede SPK (sermaye piyasası kurulu) müdahalesiyle aracı kurum faaliyetlerini kademeli olarak azaltır; müşteri varlıkları bu süreçte başka bir kuruma transfer edilebilir ve korunur. Olağan tasfiyede ise Ticaret Kanunu hükümleri çerçevesinde tüm faaliyetler durdurulur."
         },
         {
           "q": "Kaldıraçlı işlemlerde 'özel hal' oluştuğunda aracı kurum ne yapmak zorundadır?",
           "o": [
             "A) İşlemleri otomatik durdurur",
-            "B) Durumu SPK'ya raporlamak zorundadır",
+            "B) Durumu SPK (sermaye piyasası kurulu)'ya raporlamak zorundadır",
             "C) Yalnızca müşteriye bildirir",
             "D) Borsaya iletir"
           ],
           "a": 1,
-          "e": "Kaldıraçlı alım satım işlemlerinde piyasada olağandışı durumlar (manipülasyon şüphesi, aşırı fiyat hareketleri vb.) oluştuğunda aracı kurumlar bu özel halleri SPK'ya raporlamak zorundadır. Bu yükümlülük piyasa bütünlüğünü koruma amacı taşır."
+          "e": "Kaldıraçlı alım satım işlemlerinde piyasada olağandışı durumlar (manipülasyon şüphesi, aşırı fiyat hareketleri vb.) oluştuğunda aracı kurumlar bu özel halleri SPK (sermaye piyasası kurulu)'ya raporlamak zorundadır. Bu yükümlülük piyasa bütünlüğünü koruma amacı taşır."
         }
       ],
       "t5": [
@@ -26475,7 +26475,7 @@ window.__C = {
             "A) Ücret avantajı sağlar",
             "B) Islak imzaya hukuki eşdeğerliği sağlar; kimlik doğrulama güvenliğini artırır",
             "C) Yalnızca kurumsal müşteriler için zorunludur",
-            "D) SPK özel bir imza şartı koymamıştır"
+            "D) SPK (sermaye piyasası kurulu) özel bir imza şartı koymamıştır"
           ],
           "a": 1,
           "e": "Nitelikli elektronik imza (5070 sayılı Kanun kapsamında), ıslak imzayla aynı hukuki değere sahiptir. Uzaktan kurulan sözleşmelerde güvenilir kimlik doğrulama ve inkar edilemezlik sağladığından aracı kurumlar bu yöntemi tercih etmelidir."
@@ -26489,7 +26489,7 @@ window.__C = {
             "D) Yalnızca kurumsal müşteriler için gizlilik zorunludur"
           ],
           "a": 1,
-          "e": "Müşteri hesap bilgileri yasal zorunluluklar (SPK denetimi, mahkeme kararı, savcılık talebi vb.) dışında yetkisiz üçüncü kişilere açıklanamaz. Bu ilke hem KVKK hem de sermaye piyasası mevzuatının ortak gerekliliğidir."
+          "e": "Müşteri hesap bilgileri yasal zorunluluklar (SPK (sermaye piyasası kurulu) denetimi, mahkeme kararı, savcılık talebi vb.) dışında yetkisiz üçüncü kişilere açıklanamaz. Bu ilke hem KVKK hem de sermaye piyasası mevzuatının ortak gerekliliğidir."
         },
         {
           "q": "Yatırım danışmanlığı faaliyetinde 'araştırma faaliyetleri' ne zaman çıkar çatışması yaratır?",
@@ -26508,7 +26508,7 @@ window.__C = {
             "A) Yalnızca koordinasyon",
             "B) Konsorsiyum üyelerini koordine etme, yüklenilen payları organize etme ve ihraçcıya karşı birincil muhatap olma",
             "C) Satışın tamamını tek başına garantilemek",
-            "D) SPK'ya başvuruyu yapmak"
+            "D) SPK (sermaye piyasası kurulu)'ya başvuruyu yapmak"
           ],
           "a": 1,
           "e": "Konsorsiyumda lider aracı kurum; üye aracı kurumları koordine etmek, yüklenilen pay miktarlarını organize etmek, ihraçcıya karşı birincil muhatap olmak ve satış sürecini yönetmekle sorumludur. Konsorsiyon sözleşmesi bu sorumlulukları açıkça belirtir."
@@ -26516,7 +26516,7 @@ window.__C = {
         {
           "q": "Kaldıraçlı işlemlerde kullanılan platformlar, programlar ve eklentilere ilişkin hangi yükümlülük getirilmiştir?",
           "o": [
-            "A) Tüm platformlar SPK onayına tabidir",
+            "A) Tüm platformlar SPK (sermaye piyasası kurulu) onayına tabidir",
             "B) Aracı kurumlar kullandıkları platformları, program ve eklentileri Kurul'a bildirmek zorundadır",
             "C) Yalnızca yerli yazılımlar kullanılabilir",
             "D) Platform kullanımı tamamen serbest bırakılmıştır"
@@ -26528,45 +26528,45 @@ window.__C = {
           "q": "'Tedrici tasfiye' ne zaman gündeme gelir?",
           "o": [
             "A) Aracı kurum karlılığı düştüğünde",
-            "B) Mali durumun bozulması ve mevzuat şartlarının karşılanamaması halinde SPK tarafından uygulanacak tedrici tasfiye yoluna gidilebilir",
+            "B) Mali durumun bozulması ve mevzuat şartlarının karşılanamaması halinde SPK (sermaye piyasası kurulu) tarafından uygulanacak tedrici tasfiye yoluna gidilebilir",
             "C) Yalnızca müşteri talebiyle",
             "D) Yalnızca YK kararıyla"
           ],
           "a": 1,
-          "e": "Aracı kurumun mali durumunun ağır biçimde bozulması, özkaynak yetersizliği veya mevzuat koşullarının sürekli karşılanamaması halinde SPK; faaliyet izinlerini kısıtlama, geçici durdurma veya tedrici tasfiye gibi tedbirler uygulayabilir. Tedrici tasfiye müşteri varlıklarını koruyarak kademeli çözümleme sürecidir."
+          "e": "Aracı kurumun mali durumunun ağır biçimde bozulması, özkaynak yetersizliği veya mevzuat koşullarının sürekli karşılanamaması halinde SPK (sermaye piyasası kurulu); faaliyet izinlerini kısıtlama, geçici durdurma veya tedrici tasfiye gibi tedbirler uygulayabilir. Tedrici tasfiye müşteri varlıklarını koruyarak kademeli çözümleme sürecidir."
         },
         {
           "q": "'İzinsiz sermaye piyasası faaliyeti' tespit edildiğinde yatırım kuruluşunun yükümlülüğü nedir?",
           "o": [
             "A) Kendisi müdahale eder",
-            "B) Durumu SPK'ya bildirmek zorundadır",
+            "B) Durumu SPK (sermaye piyasası kurulu)'ya bildirmek zorundadır",
             "C) Yalnızca iç rapora yansıtır",
             "D) Hiçbir yükümlülüğü yoktur"
           ],
           "a": 1,
-          "e": "Yatırım kuruluşları faaliyetleri sırasında başka kişi veya kuruluşların izinsiz sermaye piyasası faaliyeti yürüttüğünü tespit ederlerse bunu en kısa sürede SPK'ya bildirmekle yükümlüdür. Bu bildirim yükümlülüğü piyasa denetiminin etkinliğini artırır."
+          "e": "Yatırım kuruluşları faaliyetleri sırasında başka kişi veya kuruluşların izinsiz sermaye piyasası faaliyeti yürüttüğünü tespit ederlerse bunu en kısa sürede SPK (sermaye piyasası kurulu)'ya bildirmekle yükümlüdür. Bu bildirim yükümlülüğü piyasa denetiminin etkinliğini artırır."
         },
         {
           "q": "Borçlanmaya dayalı kitle fonlamasının bankacılık mevzuatından farkı nedir?",
           "o": [
             "A) Bankacılık mevzuatı da uygulanır",
-            "B) Borçlanmaya dayalı kitte fonlamasına bankacılık mevzuatı uygulanmaz; yalnızca SPK düzenlemeleri geçerlidir",
-            "C) BDDK onayı gerekir",
-            "D) TCMB izni zorunludur"
+            "B) Borçlanmaya dayalı kitte fonlamasına bankacılık mevzuatı uygulanmaz; yalnızca SPK (sermaye piyasası kurulu) düzenlemeleri geçerlidir",
+            "C) BDDK (bankacılık düzenleme ve denetleme kurumu) onayı gerekir",
+            "D) TCMB (türkiye cumhuriyet merkez bankası) izni zorunludur"
           ],
           "a": 1,
-          "e": "SPKn'na göre borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanmaz; bu faaliyet münhasıran SPK düzenlemelerine tabidir. Bu istisna kitle fonlamasını bankacılık faaliyetinden ayıran temel hukuki ayrımdır."
+          "e": "SPK (sermaye piyasası kurulu)n'na göre borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatı uygulanmaz; bu faaliyet münhasıran SPK (sermaye piyasası kurulu) düzenlemelerine tabidir. Bu istisna kitle fonlamasını bankacılık faaliyetinden ayıran temel hukuki ayrımdır."
         },
         {
           "q": "Uzaktan kimlik tespiti sistemlerinin edinimi ve yönetiminde sorumluluk nasıl dağılmaktadır?",
           "o": [
             "A) Teknoloji sağlayıcı tam sorumludur",
             "B) Tüm sorumluluk aracı kuruma aittir; hizmet aldığı teknoloji sağlayıcıya devredilemiyor",
-            "C) SPK ve aracı kurum eşit sorumluluk taşır",
+            "C) SPK (sermaye piyasası kurulu) ve aracı kurum eşit sorumluluk taşır",
             "D) Sorumluluk dağılımı sözleşmeyle serbestçe belirlenir"
           ],
           "a": 1,
-          "e": "III-42.1 sayılı Tebliğ uyarınca uzaktan kimlik tespiti sistemleri bir teknoloji sağlayıcıdan alınmış olsa dahi tüm hukuki sorumluluk aracı kuruma aittir. Teknoloji sağlayıcı hata yapsa bile müşteriye ve SPK'ya karşı muhatap aracı kurumdur."
+          "e": "III-42.1 sayılı Tebliğ uyarınca uzaktan kimlik tespiti sistemleri bir teknoloji sağlayıcıdan alınmış olsa dahi tüm hukuki sorumluluk aracı kuruma aittir. Teknoloji sağlayıcı hata yapsa bile müşteriye ve SPK (sermaye piyasası kurulu)'ya karşı muhatap aracı kurumdur."
         },
         {
           "q": "'Saklama hizmetinde yurt dışı piyasalarda yapılan işlemler' kapsamında özel hükümler neler içermektedir?",
@@ -26629,7 +26629,7 @@ window.__C = {
             "A) Toplanan fonlar girişimciye aktarılır",
             "B) Toplanan fonlar yatırımcılara iade edilir",
             "C) Fark platform tarafından tamamlanır",
-            "D) SPK devreye girer"
+            "D) SPK (sermaye piyasası kurulu) devreye girer"
           ],
           "a": 1,
           "e": "Paya dayalı kitle fonlamasında kampanya süresi içinde hedef tutara ulaşılamazsa toplanan fonların tamamı yatırımcılara iade edilir. Bu kural, yatırımcıların başarıya ulaşamayan projelere zorunlu olarak katkıda bulunmalarını önler."
@@ -26648,7 +26648,7 @@ window.__C = {
       ]
     }
   },
-  "UY_MASAK": {
+  "UY_MASAK (mali suçları araştırma kurulu)": {
     "summary": [
       {
         "num": "01",
@@ -26658,23 +26658,23 @@ window.__C = {
       {
         "num": "02",
         "title": "Temel Görevler (1 sayılı CK md.231)",
-        "body": "<ul><li>Plan, program, politika ve strateji hazırlama süreçlerine katkı; sektörler arası koordinasyon.</li><li>Şüpheli işlem bildirimlerini (ŞİB) almak, kaydetmek, analiz etmek ve mali istihbarat üretmek.</li><li>Yükümlülük denetimi yapmak veya yaptırmak.</li><li>Aklama/TF suçuna ilişkin ciddi şüphe halinde <strong>Cumhuriyet savcılığına suç duyurusunda bulunmak</strong>.</li><li>Uluslararası muadil kurumlarla iş birliği; <strong>mutabakat muhtırası imzalamaya MASAK Başkanı yetkilidir</strong> (Cumhurbaşkanı kararıyla yürürlüğe girer).</li></ul>"
+        "body": "<ul><li>Plan, program, politika ve strateji hazırlama süreçlerine katkı; sektörler arası koordinasyon.</li><li>Şüpheli işlem bildirimlerini (ŞİB (şüpheli işlem bildirimi)) almak, kaydetmek, analiz etmek ve mali istihbarat üretmek.</li><li>Yükümlülük denetimi yapmak veya yaptırmak.</li><li>Aklama/TF suçuna ilişkin ciddi şüphe halinde <strong>Cumhuriyet savcılığına suç duyurusunda bulunmak</strong>.</li><li>Uluslararası muadil kurumlarla iş birliği; <strong>mutabakat muhtırası imzalamaya MASAK (mali suçları araştırma kurulu) Başkanı yetkilidir</strong> (Cumhurbaşkanı kararıyla yürürlüğe girer).</li></ul>"
       },
       {
         "num": "03",
         "title": "Denetim Elemanları (5549 sayılı Kanun md.2)",
-        "body": "<ul><li>Vergi Müfettişleri ve Vergi Müfettiş Yardımcıları</li><li>Hazine ve Maliye Uzmanları</li><li>Gümrük ve Ticaret Müfettişleri</li><li>Bankalar Yeminli Murakıpları</li><li>Hazine Kontrolörleri</li><li>Sigorta Denetleme Uzmanları ve Aktüerleri</li><li>BDDK Uzmanları ve SPK Uzmanları</li><li>TCMB Denetçileri ve Uzmanları</li><li><strong>Kritik not:</strong> Adalet Müfettişleri ve Emniyet Müdürleri bu kapsama <em>girmez</em>.</li></ul>"
+        "body": "<ul><li>Vergi Müfettişleri ve Vergi Müfettiş Yardımcıları</li><li>Hazine ve Maliye Uzmanları</li><li>Gümrük ve Ticaret Müfettişleri</li><li>Bankalar Yeminli Murakıpları</li><li>Hazine Kontrolörleri</li><li>Sigorta Denetleme Uzmanları ve Aktüerleri</li><li>BDDK (bankacılık düzenleme ve denetleme kurumu) Uzmanları ve SPK (sermaye piyasası kurulu) Uzmanları</li><li>TCMB (türkiye cumhuriyet merkez bankası) Denetçileri ve Uzmanları</li><li><strong>Kritik not:</strong> Adalet Müfettişleri ve Emniyet Müdürleri bu kapsama <em>girmez</em>.</li></ul>"
       },
       {
         "num": "04",
         "title": "Malî Suçlarla Mücadele Koordinasyon Kurulu",
-        "body": "<ul><li><strong>Başkan:</strong> Hazine ve Maliye Bakan Yardımcısı.</li><li><strong>Başlıca üyeler:</strong> MİT Başkan Yrd., MASAK Başkanı, VDK Başkanı, BDDK Başkan Yrd., Emniyet GM Yrd., Adalet Bak. Ceza İşleri GM, Dışişleri Bak. Araştırma ve Güvenlik İşleri GM, Ticaret Bak. Gümrükler Muhafaza GM, Finansal Piyasalar ve Kambiyo GM.</li><li><strong>Olağan toplantı:</strong> Yılda <strong>en az 2 kez</strong> — Nisan ve Eylül aylarında.</li><li><strong>Olağanüstü:</strong> Başkanın resen daveti veya herhangi bir üyenin talebiyle.</li><li><strong>Toplantı yeter sayısı:</strong> Üye sayısının yarısından bir fazlası.</li><li><strong>Karar:</strong> Toplantıya katılanların çoğunluğuyla; çekimser oy kullanılamaz; <strong>oylar eşitse başkanın oyu 2 sayılır</strong>.</li></ul>"
+        "body": "<ul><li><strong>Başkan:</strong> Hazine ve Maliye Bakan Yardımcısı.</li><li><strong>Başlıca üyeler:</strong> MİT Başkan Yrd., MASAK (mali suçları araştırma kurulu) Başkanı, VDK Başkanı, BDDK (bankacılık düzenleme ve denetleme kurumu) Başkan Yrd., Emniyet GM Yrd., Adalet Bak. Ceza İşleri GM, Dışişleri Bak. Araştırma ve Güvenlik İşleri GM, Ticaret Bak. Gümrükler Muhafaza GM, Finansal Piyasalar ve Kambiyo GM.</li><li><strong>Olağan toplantı:</strong> Yılda <strong>en az 2 kez</strong> — Nisan ve Eylül aylarında.</li><li><strong>Olağanüstü:</strong> Başkanın resen daveti veya herhangi bir üyenin talebiyle.</li><li><strong>Toplantı yeter sayısı:</strong> Üye sayısının yarısından bir fazlası.</li><li><strong>Karar:</strong> Toplantıya katılanların çoğunluğuyla; çekimser oy kullanılamaz; <strong>oylar eşitse başkanın oyu 2 sayılır</strong>.</li></ul>"
       }
     ],
     "tests": {
       "t1": [
         {
-          "q": "MASAK hangi yılda kurulmuştur?",
+          "q": "MASAK (mali suçları araştırma kurulu) hangi yılda kurulmuştur?",
           "o": [
             "A) 1989",
             "B) 1993",
@@ -26682,10 +26682,10 @@ window.__C = {
             "D) 2001"
           ],
           "a": 2,
-          "e": "MASAK, 1996 yılında 4208 sayılı Karaparanın Aklanmasının Önlenmesine Dair Kanun ile kurulmuştur. FATF ise 1989'da kurulmuştur — bu iki tarih sıklıkla karıştırılır."
+          "e": "MASAK (mali suçları araştırma kurulu), 1996 yılında 4208 sayılı Karaparanın Aklanmasının Önlenmesine Dair Kanun ile kurulmuştur. FATF (finansal eylem görev gücü) ise 1989'da kurulmuştur — bu iki tarih sıklıkla karıştırılır."
         },
         {
-          "q": "MASAK'ın kurulmasını doğrudan sağlayan kanun hangisidir?",
+          "q": "MASAK (mali suçları araştırma kurulu)'ın kurulmasını doğrudan sağlayan kanun hangisidir?",
           "o": [
             "A) 5549 sayılı Kanun",
             "B) 4208 sayılı Kanun",
@@ -26693,10 +26693,10 @@ window.__C = {
             "D) 7262 sayılı Kanun"
           ],
           "a": 1,
-          "e": "4208 sayılı 'Karaparanın Aklanmasının Önlenmesine Dair Kanun' (1996) MASAK'ı kurdu. 5549 sayılı Kanun ise 2006'da mevzuatı güncelleyen kanundur; MASAK'ı kurmadı, yeniden düzenledi."
+          "e": "4208 sayılı 'Karaparanın Aklanmasının Önlenmesine Dair Kanun' (1996) MASAK (mali suçları araştırma kurulu)'ı kurdu. 5549 sayılı Kanun ise 2006'da mevzuatı güncelleyen kanundur; MASAK (mali suçları araştırma kurulu)'ı kurmadı, yeniden düzenledi."
         },
         {
-          "q": "MASAK hangi bakanlığa bağlıdır?",
+          "q": "MASAK (mali suçları araştırma kurulu) hangi bakanlığa bağlıdır?",
           "o": [
             "A) Adalet Bakanlığı",
             "B) İçişleri Bakanlığı",
@@ -26704,10 +26704,10 @@ window.__C = {
             "D) Ticaret Bakanlığı"
           ],
           "a": 2,
-          "e": "MASAK, Hazine ve Maliye Bakanlığı bünyesinde ana hizmet birimi olarak doğrudan Hazine ve Maliye Bakanına bağlıdır."
+          "e": "MASAK (mali suçları araştırma kurulu), Hazine ve Maliye Bakanlığı bünyesinde ana hizmet birimi olarak doğrudan Hazine ve Maliye Bakanına bağlıdır."
         },
         {
-          "q": "MASAK hangi mali istihbarat birimi modelini temsil eder?",
+          "q": "MASAK (mali suçları araştırma kurulu) hangi mali istihbarat birimi modelini temsil eder?",
           "o": [
             "A) Kolluk tipi",
             "B) Adli / Savcılık tipi",
@@ -26718,31 +26718,31 @@ window.__C = {
           "e": "İdari tipte MİB; bağımsız idari birim olarak finansal veri toplar, analiz eder ve paylaşır. Soruşturma ya da kovuşturma yetkisi yoktur."
         },
         {
-          "q": "Aşağıdakilerden hangisi MASAK'ın doğrudan görevi değildir?",
+          "q": "Aşağıdakilerden hangisi MASAK (mali suçları araştırma kurulu)'ın doğrudan görevi değildir?",
           "o": [
-            "A) ŞİB almak ve analiz etmek",
+            "A) ŞİB (şüpheli işlem bildirimi) almak ve analiz etmek",
             "B) Yükümlülük denetimi yaptırmak",
             "C) Şüphelileri kovuşturmak",
             "D) Suç duyurusunda bulunmak"
           ],
           "a": 2,
-          "e": "Kovuşturma yetkisi Cumhuriyet savcılığına aittir. MASAK yalnızca ciddi şüphe halinde savcılığa 'suç duyurusunda bulunabilir'; kendisi kovuşturma açamaz."
+          "e": "Kovuşturma yetkisi Cumhuriyet savcılığına aittir. MASAK (mali suçları araştırma kurulu) yalnızca ciddi şüphe halinde savcılığa 'suç duyurusunda bulunabilir'; kendisi kovuşturma açamaz."
         },
         {
-          "q": "MASAK adına mutabakat muhtırası imzalama yetkisi kime aittir?",
+          "q": "MASAK (mali suçları araştırma kurulu) adına mutabakat muhtırası imzalama yetkisi kime aittir?",
           "o": [
             "A) Hazine ve Maliye Bakanına",
             "B) Cumhurbaşkanına",
-            "C) MASAK Başkanına",
+            "C) MASAK (mali suçları araştırma kurulu) Başkanına",
             "D) Koordinasyon Kurulu Başkanına"
           ],
           "a": 2,
-          "e": "Mutabakat muhtırası MASAK Başkanı tarafından imzalanır; ancak Cumhurbaşkanı kararıyla yürürlüğe girer."
+          "e": "Mutabakat muhtırası MASAK (mali suçları araştırma kurulu) Başkanı tarafından imzalanır; ancak Cumhurbaşkanı kararıyla yürürlüğe girer."
         },
         {
           "q": "Malî Suçlarla Mücadele Koordinasyon Kurulu'na kim başkanlık eder?",
           "o": [
-            "A) MASAK Başkanı",
+            "A) MASAK (mali suçları araştırma kurulu) Başkanı",
             "B) Hazine ve Maliye Bakanı",
             "C) Hazine ve Maliye Bakan Yardımcısı",
             "D) Cumhurbaşkanı Yardımcısı"
@@ -26806,7 +26806,7 @@ window.__C = {
           "e": "Bankalar Yeminli Murakıpları, 5549 sayılı Kanun kapsamındaki denetim elemanlarındandır. Adalet Müfettişleri ve Emniyet personeli bu kapsamda değildir."
         },
         {
-          "q": "MASAK kaç sayılı Kanun'la kurulmuştur?",
+          "q": "MASAK (mali suçları araştırma kurulu) kaç sayılı Kanun'la kurulmuştur?",
           "o": [
             "A) 4208",
             "B) 5549",
@@ -26814,10 +26814,10 @@ window.__C = {
             "D) 6362"
           ],
           "a": 0,
-          "e": "MASAK, 1996'da 4208 sayılı Kara Para Aklanmasının Önlenmesine İlişkin Kanun ile kurulmuştur."
+          "e": "MASAK (mali suçları araştırma kurulu), 1996'da 4208 sayılı Kara Para Aklanmasının Önlenmesine İlişkin Kanun ile kurulmuştur."
         },
         {
-          "q": "MASAK hangi bakanlığa bağlıdır?",
+          "q": "MASAK (mali suçları araştırma kurulu) hangi bakanlığa bağlıdır?",
           "o": [
             "A) İçişleri Bakanlığı",
             "B) Adalet Bakanlığı",
@@ -26825,7 +26825,7 @@ window.__C = {
             "D) Dışişleri Bakanlığı"
           ],
           "a": 2,
-          "e": "MASAK, Hazine ve Maliye Bakanına bağlı idari tipte mali istihbarat birimidir."
+          "e": "MASAK (mali suçları araştırma kurulu), Hazine ve Maliye Bakanına bağlı idari tipte mali istihbarat birimidir."
         },
         {
           "q": "Mali İstihbarat Birimlerinde 'idari tip' modelinin özelliği nedir?",
@@ -26836,12 +26836,12 @@ window.__C = {
             "D) Birden fazla modeli birleştirir"
           ],
           "a": 2,
-          "e": "İdari tipte mali istihbarat birimleri (örn. MASAK) bağımsız idari birim olarak yapılandırılır."
+          "e": "İdari tipte mali istihbarat birimleri (örn. MASAK (mali suçları araştırma kurulu)) bağımsız idari birim olarak yapılandırılır."
         },
         {
           "q": "Malî Suçlarla Mücadele Koordinasyon Kurulu'na kim başkanlık eder?",
           "o": [
-            "A) MASAK Başkanı",
+            "A) MASAK (mali suçları araştırma kurulu) Başkanı",
             "B) Hazine ve Maliye Bakan Yardımcısı",
             "C) Hazine ve Maliye Bakanı",
             "D) Cumhurbaşkanlığı Finans Ofisi Başkanı"
@@ -26872,7 +26872,7 @@ window.__C = {
           "e": "Oyların eşit olması durumunda başkanın oyu iki oy sayılır; böylece karar alınmış olur."
         },
         {
-          "q": "MASAK'ın temel işlevi aşağıdakilerden hangisidir?",
+          "q": "MASAK (mali suçları araştırma kurulu)'ın temel işlevi aşağıdakilerden hangisidir?",
           "o": [
             "A) Vergi toplamak",
             "B) Suç gelirlerini müsadere etmek",
@@ -26880,7 +26880,7 @@ window.__C = {
             "D) Ceza davası açmak"
           ],
           "a": 2,
-          "e": "MASAK bir mali istihbarat birimi olarak veri toplar, analiz eder ve sonuçları yetkili makamlara iletir."
+          "e": "MASAK (mali suçları araştırma kurulu) bir mali istihbarat birimi olarak veri toplar, analiz eder ve sonuçları yetkili makamlara iletir."
         },
         {
           "q": "5549 sayılı Kanun hangi konuyu düzenlemektedir?",
@@ -26891,7 +26891,7 @@ window.__C = {
             "D) Bankacılık lisansları"
           ],
           "a": 1,
-          "e": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun, MASAK'ın temel mevzuatıdır."
+          "e": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun, MASAK (mali suçları araştırma kurulu)'ın temel mevzuatıdır."
         }
       ]
     }
@@ -26900,18 +26900,18 @@ window.__C = {
     "summary": [
       {
         "num": "01",
-        "title": "FATF — Kuruluş, Tavsiyeler ve Değerlendirme",
-        "body": "<ul><li><strong>Kuruluş:</strong> 1989'da G7 zirvesi kararıyla Paris'te kuruldu.</li><li><strong>40 Tavsiye:</strong> AML/CFT/KİSYF alanında uluslararası standartları belirler; bağlayıcı değil, ama uyumsuzluk yaptırım doğurur.</li><li><strong>Karşılıklı Değerlendirme:</strong> 11 Teknik Uyum kriteri (R.1–R.40) + 10 Etkinlik kriteri → ülke notu.</li><li><strong>Kara Liste (Eylem Çağrısına Tabi):</strong> Kuzey Kore, İran, Myanmar.</li><li><strong>Gri Liste (Artırılmış İzleme):</strong> Türkiye 2021–2024 gri listede kaldı; <strong>2024'te çıkarıldı</strong>.</li><li><strong>FSRBs:</strong> FATF-tarzı bölgesel oluşumlar — MONEYVAL, GIABA, GAFILAT, ESAAMLG vb.</li></ul>"
+        "title": "FATF (finansal eylem görev gücü) — Kuruluş, Tavsiyeler ve Değerlendirme",
+        "body": "<ul><li><strong>Kuruluş:</strong> 1989'da G7 zirvesi kararıyla Paris'te kuruldu.</li><li><strong>40 Tavsiye:</strong> AML/CFT (kara para aklama ve terörün finansmanıyla mücadele)/KİSYF (kara para aklama, terörün finansmanı ve kitle imha silahlarının yayılmasının finansmanıyla mücadele) alanında uluslararası standartları belirler; bağlayıcı değil, ama uyumsuzluk yaptırım doğurur.</li><li><strong>Karşılıklı Değerlendirme:</strong> 11 Teknik Uyum kriteri (R.1–R.40) + 10 Etkinlik kriteri → ülke notu.</li><li><strong>Kara Liste (Eylem Çağrısına Tabi):</strong> Kuzey Kore, İran, Myanmar.</li><li><strong>Gri Liste (Artırılmış İzleme):</strong> Türkiye 2021–2024 gri listede kaldı; <strong>2024'te çıkarıldı</strong>.</li><li><strong>FSRBs:</strong> FATF (finansal eylem görev gücü)-tarzı bölgesel oluşumlar — MONEYVAL, GIABA, GAFILAT, ESAAMLG vb.</li></ul>"
       },
       {
         "num": "02",
         "title": "Mali İstihbarat Birimi (MİB) Modelleri",
-        "body": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Model</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Bünyesi</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Soruşturma?</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Örnek</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>İdari</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bağımsız idari birim</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Hayır</td><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>MASAK</strong>, Fransa TRACFIN</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>Kolluk</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Emniyet / Jandarma</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Evet</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Avustralya AUSTRAC</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>Adli / Savcılık</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Yargı bünyesi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Evet</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bazı AB ülkeleri</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>Karma</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Birden fazla model</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Değişken</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>—</td></tr></table><br><ul><li><strong>FATF Tavsiye 29:</strong> Her ülke operasyonel bağımsızlığa sahip bir MİB kurmalıdır.</li></ul>"
+        "body": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Model</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Bünyesi</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Soruşturma?</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Örnek</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>İdari</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bağımsız idari birim</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Hayır</td><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>MASAK (mali suçları araştırma kurulu)</strong>, Fransa TRACFIN</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>Kolluk</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Emniyet / Jandarma</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Evet</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Avustralya AUSTRAC</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>Adli / Savcılık</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Yargı bünyesi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Evet</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bazı AB ülkeleri</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>Karma</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Birden fazla model</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Değişken</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>—</td></tr></table><br><ul><li><strong>FATF (finansal eylem görev gücü) Tavsiye 29:</strong> Her ülke operasyonel bağımsızlığa sahip bir MİB kurmalıdır.</li></ul>"
       },
       {
         "num": "03",
         "title": "EGMONT Grubu ve MONEYVAL",
-        "body": "<ul><li><strong>EGMONT Grubu:</strong> Dünya genelinde MİB'lerin uluslararası bilgi paylaşımı ve iş birliği platformu. <em>Egmont Net</em> güvenli kanalı üzerinden finansal istihbarat paylaşımı yapılır.</li><li><strong>MONEYVAL:</strong> Avrupa Konseyi bünyesinde; FATF üyesi olmayan Avrupa ülkelerini değerlendirir. Genel Kurul + Başkan, Başkan Yardımcısı, Sekretarya yapısı.</li><li><strong>FATF Tavsiye 40:</strong> MİB'ler arasında uluslararası iş birliği; bilgi paylaşımında gizlilik esasları.</li></ul>"
+        "body": "<ul><li><strong>EGMONT Grubu:</strong> Dünya genelinde MİB'lerin uluslararası bilgi paylaşımı ve iş birliği platformu. <em>Egmont Net</em> güvenli kanalı üzerinden finansal istihbarat paylaşımı yapılır.</li><li><strong>MONEYVAL:</strong> Avrupa Konseyi bünyesinde; FATF (finansal eylem görev gücü) üyesi olmayan Avrupa ülkelerini değerlendirir. Genel Kurul + Başkan, Başkan Yardımcısı, Sekretarya yapısı.</li><li><strong>FATF (finansal eylem görev gücü) Tavsiye 40:</strong> MİB'ler arasında uluslararası iş birliği; bilgi paylaşımında gizlilik esasları.</li></ul>"
       },
       {
         "num": "04",
@@ -26927,7 +26927,7 @@ window.__C = {
     "tests": {
       "t1": [
         {
-          "q": "FATF hangi yılda kurulmuştur?",
+          "q": "FATF (finansal eylem görev gücü) hangi yılda kurulmuştur?",
           "o": [
             "A) 1973",
             "B) 1989",
@@ -26935,10 +26935,10 @@ window.__C = {
             "D) 2001"
           ],
           "a": 1,
-          "e": "FATF (Mali Eylem Görev Gücü), 1989'da G7 zirvesi kararıyla Paris'te kuruldu. 1973: SWIFT'in kuruluş yılı; 1996: MASAK'ın kuruluş yılı."
+          "e": "FATF (Mali Eylem Görev Gücü), 1989'da G7 zirvesi kararıyla Paris'te kuruldu. 1973: SWIFT'in kuruluş yılı; 1996: MASAK (mali suçları araştırma kurulu)'ın kuruluş yılı."
         },
         {
-          "q": "FATF kaç Tavsiye yayımlamaktadır?",
+          "q": "FATF (finansal eylem görev gücü) kaç Tavsiye yayımlamaktadır?",
           "o": [
             "A) 9",
             "B) 20",
@@ -26946,10 +26946,10 @@ window.__C = {
             "D) 49"
           ],
           "a": 2,
-          "e": "FATF 40 Tavsiye yayımlar. Eskiden ayrıca 9 Özel Tavsiye (TF odaklı) mevcuttu; bunlar sonradan 40 Tavsiye'ye entegre edildi."
+          "e": "FATF (finansal eylem görev gücü) 40 Tavsiye yayımlar. Eskiden ayrıca 9 Özel Tavsiye (TF odaklı) mevcuttu; bunlar sonradan 40 Tavsiye'ye entegre edildi."
         },
         {
-          "q": "FATF'ın kara listesinde (Eylem Çağrısına Tabi) yer alan ülkeler hangileridir?",
+          "q": "FATF (finansal eylem görev gücü)'ın kara listesinde (Eylem Çağrısına Tabi) yer alan ülkeler hangileridir?",
           "o": [
             "A) Rusya, Çin, İran",
             "B) Kuzey Kore, İran, Myanmar",
@@ -26960,7 +26960,7 @@ window.__C = {
           "e": "Kara listede Kuzey Kore, İran ve Myanmar yer almaktadır. Türkiye 2021–2024 arasında gri listede kaldı; 2024'te gri listeden çıkarıldı."
         },
         {
-          "q": "Türkiye FATF gri listesine hangi yılda alındı ve ne zaman çıkarıldı?",
+          "q": "Türkiye FATF (finansal eylem görev gücü) gri listesine hangi yılda alındı ve ne zaman çıkarıldı?",
           "o": [
             "A) 2019 — 2022",
             "B) 2020 — 2023",
@@ -26971,7 +26971,7 @@ window.__C = {
           "e": "Türkiye 2021'de gri listeye alındı ve 2024'te çıkarıldı."
         },
         {
-          "q": "Hangi FATF Tavsiyesi, her ülkenin operasyonel bağımsızlığa sahip bir MİB kurmasını zorunlu kılar?",
+          "q": "Hangi FATF (finansal eylem görev gücü) Tavsiyesi, her ülkenin operasyonel bağımsızlığa sahip bir MİB kurmasını zorunlu kılar?",
           "o": [
             "A) Tavsiye 7",
             "B) Tavsiye 20",
@@ -26979,7 +26979,7 @@ window.__C = {
             "D) Tavsiye 29"
           ],
           "a": 3,
-          "e": "FATF Tavsiye 29: Her ülke operasyonel bağımsızlığa sahip bir Mali İstihbarat Birimi kurmalıdır. Tavsiye 20: ŞİB yükümlülüğü; Tavsiye 7: KİSYF hedeflenen mali yaptırımlar."
+          "e": "FATF (finansal eylem görev gücü) Tavsiye 29: Her ülke operasyonel bağımsızlığa sahip bir Mali İstihbarat Birimi kurmalıdır. Tavsiye 20: ŞİB (şüpheli işlem bildirimi) yükümlülüğü; Tavsiye 7: KİSYF (kitle imha silahlarının yayılmasının finansmanı) hedeflenen mali yaptırımlar."
         },
         {
           "q": "İdari tip MİB modeli için aşağıdakilerden hangisi doğrudur?",
@@ -26990,7 +26990,7 @@ window.__C = {
             "D) Ülke bazlı mali yaptırımları uygular"
           ],
           "a": 2,
-          "e": "İdari tip MİB (MASAK gibi) bağımsız idari birim olarak çalışır; soruşturma/kovuşturma yetkisi yoktur; finansal veri toplar, analiz eder ve paylaşır."
+          "e": "İdari tip MİB (MASAK (mali suçları araştırma kurulu) gibi) bağımsız idari birim olarak çalışır; soruşturma/kovuşturma yetkisi yoktur; finansal veri toplar, analiz eder ve paylaşır."
         },
         {
           "q": "EGMONT Grubu'nun temel işlevi nedir?",
@@ -27001,29 +27001,29 @@ window.__C = {
             "D) KİS yaptırımlarını koordine etmek"
           ],
           "a": 1,
-          "e": "EGMONT Grubu, MİB'lerin uluslararası iş birliği ve bilgi paylaşımı platformudur. Karşılıklı değerlendirme FATF'ın görevidir."
+          "e": "EGMONT Grubu, MİB'lerin uluslararası iş birliği ve bilgi paylaşımı platformudur. Karşılıklı değerlendirme FATF (finansal eylem görev gücü)'ın görevidir."
         },
         {
           "q": "MONEYVAL hangi ülkeleri değerlendirir?",
           "o": [
             "A) G7 ülkelerini",
-            "B) Tüm FATF üyesi ülkeleri",
-            "C) FATF üyesi olmayan Avrupa ülkelerini",
+            "B) Tüm FATF (finansal eylem görev gücü) üyesi ülkeleri",
+            "C) FATF (finansal eylem görev gücü) üyesi olmayan Avrupa ülkelerini",
             "D) Yalnızca AB üyesi ülkeleri"
           ],
           "a": 2,
-          "e": "MONEYVAL, Avrupa Konseyi bünyesinde faaliyet gösterir ve FATF üyesi olmayan Avrupa ülkelerini değerlendirir."
+          "e": "MONEYVAL, Avrupa Konseyi bünyesinde faaliyet gösterir ve FATF (finansal eylem görev gücü) üyesi olmayan Avrupa ülkelerini değerlendirir."
         },
         {
           "q": "1988 Viyana BM Sözleşmesi'nin AML tarihindeki önemi nedir?",
           "o": [
             "A) TF suçunu ilk kez tanımladı",
             "B) Kara para aklamayı ilk kez uluslararası suç olarak tanımladı",
-            "C) FATF'ın kurulmasını sağladı",
-            "D) KİSYF yükümlülüklerini belirledi"
+            "C) FATF (finansal eylem görev gücü)'ın kurulmasını sağladı",
+            "D) KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülüklerini belirledi"
           ],
           "a": 1,
-          "e": "1988 BM Uyuşturucu Sözleşmesi (Viyana Sözleşmesi), kara para aklamayı ilk kez uluslararası suç olarak tanımladı. FATF ise 1989'da kuruldu."
+          "e": "1988 BM Uyuşturucu Sözleşmesi (Viyana Sözleşmesi), kara para aklamayı ilk kez uluslararası suç olarak tanımladı. FATF (finansal eylem görev gücü) ise 1989'da kuruldu."
         },
         {
           "q": "BMGK 1373 sayılı Kararı'nın özü nedir?",
@@ -27041,14 +27041,14 @@ window.__C = {
           "o": [
             "A) BM bünyesinde faaliyet gösteren yaptırım komitesi",
             "B) ABD Hazine Bakanlığı bünyesinde yaptırım uygulayan birim",
-            "C) FATF bünyesinde kara liste yöneten kurul",
+            "C) FATF (finansal eylem görev gücü) bünyesinde kara liste yöneten kurul",
             "D) AB'nin mali yaptırım organı"
           ],
           "a": 1,
           "e": "OFAC (Office of Foreign Assets Control), ABD Hazine Bakanlığı bünyesinde çalışır; SDN Listesi aracılığıyla kişi/kuruluş bazlı ve ülke bazlı yaptırımlar uygular."
         },
         {
-          "q": "Hangi FATF Tavsiyesi şüpheli işlem bildirimi yükümlülüğünü düzenler?",
+          "q": "Hangi FATF (finansal eylem görev gücü) Tavsiyesi şüpheli işlem bildirimi yükümlülüğünü düzenler?",
           "o": [
             "A) Tavsiye 4",
             "B) Tavsiye 10",
@@ -27056,7 +27056,7 @@ window.__C = {
             "D) Tavsiye 29"
           ],
           "a": 2,
-          "e": "FATF Tavsiye 20: Şüpheli işlemlerin derhal MİB'e bildirilmesi. Tavsiye 10: Müşterinin tanınması (KYC); Tavsiye 4: Müsadere ve geçici tedbirler."
+          "e": "FATF (finansal eylem görev gücü) Tavsiye 20: Şüpheli işlemlerin derhal MİB'e bildirilmesi. Tavsiye 10: Müşterinin tanınması (KYC (müşteri tanıma)); Tavsiye 4: Müsadere ve geçici tedbirler."
         },
         {
           "q": "BMGK 1718 sayılı Kararı hangi ülkeyi hedef almaktadır?",
@@ -27070,7 +27070,7 @@ window.__C = {
           "e": "BMGK 1718 (2006) Kuzey Kore'ye kapsamlı silah ambargosu ve nükleer/füze programındakilere yaptırım getirdi. İran için 1737 ve 1747 sayılı kararlar mevcuttur."
         },
         {
-          "q": "FATF Karşılıklı Değerlendirme'de kaç adet Etkinlik kriteri bulunmaktadır?",
+          "q": "FATF (finansal eylem görev gücü) Karşılıklı Değerlendirme'de kaç adet Etkinlik kriteri bulunmaktadır?",
           "o": [
             "A) 7",
             "B) 10",
@@ -27081,7 +27081,7 @@ window.__C = {
           "e": "Karşılıklı Değerlendirme: 11 Teknik Uyum kriteri (R.1–R.40) ve 10 Etkinlik kriteri. Bu iki rakam sınav sorularında sıklıkla karıştırılır."
         },
         {
-          "q": "FATF kaç tavsiyeden oluşan uluslararası standartlar seti yayımlamaktadır?",
+          "q": "FATF (finansal eylem görev gücü) kaç tavsiyeden oluşan uluslararası standartlar seti yayımlamaktadır?",
           "o": [
             "A) 20",
             "B) 30",
@@ -27089,10 +27089,10 @@ window.__C = {
             "D) 50"
           ],
           "a": 2,
-          "e": "FATF, kara para aklaması ve terörizmin finansmanıyla mücadelede 40 Tavsiyeden oluşan standartlar yayımlamaktadır."
+          "e": "FATF (finansal eylem görev gücü), kara para aklaması ve terörizmin finansmanıyla mücadelede 40 Tavsiyeden oluşan standartlar yayımlamaktadır."
         },
         {
-          "q": "FATF ülkeleri sınıflandırırken hangi iki listeyi kullanmaktadır?",
+          "q": "FATF (finansal eylem görev gücü) ülkeleri sınıflandırırken hangi iki listeyi kullanmaktadır?",
           "o": [
             "A) Beyaz Liste ve Siyah Liste",
             "B) Kara Liste (Eylem Çağrısına Tabi) ve Gri Liste (Artırılmış İzleme)",
@@ -27100,10 +27100,10 @@ window.__C = {
             "D) Aktif Liste ve Pasif Liste"
           ],
           "a": 1,
-          "e": "FATF ülkeleri Kara Liste (Eylem Çağrısına Tabi) ve Gri Liste (Artırılmış İzleme) olarak sınıflandırır."
+          "e": "FATF (finansal eylem görev gücü) ülkeleri Kara Liste (Eylem Çağrısına Tabi) ve Gri Liste (Artırılmış İzleme) olarak sınıflandırır."
         },
         {
-          "q": "Türkiye FATF gri listesinden hangi yıl çıkmıştır?",
+          "q": "Türkiye FATF (finansal eylem görev gücü) gri listesinden hangi yıl çıkmıştır?",
           "o": [
             "A) 2021",
             "B) 2022",
@@ -27111,7 +27111,7 @@ window.__C = {
             "D) 2024"
           ],
           "a": 3,
-          "e": "Türkiye 2021-2024 yılları arasında FATF gri listesinde kaldı ve 2024'te listeden çıktı."
+          "e": "Türkiye 2021-2024 yılları arasında FATF (finansal eylem görev gücü) gri listesinde kaldı ve 2024'te listeden çıktı."
         },
         {
           "q": "EGMONT Grubu'nun amacı nedir?",
@@ -27127,13 +27127,13 @@ window.__C = {
         {
           "q": "MONEYVAL hangi kuruluşun bünyesinde faaliyet göstermektedir?",
           "o": [
-            "A) FATF",
+            "A) FATF (finansal eylem görev gücü)",
             "B) BM",
             "C) Avrupa Konseyi",
             "D) AB Komisyonu"
           ],
           "a": 2,
-          "e": "MONEYVAL, Avrupa Konseyi bünyesinde FATF üyesi olmayan Avrupa ülkelerini değerlendirmektedir."
+          "e": "MONEYVAL, Avrupa Konseyi bünyesinde FATF (finansal eylem görev gücü) üyesi olmayan Avrupa ülkelerini değerlendirmektedir."
         },
         {
           "q": "BM Güvenlik Konseyi'nin 1267 sayılı kararı hangi konuyla ilgilidir?",
@@ -27154,7 +27154,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Ulusal Risk Değerlendirmesi (URD) — İki Belge",
-        "body": "<ul><li>Türkiye'de <strong>2 ayrı URD belgesi</strong> hazırlanmaktadır:<ol style='margin:.4rem 0 0 1.2rem'><li><strong>SGA/TF URD</strong> — Suç Gelirlerinin Aklanması ve Terörizmin Finansmanı Ulusal Risk Değerlendirmesi.</li><li><strong>KİSYF URD</strong> — Kitle İmha Silahlarının Yayılmasının Finansmanı URD (2025'te özeti yayımlandı).</li></ol></li><li>Her iki URD de <strong>MASAK koordinasyonunda</strong> ilgili bakanlık ve kurumların katılımıyla hazırlanır.</li><li>Metodoloji: FATF Ulusal Risk Değerlendirmesi Rehberi esas alınır.</li></ul>"
+        "body": "<ul><li>Türkiye'de <strong>2 ayrı URD belgesi</strong> hazırlanmaktadır:<ol style='margin:.4rem 0 0 1.2rem'><li><strong>SGA/TF URD</strong> — Suç Gelirlerinin Aklanması ve Terörizmin Finansmanı Ulusal Risk Değerlendirmesi.</li><li><strong>KİSYF (kitle imha silahlarının yayılmasının finansmanı) URD</strong> — Kitle İmha Silahlarının Yayılmasının Finansmanı URD (2025'te özeti yayımlandı).</li></ol></li><li>Her iki URD de <strong>MASAK (mali suçları araştırma kurulu) koordinasyonunda</strong> ilgili bakanlık ve kurumların katılımıyla hazırlanır.</li><li>Metodoloji: FATF (finansal eylem görev gücü) Ulusal Risk Değerlendirmesi Rehberi esas alınır.</li></ul>"
       },
       {
         "num": "02",
@@ -27164,7 +27164,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Strateji Belgeleri",
-        "body": "<ul><li><strong>SGA/TF Strateji Belgesi 2021–2025:</strong> 2021/16 sayılı Cumhurbaşkanlığı Genelgesi ile yürürlüğe girdi. 5 stratejik amaç — MASAK koordinasyonunda uygulanır.</li><li><strong>KİSYF Strateji Belgesi 2025–2029:</strong> KİSYF mücadelesine yönelik 5 yıllık eylem planı.</li><li>Her strateji belgesi; yükümlülük uyumu, uluslararası iş birliği, farkındalık ve kapasite geliştirme eksenlerini kapsar.</li></ul>"
+        "body": "<ul><li><strong>SGA/TF Strateji Belgesi 2021–2025:</strong> 2021/16 sayılı Cumhurbaşkanlığı Genelgesi ile yürürlüğe girdi. 5 stratejik amaç — MASAK (mali suçları araştırma kurulu) koordinasyonunda uygulanır.</li><li><strong>KİSYF (kitle imha silahlarının yayılmasının finansmanı) Strateji Belgesi 2025–2029:</strong> KİSYF (kitle imha silahlarının yayılmasının finansmanı) mücadelesine yönelik 5 yıllık eylem planı.</li><li>Her strateji belgesi; yükümlülük uyumu, uluslararası iş birliği, farkındalık ve kapasite geliştirme eksenlerini kapsar.</li></ul>"
       }
     ],
     "tests": {
@@ -27178,7 +27178,7 @@ window.__C = {
             "D) 4"
           ],
           "a": 1,
-          "e": "Türkiye'de iki URD belgesi hazırlanmaktadır: SGA/TF URD ve KİSYF URD."
+          "e": "Türkiye'de iki URD belgesi hazırlanmaktadır: SGA/TF URD ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) URD."
         },
         {
           "q": "SGA/TF URD'de TF açısından en riskli terör örgütü hangisi olarak belirlenmiştir?",
@@ -27214,7 +27214,7 @@ window.__C = {
           "e": "SGA/TF Strateji Belgesi 2021–2025 yıllarını kapsar; 2021/16 sayılı Cumhurbaşkanlığı Genelgesi ile yürürlüğe girmiştir."
         },
         {
-          "q": "KİSYF Strateji Belgesi hangi yılları kapsamaktadır?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Strateji Belgesi hangi yılları kapsamaktadır?",
           "o": [
             "A) 2021–2025",
             "B) 2023–2027",
@@ -27222,18 +27222,18 @@ window.__C = {
             "D) 2025–2029"
           ],
           "a": 3,
-          "e": "KİSYF Strateji Belgesi 2025–2029 yıllarını kapsar ve KİSYF mücadelesine yönelik 5 yıllık eylem planını içerir."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Strateji Belgesi 2025–2029 yıllarını kapsar ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) mücadelesine yönelik 5 yıllık eylem planını içerir."
         },
         {
           "q": "Ulusal Risk Değerlendirmesi çalışmalarını hangi kurum koordine eder?",
           "o": [
             "A) Hazine ve Maliye Bakanlığı doğrudan",
-            "B) MASAK",
-            "C) BDDK",
+            "B) MASAK (mali suçları araştırma kurulu)",
+            "C) BDDK (bankacılık düzenleme ve denetleme kurumu)",
             "D) Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı"
           ],
           "a": 1,
-          "e": "URD çalışmaları MASAK koordinasyonunda, ilgili bakanlık ve kurumların katılımıyla yürütülür."
+          "e": "URD çalışmaları MASAK (mali suçları araştırma kurulu) koordinasyonunda, ilgili bakanlık ve kurumların katılımıyla yürütülür."
         },
         {
           "q": "KAGKler (Kar Amacı Gütmeyen Kuruluşlar) risk değerlendirmesinde neden özel kategori oluşturur?",
@@ -27244,15 +27244,15 @@ window.__C = {
             "D) Uluslararası bağlantıları olmadığı için"
           ],
           "a": 1,
-          "e": "KAGKler (dernekler, vakıflar) başta terörizmin finansmanı riski nedeniyle özel risk kategorisi oluşturur; FATF da bu alanda özel bir rehber yayımlamıştır."
+          "e": "KAGKler (dernekler, vakıflar) başta terörizmin finansmanı riski nedeniyle özel risk kategorisi oluşturur; FATF (finansal eylem görev gücü) da bu alanda özel bir rehber yayımlamıştır."
         },
         {
           "q": "SGA/TF Strateji Belgesi 2021–2025 hangi yasal düzenlemeyle yürürlüğe girmiştir?",
           "o": [
             "A) 5549 sayılı Kanun değişikliğiyle",
             "B) 2021/16 sayılı Cumhurbaşkanlığı Genelgesiyle",
-            "C) MASAK Başkanlığı kararıyla",
-            "D) BDDK yönetmeliğiyle"
+            "C) MASAK (mali suçları araştırma kurulu) Başkanlığı kararıyla",
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) yönetmeliğiyle"
           ],
           "a": 1,
           "e": "SGA/TF Strateji Belgesi, 2021/16 sayılı Cumhurbaşkanlığı Genelgesi ile yürürlüğe girmiştir."
@@ -27266,7 +27266,7 @@ window.__C = {
             "D) 4"
           ],
           "a": 1,
-          "e": "URD iki belgeden oluşur: SGA/TF URD ve KİSYF URD."
+          "e": "URD iki belgeden oluşur: SGA/TF URD ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) URD."
         },
         {
           "q": "Türkiye'nin SGA/TF Strateji Belgesi hangi dönemi kapsamaktadır?",
@@ -27280,7 +27280,7 @@ window.__C = {
           "e": "Türkiye'nin SGA/TF Strateji Belgesi 2021-2025 dönemini kapsamaktadır."
         },
         {
-          "q": "KİSYF Strateji Belgesi hangi dönemi kapsamaktadır?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Strateji Belgesi hangi dönemi kapsamaktadır?",
           "o": [
             "A) 2023-2027",
             "B) 2024-2028",
@@ -27288,7 +27288,7 @@ window.__C = {
             "D) 2026-2030"
           ],
           "a": 2,
-          "e": "KİSYF Strateji Belgesi 2025-2029 dönemini kapsamaktadır."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Strateji Belgesi 2025-2029 dönemini kapsamaktadır."
         },
         {
           "q": "URD'de terörizmin finansmanı açısından en riskli terör örgütü olarak hangi yapı belirlenmiştir?",
@@ -27305,12 +27305,12 @@ window.__C = {
           "q": "URD çalışmalarının temel amacı nedir?",
           "o": [
             "A) Vergi kayıplarını tespit etmek",
-            "B) Ülkedeki SGA, TF ve KİSYF risklerini değerlendirmek",
+            "B) Ülkedeki SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerini değerlendirmek",
             "C) Bankacılık sektörü denetim planı hazırlamak",
             "D) AB uyum sürecini yönetmek"
           ],
           "a": 1,
-          "e": "URD, ülkedeki SGA, TF ve KİSYF risklerini belirleyerek ulusal önlemlerin etkin biçimde yönlendirilmesini sağlar."
+          "e": "URD, ülkedeki SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerini belirleyerek ulusal önlemlerin etkin biçimde yönlendirilmesini sağlar."
         },
         {
           "q": "Risk bazlı yaklaşımda kuruluşların yapması gereken ilk adım nedir?",
@@ -27327,12 +27327,12 @@ window.__C = {
           "q": "Ulusal Risk Değerlendirmesi bulgularına göre en riskli 10 öncül suç ve sektörler belirlenmektedir. Bu çalışmanın koordinasyonunu kim üstlenmektedir?",
           "o": [
             "A) Türkiye Büyük Millet Meclisi",
-            "B) MASAK",
+            "B) MASAK (mali suçları araştırma kurulu)",
             "C) Hazine ve Maliye Bakanlığı Denetim Birimi",
             "D) Merkez Bankası"
           ],
           "a": 1,
-          "e": "URD çalışmalarının koordinasyonunu MASAK üstlenmektedir."
+          "e": "URD çalışmalarının koordinasyonunu MASAK (mali suçları araştırma kurulu) üstlenmektedir."
         },
         {
           "q": "SGA kısaltması neyi ifade eder?",
@@ -27343,10 +27343,10 @@ window.__C = {
             "D) Standart Görüntüleme Ağı"
           ],
           "a": 1,
-          "e": "SGA, Suç Gelirlerinin Aklanması anlamına gelmekte olup MASAK belgelerinde TF (Terörizmin Finansmanı) ile birlikte kullanılır."
+          "e": "SGA, Suç Gelirlerinin Aklanması anlamına gelmekte olup MASAK (mali suçları araştırma kurulu) belgelerinde TF (Terörizmin Finansmanı) ile birlikte kullanılır."
         },
         {
-          "q": "KİSYF kısaltması neyi ifade eder?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) kısaltması neyi ifade eder?",
           "o": [
             "A) Kamu İşletmeleri Sigorta Yönetim Fonu",
             "B) Kitle İmha Silahlarının Yayılmasının Finansmanı",
@@ -27354,7 +27354,7 @@ window.__C = {
             "D) Kripto İşlem Sınıflandırma Yönetim Formu"
           ],
           "a": 1,
-          "e": "KİSYF, Kitle İmha Silahlarının Yayılmasının Finansmanı anlamına gelmektedir."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı), Kitle İmha Silahlarının Yayılmasının Finansmanı anlamına gelmektedir."
         },
         {
           "q": "Risk bazlı yaklaşım (RBA) ne anlama gelmektedir?",
@@ -27379,15 +27379,15 @@ window.__C = {
           "e": "URD sonuçları ulusal strateji belgelerine ve eylem planlarına temel oluşturur."
         },
         {
-          "q": "Türkiye'nin FATF değerlendirmelerinde kullanılan teknik uyum ve etkinlik kriterlerini belirleyen temel belge hangisidir?",
+          "q": "Türkiye'nin FATF (finansal eylem görev gücü) değerlendirmelerinde kullanılan teknik uyum ve etkinlik kriterlerini belirleyen temel belge hangisidir?",
           "o": [
             "A) EGMONT Kılavuzu",
-            "B) FATF 40 Tavsiyesi",
+            "B) FATF (finansal eylem görev gücü) 40 Tavsiyesi",
             "C) BM 1373 Kararı",
             "D) AB 5. Kara Para Direktifi"
           ],
           "a": 1,
-          "e": "FATF değerlendirmeleri 40 Tavsiye çerçevesinde teknik uyum ve etkinlik kriterleri temel alınarak yapılır."
+          "e": "FATF (finansal eylem görev gücü) değerlendirmeleri 40 Tavsiye çerçevesinde teknik uyum ve etkinlik kriterleri temel alınarak yapılır."
         }
       ]
     }
@@ -27412,7 +27412,7 @@ window.__C = {
       {
         "num": "04",
         "title": "TCK md.282 — Aklama Suçu ve El Koyma",
-        "body": "<ul><li><strong>TCK md.282 temel ceza:</strong> 3–7 yıl hapis + adli para cezası.</li><li><strong>Ağırlaştırıcı sebepler:</strong> Kamu görevlisi veya meslek sahibi tarafından işlenmesi; suç örgütü kapsamında işlenmesi.</li><li><strong>Önemli not:</strong> Öncül suçun faili de aklama suçundan sorumlu tutulabilir (fail öncül suçu da işlemiş olsa bile aklama suçu oluşur).</li><li><strong>El koyma (FATF R.4):</strong> Mahkûmiyete dayalı müsadere + mahkûmiyete dayanmayan müsadere; TCK ve CMK çerçevesinde.</li><li><strong>5549 sayılı Kanun:</strong> 2006 yılında yürürlüğe girdi; suç geliri kavramını genişletti.</li></ul>"
+        "body": "<ul><li><strong>TCK md.282 temel ceza:</strong> 3–7 yıl hapis + adli para cezası.</li><li><strong>Ağırlaştırıcı sebepler:</strong> Kamu görevlisi veya meslek sahibi tarafından işlenmesi; suç örgütü kapsamında işlenmesi.</li><li><strong>Önemli not:</strong> Öncül suçun faili de aklama suçundan sorumlu tutulabilir (fail öncül suçu da işlemiş olsa bile aklama suçu oluşur).</li><li><strong>El koyma (FATF (finansal eylem görev gücü) R.4):</strong> Mahkûmiyete dayalı müsadere + mahkûmiyete dayanmayan müsadere; TCK ve CMK çerçevesinde.</li><li><strong>5549 sayılı Kanun:</strong> 2006 yılında yürürlüğe girdi; suç geliri kavramını genişletti.</li></ul>"
       }
     ],
     "tests": {
@@ -27423,7 +27423,7 @@ window.__C = {
             "A) İsviçre bankacılık gizliliğinden",
             "B) 1930'lar ABD mafyasının çamaşırhane işletmelerinden",
             "C) 1988 Viyana Sözleşmesi'nden",
-            "D) FATF'ın terminoloji çalışmasından"
+            "D) FATF (finansal eylem görev gücü)'ın terminoloji çalışmasından"
           ],
           "a": 1,
           "e": "1930'lar ABD'sinde Al Capone gibi mafya liderleri, yasadışı gelirlerini çamaşırhane gibi nakit yoğun işletmelere karıştırarak meşrulaştırdı. Bu uygulamadan 'money laundering' terimi doğdu."
@@ -27509,7 +27509,7 @@ window.__C = {
           "q": "5549 sayılı Kanun'a göre aklama suçunun oluşması için öncül suçun ne olması gerekir?",
           "o": [
             "A) Yalnızca uyuşturucu suçları olmalıdır",
-            "B) FATF'ın belirlediği listede yer alan suçlardan biri olmalıdır",
+            "B) FATF (finansal eylem görev gücü)'ın belirlediği listede yer alan suçlardan biri olmalıdır",
             "C) Belirli bir suç listesiyle sınırlı değildir; her türlü suç geliri kapsamdadır",
             "D) Terör suçu olması şarttır"
           ],
@@ -27517,15 +27517,15 @@ window.__C = {
           "e": "5549 sayılı Kanun kapsamında öncül suç belirli bir listeyle sınırlı değildir; her türlü suçtan elde edilen gelir 'suç geliri' sayılır."
         },
         {
-          "q": "FATF Tavsiye 4 hangi konuyu düzenler?",
+          "q": "FATF (finansal eylem görev gücü) Tavsiye 4 hangi konuyu düzenler?",
           "o": [
-            "A) Müşterinin tanınması (KYC)",
+            "A) Müşterinin tanınması (KYC (müşteri tanıma))",
             "B) Şüpheli işlem bildirimi",
             "C) Müsadere ve geçici tedbirler",
             "D) Mali istihbarat birimleri"
           ],
           "a": 2,
-          "e": "FATF R.4: Suç gelirlerinin müsaderesi ve geçici tedbirler (el koyma, dondurma). Mahkûmiyete dayalı ve mahkûmiyete dayanmayan (non-conviction based) müsadere dahildir."
+          "e": "FATF (finansal eylem görev gücü) R.4: Suç gelirlerinin müsaderesi ve geçici tedbirler (el koyma, dondurma). Mahkûmiyete dayalı ve mahkûmiyete dayanmayan (non-conviction based) müsadere dahildir."
         },
         {
           "q": "Aşağıdaki aklama yöntemlerinden hangisi 'katmanlaştırma' aşamasıyla en çok ilişkilendirilir?",
@@ -27655,7 +27655,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Malvarlığının Dondurulması — 6415 Sayılı Kanun",
-        "body": "<ul><li><strong>Dondurma yöntemleri (3 tür):</strong><ol style='margin:.4rem 0 0 1.2rem'><li><strong>BMGK kararları çerçevesinde:</strong> Otomatik; gecikmeksizin ve önceden haber vermeksizin uygulanır.</li><li><strong>Yabancı devlet talebi:</strong> Mütekabiliyet ilkesiyle; Değerlendirme Komisyonu değerlendirir.</li><li><strong>İç dondurma:</strong> Mahkûmiyet kararı veya Değerlendirme Komisyonu + Hazine ve Maliye Bakanı + İçişleri Bakanı → Ankara Ağır Ceza Mahkemesi onayı.</li></ol></li><li><strong>Bildirim:</strong> Dondurulan malvarlığı <strong>7 gün</strong> içinde MASAK'a bildirilir.</li><li><strong>İzin verilebilir işlemler:</strong> Temel ihtiyaçlar (gıda, kira, ilaç) ve hukuki hizmetler — üst düzey yetkilinin onayıyla.</li></ul>"
+        "body": "<ul><li><strong>Dondurma yöntemleri (3 tür):</strong><ol style='margin:.4rem 0 0 1.2rem'><li><strong>BMGK kararları çerçevesinde:</strong> Otomatik; gecikmeksizin ve önceden haber vermeksizin uygulanır.</li><li><strong>Yabancı devlet talebi:</strong> Mütekabiliyet ilkesiyle; Değerlendirme Komisyonu değerlendirir.</li><li><strong>İç dondurma:</strong> Mahkûmiyet kararı veya Değerlendirme Komisyonu + Hazine ve Maliye Bakanı + İçişleri Bakanı → Ankara Ağır Ceza Mahkemesi onayı.</li></ol></li><li><strong>Bildirim:</strong> Dondurulan malvarlığı <strong>7 gün</strong> içinde MASAK (mali suçları araştırma kurulu)'a bildirilir.</li><li><strong>İzin verilebilir işlemler:</strong> Temel ihtiyaçlar (gıda, kira, ilaç) ve hukuki hizmetler — üst düzey yetkilinin onayıyla.</li></ul>"
       },
       {
         "num": "04",
@@ -27674,7 +27674,7 @@ window.__C = {
             "D) 7262 sayılı Kanun"
           ],
           "a": 2,
-          "e": "6415 sayılı 'Terörizmin Finansmanının Önlenmesi Hakkında Kanun', TF suçunu ve malvarlığı dondurma mekanizmasını düzenler. 5549: AML; 7262: KAGKler ve KİSYF."
+          "e": "6415 sayılı 'Terörizmin Finansmanının Önlenmesi Hakkında Kanun', TF suçunu ve malvarlığı dondurma mekanizmasını düzenler. 5549: AML; 7262: KAGKler ve KİSYF (kitle imha silahlarının yayılmasının finansmanı)."
         },
         {
           "q": "TF suçunun cezası nedir?",
@@ -27704,13 +27704,13 @@ window.__C = {
             "A) Ankara Ağır Ceza Mahkemesi onayı alınarak",
             "B) Gecikmeksizin ve önceden haber vermeksizin otomatik olarak",
             "C) Değerlendirme Komisyonu kararıyla",
-            "D) MASAK Başkanı kararıyla"
+            "D) MASAK (mali suçları araştırma kurulu) Başkanı kararıyla"
           ],
           "a": 1,
           "e": "BMGK listelerindeki kişiler için dondurma 'gecikmeksizin ve önceden haber vermeksizin' otomatik olarak uygulanır. İç dondurma ise Mahkeme onayı gerektirir."
         },
         {
-          "q": "Dondurulan malvarlığının MASAK'a bildirim süresi nedir?",
+          "q": "Dondurulan malvarlığının MASAK (mali suçları araştırma kurulu)'a bildirim süresi nedir?",
           "o": [
             "A) 3 gün",
             "B) 5 gün",
@@ -27718,7 +27718,7 @@ window.__C = {
             "D) 15 gün"
           ],
           "a": 2,
-          "e": "Dondurulan malvarlığı, dondurma kararından itibaren 7 gün içinde MASAK'a bildirilmesi zorunludur."
+          "e": "Dondurulan malvarlığı, dondurma kararından itibaren 7 gün içinde MASAK (mali suçları araştırma kurulu)'a bildirilmesi zorunludur."
         },
         {
           "q": "İç dondurma kararının yargısal onayı hangi mahkemeden alınır?",
@@ -27773,7 +27773,7 @@ window.__C = {
             "D) Yalnızca siyasi partiler risk oluşturur"
           ],
           "a": 2,
-          "e": "KAGKler, bağış toplama özelliği ve kamusal denetimden görece uzak yapıları nedeniyle TF için yasal görünümlü bir finansman kanalı olarak risk taşır. FATF bu konuda özel rehber yayımlamıştır."
+          "e": "KAGKler, bağış toplama özelliği ve kamusal denetimden görece uzak yapıları nedeniyle TF için yasal görünümlü bir finansman kanalı olarak risk taşır. FATF (finansal eylem görev gücü) bu konuda özel rehber yayımlamıştır."
         },
         {
           "q": "BMGK 1267 kararı hangi örgütleri kapsar?",
@@ -27835,7 +27835,7 @@ window.__C = {
           "o": [
             "A) Yalnızca mahkeme kararıyla",
             "B) BMGK kararları çerçevesinde, yabancı devlet talebi veya iç dondurma işlemleriyle",
-            "C) Yalnızca MASAK'ın idari kararıyla",
+            "C) Yalnızca MASAK (mali suçları araştırma kurulu)'ın idari kararıyla",
             "D) Yalnızca Cumhurbaşkanlığı kararnamesiyle"
           ],
           "a": 1,
@@ -27892,8 +27892,8 @@ window.__C = {
     "summary": [
       {
         "num": "01",
-        "title": "KİSYF Genel — FATF Tavsiye 7",
-        "body": "<ul><li><strong>KİSYF:</strong> Kitle İmha Silahlarının Yayılmasının Finansmanı — nükleer, biyolojik, kimyasal ve radyolojik (KBRN) silah programlarına finansman sağlanması.</li><li><strong>FATF Tavsiye 7:</strong> BMGK kararları çerçevesinde listelenen kişi/kuruluşların malvarlıkları <strong>gecikmeksizin</strong> dondurulur.</li><li><strong>Kapsam:</strong> Doğrudan ve dolaylı mülkiyet + kontrol dahil.</li><li><strong>TF yaptırımlarından bağımsız:</strong> KİSYF yükümlülükleri TF yaptırımlarından ayrı değerlendirilir.</li><li><strong>Türkiye:</strong> 7262 sayılı Kanun ile KAGKler dahil KİSYF önlemleri düzenlendi.</li></ul>"
+        "title": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Genel — FATF (finansal eylem görev gücü) Tavsiye 7",
+        "body": "<ul><li><strong>KİSYF (kitle imha silahlarının yayılmasının finansmanı):</strong> Kitle İmha Silahlarının Yayılmasının Finansmanı — nükleer, biyolojik, kimyasal ve radyolojik (KBRN) silah programlarına finansman sağlanması.</li><li><strong>FATF (finansal eylem görev gücü) Tavsiye 7:</strong> BMGK kararları çerçevesinde listelenen kişi/kuruluşların malvarlıkları <strong>gecikmeksizin</strong> dondurulur.</li><li><strong>Kapsam:</strong> Doğrudan ve dolaylı mülkiyet + kontrol dahil.</li><li><strong>TF yaptırımlarından bağımsız:</strong> KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülükleri TF yaptırımlarından ayrı değerlendirilir.</li><li><strong>Türkiye:</strong> 7262 sayılı Kanun ile KAGKler dahil KİSYF (kitle imha silahlarının yayılmasının finansmanı) önlemleri düzenlendi.</li></ul>"
       },
       {
         "num": "02",
@@ -27909,7 +27909,7 @@ window.__C = {
     "tests": {
       "t1": [
         {
-          "q": "KİSYF'yi ele alan FATF Tavsiyesi hangisidir?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı)'yi ele alan FATF (finansal eylem görev gücü) Tavsiyesi hangisidir?",
           "o": [
             "A) Tavsiye 3",
             "B) Tavsiye 5",
@@ -27917,21 +27917,21 @@ window.__C = {
             "D) Tavsiye 7"
           ],
           "a": 3,
-          "e": "FATF Tavsiye 7: KİSYF kapsamında BMGK kararlarıyla listelenen kişi/kuruluşların malvarlıklarının gecikmeksizin dondurulması. R.6: TF hedeflenen mali yaptırımlar."
+          "e": "FATF (finansal eylem görev gücü) Tavsiye 7: KİSYF (kitle imha silahlarının yayılmasının finansmanı) kapsamında BMGK kararlarıyla listelenen kişi/kuruluşların malvarlıklarının gecikmeksizin dondurulması. R.6: TF hedeflenen mali yaptırımlar."
         },
         {
-          "q": "FATF R.7 kapsamında malvarlığı dondurma ne zaman uygulanır?",
+          "q": "FATF (finansal eylem görev gücü) R.7 kapsamında malvarlığı dondurma ne zaman uygulanır?",
           "o": [
             "A) Mahkeme kararı alındıktan sonra",
             "B) Gecikmeksizin; BMGK kararlarıyla listelenen kişiler için otomatik olarak",
             "C) Değerlendirme Komisyonu onayından sonra",
-            "D) MASAK incelemesi tamamlandıktan sonra"
+            "D) MASAK (mali suçları araştırma kurulu) incelemesi tamamlandıktan sonra"
           ],
           "a": 1,
           "e": "R.7 kapsamında dondurma 'gecikmeksizin' uygulanır — mahkeme kararı veya ön inceleme beklenmez."
         },
         {
-          "q": "KİSYF kapsamındaki dondurma yükümlülüğü hangi mülkiyeti kapsar?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) kapsamındaki dondurma yükümlülüğü hangi mülkiyeti kapsar?",
           "o": [
             "A) Yalnızca doğrudan mülkiyet",
             "B) Yalnızca nakdi varlıklar",
@@ -27939,7 +27939,7 @@ window.__C = {
             "D) Yalnızca banka hesapları"
           ],
           "a": 2,
-          "e": "KİSYF dondurması doğrudan mülkiyet + dolaylı mülkiyet + kontrol ilişkisi içinde olan tüm varlıkları kapsar."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) dondurması doğrudan mülkiyet + dolaylı mülkiyet + kontrol ilişkisi içinde olan tüm varlıkları kapsar."
         },
         {
           "q": "Kuzey Kore'ye yönelik kapsamlı yaptırımları başlatan BMGK kararı hangisidir?",
@@ -27975,29 +27975,29 @@ window.__C = {
           "e": "BMGK 2231 (2015): JCPOA (İran Nükleer Anlaşması / KOEP) çerçevesinde bazı yaptırımlar yumuşatıldı ve denetim mekanizması kuruldu."
         },
         {
-          "q": "KİSYF yükümlülükleri TF yükümlülükleriyle aynı rejim altında mı değerlendirilir?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülükleri TF yükümlülükleriyle aynı rejim altında mı değerlendirilir?",
           "o": [
             "A) Evet, ikisi tamamen aynı yükümlülük rejimidir",
-            "B) Hayır, KİSYF yükümlülükleri TF yükümlülüklerinden bağımsız değerlendirilir",
+            "B) Hayır, KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülükleri TF yükümlülüklerinden bağımsız değerlendirilir",
             "C) Evet, 6415 sayılı Kanun her ikisini de eşit biçimde kapsar",
-            "D) KİSYF yalnızca bankacılık sektörüne özgüdür"
+            "D) KİSYF (kitle imha silahlarının yayılmasının finansmanı) yalnızca bankacılık sektörüne özgüdür"
           ],
           "a": 1,
-          "e": "KİSYF yükümlülükleri TF yaptırımlarından bağımsız olarak değerlendirilir; FATF da bu iki rejimi ayrı tavsiyeler (R.6 ve R.7) ile düzenlemiştir."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülükleri TF yaptırımlarından bağımsız olarak değerlendirilir; FATF (finansal eylem görev gücü) da bu iki rejimi ayrı tavsiyeler (R.6 ve R.7) ile düzenlemiştir."
         },
         {
-          "q": "7262 sayılı Kanun'un KİSYF açısından önemi nedir?",
+          "q": "7262 sayılı Kanun'un KİSYF (kitle imha silahlarının yayılmasının finansmanı) açısından önemi nedir?",
           "o": [
-            "A) MASAK'ı kuran kanundur",
-            "B) KAGKler dahil KİSYF önlemlerini Türk hukukuna entegre etmiştir",
-            "C) Kripto varlıkları SPK denetimine alan kanundur",
+            "A) MASAK (mali suçları araştırma kurulu)'ı kuran kanundur",
+            "B) KAGKler dahil KİSYF (kitle imha silahlarının yayılmasının finansmanı) önlemlerini Türk hukukuna entegre etmiştir",
+            "C) Kripto varlıkları SPK (sermaye piyasası kurulu) denetimine alan kanundur",
             "D) TF suçunun cezasını belirler"
           ],
           "a": 1,
-          "e": "7262 sayılı Kanun (2021), KAGKlere yönelik ek yükümlülükler ve KİSYF kapsamındaki önlemleri Türk hukukuna entegre etmiştir."
+          "e": "7262 sayılı Kanun (2021), KAGKlere yönelik ek yükümlülükler ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) kapsamındaki önlemleri Türk hukukuna entegre etmiştir."
         },
         {
-          "q": "FATF'ın Tavsiye 7'si neyi öngörmektedir?",
+          "q": "FATF (finansal eylem görev gücü)'ın Tavsiye 7'si neyi öngörmektedir?",
           "o": [
             "A) Şüpheli işlemlerin 30 gün içinde bildirilmesi",
             "B) BMGK kararları çerçevesinde gecikmeksizin malvarlığı dondurulması",
@@ -28005,10 +28005,10 @@ window.__C = {
             "D) Müşteri durum tespitinin yıllık güncellenmesi"
           ],
           "a": 1,
-          "e": "FATF Tavsiye 7, BMGK kararlarına dayanarak KİSYF ile bağlantılı malvarlıklarının gecikmeksizin dondurulmasını öngörür."
+          "e": "FATF (finansal eylem görev gücü) Tavsiye 7, BMGK kararlarına dayanarak KİSYF (kitle imha silahlarının yayılmasının finansmanı) ile bağlantılı malvarlıklarının gecikmeksizin dondurulmasını öngörür."
         },
         {
-          "q": "KİSYF yükümlülükleri hangi diğer yaptırım rejiminden bağımsız değerlendirilir?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülükleri hangi diğer yaptırım rejiminden bağımsız değerlendirilir?",
           "o": [
             "A) Kara para aklama önlemleri",
             "B) Vergi yaptırımları",
@@ -28016,7 +28016,7 @@ window.__C = {
             "D) Gümrük yaptırımları"
           ],
           "a": 2,
-          "e": "KİSYF yükümlülükleri, terörizm finansmanı yaptırımlarından bağımsız olarak ayrıca değerlendirilir."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülükleri, terörizm finansmanı yaptırımlarından bağımsız olarak ayrıca değerlendirilir."
         },
         {
           "q": "Kuzey Kore'ye yönelik BM yaptırımları hangi karar numarasına dayanmaktadır?",
@@ -28038,7 +28038,7 @@ window.__C = {
             "D) Kayıt İçi Standartlar"
           ],
           "a": 1,
-          "e": "KİS, Kitle İmha Silahları anlamına gelmekte olup bu silahların yayılmasının finansmanı (KİSYF) ayrı bir risk kategorisidir."
+          "e": "KİS, Kitle İmha Silahları anlamına gelmekte olup bu silahların yayılmasının finansmanı (KİSYF (kitle imha silahlarının yayılmasının finansmanı)) ayrı bir risk kategorisidir."
         },
         {
           "q": "İran'a yönelik uluslararası yaptırımlar kapsamında hangi alanda kısıtlamalar getirilmiştir?",
@@ -28052,18 +28052,18 @@ window.__C = {
           "e": "İran'a yönelik yaptırımlar başta nükleer ve balistik füze programlarıyla bağlantılı teknoloji transferleri üzerinde kısıtlamalar içermektedir."
         },
         {
-          "q": "Yükümlülerin KİSYF açısından en önemli önlemi nedir?",
+          "q": "Yükümlülerin KİSYF (kitle imha silahlarının yayılmasının finansmanı) açısından en önemli önlemi nedir?",
           "o": [
             "A) Tüm işlemleri dondurma",
             "B) Uluslararası yaptırım listelerini tarayarak eşleşme durumunda yetkililere bildirme",
             "C) Yabancı müşterilerle işlem yapmama",
-            "D) MASAK'tan önceden izin alma"
+            "D) MASAK (mali suçları araştırma kurulu)'tan önceden izin alma"
           ],
           "a": 1,
-          "e": "KİSYF önlemleri kapsamında yükümlüler, uluslararası yaptırım listelerini taramalı; eşleşme varsa malvarlığını dondurarak yetkili makamlara bildirmelidir."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) önlemleri kapsamında yükümlüler, uluslararası yaptırım listelerini taramalı; eşleşme varsa malvarlığını dondurarak yetkili makamlara bildirmelidir."
         },
         {
-          "q": "KİSYF bağlamında 'gecikmeksizin dondurma' ifadesi ne anlama gelir?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) bağlamında 'gecikmeksizin dondurma' ifadesi ne anlama gelir?",
           "o": [
             "A) 7 iş günü içinde",
             "B) 30 gün içinde",
@@ -28074,7 +28074,7 @@ window.__C = {
           "e": "'Gecikmeksizin' ifadesi, herhangi bir idari ya da yargısal süreç beklenmeksizin anında dondurma yapılmasını gerektirir."
         },
         {
-          "q": "Aşağıdakilerden hangisi KİSYF kapsamında ele alınan bir risk değildir?",
+          "q": "Aşağıdakilerden hangisi KİSYF (kitle imha silahlarının yayılmasının finansmanı) kapsamında ele alınan bir risk değildir?",
           "o": [
             "A) Çift kullanımlı malların ihracatı",
             "B) Nükleer madde transferi",
@@ -28082,7 +28082,7 @@ window.__C = {
             "D) Turizm amaçlı döviz alımları"
           ],
           "a": 3,
-          "e": "Turizm amaçlı döviz alımları KİSYF kapsamında bir risk teşkil etmez; asıl riskler çift kullanımlı mallar, nükleer/biyolojik silah finansmanı gibi konulardır."
+          "e": "Turizm amaçlı döviz alımları KİSYF (kitle imha silahlarının yayılmasının finansmanı) kapsamında bir risk teşkil etmez; asıl riskler çift kullanımlı mallar, nükleer/biyolojik silah finansmanı gibi konulardır."
         },
         {
           "q": "BMGK 1718 sayılı kararı hangi ülkeyle ilgilidir?",
@@ -28096,18 +28096,18 @@ window.__C = {
           "e": "BMGK 1718 sayılı kararı Kuzey Kore'nin nükleer ve balistik füze programları nedeniyle ülkeye uygulanan yaptırımları düzenler."
         },
         {
-          "q": "KİSYF riski değerlendirmesinde finans kuruluşları hangi listeyi taramalıdır?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) riski değerlendirmesinde finans kuruluşları hangi listeyi taramalıdır?",
           "o": [
-            "A) FATF gri listesi",
+            "A) FATF (finansal eylem görev gücü) gri listesi",
             "B) Ulusal Suç Kayıt Bürosu listesi",
             "C) BM ve diğer uluslararası yaptırım listeleri",
             "D) Vergi daireleri borçlular listesi"
           ],
           "a": 2,
-          "e": "KİSYF önlemleri kapsamında finans kuruluşları BM ve diğer uluslararası yaptırım listelerini düzenli olarak taramalıdır."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) önlemleri kapsamında finans kuruluşları BM ve diğer uluslararası yaptırım listelerini düzenli olarak taramalıdır."
         },
         {
-          "q": "Silahların yayılmasının finansmanı (KİSYF) suçu Türk hukukunda hangi kanunla düzenlenmektedir?",
+          "q": "Silahların yayılmasının finansmanı (KİSYF (kitle imha silahlarının yayılmasının finansmanı)) suçu Türk hukukunda hangi kanunla düzenlenmektedir?",
           "o": [
             "A) 5549 sayılı Kanun",
             "B) 6415 sayılı Kanun",
@@ -28115,10 +28115,10 @@ window.__C = {
             "D) 4208 sayılı Kanun"
           ],
           "a": 2,
-          "e": "7262 sayılı Kitle İmha Silahlarının Yayılmasının Finansmanının Önlenmesine İlişkin Kanun, KİSYF suçunu ve yaptırım mekanizmalarını düzenlemektedir."
+          "e": "7262 sayılı Kitle İmha Silahlarının Yayılmasının Finansmanının Önlenmesine İlişkin Kanun, KİSYF (kitle imha silahlarının yayılmasının finansmanı) suçunu ve yaptırım mekanizmalarını düzenlemektedir."
         },
         {
-          "q": "Çift kullanımlı mal (dual-use goods) kavramı KİSYF bağlamında ne anlama gelir?",
+          "q": "Çift kullanımlı mal (dual-use goods) kavramı KİSYF (kitle imha silahlarının yayılmasının finansmanı) bağlamında ne anlama gelir?",
           "o": [
             "A) Hem Türk hem yabancı üreticilerden alınan mallar",
             "B) Hem sivil hem askeri/silah programlarında kullanılabilen ürün ve teknolojiler",
@@ -28135,23 +28135,23 @@ window.__C = {
     "summary": [
       {
         "num": "01",
-        "title": "ŞİB Tanımı ve Şüphe Standardı",
-        "body": "<ul><li><strong>Şüpheli işlem:</strong> Yükümlüler nezdinde veya bunlar aracılığıyla yapılan/yapılmaya teşebbüs edilen işleme konu malvarlığının yasa dışı yollardan elde edildiğine veya yasa dışı amaçlarla kullanıldığına dair <strong>herhangi bir bilgi, şüphe veya şüpheyi gerektirecek husus</strong> bulunması hali.</li><li><strong>Kritik:</strong> Kesin bilgi gerekmez; <strong>şüphe yeterlidir</strong>. Bu standart ceza muhakemesindeki şüphe kavramından farklıdır.</li><li><strong>Kapsam:</strong> Tamamlanan işlemler + teşebbüs edilen işlemler.</li><li><strong>FATF Tavsiye 20:</strong> Şüpheli işlem derhal MİB'e bildirilmeli; bildirimden önce MİB onayı gerekmez.</li></ul>"
+        "title": "ŞİB (şüpheli işlem bildirimi) Tanımı ve Şüphe Standardı",
+        "body": "<ul><li><strong>Şüpheli işlem:</strong> Yükümlüler nezdinde veya bunlar aracılığıyla yapılan/yapılmaya teşebbüs edilen işleme konu malvarlığının yasa dışı yollardan elde edildiğine veya yasa dışı amaçlarla kullanıldığına dair <strong>herhangi bir bilgi, şüphe veya şüpheyi gerektirecek husus</strong> bulunması hali.</li><li><strong>Kritik:</strong> Kesin bilgi gerekmez; <strong>şüphe yeterlidir</strong>. Bu standart ceza muhakemesindeki şüphe kavramından farklıdır.</li><li><strong>Kapsam:</strong> Tamamlanan işlemler + teşebbüs edilen işlemler.</li><li><strong>FATF (finansal eylem görev gücü) Tavsiye 20:</strong> Şüpheli işlem derhal MİB'e bildirilmeli; bildirimden önce MİB onayı gerekmez.</li></ul>"
       },
       {
         "num": "02",
         "title": "İhbar Riski (Tipping-off) ve Gizlilik",
-        "body": "<ul><li><strong>İhbar yasağı (Tipping-off):</strong> Yükümlü, müşteriye ya da ilgili üçüncü kişiye ŞİB yapıldığını bildirmemelidir.</li><li><strong>13 No'lu MASAK Tebliği:</strong> Müşterinin şüphelenmesine yol açacak tutum ve davranışlardan kaçınılır.</li><li><strong>KYC sürecinde istisna:</strong> Müşterinin tanınması süreci ihbara yol açacaksa bu süreç geçici olarak uygulanmayabilir.</li><li><strong>Gizlilik:</strong> ŞİB bilgileri yalnızca MASAK ile paylaşılır; üçüncü taraflara aktarılamaz.</li></ul>"
+        "body": "<ul><li><strong>İhbar yasağı (Tipping-off):</strong> Yükümlü, müşteriye ya da ilgili üçüncü kişiye ŞİB (şüpheli işlem bildirimi) yapıldığını bildirmemelidir.</li><li><strong>13 No'lu MASAK (mali suçları araştırma kurulu) Tebliği:</strong> Müşterinin şüphelenmesine yol açacak tutum ve davranışlardan kaçınılır.</li><li><strong>KYC (müşteri tanıma) sürecinde istisna:</strong> Müşterinin tanınması süreci ihbara yol açacaksa bu süreç geçici olarak uygulanmayabilir.</li><li><strong>Gizlilik:</strong> ŞİB (şüpheli işlem bildirimi) bilgileri yalnızca MASAK (mali suçları araştırma kurulu) ile paylaşılır; üçüncü taraflara aktarılamaz.</li></ul>"
       },
       {
         "num": "03",
-        "title": "ŞİB Gönderme Usulü",
-        "body": "<ul><li><strong>Sistem:</strong> MOBESAS (MASAK'ın elektronik bildirim sistemi) üzerinden gönderilir.</li><li><strong>Hukuki koruma:</strong> İyi niyetle ŞİB yapan yükümlüler ve çalışanları hukuki ve cezai sorumluluktan korunur.</li><li><strong>ŞİB türleri:</strong><ul style='margin:.3rem 0 0 1rem'><li>Standart ŞİB</li><li>İşlem ertelemeli ŞİB (5549 md.19/A kapsamında)</li></ul></li><li><strong>Geri bildirim:</strong> MASAK, yükümlülere ŞİB'lerin akıbeti hakkında <strong>genel ve özel geri bildirim</strong> sağlar.</li></ul>"
+        "title": "ŞİB (şüpheli işlem bildirimi) Gönderme Usulü",
+        "body": "<ul><li><strong>Sistem:</strong> MOBESAS (MASAK (mali suçları araştırma kurulu)'ın elektronik bildirim sistemi) üzerinden gönderilir.</li><li><strong>Hukuki koruma:</strong> İyi niyetle ŞİB (şüpheli işlem bildirimi) yapan yükümlüler ve çalışanları hukuki ve cezai sorumluluktan korunur.</li><li><strong>ŞİB (şüpheli işlem bildirimi) türleri:</strong><ul style='margin:.3rem 0 0 1rem'><li>Standart ŞİB (şüpheli işlem bildirimi)</li><li>İşlem ertelemeli ŞİB (5549 md.19/A kapsamında)</li></ul></li><li><strong>Geri bildirim:</strong> MASAK (mali suçları araştırma kurulu), yükümlülere ŞİB (şüpheli işlem bildirimi)'lerin akıbeti hakkında <strong>genel ve özel geri bildirim</strong> sağlar.</li></ul>"
       },
       {
         "num": "04",
-        "title": "ŞİB Kriterleri ve Tipolojiler",
-        "body": "<ul><li><strong>Olağandışı işlem göstergeleri:</strong> İşlem tutarının müşteri profiliyle uyumsuzluğu, nakit yoğunluğu, coğrafi uyumsuzluk, açıklanamayan kaynak.</li><li><strong>Aklama tipolojileri:</strong> Smurfing, offshore transfer, paravan şirket işlemleri, gayrimenkul alımı.</li><li><strong>TF tipolojileri:</strong> Küçük tutarlı düzenli transferler, KAGKler üzerinden fon akışı, yüksek riskli ülkelere transfer.</li><li><strong>KİSYF tipolojileri:</strong> İkili kullanım ürünü alımı için nakit ödeme, yaptırımlı ülkelere transfer.</li></ul>"
+        "title": "ŞİB (şüpheli işlem bildirimi) Kriterleri ve Tipolojiler",
+        "body": "<ul><li><strong>Olağandışı işlem göstergeleri:</strong> İşlem tutarının müşteri profiliyle uyumsuzluğu, nakit yoğunluğu, coğrafi uyumsuzluk, açıklanamayan kaynak.</li><li><strong>Aklama tipolojileri:</strong> Smurfing, offshore transfer, paravan şirket işlemleri, gayrimenkul alımı.</li><li><strong>TF tipolojileri:</strong> Küçük tutarlı düzenli transferler, KAGKler üzerinden fon akışı, yüksek riskli ülkelere transfer.</li><li><strong>KİSYF (kitle imha silahlarının yayılmasının finansmanı) tipolojileri:</strong> İkili kullanım ürünü alımı için nakit ödeme, yaptırımlı ülkelere transfer.</li></ul>"
       }
     ],
     "tests": {
@@ -28162,24 +28162,24 @@ window.__C = {
             "A) Suçun kesin olarak işlendiğine dair bilgi",
             "B) Savcılık kararı",
             "C) Bilgi, şüphe veya şüpheyi gerektirecek husus bulunması",
-            "D) MASAK'ın önceden onayı"
+            "D) MASAK (mali suçları araştırma kurulu)'ın önceden onayı"
           ],
           "a": 2,
-          "e": "ŞİB için kesin bilgi gerekmez; 'bilgi, şüphe veya şüpheyi gerektirecek husus' yeterlidir. Bu standart ceza muhakemesindeki şüphe standardından farklı ve daha düşüktür."
+          "e": "ŞİB (şüpheli işlem bildirimi) için kesin bilgi gerekmez; 'bilgi, şüphe veya şüpheyi gerektirecek husus' yeterlidir. Bu standart ceza muhakemesindeki şüphe standardından farklı ve daha düşüktür."
         },
         {
-          "q": "FATF Tavsiye 20'ye göre şüpheli işlem bildirimi ne zaman yapılmalıdır?",
+          "q": "FATF (finansal eylem görev gücü) Tavsiye 20'ye göre şüpheli işlem bildirimi ne zaman yapılmalıdır?",
           "o": [
             "A) Şüpheli işlem tamamlandıktan 30 gün sonra",
             "B) Yönetim kurulunun onayından sonra",
-            "C) MASAK'ın talep etmesi halinde",
+            "C) MASAK (mali suçları araştırma kurulu)'ın talep etmesi halinde",
             "D) Derhal, MİB'in onayı beklenmeksizin"
           ],
           "a": 3,
-          "e": "FATF R.20: Şüpheli işlem derhal MİB'e bildirilmelidir; önceden MİB'in onayı alınması gerekmez."
+          "e": "FATF (finansal eylem görev gücü) R.20: Şüpheli işlem derhal MİB'e bildirilmelidir; önceden MİB'in onayı alınması gerekmez."
         },
         {
-          "q": "ŞİB hangi sistem aracılığıyla MASAK'a iletilir?",
+          "q": "ŞİB (şüpheli işlem bildirimi) hangi sistem aracılığıyla MASAK (mali suçları araştırma kurulu)'a iletilir?",
           "o": [
             "A) SWIFT mesajıyla",
             "B) MOBESAS elektronik sistemi üzerinden",
@@ -28187,21 +28187,21 @@ window.__C = {
             "D) Noterden onaylı belgeyle"
           ],
           "a": 1,
-          "e": "ŞİB'ler MASAK'ın elektronik bildirim sistemi olan MOBESAS üzerinden gönderilir."
+          "e": "ŞİB (şüpheli işlem bildirimi)'ler MASAK (mali suçları araştırma kurulu)'ın elektronik bildirim sistemi olan MOBESAS üzerinden gönderilir."
         },
         {
           "q": "İhbar riski (tipping-off) ne anlama gelir?",
           "o": [
-            "A) Yükümlünün ŞİB yapmaktan kaçınması",
-            "B) Müşteriye ŞİB yapıldığının bildirilmesi yasağı",
-            "C) MASAK'ın yükümlüyü uyarması",
+            "A) Yükümlünün ŞİB (şüpheli işlem bildirimi) yapmaktan kaçınması",
+            "B) Müşteriye ŞİB (şüpheli işlem bildirimi) yapıldığının bildirilmesi yasağı",
+            "C) MASAK (mali suçları araştırma kurulu)'ın yükümlüyü uyarması",
             "D) İşlemin durdurulması talebi"
           ],
           "a": 1,
-          "e": "Tipping-off: ŞİB yapıldığının müşteriye veya ilgili kişiye bildirilmemesi zorunluluğu. Aksi halde ihbar riski doğar ve soruşturma tehlikeye girer."
+          "e": "Tipping-off: ŞİB (şüpheli işlem bildirimi) yapıldığının müşteriye veya ilgili kişiye bildirilmemesi zorunluluğu. Aksi halde ihbar riski doğar ve soruşturma tehlikeye girer."
         },
         {
-          "q": "İyi niyetle ŞİB yapan yükümlü ve çalışanların hukuki durumu nedir?",
+          "q": "İyi niyetle ŞİB (şüpheli işlem bildirimi) yapan yükümlü ve çalışanların hukuki durumu nedir?",
           "o": [
             "A) Müşteriye karşı tazminat sorumluluğu doğar",
             "B) Hukuki ve cezai sorumluluktan korunurlar",
@@ -28209,32 +28209,32 @@ window.__C = {
             "D) Hiçbir koruma sağlanmamaktadır"
           ],
           "a": 1,
-          "e": "İyi niyetle yapılan ŞİB'ler için yükümlüler ve çalışanları hukuki ve cezai sorumluluktan korunur; müşteriye karşı tazminat yükümlülüğü doğmaz."
+          "e": "İyi niyetle yapılan ŞİB (şüpheli işlem bildirimi)'ler için yükümlüler ve çalışanları hukuki ve cezai sorumluluktan korunur; müşteriye karşı tazminat yükümlülüğü doğmaz."
         },
         {
-          "q": "ŞİB gizliliğine göre bildirim bilgileri kimlerle paylaşılabilir?",
+          "q": "ŞİB (şüpheli işlem bildirimi) gizliliğine göre bildirim bilgileri kimlerle paylaşılabilir?",
           "o": [
             "A) Her türlü kamu kurumuna bildirilebilir",
-            "B) Yalnızca MASAK ile paylaşılır; üçüncü taraflara aktarılamaz",
+            "B) Yalnızca MASAK (mali suçları araştırma kurulu) ile paylaşılır; üçüncü taraflara aktarılamaz",
             "C) Bağlı şirket ve ortaklara bildirilebilir",
             "D) Müşterinin talebi halinde müşteriyle paylaşılabilir"
           ],
           "a": 1,
-          "e": "ŞİB bilgileri gizlidir; yalnızca MASAK ile paylaşılır, üçüncü taraflara aktarılamaz."
+          "e": "ŞİB (şüpheli işlem bildirimi) bilgileri gizlidir; yalnızca MASAK (mali suçları araştırma kurulu) ile paylaşılır, üçüncü taraflara aktarılamaz."
         },
         {
-          "q": "ŞİB kapsamı yalnızca tamamlanan işlemleri mi kapsar?",
+          "q": "ŞİB (şüpheli işlem bildirimi) kapsamı yalnızca tamamlanan işlemleri mi kapsar?",
           "o": [
             "A) Evet, yalnızca tamamlanan işlemler bildirilebilir",
-            "B) Hayır, teşebbüs edilen işlemler de ŞİB kapsamındadır",
+            "B) Hayır, teşebbüs edilen işlemler de ŞİB (şüpheli işlem bildirimi) kapsamındadır",
             "C) Yalnızca 185.000 TL üzeri işlemler kapsamdadır",
             "D) Yalnızca EFT işlemleri kapsamdadır"
           ],
           "a": 1,
-          "e": "ŞİB kapsamı; yapılan işlemlerin yanı sıra yapılmaya teşebbüs edilen işlemleri de içerir."
+          "e": "ŞİB (şüpheli işlem bildirimi) kapsamı; yapılan işlemlerin yanı sıra yapılmaya teşebbüs edilen işlemleri de içerir."
         },
         {
-          "q": "MASAK ŞİB'lerle ilgili yükümlülere nasıl geri bildirim sağlar?",
+          "q": "MASAK (mali suçları araştırma kurulu) ŞİB (şüpheli işlem bildirimi)'lerle ilgili yükümlülere nasıl geri bildirim sağlar?",
           "o": [
             "A) Hiç geri bildirim sağlamaz",
             "B) Yalnızca şüphelinin tutuklanması halinde bilgi verir",
@@ -28242,32 +28242,32 @@ window.__C = {
             "D) Yalnızca yılda bir rapor yayımlar"
           ],
           "a": 2,
-          "e": "MASAK, ŞİB'lerin akıbeti hakkında yükümlülere hem genel (sektörel istatistik) hem özel (bireysel bildirim sonucu) geri bildirim sağlar."
+          "e": "MASAK (mali suçları araştırma kurulu), ŞİB (şüpheli işlem bildirimi)'lerin akıbeti hakkında yükümlülere hem genel (sektörel istatistik) hem özel (bireysel bildirim sonucu) geri bildirim sağlar."
         },
         {
-          "q": "13 No'lu MASAK Tebliği neyi düzenler?",
+          "q": "13 No'lu MASAK (mali suçları araştırma kurulu) Tebliği neyi düzenler?",
           "o": [
             "A) Kimlik tespiti prosedürlerini",
-            "B) ŞİB usul ve esaslarını",
+            "B) ŞİB (şüpheli işlem bildirimi) usul ve esaslarını",
             "C) Dondurma kararlarını",
             "D) Risk temelli yaklaşımı"
           ],
           "a": 1,
-          "e": "13 No'lu MASAK Tebliği, ŞİB'in nasıl yapılacağını, içeriğini ve gizlilik esaslarını düzenler."
+          "e": "13 No'lu MASAK (mali suçları araştırma kurulu) Tebliği, ŞİB (şüpheli işlem bildirimi)'in nasıl yapılacağını, içeriğini ve gizlilik esaslarını düzenler."
         },
         {
-          "q": "Müşterinin tanınması (KYC) süreci hangi koşulda uygulanmayabilir?",
+          "q": "Müşterinin tanınması (KYC (müşteri tanıma)) süreci hangi koşulda uygulanmayabilir?",
           "o": [
             "A) Müşteri VIP statüsündeyse",
             "B) İşlem tutarı 185.000 TL altındaysa",
-            "C) KYC sürecinin müşteriyi ihbar edeceği durumlarda",
+            "C) KYC (müşteri tanıma) sürecinin müşteriyi ihbar edeceği durumlarda",
             "D) Müşteri 10 yıldır yükümlüyle çalışıyorsa"
           ],
           "a": 2,
-          "e": "KYC süreci müşteriye ihbar riski (tipping-off) doğuracaksa geçici olarak uygulanmayabilir. Bu, 13 No'lu MASAK Tebliği kapsamında düzenlenmiştir."
+          "e": "KYC (müşteri tanıma) süreci müşteriye ihbar riski (tipping-off) doğuracaksa geçici olarak uygulanmayabilir. Bu, 13 No'lu MASAK (mali suçları araştırma kurulu) Tebliği kapsamında düzenlenmiştir."
         },
         {
-          "q": "Aşağıdakilerden hangisi bir aklama ŞİB tipolojisine örnek teşkil eder?",
+          "q": "Aşağıdakilerden hangisi bir aklama ŞİB (şüpheli işlem bildirimi) tipolojisine örnek teşkil eder?",
           "o": [
             "A) Müşterinin kimliğini ibraz etmemesi",
             "B) İşlem tutarının olağan müşteri profilinin çok üzerinde olması ve nakit kaynağının açıklanamaması",
@@ -28275,10 +28275,10 @@ window.__C = {
             "D) Yüksek riskli ülkeye düşük tutarlı düzenli transfer"
           ],
           "a": 1,
-          "e": "İşlem tutarının müşteri profiyle uyumsuzluğu ve açıklanamayan nakit kaynağı aklama ŞİB tipolojisinin klasik göstergesidir. Son şık TF tipolojisine örnektir."
+          "e": "İşlem tutarının müşteri profiyle uyumsuzluğu ve açıklanamayan nakit kaynağı aklama ŞİB (şüpheli işlem bildirimi) tipolojisinin klasik göstergesidir. Son şık TF tipolojisine örnektir."
         },
         {
-          "q": "Şüpheli işlem bildirimi (ŞİB) için kesin bilgi gerekli midir?",
+          "q": "Şüpheli işlem bildirimi (ŞİB (şüpheli işlem bildirimi)) için kesin bilgi gerekli midir?",
           "o": [
             "A) Evet, suç kesinleşmiş olmalıdır",
             "B) Hayır, şüphe yeterlidir",
@@ -28286,10 +28286,10 @@ window.__C = {
             "D) Hayır, yalnızca yönetici onayı yeterlidir"
           ],
           "a": 1,
-          "e": "FATF Tavsiye 20 ve Türk mevzuatına göre ŞİB için kesin bilgi aranmaz; şüphe veya şüpheyi gerektirecek bir husus yeterlidir."
+          "e": "FATF (finansal eylem görev gücü) Tavsiye 20 ve Türk mevzuatına göre ŞİB (şüpheli işlem bildirimi) için kesin bilgi aranmaz; şüphe veya şüpheyi gerektirecek bir husus yeterlidir."
         },
         {
-          "q": "FATF Tavsiye 20 neyi öngörmektedir?",
+          "q": "FATF (finansal eylem görev gücü) Tavsiye 20 neyi öngörmektedir?",
           "o": [
             "A) Tüm işlemlerin raporlanması",
             "B) Şüpheli işlemlerin derhal MİB'e bildirilmesi",
@@ -28297,10 +28297,10 @@ window.__C = {
             "D) İşlemlerin 15 gün içinde kaydedilmesi"
           ],
           "a": 1,
-          "e": "FATF Tavsiye 20, şüpheli işlemlerin derhal Mali İstihbarat Birimine (MİB) bildirilmesini öngörmektedir."
+          "e": "FATF (finansal eylem görev gücü) Tavsiye 20, şüpheli işlemlerin derhal Mali İstihbarat Birimine (MİB) bildirilmesini öngörmektedir."
         },
         {
-          "q": "'İhbar riski' (tipping-off) ŞİB sürecinde ne anlama gelir?",
+          "q": "'İhbar riski' (tipping-off) ŞİB (şüpheli işlem bildirimi) sürecinde ne anlama gelir?",
           "o": [
             "A) Bildirimin geç yapılması",
             "B) Müşterinin bildirimden haberdar edilmesinin yasak olması",
@@ -28308,10 +28308,10 @@ window.__C = {
             "D) Birden fazla birime eş zamanlı bildirim yapmak"
           ],
           "a": 1,
-          "e": "İhbar riski; ŞİB yapıldığının müşteriye veya ilgililere ifşa edilmesinin yasak olduğunu ifade eder."
+          "e": "İhbar riski; ŞİB (şüpheli işlem bildirimi) yapıldığının müşteriye veya ilgililere ifşa edilmesinin yasak olduğunu ifade eder."
         },
         {
-          "q": "ŞİB usul ve esasları hangi tebliğde düzenlenmektedir?",
+          "q": "ŞİB (şüpheli işlem bildirimi) usul ve esasları hangi tebliğde düzenlenmektedir?",
           "o": [
             "A) 5 Sıra No'lu Tebliğ",
             "B) 9 Sıra No'lu Tebliğ",
@@ -28319,10 +28319,10 @@ window.__C = {
             "D) 19 Sıra No'lu Tebliğ"
           ],
           "a": 2,
-          "e": "Şüpheli işlem bildiriminin usul ve esasları 13 Sıra No'lu MASAK Tebliği ile düzenlenmiştir."
+          "e": "Şüpheli işlem bildiriminin usul ve esasları 13 Sıra No'lu MASAK (mali suçları araştırma kurulu) Tebliği ile düzenlenmiştir."
         },
         {
-          "q": "ŞİB'de tanımlanan 'şüphe' eşiği aşağıdakilerden hangisini kapsar?",
+          "q": "ŞİB (şüpheli işlem bildirimi)'de tanımlanan 'şüphe' eşiği aşağıdakilerden hangisini kapsar?",
           "o": [
             "A) Yalnızca suçun kesin olarak bilinmesi",
             "B) Bilgi, şüphe veya şüpheyi gerektirecek husus bulunması",
@@ -28330,21 +28330,21 @@ window.__C = {
             "D) Müşterinin itirafı"
           ],
           "a": 1,
-          "e": "ŞİB tanımı gereği; malvarlığının yasadışı yoldan elde edildiğine veya yasadışı amaçlarla kullanıldığına dair bilgi, şüphe veya şüpheyi gerektirecek bir husus olması yeterlidir."
+          "e": "ŞİB (şüpheli işlem bildirimi) tanımı gereği; malvarlığının yasadışı yoldan elde edildiğine veya yasadışı amaçlarla kullanıldığına dair bilgi, şüphe veya şüpheyi gerektirecek bir husus olması yeterlidir."
         },
         {
-          "q": "ŞİB yapılmasından sonra yükümlünün ticari sırrı saklama yükümlülüğü nasıl etkilenir?",
+          "q": "ŞİB (şüpheli işlem bildirimi) yapılmasından sonra yükümlünün ticari sırrı saklama yükümlülüğü nasıl etkilenir?",
           "o": [
             "A) Tamamen ortadan kalkar",
-            "B) ŞİB, iyi niyetle yapılmışsa bildirimden doğan sorumluluktan koruma sağlar",
+            "B) ŞİB (şüpheli işlem bildirimi), iyi niyetle yapılmışsa bildirimden doğan sorumluluktan koruma sağlar",
             "C) Yükümlü müşteriye bildirmek zorunda kalır",
             "D) Yükümlü suç ortağı sayılır"
           ],
           "a": 1,
-          "e": "5549 sayılı Kanun'a göre iyi niyetle yapılan ŞİB, yükümlüye sözleşme veya hukuki sorumluluktan koruma sağlar."
+          "e": "5549 sayılı Kanun'a göre iyi niyetle yapılan ŞİB (şüpheli işlem bildirimi), yükümlüye sözleşme veya hukuki sorumluluktan koruma sağlar."
         },
         {
-          "q": "Aşağıdakilerden hangisi ŞİB yapılmasını gerektiren bir duruma örnek oluşturur?",
+          "q": "Aşağıdakilerden hangisi ŞİB (şüpheli işlem bildirimi) yapılmasını gerektiren bir duruma örnek oluşturur?",
           "o": [
             "A) Müşterinin yüksek meblağlı mevduat hesabı açması",
             "B) Müşterinin kaynağını açıklayamadığı büyük nakit transferi gerçekleştirmesi",
@@ -28352,10 +28352,10 @@ window.__C = {
             "D) Müşterinin farklı şubelerde işlem yapması"
           ],
           "a": 1,
-          "e": "Kaynağı açıklanamayan büyük nakit transferleri, aklama veya TF şüphesi doğuran tipik bir ŞİB nedenidir."
+          "e": "Kaynağı açıklanamayan büyük nakit transferleri, aklama veya TF şüphesi doğuran tipik bir ŞİB (şüpheli işlem bildirimi) nedenidir."
         },
         {
-          "q": "ŞİB bildirimi ne kadar süre içinde yapılmalıdır?",
+          "q": "ŞİB (şüpheli işlem bildirimi) bildirimi ne kadar süre içinde yapılmalıdır?",
           "o": [
             "A) 7 iş günü",
             "B) 30 takvim günü",
@@ -28363,10 +28363,10 @@ window.__C = {
             "D) Aylık periyotlarda toplu olarak"
           ],
           "a": 2,
-          "e": "Şüphe oluşur oluşmaz ŞİB derhal yapılmalıdır; belirli bir süre beklenmesi gerekmez."
+          "e": "Şüphe oluşur oluşmaz ŞİB (şüpheli işlem bildirimi) derhal yapılmalıdır; belirli bir süre beklenmesi gerekmez."
         },
         {
-          "q": "ŞİB kapsamında 'yükümlü' kimdir?",
+          "q": "ŞİB (şüpheli işlem bildirimi) kapsamında 'yükümlü' kimdir?",
           "o": [
             "A) Yalnızca bankalar",
             "B) Yalnızca sermaye piyasası aracı kurumları",
@@ -28384,12 +28384,12 @@ window.__C = {
       {
         "num": "01",
         "title": "Yasal Dayanak ve Şartlar",
-        "body": "<ul><li><strong>Dayanak:</strong> 5549 sayılı Kanun md.19/A (2016'da 6704 sayılı Kanunla eklendi).</li><li><strong>Yetkili:</strong> Hazine ve Maliye Bakanı; bu yetkiyi Bakan Yardımcısına devredebilir.</li><li><strong>Süre:</strong> ŞİB tarihinden itibaren en fazla <strong>7 iş günü</strong>.</li><li><strong>Erteleme şartları (yönetmelik):</strong><ol style='margin:.4rem 0 0 1.2rem'><li>Yükümlüler nezdinde gerçekleşen işlem olması.</li><li>Aklama/TF şüphesini destekleyen belge veya ciddi emare.</li><li>İşlemin olağandışı nitelikte olması.</li><li>Veri tabanı kontrolünde suçla ilişki anlaşılması.</li><li>İşlemin tamamlanmasının el koymayı engelleyeceği tehlikeli hal.</li></ol></li></ul>"
+        "body": "<ul><li><strong>Dayanak:</strong> 5549 sayılı Kanun md.19/A (2016'da 6704 sayılı Kanunla eklendi).</li><li><strong>Yetkili:</strong> Hazine ve Maliye Bakanı; bu yetkiyi Bakan Yardımcısına devredebilir.</li><li><strong>Süre:</strong> ŞİB (şüpheli işlem bildirimi) tarihinden itibaren en fazla <strong>7 iş günü</strong>.</li><li><strong>Erteleme şartları (yönetmelik):</strong><ol style='margin:.4rem 0 0 1.2rem'><li>Yükümlüler nezdinde gerçekleşen işlem olması.</li><li>Aklama/TF şüphesini destekleyen belge veya ciddi emare.</li><li>İşlemin olağandışı nitelikte olması.</li><li>Veri tabanı kontrolünde suçla ilişki anlaşılması.</li><li>İşlemin tamamlanmasının el koymayı engelleyeceği tehlikeli hal.</li></ol></li></ul>"
       },
       {
         "num": "02",
         "title": "Erteleme Süreci",
-        "body": "<ul><li><strong>Yükümlü talebi:</strong> Erteleme talepli ŞİB → MASAK'a gönderilir → yükümlü karar tebliğ edilene kadar işlemden <strong>imtina eder</strong>.</li><li><strong>Süre dolduğunda:</strong> MASAK'tan karar gelmezse işlem gerçekleştirilebilir.</li><li><strong>Resen erteleme:</strong> MASAK veya Bakan kendiliğinden ya da yurt dışı muadil kuruluş talebiyle başlatabilir → karar yükümlüye tebliğ edilir.</li><li><strong>Yurt dışı talepleri:</strong> Mütekabiliyet ilkesi; talepte asgari bilgiler (işlem detayı, şüphe gerekçesi, kimlik) bulunmalı.</li></ul>"
+        "body": "<ul><li><strong>Yükümlü talebi:</strong> Erteleme talepli ŞİB (şüpheli işlem bildirimi) → MASAK (mali suçları araştırma kurulu)'a gönderilir → yükümlü karar tebliğ edilene kadar işlemden <strong>imtina eder</strong>.</li><li><strong>Süre dolduğunda:</strong> MASAK (mali suçları araştırma kurulu)'tan karar gelmezse işlem gerçekleştirilebilir.</li><li><strong>Resen erteleme:</strong> MASAK (mali suçları araştırma kurulu) veya Bakan kendiliğinden ya da yurt dışı muadil kuruluş talebiyle başlatabilir → karar yükümlüye tebliğ edilir.</li><li><strong>Yurt dışı talepleri:</strong> Mütekabiliyet ilkesi; talepte asgari bilgiler (işlem detayı, şüphe gerekçesi, kimlik) bulunmalı.</li></ul>"
       },
       {
         "num": "03",
@@ -28419,12 +28419,12 @@ window.__C = {
             "D) 15 iş günü"
           ],
           "a": 2,
-          "e": "Erteleme süresi, ŞİB tarihinden itibaren en fazla 7 iş günüdür. Bu süre içinde karar gelmezse işlem gerçekleştirilebilir."
+          "e": "Erteleme süresi, ŞİB (şüpheli işlem bildirimi) tarihinden itibaren en fazla 7 iş günüdür. Bu süre içinde karar gelmezse işlem gerçekleştirilebilir."
         },
         {
           "q": "İşlem erteleme yetkisi kime aittir?",
           "o": [
-            "A) MASAK Başkanı",
+            "A) MASAK (mali suçları araştırma kurulu) Başkanı",
             "B) Hazine ve Maliye Bakanı",
             "C) Ankara Ağır Ceza Mahkemesi",
             "D) Cumhurbaşkanı"
@@ -28433,23 +28433,23 @@ window.__C = {
           "e": "İşlem erteleme yetkisi Hazine ve Maliye Bakanı'na aittir; Bakan bu yetkiyi Bakan Yardımcısına devredebilir."
         },
         {
-          "q": "Yükümlü erteleme talepli ŞİB gönderdikten sonra ne yapmalıdır?",
+          "q": "Yükümlü erteleme talepli ŞİB (şüpheli işlem bildirimi) gönderdikten sonra ne yapmalıdır?",
           "o": [
             "A) İşlemi 24 saat içinde tamamlamalıdır",
             "B) Karar tebliğ edilene kadar işlemden imtina etmelidir",
             "C) Müşteriyi bilgilendirmelidir",
-            "D) BDDK'ya da bildirim yapmalıdır"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu)'ya da bildirim yapmalıdır"
           ],
           "a": 1,
-          "e": "Yükümlü, erteleme talepli ŞİB gönderdikten sonra karar tebliğ edilene kadar işlemden imtina eder (yapmaz)."
+          "e": "Yükümlü, erteleme talepli ŞİB (şüpheli işlem bildirimi) gönderdikten sonra karar tebliğ edilene kadar işlemden imtina eder (yapmaz)."
         },
         {
-          "q": "7 iş günü içinde MASAK'tan karar gelmezse ne olur?",
+          "q": "7 iş günü içinde MASAK (mali suçları araştırma kurulu)'tan karar gelmezse ne olur?",
           "o": [
             "A) İşlem tamamen iptal olur",
             "B) Yükümlü işlemi gerçekleştirebilir",
             "C) Otomatik olarak 7 iş günü daha uzar",
-            "D) MASAK işlemi resen engeller"
+            "D) MASAK (mali suçları araştırma kurulu) işlemi resen engeller"
           ],
           "a": 1,
           "e": "Süre içinde karar gelmezse yükümlü işlemi gerçekleştirebilir. Bu, işlem ertelemesinin süre sınırıdır."
@@ -28481,11 +28481,11 @@ window.__C = {
           "o": [
             "A) Yalnızca yükümlü başlatabilir",
             "B) Yalnızca Savcılık başlatabilir",
-            "C) MASAK veya Bakan; yurt dışı muadil kuruluş talebiyle de başlatılabilir",
+            "C) MASAK (mali suçları araştırma kurulu) veya Bakan; yurt dışı muadil kuruluş talebiyle de başlatılabilir",
             "D) Yalnızca BMGK kararıyla başlatılabilir"
           ],
           "a": 2,
-          "e": "MASAK veya Hazine ve Maliye Bakanı resen erteleme başlatabilir; yurt dışındaki muadil kuruluşun talebi de bu süreci başlatabilir."
+          "e": "MASAK (mali suçları araştırma kurulu) veya Hazine ve Maliye Bakanı resen erteleme başlatabilir; yurt dışındaki muadil kuruluşun talebi de bu süreci başlatabilir."
         },
         {
           "q": "Yurt dışı erteleme taleplerinde hangi ilke uygulanır?",
@@ -28523,7 +28523,7 @@ window.__C = {
         {
           "q": "İşlem ertelemesinde karar verme yetkisi kime aittir?",
           "o": [
-            "A) MASAK Başkanı",
+            "A) MASAK (mali suçları araştırma kurulu) Başkanı",
             "B) Hazine ve Maliye Bakanı",
             "C) Cumhurbaşkanı",
             "D) İlgili aracı kurum yönetimi"
@@ -28543,7 +28543,7 @@ window.__C = {
           "e": "İşlem erteleme süresi 7 iş günüdür; bu süre içinde karar tebliğ edilmezse işlem gerçekleştirilebilir."
         },
         {
-          "q": "Yükümlü erteleme talepli ŞİB gönderdikten sonra ne yapmalıdır?",
+          "q": "Yükümlü erteleme talepli ŞİB (şüpheli işlem bildirimi) gönderdikten sonra ne yapmalıdır?",
           "o": [
             "A) İşlemi hemen gerçekleştirmelidir",
             "B) Karar tebliğ edilene kadar işlemden imtina etmelidir",
@@ -28551,13 +28551,13 @@ window.__C = {
             "D) İşlemi iptal etmelidir"
           ],
           "a": 1,
-          "e": "Erteleme talepli ŞİB sonrasında yükümlü, erteleme kararı tebliğ edilene kadar işlemi gerçekleştirmekten kaçınır."
+          "e": "Erteleme talepli ŞİB (şüpheli işlem bildirimi) sonrasında yükümlü, erteleme kararı tebliğ edilene kadar işlemi gerçekleştirmekten kaçınır."
         },
         {
           "q": "7 iş günü içinde herhangi bir karar tebliğ edilmezse yükümlü ne yapabilir?",
           "o": [
             "A) İşlemi yine de durdurmak zorundadır",
-            "B) MASAK'a sormak zorundadır",
+            "B) MASAK (mali suçları araştırma kurulu)'a sormak zorundadır",
             "C) İşlemi gerçekleştirebilir",
             "D) Mahkemeye başvurması gerekir"
           ],
@@ -28587,15 +28587,15 @@ window.__C = {
           "e": "İşlem ertelemesi; aklama veya TF şüphesi bulunan durumlarda yetkililerin gerekli incelemeleri yapabilmesi için işlemin geçici olarak durdurulmasını sağlar."
         },
         {
-          "q": "Erteleme talepli ŞİB'in olağan ŞİB'den farkı nedir?",
+          "q": "Erteleme talepli ŞİB (şüpheli işlem bildirimi)'in olağan ŞİB (şüpheli işlem bildirimi)'den farkı nedir?",
           "o": [
             "A) Farklı bir kanal üzerinden iletilir",
-            "B) Erteleme talebi içerdiğinden işlem durdurulur; olağan ŞİB'de işlem durdurulmaz",
+            "B) Erteleme talebi içerdiğinden işlem durdurulur; olağan ŞİB (şüpheli işlem bildirimi)'de işlem durdurulmaz",
             "C) Yalnızca bankalar tarafından gönderilebilir",
             "D) Müşteriye bildirim zorunluluğu içerir"
           ],
           "a": 1,
-          "e": "Erteleme talepli ŞİB'de yükümlü aynı zamanda işlemin durdurulmasını talep eder; olağan ŞİB'de ise işlem devam edebilir."
+          "e": "Erteleme talepli ŞİB (şüpheli işlem bildirimi)'de yükümlü aynı zamanda işlemin durdurulmasını talep eder; olağan ŞİB (şüpheli işlem bildirimi)'de ise işlem devam edebilir."
         },
         {
           "q": "İşlem ertelemesi hangi kanun kapsamındaki işlemler için geçerlidir?",
@@ -28612,12 +28612,12 @@ window.__C = {
           "q": "İşlem ertelemesi uygulamasında hangi kurum ilk temas noktasıdır?",
           "o": [
             "A) Emniyet Genel Müdürlüğü",
-            "B) MASAK",
+            "B) MASAK (mali suçları araştırma kurulu)",
             "C) Bankacılık Düzenleme ve Denetleme Kurumu",
             "D) Sermaye Piyasası Kurulu"
           ],
           "a": 1,
-          "e": "Erteleme talepli ŞİB MASAK'a iletilir; karar Hazine ve Maliye Bakanı tarafından alınır ve yükümlüye tebliğ edilir."
+          "e": "Erteleme talepli ŞİB (şüpheli işlem bildirimi) MASAK (mali suçları araştırma kurulu)'a iletilir; karar Hazine ve Maliye Bakanı tarafından alınır ve yükümlüye tebliğ edilir."
         }
       ]
     }
@@ -28627,7 +28627,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Ödeme Sistemleri — EFT, EMKT, FAST",
-        "body": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Sistem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kuruluş</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>İşlev</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>EFT</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>1992</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalar arası TL elektronik fon transferi</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>EMKT</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>2013</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Menkul kıymet transferi ve mutabakat</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>FAST</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>2021</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>7/24 anlık fon transferi; saniyeler içinde</td></tr></table><br><ul><li>Üçü de <strong>TCMB bünyesinde</strong> işletilir.</li><li><strong>6493 sayılı Kanun:</strong> Ödeme hizmetleri ve elektronik para kuruluşlarını düzenler; lisans BDDK'dan alınır.</li></ul>"
+        "body": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Sistem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kuruluş</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>İşlev</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>EFT</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>1992</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalar arası TL elektronik fon transferi</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>EMKT</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>2013</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Menkul kıymet transferi ve mutabakat</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'><strong>FAST</strong></td><td style='padding:5px 8px;border:1px solid var(--bdr)'>2021</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>7/24 anlık fon transferi; saniyeler içinde</td></tr></table><br><ul><li>Üçü de <strong>TCMB (türkiye cumhuriyet merkez bankası) bünyesinde</strong> işletilir.</li><li><strong>6493 sayılı Kanun:</strong> Ödeme hizmetleri ve elektronik para kuruluşlarını düzenler; lisans BDDK (bankacılık düzenleme ve denetleme kurumu)'dan alınır.</li></ul>"
       },
       {
         "num": "02",
@@ -28637,7 +28637,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Kripto Varlık Hizmet Sağlayıcılar (KVHS)",
-        "body": "<ul><li><strong>Lisans:</strong> SPK'dan izin zorunlu; TÜBİTAK teknik kriterleri.</li><li><strong>2024 düzenlemeleri:</strong> KVHS finansal kuruluşlar arasına alındı; basitleştirilmiş tedbirlerden çıkarıldı → <strong>sıkılaştırılmış tedbirler</strong> uygulanır.</li><li>Uzaktan kimlik tespiti kapsamına alındı.</li><li><strong>Gizlilik tabanlı kripto varlıklar (privacy coins) yasaklandı.</strong></li><li>Para yatırma/çekme: Kimlik bilgileriyle uyumlu banka/kredi kartı hesabı zorunlu.</li><li>Uyum programı hazırlama yükümlülüğü.</li></ul>"
+        "body": "<ul><li><strong>Lisans:</strong> SPK (sermaye piyasası kurulu)'dan izin zorunlu; TÜBİTAK teknik kriterleri.</li><li><strong>2024 düzenlemeleri:</strong> KVHS finansal kuruluşlar arasına alındı; basitleştirilmiş tedbirlerden çıkarıldı → <strong>sıkılaştırılmış tedbirler</strong> uygulanır.</li><li>Uzaktan kimlik tespiti kapsamına alındı.</li><li><strong>Gizlilik tabanlı kripto varlıklar (privacy coins) yasaklandı.</strong></li><li>Para yatırma/çekme: Kimlik bilgileriyle uyumlu banka/kredi kartı hesabı zorunlu.</li><li>Uyum programı hazırlama yükümlülüğü.</li></ul>"
       },
       {
         "num": "04",
@@ -28705,13 +28705,13 @@ window.__C = {
         {
           "q": "Kripto varlık hizmet sağlayıcılar (KVHS) lisansını hangi kurumdan almak zorundadır?",
           "o": [
-            "A) BDDK",
-            "B) TCMB",
-            "C) SPK",
-            "D) MASAK"
+            "A) BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "B) TCMB (türkiye cumhuriyet merkez bankası)",
+            "C) SPK (sermaye piyasası kurulu)",
+            "D) MASAK (mali suçları araştırma kurulu)"
           ],
           "a": 2,
-          "e": "KVHS'ler SPK'dan (Sermaye Piyasası Kurulu) izin almak zorundadır; TÜBİTAK teknik kriterleri de aranır."
+          "e": "KVHS'ler SPK (sermaye piyasası kurulu)'dan (Sermaye Piyasası Kurulu) izin almak zorundadır; TÜBİTAK teknik kriterleri de aranır."
         },
         {
           "q": "2024 düzenlemeleriyle KVHS'ler hangi tedbirler kapsamına alınmıştır?",
@@ -28740,7 +28740,7 @@ window.__C = {
           "o": [
             "A) Transfer otomatik engellenir",
             "B) Müşteriden beyan alınır",
-            "C) SPK'ya bildirim yapılır",
+            "C) SPK (sermaye piyasası kurulu)'ya bildirim yapılır",
             "D) İşlem 7 iş günü ertelenir"
           ],
           "a": 1,
@@ -28766,7 +28766,7 @@ window.__C = {
             "D) Sermaye piyasası aracılarını"
           ],
           "a": 1,
-          "e": "6493 sayılı Kanun; ödeme hizmetleri, ödeme kuruluşları ve elektronik para kuruluşlarını düzenler. Lisans BDDK'dan alınır."
+          "e": "6493 sayılı Kanun; ödeme hizmetleri, ödeme kuruluşları ve elektronik para kuruluşlarını düzenler. Lisans BDDK (bankacılık düzenleme ve denetleme kurumu)'dan alınır."
         },
         {
           "q": "Açık bankacılık uygulamalarında AML açısından en önemli risk nedir?",
@@ -28807,7 +28807,7 @@ window.__C = {
             "A) Gerçek zamanlı ödeme sistemidir",
             "B) Müşteri hesabı tutar",
             "C) Finansal kurumlar arası güvenli mesajlaşma altyapısıdır",
-            "D) TCMB bünyesinde faaliyet gösterir"
+            "D) TCMB (türkiye cumhuriyet merkez bankası) bünyesinde faaliyet gösterir"
           ],
           "a": 2,
           "e": "SWIFT bir ödeme sistemi değil; finansal kurumlar arasında standart formatlarda güvenli mesaj iletimini sağlayan altyapıdır."
@@ -28815,13 +28815,13 @@ window.__C = {
         {
           "q": "Kripto Varlık Hizmet Sağlayıcıları (KVHS) Türkiye'de hangi kurumdan lisans almak zorundadır?",
           "o": [
-            "A) MASAK",
-            "B) BDDK",
-            "C) SPK",
+            "A) MASAK (mali suçları araştırma kurulu)",
+            "B) BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "C) SPK (sermaye piyasası kurulu)",
             "D) Merkez Bankası"
           ],
           "a": 2,
-          "e": "2024 sonrası düzenlemelerle KVHS'ler Sermaye Piyasası Kurulu (SPK) lisansına tabi hale getirilmiştir."
+          "e": "2024 sonrası düzenlemelerle KVHS'ler Sermaye Piyasası Kurulu (SPK (sermaye piyasası kurulu)) lisansına tabi hale getirilmiştir."
         },
         {
           "q": "6493 sayılı Kanun hangi alanı düzenlemektedir?",
@@ -28840,13 +28840,13 @@ window.__C = {
             "A) İşlem otomatik olarak reddedilir",
             "B) Cüzdan sahibinden beyan alınır",
             "C) İşlem tutarı %10 vergilendirilir",
-            "D) Ek KYC belgesi zorunlu değildir"
+            "D) Ek KYC (müşteri tanıma) belgesi zorunlu değildir"
           ],
           "a": 1,
           "e": "Unhosted wallet işlemlerinde yükümlüler cüzdan sahibinden beyan alarak kayıt altına almakla yükümlüdür."
         },
         {
-          "q": "TCMB bünyesinde faaliyet gösteren ödeme sistemleri arasında hangisi yer almaz?",
+          "q": "TCMB (türkiye cumhuriyet merkez bankası) bünyesinde faaliyet gösteren ödeme sistemleri arasında hangisi yer almaz?",
           "o": [
             "A) EFT",
             "B) FAST",
@@ -28854,7 +28854,7 @@ window.__C = {
             "D) EMKT"
           ],
           "a": 2,
-          "e": "SWIFT bir mesajlaşma altyapısıdır ve TCMB bünyesinde değildir. EFT, FAST ve EMKT ise TCMB bünyesindeki ödeme sistemleridir."
+          "e": "SWIFT bir mesajlaşma altyapısıdır ve TCMB (türkiye cumhuriyet merkez bankası) bünyesinde değildir. EFT, FAST ve EMKT ise TCMB (türkiye cumhuriyet merkez bankası) bünyesindeki ödeme sistemleridir."
         },
         {
           "q": "FAST sistemi ne tür işlemleri kapsar?",
@@ -28865,7 +28865,7 @@ window.__C = {
             "D) Çek takası işlemleri"
           ],
           "a": 2,
-          "e": "FAST (Fonların Anlık ve Sürekli Transferi) sistemi, Türkiye'de anlık TL para transferlerini 7/24 gerçekleştiren TCMB altyapısıdır."
+          "e": "FAST (Fonların Anlık ve Sürekli Transferi) sistemi, Türkiye'de anlık TL para transferlerini 7/24 gerçekleştiren TCMB (türkiye cumhuriyet merkez bankası) altyapısıdır."
         }
       ]
     }
@@ -28875,13 +28875,13 @@ window.__C = {
       {
         "num": "01",
         "title": "Karma Test — 9 Konudan 100 Soru",
-        "body": "<ul><li><strong>Bu bölüm nedir?</strong> Modül 1'in 9 konusundan derlenen 100 soruyu 5 farklı 20'lik testte sunar.</li><li><strong>Kapsam:</strong> MASAK, Uluslararası Standartlar, Ulusal Koordinasyon, Aklama, TF, KİS, ŞİB, İşlem Ertelemesi ve Finansal Teknolojiler.</li><li><strong>Kullanım önerisi:</strong> Tek tek konu testlerini tamamladıktan sonra karma testlerle genel tekrar yapın.</li><li><strong>Her test:</strong> 20 soru, 9 konudan dengeli dağılım, karışık sıralama.</li></ul>"
+        "body": "<ul><li><strong>Bu bölüm nedir?</strong> Modül 1'in 9 konusundan derlenen 100 soruyu 5 farklı 20'lik testte sunar.</li><li><strong>Kapsam:</strong> MASAK (mali suçları araştırma kurulu), Uluslararası Standartlar, Ulusal Koordinasyon, Aklama, TF, KİS, ŞİB (şüpheli işlem bildirimi), İşlem Ertelemesi ve Finansal Teknolojiler.</li><li><strong>Kullanım önerisi:</strong> Tek tek konu testlerini tamamladıktan sonra karma testlerle genel tekrar yapın.</li><li><strong>Her test:</strong> 20 soru, 9 konudan dengeli dağılım, karışık sıralama.</li></ul>"
       }
     ],
     "tests": {
       "t1": [
         {
-          "q": "MASAK hangi yılda kurulmuştur?",
+          "q": "MASAK (mali suçları araştırma kurulu) hangi yılda kurulmuştur?",
           "o": [
             "A) 1989",
             "B) 1993",
@@ -28889,10 +28889,10 @@ window.__C = {
             "D) 2001"
           ],
           "a": 2,
-          "e": "MASAK, 1996 yılında 4208 sayılı Karaparanın Aklanmasının Önlenmesine Dair Kanun ile kurulmuştur. FATF ise 1989'da kurulmuştur — bu iki tarih sıklıkla karıştırılır."
+          "e": "MASAK (mali suçları araştırma kurulu), 1996 yılında 4208 sayılı Karaparanın Aklanmasının Önlenmesine Dair Kanun ile kurulmuştur. FATF (finansal eylem görev gücü) ise 1989'da kurulmuştur — bu iki tarih sıklıkla karıştırılır."
         },
         {
-          "q": "FATF hangi yılda kurulmuştur?",
+          "q": "FATF (finansal eylem görev gücü) hangi yılda kurulmuştur?",
           "o": [
             "A) 1973",
             "B) 1989",
@@ -28900,7 +28900,7 @@ window.__C = {
             "D) 2001"
           ],
           "a": 1,
-          "e": "FATF (Mali Eylem Görev Gücü), 1989'da G7 zirvesi kararıyla Paris'te kuruldu. 1973: SWIFT'in kuruluş yılı; 1996: MASAK'ın kuruluş yılı."
+          "e": "FATF (Mali Eylem Görev Gücü), 1989'da G7 zirvesi kararıyla Paris'te kuruldu. 1973: SWIFT'in kuruluş yılı; 1996: MASAK (mali suçları araştırma kurulu)'ın kuruluş yılı."
         },
         {
           "q": "Türkiye'de kaç tür Ulusal Risk Değerlendirmesi (URD) belgesi bulunmaktadır?",
@@ -28911,7 +28911,7 @@ window.__C = {
             "D) 4"
           ],
           "a": 1,
-          "e": "Türkiye'de iki URD belgesi hazırlanmaktadır: SGA/TF URD ve KİSYF URD."
+          "e": "Türkiye'de iki URD belgesi hazırlanmaktadır: SGA/TF URD ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) URD."
         },
         {
           "q": "'Money laundering' (kara para aklama) terimi tarihsel olarak nereden gelir?",
@@ -28919,7 +28919,7 @@ window.__C = {
             "A) İsviçre bankacılık gizliliğinden",
             "B) 1930'lar ABD mafyasının çamaşırhane işletmelerinden",
             "C) 1988 Viyana Sözleşmesi'nden",
-            "D) FATF'ın terminoloji çalışmasından"
+            "D) FATF (finansal eylem görev gücü)'ın terminoloji çalışmasından"
           ],
           "a": 1,
           "e": "1930'lar ABD'sinde Al Capone gibi mafya liderleri, yasadışı gelirlerini çamaşırhane gibi nakit yoğun işletmelere karıştırarak meşrulaştırdı. Bu uygulamadan 'money laundering' terimi doğdu."
@@ -28933,10 +28933,10 @@ window.__C = {
             "D) 7262 sayılı Kanun"
           ],
           "a": 2,
-          "e": "6415 sayılı 'Terörizmin Finansmanının Önlenmesi Hakkında Kanun', TF suçunu ve malvarlığı dondurma mekanizmasını düzenler. 5549: AML; 7262: KAGKler ve KİSYF."
+          "e": "6415 sayılı 'Terörizmin Finansmanının Önlenmesi Hakkında Kanun', TF suçunu ve malvarlığı dondurma mekanizmasını düzenler. 5549: AML; 7262: KAGKler ve KİSYF (kitle imha silahlarının yayılmasının finansmanı)."
         },
         {
-          "q": "KİSYF'yi ele alan FATF Tavsiyesi hangisidir?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı)'yi ele alan FATF (finansal eylem görev gücü) Tavsiyesi hangisidir?",
           "o": [
             "A) Tavsiye 3",
             "B) Tavsiye 5",
@@ -28944,7 +28944,7 @@ window.__C = {
             "D) Tavsiye 7"
           ],
           "a": 3,
-          "e": "FATF Tavsiye 7: KİSYF kapsamında BMGK kararlarıyla listelenen kişi/kuruluşların malvarlıklarının gecikmeksizin dondurulması. R.6: TF hedeflenen mali yaptırımlar."
+          "e": "FATF (finansal eylem görev gücü) Tavsiye 7: KİSYF (kitle imha silahlarının yayılmasının finansmanı) kapsamında BMGK kararlarıyla listelenen kişi/kuruluşların malvarlıklarının gecikmeksizin dondurulması. R.6: TF hedeflenen mali yaptırımlar."
         },
         {
           "q": "Şüpheli işlem bildiriminin yapılabilmesi için ne gerekmektedir?",
@@ -28952,10 +28952,10 @@ window.__C = {
             "A) Suçun kesin olarak işlendiğine dair bilgi",
             "B) Savcılık kararı",
             "C) Bilgi, şüphe veya şüpheyi gerektirecek husus bulunması",
-            "D) MASAK'ın önceden onayı"
+            "D) MASAK (mali suçları araştırma kurulu)'ın önceden onayı"
           ],
           "a": 2,
-          "e": "ŞİB için kesin bilgi gerekmez; 'bilgi, şüphe veya şüpheyi gerektirecek husus' yeterlidir. Bu standart ceza muhakemesindeki şüphe standardından farklı ve daha düşüktür."
+          "e": "ŞİB (şüpheli işlem bildirimi) için kesin bilgi gerekmez; 'bilgi, şüphe veya şüpheyi gerektirecek husus' yeterlidir. Bu standart ceza muhakemesindeki şüphe standardından farklı ve daha düşüktür."
         },
         {
           "q": "İşlem ertelemesinin yasal dayanağı nedir?",
@@ -28980,7 +28980,7 @@ window.__C = {
           "e": "EFT (Elektronik Fon Transferi) 1992'de kuruldu. EMKT: 2013; FAST: 2021. SWIFT ise 1973 kurulu bir mesajlaşma ağıdır."
         },
         {
-          "q": "MASAK'ın kurulmasını doğrudan sağlayan kanun hangisidir?",
+          "q": "MASAK (mali suçları araştırma kurulu)'ın kurulmasını doğrudan sağlayan kanun hangisidir?",
           "o": [
             "A) 5549 sayılı Kanun",
             "B) 4208 sayılı Kanun",
@@ -28988,10 +28988,10 @@ window.__C = {
             "D) 7262 sayılı Kanun"
           ],
           "a": 1,
-          "e": "4208 sayılı 'Karaparanın Aklanmasının Önlenmesine Dair Kanun' (1996) MASAK'ı kurdu. 5549 sayılı Kanun ise 2006'da mevzuatı güncelleyen kanundur; MASAK'ı kurmadı, yeniden düzenledi."
+          "e": "4208 sayılı 'Karaparanın Aklanmasının Önlenmesine Dair Kanun' (1996) MASAK (mali suçları araştırma kurulu)'ı kurdu. 5549 sayılı Kanun ise 2006'da mevzuatı güncelleyen kanundur; MASAK (mali suçları araştırma kurulu)'ı kurmadı, yeniden düzenledi."
         },
         {
-          "q": "FATF kaç Tavsiye yayımlamaktadır?",
+          "q": "FATF (finansal eylem görev gücü) kaç Tavsiye yayımlamaktadır?",
           "o": [
             "A) 9",
             "B) 20",
@@ -28999,7 +28999,7 @@ window.__C = {
             "D) 49"
           ],
           "a": 2,
-          "e": "FATF 40 Tavsiye yayımlar. Eskiden ayrıca 9 Özel Tavsiye (TF odaklı) mevcuttu; bunlar sonradan 40 Tavsiye'ye entegre edildi."
+          "e": "FATF (finansal eylem görev gücü) 40 Tavsiye yayımlar. Eskiden ayrıca 9 Özel Tavsiye (TF odaklı) mevcuttu; bunlar sonradan 40 Tavsiye'ye entegre edildi."
         },
         {
           "q": "SGA/TF URD'de TF açısından en riskli terör örgütü hangisi olarak belirlenmiştir?",
@@ -29035,26 +29035,26 @@ window.__C = {
           "e": "6415 sayılı Kanun: TF → 5–10 yıl hapis. Karşılaştırma: Aklama suçu (TCK md.282) → 3–7 yıl hapis."
         },
         {
-          "q": "FATF R.7 kapsamında malvarlığı dondurma ne zaman uygulanır?",
+          "q": "FATF (finansal eylem görev gücü) R.7 kapsamında malvarlığı dondurma ne zaman uygulanır?",
           "o": [
             "A) Mahkeme kararı alındıktan sonra",
             "B) Gecikmeksizin; BMGK kararlarıyla listelenen kişiler için otomatik olarak",
             "C) Değerlendirme Komisyonu onayından sonra",
-            "D) MASAK incelemesi tamamlandıktan sonra"
+            "D) MASAK (mali suçları araştırma kurulu) incelemesi tamamlandıktan sonra"
           ],
           "a": 1,
           "e": "R.7 kapsamında dondurma 'gecikmeksizin' uygulanır — mahkeme kararı veya ön inceleme beklenmez."
         },
         {
-          "q": "FATF Tavsiye 20'ye göre şüpheli işlem bildirimi ne zaman yapılmalıdır?",
+          "q": "FATF (finansal eylem görev gücü) Tavsiye 20'ye göre şüpheli işlem bildirimi ne zaman yapılmalıdır?",
           "o": [
             "A) Şüpheli işlem tamamlandıktan 30 gün sonra",
             "B) Yönetim kurulunun onayından sonra",
-            "C) MASAK'ın talep etmesi halinde",
+            "C) MASAK (mali suçları araştırma kurulu)'ın talep etmesi halinde",
             "D) Derhal, MİB'in onayı beklenmeksizin"
           ],
           "a": 3,
-          "e": "FATF R.20: Şüpheli işlem derhal MİB'e bildirilmelidir; önceden MİB'in onayı alınması gerekmez."
+          "e": "FATF (finansal eylem görev gücü) R.20: Şüpheli işlem derhal MİB'e bildirilmelidir; önceden MİB'in onayı alınması gerekmez."
         },
         {
           "q": "İşlem erteleme süresi en fazla ne kadardır?",
@@ -29065,7 +29065,7 @@ window.__C = {
             "D) 15 iş günü"
           ],
           "a": 2,
-          "e": "Erteleme süresi, ŞİB tarihinden itibaren en fazla 7 iş günüdür. Bu süre içinde karar gelmezse işlem gerçekleştirilebilir."
+          "e": "Erteleme süresi, ŞİB (şüpheli işlem bildirimi) tarihinden itibaren en fazla 7 iş günüdür. Bu süre içinde karar gelmezse işlem gerçekleştirilebilir."
         },
         {
           "q": "FAST sistemi ne özelliği ile öne çıkar?",
@@ -29079,7 +29079,7 @@ window.__C = {
           "e": "FAST (2021): 7/24 anlık fon transferi; bireyler ve işletmeler arasında saniyeler içinde gerçekleşir."
         },
         {
-          "q": "MASAK hangi bakanlığa bağlıdır?",
+          "q": "MASAK (mali suçları araştırma kurulu) hangi bakanlığa bağlıdır?",
           "o": [
             "A) Adalet Bakanlığı",
             "B) İçişleri Bakanlığı",
@@ -29087,10 +29087,10 @@ window.__C = {
             "D) Ticaret Bakanlığı"
           ],
           "a": 2,
-          "e": "MASAK, Hazine ve Maliye Bakanlığı bünyesinde ana hizmet birimi olarak doğrudan Hazine ve Maliye Bakanına bağlıdır."
+          "e": "MASAK (mali suçları araştırma kurulu), Hazine ve Maliye Bakanlığı bünyesinde ana hizmet birimi olarak doğrudan Hazine ve Maliye Bakanına bağlıdır."
         },
         {
-          "q": "FATF'ın kara listesinde (Eylem Çağrısına Tabi) yer alan ülkeler hangileridir?",
+          "q": "FATF (finansal eylem görev gücü)'ın kara listesinde (Eylem Çağrısına Tabi) yer alan ülkeler hangileridir?",
           "o": [
             "A) Rusya, Çin, İran",
             "B) Kuzey Kore, İran, Myanmar",
@@ -29136,7 +29136,7 @@ window.__C = {
           "e": "TF suçunda fon yasal kaynaktan da gelse suç oluşur; önemli olan fonun terör amacıyla kullanılacak olmasıdır. Aklamada ise öncül suçun zaten işlenmiş olması gerekir."
         },
         {
-          "q": "KİSYF kapsamındaki dondurma yükümlülüğü hangi mülkiyeti kapsar?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) kapsamındaki dondurma yükümlülüğü hangi mülkiyeti kapsar?",
           "o": [
             "A) Yalnızca doğrudan mülkiyet",
             "B) Yalnızca nakdi varlıklar",
@@ -29144,10 +29144,10 @@ window.__C = {
             "D) Yalnızca banka hesapları"
           ],
           "a": 2,
-          "e": "KİSYF dondurması doğrudan mülkiyet + dolaylı mülkiyet + kontrol ilişkisi içinde olan tüm varlıkları kapsar."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) dondurması doğrudan mülkiyet + dolaylı mülkiyet + kontrol ilişkisi içinde olan tüm varlıkları kapsar."
         },
         {
-          "q": "ŞİB hangi sistem aracılığıyla MASAK'a iletilir?",
+          "q": "ŞİB (şüpheli işlem bildirimi) hangi sistem aracılığıyla MASAK (mali suçları araştırma kurulu)'a iletilir?",
           "o": [
             "A) SWIFT mesajıyla",
             "B) MOBESAS elektronik sistemi üzerinden",
@@ -29155,12 +29155,12 @@ window.__C = {
             "D) Noterden onaylı belgeyle"
           ],
           "a": 1,
-          "e": "ŞİB'ler MASAK'ın elektronik bildirim sistemi olan MOBESAS üzerinden gönderilir."
+          "e": "ŞİB (şüpheli işlem bildirimi)'ler MASAK (mali suçları araştırma kurulu)'ın elektronik bildirim sistemi olan MOBESAS üzerinden gönderilir."
         },
         {
           "q": "İşlem erteleme yetkisi kime aittir?",
           "o": [
-            "A) MASAK Başkanı",
+            "A) MASAK (mali suçları araştırma kurulu) Başkanı",
             "B) Hazine ve Maliye Bakanı",
             "C) Ankara Ağır Ceza Mahkemesi",
             "D) Cumhurbaşkanı"
@@ -29180,7 +29180,7 @@ window.__C = {
           "e": "EMKT (Elektronik Menkul Kıymet Transferi, 2013): Menkul kıymet transferi ve mutabakat işlemlerini yürütür."
         },
         {
-          "q": "MASAK hangi mali istihbarat birimi modelini temsil eder?",
+          "q": "MASAK (mali suçları araştırma kurulu) hangi mali istihbarat birimi modelini temsil eder?",
           "o": [
             "A) Kolluk tipi",
             "B) Adli / Savcılık tipi",
@@ -29191,7 +29191,7 @@ window.__C = {
           "e": "İdari tipte MİB; bağımsız idari birim olarak finansal veri toplar, analiz eder ve paylaşır. Soruşturma ya da kovuşturma yetkisi yoktur."
         },
         {
-          "q": "Türkiye FATF gri listesine hangi yılda alındı ve ne zaman çıkarıldı?",
+          "q": "Türkiye FATF (finansal eylem görev gücü) gri listesine hangi yılda alındı ve ne zaman çıkarıldı?",
           "o": [
             "A) 2019 — 2022",
             "B) 2020 — 2023",
@@ -29229,7 +29229,7 @@ window.__C = {
             "A) Ankara Ağır Ceza Mahkemesi onayı alınarak",
             "B) Gecikmeksizin ve önceden haber vermeksizin otomatik olarak",
             "C) Değerlendirme Komisyonu kararıyla",
-            "D) MASAK Başkanı kararıyla"
+            "D) MASAK (mali suçları araştırma kurulu) Başkanı kararıyla"
           ],
           "a": 1,
           "e": "BMGK listelerindeki kişiler için dondurma 'gecikmeksizin ve önceden haber vermeksizin' otomatik olarak uygulanır. İç dondurma ise Mahkeme onayı gerektirir."
@@ -29248,24 +29248,24 @@ window.__C = {
         {
           "q": "İhbar riski (tipping-off) ne anlama gelir?",
           "o": [
-            "A) Yükümlünün ŞİB yapmaktan kaçınması",
-            "B) Müşteriye ŞİB yapıldığının bildirilmesi yasağı",
-            "C) MASAK'ın yükümlüyü uyarması",
+            "A) Yükümlünün ŞİB (şüpheli işlem bildirimi) yapmaktan kaçınması",
+            "B) Müşteriye ŞİB (şüpheli işlem bildirimi) yapıldığının bildirilmesi yasağı",
+            "C) MASAK (mali suçları araştırma kurulu)'ın yükümlüyü uyarması",
             "D) İşlemin durdurulması talebi"
           ],
           "a": 1,
-          "e": "Tipping-off: ŞİB yapıldığının müşteriye veya ilgili kişiye bildirilmemesi zorunluluğu. Aksi halde ihbar riski doğar ve soruşturma tehlikeye girer."
+          "e": "Tipping-off: ŞİB (şüpheli işlem bildirimi) yapıldığının müşteriye veya ilgili kişiye bildirilmemesi zorunluluğu. Aksi halde ihbar riski doğar ve soruşturma tehlikeye girer."
         },
         {
-          "q": "Yükümlü erteleme talepli ŞİB gönderdikten sonra ne yapmalıdır?",
+          "q": "Yükümlü erteleme talepli ŞİB (şüpheli işlem bildirimi) gönderdikten sonra ne yapmalıdır?",
           "o": [
             "A) İşlemi 24 saat içinde tamamlamalıdır",
             "B) Karar tebliğ edilene kadar işlemden imtina etmelidir",
             "C) Müşteriyi bilgilendirmelidir",
-            "D) BDDK'ya da bildirim yapmalıdır"
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu)'ya da bildirim yapmalıdır"
           ],
           "a": 1,
-          "e": "Yükümlü, erteleme talepli ŞİB gönderdikten sonra karar tebliğ edilene kadar işlemden imtina eder (yapmaz)."
+          "e": "Yükümlü, erteleme talepli ŞİB (şüpheli işlem bildirimi) gönderdikten sonra karar tebliğ edilene kadar işlemden imtina eder (yapmaz)."
         },
         {
           "q": "SWIFT hangi niteliğe sahiptir?",
@@ -29279,18 +29279,18 @@ window.__C = {
           "e": "SWIFT bir ödeme sistemi değil, güvenli mesajlaşma ağıdır. Hesap tutmaz, fon transfer etmez, takas/mutabakat yapmaz."
         },
         {
-          "q": "Aşağıdakilerden hangisi MASAK'ın doğrudan görevi değildir?",
+          "q": "Aşağıdakilerden hangisi MASAK (mali suçları araştırma kurulu)'ın doğrudan görevi değildir?",
           "o": [
-            "A) ŞİB almak ve analiz etmek",
+            "A) ŞİB (şüpheli işlem bildirimi) almak ve analiz etmek",
             "B) Yükümlülük denetimi yaptırmak",
             "C) Şüphelileri kovuşturmak",
             "D) Suç duyurusunda bulunmak"
           ],
           "a": 2,
-          "e": "Kovuşturma yetkisi Cumhuriyet savcılığına aittir. MASAK yalnızca ciddi şüphe halinde savcılığa 'suç duyurusunda bulunabilir'; kendisi kovuşturma açamaz."
+          "e": "Kovuşturma yetkisi Cumhuriyet savcılığına aittir. MASAK (mali suçları araştırma kurulu) yalnızca ciddi şüphe halinde savcılığa 'suç duyurusunda bulunabilir'; kendisi kovuşturma açamaz."
         },
         {
-          "q": "Hangi FATF Tavsiyesi, her ülkenin operasyonel bağımsızlığa sahip bir MİB kurmasını zorunlu kılar?",
+          "q": "Hangi FATF (finansal eylem görev gücü) Tavsiyesi, her ülkenin operasyonel bağımsızlığa sahip bir MİB kurmasını zorunlu kılar?",
           "o": [
             "A) Tavsiye 7",
             "B) Tavsiye 20",
@@ -29298,10 +29298,10 @@ window.__C = {
             "D) Tavsiye 29"
           ],
           "a": 3,
-          "e": "FATF Tavsiye 29: Her ülke operasyonel bağımsızlığa sahip bir Mali İstihbarat Birimi kurmalıdır. Tavsiye 20: ŞİB yükümlülüğü; Tavsiye 7: KİSYF hedeflenen mali yaptırımlar."
+          "e": "FATF (finansal eylem görev gücü) Tavsiye 29: Her ülke operasyonel bağımsızlığa sahip bir Mali İstihbarat Birimi kurmalıdır. Tavsiye 20: ŞİB (şüpheli işlem bildirimi) yükümlülüğü; Tavsiye 7: KİSYF (kitle imha silahlarının yayılmasının finansmanı) hedeflenen mali yaptırımlar."
         },
         {
-          "q": "KİSYF Strateji Belgesi hangi yılları kapsamaktadır?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Strateji Belgesi hangi yılları kapsamaktadır?",
           "o": [
             "A) 2021–2025",
             "B) 2023–2027",
@@ -29309,7 +29309,7 @@ window.__C = {
             "D) 2025–2029"
           ],
           "a": 3,
-          "e": "KİSYF Strateji Belgesi 2025–2029 yıllarını kapsar ve KİSYF mücadelesine yönelik 5 yıllık eylem planını içerir."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Strateji Belgesi 2025–2029 yıllarını kapsar ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) mücadelesine yönelik 5 yıllık eylem planını içerir."
         },
         {
           "q": "Büyük nakit miktarını raporlama eşiğinin altında küçük parçalara bölerek bankaya yatırma yöntemi nasıl adlandırılır?",
@@ -29325,7 +29325,7 @@ window.__C = {
       ],
       "t3": [
         {
-          "q": "Dondurulan malvarlığının MASAK'a bildirim süresi nedir?",
+          "q": "Dondurulan malvarlığının MASAK (mali suçları araştırma kurulu)'a bildirim süresi nedir?",
           "o": [
             "A) 3 gün",
             "B) 5 gün",
@@ -29333,7 +29333,7 @@ window.__C = {
             "D) 15 gün"
           ],
           "a": 2,
-          "e": "Dondurulan malvarlığı, dondurma kararından itibaren 7 gün içinde MASAK'a bildirilmesi zorunludur."
+          "e": "Dondurulan malvarlığı, dondurma kararından itibaren 7 gün içinde MASAK (mali suçları araştırma kurulu)'a bildirilmesi zorunludur."
         },
         {
           "q": "İran'a nükleer yaptırımlar getiren ilk BMGK kararı hangisidir?",
@@ -29347,7 +29347,7 @@ window.__C = {
           "e": "BMGK 1737 (2006): İran'a uranyum zenginleştirme ve ağır su projesi durdurma yükümlülüğü + malvarlığı dondurma."
         },
         {
-          "q": "İyi niyetle ŞİB yapan yükümlü ve çalışanların hukuki durumu nedir?",
+          "q": "İyi niyetle ŞİB (şüpheli işlem bildirimi) yapan yükümlü ve çalışanların hukuki durumu nedir?",
           "o": [
             "A) Müşteriye karşı tazminat sorumluluğu doğar",
             "B) Hukuki ve cezai sorumluluktan korunurlar",
@@ -29355,15 +29355,15 @@ window.__C = {
             "D) Hiçbir koruma sağlanmamaktadır"
           ],
           "a": 1,
-          "e": "İyi niyetle yapılan ŞİB'ler için yükümlüler ve çalışanları hukuki ve cezai sorumluluktan korunur; müşteriye karşı tazminat yükümlülüğü doğmaz."
+          "e": "İyi niyetle yapılan ŞİB (şüpheli işlem bildirimi)'ler için yükümlüler ve çalışanları hukuki ve cezai sorumluluktan korunur; müşteriye karşı tazminat yükümlülüğü doğmaz."
         },
         {
-          "q": "7 iş günü içinde MASAK'tan karar gelmezse ne olur?",
+          "q": "7 iş günü içinde MASAK (mali suçları araştırma kurulu)'tan karar gelmezse ne olur?",
           "o": [
             "A) İşlem tamamen iptal olur",
             "B) Yükümlü işlemi gerçekleştirebilir",
             "C) Otomatik olarak 7 iş günü daha uzar",
-            "D) MASAK işlemi resen engeller"
+            "D) MASAK (mali suçları araştırma kurulu) işlemi resen engeller"
           ],
           "a": 1,
           "e": "Süre içinde karar gelmezse yükümlü işlemi gerçekleştirebilir. Bu, işlem ertelemesinin süre sınırıdır."
@@ -29380,15 +29380,15 @@ window.__C = {
           "e": "SWIFT'in 3 veri merkezi ABD, Hollanda ve İsviçre'de bulunmaktadır."
         },
         {
-          "q": "MASAK adına mutabakat muhtırası imzalama yetkisi kime aittir?",
+          "q": "MASAK (mali suçları araştırma kurulu) adına mutabakat muhtırası imzalama yetkisi kime aittir?",
           "o": [
             "A) Hazine ve Maliye Bakanına",
             "B) Cumhurbaşkanına",
-            "C) MASAK Başkanına",
+            "C) MASAK (mali suçları araştırma kurulu) Başkanına",
             "D) Koordinasyon Kurulu Başkanına"
           ],
           "a": 2,
-          "e": "Mutabakat muhtırası MASAK Başkanı tarafından imzalanır; ancak Cumhurbaşkanı kararıyla yürürlüğe girer."
+          "e": "Mutabakat muhtırası MASAK (mali suçları araştırma kurulu) Başkanı tarafından imzalanır; ancak Cumhurbaşkanı kararıyla yürürlüğe girer."
         },
         {
           "q": "İdari tip MİB modeli için aşağıdakilerden hangisi doğrudur?",
@@ -29399,18 +29399,18 @@ window.__C = {
             "D) Ülke bazlı mali yaptırımları uygular"
           ],
           "a": 2,
-          "e": "İdari tip MİB (MASAK gibi) bağımsız idari birim olarak çalışır; soruşturma/kovuşturma yetkisi yoktur; finansal veri toplar, analiz eder ve paylaşır."
+          "e": "İdari tip MİB (MASAK (mali suçları araştırma kurulu) gibi) bağımsız idari birim olarak çalışır; soruşturma/kovuşturma yetkisi yoktur; finansal veri toplar, analiz eder ve paylaşır."
         },
         {
           "q": "Ulusal Risk Değerlendirmesi çalışmalarını hangi kurum koordine eder?",
           "o": [
             "A) Hazine ve Maliye Bakanlığı doğrudan",
-            "B) MASAK",
-            "C) BDDK",
+            "B) MASAK (mali suçları araştırma kurulu)",
+            "C) BDDK (bankacılık düzenleme ve denetleme kurumu)",
             "D) Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı"
           ],
           "a": 1,
-          "e": "URD çalışmaları MASAK koordinasyonunda, ilgili bakanlık ve kurumların katılımıyla yürütülür."
+          "e": "URD çalışmaları MASAK (mali suçları araştırma kurulu) koordinasyonunda, ilgili bakanlık ve kurumların katılımıyla yürütülür."
         },
         {
           "q": "Ticaret bazlı aklama (TBML) nasıl gerçekleşir?",
@@ -29446,15 +29446,15 @@ window.__C = {
           "e": "BMGK 2231 (2015): JCPOA (İran Nükleer Anlaşması / KOEP) çerçevesinde bazı yaptırımlar yumuşatıldı ve denetim mekanizması kuruldu."
         },
         {
-          "q": "ŞİB gizliliğine göre bildirim bilgileri kimlerle paylaşılabilir?",
+          "q": "ŞİB (şüpheli işlem bildirimi) gizliliğine göre bildirim bilgileri kimlerle paylaşılabilir?",
           "o": [
             "A) Her türlü kamu kurumuna bildirilebilir",
-            "B) Yalnızca MASAK ile paylaşılır; üçüncü taraflara aktarılamaz",
+            "B) Yalnızca MASAK (mali suçları araştırma kurulu) ile paylaşılır; üçüncü taraflara aktarılamaz",
             "C) Bağlı şirket ve ortaklara bildirilebilir",
             "D) Müşterinin talebi halinde müşteriyle paylaşılabilir"
           ],
           "a": 1,
-          "e": "ŞİB bilgileri gizlidir; yalnızca MASAK ile paylaşılır, üçüncü taraflara aktarılamaz."
+          "e": "ŞİB (şüpheli işlem bildirimi) bilgileri gizlidir; yalnızca MASAK (mali suçları araştırma kurulu) ile paylaşılır, üçüncü taraflara aktarılamaz."
         },
         {
           "q": "İşlem erteleme kararına aykırı davranmanın yaptırımı nedir?",
@@ -29470,18 +29470,18 @@ window.__C = {
         {
           "q": "Kripto varlık hizmet sağlayıcılar (KVHS) lisansını hangi kurumdan almak zorundadır?",
           "o": [
-            "A) BDDK",
-            "B) TCMB",
-            "C) SPK",
-            "D) MASAK"
+            "A) BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "B) TCMB (türkiye cumhuriyet merkez bankası)",
+            "C) SPK (sermaye piyasası kurulu)",
+            "D) MASAK (mali suçları araştırma kurulu)"
           ],
           "a": 2,
-          "e": "KVHS'ler SPK'dan (Sermaye Piyasası Kurulu) izin almak zorundadır; TÜBİTAK teknik kriterleri de aranır."
+          "e": "KVHS'ler SPK (sermaye piyasası kurulu)'dan (Sermaye Piyasası Kurulu) izin almak zorundadır; TÜBİTAK teknik kriterleri de aranır."
         },
         {
           "q": "Malî Suçlarla Mücadele Koordinasyon Kurulu'na kim başkanlık eder?",
           "o": [
-            "A) MASAK Başkanı",
+            "A) MASAK (mali suçları araştırma kurulu) Başkanı",
             "B) Hazine ve Maliye Bakanı",
             "C) Hazine ve Maliye Bakan Yardımcısı",
             "D) Cumhurbaşkanı Yardımcısı"
@@ -29498,7 +29498,7 @@ window.__C = {
             "D) KİS yaptırımlarını koordine etmek"
           ],
           "a": 1,
-          "e": "EGMONT Grubu, MİB'lerin uluslararası iş birliği ve bilgi paylaşımı platformudur. Karşılıklı değerlendirme FATF'ın görevidir."
+          "e": "EGMONT Grubu, MİB'lerin uluslararası iş birliği ve bilgi paylaşımı platformudur. Karşılıklı değerlendirme FATF (finansal eylem görev gücü)'ın görevidir."
         },
         {
           "q": "KAGKler (Kar Amacı Gütmeyen Kuruluşlar) risk değerlendirmesinde neden özel kategori oluşturur?",
@@ -29509,7 +29509,7 @@ window.__C = {
             "D) Uluslararası bağlantıları olmadığı için"
           ],
           "a": 1,
-          "e": "KAGKler (dernekler, vakıflar) başta terörizmin finansmanı riski nedeniyle özel risk kategorisi oluşturur; FATF da bu alanda özel bir rehber yayımlamıştır."
+          "e": "KAGKler (dernekler, vakıflar) başta terörizmin finansmanı riski nedeniyle özel risk kategorisi oluşturur; FATF (finansal eylem görev gücü) da bu alanda özel bir rehber yayımlamıştır."
         },
         {
           "q": "TCK md.282 kapsamında suç gelirlerini aklama suçunun temel hapis cezası aralığı nedir?",
@@ -29534,28 +29534,28 @@ window.__C = {
           "e": "Değerlendirme Komisyonu, Hazine ve Maliye Bakanlığı bünyesinde yer alır."
         },
         {
-          "q": "KİSYF yükümlülükleri TF yükümlülükleriyle aynı rejim altında mı değerlendirilir?",
+          "q": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülükleri TF yükümlülükleriyle aynı rejim altında mı değerlendirilir?",
           "o": [
             "A) Evet, ikisi tamamen aynı yükümlülük rejimidir",
-            "B) Hayır, KİSYF yükümlülükleri TF yükümlülüklerinden bağımsız değerlendirilir",
+            "B) Hayır, KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülükleri TF yükümlülüklerinden bağımsız değerlendirilir",
             "C) Evet, 6415 sayılı Kanun her ikisini de eşit biçimde kapsar",
-            "D) KİSYF yalnızca bankacılık sektörüne özgüdür"
+            "D) KİSYF (kitle imha silahlarının yayılmasının finansmanı) yalnızca bankacılık sektörüne özgüdür"
           ],
           "a": 1,
-          "e": "KİSYF yükümlülükleri TF yaptırımlarından bağımsız olarak değerlendirilir; FATF da bu iki rejimi ayrı tavsiyeler (R.6 ve R.7) ile düzenlemiştir."
+          "e": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülükleri TF yaptırımlarından bağımsız olarak değerlendirilir; FATF (finansal eylem görev gücü) da bu iki rejimi ayrı tavsiyeler (R.6 ve R.7) ile düzenlemiştir."
         }
       ],
       "t4": [
         {
-          "q": "ŞİB kapsamı yalnızca tamamlanan işlemleri mi kapsar?",
+          "q": "ŞİB (şüpheli işlem bildirimi) kapsamı yalnızca tamamlanan işlemleri mi kapsar?",
           "o": [
             "A) Evet, yalnızca tamamlanan işlemler bildirilebilir",
-            "B) Hayır, teşebbüs edilen işlemler de ŞİB kapsamındadır",
+            "B) Hayır, teşebbüs edilen işlemler de ŞİB (şüpheli işlem bildirimi) kapsamındadır",
             "C) Yalnızca 185.000 TL üzeri işlemler kapsamdadır",
             "D) Yalnızca EFT işlemleri kapsamdadır"
           ],
           "a": 1,
-          "e": "ŞİB kapsamı; yapılan işlemlerin yanı sıra yapılmaya teşebbüs edilen işlemleri de içerir."
+          "e": "ŞİB (şüpheli işlem bildirimi) kapsamı; yapılan işlemlerin yanı sıra yapılmaya teşebbüs edilen işlemleri de içerir."
         },
         {
           "q": "İşlem ertelemesinin 'tehlikeli hal' şartı ne anlama gelir?",
@@ -29594,20 +29594,20 @@ window.__C = {
           "q": "MONEYVAL hangi ülkeleri değerlendirir?",
           "o": [
             "A) G7 ülkelerini",
-            "B) Tüm FATF üyesi ülkeleri",
-            "C) FATF üyesi olmayan Avrupa ülkelerini",
+            "B) Tüm FATF (finansal eylem görev gücü) üyesi ülkeleri",
+            "C) FATF (finansal eylem görev gücü) üyesi olmayan Avrupa ülkelerini",
             "D) Yalnızca AB üyesi ülkeleri"
           ],
           "a": 2,
-          "e": "MONEYVAL, Avrupa Konseyi bünyesinde faaliyet gösterir ve FATF üyesi olmayan Avrupa ülkelerini değerlendirir."
+          "e": "MONEYVAL, Avrupa Konseyi bünyesinde faaliyet gösterir ve FATF (finansal eylem görev gücü) üyesi olmayan Avrupa ülkelerini değerlendirir."
         },
         {
           "q": "SGA/TF Strateji Belgesi 2021–2025 hangi yasal düzenlemeyle yürürlüğe girmiştir?",
           "o": [
             "A) 5549 sayılı Kanun değişikliğiyle",
             "B) 2021/16 sayılı Cumhurbaşkanlığı Genelgesiyle",
-            "C) MASAK Başkanlığı kararıyla",
-            "D) BDDK yönetmeliğiyle"
+            "C) MASAK (mali suçları araştırma kurulu) Başkanlığı kararıyla",
+            "D) BDDK (bankacılık düzenleme ve denetleme kurumu) yönetmeliğiyle"
           ],
           "a": 1,
           "e": "SGA/TF Strateji Belgesi, 2021/16 sayılı Cumhurbaşkanlığı Genelgesi ile yürürlüğe girmiştir."
@@ -29635,18 +29635,18 @@ window.__C = {
           "e": "Dondurulan kişilere temel yaşam giderleri ve hukuki hizmetler için ödeme yapılabilir; ancak bu durum üst düzey yetkilinin onayına tabidir."
         },
         {
-          "q": "7262 sayılı Kanun'un KİSYF açısından önemi nedir?",
+          "q": "7262 sayılı Kanun'un KİSYF (kitle imha silahlarının yayılmasının finansmanı) açısından önemi nedir?",
           "o": [
-            "A) MASAK'ı kuran kanundur",
-            "B) KAGKler dahil KİSYF önlemlerini Türk hukukuna entegre etmiştir",
-            "C) Kripto varlıkları SPK denetimine alan kanundur",
+            "A) MASAK (mali suçları araştırma kurulu)'ı kuran kanundur",
+            "B) KAGKler dahil KİSYF (kitle imha silahlarının yayılmasının finansmanı) önlemlerini Türk hukukuna entegre etmiştir",
+            "C) Kripto varlıkları SPK (sermaye piyasası kurulu) denetimine alan kanundur",
             "D) TF suçunun cezasını belirler"
           ],
           "a": 1,
-          "e": "7262 sayılı Kanun (2021), KAGKlere yönelik ek yükümlülükler ve KİSYF kapsamındaki önlemleri Türk hukukuna entegre etmiştir."
+          "e": "7262 sayılı Kanun (2021), KAGKlere yönelik ek yükümlülükler ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) kapsamındaki önlemleri Türk hukukuna entegre etmiştir."
         },
         {
-          "q": "MASAK ŞİB'lerle ilgili yükümlülere nasıl geri bildirim sağlar?",
+          "q": "MASAK (mali suçları araştırma kurulu) ŞİB (şüpheli işlem bildirimi)'lerle ilgili yükümlülere nasıl geri bildirim sağlar?",
           "o": [
             "A) Hiç geri bildirim sağlamaz",
             "B) Yalnızca şüphelinin tutuklanması halinde bilgi verir",
@@ -29654,18 +29654,18 @@ window.__C = {
             "D) Yalnızca yılda bir rapor yayımlar"
           ],
           "a": 2,
-          "e": "MASAK, ŞİB'lerin akıbeti hakkında yükümlülere hem genel (sektörel istatistik) hem özel (bireysel bildirim sonucu) geri bildirim sağlar."
+          "e": "MASAK (mali suçları araştırma kurulu), ŞİB (şüpheli işlem bildirimi)'lerin akıbeti hakkında yükümlülere hem genel (sektörel istatistik) hem özel (bireysel bildirim sonucu) geri bildirim sağlar."
         },
         {
           "q": "Resen erteleme kimi tarafından başlatılabilir?",
           "o": [
             "A) Yalnızca yükümlü başlatabilir",
             "B) Yalnızca Savcılık başlatabilir",
-            "C) MASAK veya Bakan; yurt dışı muadil kuruluş talebiyle de başlatılabilir",
+            "C) MASAK (mali suçları araştırma kurulu) veya Bakan; yurt dışı muadil kuruluş talebiyle de başlatılabilir",
             "D) Yalnızca BMGK kararıyla başlatılabilir"
           ],
           "a": 2,
-          "e": "MASAK veya Hazine ve Maliye Bakanı resen erteleme başlatabilir; yurt dışındaki muadil kuruluşun talebi de bu süreci başlatabilir."
+          "e": "MASAK (mali suçları araştırma kurulu) veya Hazine ve Maliye Bakanı resen erteleme başlatabilir; yurt dışındaki muadil kuruluşun talebi de bu süreci başlatabilir."
         },
         {
           "q": "Seyahat Kuralı hangi tutardan itibaren zorunlu bilgi iletimini gerektirmektedir?",
@@ -29694,17 +29694,17 @@ window.__C = {
           "o": [
             "A) TF suçunu ilk kez tanımladı",
             "B) Kara para aklamayı ilk kez uluslararası suç olarak tanımladı",
-            "C) FATF'ın kurulmasını sağladı",
-            "D) KİSYF yükümlülüklerini belirledi"
+            "C) FATF (finansal eylem görev gücü)'ın kurulmasını sağladı",
+            "D) KİSYF (kitle imha silahlarının yayılmasının finansmanı) yükümlülüklerini belirledi"
           ],
           "a": 1,
-          "e": "1988 BM Uyuşturucu Sözleşmesi (Viyana Sözleşmesi), kara para aklamayı ilk kez uluslararası suç olarak tanımladı. FATF ise 1989'da kuruldu."
+          "e": "1988 BM Uyuşturucu Sözleşmesi (Viyana Sözleşmesi), kara para aklamayı ilk kez uluslararası suç olarak tanımladı. FATF (finansal eylem görev gücü) ise 1989'da kuruldu."
         },
         {
           "q": "5549 sayılı Kanun'a göre aklama suçunun oluşması için öncül suçun ne olması gerekir?",
           "o": [
             "A) Yalnızca uyuşturucu suçları olmalıdır",
-            "B) FATF'ın belirlediği listede yer alan suçlardan biri olmalıdır",
+            "B) FATF (finansal eylem görev gücü)'ın belirlediği listede yer alan suçlardan biri olmalıdır",
             "C) Belirli bir suç listesiyle sınırlı değildir; her türlü suç geliri kapsamdadır",
             "D) Terör suçu olması şarttır"
           ],
@@ -29723,15 +29723,15 @@ window.__C = {
           "e": "TF'de fon yasal kaynaktan da gelse suç oluşur. Bir iş insanının meşru gelirini terör örgütüne bağışlaması TF suçudur."
         },
         {
-          "q": "13 No'lu MASAK Tebliği neyi düzenler?",
+          "q": "13 No'lu MASAK (mali suçları araştırma kurulu) Tebliği neyi düzenler?",
           "o": [
             "A) Kimlik tespiti prosedürlerini",
-            "B) ŞİB usul ve esaslarını",
+            "B) ŞİB (şüpheli işlem bildirimi) usul ve esaslarını",
             "C) Dondurma kararlarını",
             "D) Risk temelli yaklaşımı"
           ],
           "a": 1,
-          "e": "13 No'lu MASAK Tebliği, ŞİB'in nasıl yapılacağını, içeriğini ve gizlilik esaslarını düzenler."
+          "e": "13 No'lu MASAK (mali suçları araştırma kurulu) Tebliği, ŞİB (şüpheli işlem bildirimi)'in nasıl yapılacağını, içeriğini ve gizlilik esaslarını düzenler."
         },
         {
           "q": "Yurt dışı erteleme taleplerinde hangi ilke uygulanır?",
@@ -29749,7 +29749,7 @@ window.__C = {
           "o": [
             "A) Transfer otomatik engellenir",
             "B) Müşteriden beyan alınır",
-            "C) SPK'ya bildirim yapılır",
+            "C) SPK (sermaye piyasası kurulu)'ya bildirim yapılır",
             "D) İşlem 7 iş günü ertelenir"
           ],
           "a": 1,
@@ -29780,15 +29780,15 @@ window.__C = {
           "e": "BMGK 1373 (2001, 11 Eylül sonrası): Tüm ülkelerin TF'yi suç saymasını, iç hukukta dondurma mekanizması kurmasını zorunlu kılar. 1267: Taliban/El Kaide listesi."
         },
         {
-          "q": "FATF Tavsiye 4 hangi konuyu düzenler?",
+          "q": "FATF (finansal eylem görev gücü) Tavsiye 4 hangi konuyu düzenler?",
           "o": [
-            "A) Müşterinin tanınması (KYC)",
+            "A) Müşterinin tanınması (KYC (müşteri tanıma))",
             "B) Şüpheli işlem bildirimi",
             "C) Müsadere ve geçici tedbirler",
             "D) Mali istihbarat birimleri"
           ],
           "a": 2,
-          "e": "FATF R.4: Suç gelirlerinin müsaderesi ve geçici tedbirler (el koyma, dondurma). Mahkûmiyete dayalı ve mahkûmiyete dayanmayan (non-conviction based) müsadere dahildir."
+          "e": "FATF (finansal eylem görev gücü) R.4: Suç gelirlerinin müsaderesi ve geçici tedbirler (el koyma, dondurma). Mahkûmiyete dayalı ve mahkûmiyete dayanmayan (non-conviction based) müsadere dahildir."
         },
         {
           "q": "KAGKler (dernekler, vakıflar) TF riskiyle nasıl ilişkilendirilir?",
@@ -29799,18 +29799,18 @@ window.__C = {
             "D) Yalnızca siyasi partiler risk oluşturur"
           ],
           "a": 2,
-          "e": "KAGKler, bağış toplama özelliği ve kamusal denetimden görece uzak yapıları nedeniyle TF için yasal görünümlü bir finansman kanalı olarak risk taşır. FATF bu konuda özel rehber yayımlamıştır."
+          "e": "KAGKler, bağış toplama özelliği ve kamusal denetimden görece uzak yapıları nedeniyle TF için yasal görünümlü bir finansman kanalı olarak risk taşır. FATF (finansal eylem görev gücü) bu konuda özel rehber yayımlamıştır."
         },
         {
-          "q": "Müşterinin tanınması (KYC) süreci hangi koşulda uygulanmayabilir?",
+          "q": "Müşterinin tanınması (KYC (müşteri tanıma)) süreci hangi koşulda uygulanmayabilir?",
           "o": [
             "A) Müşteri VIP statüsündeyse",
             "B) İşlem tutarı 185.000 TL altındaysa",
-            "C) KYC sürecinin müşteriyi ihbar edeceği durumlarda",
+            "C) KYC (müşteri tanıma) sürecinin müşteriyi ihbar edeceği durumlarda",
             "D) Müşteri 10 yıldır yükümlüyle çalışıyorsa"
           ],
           "a": 2,
-          "e": "KYC süreci müşteriye ihbar riski (tipping-off) doğuracaksa geçici olarak uygulanmayabilir. Bu, 13 No'lu MASAK Tebliği kapsamında düzenlenmiştir."
+          "e": "KYC (müşteri tanıma) süreci müşteriye ihbar riski (tipping-off) doğuracaksa geçici olarak uygulanmayabilir. Bu, 13 No'lu MASAK (mali suçları araştırma kurulu) Tebliği kapsamında düzenlenmiştir."
         },
         {
           "q": "Aşağıdaki hangi bilgi yurt dışı erteleme talebinde bulunması gereken asgari bilgilerden biridir?",
@@ -29850,7 +29850,7 @@ window.__C = {
           "o": [
             "A) BM bünyesinde faaliyet gösteren yaptırım komitesi",
             "B) ABD Hazine Bakanlığı bünyesinde yaptırım uygulayan birim",
-            "C) FATF bünyesinde kara liste yöneten kurul",
+            "C) FATF (finansal eylem görev gücü) bünyesinde kara liste yöneten kurul",
             "D) AB'nin mali yaptırım organı"
           ],
           "a": 1,
@@ -29879,7 +29879,7 @@ window.__C = {
           "e": "BMGK 1267 (1999) ve devamı kararlar: Taliban, El Kaide ve IŞİD bağlantılı kişi/kuruluşlara yönelik dondurma + seyahat yasağı + silah ambargosu."
         },
         {
-          "q": "Aşağıdakilerden hangisi bir aklama ŞİB tipolojisine örnek teşkil eder?",
+          "q": "Aşağıdakilerden hangisi bir aklama ŞİB (şüpheli işlem bildirimi) tipolojisine örnek teşkil eder?",
           "o": [
             "A) Müşterinin kimliğini ibraz etmemesi",
             "B) İşlem tutarının olağan müşteri profilinin çok üzerinde olması ve nakit kaynağının açıklanamaması",
@@ -29887,7 +29887,7 @@ window.__C = {
             "D) Yüksek riskli ülkeye düşük tutarlı düzenli transfer"
           ],
           "a": 1,
-          "e": "İşlem tutarının müşteri profiyle uyumsuzluğu ve açıklanamayan nakit kaynağı aklama ŞİB tipolojisinin klasik göstergesidir. Son şık TF tipolojisine örnektir."
+          "e": "İşlem tutarının müşteri profiyle uyumsuzluğu ve açıklanamayan nakit kaynağı aklama ŞİB (şüpheli işlem bildirimi) tipolojisinin klasik göstergesidir. Son şık TF tipolojisine örnektir."
         },
         {
           "q": "6493 sayılı Kanun neyi düzenlemektedir?",
@@ -29898,7 +29898,7 @@ window.__C = {
             "D) Sermaye piyasası aracılarını"
           ],
           "a": 1,
-          "e": "6493 sayılı Kanun; ödeme hizmetleri, ödeme kuruluşları ve elektronik para kuruluşlarını düzenler. Lisans BDDK'dan alınır."
+          "e": "6493 sayılı Kanun; ödeme hizmetleri, ödeme kuruluşları ve elektronik para kuruluşlarını düzenler. Lisans BDDK (bankacılık düzenleme ve denetleme kurumu)'dan alınır."
         },
         {
           "q": "5549 sayılı Kanun md.2 kapsamında aşağıdakilerden hangisi denetim elemanıdır?",
@@ -29912,7 +29912,7 @@ window.__C = {
           "e": "Bankalar Yeminli Murakıpları, 5549 sayılı Kanun kapsamındaki denetim elemanlarındandır. Adalet Müfettişleri ve Emniyet personeli bu kapsamda değildir."
         },
         {
-          "q": "Hangi FATF Tavsiyesi şüpheli işlem bildirimi yükümlülüğünü düzenler?",
+          "q": "Hangi FATF (finansal eylem görev gücü) Tavsiyesi şüpheli işlem bildirimi yükümlülüğünü düzenler?",
           "o": [
             "A) Tavsiye 4",
             "B) Tavsiye 10",
@@ -29920,7 +29920,7 @@ window.__C = {
             "D) Tavsiye 29"
           ],
           "a": 2,
-          "e": "FATF Tavsiye 20: Şüpheli işlemlerin derhal MİB'e bildirilmesi. Tavsiye 10: Müşterinin tanınması (KYC); Tavsiye 4: Müsadere ve geçici tedbirler."
+          "e": "FATF (finansal eylem görev gücü) Tavsiye 20: Şüpheli işlemlerin derhal MİB'e bildirilmesi. Tavsiye 10: Müşterinin tanınması (KYC (müşteri tanıma)); Tavsiye 4: Müsadere ve geçici tedbirler."
         },
         {
           "q": "Öncül suçun faili aynı zamanda aklama suçu işleyebilir mi?",
@@ -29978,7 +29978,7 @@ window.__C = {
           "e": "Gönderici zorunlu bilgiler: Ad-soyad veya unvan, cüzdan adresi ve tanımlayıcı bilgi. Alıcı için de ad-soyad ve cüzdan adresi gereklidir; ancak teyit zorunlu değildir."
         },
         {
-          "q": "FATF Karşılıklı Değerlendirme'de kaç adet Etkinlik kriteri bulunmaktadır?",
+          "q": "FATF (finansal eylem görev gücü) Karşılıklı Değerlendirme'de kaç adet Etkinlik kriteri bulunmaktadır?",
           "o": [
             "A) 7",
             "B) 10",
@@ -29996,7 +29996,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Uyum Birimi Nedir?",
-        "body": "<ul><li><strong>Uyum birimi</strong>; SGA, TF ve KİSYF risklerine karşı yükümlü kuruluşların bünyesinde oluşturduğu bağımsız organizasyonel birimdir.</li><li>Hukuki dayanak: <strong>5549 sayılı Kanun</strong> ve <strong>Tedbirler Yönetmeliği</strong>.</li><li>Temel misyon: uyum yükümlülüklerinin sistematik ve etkin biçimde yerine getirilmesini koordine etmek.</li></ul>"
+        "body": "<ul><li><strong>Uyum birimi</strong>; SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerine karşı yükümlü kuruluşların bünyesinde oluşturduğu bağımsız organizasyonel birimdir.</li><li>Hukuki dayanak: <strong>5549 sayılı Kanun</strong> ve <strong>Tedbirler Yönetmeliği</strong>.</li><li>Temel misyon: uyum yükümlülüklerinin sistematik ve etkin biçimde yerine getirilmesini koordine etmek.</li></ul>"
       },
       {
         "num": "02",
@@ -30006,7 +30006,7 @@ window.__C = {
       {
         "num": "03",
         "title": "Uyum Biriminin Temel İşlevleri",
-        "body": "<ul><li><strong>ŞİB</strong> sürecini koordine etmek ve MASAK'a zamanında iletilmesini sağlamak</li><li>SGA/TF/KİSYF <strong>risk değerlendirmesi</strong> yapmak</li><li>Personele yönelik <strong>eğitim programlarını</strong> organize etmek</li><li>Uyum programını oluşturmak, uygulamak ve güncellemek</li><li><strong>İç denetimle</strong> koordinasyon sağlamak</li></ul>"
+        "body": "<ul><li><strong>ŞİB (şüpheli işlem bildirimi)</strong> sürecini koordine etmek ve MASAK (mali suçları araştırma kurulu)'a zamanında iletilmesini sağlamak</li><li>SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) <strong>risk değerlendirmesi</strong> yapmak</li><li>Personele yönelik <strong>eğitim programlarını</strong> organize etmek</li><li>Uyum programını oluşturmak, uygulamak ve güncellemek</li><li><strong>İç denetimle</strong> koordinasyon sağlamak</li></ul>"
       },
       {
         "num": "04",
@@ -30066,15 +30066,15 @@ window.__C = {
           "e": "Katılım bankaları 5549 sayılı Kanun kapsamında uyum birimi kurmakla yükümlüdür."
         },
         {
-          "q": "Uyum biriminin ŞİB sürecindeki temel rolü nedir?",
+          "q": "Uyum biriminin ŞİB (şüpheli işlem bildirimi) sürecindeki temel rolü nedir?",
           "o": [
             "A) Müşteriye bildirim yapmak",
-            "B) ŞİB'lerin MASAK'a eksiksiz ve zamanında iletilmesini koordine etmek",
-            "C) ŞİB kararını mahkemeye taşımak",
+            "B) ŞİB (şüpheli işlem bildirimi)'lerin MASAK (mali suçları araştırma kurulu)'a eksiksiz ve zamanında iletilmesini koordine etmek",
+            "C) ŞİB (şüpheli işlem bildirimi) kararını mahkemeye taşımak",
             "D) İşlemi otomatik olarak durdurmak"
           ],
           "a": 1,
-          "e": "Uyum birimi, ŞİB'lerin MASAK'a doğru ve zamanında iletilmesini koordine etmekten sorumludur."
+          "e": "Uyum birimi, ŞİB (şüpheli işlem bildirimi)'lerin MASAK (mali suçları araştırma kurulu)'a doğru ve zamanında iletilmesini koordine etmekten sorumludur."
         },
         {
           "q": "Uyum birimi hangi risk kategorileriyle öncelikli olarak ilgilenir?",
@@ -30082,15 +30082,15 @@ window.__C = {
             "A) Piyasa riski ve kur riski",
             "B) Faiz oranı riski",
             "C) Likidite riski",
-            "D) SGA, TF ve KİSYF riskleri"
+            "D) SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) riskleri"
           ],
           "a": 3,
-          "e": "Uyum birimi öncelikli olarak SGA, TF ve KİSYF riskleriyle ilgilenir."
+          "e": "Uyum birimi öncelikli olarak SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) riskleriyle ilgilenir."
         },
         {
           "q": "Çıkar çatışması yasağı kapsamında uyum birimi aşağıdakilerden hangisini yapmamalıdır?",
           "o": [
-            "A) ŞİB koordinasyonu",
+            "A) ŞİB (şüpheli işlem bildirimi) koordinasyonu",
             "B) Personel eğitimi organize etmek",
             "C) Ticari pazarlama ve satış hedefleri olan roller üstlenmek",
             "D) Risk değerlendirmesi yapmak"
@@ -30115,7 +30115,7 @@ window.__C = {
             "A) Büyük bankalarla aynı yapıyı oluşturmak zorundadır",
             "B) Risk bazlı yaklaşım çerçevesinde ölçeğe uygun orantılı yapı kurabilir",
             "C) Hiçbir yükümlülükleri yoktur",
-            "D) Yalnızca MASAK'a kayıt yaptırmak yeterlidir"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu)'a kayıt yaptırmak yeterlidir"
           ],
           "a": 1,
           "e": "Risk bazlı yaklaşım gereği küçük yükümlüler ölçeğine uygun orantılı bir yapı kurabilir."
@@ -30140,7 +30140,7 @@ window.__C = {
             "D) Risk değerlendirme raporları"
           ],
           "a": 1,
-          "e": "Yıllık kâr-zarar raporu muhasebe çıktısıdır; uyum biriminin çıktıları ŞİB, uyum raporları ve risk değerlendirmeleridir."
+          "e": "Yıllık kâr-zarar raporu muhasebe çıktısıdır; uyum biriminin çıktıları ŞİB (şüpheli işlem bildirimi), uyum raporları ve risk değerlendirmeleridir."
         },
         {
           "q": "Uyum birimi bulundurmayan bir finansal yükümlü hangi sonuçla karşılaşabilir?",
@@ -30157,7 +30157,7 @@ window.__C = {
           "q": "Finansal grup bünyesinde ana ortaklığın uyum konusundaki rolü nedir?",
           "o": [
             "A) Bağlı şirketlere uyum görevlisi atar",
-            "B) Bağlı şirketlerin tüm ŞİB'lerini doğrudan gönderir",
+            "B) Bağlı şirketlerin tüm ŞİB (şüpheli işlem bildirimi)'lerini doğrudan gönderir",
             "C) Grup genelinde uyum koordinasyonunu sağlar ve standartları belirler",
             "D) Bağlı şirketlerin uyum birimlerini kapatır"
           ],
@@ -30168,7 +30168,7 @@ window.__C = {
           "q": "Uyum biriminin bağımsızlığını korumak için kaçınılması gereken görev hangisidir?",
           "o": [
             "A) Üst yönetime rapor sunmak",
-            "B) ŞİB koordinasyonu yapmak",
+            "B) ŞİB (şüpheli işlem bildirimi) koordinasyonu yapmak",
             "C) İş geliştirme ve satış hedefleri olan ticari roller üstlenmek",
             "D) Personel eğitimi vermek"
           ],
@@ -30195,7 +30195,7 @@ window.__C = {
             "D) Tüketici haklarının korunması"
           ],
           "a": 2,
-          "e": "Uyum birimi SGA ve TF'nin yanı sıra KİSYF alanında da uyum yükümlülüklerini yerine getirmekten sorumludur."
+          "e": "Uyum birimi SGA ve TF'nin yanı sıra KİSYF (kitle imha silahlarının yayılmasının finansmanı) alanında da uyum yükümlülüklerini yerine getirmekten sorumludur."
         },
         {
           "q": "Uyum biriminin yapısal kurulumunda en belirleyici etken nedir?",
@@ -30214,7 +30214,7 @@ window.__C = {
             "A) Yalnızca dış denetim talebi üzerine",
             "B) Yeni ürün/hizmet, değişen müşteri kategorisi veya mevzuat değişikliği gibi durumlarda düzenli olarak",
             "C) Yalnızca yıl sonunda",
-            "D) Yalnızca ŞİB yapıldıktan sonra"
+            "D) Yalnızca ŞİB (şüpheli işlem bildirimi) yapıldıktan sonra"
           ],
           "a": 1,
           "e": "Risk değerlendirmesi yeni ürün/hizmet, değişen müşteri profili veya mevzuat güncellemeleri durumunda ve düzenli aralıklarla yapılmalıdır."
@@ -30225,7 +30225,7 @@ window.__C = {
             "A) İkisi aynı kavramdır",
             "B) Uyum programı yazılı politika bütünüdür; uyum birimi bu programı yürüten organizasyonel yapıdır",
             "C) Uyum birimi yalnızca büyük bankalarda zorunludur",
-            "D) Uyum programı yalnızca MASAK'a gönderilen belgelerdir"
+            "D) Uyum programı yalnızca MASAK (mali suçları araştırma kurulu)'a gönderilen belgelerdir"
           ],
           "a": 1,
           "e": "Uyum programı yazılı politika ve prosedürler bütünüdür; uyum birimi bu çerçeveyi hayata geçiren organizasyonel yapıdır."
@@ -30235,7 +30235,7 @@ window.__C = {
           "o": [
             "A) Satış gelirlerini artırır",
             "B) Kârlılığı doğrudan yükseltir",
-            "C) SGA/TF/KİSYF risklerini yöneterek kurumu yaptırım ve itibar riskinden korur",
+            "C) SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerini yöneterek kurumu yaptırım ve itibar riskinden korur",
             "D) Müşteri sayısını çoğaltır"
           ],
           "a": 2,
@@ -30249,12 +30249,12 @@ window.__C = {
       {
         "num": "01",
         "title": "Uyum Görevlisi Kimdir?",
-        "body": "<ul><li><strong>Uyum görevlisi</strong>; yükümlü kuruluşta SGA, TF ve KİSYF uyum programının yönetiminden sorumlu, üst düzey yönetici statüsünde görevlidir.</li><li>Kurum yönetimi tarafından atanır; atama ve değişiklik <strong>MASAK'a bildirilir</strong>.</li><li>En az <strong>lisans mezunu</strong> olma ve ilgili alanda deneyim şartı aranır.</li></ul>"
+        "body": "<ul><li><strong>Uyum görevlisi</strong>; yükümlü kuruluşta SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) uyum programının yönetiminden sorumlu, üst düzey yönetici statüsünde görevlidir.</li><li>Kurum yönetimi tarafından atanır; atama ve değişiklik <strong>MASAK (mali suçları araştırma kurulu)'a bildirilir</strong>.</li><li>En az <strong>lisans mezunu</strong> olma ve ilgili alanda deneyim şartı aranır.</li></ul>"
       },
       {
         "num": "02",
         "title": "Uyum Görevlisinin Temel Görevleri",
-        "body": "<ul><li>ŞİB'lerin hazırlanması ve MASAK'a iletilmesini sağlamak</li><li>Personele SGA/TF eğitimi vermek ve organize etmek</li><li>Uyum programını yönetmek ve güncellemek</li><li>Risk değerlendirmesi yaparak üst yönetime raporlamak</li><li>Mevzuat değişikliklerini takip etmek ve kuruma bildirmek</li><li>İç denetimle koordinasyon sağlamak</li></ul>"
+        "body": "<ul><li>ŞİB (şüpheli işlem bildirimi)'lerin hazırlanması ve MASAK (mali suçları araştırma kurulu)'a iletilmesini sağlamak</li><li>Personele SGA/TF eğitimi vermek ve organize etmek</li><li>Uyum programını yönetmek ve güncellemek</li><li>Risk değerlendirmesi yaparak üst yönetime raporlamak</li><li>Mevzuat değişikliklerini takip etmek ve kuruma bildirmek</li><li>İç denetimle koordinasyon sağlamak</li></ul>"
       },
       {
         "num": "03",
@@ -30264,7 +30264,7 @@ window.__C = {
       {
         "num": "04",
         "title": "Atama, Vekalet ve Bildirim",
-        "body": "<ul><li>Uyum görevlisi, <strong>yönetim kurulu veya genel müdür</strong> tarafından atanır.</li><li>Atama ve değişiklik <strong>MASAK'a bildirilmeli</strong>; aksi hâlde idari yaptırım uygulanır.</li><li>Geçici yoklukta veya ayrılmada <strong>vekil</strong> atanması zorunludur.</li><li>Büyük ölçekli kuruluşlarda birden fazla uyum görevlisi bulunabilir.</li></ul>"
+        "body": "<ul><li>Uyum görevlisi, <strong>yönetim kurulu veya genel müdür</strong> tarafından atanır.</li><li>Atama ve değişiklik <strong>MASAK (mali suçları araştırma kurulu)'a bildirilmeli</strong>; aksi hâlde idari yaptırım uygulanır.</li><li>Geçici yoklukta veya ayrılmada <strong>vekil</strong> atanması zorunludur.</li><li>Büyük ölçekli kuruluşlarda birden fazla uyum görevlisi bulunabilir.</li></ul>"
       },
       {
         "num": "05",
@@ -30288,8 +30288,8 @@ window.__C = {
         {
           "q": "Uyum görevlisinin atanmasında karar yetkisi kime aittir?",
           "o": [
-            "A) MASAK",
-            "B) SPK",
+            "A) MASAK (mali suçları araştırma kurulu)",
+            "B) SPK (sermaye piyasası kurulu)",
             "C) Yükümlünün yönetim kurulu veya genel müdürü",
             "D) Emniyet teşkilatı"
           ],
@@ -30300,12 +30300,12 @@ window.__C = {
           "q": "Uyum görevlisi ataması ve değişikliği hangi makama bildirilmelidir?",
           "o": [
             "A) Adalet Bakanlığı",
-            "B) MASAK",
-            "C) SPK",
+            "B) MASAK (mali suçları araştırma kurulu)",
+            "C) SPK (sermaye piyasası kurulu)",
             "D) Hazine ve Maliye Bakanlığı vergi dairesi"
           ],
           "a": 1,
-          "e": "Uyum görevlisi atama ve değişikliklerinin MASAK'a bildirilmesi zorunludur; aksi hâlde idari yaptırım uygulanabilir."
+          "e": "Uyum görevlisi atama ve değişikliklerinin MASAK (mali suçları araştırma kurulu)'a bildirilmesi zorunludur; aksi hâlde idari yaptırım uygulanabilir."
         },
         {
           "q": "Uyum görevlisinin eğitim niteliği açısından asgari şart nedir?",
@@ -30321,7 +30321,7 @@ window.__C = {
         {
           "q": "Aşağıdakilerden hangisi uyum görevlisinin temel görevleri arasında yer almaz?",
           "o": [
-            "A) ŞİB'lerin MASAK'a iletilmesini sağlamak",
+            "A) ŞİB (şüpheli işlem bildirimi)'lerin MASAK (mali suçları araştırma kurulu)'a iletilmesini sağlamak",
             "B) Personele SGA/TF eğitimi vermek",
             "C) Müşterilere kredi tahsis etmek",
             "D) Risk değerlendirmesi yaparak raporlamak"
@@ -30343,7 +30343,7 @@ window.__C = {
         {
           "q": "Uyum görevlisinin geçici yokluğunda ne yapılmalıdır?",
           "o": [
-            "A) MASAK geçici olarak görevi devralır",
+            "A) MASAK (mali suçları araştırma kurulu) geçici olarak görevi devralır",
             "B) Uyum faaliyetleri askıya alınır",
             "C) Görev için vekil atanır",
             "D) Yönetim kurulu üyelerinden biri görevi üstlenir"
@@ -30356,7 +30356,7 @@ window.__C = {
           "o": [
             "A) Değişiklikleri yalnızca iç denetim birimine bildirir",
             "B) Değişiklikleri takip eder ve kurumu etkileyecek güncellemeleri üst yönetime bildirir",
-            "C) Değişiklikler için MASAK'tan talimat bekler",
+            "C) Değişiklikler için MASAK (mali suçları araştırma kurulu)'tan talimat bekler",
             "D) Değişiklikler personele doğrudan duyurulmaz"
           ],
           "a": 1,
@@ -30382,18 +30382,18 @@ window.__C = {
             "D) Yalnızca mahkeme aracılığıyla iletişim kurar"
           ],
           "a": 0,
-          "e": "Uyum görevlisi, MASAK ve diğer denetim otoritelerinin gerçekleştirdiği süreçlerde kurumu temsil eden yetkili muhataptır."
+          "e": "Uyum görevlisi, MASAK (mali suçları araştırma kurulu) ve diğer denetim otoritelerinin gerçekleştirdiği süreçlerde kurumu temsil eden yetkili muhataptır."
         },
         {
-          "q": "Uyum görevlisi ŞİB sürecinde hangi rolü üstlenir?",
+          "q": "Uyum görevlisi ŞİB (şüpheli işlem bildirimi) sürecinde hangi rolü üstlenir?",
           "o": [
-            "A) ŞİB bildirimini müşteriye iletir",
-            "B) ŞİB'lerin değerlendirilmesi, hazırlanması ve MASAK'a iletilmesini koordine eder",
-            "C) ŞİB için mahkeme kararı alır",
-            "D) ŞİB konusu işlemi derhal iptal eder"
+            "A) ŞİB (şüpheli işlem bildirimi) bildirimini müşteriye iletir",
+            "B) ŞİB (şüpheli işlem bildirimi)'lerin değerlendirilmesi, hazırlanması ve MASAK (mali suçları araştırma kurulu)'a iletilmesini koordine eder",
+            "C) ŞİB (şüpheli işlem bildirimi) için mahkeme kararı alır",
+            "D) ŞİB (şüpheli işlem bildirimi) konusu işlemi derhal iptal eder"
           ],
           "a": 1,
-          "e": "Uyum görevlisi ŞİB'lerin doğru değerlendirilmesini, hazırlanmasını ve MASAK'a zamanında iletilmesini koordine eder."
+          "e": "Uyum görevlisi ŞİB (şüpheli işlem bildirimi)'lerin doğru değerlendirilmesini, hazırlanmasını ve MASAK (mali suçları araştırma kurulu)'a zamanında iletilmesini koordine eder."
         },
         {
           "q": "Uyum görevlisinin ihlallerden kaynaklanan sorumluluğu nedir?",
@@ -30412,7 +30412,7 @@ window.__C = {
             "A) Her gün rapor vermek zorundadır",
             "B) Kurum iç düzenlemelerine ve yetkili makam talimatlarına göre",
             "C) Yılda bir kez yeterlidir",
-            "D) MASAK haftalık rapor ister"
+            "D) MASAK (mali suçları araştırma kurulu) haftalık rapor ister"
           ],
           "a": 1,
           "e": "Raporlama sıklığı kurumun iç düzenlemelerine ve yetkili makamların taleplerine göre belirlenir."
@@ -30437,7 +30437,7 @@ window.__C = {
             "D) Herhangi bir sonucu olmaz"
           ],
           "a": 1,
-          "e": "Atama/değişiklik bildiriminin MASAK'a yapılmaması idari para cezasına ve denetim müdahalesine yol açabilir."
+          "e": "Atama/değişiklik bildiriminin MASAK (mali suçları araştırma kurulu)'a yapılmaması idari para cezasına ve denetim müdahalesine yol açabilir."
         },
         {
           "q": "Uyum görevlisinin uyum programına katkısı nasıl tanımlanır?",
@@ -30467,7 +30467,7 @@ window.__C = {
             "A) Durumu gizlemelidir",
             "B) Durumu derhal üst yönetime bildirmeli ve çatışmadan uzak durmalıdır",
             "C) Sadece iç denetim birimine bildirmelidir",
-            "D) Yalnızca MASAK'a bildirmelidir"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu)'a bildirmelidir"
           ],
           "a": 1,
           "e": "Çıkar çatışması durumunun derhal üst yönetime bildirilmesi ve görevin tarafsızlıkla sürdürülmesi esastır."
@@ -30478,7 +30478,7 @@ window.__C = {
             "A) En az lisans mezuniyeti",
             "B) Finans, hukuk veya uyum/denetim alanında deneyim tercih edilmesi",
             "C) Aynı kurumda en az 20 yıl çalışmış olmak",
-            "D) SPK lisanslama sisteminde belirlenmiş yeterlilikleri sağlamak"
+            "D) SPK (sermaye piyasası kurulu) lisanslama sisteminde belirlenmiş yeterlilikleri sağlamak"
           ],
           "a": 2,
           "e": "20 yıl çalışmış olmak yasal bir şart değildir; mezuniyet düzeyi ve ilgili deneyim önem taşır."
@@ -30492,7 +30492,7 @@ window.__C = {
             "D) Bütçe hazırlar"
           ],
           "a": 1,
-          "e": "Uyum görevlisi, kurumun SGA/TF/KİSYF risklerini sistematik ve etkin biçimde yönetmesini sağlayan kilit konumdaki kişidir."
+          "e": "Uyum görevlisi, kurumun SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerini sistematik ve etkin biçimde yönetmesini sağlayan kilit konumdaki kişidir."
         }
       ]
     }
@@ -30502,12 +30502,12 @@ window.__C = {
       {
         "num": "01",
         "title": "Uyum Görevlisi Yetkilendirme Sınavı",
-        "body": "<ul><li>SPK bünyesinde düzenlenen <strong>Uyum Görevlisi Yetkilendirme Sınavı</strong>, iki modülden oluşur.</li><li><strong>Modül 1</strong>: SGA, TF ve KİSYF temel mevzuatı.</li><li><strong>Modül 2</strong>: Uyum yönetimi, müşterinin tanınması, denetim ve yükümlülükler.</li><li>Her iki modülden de geçer not alınması zorunludur.</li></ul>"
+        "body": "<ul><li>SPK (sermaye piyasası kurulu) bünyesinde düzenlenen <strong>Uyum Görevlisi Yetkilendirme Sınavı</strong>, iki modülden oluşur.</li><li><strong>Modül 1</strong>: SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) temel mevzuatı.</li><li><strong>Modül 2</strong>: Uyum yönetimi, müşterinin tanınması, denetim ve yükümlülükler.</li><li>Her iki modülden de geçer not alınması zorunludur.</li></ul>"
       },
       {
         "num": "02",
         "title": "Lisanslama Zorunluluğu",
-        "body": "<ul><li>Sermaye piyasası kuruluşlarında görev yapan uyum görevlilerinin <strong>SPK lisansına</strong> sahip olması zorunludur.</li><li>Lisans zorunluluğu; aracı kurumlar, portföy yönetim şirketleri ve diğer SPK lisanslı kuruluşları kapsar.</li><li>Lisanssız uyum görevlisi çalıştırmak idari yaptırıma yol açar.</li></ul>"
+        "body": "<ul><li>Sermaye piyasası kuruluşlarında görev yapan uyum görevlilerinin <strong>SPK (sermaye piyasası kurulu) lisansına</strong> sahip olması zorunludur.</li><li>Lisans zorunluluğu; aracı kurumlar, portföy yönetim şirketleri ve diğer SPK (sermaye piyasası kurulu) lisanslı kuruluşları kapsar.</li><li>Lisanssız uyum görevlisi çalıştırmak idari yaptırıma yol açar.</li></ul>"
       },
       {
         "num": "03",
@@ -30517,12 +30517,12 @@ window.__C = {
       {
         "num": "04",
         "title": "Lisans Yenileme ve Sürekli Eğitim",
-        "body": "<ul><li>Lisansın geçerliliğini koruyabilmek için belirlenen süre içinde <strong>lisans yenileme</strong> başvurusu yapılmalıdır.</li><li><strong>Sürekli eğitim</strong>: SGA/TF/KİSYF alanındaki güncel gelişmeleri kapsayan eğitimlere katılım zorunludur.</li><li>Eğitim kayıtları belgelenmeli ve saklanmalıdır.</li></ul>"
+        "body": "<ul><li>Lisansın geçerliliğini koruyabilmek için belirlenen süre içinde <strong>lisans yenileme</strong> başvurusu yapılmalıdır.</li><li><strong>Sürekli eğitim</strong>: SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) alanındaki güncel gelişmeleri kapsayan eğitimlere katılım zorunludur.</li><li>Eğitim kayıtları belgelenmeli ve saklanmalıdır.</li></ul>"
       },
       {
         "num": "05",
         "title": "Lisans Türleri ve İptal",
-        "body": "<ul><li>SPK, lisans ihlali veya ağır mesleki kusur hâlinde lisansı <strong>iptal</strong> edebilir.</li><li>Farklı kuruluş türleri için (sermaye piyasası, sigortacılık vb.) farklı düzenleyici otoritelerin ek gereksinimleri söz konusu olabilir.</li><li>Lisans, kişiye özgüdür; başka kişiye devredilemez.</li></ul>"
+        "body": "<ul><li>SPK (sermaye piyasası kurulu), lisans ihlali veya ağır mesleki kusur hâlinde lisansı <strong>iptal</strong> edebilir.</li><li>Farklı kuruluş türleri için (sermaye piyasası, sigortacılık vb.) farklı düzenleyici otoritelerin ek gereksinimleri söz konusu olabilir.</li><li>Lisans, kişiye özgüdür; başka kişiye devredilemez.</li></ul>"
       }
     ],
     "tests": {
@@ -30530,8 +30530,8 @@ window.__C = {
         {
           "q": "Uyum görevlisi lisanslama sınavını Türkiye'de hangi kurum düzenlemektedir?",
           "o": [
-            "A) MASAK",
-            "B) BDDK",
+            "A) MASAK (mali suçları araştırma kurulu)",
+            "B) BDDK (bankacılık düzenleme ve denetleme kurumu)",
             "C) SPK (Sermaye Piyasası Kurulu)",
             "D) Hazine ve Maliye Bakanlığı"
           ],
@@ -30547,18 +30547,18 @@ window.__C = {
             "D) 4"
           ],
           "a": 1,
-          "e": "Sınav iki modülden oluşur: Modül 1 (SGA/TF/KİSYF mevzuatı) ve Modül 2 (uyum yönetimi, müşterinin tanınması, denetim)."
+          "e": "Sınav iki modülden oluşur: Modül 1 (SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) mevzuatı) ve Modül 2 (uyum yönetimi, müşterinin tanınması, denetim)."
         },
         {
           "q": "Sınavın Modül 1'i hangi konuları kapsamaktadır?",
           "o": [
             "A) Uyum programı yönetimi ve müşterinin tanınması",
             "B) Vergi hukuku ve muhasebe",
-            "C) SGA, TF ve KİSYF temel mevzuatı",
+            "C) SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) temel mevzuatı",
             "D) Sermaye piyasası araçları"
           ],
           "a": 2,
-          "e": "Modül 1; suç gelirlerinin aklanması (SGA), terörizmin finansmanı (TF) ve KİSYF temel mevzuatını kapsar."
+          "e": "Modül 1; suç gelirlerinin aklanması (SGA), terörizmin finansmanı (TF) ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) temel mevzuatını kapsar."
         },
         {
           "q": "Sınavın Modül 2'si hangi konuları kapsamaktadır?",
@@ -30569,7 +30569,7 @@ window.__C = {
             "D) Bankacılık operasyonları"
           ],
           "a": 1,
-          "e": "Modül 2; uyum yönetimi, müşterinin tanınması (KYC), yükümlülük denetimi ve diğer uyum yükümlülüklerini kapsar."
+          "e": "Modül 2; uyum yönetimi, müşterinin tanınması (KYC (müşteri tanıma)), yükümlülük denetimi ve diğer uyum yükümlülüklerini kapsar."
         },
         {
           "q": "Her iki modülden de geçer not alınamaması hâlinde ne olur?",
@@ -30583,7 +30583,7 @@ window.__C = {
           "e": "Lisans alınabilmesi için her iki modülden de geçer not alınması şarttır."
         },
         {
-          "q": "SPK lisanslı sermaye piyasası kuruluşlarında uyum görevlisinin lisans sahibi olma zorunluluğu neden önemlidir?",
+          "q": "SPK (sermaye piyasası kurulu) lisanslı sermaye piyasası kuruluşlarında uyum görevlisinin lisans sahibi olma zorunluluğu neden önemlidir?",
           "o": [
             "A) Kârlılığı artırmak için",
             "B) Uyum görevlisinin yeterliliğini ve profesyonelliğini güvence altına almak için",
@@ -30620,7 +30620,7 @@ window.__C = {
           "o": [
             "A) Sınavı yeniden geçmek zorunludur",
             "B) Belirlenen süre içinde yenileme başvurusu yapılmalı ve sürekli eğitim koşulları karşılanmalıdır",
-            "C) Yalnızca MASAK'a başvuru yapılması yeterlidir",
+            "C) Yalnızca MASAK (mali suçları araştırma kurulu)'a başvuru yapılması yeterlidir",
             "D) Lisansın otomatik yenilenmesi için herhangi bir işlem gerekmez"
           ],
           "a": 1,
@@ -30630,12 +30630,12 @@ window.__C = {
           "q": "Sürekli eğitim kapsamında uyum görevlileri hangi içeriklere sahip eğitimlere katılmalıdır?",
           "o": [
             "A) Yalnızca muhasebe kursları",
-            "B) SGA/TF/KİSYF alanındaki güncel gelişmeleri kapsayan eğitimler",
+            "B) SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) alanındaki güncel gelişmeleri kapsayan eğitimler",
             "C) Yalnızca yabancı dil kursları",
             "D) Yalnızca yönetim becerileri seminerleri"
           ],
           "a": 1,
-          "e": "Sürekli eğitim; SGA, TF ve KİSYF alanındaki mevzuat değişikliklerini ve güncel gelişmeleri kapsayan içeriklerden oluşmalıdır."
+          "e": "Sürekli eğitim; SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) alanındaki mevzuat değişikliklerini ve güncel gelişmeleri kapsayan içeriklerden oluşmalıdır."
         },
         {
           "q": "Lisans kişiye özgü olup başkasına devredilemez ifadesi ne anlama gelir?",
@@ -30652,23 +30652,23 @@ window.__C = {
           "q": "Lisansın iptali hangi durumlarda söz konusu olabilir?",
           "o": [
             "A) Yalnızca emeklilik hâlinde",
-            "B) Lisans ihlali veya ağır mesleki kusur hâlinde SPK tarafından",
+            "B) Lisans ihlali veya ağır mesleki kusur hâlinde SPK (sermaye piyasası kurulu) tarafından",
             "C) Kurum değişikliğinde otomatik olarak",
             "D) Yalnızca mahkeme kararıyla"
           ],
           "a": 1,
-          "e": "SPK, lisans ihlali veya ağır mesleki kusur durumunda lisansı iptal edebilir."
+          "e": "SPK (sermaye piyasası kurulu), lisans ihlali veya ağır mesleki kusur durumunda lisansı iptal edebilir."
         },
         {
           "q": "Farklı kuruluş türlerinde (sigorta, bankacılık vb.) lisanslama gereksinimleri nasıl farklılaşabilir?",
           "o": [
-            "A) Tüm kurumlar için aynı SPK sınavı yeterlidir",
+            "A) Tüm kurumlar için aynı SPK (sermaye piyasası kurulu) sınavı yeterlidir",
             "B) İlgili sektörün düzenleyici otoritesi ek gereksinimler öngörebilir",
             "C) Yalnızca banka uyum görevlileri sınava tabi tutulur",
             "D) Sigorta şirketlerinde uyum görevlisi lisansı zorunlu değildir"
           ],
           "a": 1,
-          "e": "Sektörüne göre BDDK, Sigortacılık Genel Müdürlüğü gibi otoriteler SPK lisansına ek gereksinimler öngörebilir."
+          "e": "Sektörüne göre BDDK (bankacılık düzenleme ve denetleme kurumu), Sigortacılık Genel Müdürlüğü gibi otoriteler SPK (sermaye piyasası kurulu) lisansına ek gereksinimler öngörebilir."
         },
         {
           "q": "Uyum görevlisi sınavına giriş için hangi alan deneyimi tercih edilmektedir?",
@@ -30739,13 +30739,13 @@ window.__C = {
         {
           "q": "Lisanslama sürecinde sınav içeriğini ve formatını belirleyen kurum hangisidir?",
           "o": [
-            "A) MASAK",
-            "B) BDDK",
-            "C) SPK",
+            "A) MASAK (mali suçları araştırma kurulu)",
+            "B) BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "C) SPK (sermaye piyasası kurulu)",
             "D) Türkiye Bankacılık Birliği"
           ],
           "a": 2,
-          "e": "Uyum görevlisi yetkilendirme sınavının içeriğini ve formatını SPK belirlemektedir."
+          "e": "Uyum görevlisi yetkilendirme sınavının içeriğini ve formatını SPK (sermaye piyasası kurulu) belirlemektedir."
         }
       ]
     }
@@ -30755,12 +30755,12 @@ window.__C = {
       {
         "num": "01",
         "title": "Uyum Programı Nedir ve Neden Zorunludur?",
-        "body": "<ul><li>Uyum programı; SGA, TF ve KİSYF risklerine karşı yükümlünün alması gereken tüm önlemleri kapsayan <strong>yazılı çerçevedir</strong>.</li><li>Hukuki dayanak: <strong>Tedbirler Yönetmeliği</strong>.</li><li>Program yazılı olmalı, uygulanmalı ve düzenli güncellenmeli.</li></ul>"
+        "body": "<ul><li>Uyum programı; SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerine karşı yükümlünün alması gereken tüm önlemleri kapsayan <strong>yazılı çerçevedir</strong>.</li><li>Hukuki dayanak: <strong>Tedbirler Yönetmeliği</strong>.</li><li>Program yazılı olmalı, uygulanmalı ve düzenli güncellenmeli.</li></ul>"
       },
       {
         "num": "02",
         "title": "Uyum Programının Zorunlu Unsurları",
-        "body": "<ul><li><strong>Müşterinin tanınması</strong> (KYC/CDD) politikaları</li><li><strong>Şüpheli işlem bildirimi</strong> prosedürleri</li><li><strong>Risk değerlendirmesi</strong> mekanizması</li><li><strong>Personel eğitimi</strong> planı</li><li><strong>İç kontrol ve denetim</strong> mekanizması</li><li>İşlem izleme prosedürleri</li></ul>"
+        "body": "<ul><li><strong>Müşterinin tanınması</strong> (KYC (müşteri tanıma — know your customer)/CDD (müşteri durum tespiti)) politikaları</li><li><strong>Şüpheli işlem bildirimi</strong> prosedürleri</li><li><strong>Risk değerlendirmesi</strong> mekanizması</li><li><strong>Personel eğitimi</strong> planı</li><li><strong>İç kontrol ve denetim</strong> mekanizması</li><li>İşlem izleme prosedürleri</li></ul>"
       },
       {
         "num": "03",
@@ -30770,7 +30770,7 @@ window.__C = {
       {
         "num": "04",
         "title": "Kurum Politikaları ve Prosedürleri",
-        "body": "<ul><li>Her yükümlü, SGA/TF/KİSYF risklerini yönetmeye yönelik <strong>yazılı iç politika ve prosedürler</strong> hazırlar.</li><li>Politikalar risk bazlı yaklaşımla oluşturulur ve personele duyurulur.</li><li>Değişiklikler tüm ilgili çalışanlara zamanında iletilir.</li></ul>"
+        "body": "<ul><li>Her yükümlü, SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerini yönetmeye yönelik <strong>yazılı iç politika ve prosedürler</strong> hazırlar.</li><li>Politikalar risk bazlı yaklaşımla oluşturulur ve personele duyurulur.</li><li>Değişiklikler tüm ilgili çalışanlara zamanında iletilir.</li></ul>"
       },
       {
         "num": "05",
@@ -30861,7 +30861,7 @@ window.__C = {
           "q": "Ana ortaklığın finansal grup uyum programındaki rolü nedir?",
           "o": [
             "A) Bağlı kuruluşlara uyum görevlisi atar",
-            "B) Bağlı kuruluşların tüm ŞİB'lerini doğrudan gönderir",
+            "B) Bağlı kuruluşların tüm ŞİB (şüpheli işlem bildirimi)'lerini doğrudan gönderir",
             "C) Grup genelinde uyum standardlarını belirler ve koordinasyonu sağlar",
             "D) Bağlı kuruluşların uyum birimlerini yönetir"
           ],
@@ -30885,7 +30885,7 @@ window.__C = {
             "A) Büyük bankalarla birebir aynı programı kullanmalıdır",
             "B) Risk bazlı yaklaşımla faaliyet hacmi ve risk profiliyle orantılı, basit bir program oluşturabilir",
             "C) Program oluşturması gerekmez",
-            "D) Yalnızca ŞİB prosedürü yeterlidir"
+            "D) Yalnızca ŞİB (şüpheli işlem bildirimi) prosedürü yeterlidir"
           ],
           "a": 1,
           "e": "Risk bazlı yaklaşım çerçevesinde küçük yükümlüler, büyüklükleriyle orantılı basitleştirilmiş bir uyum programı oluşturabilir."
@@ -30906,7 +30906,7 @@ window.__C = {
           "o": [
             "A) Yalnızca dışarıdan denetim geldiğinde",
             "B) Programın tüm bileşenlerinin etkin uygulanıp uygulanmadığını düzenli olarak bağımsız biçimde denetlemek üzere",
-            "C) Yalnızca ŞİB yapıldıktan sonra",
+            "C) Yalnızca ŞİB (şüpheli işlem bildirimi) yapıldıktan sonra",
             "D) Yalnızca yıl sonunda"
           ],
           "a": 1,
@@ -30938,12 +30938,12 @@ window.__C = {
           "q": "Uyum programının etkinliğini ölçen temel göstergeler nelerdir?",
           "o": [
             "A) Kâr marjı ve müşteri sayısı",
-            "B) Doğru ŞİB sayısı, eğitim tamamlanma oranı, denetim bulguları ve risk azalma trendi",
+            "B) Doğru ŞİB (şüpheli işlem bildirimi) sayısı, eğitim tamamlanma oranı, denetim bulguları ve risk azalma trendi",
             "C) Yalnızca çalışan memnuniyeti",
             "D) Yalnızca müşteri şikayet sayısı"
           ],
           "a": 1,
-          "e": "Uyum programı etkinliği; ŞİB kalitesi, eğitim tamamlanma oranları, iç denetim bulguları ve risk profilindeki değişimle ölçülür."
+          "e": "Uyum programı etkinliği; ŞİB (şüpheli işlem bildirimi) kalitesi, eğitim tamamlanma oranları, iç denetim bulguları ve risk profilindeki değişimle ölçülür."
         },
         {
           "q": "Uyum programının hedef kitlesi kimdir?",
@@ -30994,11 +30994,11 @@ window.__C = {
           "o": [
             "A) Kurumun kârlılığını artırmak",
             "B) Müşteri sayısını çoğaltmak",
-            "C) SGA, TF ve KİSYF risklerine karşı kurumu korumak ve yasal yükümlülükleri yerine getirmek",
+            "C) SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerine karşı kurumu korumak ve yasal yükümlülükleri yerine getirmek",
             "D) Personel devir hızını azaltmak"
           ],
           "a": 2,
-          "e": "Uyum programının temel amacı; SGA, TF ve KİSYF risklerine karşı kurumsal koruma sağlamak ve yasal yükümlülüklerin eksiksiz yerine getirilmesini güvence altına almaktır."
+          "e": "Uyum programının temel amacı; SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerine karşı kurumsal koruma sağlamak ve yasal yükümlülüklerin eksiksiz yerine getirilmesini güvence altına almaktır."
         }
       ]
     }
@@ -31008,7 +31008,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Risk Bazlı Yaklaşım (RBA)",
-        "body": "<ul><li>RBA; yükümlünün maruz kaldığı SGA/TF riskini belirleyip <strong>riskle orantılı önlem</strong> alması ilkesidir.</li><li>Düşük risk → basitleştirilmiş tedbirler; yüksek risk → güçlendirilmiş tedbirler.</li><li>FATF'ın temel prensibi olup tüm ulusal mevzuata yansıtılmıştır.</li></ul>"
+        "body": "<ul><li>RBA (risk bazlı yaklaşım — risk-based approach); yükümlünün maruz kaldığı SGA/TF riskini belirleyip <strong>riskle orantılı önlem</strong> alması ilkesidir.</li><li>Düşük risk → basitleştirilmiş tedbirler; yüksek risk → güçlendirilmiş tedbirler.</li><li>FATF (finansal eylem görev gücü)'ın temel prensibi olup tüm ulusal mevzuata yansıtılmıştır.</li></ul>"
       },
       {
         "num": "02",
@@ -31023,7 +31023,7 @@ window.__C = {
       {
         "num": "04",
         "title": "Kontrol Mekanizmaları",
-        "body": "<ul><li><strong>Önleyici kontroller</strong>: Risk değerlendirmesi, müşteri kabulü, işlem limitleri.</li><li><strong>Tespit edici kontroller</strong>: İşlem izleme, uyarı sistemleri, periyodik gözden geçirme.</li><li><strong>Düzeltici kontroller</strong>: ŞİB, işlem durdurma, müşteri ilişkisini sonlandırma.</li></ul>"
+        "body": "<ul><li><strong>Önleyici kontroller</strong>: Risk değerlendirmesi, müşteri kabulü, işlem limitleri.</li><li><strong>Tespit edici kontroller</strong>: İşlem izleme, uyarı sistemleri, periyodik gözden geçirme.</li><li><strong>Düzeltici kontroller</strong>: ŞİB (şüpheli işlem bildirimi), işlem durdurma, müşteri ilişkisini sonlandırma.</li></ul>"
       },
       {
         "num": "05",
@@ -31075,7 +31075,7 @@ window.__C = {
             "D) Yalnızca beyan alınması yeterlidir"
           ],
           "a": 2,
-          "e": "RBA çerçevesinde düşük riskli müşterilere basitleştirilmiş tedbirler uygulanabilir; ancak temel KYC yükümlülükleri geçerliliğini korur."
+          "e": "RBA çerçevesinde düşük riskli müşterilere basitleştirilmiş tedbirler uygulanabilir; ancak temel KYC (müşteri tanıma) yükümlülükleri geçerliliğini korur."
         },
         {
           "q": "İşlem izleme sisteminin temel amacı nedir?",
@@ -31091,7 +31091,7 @@ window.__C = {
         {
           "q": "Aşağıdakilerden hangisi 'önleyici kontrol' kapsamına girer?",
           "o": [
-            "A) ŞİB yapılması",
+            "A) ŞİB (şüpheli işlem bildirimi) yapılması",
             "B) İşlem durdurma",
             "C) Müşteri kabulünde risk değerlendirmesi yapılması",
             "D) Müşteri ilişkisini sonlandırma"
@@ -31115,18 +31115,18 @@ window.__C = {
           "o": [
             "A) Risk değerlendirmesi yapılması",
             "B) İşlem izleme uyarısı oluşturulması",
-            "C) ŞİB, işlem durdurma veya müşteri ilişkisini sonlandırma gibi sonradan alınan önlemler",
+            "C) ŞİB (şüpheli işlem bildirimi), işlem durdurma veya müşteri ilişkisini sonlandırma gibi sonradan alınan önlemler",
             "D) Müşteri kabul politikasının güncellenmesi"
           ],
           "a": 2,
-          "e": "Düzeltici kontroller; şüpheli durum tespit edildikten sonra uygulanan önlemlerdir: ŞİB, işlem durdurma, ilişkiyi sonlandırma."
+          "e": "Düzeltici kontroller; şüpheli durum tespit edildikten sonra uygulanan önlemlerdir: ŞİB (şüpheli işlem bildirimi), işlem durdurma, ilişkiyi sonlandırma."
         },
         {
           "q": "Risk raporlamasında uyum görevlisinin sorumluluğu nedir?",
           "o": [
             "A) Yalnızca dış denetçilere rapor sunmak",
             "B) Risk değerlendirme sonuçlarını ve önemli bulguları üst yönetime raporlamak",
-            "C) Sadece MASAK'a rapor göndermek",
+            "C) Sadece MASAK (mali suçları araştırma kurulu)'a rapor göndermek",
             "D) Müşterileri bilgilendirmek"
           ],
           "a": 1,
@@ -31163,7 +31163,7 @@ window.__C = {
             "D) Yalnızca yurt dışı işlemler değerlendirilir"
           ],
           "a": 1,
-          "e": "Yüksek riskli ülkeler (FATF gri listesi, yaptırıma tabi ülkeler) veya offshore merkezlerle bağlantılı işlemler daha yüksek risk düzeyinde değerlendirilir."
+          "e": "Yüksek riskli ülkeler (FATF (finansal eylem görev gücü) gri listesi, yaptırıma tabi ülkeler) veya offshore merkezlerle bağlantılı işlemler daha yüksek risk düzeyinde değerlendirilir."
         },
         {
           "q": "Risk değerlendirmesinin yazılı olması neden önemlidir?",
@@ -31181,7 +31181,7 @@ window.__C = {
           "o": [
             "A) Basitleştirilmiş tedbirler uygulanır",
             "B) Müşteri doğrudan reddedilir",
-            "C) Güçlendirilmiş müşteri durum tespiti (EDD) ve artırılmış izleme uygulanır",
+            "C) Güçlendirilmiş müşteri durum tespiti (EDD (güçlendirilmiş durum tespiti)) ve artırılmış izleme uygulanır",
             "D) Standart tedbirler yeterlidir"
           ],
           "a": 2,
@@ -31261,7 +31261,7 @@ window.__C = {
       {
         "num": "01",
         "title": "Yükümlü Kavramı",
-        "body": "<ul><li>AML/CFT yükümlülüklerine tabi tutulan kişi ve kuruluşlara <b>yükümlü</b> denir.</li><li>Bankacılık, sermaye piyasası, sigortacılık sektörleri temel yükümlü gruplarıdır.</li><li>Yükümlüler; müşteri tanıma, şüpheli işlem bildirimi, kayıt tutma gibi temel yükümlülükleri yerine getirmek zorundadır.</li><li>6362 sayılı SPKn kapsamında aracı kurumlar, yatırım fonları ve portföy şirketleri de yükümlüdür.</li></ul>"
+        "body": "<ul><li>AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine tabi tutulan kişi ve kuruluşlara <b>yükümlü</b> denir.</li><li>Bankacılık, sermaye piyasası, sigortacılık sektörleri temel yükümlü gruplarıdır.</li><li>Yükümlüler; müşteri tanıma, şüpheli işlem bildirimi, kayıt tutma gibi temel yükümlülükleri yerine getirmek zorundadır.</li><li>6362 sayılı SPK (sermaye piyasası kurulu)n kapsamında aracı kurumlar, yatırım fonları ve portföy şirketleri de yükümlüdür.</li></ul>"
       },
       {
         "num": "02",
@@ -31271,17 +31271,17 @@ window.__C = {
       {
         "num": "03",
         "title": "FOBİM (Finansal Olmayan Belirli İş ve Meslekler)",
-        "body": "<ul><li>Finansal sektör dışındaki ancak kara para aklamasına araç olabilecek sektörler FOBİM kapsamındadır.</li><li><b>Örnek FOBİM'ler:</b> Gayrimenkul acenteleri, mücevher satıcıları, avukatlar, muhasebeciler, noterler.</li><li>FATF, FOBİM'lerin de müşteri tanıma ve şüpheli işlem bildirimi yükümlülüklerine tabi olmasını önerir.</li><li>Türkiye'de bazı FOBİM kategorileri 5549 sayılı Kanun kapsamındadır.</li></ul>"
+        "body": "<ul><li>Finansal sektör dışındaki ancak kara para aklamasına araç olabilecek sektörler FOBİM (finansal olmayan belirlenmiş işletme ve meslek) kapsamındadır.</li><li><b>Örnek FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'ler:</b> Gayrimenkul acenteleri, mücevher satıcıları, avukatlar, muhasebeciler, noterler.</li><li>FATF (finansal eylem görev gücü), FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'lerin de müşteri tanıma ve şüpheli işlem bildirimi yükümlülüklerine tabi olmasını önerir.</li><li>Türkiye'de bazı FOBİM (finansal olmayan belirlenmiş işletme ve meslek) kategorileri 5549 sayılı Kanun kapsamındadır.</li></ul>"
       },
       {
         "num": "04",
         "title": "Yükümlülerin Temel Yükümlülükleri",
-        "body": "<ul><li><b>Müşteri Kimlik Tespiti (KYC):</b> İşlem öncesi kimlik bilgilerinin doğrulanması.</li><li><b>Şüpheli İşlem Bildirimi (ŞİB):</b> MASAK'a zamanında bildirim yapılması.</li><li><b>Kayıt ve Belge Saklama:</b> İşlemlere ait kayıtların 5 yıl süreyle muhafazası.</li><li><b>Eğitim:</b> Çalışanlara düzenli AML/CFT eğitimi verilmesi.</li></ul>"
+        "body": "<ul><li><b>Müşteri Kimlik Tespiti (KYC (müşteri tanıma — know your customer)):</b> İşlem öncesi kimlik bilgilerinin doğrulanması.</li><li><b>Şüpheli İşlem Bildirimi (ŞİB (şüpheli işlem bildirimi)):</b> MASAK (mali suçları araştırma kurulu)'a zamanında bildirim yapılması.</li><li><b>Kayıt ve Belge Saklama:</b> İşlemlere ait kayıtların 5 yıl süreyle muhafazası.</li><li><b>Eğitim:</b> Çalışanlara düzenli AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) eğitimi verilmesi.</li></ul>"
       },
       {
         "num": "05",
         "title": "Sektörel Farklılıklar ve Risk Profili",
-        "body": "<ul><li>Farklı sektörlerin farklı risk profilleri vardır; bankacılık yüksek işlem hacmiyle öne çıkar.</li><li>Sermaye piyasası araçları; karmaşık yapısı nedeniyle layering (katmanlama) aşamasında sık kullanılır.</li><li>FOBİM'lerin düzenlenmesi ülkeden ülkeye farklılık gösterir; Türkiye'de uygulamalar kademeli genişlemektedir.</li><li>Yükümlüler, MASAK tarafından denetlenir; ihlallerde idari para cezası ve lisans iptali gündeme gelebilir.</li></ul>"
+        "body": "<ul><li>Farklı sektörlerin farklı risk profilleri vardır; bankacılık yüksek işlem hacmiyle öne çıkar.</li><li>Sermaye piyasası araçları; karmaşık yapısı nedeniyle layering (katmanlama) aşamasında sık kullanılır.</li><li>FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'lerin düzenlenmesi ülkeden ülkeye farklılık gösterir; Türkiye'de uygulamalar kademeli genişlemektedir.</li><li>Yükümlüler, MASAK (mali suçları araştırma kurulu) tarafından denetlenir; ihlallerde idari para cezası ve lisans iptali gündeme gelebilir.</li></ul>"
       }
     ],
     "tests": {
@@ -31290,12 +31290,12 @@ window.__C = {
           "q": "5549 sayılı Kanun kapsamında 'yükümlü' kavramı neyi ifade eder?",
           "o": [
             "A) Yalnızca bankaları",
-            "B) AML/CFT yükümlülüklerine tabi tutulan tüm kişi ve kuruluşları",
+            "B) AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine tabi tutulan tüm kişi ve kuruluşları",
             "C) Yalnızca sigorta şirketlerini",
             "D) Yalnızca sermaye piyasası kurumlarını"
           ],
           "a": 1,
-          "e": "Yükümlü, 5549 sayılı Kanun'da AML/CFT yükümlülüklerine tabi tutulan tüm kişi ve kuruluşları kapsar."
+          "e": "Yükümlü, 5549 sayılı Kanun'da AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine tabi tutulan tüm kişi ve kuruluşları kapsar."
         },
         {
           "q": "Aşağıdakilerden hangisi FOBİM (Finansal Olmayan Belirli İş ve Meslekler) kapsamına girer?",
@@ -31306,7 +31306,7 @@ window.__C = {
             "D) Aracı kurumlar"
           ],
           "a": 2,
-          "e": "Gayrimenkul acenteleri tipik bir FOBİM örneğidir; doğrudan finansal sektör değil ama AML riskine açık bir kategoridir."
+          "e": "Gayrimenkul acenteleri tipik bir FOBİM (finansal olmayan belirlenmiş işletme ve meslek) örneğidir; doğrudan finansal sektör değil ama AML riskine açık bir kategoridir."
         },
         {
           "q": "Katılım bankaları yükümlü müdür?",
@@ -31331,15 +31331,15 @@ window.__C = {
           "e": "Sermaye piyasasında aracı kurumlar, portföy yönetim şirketleri ve yatırım ortaklıkları gibi pek çok kurum yükümlüdür."
         },
         {
-          "q": "FATF'ın FOBİM'lere ilişkin tavsiyesi nedir?",
+          "q": "FATF (finansal eylem görev gücü)'ın FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'lere ilişkin tavsiyesi nedir?",
           "o": [
-            "A) FOBİM'ler hiçbir AML yükümlülüğüne tabi tutulmamalıdır",
-            "B) FOBİM'ler yalnızca şüpheli işlem bildirimi yapmalıdır",
-            "C) FOBİM'ler müşteri tanıma ve şüpheli işlem bildirimi dahil temel AML yükümlülüklerine tabi olmalıdır",
-            "D) FOBİM'ler yalnızca kayıt tutma yükümlülüğü kapsamındadır"
+            "A) FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'ler hiçbir AML yükümlülüğüne tabi tutulmamalıdır",
+            "B) FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'ler yalnızca şüpheli işlem bildirimi yapmalıdır",
+            "C) FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'ler müşteri tanıma ve şüpheli işlem bildirimi dahil temel AML yükümlülüklerine tabi olmalıdır",
+            "D) FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'ler yalnızca kayıt tutma yükümlülüğü kapsamındadır"
           ],
           "a": 2,
-          "e": "FATF, FOBİM'lerin de KYC ve ŞİB dahil temel AML/CFT yükümlülüklerine tabi olmasını tavsiye eder."
+          "e": "FATF (finansal eylem görev gücü), FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'lerin de KYC (müşteri tanıma) ve ŞİB (şüpheli işlem bildirimi) dahil temel AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine tabi olmasını tavsiye eder."
         },
         {
           "q": "Kara para aklamanın hangi aşamasında sermaye piyasası araçları sıklıkla kullanılır?",
@@ -31372,12 +31372,12 @@ window.__C = {
             "D) Çalışan eğitimi"
           ],
           "a": 2,
-          "e": "Vergi planlaması yapmak AML/CFT yükümlülükleri arasında yer almaz; KYC, ŞİB ve eğitim temel yükümlülüklerdendir."
+          "e": "Vergi planlaması yapmak AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülükleri arasında yer almaz; KYC (müşteri tanıma), ŞİB (şüpheli işlem bildirimi) ve eğitim temel yükümlülüklerdendir."
         },
         {
           "q": "Döviz büfeleri hangi yükümlü kategorisinde yer alır?",
           "o": [
-            "A) FOBİM",
+            "A) FOBİM (finansal olmayan belirlenmiş işletme ve meslek)",
             "B) Finansal kurum",
             "C) Kamu kurumu",
             "D) Uluslararası kuruluş"
@@ -31388,16 +31388,16 @@ window.__C = {
         {
           "q": "Türkiye'de yükümlüleri denetleme yetkisi öncelikle hangi kuruma aittir?",
           "o": [
-            "A) SPK",
-            "B) BDDK",
-            "C) MASAK",
+            "A) SPK (sermaye piyasası kurulu)",
+            "B) BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "C) MASAK (mali suçları araştırma kurulu)",
             "D) Hazine ve Maliye Bakanlığı"
           ],
           "a": 2,
-          "e": "MASAK (Mali Suçları Araştırma Kurulu) AML/CFT yükümlülüklerini denetleme konusunda birincil yetkili kurumdur."
+          "e": "MASAK (Mali Suçları Araştırma Kurulu) AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerini denetleme konusunda birincil yetkili kurumdur."
         },
         {
-          "q": "Aşağıdaki meslek gruplarından hangisi FOBİM kapsamında değerlendirilebilir?",
+          "q": "Aşağıdaki meslek gruplarından hangisi FOBİM (finansal olmayan belirlenmiş işletme ve meslek) kapsamında değerlendirilebilir?",
           "o": [
             "A) Kamu görevlileri",
             "B) Noterler",
@@ -31405,18 +31405,18 @@ window.__C = {
             "D) Bankacılar"
           ],
           "a": 1,
-          "e": "Noterler FOBİM kapsamında değerlendirilen meslekler arasında yer alır."
+          "e": "Noterler FOBİM (finansal olmayan belirlenmiş işletme ve meslek) kapsamında değerlendirilen meslekler arasında yer alır."
         },
         {
           "q": "5549 sayılı Kanun'da belirtilen 'yükümlü' tanımının önemi nedir?",
           "o": [
             "A) Yalnızca banka lisansı alınmasını düzenler",
-            "B) Hangi kurum ve kişilerin AML/CFT yükümlülüklerine tabi olduğunu belirler",
+            "B) Hangi kurum ve kişilerin AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine tabi olduğunu belirler",
             "C) Yalnızca vergi mükellefi kavramını tanımlar",
-            "D) Yalnızca MASAK'ın yapısını tanımlar"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu)'ın yapısını tanımlar"
           ],
           "a": 1,
-          "e": "Yükümlü tanımı, AML/CFT yükümlülükleri kapsamının kimler için geçerli olduğunu netleştirir."
+          "e": "Yükümlü tanımı, AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülükleri kapsamının kimler için geçerli olduğunu netleştirir."
         },
         {
           "q": "Bireysel emeklilik şirketleri yükümlü müdür?",
@@ -31433,17 +31433,17 @@ window.__C = {
           "q": "Yükümlülerin çalışanlarına eğitim verme zorunluluğunun amacı nedir?",
           "o": [
             "A) Çalışanların satış becerilerini geliştirmek",
-            "B) Çalışanların AML/CFT konularında bilgi ve farkındalığını artırmak",
+            "B) Çalışanların AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) konularında bilgi ve farkındalığını artırmak",
             "C) Çalışanların birden fazla lisans almasını sağlamak",
             "D) Çalışanların denetim yetkisini kullanmasını sağlamak"
           ],
           "a": 1,
-          "e": "AML/CFT eğitimi, çalışanların şüpheli işlemleri tanımasını ve mevzuata uygun davranmasını sağlamayı amaçlar."
+          "e": "AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) eğitimi, çalışanların şüpheli işlemleri tanımasını ve mevzuata uygun davranmasını sağlamayı amaçlar."
         },
         {
           "q": "Leasing şirketleri hangi yükümlü kategorisinde yer alır?",
           "o": [
-            "A) FOBİM",
+            "A) FOBİM (finansal olmayan belirlenmiş işletme ve meslek)",
             "B) Finansal kurum",
             "C) Kamu kurumu",
             "D) Yükümlü değildir"
@@ -31455,12 +31455,12 @@ window.__C = {
           "q": "Avukatlar hangi koşulda AML yükümlülüklerine tabi tutulabilir?",
           "o": [
             "A) Her durumda yükümlüdürler",
-            "B) Finansal işlemlere aracılık ettiklerinde FOBİM kapsamında değerlendirilebilirler",
+            "B) Finansal işlemlere aracılık ettiklerinde FOBİM (finansal olmayan belirlenmiş işletme ve meslek) kapsamında değerlendirilebilirler",
             "C) Yalnızca kamu davalarında yükümlüdürler",
             "D) Hiçbir koşulda yükümlü değillerdir"
           ],
           "a": 1,
-          "e": "Avukatlar, mülk alım satımı gibi finansal işlemlere aracılık ettiklerinde FOBİM kapsamında AML yükümlülüklerine tabi olabilirler."
+          "e": "Avukatlar, mülk alım satımı gibi finansal işlemlere aracılık ettiklerinde FOBİM (finansal olmayan belirlenmiş işletme ve meslek) kapsamında AML yükümlülüklerine tabi olabilirler."
         },
         {
           "q": "Faktoring şirketleri yükümlü müdür?",
@@ -31474,18 +31474,18 @@ window.__C = {
           "e": "Faktoring şirketleri finansal kurum olarak yükümlü kapsamındadır."
         },
         {
-          "q": "FOBİM düzenlemelerinin ülkeden ülkeye farklılık göstermesinin temel nedeni nedir?",
+          "q": "FOBİM (finansal olmayan belirlenmiş işletme ve meslek) düzenlemelerinin ülkeden ülkeye farklılık göstermesinin temel nedeni nedir?",
           "o": [
-            "A) FATF'ın farklı ülkeler için farklı kurallar belirlemesi",
+            "A) FATF (finansal eylem görev gücü)'ın farklı ülkeler için farklı kurallar belirlemesi",
             "B) Her ülkenin ekonomik yapısı, hukuk sistemi ve uygulama kapasitesinin farklı olması",
-            "C) FOBİM'lerin evrensel tanımının bulunmaması",
-            "D) Uluslararası ticaretin FOBİM'leri kapsam dışında tutması"
+            "C) FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'lerin evrensel tanımının bulunmaması",
+            "D) Uluslararası ticaretin FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'leri kapsam dışında tutması"
           ],
           "a": 1,
-          "e": "Her ülkenin ekonomik yapısı, hukuk sistemi ve uygulama kapasitesi farklı olduğundan FOBİM düzenlemeleri ülkeden ülkeye değişir."
+          "e": "Her ülkenin ekonomik yapısı, hukuk sistemi ve uygulama kapasitesi farklı olduğundan FOBİM (finansal olmayan belirlenmiş işletme ve meslek) düzenlemeleri ülkeden ülkeye değişir."
         },
         {
-          "q": "Yükümlünün ihlali halinde MASAK hangi yaptırımı uygulayabilir?",
+          "q": "Yükümlünün ihlali halinde MASAK (mali suçları araştırma kurulu) hangi yaptırımı uygulayabilir?",
           "o": [
             "A) Yalnızca uyarı yazısı gönderir",
             "B) İdari para cezası ve lisans iptali dahil çeşitli yaptırımlar uygulayabilir",
@@ -31493,13 +31493,13 @@ window.__C = {
             "D) Hiçbir yaptırım uygulayamaz"
           ],
           "a": 1,
-          "e": "MASAK, ihlal durumunda idari para cezası ve lisans iptali dahil çeşitli yaptırımlar uygulama yetkisine sahiptir."
+          "e": "MASAK (mali suçları araştırma kurulu), ihlal durumunda idari para cezası ve lisans iptali dahil çeşitli yaptırımlar uygulama yetkisine sahiptir."
         },
         {
           "q": "Mücevher satıcıları hangi AML kategorisinde yer alır?",
           "o": [
             "A) Finansal kurum",
-            "B) FOBİM",
+            "B) FOBİM (finansal olmayan belirlenmiş işletme ve meslek)",
             "C) Kamu kurumu",
             "D) Uluslararası kuruluş"
           ],
@@ -31514,12 +31514,12 @@ window.__C = {
       {
         "num": "01",
         "title": "Denetim Sistemi ve Yetkili Kuruluşlar",
-        "body": "<ul><li>Uyum mevzuatına ilişkin denetimler MASAK, BDDK, SPK ve Hazine & Maliye Bakanlığı gibi kurumlarca yürütülür.</li><li>MASAK birincil AML/CFT denetim otoritesi olup yerinde inceleme ve uzaktan gözetim yapabilir.</li><li>Sektörel denetim otoriteleri (BDDK, SPK vb.) kendi yetki alanlarındaki yükümlüleri denetler.</li><li>Uluslararası karşılıklı değerlendirmeler FATF tarafından gerçekleştirilir.</li></ul>"
+        "body": "<ul><li>Uyum mevzuatına ilişkin denetimler MASAK (mali suçları araştırma kurulu), BDDK (bankacılık düzenleme ve denetleme kurumu), SPK (sermaye piyasası kurulu) ve Hazine & Maliye Bakanlığı gibi kurumlarca yürütülür.</li><li>MASAK (mali suçları araştırma kurulu) birincil AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) denetim otoritesi olup yerinde inceleme ve uzaktan gözetim yapabilir.</li><li>Sektörel denetim otoriteleri (BDDK (bankacılık düzenleme ve denetleme kurumu), SPK (sermaye piyasası kurulu) vb.) kendi yetki alanlarındaki yükümlüleri denetler.</li><li>Uluslararası karşılıklı değerlendirmeler FATF (finansal eylem görev gücü) tarafından gerçekleştirilir.</li></ul>"
       },
       {
         "num": "02",
         "title": "Yerinde Denetim",
-        "body": "<ul><li>Denetçiler kurum nezdinde belgeler, sistemler ve süreçleri inceler.</li><li>KYC dosyaları, ŞİB kayıtları, eğitim belgeleri ve yönetim kurulu kararları inceleme kapsamındadır.</li><li>Denetim öncesi hazırlık, denetim süreci ve denetim sonrası raporlama olmak üzere üç aşamadan oluşur.</li><li>Bulgular resmi denetim raporuyla kuruma tebliğ edilir.</li></ul>"
+        "body": "<ul><li>Denetçiler kurum nezdinde belgeler, sistemler ve süreçleri inceler.</li><li>KYC (müşteri tanıma — know your customer) dosyaları, ŞİB (şüpheli işlem bildirimi) kayıtları, eğitim belgeleri ve yönetim kurulu kararları inceleme kapsamındadır.</li><li>Denetim öncesi hazırlık, denetim süreci ve denetim sonrası raporlama olmak üzere üç aşamadan oluşur.</li><li>Bulgular resmi denetim raporuyla kuruma tebliğ edilir.</li></ul>"
       },
       {
         "num": "03",
@@ -31529,7 +31529,7 @@ window.__C = {
       {
         "num": "04",
         "title": "Denetim Kapsamı ve Değerlendirme Kriterleri",
-        "body": "<ul><li>KYC/CDD süreçlerinin etkinliği, ŞİB kalitesi ve eğitim programları değerlendirilir.</li><li>Risk bazlı yaklaşım (RBA) kapsamında kurumun kendi risk değerlendirmesinin yeterliliği incelenir.</li><li>Uyum programının yazılı, uygulanabilir ve güncel olması beklenir.</li><li>Üst yönetim ve yönetim kurulunun uyum taahhüdü ayrıca değerlendirilir.</li></ul>"
+        "body": "<ul><li>KYC (müşteri tanıma — know your customer)/CDD (müşteri durum tespiti) süreçlerinin etkinliği, ŞİB (şüpheli işlem bildirimi) kalitesi ve eğitim programları değerlendirilir.</li><li>Risk bazlı yaklaşım (RBA (risk bazlı yaklaşım — risk-based approach)) kapsamında kurumun kendi risk değerlendirmesinin yeterliliği incelenir.</li><li>Uyum programının yazılı, uygulanabilir ve güncel olması beklenir.</li><li>Üst yönetim ve yönetim kurulunun uyum taahhüdü ayrıca değerlendirilir.</li></ul>"
       },
       {
         "num": "05",
@@ -31540,7 +31540,7 @@ window.__C = {
     "tests": {
       "t1": [
         {
-          "q": "MASAK'ın AML/CFT alanındaki temel rolü nedir?",
+          "q": "MASAK (mali suçları araştırma kurulu)'ın AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) alanındaki temel rolü nedir?",
           "o": [
             "A) Yalnızca cezai kovuşturma başlatmak",
             "B) Yükümlüleri denetlemek ve uyum politikalarını yönlendirmek",
@@ -31548,18 +31548,18 @@ window.__C = {
             "D) Sermaye piyasası araçlarını onaylamak"
           ],
           "a": 1,
-          "e": "MASAK, Türkiye'nin birincil AML/CFT denetim otoritesi olarak yükümlüleri denetler ve uyum politikalarını yönlendirir."
+          "e": "MASAK (mali suçları araştırma kurulu), Türkiye'nin birincil AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) denetim otoritesi olarak yükümlüleri denetler ve uyum politikalarını yönlendirir."
         },
         {
           "q": "Yerinde denetimde hangi belgeler incelenir?",
           "o": [
             "A) Yalnızca finansal tablolar",
-            "B) KYC dosyaları, ŞİB kayıtları, eğitim belgeleri ve yönetim kurulu kararları",
+            "B) KYC (müşteri tanıma) dosyaları, ŞİB (şüpheli işlem bildirimi) kayıtları, eğitim belgeleri ve yönetim kurulu kararları",
             "C) Yalnızca vergi beyannameleri",
             "D) Yalnızca muhasebe kayıtları"
           ],
           "a": 1,
-          "e": "Yerinde denetimde KYC dosyaları, ŞİB kayıtları, eğitim belgeleri ve yönetim kurulu kararları inceleme kapsamına girer."
+          "e": "Yerinde denetimde KYC (müşteri tanıma) dosyaları, ŞİB (şüpheli işlem bildirimi) kayıtları, eğitim belgeleri ve yönetim kurulu kararları inceleme kapsamına girer."
         },
         {
           "q": "Uzaktan (off-site) gözetim nasıl gerçekleştirilir?",
@@ -31577,11 +31577,11 @@ window.__C = {
           "o": [
             "A) IMF",
             "B) Dünya Bankası",
-            "C) FATF",
+            "C) FATF (finansal eylem görev gücü)",
             "D) BIS"
           ],
           "a": 2,
-          "e": "FATF (Finansal Eylem Görev Gücü), üye ülkelerin AML/CFT sistemlerini karşılıklı değerlendirme süreciyle denetler."
+          "e": "FATF (Finansal Eylem Görev Gücü), üye ülkelerin AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) sistemlerini karşılıklı değerlendirme süreciyle denetler."
         },
         {
           "q": "Denetim öncesi hazırlık aşamasında kurumdan ne beklenir?",
@@ -31643,7 +31643,7 @@ window.__C = {
           "o": [
             "A) Yerinde denetim",
             "B) Uzaktan gözetim",
-            "C) FATF değerlendirmesi",
+            "C) FATF (finansal eylem görev gücü) değerlendirmesi",
             "D) Cezai soruşturma"
           ],
           "a": 1,
@@ -31661,15 +31661,15 @@ window.__C = {
           "e": "Uyum programının denetimde kabul görmesi için yazılı, uygulanabilir ve güncel olması beklenir."
         },
         {
-          "q": "Sektörel denetim otoritelerinin (BDDK, SPK) yetki alanı nasıl tanımlanır?",
+          "q": "Sektörel denetim otoritelerinin (BDDK (bankacılık düzenleme ve denetleme kurumu), SPK (sermaye piyasası kurulu)) yetki alanı nasıl tanımlanır?",
           "o": [
             "A) Tüm sektörleri kapsar",
             "B) Yalnızca kendi yetki alanlarındaki yükümlüleri denetlerler",
             "C) Yalnızca yabancı kurumları denetlerler",
-            "D) MASAK'ın altında görev yaparlar ve bağımsız değildirler"
+            "D) MASAK (mali suçları araştırma kurulu)'ın altında görev yaparlar ve bağımsız değildirler"
           ],
           "a": 1,
-          "e": "BDDK, SPK gibi sektörel otoriteler kendi yetki alanlarındaki yükümlüleri denetler; MASAK ile koordineli çalışırlar."
+          "e": "BDDK (bankacılık düzenleme ve denetleme kurumu), SPK (sermaye piyasası kurulu) gibi sektörel otoriteler kendi yetki alanlarındaki yükümlüleri denetler; MASAK (mali suçları araştırma kurulu) ile koordineli çalışırlar."
         },
         {
           "q": "Tekrarlayan ihlallerin sonucu nedir?",
@@ -31705,7 +31705,7 @@ window.__C = {
           "e": "Etkin uyum kültürü kurumun en üst kademesinden başlar; bu nedenle üst yönetim ve yönetim kurulunun taahhüdü denetimde ayrıca incelenir."
         },
         {
-          "q": "Denetçilerin ŞİB kayıtlarını incelemesinin amacı nedir?",
+          "q": "Denetçilerin ŞİB (şüpheli işlem bildirimi) kayıtlarını incelemesinin amacı nedir?",
           "o": [
             "A) Kurumun gelirini hesaplamak",
             "B) Şüpheli işlem bildirimlerinin kalitesini ve zamanında yapılıp yapılmadığını değerlendirmek",
@@ -31713,7 +31713,7 @@ window.__C = {
             "D) Vergi uyumunu kontrol etmek"
           ],
           "a": 1,
-          "e": "ŞİB kayıtları, bildirimlerin kalitesi, eksiksizliği ve zamanında yapılıp yapılmadığı açısından denetimde incelenir."
+          "e": "ŞİB (şüpheli işlem bildirimi) kayıtları, bildirimlerin kalitesi, eksiksizliği ve zamanında yapılıp yapılmadığı açısından denetimde incelenir."
         },
         {
           "q": "Denetimde eksiklik tespit edildiğinde kurumun tepkisi için belirlenen süreye uyulmaması ne sonuç doğurur?",
@@ -31730,34 +31730,34 @@ window.__C = {
           "q": "Denetimde incelenen eğitim belgelerinin önemi nedir?",
           "o": [
             "A) Çalışanların maaş düzeylerini kanıtlar",
-            "B) Kurumun AML/CFT konularında çalışanlarını eğitip eğitmediğini ortaya koyar",
+            "B) Kurumun AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) konularında çalışanlarını eğitip eğitmediğini ortaya koyar",
             "C) Çalışanların akademik diplomalarını kanıtlar",
             "D) İşe alım süreçlerinin belgelenmesini sağlar"
           ],
           "a": 1,
-          "e": "Eğitim belgeleri, yükümlünün AML/CFT eğitim yükümlülüğünü yerine getirip getirmediğini kanıtlar."
+          "e": "Eğitim belgeleri, yükümlünün AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) eğitim yükümlülüğünü yerine getirip getirmediğini kanıtlar."
         },
         {
           "q": "Denetim sürecinde anormal işlem örüntülerinin tespitinde hangi yöntem önce devreye girer?",
           "o": [
             "A) Yerinde denetim",
             "B) Uzaktan gözetim",
-            "C) FATF karşılıklı değerlendirmesi",
+            "C) FATF (finansal eylem görev gücü) karşılıklı değerlendirmesi",
             "D) Cezai soruşturma"
           ],
           "a": 1,
           "e": "Anormal işlem örüntüleri ve tutarsızlıklar genellikle uzaktan gözetimle tespit edilir; bu durum yerinde denetime geçişi tetikleyebilir."
         },
         {
-          "q": "Uyum denetiminde kurumun KYC dosyalarında eksiklik tespit edilmesi hangi yükümlülüğün ihlali anlamına gelir?",
+          "q": "Uyum denetiminde kurumun KYC (müşteri tanıma) dosyalarında eksiklik tespit edilmesi hangi yükümlülüğün ihlali anlamına gelir?",
           "o": [
             "A) Raporlama yükümlülüğü",
-            "B) Müşteri kimlik tespiti (KYC) yükümlülüğü",
+            "B) Müşteri kimlik tespiti (KYC (müşteri tanıma)) yükümlülüğü",
             "C) Sermaye yeterliliği yükümlülüğü",
             "D) Vergi beyanı yükümlülüğü"
           ],
           "a": 1,
-          "e": "KYC dosyalarındaki eksiklikler, müşteri kimlik tespiti (KYC/CDD) yükümlülüğünün yerine getirilmediğini gösterir."
+          "e": "KYC (müşteri tanıma) dosyalarındaki eksiklikler, müşteri kimlik tespiti (KYC (müşteri tanıma)/CDD (müşteri durum tespiti)) yükümlülüğünün yerine getirilmediğini gösterir."
         }
       ]
     }
@@ -31767,12 +31767,12 @@ window.__C = {
       {
         "num": "01",
         "title": "İdari Para Cezasının Hukuki Dayanağı",
-        "body": "<ul><li>5549 sayılı Kanun AML/CFT ihlalleri için idari para cezası öngörür.</li><li>Cezalar MASAK kararıyla verilir; itiraz yolu açıktır.</li><li>Her yıl yeniden değerleme oranıyla güncellenir ve Resmî Gazete'de yayımlanarak yürürlüğe girer.</li></ul>"
+        "body": "<ul><li>5549 sayılı Kanun AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) ihlalleri için idari para cezası öngörür.</li><li>Cezalar MASAK (mali suçları araştırma kurulu) kararıyla verilir; itiraz yolu açıktır.</li><li>Her yıl yeniden değerleme oranıyla güncellenir ve Resmî Gazete'de yayımlanarak yürürlüğe girer.</li></ul>"
       },
       {
         "num": "02",
         "title": "Ceza Türleri",
-        "body": "<ul><li><b>Kimlik tespiti eksikliği:</b> Her işlem için ayrı para cezası.</li><li><b>ŞİB yapılmaması:</b> Daha yüksek tutarlarda ceza.</li><li><b>Kayıt muhafaza ihlali:</b> Belgelerin saklanmaması.</li><li><b>Eğitim yükümlülüğü ihlali:</b> Ek idari ceza.</li></ul>"
+        "body": "<ul><li><b>Kimlik tespiti eksikliği:</b> Her işlem için ayrı para cezası.</li><li><b>ŞİB (şüpheli işlem bildirimi) yapılmaması:</b> Daha yüksek tutarlarda ceza.</li><li><b>Kayıt muhafaza ihlali:</b> Belgelerin saklanmaması.</li><li><b>Eğitim yükümlülüğü ihlali:</b> Ek idari ceza.</li></ul>"
       },
       {
         "num": "03",
@@ -31782,7 +31782,7 @@ window.__C = {
       {
         "num": "04",
         "title": "Lisans İptali ve Diğer Yaptırımlar",
-        "body": "<ul><li>Ağır ve tekrarlayan ihlallerde <b>faaliyet izni iptali</b> mümkündür.</li><li>Sorumlu yöneticilere bireysel ceza uygulanabilir.</li><li>Kasıtlı ihlallerde <b>cezai kovuşturma</b> başlatılabilir.</li><li>Bankacılıkta BDDK eş güdümlü yaptırım uygulayabilir.</li></ul>"
+        "body": "<ul><li>Ağır ve tekrarlayan ihlallerde <b>faaliyet izni iptali</b> mümkündür.</li><li>Sorumlu yöneticilere bireysel ceza uygulanabilir.</li><li>Kasıtlı ihlallerde <b>cezai kovuşturma</b> başlatılabilir.</li><li>Bankacılıkta BDDK (bankacılık düzenleme ve denetleme kurumu) eş güdümlü yaptırım uygulayabilir.</li></ul>"
       },
       {
         "num": "05",
@@ -31795,20 +31795,20 @@ window.__C = {
         {
           "q": "5549 sayılı Kanun kapsamında idari para cezaları kim tarafından verilir?",
           "o": [
-            "A) SPK",
-            "B) MASAK",
-            "C) BDDK",
+            "A) SPK (sermaye piyasası kurulu)",
+            "B) MASAK (mali suçları araştırma kurulu)",
+            "C) BDDK (bankacılık düzenleme ve denetleme kurumu)",
             "D) Hazine ve Maliye Bakanı"
           ],
           "a": 1,
-          "e": "İdari para cezaları 5549 sayılı Kanun kapsamında MASAK kararıyla verilir."
+          "e": "İdari para cezaları 5549 sayılı Kanun kapsamında MASAK (mali suçları araştırma kurulu) kararıyla verilir."
         },
         {
           "q": "İdari para cezalarının her yıl güncellenmesinin dayanağı nedir?",
           "o": [
             "A) Merkez Bankası faiz kararı",
             "B) Yeniden değerleme oranı",
-            "C) FATF tavsiyeleri",
+            "C) FATF (finansal eylem görev gücü) tavsiyeleri",
             "D) AB direktifleri"
           ],
           "a": 1,
@@ -31823,7 +31823,7 @@ window.__C = {
             "D) Hiçbir yaptırım uygulanmaz"
           ],
           "a": 1,
-          "e": "ŞİB yükümlülüğünün yerine getirilmemesi idari para cezasına yol açar."
+          "e": "ŞİB (şüpheli işlem bildirimi) yükümlülüğünün yerine getirilmemesi idari para cezasına yol açar."
         },
         {
           "q": "İhlalin kasıtlı olması ceza miktarını nasıl etkiler?",
@@ -31852,7 +31852,7 @@ window.__C = {
           "o": [
             "A) Hayır, ceza kesin ve derhal uygulanır",
             "B) Evet, mahkeme yürütmeyi durdurabilir",
-            "C) Yalnızca MASAK onaylı durumlarda",
+            "C) Yalnızca MASAK (mali suçları araştırma kurulu) onaylı durumlarda",
             "D) Yalnızca bankalar için geçerlidir"
           ],
           "a": 1,
@@ -31861,9 +31861,9 @@ window.__C = {
         {
           "q": "Kesinleşen idari para cezaları nereye gelir kaydedilir?",
           "o": [
-            "A) MASAK bütçesine",
+            "A) MASAK (mali suçları araştırma kurulu) bütçesine",
             "B) Hazine'ye",
-            "C) SPK'ya",
+            "C) SPK (sermaye piyasası kurulu)'ya",
             "D) Merkez Bankası'na"
           ],
           "a": 1,
@@ -31881,7 +31881,7 @@ window.__C = {
           "e": "Cezaların kamuoyuyla paylaşılması kurumun itibar kaybetmesine neden olabilir."
         },
         {
-          "q": "Kasıtlı ihlaller durumunda MASAK hangi ek adımı atabilir?",
+          "q": "Kasıtlı ihlaller durumunda MASAK (mali suçları araştırma kurulu) hangi ek adımı atabilir?",
           "o": [
             "A) Otomatik olarak lisansı iptal eder",
             "B) Savcılığa suç duyurusunda bulunarak cezai kovuşturma başlatabilir",
@@ -31889,7 +31889,7 @@ window.__C = {
             "D) Müşteri hesaplarını dondurur"
           ],
           "a": 1,
-          "e": "Kasıtlı ihlallerde MASAK savcılığa suç duyurusunda bulunabilir."
+          "e": "Kasıtlı ihlallerde MASAK (mali suçları araştırma kurulu) savcılığa suç duyurusunda bulunabilir."
         },
         {
           "q": "Kayıt muhafaza yükümlülüğünün ihlali hangi yaptırımı doğurur?",
@@ -31966,18 +31966,18 @@ window.__C = {
             "D) Yalnızca sözlü ihtar yapılır"
           ],
           "a": 1,
-          "e": "AML/CFT eğitim yükümlülüğünün ihlali idari para cezasına konu olabilir."
+          "e": "AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) eğitim yükümlülüğünün ihlali idari para cezasına konu olabilir."
         },
         {
-          "q": "Bankacılık sektöründe MASAK ile hangi kurum eş güdümlü yaptırım uygulayabilir?",
+          "q": "Bankacılık sektöründe MASAK (mali suçları araştırma kurulu) ile hangi kurum eş güdümlü yaptırım uygulayabilir?",
           "o": [
-            "A) SPK",
-            "B) BDDK",
+            "A) SPK (sermaye piyasası kurulu)",
+            "B) BDDK (bankacılık düzenleme ve denetleme kurumu)",
             "C) Hazine ve Maliye Bakanlığı",
             "D) Merkez Bankası"
           ],
           "a": 1,
-          "e": "Bankacılık sektöründe BDDK, MASAK ile eş güdümlü yaptırım uygulayabilir."
+          "e": "Bankacılık sektöründe BDDK (bankacılık düzenleme ve denetleme kurumu), MASAK (mali suçları araştırma kurulu) ile eş güdümlü yaptırım uygulayabilir."
         },
         {
           "q": "İhlalin büyüklüğü ceza miktarını etkiler mi?",
@@ -32005,12 +32005,12 @@ window.__C = {
           "q": "İdari para cezasının temel amacı nedir?",
           "o": [
             "A) Yalnızca devlet geliri elde etmek",
-            "B) Yükümlüleri caydırmak ve AML/CFT uyumunu güçlendirmek",
+            "B) Yükümlüleri caydırmak ve AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) uyumunu güçlendirmek",
             "C) Yalnızca itibar yönetimi sağlamak",
             "D) Uluslararası baskıyı karşılamak"
           ],
           "a": 1,
-          "e": "İdari para cezaları caydırıcılık ve AML/CFT uyum standartlarını güçlendirme amacıyla uygulanır."
+          "e": "İdari para cezaları caydırıcılık ve AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) uyum standartlarını güçlendirme amacıyla uygulanır."
         }
       ]
     }
@@ -32020,12 +32020,12 @@ window.__C = {
       {
         "num": "01",
         "title": "Bilgi Verme Yükümlülüğü",
-        "body": "<ul><li>Yükümlüler, MASAK ve yetkili makamların talepleri doğrultusunda bilgi ve belge sunmak zorundadır.</li><li>Bilgi verme yükümlülüğü; müşteri bilgileri, işlem kayıtları ve iç raporları kapsar.</li><li>Talepler yazılı ya da elektronik yollarla iletilir; yanıt süreleri mevzuatla belirlenir.</li><li>Bilgi vermekten kaçınmak veya yanıltıcı bilgi sunmak idari ve cezai yaptırım gerektirir.</li></ul>"
+        "body": "<ul><li>Yükümlüler, MASAK (mali suçları araştırma kurulu) ve yetkili makamların talepleri doğrultusunda bilgi ve belge sunmak zorundadır.</li><li>Bilgi verme yükümlülüğü; müşteri bilgileri, işlem kayıtları ve iç raporları kapsar.</li><li>Talepler yazılı ya da elektronik yollarla iletilir; yanıt süreleri mevzuatla belirlenir.</li><li>Bilgi vermekten kaçınmak veya yanıltıcı bilgi sunmak idari ve cezai yaptırım gerektirir.</li></ul>"
       },
       {
         "num": "02",
         "title": "Sır Saklama ve Korunma (Tipping-Off Yasağı)",
-        "body": "<ul><li>Şüpheli işlem bildirimi yapıldığında müşteri veya üçüncü kişiler bilgilendirilemez (tipping-off yasağı).</li><li>Bildirim yapan çalışan ve kurumlar yasal koruma altındadır; iyi niyetli bildirimlerde hukuki sorumluluk doğmaz.</li><li>Sır saklama yükümlülüğü ŞİB bilgisinin gizliliğini güvence altına alır.</li><li>İhlali halinde cezai yaptırım söz konusudur.</li></ul>"
+        "body": "<ul><li>Şüpheli işlem bildirimi yapıldığında müşteri veya üçüncü kişiler bilgilendirilemez (tipping-off yasağı).</li><li>Bildirim yapan çalışan ve kurumlar yasal koruma altındadır; iyi niyetli bildirimlerde hukuki sorumluluk doğmaz.</li><li>Sır saklama yükümlülüğü ŞİB (şüpheli işlem bildirimi) bilgisinin gizliliğini güvence altına alır.</li><li>İhlali halinde cezai yaptırım söz konusudur.</li></ul>"
       },
       {
         "num": "03",
@@ -32035,12 +32035,12 @@ window.__C = {
       {
         "num": "04",
         "title": "Bilgi Paylaşımı — Grup İçi ve Uluslararası",
-        "body": "<ul><li>Finansal grup bünyesindeki şirketler, AML/CFT amaçlı bilgi paylaşabilir.</li><li>Uluslararası bilgi paylaşımı ikili anlaşmalar ve EGMONT Grubu kanalıyla sağlanır.</li><li>Paylaşılan bilgiler yalnızca AML/CFT amaçlarıyla kullanılabilir; üçüncü taraflara aktarılamaz.</li><li>Ülke mevzuatının izin verdiği ölçüde bilgi paylaşımı yapılır.</li></ul>"
+        "body": "<ul><li>Finansal grup bünyesindeki şirketler, AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) amaçlı bilgi paylaşabilir.</li><li>Uluslararası bilgi paylaşımı ikili anlaşmalar ve EGMONT Grubu (mali istihbarat birimleri uluslararası ağı) Grubu (mali istihbarat birimleri uluslararası ağı) Grubu kanalıyla sağlanır.</li><li>Paylaşılan bilgiler yalnızca AML/CFT (terörün finansmanının önlenmesi) amaçlarıyla kullanılabilir; üçüncü taraflara aktarılamaz.</li><li>Ülke mevzuatının izin verdiği ölçüde bilgi paylaşımı yapılır.</li></ul>"
       },
       {
         "num": "05",
         "title": "İç Bildirim ve Raporlama Hiyerarşisi",
-        "body": "<ul><li>Şüpheli durumları fark eden çalışanlar uyum görevlisine iç bildirim yapar.</li><li>Uyum görevlisi değerlendirme sonucunda MASAK'a dış bildirim (ŞİB) yapar ya da yapmayı reddeder.</li><li>Ret kararı gerekçesiyle birlikte kayıt altına alınmalıdır.</li><li>İç bildirim sistemi gizli, erişilebilir ve işlevsel olmalıdır.</li></ul>"
+        "body": "<ul><li>Şüpheli durumları fark eden çalışanlar uyum görevlisine iç bildirim yapar.</li><li>Uyum görevlisi değerlendirme sonucunda MASAK (mali suçları araştırma kurulu)'a dış bildirim (ŞİB (şüpheli işlem bildirimi)) yapar ya da yapmayı reddeder.</li><li>Ret kararı gerekçesiyle birlikte kayıt altına alınmalıdır.</li><li>İç bildirim sistemi gizli, erişilebilir ve işlevsel olmalıdır.</li></ul>"
       }
     ],
     "tests": {
@@ -32049,9 +32049,9 @@ window.__C = {
           "q": "Tipping-off yasağı ne anlama gelir?",
           "o": [
             "A) Müşteriye sunulan ürünlerin listelenmesi",
-            "B) ŞİB yapıldığının müşteri veya üçüncü kişilere bildirilememesi",
+            "B) ŞİB (şüpheli işlem bildirimi) yapıldığının müşteri veya üçüncü kişilere bildirilememesi",
             "C) Uyum görevlisinin üst yönetime rapor vermesi",
-            "D) MASAK'ın kamuoyuna bilgi vermesi"
+            "D) MASAK (mali suçları araştırma kurulu)'ın kamuoyuna bilgi vermesi"
           ],
           "a": 1,
           "e": "Tipping-off yasağı, şüpheli işlem bildirimi yapıldığında müşterinin veya ilgili kişilerin bu konuda bilgilendirilmesini yasaklar."
@@ -32068,7 +32068,7 @@ window.__C = {
           "e": "5549 sayılı Kanun uyarınca kayıtlar işlem tarihinden ya da iş ilişkisinin sona erdiği tarihten itibaren 5 yıl süreyle saklanmalıdır."
         },
         {
-          "q": "İyi niyetli ŞİB yapan çalışanlar hukuki açıdan nasıl korunur?",
+          "q": "İyi niyetli ŞİB (şüpheli işlem bildirimi) yapan çalışanlar hukuki açıdan nasıl korunur?",
           "o": [
             "A) Hiçbir koruma sağlanmaz",
             "B) Yasal koruma altındadır; bildirimden dolayı hukuki sorumluluk doğmaz",
@@ -32076,10 +32076,10 @@ window.__C = {
             "D) Yalnızca anonim bildirimler koruma kapsamındadır"
           ],
           "a": 1,
-          "e": "İyi niyetli ŞİB yapan çalışanlar ve kurumlar yasal koruma altında olup bildirimden dolayı hukuki sorumlulukla karşılaşmazlar."
+          "e": "İyi niyetli ŞİB (şüpheli işlem bildirimi) yapan çalışanlar ve kurumlar yasal koruma altında olup bildirimden dolayı hukuki sorumlulukla karşılaşmazlar."
         },
         {
-          "q": "MASAK'ın bilgi talebine yanıt vermekten kaçınmak ne sonuç doğurur?",
+          "q": "MASAK (mali suçları araştırma kurulu)'ın bilgi talebine yanıt vermekten kaçınmak ne sonuç doğurur?",
           "o": [
             "A) Hiçbir yaptırım uygulanmaz",
             "B) İdari ve cezai yaptırım gerektirebilir",
@@ -32090,7 +32090,7 @@ window.__C = {
           "e": "Bilgi vermekten kaçınmak veya yanıltıcı bilgi sunmak idari ve cezai yaptırıma yol açabilir."
         },
         {
-          "q": "Grup içi bilgi paylaşımının AML/CFT açısından amacı nedir?",
+          "q": "Grup içi bilgi paylaşımının AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) açısından amacı nedir?",
           "o": [
             "A) Rakip kurumlara bilgi sağlamak",
             "B) Finansal grup bünyesinde uyum etkinliğini artırmak",
@@ -32098,14 +32098,14 @@ window.__C = {
             "D) Vergi planlaması yapmak"
           ],
           "a": 1,
-          "e": "Grup içi bilgi paylaşımı, AML/CFT uyumunu güçlendirmek amacıyla finansal grup şirketleri arasında gerçekleştirilir."
+          "e": "Grup içi bilgi paylaşımı, AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) uyumunu güçlendirmek amacıyla finansal grup şirketleri arasında gerçekleştirilir."
         },
         {
-          "q": "Uluslararası AML/CFT bilgi paylaşımı hangi kanallarla sağlanır?",
+          "q": "Uluslararası AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) bilgi paylaşımı hangi kanallarla sağlanır?",
           "o": [
             "A) Yalnızca BM kararlarıyla",
             "B) İkili anlaşmalar ve EGMONT Grubu kanalıyla",
-            "C) Yalnızca FATF kanalıyla",
+            "C) Yalnızca FATF (finansal eylem görev gücü) kanalıyla",
             "D) Yalnızca AB direktifleriyle"
           ],
           "a": 1,
@@ -32114,16 +32114,16 @@ window.__C = {
         {
           "q": "Şüpheli durumu fark eden çalışanın ilk adımı ne olmalıdır?",
           "o": [
-            "A) Doğrudan MASAK'a bildirmek",
+            "A) Doğrudan MASAK (mali suçları araştırma kurulu)'a bildirmek",
             "B) Uyum görevlisine iç bildirim yapmak",
             "C) Müşteriyi bilgilendirmek",
             "D) Hesabı hemen kapatmak"
           ],
           "a": 1,
-          "e": "Şüpheli durumu fark eden çalışan önce uyum görevlisine iç bildirim yapar; MASAK'a dış bildirim uyum görevlisi tarafından değerlendirme sonrası yapılır."
+          "e": "Şüpheli durumu fark eden çalışan önce uyum görevlisine iç bildirim yapar; MASAK (mali suçları araştırma kurulu)'a dış bildirim uyum görevlisi tarafından değerlendirme sonrası yapılır."
         },
         {
-          "q": "Uyum görevlisi ŞİB yapmama kararı aldığında ne yapmalıdır?",
+          "q": "Uyum görevlisi ŞİB (şüpheli işlem bildirimi) yapmama kararı aldığında ne yapmalıdır?",
           "o": [
             "A) Müşteriyi bilgilendirmelidir",
             "B) Kararı gerekçesiyle birlikte kayıt altına almalıdır",
@@ -32131,7 +32131,7 @@ window.__C = {
             "D) Hesabı hemen kapatmalıdır"
           ],
           "a": 1,
-          "e": "ŞİB yapmama kararı gerekçesiyle birlikte kayıt altına alınmalıdır."
+          "e": "ŞİB (şüpheli işlem bildirimi) yapmama kararı gerekçesiyle birlikte kayıt altına alınmalıdır."
         },
         {
           "q": "Kayıt muhafaza süresinin başlangıç noktası nedir?",
@@ -32145,15 +32145,15 @@ window.__C = {
           "e": "5 yıllık muhafaza süresi işlemin gerçekleştiği veya iş ilişkisinin sona erdiği tarihten itibaren işlemeye başlar."
         },
         {
-          "q": "Grup içi paylaşılan AML/CFT bilgileri nasıl kullanılabilir?",
+          "q": "Grup içi paylaşılan AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) bilgileri nasıl kullanılabilir?",
           "o": [
             "A) Ticari pazarlama amacıyla kullanılabilir",
-            "B) Yalnızca AML/CFT amaçlarıyla kullanılabilir",
+            "B) Yalnızca AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) amaçlarıyla kullanılabilir",
             "C) Üçüncü taraflara serbestçe aktarılabilir",
             "D) Düzenleyici kurumlara satılabilir"
           ],
           "a": 1,
-          "e": "Grup içi paylaşılan AML/CFT bilgileri yalnızca AML/CFT amaçlarıyla kullanılabilir; başka amaçlarla kullanılamaz."
+          "e": "Grup içi paylaşılan AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) bilgileri yalnızca AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) amaçlarıyla kullanılabilir; başka amaçlarla kullanılamaz."
         },
         {
           "q": "Tipping-off yasağını ihlal etmenin sonucu nedir?",
@@ -32186,7 +32186,7 @@ window.__C = {
             "D) Uluslararası kuruluşlar"
           ],
           "a": 1,
-          "e": "MASAK ve yetkili makamların bilgi taleplerine yanıt süreleri ilgili mevzuatla belirlenir."
+          "e": "MASAK (mali suçları araştırma kurulu) ve yetkili makamların bilgi taleplerine yanıt süreleri ilgili mevzuatla belirlenir."
         },
         {
           "q": "İç bildirim sisteminin temel özellikleri nelerdir?",
@@ -32200,7 +32200,7 @@ window.__C = {
           "e": "Etkili bir iç bildirim sistemi gizli, erişilebilir ve işlevsel nitelikte olmalıdır."
         },
         {
-          "q": "EGMONT Grubu'nun AML/CFT alanındaki rolü nedir?",
+          "q": "EGMONT Grubu'nun AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) alanındaki rolü nedir?",
           "o": [
             "A) Uluslararası vergi denetimi yapmak",
             "B) Mali istihbarat birimlerinin bilgi paylaşımını kolaylaştırmak",
@@ -32208,7 +32208,7 @@ window.__C = {
             "D) Küresel döviz rezervlerini yönetmek"
           ],
           "a": 1,
-          "e": "EGMONT Grubu, ülkelerin Mali İstihbarat Birimlerinin (MİB) AML/CFT bilgi paylaşımını kolaylaştıran uluslararası bir ağdır."
+          "e": "EGMONT Grubu, ülkelerin Mali İstihbarat Birimlerinin (MİB) AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) bilgi paylaşımını kolaylaştıran uluslararası bir ağdır."
         },
         {
           "q": "Kayıtların yetkililere sunulabilirliği açısından ne gereklidir?",
@@ -32230,29 +32230,29 @@ window.__C = {
             "D) Yalnızca para cezası uygulanır"
           ],
           "a": 1,
-          "e": "MASAK'a yanıltıcı bilgi sunmak idari ve cezai yaptırıma konu olabilir."
+          "e": "MASAK (mali suçları araştırma kurulu)'a yanıltıcı bilgi sunmak idari ve cezai yaptırıma konu olabilir."
         },
         {
           "q": "Sır saklama yükümlülüğü hangi konuyu kapsar?",
           "o": [
             "A) Müşteri hesap bakiyeleri",
-            "B) ŞİB bilgisinin gizliliği",
+            "B) ŞİB (şüpheli işlem bildirimi) bilgisinin gizliliği",
             "C) Kurumun yıllık geliri",
             "D) Çalışan maaş bilgileri"
           ],
           "a": 1,
-          "e": "Sır saklama yükümlülüğü özellikle ŞİB bilgisinin gizliliğini güvence altına almak amacıyla düzenlenmiştir."
+          "e": "Sır saklama yükümlülüğü özellikle ŞİB (şüpheli işlem bildirimi) bilgisinin gizliliğini güvence altına almak amacıyla düzenlenmiştir."
         },
         {
           "q": "Uyum görevlisi, çalışandan gelen iç bildirimi değerlendirip ne yapar?",
           "o": [
-            "A) Otomatik olarak MASAK'a bildirir",
-            "B) Değerlendirme sonucunda ŞİB yapar ya da yapmamayı gerekçesiyle kayıt altına alır",
+            "A) Otomatik olarak MASAK (mali suçları araştırma kurulu)'a bildirir",
+            "B) Değerlendirme sonucunda ŞİB (şüpheli işlem bildirimi) yapar ya da yapmamayı gerekçesiyle kayıt altına alır",
             "C) Müşteriyi bilgilendirir",
             "D) Hesabı dondurur"
           ],
           "a": 1,
-          "e": "Uyum görevlisi iç bildirimi değerlendirir; MASAK'a dış bildirim yapabilir ya da yapmama kararını gerekçesiyle kayıt altına alır."
+          "e": "Uyum görevlisi iç bildirimi değerlendirir; MASAK (mali suçları araştırma kurulu)'a dış bildirim yapabilir ya da yapmama kararını gerekçesiyle kayıt altına alır."
         },
         {
           "q": "Kayıt muhafaza yükümlülüğünün temel amacı nedir?",
@@ -32272,8 +32272,8 @@ window.__C = {
     "summary": [
       {
         "num": "01",
-        "title": "Kimlik Tespiti (KYC) Nedir?",
-        "body": "<ul><li>Kimlik tespiti (Know Your Customer), yükümlülerin müşterilerini ve işlemlerini tanıma sürecidir.</li><li>Müşteri kimliğinin doğrulanması kara para aklamanın önlenmesinde temel güvencedir.</li><li>KYC; kimlik doğrulama, müşteri profili oluşturma ve sürekli izlemeyi kapsar.</li><li>5549 sayılı Kanun ve ilgili yönetmelikler KYC yükümlülüklerini düzenler.</li></ul>"
+        "title": "Kimlik Tespiti (KYC (müşteri tanıma)) Nedir?",
+        "body": "<ul><li>Kimlik tespiti (Know Your Customer), yükümlülerin müşterilerini ve işlemlerini tanıma sürecidir.</li><li>Müşteri kimliğinin doğrulanması kara para aklamanın önlenmesinde temel güvencedir.</li><li>KYC (müşteri tanıma — know your customer); kimlik doğrulama, müşteri profili oluşturma ve sürekli izlemeyi kapsar.</li><li>5549 sayılı Kanun ve ilgili yönetmelikler KYC (müşteri tanıma) yükümlülüklerini düzenler.</li></ul>"
       },
       {
         "num": "02",
@@ -32307,7 +32307,7 @@ window.__C = {
             "D) Çalışan performansını değerlendirmek"
           ],
           "a": 1,
-          "e": "KYC, müşteri kimliğinin doğrulanması yoluyla kara para aklama riskini azaltmayı amaçlar."
+          "e": "KYC (müşteri tanıma), müşteri kimliğinin doğrulanması yoluyla kara para aklama riskini azaltmayı amaçlar."
         },
         {
           "q": "Hesap açılışında kimlik tespiti zorunlu mudur?",
@@ -32431,7 +32431,7 @@ window.__C = {
           "e": "Yüksek riskli müşterilerde kimlik bilgilerinin güncelleme sıklığı artırılmalıdır."
         },
         {
-          "q": "KYC kapsamında müşteri profili oluşturmanın önemi nedir?",
+          "q": "KYC (müşteri tanıma) kapsamında müşteri profili oluşturmanın önemi nedir?",
           "o": [
             "A) Pazarlama stratejisi geliştirmek",
             "B) Olağandışı işlemleri tespit edebilmek için referans oluşturmak",
@@ -32453,7 +32453,7 @@ window.__C = {
           "e": "Belirli eşik tutarın (örn. 100.000 TL) üzerindeki işlemlerde kimlik tespiti zorunludur."
         },
         {
-          "q": "KYC sürecinde sürekli izlemenin amacı nedir?",
+          "q": "KYC (müşteri tanıma) sürecinde sürekli izlemenin amacı nedir?",
           "o": [
             "A) Müşterinin harcama alışkanlıklarını pazarlamaya aktarmak",
             "B) Müşteri profiliyle tutarsız işlemleri tespit etmek",
@@ -32475,7 +32475,7 @@ window.__C = {
           "e": "Faaliyet adresi, şirketin gerçek anlamda var olup olmadığını ve beyan edilen faaliyetlerini doğrulamak amacıyla toplanır."
         },
         {
-          "q": "5549 sayılı Kanun kapsamında KYC yükümlülüklerini yerine getirmeyen kuruma ne olur?",
+          "q": "5549 sayılı Kanun kapsamında KYC (müşteri tanıma) yükümlülüklerini yerine getirmeyen kuruma ne olur?",
           "o": [
             "A) Hiçbir yaptırım uygulanmaz",
             "B) İdari para cezası ve diğer yaptırımlar uygulanır",
@@ -32483,7 +32483,7 @@ window.__C = {
             "D) Yalnızca iç denetim raporu düzenlenir"
           ],
           "a": 1,
-          "e": "KYC yükümlülüklerinin ihlali 5549 sayılı Kanun kapsamında idari para cezası dahil çeşitli yaptırımlara yol açar."
+          "e": "KYC (müşteri tanıma) yükümlülüklerinin ihlali 5549 sayılı Kanun kapsamında idari para cezası dahil çeşitli yaptırımlara yol açar."
         },
         {
           "q": "E-Devlet entegrasyonu kimlik tespitinde nasıl kullanılır?",
@@ -32502,13 +32502,13 @@ window.__C = {
             "A) Hesabın kapatılması",
             "B) Kimlik bilgilerinin güncellenmesi",
             "C) Tüm işlemlerin durdurulması",
-            "D) MASAK'a otomatik bildirim"
+            "D) MASAK (mali suçları araştırma kurulu)'a otomatik bildirim"
           ],
           "a": 1,
           "e": "Müşteri risk profilindeki önemli değişiklikler kimlik bilgilerinin güncellenmesini tetikler."
         },
         {
-          "q": "KYC sürecinde hangi üç temel unsur bulunur?",
+          "q": "KYC (müşteri tanıma) sürecinde hangi üç temel unsur bulunur?",
           "o": [
             "A) Raporlama, denetim, yaptırım",
             "B) Kimlik doğrulama, müşteri profili oluşturma ve sürekli izleme",
@@ -32516,7 +32516,7 @@ window.__C = {
             "D) Lisans, eğitim, denetim"
           ],
           "a": 1,
-          "e": "KYC süreci; kimlik doğrulama, müşteri profili oluşturma ve sürekli izleme olmak üzere üç temel unsurdan oluşur."
+          "e": "KYC (müşteri tanıma) süreci; kimlik doğrulama, müşteri profili oluşturma ve sürekli izleme olmak üzere üç temel unsurdan oluşur."
         }
       ]
     }
@@ -32531,7 +32531,7 @@ window.__C = {
       {
         "num": "02",
         "title": "Gerçek Faydalanıcı (Beneficial Owner) Kavramı",
-        "body": "<ul><li>Gerçek faydalanıcı; bir işlem veya şirket üzerinde nihai kontrolü veya mülkiyeti elinde bulunduran gerçek kişidir.</li><li>FATF eşiği: tüzel kişide %25 veya üzerinde pay veya kontrol hakkı.</li><li>Aracı kurumlar, holding yapıları veya nominee (aday) düzenlemeler arkasında gerçek faydalanıcı gizlenebilir.</li><li>Gerçek faydalanıcının tespit edilememesi işlemin reddini gerektirebilir.</li></ul>"
+        "body": "<ul><li>Gerçek faydalanıcı; bir işlem veya şirket üzerinde nihai kontrolü veya mülkiyeti elinde bulunduran gerçek kişidir.</li><li>FATF (finansal eylem görev gücü) eşiği: tüzel kişide %25 veya üzerinde pay veya kontrol hakkı.</li><li>Aracı kurumlar, holding yapıları veya nominee (aday) düzenlemeler arkasında gerçek faydalanıcı gizlenebilir.</li><li>Gerçek faydalanıcının tespit edilememesi işlemin reddini gerektirebilir.</li></ul>"
       },
       {
         "num": "03",
@@ -32541,7 +32541,7 @@ window.__C = {
       {
         "num": "04",
         "title": "Şeffaf Olmayan Yapılar ve Riskler",
-        "body": "<ul><li>Anonim hisse senetleri, taşıyıcı hisse senetleri ve gizli ortaklar şeffaflığı zedeler.</li><li>Tröstler, vakıflar ve offshore yapılar gerçek faydalanıcıyı gizlemek için kullanılabilir.</li><li>Yükümlü, şeffaf olmayan yapılara karşı artırılmış müşteri kimlik tespiti (EDD) uygulamalıdır.</li><li>FATF, taşıyıcı hisse senetlerinin kısıtlanmasını tavsiye eder.</li></ul>"
+        "body": "<ul><li>Anonim hisse senetleri, taşıyıcı hisse senetleri ve gizli ortaklar şeffaflığı zedeler.</li><li>Tröstler, vakıflar ve offshore yapılar gerçek faydalanıcıyı gizlemek için kullanılabilir.</li><li>Yükümlü, şeffaf olmayan yapılara karşı artırılmış müşteri kimlik tespiti (EDD (artırılmış durum tespiti — enhanced due diligence)) uygulamalıdır.</li><li>FATF (finansal eylem görev gücü), taşıyıcı hisse senetlerinin kısıtlanmasını tavsiye eder.</li></ul>"
       },
       {
         "num": "05",
@@ -32574,7 +32574,7 @@ window.__C = {
           "e": "Gerçek faydalanıcı, işlem veya yapı üzerindeki nihai kontrolü ya da mülkiyeti elinde bulunduran gerçek kişidir."
         },
         {
-          "q": "FATF'ın tüzel kişilerde gerçek faydalanıcı eşiği nedir?",
+          "q": "FATF (finansal eylem görev gücü)'ın tüzel kişilerde gerçek faydalanıcı eşiği nedir?",
           "o": [
             "A) Yüzde 10",
             "B) Yüzde 25",
@@ -32582,7 +32582,7 @@ window.__C = {
             "D) Yüzde 75"
           ],
           "a": 1,
-          "e": "FATF'a göre tüzel kişide yüzde 25 veya üzerinde pay veya kontrol hakkına sahip gerçek kişi faydalanıcı sayılır."
+          "e": "FATF (finansal eylem görev gücü)'a göre tüzel kişide yüzde 25 veya üzerinde pay veya kontrol hakkına sahip gerçek kişi faydalanıcı sayılır."
         },
         {
           "q": "Temsil yetkisi doğrulanamıyorsa ne yapılmalıdır?",
@@ -32590,7 +32590,7 @@ window.__C = {
             "A) İşlem yine de gerçekleştirilir",
             "B) İşlem yapılmamalıdır",
             "C) Yalnızca üst yönetim onayıyla işlem yapılır",
-            "D) Yalnızca MASAK'a bildirim yapılır"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu)'a bildirim yapılır"
           ],
           "a": 1,
           "e": "Temsil yetkisi doğrulanamıyorsa yükümlü işlemi gerçekleştirmemelidir."
@@ -32621,12 +32621,12 @@ window.__C = {
           "q": "Şeffaf olmayan yapılara karşı hangi önlem uygulanmalıdır?",
           "o": [
             "A) İşlem reddedilmeli",
-            "B) Artırılmış müşteri kimlik tespiti (EDD) uygulanmalı",
+            "B) Artırılmış müşteri kimlik tespiti (EDD (güçlendirilmiş durum tespiti)) uygulanmalı",
             "C) Yalnızca basit kimlik tespiti yeterli",
             "D) Hiçbir ek önlem gerekmez"
           ],
           "a": 1,
-          "e": "Şeffaf olmayan yapılara (tröst, offshore vb.) karşı artırılmış müşteri kimlik tespiti (EDD) uygulanmalıdır."
+          "e": "Şeffaf olmayan yapılara (tröst, offshore vb.) karşı artırılmış müşteri kimlik tespiti (EDD (güçlendirilmiş durum tespiti)) uygulanmalıdır."
         },
         {
           "q": "Gerçek faydalanıcı bilgilerinin muhafaza süresi ne kadardır?",
@@ -32739,7 +32739,7 @@ window.__C = {
           "e": "Gerçek faydalanıcı beyanı, belge ile desteklendiğinde tespiti güçlendiren destekleyici bir unsur olarak kullanılır."
         },
         {
-          "q": "FATF, taşıyıcı hisse senetleri konusunda ne tavsiye etmektedir?",
+          "q": "FATF (finansal eylem görev gücü), taşıyıcı hisse senetleri konusunda ne tavsiye etmektedir?",
           "o": [
             "A) Taşıyıcı hisse senetlerinin teşvik edilmesi",
             "B) Taşıyıcı hisse senetlerinin kısıtlanması",
@@ -32747,7 +32747,7 @@ window.__C = {
             "D) Taşıyıcı hisse senetlerinin uluslararası kullanımının genişletilmesi"
           ],
           "a": 1,
-          "e": "FATF, şeffaflık gerekçesiyle taşıyıcı hisse senetlerinin kısıtlanmasını tavsiye etmektedir."
+          "e": "FATF (finansal eylem görev gücü), şeffaflık gerekçesiyle taşıyıcı hisse senetlerinin kısıtlanmasını tavsiye etmektedir."
         },
         {
           "q": "Katmanlı sahiplik şemasının çıkarılması gerçek faydalanıcı tespitinde neden önemlidir?",
@@ -32779,27 +32779,27 @@ window.__C = {
       {
         "num": "01",
         "title": "Özel Dikkat Gerektiren İşlemler",
-        "body": "<ul><li>Yükümlüler, olağandışı veya karmaşık işlemlere özel dikkat göstermek zorundadır.</li><li>Ekonomik ya da meşru amacı olmayan işlemler; büyük nakit hareketleri, alışılmadık işlem örüntüleri ve coğrafi riskli ülkelerle yapılan işlemler bu kapsamdadır.</li><li>Özel dikkat; işlemin arka planının araştırılması ve gerektiğinde ŞİB yapılmasını gerektirir.</li><li>FATF 20. Tavsiye özel dikkat konularını düzenler.</li></ul>"
+        "body": "<ul><li>Yükümlüler, olağandışı veya karmaşık işlemlere özel dikkat göstermek zorundadır.</li><li>Ekonomik ya da meşru amacı olmayan işlemler; büyük nakit hareketleri, alışılmadık işlem örüntüleri ve coğrafi riskli ülkelerle yapılan işlemler bu kapsamdadır.</li><li>Özel dikkat; işlemin arka planının araştırılması ve gerektiğinde ŞİB (şüpheli işlem bildirimi) yapılmasını gerektirir.</li><li>FATF (finansal eylem görev gücü) 20. Tavsiye özel dikkat konularını düzenler.</li></ul>"
       },
       {
         "num": "02",
         "title": "İşlem İzleme Sistemleri",
-        "body": "<ul><li>Yükümlüler, müşteri işlemlerini sürekli izleme kapasitesine sahip olmalıdır.</li><li>Otomatik izleme sistemleri (transaction monitoring) kural tabanlı veya yapay zeka destekli olabilir.</li><li>Sistem; eşik aşan işlemleri, hızlı fon aktarımlarını ve tutarsız davranışları tespit etmek için kurgulanır.</li><li>Uyarılar (alerts) uyum görevlisi tarafından incelenir ve gerekirse ŞİB yapılır.</li></ul>"
+        "body": "<ul><li>Yükümlüler, müşteri işlemlerini sürekli izleme kapasitesine sahip olmalıdır.</li><li>Otomatik izleme sistemleri (transaction monitoring) kural tabanlı veya yapay zeka destekli olabilir.</li><li>Sistem; eşik aşan işlemleri, hızlı fon aktarımlarını ve tutarsız davranışları tespit etmek için kurgulanır.</li><li>Uyarılar (alerts) uyum görevlisi tarafından incelenir ve gerekirse ŞİB (şüpheli işlem bildirimi) yapılır.</li></ul>"
       },
       {
         "num": "03",
         "title": "Muhabir Bankacılık İlişkileri",
-        "body": "<ul><li>Muhabir bankacılık; bir bankanın başka bir bankaya ülke içinde veya uluslararası alanda hizmet sunmasıdır.</li><li>Muhabir ilişkisi kurmadan önce karşı tarafın AML/CFT standartları değerlendirilmelidir.</li><li>Kabuk banka (shell bank) ile muhabir ilişkisi kurmak yasaktır.</li><li>FATF 13. Tavsiye muhabir bankacılık yükümlülüklerini düzenler.</li></ul>"
+        "body": "<ul><li>Muhabir bankacılık; bir bankanın başka bir bankaya ülke içinde veya uluslararası alanda hizmet sunmasıdır.</li><li>Muhabir ilişkisi kurmadan önce karşı tarafın AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) standartları değerlendirilmelidir.</li><li>Kabuk banka (shell bank) ile muhabir ilişkisi kurmak yasaktır.</li><li>FATF (finansal eylem görev gücü) 13. Tavsiye muhabir bankacılık yükümlülüklerini düzenler.</li></ul>"
       },
       {
         "num": "04",
         "title": "Kabuk Banka (Shell Bank) Yasağı",
-        "body": "<ul><li>Kabuk banka; fiziksel varlığı veya etkin yönetimi olmayan, düzenleyici denetime tabi tutulmayan bankadır.</li><li>Hiçbir yükümlü kabuk banka ile işlem yapamaz veya muhabir ilişkisi kuramaz.</li><li>Kabuk banka ilişkisi tespit edildiğinde mevcut ilişki derhal sonlandırılmalıdır.</li><li>5549 sayılı Kanun ve FATF tavsiyeleri bu yasağı açıkça düzenler.</li></ul>"
+        "body": "<ul><li>Kabuk banka; fiziksel varlığı veya etkin yönetimi olmayan, düzenleyici denetime tabi tutulmayan bankadır.</li><li>Hiçbir yükümlü kabuk banka ile işlem yapamaz veya muhabir ilişkisi kuramaz.</li><li>Kabuk banka ilişkisi tespit edildiğinde mevcut ilişki derhal sonlandırılmalıdır.</li><li>5549 sayılı Kanun ve FATF (finansal eylem görev gücü) tavsiyeleri bu yasağı açıkça düzenler.</li></ul>"
       },
       {
         "num": "05",
         "title": "Yüksek Riskli Ülkelerle İşlemler",
-        "body": "<ul><li>FATF kara listesi (blacklist) ve gri listesi (greylist) ülkeleriyle işlemlerde artırılmış tedbirler uygulanır.</li><li>Bu ülkelerden gelen fon transferlerine özel dikkat gösterilir ve kaynak araştırılır.</li><li>Gerektiğinde işlem reddedilebilir veya ŞİB yapılır.</li><li>Ülke risk derecelendirmeleri düzenli olarak güncellenerek izlenir.</li></ul>"
+        "body": "<ul><li>FATF (finansal eylem görev gücü) kara listesi (blacklist) ve gri listesi (greylist) ülkeleriyle işlemlerde artırılmış tedbirler uygulanır.</li><li>Bu ülkelerden gelen fon transferlerine özel dikkat gösterilir ve kaynak araştırılır.</li><li>Gerektiğinde işlem reddedilebilir veya ŞİB (şüpheli işlem bildirimi) yapılır.</li><li>Ülke risk derecelendirmeleri düzenli olarak güncellenerek izlenir.</li></ul>"
       }
     ],
     "tests": {
@@ -32830,12 +32830,12 @@ window.__C = {
           "q": "Muhabir bankacılık ilişkisi kurulmadan önce ne değerlendirilmelidir?",
           "o": [
             "A) Karşı bankanın kârlılığı",
-            "B) Karşı bankanın AML/CFT standartları",
+            "B) Karşı bankanın AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) standartları",
             "C) Karşı bankanın müşteri sayısı",
             "D) Karşı bankanın çalışan sayısı"
           ],
           "a": 1,
-          "e": "Muhabir bankacılık ilişkisi kurulmadan önce karşı tarafın AML/CFT uyum standartları değerlendirilmelidir."
+          "e": "Muhabir bankacılık ilişkisi kurulmadan önce karşı tarafın AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) uyum standartları değerlendirilmelidir."
         },
         {
           "q": "Kabuk banka (shell bank) nasıl tanımlanır?",
@@ -32853,14 +32853,14 @@ window.__C = {
           "o": [
             "A) Evet, ek bildirim şartıyla mümkündür",
             "B) Hayır, kesinlikle yasaktır",
-            "C) Yalnızca MASAK onayıyla mümkündür",
+            "C) Yalnızca MASAK (mali suçları araştırma kurulu) onayıyla mümkündür",
             "D) Yalnızca uluslararası muhabir ilişkilerinde yasaktır"
           ],
           "a": 1,
           "e": "Kabuk banka ile muhabir bankacılık ilişkisi kurmak kesinlikle yasaktır."
         },
         {
-          "q": "FATF kara listesindeki ülkelerle işlemlerde hangi tedbir uygulanır?",
+          "q": "FATF (finansal eylem görev gücü) kara listesindeki ülkelerle işlemlerde hangi tedbir uygulanır?",
           "o": [
             "A) Basitleştirilmiş müşteri kimlik tespiti",
             "B) Artırılmış tedbirler ve özel dikkat",
@@ -32868,32 +32868,32 @@ window.__C = {
             "D) Hiçbir ek tedbir gerekmez"
           ],
           "a": 1,
-          "e": "FATF kara listesindeki ülkelerle yapılan işlemlerde artırılmış tedbirler ve özel dikkat uygulanması zorunludur."
+          "e": "FATF (finansal eylem görev gücü) kara listesindeki ülkelerle yapılan işlemlerde artırılmış tedbirler ve özel dikkat uygulanması zorunludur."
         },
         {
           "q": "İşlem izleme sisteminde oluşan uyarılar (alerts) kim tarafından incelenir?",
           "o": [
             "A) Müşteri",
             "B) Uyum görevlisi",
-            "C) Yalnızca MASAK",
+            "C) Yalnızca MASAK (mali suçları araştırma kurulu)",
             "D) Yalnızca üst yönetim"
           ],
           "a": 1,
-          "e": "İşlem izleme sistemi uyarıları uyum görevlisi tarafından incelenir; gerekli görüldüğünde ŞİB yapılır."
+          "e": "İşlem izleme sistemi uyarıları uyum görevlisi tarafından incelenir; gerekli görüldüğünde ŞİB (şüpheli işlem bildirimi) yapılır."
         },
         {
           "q": "Kabuk banka ilişkisi tespit edildiğinde ne yapılmalıdır?",
           "o": [
             "A) İlişki sürdürülmeye devam edilir",
             "B) Mevcut ilişki derhal sonlandırılmalıdır",
-            "C) Yalnızca MASAK'a bildirim yapılır",
+            "C) Yalnızca MASAK (mali suçları araştırma kurulu)'a bildirim yapılır",
             "D) İlişki 6 ay içinde kademeli olarak bitirilir"
           ],
           "a": 1,
           "e": "Kabuk banka ilişkisi tespit edildiğinde, yükümlü mevcut ilişkiyi derhal sonlandırmak zorundadır."
         },
         {
-          "q": "FATF'ın muhabir bankacılık yükümlülüklerini düzenleyen tavsiyesi hangisidir?",
+          "q": "FATF (finansal eylem görev gücü)'ın muhabir bankacılık yükümlülüklerini düzenleyen tavsiyesi hangisidir?",
           "o": [
             "A) 10. Tavsiye",
             "B) 13. Tavsiye",
@@ -32901,10 +32901,10 @@ window.__C = {
             "D) 40. Tavsiye"
           ],
           "a": 1,
-          "e": "FATF'ın 13. Tavsiyesi muhabir bankacılık yükümlülüklerini düzenler."
+          "e": "FATF (finansal eylem görev gücü)'ın 13. Tavsiyesi muhabir bankacılık yükümlülüklerini düzenler."
         },
         {
-          "q": "FATF'ın özel dikkat konularını düzenleyen tavsiyesi hangisidir?",
+          "q": "FATF (finansal eylem görev gücü)'ın özel dikkat konularını düzenleyen tavsiyesi hangisidir?",
           "o": [
             "A) 10. Tavsiye",
             "B) 13. Tavsiye",
@@ -32912,7 +32912,7 @@ window.__C = {
             "D) 40. Tavsiye"
           ],
           "a": 2,
-          "e": "FATF'ın 20. Tavsiyesi, şüpheli işlem bildirimi dahil özel dikkat gerektiren işlemlere ilişkin hükümleri içerir."
+          "e": "FATF (finansal eylem görev gücü)'ın 20. Tavsiyesi, şüpheli işlem bildirimi dahil özel dikkat gerektiren işlemlere ilişkin hükümleri içerir."
         },
         {
           "q": "Otomatik işlem izleme sistemleri hangi teknolojilerle desteklenebilir?",
@@ -32940,15 +32940,15 @@ window.__C = {
           "q": "Yüksek riskli ülkelerden gelen fon transferinde hangi adım atılmalıdır?",
           "o": [
             "A) Transfer otomatik reddedilir",
-            "B) Fonun kaynağı araştırılır ve gerekirse ŞİB yapılır",
+            "B) Fonun kaynağı araştırılır ve gerekirse ŞİB (şüpheli işlem bildirimi) yapılır",
             "C) Transfer basitleştirilmiş prosedürle onaylanır",
             "D) Hiçbir ek adım atılmaz"
           ],
           "a": 1,
-          "e": "Yüksek riskli ülkelerden gelen transferlerde fon kaynağı araştırılır; gerektiğinde işlem reddedilebilir ya da ŞİB yapılır."
+          "e": "Yüksek riskli ülkelerden gelen transferlerde fon kaynağı araştırılır; gerektiğinde işlem reddedilebilir ya da ŞİB (şüpheli işlem bildirimi) yapılır."
         },
         {
-          "q": "FATF gri listesi ülkeleriyle işlemler nasıl değerlendirilir?",
+          "q": "FATF (finansal eylem görev gücü) gri listesi ülkeleriyle işlemler nasıl değerlendirilir?",
           "o": [
             "A) Standart prosedür uygulanır",
             "B) Artırılmış tedbirler uygulanır",
@@ -32956,7 +32956,7 @@ window.__C = {
             "D) Muaf tutulur"
           ],
           "a": 1,
-          "e": "FATF gri listesindeki ülkelerle yapılan işlemlerde artırılmış tedbirler uygulanması gerekir."
+          "e": "FATF (finansal eylem görev gücü) gri listesindeki ülkelerle yapılan işlemlerde artırılmış tedbirler uygulanması gerekir."
         },
         {
           "q": "İşlem izleme sistemi hangi türde işlemleri tespit etmek için kurgulanır?",
@@ -32986,7 +32986,7 @@ window.__C = {
             "A) Hiçbir zaman güncellenmez",
             "B) Düzenli olarak güncellenerek izlenir",
             "C) Yalnızca 10 yılda bir",
-            "D) Yalnızca MASAK talebi üzerine"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu) talebi üzerine"
           ],
           "a": 1,
           "e": "Ülke risk derecelendirmeleri düzenli olarak güncellenmeli ve izlenmelidir."
@@ -32995,12 +32995,12 @@ window.__C = {
           "q": "Muhabir bankacılık ilişkisinde hangi belge ve analizler yapılmalıdır?",
           "o": [
             "A) Yalnızca muhabir bankanın bilanço analizi",
-            "B) Muhabir bankanın AML/CFT politika ve prosedürlerinin değerlendirilmesi",
+            "B) Muhabir bankanın AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) politika ve prosedürlerinin değerlendirilmesi",
             "C) Yalnızca muhabir bankanın müşteri sayısının tespiti",
             "D) Hiçbir ek analiz gerekmez"
           ],
           "a": 1,
-          "e": "Muhabir bankacılık ilişkisi öncesinde karşı bankanın AML/CFT politika ve prosedürleri değerlendirilmelidir."
+          "e": "Muhabir bankacılık ilişkisi öncesinde karşı bankanın AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) politika ve prosedürleri değerlendirilmelidir."
         },
         {
           "q": "Aşağıdakilerden hangisi alışılmadık işlem örüntüsüne örnek teşkil eder?",
@@ -33032,33 +33032,33 @@ window.__C = {
       {
         "num": "01",
         "title": "Elektronik Fon Transferi (EFT) Kuralları",
-        "body": "<ul><li>EFT işlemlerinde gönderen ve alıcıya ait isim, hesap numarası ve adres bilgilerinin aktarılması zorunludur.</li><li>FATF 16. Tavsiye 'Travel Rule' (Seyahat Kuralı) olarak bilinen bu yükümlülüğü düzenler.</li><li>Bilgi eksikliği halinde aracı kuruluşlar işlemi askıya alabilir veya reddedebilir.</li><li>1.000 Euro/USD eşiğinin altında basitleştirilmiş kural uygulanabilir.</li></ul>"
+        "body": "<ul><li>EFT işlemlerinde gönderen ve alıcıya ait isim, hesap numarası ve adres bilgilerinin aktarılması zorunludur.</li><li>FATF (finansal eylem görev gücü) 16. Tavsiye 'Travel Rule' (Seyahat Kuralı) olarak bilinen bu yükümlülüğü düzenler.</li><li>Bilgi eksikliği halinde aracı kuruluşlar işlemi askıya alabilir veya reddedebilir.</li><li>1.000 Euro/USD eşiğinin altında basitleştirilmiş kural uygulanabilir.</li></ul>"
       },
       {
         "num": "02",
         "title": "Kripto Varlık Hizmet Sağlayıcıları (VASP)",
-        "body": "<ul><li>VASP (Virtual Asset Service Provider); kripto varlık alım-satım, transfer ve saklama hizmetleri sunan kuruluşlardır.</li><li>FATF, VASP'ların AML/CFT yükümlülüklerine tabi tutulması gerektiğini düzenler.</li><li>Türkiye'de kripto varlık hizmet sağlayıcıları SPK lisansına tabi tutulmuştur.</li><li>VASP'lar müşteri kimlik tespiti, ŞİB ve kayıt tutma yükümlülüklerini yerine getirmek zorundadır.</li></ul>"
+        "body": "<ul><li>VASP (Virtual Asset Service Provider); kripto varlık alım-satım, transfer ve saklama hizmetleri sunan kuruluşlardır.</li><li>FATF (finansal eylem görev gücü), VASP (kripto/sanal varlık hizmet sağlayıcısı)'ların AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine tabi tutulması gerektiğini düzenler.</li><li>Türkiye'de kripto varlık hizmet sağlayıcıları SPK (sermaye piyasası kurulu) lisansına tabi tutulmuştur.</li><li>VASP (kripto varlık hizmet sağlayıcısı)'lar müşteri kimlik tespiti, ŞİB (şüpheli işlem bildirimi) ve kayıt tutma yükümlülüklerini yerine getirmek zorundadır.</li></ul>"
       },
       {
         "num": "03",
         "title": "Kripto Varlık Transferlerinde Travel Rule",
-        "body": "<ul><li>FATF Travel Rule, kripto varlık transferlerinde de gönderici ve alıcı bilgilerinin aktarılmasını zorunlu kılar.</li><li>VASP'tan VASP'a transferlerde bilgi paylaşımı zorunludur.</li><li>Unhosted wallet (kişisel cüzdan) işlemleri ekstra dikkat ve belgeleme gerektirir.</li><li>Eşik: 1.000 USD/EUR ve üzeri transferlerde Travel Rule zorunludur.</li></ul>"
+        "body": "<ul><li>FATF (finansal eylem görev gücü) Travel Rule, kripto varlık transferlerinde de gönderici ve alıcı bilgilerinin aktarılmasını zorunlu kılar.</li><li>VASP (kripto/sanal varlık hizmet sağlayıcısı)'tan VASP (kripto varlık hizmet sağlayıcısı)'a transferlerde bilgi paylaşımı zorunludur.</li><li>Unhosted wallet (kişisel cüzdan) işlemleri ekstra dikkat ve belgeleme gerektirir.</li><li>Eşik: 1.000 USD/EUR ve üzeri transferlerde Travel Rule zorunludur.</li></ul>"
       },
       {
         "num": "04",
         "title": "Kripto Varlıklarda Risk Faktörleri",
-        "body": "<ul><li>Anonimlik ve takma adlılık kripto varlıkların temel AML risk unsurlarıdır.</li><li>Mixer/tumbler servisleri, anonimlik koinin kullanımı ve DeFi protokolleri izleme güçlüğü yaratır.</li><li>Hızlı uluslararası transferler kara para aklamanın katmanlama aşamasında sıkça kullanılır.</li><li>Blockchain analiz araçları şüpheli işlemlerin tespitinde kritik rol oynar.</li></ul>"
+        "body": "<ul><li>Anonimlik ve takma adlılık kripto varlıkların temel AML (kara para aklamanın önlenmesi) risk unsurlarıdır.</li><li>Mixer/tumbler servisleri, anonimlik koinin kullanımı ve DeFi protokolleri izleme güçlüğü yaratır.</li><li>Hızlı uluslararası transferler kara para aklamanın katmanlama aşamasında sıkça kullanılır.</li><li>Blockchain analiz araçları şüpheli işlemlerin tespitinde kritik rol oynar.</li></ul>"
       },
       {
         "num": "05",
         "title": "Türkiye'de Kripto Varlık Düzenlemesi",
-        "body": "<ul><li>7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK denetimine alınmıştır.</li><li>VASP'lar SPK'ya kayıt olmak, müşteri kimliğini doğrulamak ve şüpheli işlemleri bildirmek zorundadır.</li><li>Türkiye, MASAK aracılığıyla kripto varlık işlemlerinde AML/CFT uyumu izlemektedir.</li><li>Lisanssız faaliyet gösteren VASP'lara idari ve cezai yaptırım uygulanır.</li></ul>"
+        "body": "<ul><li>7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK (sermaye piyasası kurulu) denetimine alınmıştır.</li><li>VASP (kripto/sanal varlık hizmet sağlayıcısı)'lar SPK (sermaye piyasası kurulu)'ya kayıt olmak, müşteri kimliğini doğrulamak ve şüpheli işlemleri bildirmek zorundadır.</li><li>Türkiye, MASAK (mali suçları araştırma kurulu) aracılığıyla kripto varlık işlemlerinde AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) uyumu izlemektedir.</li><li>Lisanssız faaliyet gösteren VASP (kripto varlık hizmet sağlayıcısı)'lara idari ve cezai yaptırım uygulanır.</li></ul>"
       }
     ],
     "tests": {
       "t1": [
         {
-          "q": "FATF Travel Rule (Seyahat Kuralı) hangi tavsiyede düzenlenmektedir?",
+          "q": "FATF (finansal eylem görev gücü) Travel Rule (Seyahat Kuralı) hangi tavsiyede düzenlenmektedir?",
           "o": [
             "A) 10. Tavsiye",
             "B) 13. Tavsiye",
@@ -33066,7 +33066,7 @@ window.__C = {
             "D) 20. Tavsiye"
           ],
           "a": 2,
-          "e": "FATF'ın 16. Tavsiyesi elektronik fon transferlerinde gönderici ve alıcı bilgilerinin aktarılması yükümlülüğünü düzenler."
+          "e": "FATF (finansal eylem görev gücü)'ın 16. Tavsiyesi elektronik fon transferlerinde gönderici ve alıcı bilgilerinin aktarılması yükümlülüğünü düzenler."
         },
         {
           "q": "VASP kısaltması ne anlama gelir?",
@@ -33115,13 +33115,13 @@ window.__C = {
         {
           "q": "Türkiye'de kripto varlık hizmet sağlayıcıları hangi kurumun denetimine tabidir?",
           "o": [
-            "A) MASAK",
-            "B) BDDK",
-            "C) SPK",
+            "A) MASAK (mali suçları araştırma kurulu)",
+            "B) BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "C) SPK (sermaye piyasası kurulu)",
             "D) Hazine ve Maliye Bakanlığı"
           ],
           "a": 2,
-          "e": "7518 sayılı Kanun ile Türkiye'de kripto varlık hizmet sağlayıcıları SPK denetimine ve lisans yükümlülüğüne tabi tutulmuştur."
+          "e": "7518 sayılı Kanun ile Türkiye'de kripto varlık hizmet sağlayıcıları SPK (sermaye piyasası kurulu) denetimine ve lisans yükümlülüğüne tabi tutulmuştur."
         },
         {
           "q": "VASP'tan VASP'a kripto transferlerde ne zorunludur?",
@@ -33179,15 +33179,15 @@ window.__C = {
           "e": "Travel Rule gereğince EFT işlemlerinde hem gönderen hem de alıcının isim, hesap numarası ve adres bilgilerinin aktarılması zorunludur."
         },
         {
-          "q": "VASP'ların temel AML/CFT yükümlülükleri nelerdir?",
+          "q": "VASP'ların temel AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülükleri nelerdir?",
           "o": [
             "A) Yalnızca vergi beyannamesi vermek",
             "B) Müşteri kimlik tespiti, şüpheli işlem bildirimi ve kayıt tutma",
             "C) Yalnızca işlem hacmi raporlamak",
-            "D) Yalnızca MASAK'a kayıt olmak"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu)'a kayıt olmak"
           ],
           "a": 1,
-          "e": "VASP'lar; müşteri kimlik tespiti (KYC), şüpheli işlem bildirimi (ŞİB) ve kayıt tutma yükümlülüklerini yerine getirmek zorundadır."
+          "e": "VASP'lar; müşteri kimlik tespiti (KYC (müşteri tanıma)), şüpheli işlem bildirimi (ŞİB (şüpheli işlem bildirimi)) ve kayıt tutma yükümlülüklerini yerine getirmek zorundadır."
         },
         {
           "q": "1.000 Euro/USD altındaki EFT transferlerinde ne uygulanabilir?",
@@ -33228,32 +33228,32 @@ window.__C = {
             "A) İşlemi otomatik onaylamak",
             "B) İşlemi askıya almak veya reddetmek",
             "C) Yalnızca uyarı göndermek",
-            "D) MASAK'a eksik dosya iletmek"
+            "D) MASAK (mali suçları araştırma kurulu)'a eksik dosya iletmek"
           ],
           "a": 1,
           "e": "EFT'de zorunlu bilgiler eksikse aracı kuruluş işlemi askıya alabilir ya da reddedebilir."
         },
         {
-          "q": "FATF kripto varlık düzenlemesinin odak noktası nedir?",
+          "q": "FATF (finansal eylem görev gücü) kripto varlık düzenlemesinin odak noktası nedir?",
           "o": [
             "A) Kripto varlık fiyatlarını sabitlemek",
-            "B) VASP'ların AML/CFT yükümlülüklerine tabi tutulması",
+            "B) VASP'ların AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine tabi tutulması",
             "C) Kripto varlıkların yasaklanması",
             "D) Kripto varlık vergisinin belirlenmesi"
           ],
           "a": 1,
-          "e": "FATF, VASP'ların AML/CFT yükümlülüklerine tabi tutulması ve Travel Rule'un uygulanması konusunda standartlar belirlemiştir."
+          "e": "FATF (finansal eylem görev gücü), VASP'ların AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine tabi tutulması ve Travel Rule'un uygulanması konusunda standartlar belirlemiştir."
         },
         {
           "q": "7518 sayılı Kanun'un kripto varlık alanındaki temel yeniliği nedir?",
           "o": [
             "A) Kripto varlıkları tamamen yasaklamak",
-            "B) Kripto varlık hizmet sağlayıcılarını SPK lisansına tabi kılmak",
+            "B) Kripto varlık hizmet sağlayıcılarını SPK (sermaye piyasası kurulu) lisansına tabi kılmak",
             "C) Yalnızca yabancı VASP'ları düzenlemek",
             "D) Kripto varlık vergisini düzenlemek"
           ],
           "a": 1,
-          "e": "7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK lisansına ve denetimine tabi tutulmuştur."
+          "e": "7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK (sermaye piyasası kurulu) lisansına ve denetimine tabi tutulmuştur."
         },
         {
           "q": "Kripto varlık transferinde gönderici VASP'ın yükümlülüğü nedir?",
@@ -33261,7 +33261,7 @@ window.__C = {
             "A) Yalnızca alıcı VASP'ı bilgilendirmek",
             "B) Alıcı VASP'a gönderici ve alıcı bilgilerini aktarmak",
             "C) Yalnızca tutarı bildirmek",
-            "D) İşlemi MASAK'a bildirmek"
+            "D) İşlemi MASAK (mali suçları araştırma kurulu)'a bildirmek"
           ],
           "a": 1,
           "e": "Gönderici VASP, Travel Rule gereğince alıcı VASP'a hem gönderici hem de alıcıya ait bilgileri aktarmak zorundadır."
@@ -33285,33 +33285,33 @@ window.__C = {
       {
         "num": "01",
         "title": "Basitleştirilmiş Tedbirlerin Hukuki Dayanağı",
-        "body": "<ul><li>Risk bazlı yaklaşım (RBA) çerçevesinde düşük riskli durumlarda standart KYC yerine basitleştirilmiş müşteri kimlik tespiti (SDD) uygulanabilir.</li><li>FATF, düşük riskli müşteri ve ürünler için SDD uygulanmasına olanak tanır.</li><li>5549 sayılı Kanun ve MASAK yönetmelikleri basitleştirilmiş tedbirlerin koşullarını belirler.</li><li>Basitleştirilmiş tedbirler hiçbir zaman sıfır tedbir anlamına gelmez; temel KYC unsurları korunur.</li></ul>"
+        "body": "<ul><li>Risk bazlı yaklaşım (RBA (risk bazlı yaklaşım — risk-based approach)) çerçevesinde düşük riskli durumlarda standart KYC (müşteri tanıma — know your customer) yerine basitleştirilmiş müşteri kimlik tespiti (SDD (basitleştirilmiş durum tespiti — simplified due diligence)) uygulanabilir.</li><li>FATF (finansal eylem görev gücü), düşük riskli müşteri ve ürünler için SDD (basitleştirilmiş durum tespiti) uygulanmasına olanak tanır.</li><li>5549 sayılı Kanun ve MASAK (mali suçları araştırma kurulu) yönetmelikleri basitleştirilmiş tedbirlerin koşullarını belirler.</li><li>Basitleştirilmiş tedbirler hiçbir zaman sıfır tedbir anlamına gelmez; temel KYC (müşteri tanıma) unsurları korunur.</li></ul>"
       },
       {
         "num": "02",
         "title": "Düşük Riskli Müşteri ve Ürün Kategorileri",
-        "body": "<ul><li>Devlet ve kamu kurumları ile merkez bankaları genel olarak düşük riskli kabul edilir.</li><li>Düşük limitli tasarruf hesapları, zorunlu emeklilik ürünleri ve sosyal yardım ödemeleri düşük riskli ürünler arasındadır.</li><li>Lisanslı finansal kurumlar karşılıklı tanıma ilkesiyle düşük riskli değerlendirilebilir.</li><li>Coğrafi risk düşükse ve işlem profili sınırlıysa SDD uygulanabilir.</li></ul>"
+        "body": "<ul><li>Devlet ve kamu kurumları ile merkez bankaları genel olarak düşük riskli kabul edilir.</li><li>Düşük limitli tasarruf hesapları, zorunlu emeklilik ürünleri ve sosyal yardım ödemeleri düşük riskli ürünler arasındadır.</li><li>Lisanslı finansal kurumlar karşılıklı tanıma ilkesiyle düşük riskli değerlendirilebilir.</li><li>Coğrafi risk düşükse ve işlem profili sınırlıysa SDD (basitleştirilmiş durum tespiti — simplified due diligence) uygulanabilir.</li></ul>"
       },
       {
         "num": "03",
         "title": "Basitleştirilmiş Tedbirlerin Kapsamı",
-        "body": "<ul><li>SDD'de kimlik doğrulama bilgilerin toplanması ertelenebilir ancak iş ilişkisi başlamadan önce tamamlanmalıdır.</li><li>İzleme sıklığı ve derinliği azaltılabilir; ancak tamamen kaldırılamaz.</li><li>İşlem eşiği düşük tutularak tetikleyici kontroller sürdürülür.</li><li>Periyodik gözden geçirme yükümlülüğü korunur.</li></ul>"
+        "body": "<ul><li>SDD (basitleştirilmiş durum tespiti — simplified due diligence)'de kimlik doğrulama bilgilerin toplanması ertelenebilir ancak iş ilişkisi başlamadan önce tamamlanmalıdır.</li><li>İzleme sıklığı ve derinliği azaltılabilir; ancak tamamen kaldırılamaz.</li><li>İşlem eşiği düşük tutularak tetikleyici kontroller sürdürülür.</li><li>Periyodik gözden geçirme yükümlülüğü korunur.</li></ul>"
       },
       {
         "num": "04",
-        "title": "SDD ile Standart KYC Arasındaki Farklar",
-        "body": "<ul><li>Standart KYC'de kimlik anında doğrulanırken SDD'de ek bir süre tanınabilir.</li><li>SDD'de müşteri profili daha dar kapsamlı tutulur; ancak temel bilgiler yine de toplanır.</li><li>İzleme otomatik sistemlerle sürdürülür; anormalliklerde standart prosedüre geçilir.</li><li>SDD kararı belgelenmelidir; gerekçesiz SDD uygulamak mevzuata aykırıdır.</li></ul>"
+        "title": "SDD (basitleştirilmiş durum tespiti) ile Standart KYC (müşteri tanıma) Arasındaki Farklar",
+        "body": "<ul><li>Standart KYC (müşteri tanıma — know your customer)'de kimlik anında doğrulanırken SDD (basitleştirilmiş durum tespiti — simplified due diligence)'de ek bir süre tanınabilir.</li><li>SDD (basitleştirilmiş durum tespiti)'de müşteri profili daha dar kapsamlı tutulur; ancak temel bilgiler yine de toplanır.</li><li>İzleme otomatik sistemlerle sürdürülür; anormalliklerde standart prosedüre geçilir.</li><li>SDD (basitleştirilmiş durum tespiti) kararı belgelenmelidir; gerekçesiz SDD (basitleştirilmiş durum tespiti) uygulamak mevzuata aykırıdır.</li></ul>"
       },
       {
         "num": "05",
-        "title": "SDD Uygulamasında Dikkat Edilecek Hususlar",
-        "body": "<ul><li>SDD uygulanmasına karar verilmeden önce kurumun risk iştahı ve politikaları gözden geçirilmelidir.</li><li>Şüphe belirdiği anda SDD'den standart veya artırılmış tedbire (EDD) geçilmelidir.</li><li>SDD kararları denetimde belgelerle ispatlanabilir olmalıdır.</li><li>Yükümlü, SDD uyguladığı müşteri kategorilerini açıkça tanımlamalı ve yazılı hale getirmelidir.</li></ul>"
+        "title": "SDD (basitleştirilmiş durum tespiti) Uygulamasında Dikkat Edilecek Hususlar",
+        "body": "<ul><li>SDD (basitleştirilmiş durum tespiti — simplified due diligence) uygulanmasına karar verilmeden önce kurumun risk iştahı ve politikaları gözden geçirilmelidir.</li><li>Şüphe belirdiği anda SDD (basitleştirilmiş durum tespiti)'den standart veya artırılmış tedbire (EDD (artırılmış durum tespiti — enhanced due diligence)) geçilmelidir.</li><li>SDD (basitleştirilmiş durum tespiti) kararları denetimde belgelerle ispatlanabilir olmalıdır.</li><li>Yükümlü, SDD (basitleştirilmiş durum tespiti) uyguladığı müşteri kategorilerini açıkça tanımlamalı ve yazılı hale getirmelidir.</li></ul>"
       }
     ],
     "tests": {
       "t1": [
         {
-          "q": "Basitleştirilmiş müşteri kimlik tespiti (SDD) hangi çerçevede uygulanır?",
+          "q": "Basitleştirilmiş müşteri kimlik tespiti (SDD (basitleştirilmiş durum tespiti)) hangi çerçevede uygulanır?",
           "o": [
             "A) Her müşteri için zorunlu olarak",
             "B) Risk bazlı yaklaşım çerçevesinde düşük riskli durumlarda",
@@ -33319,7 +33319,7 @@ window.__C = {
             "D) Yalnızca kurumsal müşteriler için"
           ],
           "a": 1,
-          "e": "SDD, risk bazlı yaklaşım (RBA) çerçevesinde düşük risk tespit edilen müşteri ve işlemlere uygulanır."
+          "e": "SDD (basitleştirilmiş durum tespiti), risk bazlı yaklaşım (RBA) çerçevesinde düşük risk tespit edilen müşteri ve işlemlere uygulanır."
         },
         {
           "q": "Basitleştirilmiş tedbirler neyi garanti etmez?",
@@ -33330,7 +33330,7 @@ window.__C = {
             "D) İzleme sıklığının azaltılmasını"
           ],
           "a": 1,
-          "e": "Basitleştirilmiş tedbirler sıfır tedbir anlamına gelmez; temel KYC unsurları her koşulda korunur."
+          "e": "Basitleştirilmiş tedbirler sıfır tedbir anlamına gelmez; temel KYC (müşteri tanıma) unsurları her koşulda korunur."
         },
         {
           "q": "Aşağıdakilerden hangisi genel olarak düşük riskli müşteri kategorisinde kabul edilir?",
@@ -33344,7 +33344,7 @@ window.__C = {
           "e": "Devlet ve kamu kurumları ile merkez bankaları genel olarak düşük riskli müşteri kategorisinde kabul edilir."
         },
         {
-          "q": "SDD'de kimlik doğrulama süreci nasıl işler?",
+          "q": "SDD (basitleştirilmiş durum tespiti)'de kimlik doğrulama süreci nasıl işler?",
           "o": [
             "A) Kimlik doğrulama hiç yapılmaz",
             "B) Bilgilerin toplanması ertelenebilir ancak iş ilişkisi başlamadan önce tamamlanmalıdır",
@@ -33352,29 +33352,29 @@ window.__C = {
             "D) Yalnızca sözlü beyan yeterlidir"
           ],
           "a": 1,
-          "e": "SDD'de kimlik bilgilerinin toplanması ertelenebilir; ancak iş ilişkisi başlamadan önce tamamlanması zorunludur."
+          "e": "SDD (basitleştirilmiş durum tespiti)'de kimlik bilgilerinin toplanması ertelenebilir; ancak iş ilişkisi başlamadan önce tamamlanması zorunludur."
         },
         {
-          "q": "SDD kararı alındığında bu karar nasıl belgelenir?",
+          "q": "SDD (basitleştirilmiş durum tespiti) kararı alındığında bu karar nasıl belgelenir?",
           "o": [
             "A) Belgelenmesi gerekmez",
             "B) Gerekçesiyle birlikte yazılı olarak kayıt altına alınır",
             "C) Yalnızca sözlü onay yeterlidir",
-            "D) MASAK'a bildirilmesi yeterlidir"
+            "D) MASAK (mali suçları araştırma kurulu)'a bildirilmesi yeterlidir"
           ],
           "a": 1,
-          "e": "SDD kararı gerekçesiyle birlikte belgelenmelidir; gerekçesiz SDD uygulamak mevzuata aykırıdır."
+          "e": "SDD (basitleştirilmiş durum tespiti) kararı gerekçesiyle birlikte belgelenmelidir; gerekçesiz SDD (basitleştirilmiş durum tespiti) uygulamak mevzuata aykırıdır."
         },
         {
-          "q": "Şüphe belirdiğinde SDD uygulayan yükümlü ne yapmalıdır?",
+          "q": "Şüphe belirdiğinde SDD (basitleştirilmiş durum tespiti) uygulayan yükümlü ne yapmalıdır?",
           "o": [
-            "A) SDD uygulamaya devam eder",
-            "B) Standart veya artırılmış tedbire (EDD) geçer",
+            "A) SDD (basitleştirilmiş durum tespiti) uygulamaya devam eder",
+            "B) Standart veya artırılmış tedbire (EDD (güçlendirilmiş durum tespiti)) geçer",
             "C) Hesabı derhal kapatır",
-            "D) MASAK'a otomatik bildirim yapar"
+            "D) MASAK (mali suçları araştırma kurulu)'a otomatik bildirim yapar"
           ],
           "a": 1,
-          "e": "Şüphe belirdiği anda SDD'den standart KYC veya artırılmış tedbir (EDD) uygulamasına geçilmesi zorunludur."
+          "e": "Şüphe belirdiği anda SDD (basitleştirilmiş durum tespiti)'den standart KYC (müşteri tanıma) veya artırılmış tedbir (EDD (güçlendirilmiş durum tespiti)) uygulamasına geçilmesi zorunludur."
         },
         {
           "q": "Aşağıdakilerden hangisi düşük riskli ürün olarak değerlendirilebilir?",
@@ -33382,68 +33382,68 @@ window.__C = {
             "A) Yüksek limitli offshore hesaplar",
             "B) Zorunlu emeklilik ürünleri ve sosyal yardım ödemeleri",
             "C) Anonim kripto varlık hesapları",
-            "D) PEP'e ait yatırım portföyleri"
+            "D) PEP (siyasi nüfuz sahibi kişi)'e ait yatırım portföyleri"
           ],
           "a": 1,
           "e": "Zorunlu emeklilik ürünleri ve sosyal yardım ödemeleri gibi sınırlı amaçlı ürünler düşük riskli kabul edilebilir."
         },
         {
-          "q": "SDD uygulanmasında coğrafi risk ne anlam taşır?",
+          "q": "SDD (basitleştirilmiş durum tespiti) uygulanmasında coğrafi risk ne anlam taşır?",
           "o": [
-            "A) Coğrafi risk SDD kararını etkilemez",
-            "B) Coğrafi risk düşükse SDD uygulaması kolaylaşır",
-            "C) Coğrafi risk yüksekse SDD zorunlu hale gelir",
+            "A) Coğrafi risk SDD (basitleştirilmiş durum tespiti) kararını etkilemez",
+            "B) Coğrafi risk düşükse SDD (basitleştirilmiş durum tespiti) uygulaması kolaylaşır",
+            "C) Coğrafi risk yüksekse SDD (basitleştirilmiş durum tespiti) zorunlu hale gelir",
             "D) Coğrafi risk yalnızca bankacılıkta dikkate alınır"
           ],
           "a": 1,
-          "e": "Coğrafi risk düşük olması SDD uygulanmasını destekleyen faktörlerden biridir."
+          "e": "Coğrafi risk düşük olması SDD (basitleştirilmiş durum tespiti) uygulanmasını destekleyen faktörlerden biridir."
         },
         {
-          "q": "SDD ile standart KYC arasındaki temel fark nedir?",
+          "q": "SDD (basitleştirilmiş durum tespiti) ile standart KYC (müşteri tanıma) arasındaki temel fark nedir?",
           "o": [
-            "A) SDD'de hiç belge toplanmaz",
-            "B) SDD'de izleme ve doğrulama sıklığı azaltılabilir ancak temel unsurlar korunur",
-            "C) SDD yalnızca tüzel kişilere uygulanır",
-            "D) SDD'de ŞİB yükümlülüğü ortadan kalkar"
+            "A) SDD (basitleştirilmiş durum tespiti)'de hiç belge toplanmaz",
+            "B) SDD (basitleştirilmiş durum tespiti)'de izleme ve doğrulama sıklığı azaltılabilir ancak temel unsurlar korunur",
+            "C) SDD (basitleştirilmiş durum tespiti) yalnızca tüzel kişilere uygulanır",
+            "D) SDD (basitleştirilmiş durum tespiti)'de ŞİB (şüpheli işlem bildirimi) yükümlülüğü ortadan kalkar"
           ],
           "a": 1,
-          "e": "SDD'de izleme ve doğrulama sıklığı azaltılabilir; ancak temel KYC unsurları korunur."
+          "e": "SDD (basitleştirilmiş durum tespiti)'de izleme ve doğrulama sıklığı azaltılabilir; ancak temel KYC (müşteri tanıma) unsurları korunur."
         },
         {
-          "q": "Lisanslı finansal kurumlar SDD kapsamında nasıl değerlendirilebilir?",
+          "q": "Lisanslı finansal kurumlar SDD (basitleştirilmiş durum tespiti) kapsamında nasıl değerlendirilebilir?",
           "o": [
             "A) Her zaman yüksek riskli kabul edilir",
             "B) Karşılıklı tanıma ilkesiyle düşük riskli değerlendirilebilir",
-            "C) Hiçbir koşulda SDD uygulanamaz",
+            "C) Hiçbir koşulda SDD (basitleştirilmiş durum tespiti) uygulanamaz",
             "D) Yalnızca yurt içi lisanslı kurumlar düşük riskli kabul edilir"
           ],
           "a": 1,
-          "e": "Lisanslı finansal kurumlar, karşılıklı tanıma ilkesiyle düşük riskli değerlendirilerek SDD kapsamına alınabilir."
+          "e": "Lisanslı finansal kurumlar, karşılıklı tanıma ilkesiyle düşük riskli değerlendirilerek SDD (basitleştirilmiş durum tespiti) kapsamına alınabilir."
         },
         {
-          "q": "SDD uygulamasında periyodik gözden geçirme yükümlülüğü ne olur?",
+          "q": "SDD (basitleştirilmiş durum tespiti) uygulamasında periyodik gözden geçirme yükümlülüğü ne olur?",
           "o": [
             "A) Tamamen ortadan kalkar",
             "B) Korunur",
             "C) 10 yılda bir yapılır",
-            "D) Yalnızca MASAK talebi üzerine yapılır"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu) talebi üzerine yapılır"
           ],
           "a": 1,
-          "e": "SDD uygulanmasında periyodik gözden geçirme yükümlülüğü korunur; temel izleme sürdürülür."
+          "e": "SDD (basitleştirilmiş durum tespiti) uygulanmasında periyodik gözden geçirme yükümlülüğü korunur; temel izleme sürdürülür."
         },
         {
-          "q": "SDD kararını almadan önce yükümlü ne yapmalıdır?",
+          "q": "SDD (basitleştirilmiş durum tespiti) kararını almadan önce yükümlü ne yapmalıdır?",
           "o": [
-            "A) MASAK onayı almalıdır",
+            "A) MASAK (mali suçları araştırma kurulu) onayı almalıdır",
             "B) Kurumun risk iştahı ve politikalarını gözden geçirmelidir",
             "C) Müşteriden onay almalıdır",
             "D) Yönetim kurulu kararı gerekmez"
           ],
           "a": 1,
-          "e": "SDD kararı alınmadan önce kurumun risk iştahı ve AML/CFT politikaları gözden geçirilmelidir."
+          "e": "SDD (basitleştirilmiş durum tespiti) kararı alınmadan önce kurumun risk iştahı ve AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) politikaları gözden geçirilmelidir."
         },
         {
-          "q": "Gerekçesiz SDD uygulamasının sonucu nedir?",
+          "q": "Gerekçesiz SDD (basitleştirilmiş durum tespiti) uygulamasının sonucu nedir?",
           "o": [
             "A) Hiçbir sonucu yoktur",
             "B) Mevzuata aykırıdır ve yaptırıma konu olabilir",
@@ -33451,43 +33451,43 @@ window.__C = {
             "D) Müşteri bilgilendirmesi yeterlidir"
           ],
           "a": 1,
-          "e": "Gerekçesiz SDD uygulaması mevzuata aykırı olup idari yaptırım gerektirebilir."
+          "e": "Gerekçesiz SDD (basitleştirilmiş durum tespiti) uygulaması mevzuata aykırı olup idari yaptırım gerektirebilir."
         },
         {
-          "q": "SDD uygulanan müşteri kategorileri nasıl belirlenmelidir?",
+          "q": "SDD (basitleştirilmiş durum tespiti) uygulanan müşteri kategorileri nasıl belirlenmelidir?",
           "o": [
             "A) Her işlem bazında ayrı ayrı kararlaştırılır",
             "B) Açıkça tanımlanarak yazılı hale getirilmelidir",
             "C) Yalnızca sözlü onay yeterlidir",
-            "D) MASAK kararına bırakılır"
+            "D) MASAK (mali suçları araştırma kurulu) kararına bırakılır"
           ],
           "a": 1,
-          "e": "Yükümlü, SDD uygulayabileceği müşteri kategorilerini açıkça tanımlamalı ve yazılı politikalarında belirtmelidir."
+          "e": "Yükümlü, SDD (basitleştirilmiş durum tespiti) uygulayabileceği müşteri kategorilerini açıkça tanımlamalı ve yazılı politikalarında belirtmelidir."
         },
         {
-          "q": "SDD uygulamasında işlem eşikleri neden önemlidir?",
+          "q": "SDD (basitleştirilmiş durum tespiti) uygulamasında işlem eşikleri neden önemlidir?",
           "o": [
-            "A) İşlem eşikleri SDD'de uygulanmaz",
+            "A) İşlem eşikleri SDD (basitleştirilmiş durum tespiti)'de uygulanmaz",
             "B) Tetikleyici kontroller sayesinde eşik aşan işlemlerde standart/artırılmış tedbire geçilir",
-            "C) İşlem eşikleri yalnızca EDD için geçerlidir",
-            "D) Eşik aşılsa da SDD devam ettirilir"
+            "C) İşlem eşikleri yalnızca EDD (güçlendirilmiş durum tespiti) için geçerlidir",
+            "D) Eşik aşılsa da SDD (basitleştirilmiş durum tespiti) devam ettirilir"
           ],
           "a": 1,
-          "e": "İşlem eşikleri sayesinde SDD kapsamındaki müşterilerde belirli bir tutarı aşan işlemler tetikleyici kontrollere tabi tutulur."
+          "e": "İşlem eşikleri sayesinde SDD (basitleştirilmiş durum tespiti) kapsamındaki müşterilerde belirli bir tutarı aşan işlemler tetikleyici kontrollere tabi tutulur."
         },
         {
-          "q": "FATF'ın SDD konusundaki tutumu nedir?",
+          "q": "FATF (finansal eylem görev gücü)'ın SDD (basitleştirilmiş durum tespiti) konusundaki tutumu nedir?",
           "o": [
-            "A) SDD'yi hiçbir koşulda onaylamaz",
-            "B) Düşük riskli durumlarda SDD uygulanmasına olanak tanır",
-            "C) Tüm müşteriler için SDD zorunludur",
-            "D) SDD yalnızca gelişmekte olan ülkeler için geçerlidir"
+            "A) SDD (basitleştirilmiş durum tespiti)'yi hiçbir koşulda onaylamaz",
+            "B) Düşük riskli durumlarda SDD (basitleştirilmiş durum tespiti) uygulanmasına olanak tanır",
+            "C) Tüm müşteriler için SDD (basitleştirilmiş durum tespiti) zorunludur",
+            "D) SDD (basitleştirilmiş durum tespiti) yalnızca gelişmekte olan ülkeler için geçerlidir"
           ],
           "a": 1,
-          "e": "FATF, risk bazlı yaklaşım çerçevesinde düşük riskli müşteri ve ürünler için SDD uygulanmasına olanak tanır."
+          "e": "FATF (finansal eylem görev gücü), risk bazlı yaklaşım çerçevesinde düşük riskli müşteri ve ürünler için SDD (basitleştirilmiş durum tespiti) uygulanmasına olanak tanır."
         },
         {
-          "q": "SDD ile izleme sıklığı nasıl değişir?",
+          "q": "SDD (basitleştirilmiş durum tespiti) ile izleme sıklığı nasıl değişir?",
           "o": [
             "A) İzleme tamamen kaldırılır",
             "B) İzleme sıklığı ve derinliği azaltılabilir ancak tamamen kaldırılamaz",
@@ -33495,7 +33495,7 @@ window.__C = {
             "D) İzleme yalnızca yıllık yapılır"
           ],
           "a": 1,
-          "e": "SDD'de izleme sıklığı ve derinliği azaltılabilir; ancak izleme hiçbir zaman tamamen kaldırılamaz."
+          "e": "SDD (basitleştirilmiş durum tespiti)'de izleme sıklığı ve derinliği azaltılabilir; ancak izleme hiçbir zaman tamamen kaldırılamaz."
         },
         {
           "q": "Sosyal yardım ödemeleri neden düşük riskli ürün sayılır?",
@@ -33509,26 +33509,26 @@ window.__C = {
           "e": "Sosyal yardım ödemeleri kamu denetiminde olan, belirli amaçlı ve sınırlı kapsamlı ürünler olduğundan düşük riskli kabul edilir."
         },
         {
-          "q": "SDD kararlarının denetimde nasıl kanıtlanması gerekir?",
+          "q": "SDD (basitleştirilmiş durum tespiti) kararlarının denetimde nasıl kanıtlanması gerekir?",
           "o": [
             "A) Sözlü açıklama yeterlidir",
             "B) Yazılı belgelerle ispatlanabilir olmalıdır",
             "C) Yalnızca sistem kaydı yeterlidir",
-            "D) MASAK onayı belgesi yeterlidir"
+            "D) MASAK (mali suçları araştırma kurulu) onayı belgesi yeterlidir"
           ],
           "a": 1,
-          "e": "SDD kararları ve gerekçeleri, denetimde yazılı belgelerle ispatlanabilir nitelikte olmalıdır."
+          "e": "SDD (basitleştirilmiş durum tespiti) kararları ve gerekçeleri, denetimde yazılı belgelerle ispatlanabilir nitelikte olmalıdır."
         },
         {
-          "q": "Anormalliklerde SDD'den nasıl çıkılır?",
+          "q": "Anormalliklerde SDD (basitleştirilmiş durum tespiti)'den nasıl çıkılır?",
           "o": [
-            "A) MASAK onayı beklenir",
+            "A) MASAK (mali suçları araştırma kurulu) onayı beklenir",
             "B) Otomatik olarak standart prosedüre geçilir",
             "C) İşlem reddedilir",
             "D) Müşteri bilgilendirilir"
           ],
           "a": 1,
-          "e": "İzleme sisteminde anormallik tespit edildiğinde SDD'den otomatik olarak standart KYC prosedürüne geçilir."
+          "e": "İzleme sisteminde anormallik tespit edildiğinde SDD (basitleştirilmiş durum tespiti)'den otomatik olarak standart KYC (müşteri tanıma) prosedürüne geçilir."
         }
       ]
     }
@@ -33537,28 +33537,28 @@ window.__C = {
     "summary": [
       {
         "num": "01",
-        "title": "Artırılmış Müşteri Kimlik Tespiti (EDD)",
-        "body": "<ul><li>EDD (Enhanced Due Diligence), yüksek riskli müşteri ve işlemler için standart KYC'nin ötesinde uygulanan kapsamlı doğrulama sürecidir.</li><li>Fon kaynağının ve servetin kaynağının belgelenmesi zorunludur.</li><li>Üst yönetim onayı ile izleme sıklığının artırılması EDD'nin temel unsurlarıdır.</li><li>FATF 19. Tavsiye EDD yükümlülüklerini düzenler.</li></ul>"
+        "title": "Artırılmış Müşteri Kimlik Tespiti (EDD (güçlendirilmiş durum tespiti))",
+        "body": "<ul><li>EDD (Enhanced Due Diligence), yüksek riskli müşteri ve işlemler için standart KYC (müşteri tanıma — know your customer)'nin ötesinde uygulanan kapsamlı doğrulama sürecidir.</li><li>Fon kaynağının ve servetin kaynağının belgelenmesi zorunludur.</li><li>Üst yönetim onayı ile izleme sıklığının artırılması EDD (artırılmış durum tespiti — enhanced due diligence)'nin temel unsurlarıdır.</li><li>FATF (finansal eylem görev gücü) 19. Tavsiye EDD (artırılmış durum tespiti) yükümlülüklerini düzenler.</li></ul>"
       },
       {
         "num": "02",
         "title": "PEP (Siyasi Açıdan Maruz Kalmış Kişiler)",
-        "body": "<ul><li>PEP; devlet başkanı, bakan, milletvekili, yargıç, üst düzey kamu görevlisi gibi siyasi nüfuza sahip kişilerdir.</li><li>PEP'ler kamu kaynaklarına ve kararlarına yakınlıkları nedeniyle rüşvet ve yolsuzluk riski taşır.</li><li>Yurt içi ve yabancı PEP'ler, uluslararası kuruluş yöneticileri bu kapsamda değerlendirilir.</li><li>PEP statüsünün sona ermesi yükümlülükleri hemen kaldırmaz; risk bazlı süre uygulanır.</li></ul>"
+        "body": "<ul><li>PEP (siyasi açıdan maruz kalmış kişi); devlet başkanı, bakan, milletvekili, yargıç, üst düzey kamu görevlisi gibi siyasi nüfuza sahip kişilerdir.</li><li>PEP (siyasi açıdan maruz kalmış kişi)'ler kamu kaynaklarına ve kararlarına yakınlıkları nedeniyle rüşvet ve yolsuzluk riski taşır.</li><li>Yurt içi ve yabancı PEP (siyasi nüfuz sahibi kişi)'ler, uluslararası kuruluş yöneticileri bu kapsamda değerlendirilir.</li><li>PEP (siyasi nüfuz sahibi kişi) statüsünün sona ermesi yükümlülükleri hemen kaldırmaz; risk bazlı süre uygulanır.</li></ul>"
       },
       {
         "num": "03",
-        "title": "PEP'lere Uygulanacak Tedbirler",
-        "body": "<ul><li>PEP müşterilerle iş ilişkisi kurulmadan önce üst yönetim onayı alınmalıdır.</li><li>Fon kaynağı ve servetin kaynağı araştırılıp belgelenmelidir.</li><li>İzleme sıklığı ve derinliği artırılmalıdır.</li><li>İş ilişkisi devam ettiği sürece PEP statüsü ve risk profili periyodik güncellenir.</li></ul>"
+        "title": "PEP (siyasi nüfuz sahibi kişi)'lere Uygulanacak Tedbirler",
+        "body": "<ul><li>PEP (siyasi açıdan maruz kalmış kişi) müşterilerle iş ilişkisi kurulmadan önce üst yönetim onayı alınmalıdır.</li><li>Fon kaynağı ve servetin kaynağı araştırılıp belgelenmelidir.</li><li>İzleme sıklığı ve derinliği artırılmalıdır.</li><li>İş ilişkisi devam ettiği sürece PEP (siyasi açıdan maruz kalmış kişi) statüsü ve risk profili periyodik güncellenir.</li></ul>"
       },
       {
         "num": "04",
-        "title": "PEP ile İlişkili Kişiler",
-        "body": "<ul><li>PEP'lerin aile üyeleri (eş, çocuk, ebeveyn) ve yakın iş ortakları da artırılmış tedbire tabidir.</li><li>Bu kişiler doğrudan PEP olmasa da PEP'e yakınlıkları nedeniyle yüksek risk taşır.</li><li>FATF, PEP ile bağlantılı kişilere de EDD uygulanmasını tavsiye eder.</li><li>Yakın iş ortağı kavramı; ortak iş kurulan veya çıkar ilişkisi bulunan kişileri kapsar.</li></ul>"
+        "title": "PEP (siyasi nüfuz sahibi kişi) ile İlişkili Kişiler",
+        "body": "<ul><li>PEP (siyasi açıdan maruz kalmış kişi)'lerin aile üyeleri (eş, çocuk, ebeveyn) ve yakın iş ortakları da artırılmış tedbire tabidir.</li><li>Bu kişiler doğrudan PEP (siyasi açıdan maruz kalmış kişi) olmasa da PEP (siyasi nüfuz sahibi kişi)'e yakınlıkları nedeniyle yüksek risk taşır.</li><li>FATF (finansal eylem görev gücü), PEP (siyasi nüfuz sahibi kişi) ile bağlantılı kişilere de EDD (artırılmış durum tespiti — enhanced due diligence) uygulanmasını tavsiye eder.</li><li>Yakın iş ortağı kavramı; ortak iş kurulan veya çıkar ilişkisi bulunan kişileri kapsar.</li></ul>"
       },
       {
         "num": "05",
-        "title": "EDD Gerektiren Diğer Durumlar",
-        "body": "<ul><li>Yüksek riskli ülkelerle ilgili işlemler EDD gerektirir.</li><li>Karmaşık, alışılmadık yüksek tutarlı ve açıklanamayan işlemler EDD kapsamındadır.</li><li>Tröst, offshore yapı ve anonim şirketlerle ilişkili işlemler artırılmış tedbir gerektirir.</li><li>Yeni teknolojiler ve anonim işlem kanallarının kullanımı da EDD tetikleyicisi olabilir.</li></ul>"
+        "title": "EDD (güçlendirilmiş durum tespiti) Gerektiren Diğer Durumlar",
+        "body": "<ul><li>Yüksek riskli ülkelerle ilgili işlemler EDD (artırılmış durum tespiti — enhanced due diligence) gerektirir.</li><li>Karmaşık, alışılmadık yüksek tutarlı ve açıklanamayan işlemler EDD (artırılmış durum tespiti) kapsamındadır.</li><li>Tröst, offshore yapı ve anonim şirketlerle ilişkili işlemler artırılmış tedbir gerektirir.</li><li>Yeni teknolojiler ve anonim işlem kanallarının kullanımı da EDD (güçlendirilmiş durum tespiti) tetikleyicisi olabilir.</li></ul>"
       }
     ],
     "tests": {
@@ -33572,10 +33572,10 @@ window.__C = {
             "D) Periyodik müşteri güncellemesi"
           ],
           "a": 1,
-          "e": "EDD, yüksek riskli müşteri ve işlemler için standart KYC'nin ötesinde uygulanan kapsamlı doğrulama sürecidir."
+          "e": "EDD (güçlendirilmiş durum tespiti), yüksek riskli müşteri ve işlemler için standart KYC (müşteri tanıma)'nin ötesinde uygulanan kapsamlı doğrulama sürecidir."
         },
         {
-          "q": "PEP kısaltması ne anlama gelir?",
+          "q": "PEP (siyasi nüfuz sahibi kişi) kısaltması ne anlama gelir?",
           "o": [
             "A) Periyodik Etkinlik Planlaması",
             "B) Siyasi Açıdan Maruz Kalmış Kişi",
@@ -33583,10 +33583,10 @@ window.__C = {
             "D) Piyasa Erişim Protokolü"
           ],
           "a": 1,
-          "e": "PEP; Politically Exposed Person, yani Siyasi Açıdan Maruz Kalmış Kişi anlamına gelir."
+          "e": "PEP (siyasi nüfuz sahibi kişi); Politically Exposed Person, yani Siyasi Açıdan Maruz Kalmış Kişi anlamına gelir."
         },
         {
-          "q": "PEP'ler neden yüksek risk taşır?",
+          "q": "PEP (siyasi nüfuz sahibi kişi)'ler neden yüksek risk taşır?",
           "o": [
             "A) Yüksek gelir düzeyleri nedeniyle",
             "B) Kamu kaynaklarına ve kararlarına yakınlıkları nedeniyle rüşvet ve yolsuzluk riski taşırlar",
@@ -33594,21 +33594,21 @@ window.__C = {
             "D) Uluslararası seyahat ettikleri için"
           ],
           "a": 1,
-          "e": "PEP'ler kamu kaynakları ve kararlarına yakınlıkları nedeniyle rüşvet ve yolsuzluk riski taşır."
+          "e": "PEP (siyasi nüfuz sahibi kişi)'ler kamu kaynakları ve kararlarına yakınlıkları nedeniyle rüşvet ve yolsuzluk riski taşır."
         },
         {
-          "q": "PEP ile iş ilişkisi kurulmadan önce ne gereklidir?",
+          "q": "PEP (siyasi nüfuz sahibi kişi) ile iş ilişkisi kurulmadan önce ne gereklidir?",
           "o": [
             "A) Müşterinin onayı",
             "B) Üst yönetim onayı",
             "C) Yalnızca uyum görevlisi onayı",
-            "D) MASAK'ın izni"
+            "D) MASAK (mali suçları araştırma kurulu)'ın izni"
           ],
           "a": 1,
-          "e": "PEP müşterilerle iş ilişkisi kurulmadan önce üst yönetim onayı alınması zorunludur."
+          "e": "PEP (siyasi nüfuz sahibi kişi) müşterilerle iş ilişkisi kurulmadan önce üst yönetim onayı alınması zorunludur."
         },
         {
-          "q": "FATF'ın EDD yükümlülüklerini düzenleyen tavsiyesi hangisidir?",
+          "q": "FATF (finansal eylem görev gücü)'ın EDD (güçlendirilmiş durum tespiti) yükümlülüklerini düzenleyen tavsiyesi hangisidir?",
           "o": [
             "A) 10. Tavsiye",
             "B) 13. Tavsiye",
@@ -33616,21 +33616,21 @@ window.__C = {
             "D) 19. Tavsiye"
           ],
           "a": 3,
-          "e": "FATF'ın 19. Tavsiyesi EDD yükümlülüklerini ve PEP'lere uygulanacak tedbirleri düzenler."
+          "e": "FATF (finansal eylem görev gücü)'ın 19. Tavsiyesi EDD (güçlendirilmiş durum tespiti) yükümlülüklerini ve PEP (siyasi nüfuz sahibi kişi)'lere uygulanacak tedbirleri düzenler."
         },
         {
-          "q": "PEP'lerin aile üyeleri EDD kapsamında mıdır?",
+          "q": "PEP (siyasi nüfuz sahibi kişi)'lerin aile üyeleri EDD (güçlendirilmiş durum tespiti) kapsamında mıdır?",
           "o": [
-            "A) Hayır, yalnızca PEP'in kendisi EDD'ye tabidir",
-            "B) Evet, eş, çocuk ve ebeveyn gibi aile üyeleri de EDD'ye tabidir",
-            "C) Yalnızca eşleri EDD'ye tabidir",
-            "D) Yalnızca reşit olmayan çocukları EDD'ye tabidir"
+            "A) Hayır, yalnızca PEP (siyasi nüfuz sahibi kişi)'in kendisi EDD (güçlendirilmiş durum tespiti)'ye tabidir",
+            "B) Evet, eş, çocuk ve ebeveyn gibi aile üyeleri de EDD (güçlendirilmiş durum tespiti)'ye tabidir",
+            "C) Yalnızca eşleri EDD (güçlendirilmiş durum tespiti)'ye tabidir",
+            "D) Yalnızca reşit olmayan çocukları EDD (güçlendirilmiş durum tespiti)'ye tabidir"
           ],
           "a": 1,
-          "e": "PEP'lerin aile üyeleri (eş, çocuk, ebeveyn) doğrudan PEP olmasa da PEP'e yakınlıkları nedeniyle EDD kapsamındadır."
+          "e": "PEP (siyasi nüfuz sahibi kişi)'lerin aile üyeleri (eş, çocuk, ebeveyn) doğrudan PEP (siyasi nüfuz sahibi kişi) olmasa da PEP (siyasi nüfuz sahibi kişi)'e yakınlıkları nedeniyle EDD (güçlendirilmiş durum tespiti) kapsamındadır."
         },
         {
-          "q": "EDD kapsamında fon kaynağının belgelenmesinin amacı nedir?",
+          "q": "EDD (güçlendirilmiş durum tespiti) kapsamında fon kaynağının belgelenmesinin amacı nedir?",
           "o": [
             "A) Müşterinin vergi durumunu kontrol etmek",
             "B) Fonların meşru bir kaynaktan geldiğini doğrulamak",
@@ -33641,7 +33641,7 @@ window.__C = {
           "e": "Fon kaynağının belgelenmesi, transfer edilen fonların meşru bir kaynaktan geldiğini doğrulamak amacıyla yapılır."
         },
         {
-          "q": "PEP statüsünün sona ermesi yükümlülükleri hemen kaldırır mı?",
+          "q": "PEP (siyasi nüfuz sahibi kişi) statüsünün sona ermesi yükümlülükleri hemen kaldırır mı?",
           "o": [
             "A) Evet, statü sona erince yükümlülükler derhal kalkar",
             "B) Hayır, risk bazlı bir süre boyunca yükümlülükler devam eder",
@@ -33649,32 +33649,32 @@ window.__C = {
             "D) Yükümlülükler hiçbir zaman kalkmaz"
           ],
           "a": 1,
-          "e": "PEP statüsünün sona ermesi yükümlülükleri hemen kaldırmaz; risk bazlı değerlendirme sonucunda belirlenen bir süre boyunca izleme devam eder."
+          "e": "PEP (siyasi nüfuz sahibi kişi) statüsünün sona ermesi yükümlülükleri hemen kaldırmaz; risk bazlı değerlendirme sonucunda belirlenen bir süre boyunca izleme devam eder."
         },
         {
           "q": "Yakın iş ortağı kavramı kimleri kapsar?",
           "o": [
-            "A) Yalnızca PEP'in iş arkadaşlarını",
-            "B) PEP ile ortak iş kurulan veya çıkar ilişkisi bulunan kişileri",
-            "C) Yalnızca PEP'in çalışanlarını",
-            "D) Yalnızca PEP'in müşterilerini"
+            "A) Yalnızca PEP (siyasi nüfuz sahibi kişi)'in iş arkadaşlarını",
+            "B) PEP (siyasi nüfuz sahibi kişi) ile ortak iş kurulan veya çıkar ilişkisi bulunan kişileri",
+            "C) Yalnızca PEP (siyasi nüfuz sahibi kişi)'in çalışanlarını",
+            "D) Yalnızca PEP (siyasi nüfuz sahibi kişi)'in müşterilerini"
           ],
           "a": 1,
-          "e": "Yakın iş ortağı, PEP ile ortak iş kurulan veya çıkar ilişkisi bulunan kişileri kapsar."
+          "e": "Yakın iş ortağı, PEP (siyasi nüfuz sahibi kişi) ile ortak iş kurulan veya çıkar ilişkisi bulunan kişileri kapsar."
         },
         {
-          "q": "Aşağıdakilerden hangisi EDD gerektiren bir durum değildir?",
+          "q": "Aşağıdakilerden hangisi EDD (güçlendirilmiş durum tespiti) gerektiren bir durum değildir?",
           "o": [
             "A) Yüksek riskli ülkelerle işlemler",
-            "B) PEP müşteri",
+            "B) PEP (siyasi nüfuz sahibi kişi) müşteri",
             "C) Düşük limitli tasarruf hesabı açılışı",
             "D) Karmaşık ve açıklanamayan yüksek tutarlı işlemler"
           ],
           "a": 2,
-          "e": "Düşük limitli tasarruf hesabı açılışı düşük riskli kabul edilebilir; EDD değil SDD uygulanabilir."
+          "e": "Düşük limitli tasarruf hesabı açılışı düşük riskli kabul edilebilir; EDD (güçlendirilmiş durum tespiti) değil SDD (basitleştirilmiş durum tespiti) uygulanabilir."
         },
         {
-          "q": "EDD'de servetin kaynağı neden belgelenir?",
+          "q": "EDD (güçlendirilmiş durum tespiti)'de servetin kaynağı neden belgelenir?",
           "o": [
             "A) Müşteriye özel kampanya sunmak için",
             "B) Müşterinin sahip olduğu varlıkların meşruiyetini doğrulamak için",
@@ -33685,29 +33685,29 @@ window.__C = {
           "e": "Servetin kaynağının belgelenmesi, müşterinin sahip olduğu varlıkların meşru yollarla edinildiğini doğrulamak amacıyla yapılır."
         },
         {
-          "q": "Yurt içi PEP'ler EDD kapsamına girer mi?",
+          "q": "Yurt içi PEP (siyasi nüfuz sahibi kişi)'ler EDD (güçlendirilmiş durum tespiti) kapsamına girer mi?",
           "o": [
-            "A) Hayır, yalnızca yabancı PEP'ler EDD'ye tabidir",
-            "B) Evet, yurt içi ve yabancı PEP'lerin her ikisi de EDD kapsamındadır",
+            "A) Hayır, yalnızca yabancı PEP (siyasi nüfuz sahibi kişi)'ler EDD (güçlendirilmiş durum tespiti)'ye tabidir",
+            "B) Evet, yurt içi ve yabancı PEP (siyasi nüfuz sahibi kişi)'lerin her ikisi de EDD (güçlendirilmiş durum tespiti) kapsamındadır",
             "C) Yalnızca siyasi parti üyeleri",
             "D) Yalnızca emekli kamu görevlileri"
           ],
           "a": 1,
-          "e": "Hem yurt içi hem de yabancı PEP'ler ile uluslararası kuruluş yöneticileri EDD kapsamındadır."
+          "e": "Hem yurt içi hem de yabancı PEP (siyasi nüfuz sahibi kişi)'ler ile uluslararası kuruluş yöneticileri EDD (güçlendirilmiş durum tespiti) kapsamındadır."
         },
         {
           "q": "Offshore yapılarla ilişkili işlemlerde hangi tedbir uygulanır?",
           "o": [
             "A) Basitleştirilmiş tedbir",
-            "B) Artırılmış tedbir (EDD)",
-            "C) Standart KYC",
+            "B) Artırılmış tedbir (EDD (güçlendirilmiş durum tespiti))",
+            "C) Standart KYC (müşteri tanıma)",
             "D) Hiçbir ek tedbir gerekmez"
           ],
           "a": 1,
-          "e": "Tröst, offshore yapı ve anonim şirketlerle ilişkili işlemler artırılmış müşteri kimlik tespiti (EDD) gerektirir."
+          "e": "Tröst, offshore yapı ve anonim şirketlerle ilişkili işlemler artırılmış müşteri kimlik tespiti (EDD (güçlendirilmiş durum tespiti)) gerektirir."
         },
         {
-          "q": "EDD'de izleme sıklığı nasıl değişir?",
+          "q": "EDD (güçlendirilmiş durum tespiti)'de izleme sıklığı nasıl değişir?",
           "o": [
             "A) İzleme sıklığı azalır",
             "B) İzleme sıklığı artar",
@@ -33715,21 +33715,21 @@ window.__C = {
             "D) İzleme tamamen kaldırılır"
           ],
           "a": 1,
-          "e": "EDD kapsamındaki müşterilerde izleme sıklığı ve derinliği artırılır."
+          "e": "EDD (güçlendirilmiş durum tespiti) kapsamındaki müşterilerde izleme sıklığı ve derinliği artırılır."
         },
         {
-          "q": "Yeni teknolojiler ve anonim işlem kanalları EDD açısından nasıl değerlendirilir?",
+          "q": "Yeni teknolojiler ve anonim işlem kanalları EDD (güçlendirilmiş durum tespiti) açısından nasıl değerlendirilir?",
           "o": [
             "A) Düşük riskli kabul edilir",
-            "B) EDD tetikleyicisi olabilir",
-            "C) SDD uygulanabilir",
+            "B) EDD (güçlendirilmiş durum tespiti) tetikleyicisi olabilir",
+            "C) SDD (basitleştirilmiş durum tespiti) uygulanabilir",
             "D) Hiçbir risk taşımaz"
           ],
           "a": 1,
-          "e": "Yeni teknolojiler ve anonim işlem kanallarının kullanımı EDD gerektirebilecek risk faktörleri arasında sayılır."
+          "e": "Yeni teknolojiler ve anonim işlem kanallarının kullanımı EDD (güçlendirilmiş durum tespiti) gerektirebilecek risk faktörleri arasında sayılır."
         },
         {
-          "q": "EDD kapsamındaki PEP'lerin risk profili ne sıklıkla güncellenir?",
+          "q": "EDD (güçlendirilmiş durum tespiti) kapsamındaki PEP (siyasi nüfuz sahibi kişi)'lerin risk profili ne sıklıkla güncellenir?",
           "o": [
             "A) Hiçbir zaman güncellenmez",
             "B) Periyodik olarak güncellenir",
@@ -33737,10 +33737,10 @@ window.__C = {
             "D) Yalnızca müşteri talep ettiğinde"
           ],
           "a": 1,
-          "e": "PEP müşterilerin risk profili ve PEP statüsü iş ilişkisi süresince periyodik olarak güncellenir."
+          "e": "PEP (siyasi nüfuz sahibi kişi) müşterilerin risk profili ve PEP (siyasi nüfuz sahibi kişi) statüsü iş ilişkisi süresince periyodik olarak güncellenir."
         },
         {
-          "q": "Milletvekili PEP kapsamında mıdır?",
+          "q": "Milletvekili PEP (siyasi nüfuz sahibi kişi) kapsamında mıdır?",
           "o": [
             "A) Hayır",
             "B) Evet",
@@ -33748,32 +33748,32 @@ window.__C = {
             "D) Yalnızca parti başkanları"
           ],
           "a": 1,
-          "e": "Milletvekilleri siyasi nüfuza sahip kişiler olarak PEP kapsamında değerlendirilir."
+          "e": "Milletvekilleri siyasi nüfuza sahip kişiler olarak PEP (siyasi nüfuz sahibi kişi) kapsamında değerlendirilir."
         },
         {
-          "q": "EDD gerektiren karmaşık işlemlerde yükümlünün temel yükümlülüğü nedir?",
+          "q": "EDD (güçlendirilmiş durum tespiti) gerektiren karmaşık işlemlerde yükümlünün temel yükümlülüğü nedir?",
           "o": [
             "A) İşlemi otomatik reddetmek",
-            "B) İşlemin arka planını araştırıp belgelemek ve gerekirse ŞİB yapmak",
-            "C) MASAK'tan izin almak",
+            "B) İşlemin arka planını araştırıp belgelemek ve gerekirse ŞİB (şüpheli işlem bildirimi) yapmak",
+            "C) MASAK (mali suçları araştırma kurulu)'tan izin almak",
             "D) Müşteriyi bilgilendirmek"
           ],
           "a": 1,
-          "e": "Karmaşık ve açıklanamayan işlemlerde yükümlü arka planı araştırıp belgelemek ve gerekirse ŞİB yapmak zorundadır."
+          "e": "Karmaşık ve açıklanamayan işlemlerde yükümlü arka planı araştırıp belgelemek ve gerekirse ŞİB (şüpheli işlem bildirimi) yapmak zorundadır."
         },
         {
-          "q": "EDD kapsamında üst yönetim onayının amacı nedir?",
+          "q": "EDD (güçlendirilmiş durum tespiti) kapsamında üst yönetim onayının amacı nedir?",
           "o": [
             "A) Yüksek riskli ilişkilerin yönetim düzeyinde onaylanarak hesap verebilirliğin sağlanması",
             "B) Yalnızca iç denetim kaydı oluşturmak",
             "C) Müşteriye özel kredi koşulları belirlemek",
-            "D) MASAK ile iletişim kurmak"
+            "D) MASAK (mali suçları araştırma kurulu) ile iletişim kurmak"
           ],
           "a": 0,
           "e": "Üst yönetim onayı, yüksek riskli ilişkilerin yönetim düzeyinde onaylanmasını ve hesap verebilirliği sağlamak amacıyla zorunludur."
         },
         {
-          "q": "Uluslararası kuruluş yöneticileri PEP kapsamında mıdır?",
+          "q": "Uluslararası kuruluş yöneticileri PEP (siyasi nüfuz sahibi kişi) kapsamında mıdır?",
           "o": [
             "A) Hayır",
             "B) Evet",
@@ -33781,7 +33781,7 @@ window.__C = {
             "D) Yalnızca IMF yöneticileri"
           ],
           "a": 1,
-          "e": "Uluslararası kuruluş yöneticileri de PEP kapsamında değerlendirilir."
+          "e": "Uluslararası kuruluş yöneticileri de PEP (siyasi nüfuz sahibi kişi) kapsamında değerlendirilir."
         }
       ]
     }
@@ -33791,27 +33791,27 @@ window.__C = {
       {
         "num": "01",
         "title": "UKT Nedir? Genel Esaslar",
-        "body": "<ul><li>UKT (Uluslararası Yaptırımlar ve Kara Para ile Terörün Finansmanının Önlenmesi), Türkiye'nin uluslararası yaptırım rejimine uyum sürecini düzenler.</li><li>BM Güvenlik Konseyi kararları, AB yaptırımları ve OFAC listeleri temel kaynaklar arasındadır.</li><li>Türkiye'de yaptırım listeleri MASAK ve Hazine & Maliye Bakanlığı kanalıyla yayımlanır.</li><li>Yükümlüler, yaptırım listelerini düzenli taramalı ve listedeki kişi/kuruluşlarla işlem yapmamalıdır.</li></ul>"
+        "body": "<ul><li>UKT (Uluslararası Yaptırımlar ve Kara Para ile Terörün Finansmanının Önlenmesi), Türkiye'nin uluslararası yaptırım rejimine uyum sürecini düzenler.</li><li>BM Güvenlik Konseyi kararları, AB yaptırımları ve OFAC (ABD yabancı varlıklar kontrol ofisi) listeleri temel kaynaklar arasındadır.</li><li>Türkiye'de yaptırım listeleri MASAK (mali suçları araştırma kurulu) ve Hazine & Maliye Bakanlığı kanalıyla yayımlanır.</li><li>Yükümlüler, yaptırım listelerini düzenli taramalı ve listedeki kişi/kuruluşlarla işlem yapmamalıdır.</li></ul>"
       },
       {
         "num": "02",
         "title": "Yaptırım Listeleri ve Tarama Yükümlülüğü",
-        "body": "<ul><li>BM, AB, OFAC ve Türkiye'nin ulusal listeleri düzenli güncellenen başlıca kaynaklardır.</li><li>Müşteri kabul, işlem onayı ve periyodik taramalarda liste kontrolü zorunludur.</li><li>Liste taraması otomatik yazılım sistemleriyle yapılabilir; manuel tarama da kabul edilir.</li><li>Listelerde isim benzerliği (false positive) sonuçları titizlikle incelenmelidir.</li></ul>"
+        "body": "<ul><li>BM, AB, OFAC (ABD yabancı varlıklar kontrol ofisi) ve Türkiye'nin ulusal listeleri düzenli güncellenen başlıca kaynaklardır.</li><li>Müşteri kabul, işlem onayı ve periyodik taramalarda liste kontrolü zorunludur.</li><li>Liste taraması otomatik yazılım sistemleriyle yapılabilir; manuel tarama da kabul edilir.</li><li>Listelerde isim benzerliği (false positive) sonuçları titizlikle incelenmelidir.</li></ul>"
       },
       {
         "num": "03",
         "title": "Dondurma Yükümlülüğü",
-        "body": "<ul><li>Yaptırım listesindeki kişi veya kuruluşa ait varlıklar derhal dondurulmalıdır.</li><li>Dondurma kararı önceden izin gerektirmez; otomatik uygulama esastır.</li><li>Dondurma işlemi MASAK'a ve ilgili makamlara derhal bildirilmelidir.</li><li>Dondurma ile işlem reddi farklı kavramlardır; dondurma varlıkların saklanması anlamına gelir.</li></ul>"
+        "body": "<ul><li>Yaptırım listesindeki kişi veya kuruluşa ait varlıklar derhal dondurulmalıdır.</li><li>Dondurma kararı önceden izin gerektirmez; otomatik uygulama esastır.</li><li>Dondurma işlemi MASAK (mali suçları araştırma kurulu)'a ve ilgili makamlara derhal bildirilmelidir.</li><li>Dondurma ile işlem reddi farklı kavramlardır; dondurma varlıkların saklanması anlamına gelir.</li></ul>"
       },
       {
         "num": "04",
         "title": "Terörün Finansmanının Önlenmesinde UKT",
-        "body": "<ul><li>Terörün finansmanı suçunu düzenleyen 7262 sayılı Kanun UKT yükümlülüklerini içerir.</li><li>Terör örgütü üyelerine veya yararına işlem yapmak suçtur.</li><li>Şüpheli terör finansmanı işlemleri derhal ŞİB ve ilgili makamlara bildirilmelidir.</li><li>Terör finansmanı riski yüksek kişi/kuruluşlarla EDD uygulanır.</li></ul>"
+        "body": "<ul><li>Terörün finansmanı suçunu düzenleyen 7262 sayılı Kanun UKT yükümlülüklerini içerir.</li><li>Terör örgütü üyelerine veya yararına işlem yapmak suçtur.</li><li>Şüpheli terör finansmanı işlemleri derhal ŞİB (şüpheli işlem bildirimi) ve ilgili makamlara bildirilmelidir.</li><li>Terör finansmanı riski yüksek kişi/kuruluşlarla EDD (artırılmış durum tespiti — enhanced due diligence) uygulanır.</li></ul>"
       },
       {
         "num": "05",
         "title": "UKT Kapsamında Sıkılaştırılmış Tedbirler",
-        "body": "<ul><li>Yaptırım listelerine yakın risk kategorilerinde EDD uygulanır.</li><li>Yüksek riskli ülke vatandaşları ve bu ülkelerle bağlantılı işlemler artırılmış tedbire tabidir.</li><li>Yükümlüler, UKT politikası oluşturmalı, çalışanları eğitmeli ve yaptırım ihlali raporlaması yapmalıdır.</li><li>İhlal durumunda ağır idari ve cezai yaptırımlar uygulanır; uluslararası itibar riski söz konusudur.</li></ul>"
+        "body": "<ul><li>Yaptırım listelerine yakın risk kategorilerinde EDD (artırılmış durum tespiti — enhanced due diligence) uygulanır.</li><li>Yüksek riskli ülke vatandaşları ve bu ülkelerle bağlantılı işlemler artırılmış tedbire tabidir.</li><li>Yükümlüler, UKT politikası oluşturmalı, çalışanları eğitmeli ve yaptırım ihlali raporlaması yapmalıdır.</li><li>İhlal durumunda ağır idari ve cezai yaptırımlar uygulanır; uluslararası itibar riski söz konusudur.</li></ul>"
       }
     ],
     "tests": {
@@ -33830,13 +33830,13 @@ window.__C = {
         {
           "q": "Türkiye'de yaptırım listelerini yayımlayan kurumlar hangileridir?",
           "o": [
-            "A) SPK ve BDDK",
-            "B) MASAK ve Hazine & Maliye Bakanlığı",
+            "A) SPK (sermaye piyasası kurulu) ve BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "B) MASAK (mali suçları araştırma kurulu) ve Hazine & Maliye Bakanlığı",
             "C) Merkez Bankası ve Maliye Bakanlığı",
-            "D) Yalnızca MASAK"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu)"
           ],
           "a": 1,
-          "e": "Türkiye'de yaptırım listeleri MASAK ve Hazine & Maliye Bakanlığı kanalıyla yayımlanır."
+          "e": "Türkiye'de yaptırım listeleri MASAK (mali suçları araştırma kurulu) ve Hazine & Maliye Bakanlığı kanalıyla yayımlanır."
         },
         {
           "q": "Yaptırım listesindeki bir kişi veya kuruluşa ait varlıklar tespit edildiğinde ne yapılmalıdır?",
@@ -33844,15 +33844,15 @@ window.__C = {
             "A) Müşteriye bilgi verilir",
             "B) Varlıklar derhal dondurulur ve ilgili makamlara bildirilir",
             "C) İşlem standart prosedürle tamamlanır",
-            "D) Yalnızca MASAK'a rapor gönderilir"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu)'a rapor gönderilir"
           ],
           "a": 1,
-          "e": "Listede yer alan kişi/kuruluşa ait varlıklar derhal dondurulmalı ve MASAK ile ilgili makamlara bildirilmelidir."
+          "e": "Listede yer alan kişi/kuruluşa ait varlıklar derhal dondurulmalı ve MASAK (mali suçları araştırma kurulu) ile ilgili makamlara bildirilmelidir."
         },
         {
           "q": "Dondurma işlemi öncesinde resmi izin gerekli midir?",
           "o": [
-            "A) Evet, MASAK onayı beklenir",
+            "A) Evet, MASAK (mali suçları araştırma kurulu) onayı beklenir",
             "B) Hayır, dondurma otomatik uygulanır",
             "C) Yalnızca yabancı uyruklu kişiler için izin gerekir",
             "D) Yalnızca mahkeme kararıyla uygulanabilir"
@@ -33876,7 +33876,7 @@ window.__C = {
           "o": [
             "A) IMF, Dünya Bankası, BIS",
             "B) BM Güvenlik Konseyi, AB ve OFAC listeleri",
-            "C) FATF, Egmont Grubu, Basel Komitesi",
+            "C) FATF (finansal eylem görev gücü), Egmont Grubu, Basel Komitesi",
             "D) OECD, WTO, G20"
           ],
           "a": 1,
@@ -33907,13 +33907,13 @@ window.__C = {
         {
           "q": "Yaptırım listelerine yakın risk kategorilerinde hangi tedbir uygulanır?",
           "o": [
-            "A) Basitleştirilmiş tedbir (SDD)",
-            "B) Artırılmış müşteri kimlik tespiti (EDD)",
-            "C) Standart KYC",
+            "A) Basitleştirilmiş tedbir (SDD (basitleştirilmiş durum tespiti))",
+            "B) Artırılmış müşteri kimlik tespiti (EDD (güçlendirilmiş durum tespiti))",
+            "C) Standart KYC (müşteri tanıma)",
             "D) Hiçbir ek tedbir gerekmez"
           ],
           "a": 1,
-          "e": "Yaptırım listelerine yakın risk kategorilerinde artırılmış müşteri kimlik tespiti (EDD) uygulanır."
+          "e": "Yaptırım listelerine yakın risk kategorilerinde artırılmış müşteri kimlik tespiti (EDD (güçlendirilmiş durum tespiti)) uygulanır."
         },
         {
           "q": "Terör örgütü üyesine işlem yapmak Türkiye'de nasıl değerlendirilir?",
@@ -33943,7 +33943,7 @@ window.__C = {
             "A) Yalnızca iç denetim amaçlıdır",
             "B) Kurumun yaptırım uyumunu sistematik ve belgelenmiş şekilde güvence altına almak",
             "C) Yalnızca müşteri bilgilendirmesi için",
-            "D) Yalnızca MASAK talepleri için"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu) talepleri için"
           ],
           "a": 1,
           "e": "UKT politikası, kurumun yaptırım uyumunu sistematik ve belgelenmiş biçimde güvence altına almak amacıyla oluşturulur."
@@ -33965,7 +33965,7 @@ window.__C = {
             "A) İşlem otomatik reddedilir",
             "B) Artırılmış tedbir uygulanır",
             "C) Basitleştirilmiş tedbir uygulanır",
-            "D) Standart KYC yeterlidir"
+            "D) Standart KYC (müşteri tanıma) yeterlidir"
           ],
           "a": 1,
           "e": "Yüksek riskli ülke vatandaşları ve bu ülkelerle bağlantılı işlemler artırılmış tedbire tabidir."
@@ -33979,7 +33979,7 @@ window.__C = {
             "D) Yalnızca müşteri itiraz ederse bildirim yapılır"
           ],
           "a": 1,
-          "e": "Dondurma işlemi gerçekleştikten sonra MASAK ve ilgili makamlara derhal bildirim yapılması zorunludur."
+          "e": "Dondurma işlemi gerçekleştikten sonra MASAK (mali suçları araştırma kurulu) ve ilgili makamlara derhal bildirim yapılması zorunludur."
         },
         {
           "q": "Yaptırım ihlalinin uluslararası boyutu neden önemlidir?",
@@ -33996,12 +33996,12 @@ window.__C = {
           "q": "Şüpheli terör finansmanı işleminde yükümlünün yükümlülüğü nedir?",
           "o": [
             "A) İşlemi tamamlayıp sonra bildirmek",
-            "B) Derhal ŞİB yapmak ve ilgili makamlara bildirmek",
+            "B) Derhal ŞİB (şüpheli işlem bildirimi) yapmak ve ilgili makamlara bildirmek",
             "C) Yalnızca müşteriyi bilgilendirmek",
             "D) İşlemi 30 gün bekletmek"
           ],
           "a": 1,
-          "e": "Şüpheli terör finansmanı işleminde yükümlü derhal ŞİB yapmalı ve ilgili makamlara bildirmelidir."
+          "e": "Şüpheli terör finansmanı işleminde yükümlü derhal ŞİB (şüpheli işlem bildirimi) yapmalı ve ilgili makamlara bildirmelidir."
         },
         {
           "q": "Periyodik liste taramasının amacı nedir?",
@@ -34031,7 +34031,7 @@ window.__C = {
             "A) BM üyeliği gönüllü uyum sağlamayı gerektirir",
             "B) Türkiye BM üyesi olarak Güvenlik Konseyi kararlarını iç hukuka yansıtmak ve uygulamakla yükümlüdür",
             "C) Yalnızca AB üyeliği kapsamında zorunludur",
-            "D) FATF baskısıyla zorunlu hale gelmiştir"
+            "D) FATF (finansal eylem görev gücü) baskısıyla zorunlu hale gelmiştir"
           ],
           "a": 1,
           "e": "Türkiye BM üyesi olarak Güvenlik Konseyi yaptırım kararlarını iç hukuka yansıtmak ve uygulamakla yükümlüdür."
@@ -34059,10 +34059,10 @@ window.__C = {
             "A) Piyasa riski ve kur riski",
             "B) Faiz oranı riski",
             "C) Likidite riski",
-            "D) SGA, TF ve KİSYF riskleri"
+            "D) SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) riskleri"
           ],
           "a": 3,
-          "e": "Uyum birimi öncelikli olarak SGA, TF ve KİSYF riskleriyle ilgilenir."
+          "e": "Uyum birimi öncelikli olarak SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) riskleriyle ilgilenir."
         },
         {
           "q": "Aşağıdakilerden hangisi uyum biriminin birincil çıktısı değildir?",
@@ -34073,7 +34073,7 @@ window.__C = {
             "D) Risk değerlendirme raporları"
           ],
           "a": 1,
-          "e": "Yıllık kâr-zarar raporu muhasebe çıktısıdır; uyum biriminin çıktıları ŞİB, uyum raporları ve risk değerlendirmeleridir."
+          "e": "Yıllık kâr-zarar raporu muhasebe çıktısıdır; uyum biriminin çıktıları ŞİB (şüpheli işlem bildirimi), uyum raporları ve risk değerlendirmeleridir."
         },
         {
           "q": "Uyum biriminin SGA/TF dışında ayrıca uyum sağlaması gereken alan nedir?",
@@ -34084,7 +34084,7 @@ window.__C = {
             "D) Tüketici haklarının korunması"
           ],
           "a": 2,
-          "e": "Uyum birimi SGA ve TF'nin yanı sıra KİSYF alanında da uyum yükümlülüklerini yerine getirmekten sorumludur."
+          "e": "Uyum birimi SGA ve TF'nin yanı sıra KİSYF (kitle imha silahlarının yayılmasının finansmanı) alanında da uyum yükümlülüklerini yerine getirmekten sorumludur."
         },
         {
           "q": "Uyum görevlisi kurumda hangi statüde yer alır?",
@@ -34109,15 +34109,15 @@ window.__C = {
           "e": "Uyum görevlisi, gelir getirici ticari görevler üstlenemez; aksi hâlde bağımsızlık ilkesi ihlal edilir."
         },
         {
-          "q": "Uyum görevlisi ŞİB sürecinde hangi rolü üstlenir?",
+          "q": "Uyum görevlisi ŞİB (şüpheli işlem bildirimi) sürecinde hangi rolü üstlenir?",
           "o": [
-            "A) ŞİB bildirimini müşteriye iletir",
-            "B) ŞİB'lerin değerlendirilmesi, hazırlanması ve MASAK'a iletilmesini koordine eder",
-            "C) ŞİB için mahkeme kararı alır",
-            "D) ŞİB konusu işlemi derhal iptal eder"
+            "A) ŞİB (şüpheli işlem bildirimi) bildirimini müşteriye iletir",
+            "B) ŞİB (şüpheli işlem bildirimi)'lerin değerlendirilmesi, hazırlanması ve MASAK (mali suçları araştırma kurulu)'a iletilmesini koordine eder",
+            "C) ŞİB (şüpheli işlem bildirimi) için mahkeme kararı alır",
+            "D) ŞİB (şüpheli işlem bildirimi) konusu işlemi derhal iptal eder"
           ],
           "a": 1,
-          "e": "Uyum görevlisi ŞİB'lerin doğru değerlendirilmesini, hazırlanmasını ve MASAK'a zamanında iletilmesini koordine eder."
+          "e": "Uyum görevlisi ŞİB (şüpheli işlem bildirimi)'lerin doğru değerlendirilmesini, hazırlanmasını ve MASAK (mali suçları araştırma kurulu)'a zamanında iletilmesini koordine eder."
         },
         {
           "q": "Uyum görevlisinin uyum programına katkısı nasıl tanımlanır?",
@@ -34133,8 +34133,8 @@ window.__C = {
         {
           "q": "Uyum görevlisi lisanslama sınavını Türkiye'de hangi kurum düzenlemektedir?",
           "o": [
-            "A) MASAK",
-            "B) BDDK",
+            "A) MASAK (mali suçları araştırma kurulu)",
+            "B) BDDK (bankacılık düzenleme ve denetleme kurumu)",
             "C) SPK (Sermaye Piyasası Kurulu)",
             "D) Hazine ve Maliye Bakanlığı"
           ],
@@ -34142,7 +34142,7 @@ window.__C = {
           "e": "Uyum Görevlisi Yetkilendirme Sınavı, SPK (Sermaye Piyasası Kurulu) bünyesinde düzenlenmektedir."
         },
         {
-          "q": "SPK lisanslı sermaye piyasası kuruluşlarında uyum görevlisinin lisans sahibi olma zorunluluğu neden önemlidir?",
+          "q": "SPK (sermaye piyasası kurulu) lisanslı sermaye piyasası kuruluşlarında uyum görevlisinin lisans sahibi olma zorunluluğu neden önemlidir?",
           "o": [
             "A) Kârlılığı artırmak için",
             "B) Uyum görevlisinin yeterliliğini ve profesyonelliğini güvence altına almak için",
@@ -34232,7 +34232,7 @@ window.__C = {
         {
           "q": "Aşağıdakilerden hangisi 'önleyici kontrol' kapsamına girer?",
           "o": [
-            "A) ŞİB yapılması",
+            "A) ŞİB (şüpheli işlem bildirimi) yapılması",
             "B) İşlem durdurma",
             "C) Müşteri kabulünde risk değerlendirmesi yapılması",
             "D) Müşteri ilişkisini sonlandırma"
@@ -34278,7 +34278,7 @@ window.__C = {
         {
           "q": "Çıkar çatışması yasağı kapsamında uyum birimi aşağıdakilerden hangisini yapmamalıdır?",
           "o": [
-            "A) ŞİB koordinasyonu",
+            "A) ŞİB (şüpheli işlem bildirimi) koordinasyonu",
             "B) Personel eğitimi organize etmek",
             "C) Ticari pazarlama ve satış hedefleri olan roller üstlenmek",
             "D) Risk değerlendirmesi yapmak"
@@ -34311,8 +34311,8 @@ window.__C = {
         {
           "q": "Uyum görevlisinin atanmasında karar yetkisi kime aittir?",
           "o": [
-            "A) MASAK",
-            "B) SPK",
+            "A) MASAK (mali suçları araştırma kurulu)",
+            "B) SPK (sermaye piyasası kurulu)",
             "C) Yükümlünün yönetim kurulu veya genel müdürü",
             "D) Emniyet teşkilatı"
           ],
@@ -34322,7 +34322,7 @@ window.__C = {
         {
           "q": "Uyum görevlisinin geçici yokluğunda ne yapılmalıdır?",
           "o": [
-            "A) MASAK geçici olarak görevi devralır",
+            "A) MASAK (mali suçları araştırma kurulu) geçici olarak görevi devralır",
             "B) Uyum faaliyetleri askıya alınır",
             "C) Görev için vekil atanır",
             "D) Yönetim kurulu üyelerinden biri görevi üstlenir"
@@ -34361,7 +34361,7 @@ window.__C = {
             "D) 4"
           ],
           "a": 1,
-          "e": "Sınav iki modülden oluşur: Modül 1 (SGA/TF/KİSYF mevzuatı) ve Modül 2 (uyum yönetimi, müşterinin tanınması, denetim)."
+          "e": "Sınav iki modülden oluşur: Modül 1 (SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) mevzuatı) ve Modül 2 (uyum yönetimi, müşterinin tanınması, denetim)."
         },
         {
           "q": "Lisanssız uyum görevlisi çalıştıran bir kuruluş hangi yaptırımla karşılaşabilir?",
@@ -34378,12 +34378,12 @@ window.__C = {
           "q": "Lisansın iptali hangi durumlarda söz konusu olabilir?",
           "o": [
             "A) Yalnızca emeklilik hâlinde",
-            "B) Lisans ihlali veya ağır mesleki kusur hâlinde SPK tarafından",
+            "B) Lisans ihlali veya ağır mesleki kusur hâlinde SPK (sermaye piyasası kurulu) tarafından",
             "C) Kurum değişikliğinde otomatik olarak",
             "D) Yalnızca mahkeme kararıyla"
           ],
           "a": 1,
-          "e": "SPK, lisans ihlali veya ağır mesleki kusur durumunda lisansı iptal edebilir."
+          "e": "SPK (sermaye piyasası kurulu), lisans ihlali veya ağır mesleki kusur durumunda lisansı iptal edebilir."
         },
         {
           "q": "Uyum görevlisi lisansı hangi sektörde öncelikli zorunluluk doğurmaktadır?",
@@ -34423,7 +34423,7 @@ window.__C = {
           "o": [
             "A) Yalnızca dışarıdan denetim geldiğinde",
             "B) Programın tüm bileşenlerinin etkin uygulanıp uygulanmadığını düzenli olarak bağımsız biçimde denetlemek üzere",
-            "C) Yalnızca ŞİB yapıldıktan sonra",
+            "C) Yalnızca ŞİB (şüpheli işlem bildirimi) yapıldıktan sonra",
             "D) Yalnızca yıl sonunda"
           ],
           "a": 1,
@@ -34471,7 +34471,7 @@ window.__C = {
             "D) Yalnızca yurt dışı işlemler değerlendirilir"
           ],
           "a": 1,
-          "e": "Yüksek riskli ülkeler (FATF gri listesi, yaptırıma tabi ülkeler) veya offshore merkezlerle bağlantılı işlemler daha yüksek risk düzeyinde değerlendirilir."
+          "e": "Yüksek riskli ülkeler (FATF (finansal eylem görev gücü) gri listesi, yaptırıma tabi ülkeler) veya offshore merkezlerle bağlantılı işlemler daha yüksek risk düzeyinde değerlendirilir."
         },
         {
           "q": "Risk bazlı yaklaşımda 'orantılılık ilkesi' ne anlama gelir?",
@@ -34512,7 +34512,7 @@ window.__C = {
           "q": "Finansal grup bünyesinde ana ortaklığın uyum konusundaki rolü nedir?",
           "o": [
             "A) Bağlı şirketlere uyum görevlisi atar",
-            "B) Bağlı şirketlerin tüm ŞİB'lerini doğrudan gönderir",
+            "B) Bağlı şirketlerin tüm ŞİB (şüpheli işlem bildirimi)'lerini doğrudan gönderir",
             "C) Grup genelinde uyum koordinasyonunu sağlar ve standartları belirler",
             "D) Bağlı şirketlerin uyum birimlerini kapatır"
           ],
@@ -34525,7 +34525,7 @@ window.__C = {
             "A) Yalnızca dış denetim talebi üzerine",
             "B) Yeni ürün/hizmet, değişen müşteri kategorisi veya mevzuat değişikliği gibi durumlarda düzenli olarak",
             "C) Yalnızca yıl sonunda",
-            "D) Yalnızca ŞİB yapıldıktan sonra"
+            "D) Yalnızca ŞİB (şüpheli işlem bildirimi) yapıldıktan sonra"
           ],
           "a": 1,
           "e": "Risk değerlendirmesi yeni ürün/hizmet, değişen müşteri profili veya mevzuat güncellemeleri durumunda ve düzenli aralıklarla yapılmalıdır."
@@ -34534,19 +34534,19 @@ window.__C = {
           "q": "Uyum görevlisi ataması ve değişikliği hangi makama bildirilmelidir?",
           "o": [
             "A) Adalet Bakanlığı",
-            "B) MASAK",
-            "C) SPK",
+            "B) MASAK (mali suçları araştırma kurulu)",
+            "C) SPK (sermaye piyasası kurulu)",
             "D) Hazine ve Maliye Bakanlığı vergi dairesi"
           ],
           "a": 1,
-          "e": "Uyum görevlisi atama ve değişikliklerinin MASAK'a bildirilmesi zorunludur; aksi hâlde idari yaptırım uygulanabilir."
+          "e": "Uyum görevlisi atama ve değişikliklerinin MASAK (mali suçları araştırma kurulu)'a bildirilmesi zorunludur; aksi hâlde idari yaptırım uygulanabilir."
         },
         {
           "q": "Uyum görevlisi mevzuat değişikliklerinde ne yapmalıdır?",
           "o": [
             "A) Değişiklikleri yalnızca iç denetim birimine bildirir",
             "B) Değişiklikleri takip eder ve kurumu etkileyecek güncellemeleri üst yönetime bildirir",
-            "C) Değişiklikler için MASAK'tan talimat bekler",
+            "C) Değişiklikler için MASAK (mali suçları araştırma kurulu)'tan talimat bekler",
             "D) Değişiklikler personele doğrudan duyurulmaz"
           ],
           "a": 1,
@@ -34558,7 +34558,7 @@ window.__C = {
             "A) Her gün rapor vermek zorundadır",
             "B) Kurum iç düzenlemelerine ve yetkili makam talimatlarına göre",
             "C) Yılda bir kez yeterlidir",
-            "D) MASAK haftalık rapor ister"
+            "D) MASAK (mali suçları araştırma kurulu) haftalık rapor ister"
           ],
           "a": 1,
           "e": "Raporlama sıklığı kurumun iç düzenlemelerine ve yetkili makamların taleplerine göre belirlenir."
@@ -34569,7 +34569,7 @@ window.__C = {
             "A) Durumu gizlemelidir",
             "B) Durumu derhal üst yönetime bildirmeli ve çatışmadan uzak durmalıdır",
             "C) Sadece iç denetim birimine bildirmelidir",
-            "D) Yalnızca MASAK'a bildirmelidir"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu)'a bildirmelidir"
           ],
           "a": 1,
           "e": "Çıkar çatışması durumunun derhal üst yönetime bildirilmesi ve görevin tarafsızlıkla sürdürülmesi esastır."
@@ -34579,11 +34579,11 @@ window.__C = {
           "o": [
             "A) Uyum programı yönetimi ve müşterinin tanınması",
             "B) Vergi hukuku ve muhasebe",
-            "C) SGA, TF ve KİSYF temel mevzuatı",
+            "C) SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) temel mevzuatı",
             "D) Sermaye piyasası araçları"
           ],
           "a": 2,
-          "e": "Modül 1; suç gelirlerinin aklanması (SGA), terörizmin finansmanı (TF) ve KİSYF temel mevzuatını kapsar."
+          "e": "Modül 1; suç gelirlerinin aklanması (SGA), terörizmin finansmanı (TF) ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) temel mevzuatını kapsar."
         },
         {
           "q": "Sınava girebilmek için asgari eğitim şartı nedir?",
@@ -34599,13 +34599,13 @@ window.__C = {
         {
           "q": "Farklı kuruluş türlerinde (sigorta, bankacılık vb.) lisanslama gereksinimleri nasıl farklılaşabilir?",
           "o": [
-            "A) Tüm kurumlar için aynı SPK sınavı yeterlidir",
+            "A) Tüm kurumlar için aynı SPK (sermaye piyasası kurulu) sınavı yeterlidir",
             "B) İlgili sektörün düzenleyici otoritesi ek gereksinimler öngörebilir",
             "C) Yalnızca banka uyum görevlileri sınava tabi tutulur",
             "D) Sigorta şirketlerinde uyum görevlisi lisansı zorunlu değildir"
           ],
           "a": 1,
-          "e": "Sektörüne göre BDDK, Sigortacılık Genel Müdürlüğü gibi otoriteler SPK lisansına ek gereksinimler öngörebilir."
+          "e": "Sektörüne göre BDDK (bankacılık düzenleme ve denetleme kurumu), Sigortacılık Genel Müdürlüğü gibi otoriteler SPK (sermaye piyasası kurulu) lisansına ek gereksinimler öngörebilir."
         },
         {
           "q": "Sınav başarısı sonrası lisansın aktif hâle gelmesi için ne gereklidir?",
@@ -34633,7 +34633,7 @@ window.__C = {
           "q": "Ana ortaklığın finansal grup uyum programındaki rolü nedir?",
           "o": [
             "A) Bağlı kuruluşlara uyum görevlisi atar",
-            "B) Bağlı kuruluşların tüm ŞİB'lerini doğrudan gönderir",
+            "B) Bağlı kuruluşların tüm ŞİB (şüpheli işlem bildirimi)'lerini doğrudan gönderir",
             "C) Grup genelinde uyum standardlarını belirler ve koordinasyonu sağlar",
             "D) Bağlı kuruluşların uyum birimlerini yönetir"
           ],
@@ -34678,11 +34678,11 @@ window.__C = {
           "o": [
             "A) Risk değerlendirmesi yapılması",
             "B) İşlem izleme uyarısı oluşturulması",
-            "C) ŞİB, işlem durdurma veya müşteri ilişkisini sonlandırma gibi sonradan alınan önlemler",
+            "C) ŞİB (şüpheli işlem bildirimi), işlem durdurma veya müşteri ilişkisini sonlandırma gibi sonradan alınan önlemler",
             "D) Müşteri kabul politikasının güncellenmesi"
           ],
           "a": 2,
-          "e": "Düzeltici kontroller; şüpheli durum tespit edildikten sonra uygulanan önlemlerdir: ŞİB, işlem durdurma, ilişkiyi sonlandırma."
+          "e": "Düzeltici kontroller; şüpheli durum tespit edildikten sonra uygulanan önlemlerdir: ŞİB (şüpheli işlem bildirimi), işlem durdurma, ilişkiyi sonlandırma."
         },
         {
           "q": "Risk değerlendirmesinin yazılı olması neden önemlidir?",
@@ -34725,7 +34725,7 @@ window.__C = {
             "A) Büyük bankalarla aynı yapıyı oluşturmak zorundadır",
             "B) Risk bazlı yaklaşım çerçevesinde ölçeğe uygun orantılı yapı kurabilir",
             "C) Hiçbir yükümlülükleri yoktur",
-            "D) Yalnızca MASAK'a kayıt yaptırmak yeterlidir"
+            "D) Yalnızca MASAK (mali suçları araştırma kurulu)'a kayıt yaptırmak yeterlidir"
           ],
           "a": 1,
           "e": "Risk bazlı yaklaşım gereği küçük yükümlüler ölçeğine uygun orantılı bir yapı kurabilir."
@@ -34734,7 +34734,7 @@ window.__C = {
           "q": "Uyum biriminin bağımsızlığını korumak için kaçınılması gereken görev hangisidir?",
           "o": [
             "A) Üst yönetime rapor sunmak",
-            "B) ŞİB koordinasyonu yapmak",
+            "B) ŞİB (şüpheli işlem bildirimi) koordinasyonu yapmak",
             "C) İş geliştirme ve satış hedefleri olan ticari roller üstlenmek",
             "D) Personel eğitimi vermek"
           ],
@@ -34747,7 +34747,7 @@ window.__C = {
             "A) İkisi aynı kavramdır",
             "B) Uyum programı yazılı politika bütünüdür; uyum birimi bu programı yürüten organizasyonel yapıdır",
             "C) Uyum birimi yalnızca büyük bankalarda zorunludur",
-            "D) Uyum programı yalnızca MASAK'a gönderilen belgelerdir"
+            "D) Uyum programı yalnızca MASAK (mali suçları araştırma kurulu)'a gönderilen belgelerdir"
           ],
           "a": 1,
           "e": "Uyum programı yazılı politika ve prosedürler bütünüdür; uyum birimi bu çerçeveyi hayata geçiren organizasyonel yapıdır."
@@ -34791,7 +34791,7 @@ window.__C = {
             "A) En az lisans mezuniyeti",
             "B) Finans, hukuk veya uyum/denetim alanında deneyim tercih edilmesi",
             "C) Aynı kurumda en az 20 yıl çalışmış olmak",
-            "D) SPK lisanslama sisteminde belirlenmiş yeterlilikleri sağlamak"
+            "D) SPK (sermaye piyasası kurulu) lisanslama sisteminde belirlenmiş yeterlilikleri sağlamak"
           ],
           "a": 2,
           "e": "20 yıl çalışmış olmak yasal bir şart değildir; mezuniyet düzeyi ve ilgili deneyim önem taşır."
@@ -34805,14 +34805,14 @@ window.__C = {
             "D) Bankacılık operasyonları"
           ],
           "a": 1,
-          "e": "Modül 2; uyum yönetimi, müşterinin tanınması (KYC), yükümlülük denetimi ve diğer uyum yükümlülüklerini kapsar."
+          "e": "Modül 2; uyum yönetimi, müşterinin tanınması (KYC (müşteri tanıma)), yükümlülük denetimi ve diğer uyum yükümlülüklerini kapsar."
         },
         {
           "q": "Lisans yenileme için ne yapılması gerekmektedir?",
           "o": [
             "A) Sınavı yeniden geçmek zorunludur",
             "B) Belirlenen süre içinde yenileme başvurusu yapılmalı ve sürekli eğitim koşulları karşılanmalıdır",
-            "C) Yalnızca MASAK'a başvuru yapılması yeterlidir",
+            "C) Yalnızca MASAK (mali suçları araştırma kurulu)'a başvuru yapılması yeterlidir",
             "D) Lisansın otomatik yenilenmesi için herhangi bir işlem gerekmez"
           ],
           "a": 1,
@@ -34893,14 +34893,14 @@ window.__C = {
             "D) Yalnızca beyan alınması yeterlidir"
           ],
           "a": 2,
-          "e": "RBA çerçevesinde düşük riskli müşterilere basitleştirilmiş tedbirler uygulanabilir; ancak temel KYC yükümlülükleri geçerliliğini korur."
+          "e": "RBA çerçevesinde düşük riskli müşterilere basitleştirilmiş tedbirler uygulanabilir; ancak temel KYC (müşteri tanıma) yükümlülükleri geçerliliğini korur."
         },
         {
           "q": "Risk raporlamasında uyum görevlisinin sorumluluğu nedir?",
           "o": [
             "A) Yalnızca dış denetçilere rapor sunmak",
             "B) Risk değerlendirme sonuçlarını ve önemli bulguları üst yönetime raporlamak",
-            "C) Sadece MASAK'a rapor göndermek",
+            "C) Sadece MASAK (mali suçları araştırma kurulu)'a rapor göndermek",
             "D) Müşterileri bilgilendirmek"
           ],
           "a": 1,
@@ -34911,7 +34911,7 @@ window.__C = {
           "o": [
             "A) Basitleştirilmiş tedbirler uygulanır",
             "B) Müşteri doğrudan reddedilir",
-            "C) Güçlendirilmiş müşteri durum tespiti (EDD) ve artırılmış izleme uygulanır",
+            "C) Güçlendirilmiş müşteri durum tespiti (EDD (güçlendirilmiş durum tespiti)) ve artırılmış izleme uygulanır",
             "D) Standart tedbirler yeterlidir"
           ],
           "a": 2,
@@ -34931,15 +34931,15 @@ window.__C = {
       ],
       "t5": [
         {
-          "q": "Uyum biriminin ŞİB sürecindeki temel rolü nedir?",
+          "q": "Uyum biriminin ŞİB (şüpheli işlem bildirimi) sürecindeki temel rolü nedir?",
           "o": [
             "A) Müşteriye bildirim yapmak",
-            "B) ŞİB'lerin MASAK'a eksiksiz ve zamanında iletilmesini koordine etmek",
-            "C) ŞİB kararını mahkemeye taşımak",
+            "B) ŞİB (şüpheli işlem bildirimi)'lerin MASAK (mali suçları araştırma kurulu)'a eksiksiz ve zamanında iletilmesini koordine etmek",
+            "C) ŞİB (şüpheli işlem bildirimi) kararını mahkemeye taşımak",
             "D) İşlemi otomatik olarak durdurmak"
           ],
           "a": 1,
-          "e": "Uyum birimi, ŞİB'lerin MASAK'a doğru ve zamanında iletilmesini koordine etmekten sorumludur."
+          "e": "Uyum birimi, ŞİB (şüpheli işlem bildirimi)'lerin MASAK (mali suçları araştırma kurulu)'a doğru ve zamanında iletilmesini koordine etmekten sorumludur."
         },
         {
           "q": "Uyum biriminin personel eğitimi işlevi kapsamında hedef kitle kimdir?",
@@ -34968,7 +34968,7 @@ window.__C = {
           "o": [
             "A) Satış gelirlerini artırır",
             "B) Kârlılığı doğrudan yükseltir",
-            "C) SGA/TF/KİSYF risklerini yöneterek kurumu yaptırım ve itibar riskinden korur",
+            "C) SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerini yöneterek kurumu yaptırım ve itibar riskinden korur",
             "D) Müşteri sayısını çoğaltır"
           ],
           "a": 2,
@@ -34977,7 +34977,7 @@ window.__C = {
         {
           "q": "Aşağıdakilerden hangisi uyum görevlisinin temel görevleri arasında yer almaz?",
           "o": [
-            "A) ŞİB'lerin MASAK'a iletilmesini sağlamak",
+            "A) ŞİB (şüpheli işlem bildirimi)'lerin MASAK (mali suçları araştırma kurulu)'a iletilmesini sağlamak",
             "B) Personele SGA/TF eğitimi vermek",
             "C) Müşterilere kredi tahsis etmek",
             "D) Risk değerlendirmesi yaparak raporlamak"
@@ -34994,7 +34994,7 @@ window.__C = {
             "D) Yalnızca mahkeme aracılığıyla iletişim kurar"
           ],
           "a": 0,
-          "e": "Uyum görevlisi, MASAK ve diğer denetim otoritelerinin gerçekleştirdiği süreçlerde kurumu temsil eden yetkili muhataptır."
+          "e": "Uyum görevlisi, MASAK (mali suçları araştırma kurulu) ve diğer denetim otoritelerinin gerçekleştirdiği süreçlerde kurumu temsil eden yetkili muhataptır."
         },
         {
           "q": "Uyum görevlisinin bildirim yükümlülüğünü yerine getirmemesi ne sonuç doğurur?",
@@ -35005,7 +35005,7 @@ window.__C = {
             "D) Herhangi bir sonucu olmaz"
           ],
           "a": 1,
-          "e": "Atama/değişiklik bildiriminin MASAK'a yapılmaması idari para cezasına ve denetim müdahalesine yol açabilir."
+          "e": "Atama/değişiklik bildiriminin MASAK (mali suçları araştırma kurulu)'a yapılmaması idari para cezasına ve denetim müdahalesine yol açabilir."
         },
         {
           "q": "Uyum görevlisinin kurumsal yönetimdeki konumunun önemi nedir?",
@@ -35016,7 +35016,7 @@ window.__C = {
             "D) Bütçe hazırlar"
           ],
           "a": 1,
-          "e": "Uyum görevlisi, kurumun SGA/TF/KİSYF risklerini sistematik ve etkin biçimde yönetmesini sağlayan kilit konumdaki kişidir."
+          "e": "Uyum görevlisi, kurumun SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerini sistematik ve etkin biçimde yönetmesini sağlayan kilit konumdaki kişidir."
         },
         {
           "q": "Her iki modülden de geçer not alınamaması hâlinde ne olur?",
@@ -35033,12 +35033,12 @@ window.__C = {
           "q": "Sürekli eğitim kapsamında uyum görevlileri hangi içeriklere sahip eğitimlere katılmalıdır?",
           "o": [
             "A) Yalnızca muhasebe kursları",
-            "B) SGA/TF/KİSYF alanındaki güncel gelişmeleri kapsayan eğitimler",
+            "B) SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) alanındaki güncel gelişmeleri kapsayan eğitimler",
             "C) Yalnızca yabancı dil kursları",
             "D) Yalnızca yönetim becerileri seminerleri"
           ],
           "a": 1,
-          "e": "Sürekli eğitim; SGA, TF ve KİSYF alanındaki mevzuat değişikliklerini ve güncel gelişmeleri kapsayan içeriklerden oluşmalıdır."
+          "e": "Sürekli eğitim; SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) alanındaki mevzuat değişikliklerini ve güncel gelişmeleri kapsayan içeriklerden oluşmalıdır."
         },
         {
           "q": "Lisanslama sisteminin temel amacı nedir?",
@@ -35054,13 +35054,13 @@ window.__C = {
         {
           "q": "Lisanslama sürecinde sınav içeriğini ve formatını belirleyen kurum hangisidir?",
           "o": [
-            "A) MASAK",
-            "B) BDDK",
-            "C) SPK",
+            "A) MASAK (mali suçları araştırma kurulu)",
+            "B) BDDK (bankacılık düzenleme ve denetleme kurumu)",
+            "C) SPK (sermaye piyasası kurulu)",
             "D) Türkiye Bankacılık Birliği"
           ],
           "a": 2,
-          "e": "Uyum görevlisi yetkilendirme sınavının içeriğini ve formatını SPK belirlemektedir."
+          "e": "Uyum görevlisi yetkilendirme sınavının içeriğini ve formatını SPK (sermaye piyasası kurulu) belirlemektedir."
         },
         {
           "q": "Finansal grup uyum programında hangi kural geçerlidir?",
@@ -35079,7 +35079,7 @@ window.__C = {
             "A) Büyük bankalarla birebir aynı programı kullanmalıdır",
             "B) Risk bazlı yaklaşımla faaliyet hacmi ve risk profiliyle orantılı, basit bir program oluşturabilir",
             "C) Program oluşturması gerekmez",
-            "D) Yalnızca ŞİB prosedürü yeterlidir"
+            "D) Yalnızca ŞİB (şüpheli işlem bildirimi) prosedürü yeterlidir"
           ],
           "a": 1,
           "e": "Risk bazlı yaklaşım çerçevesinde küçük yükümlüler, büyüklükleriyle orantılı basitleştirilmiş bir uyum programı oluşturabilir."
@@ -35088,23 +35088,23 @@ window.__C = {
           "q": "Uyum programının etkinliğini ölçen temel göstergeler nelerdir?",
           "o": [
             "A) Kâr marjı ve müşteri sayısı",
-            "B) Doğru ŞİB sayısı, eğitim tamamlanma oranı, denetim bulguları ve risk azalma trendi",
+            "B) Doğru ŞİB (şüpheli işlem bildirimi) sayısı, eğitim tamamlanma oranı, denetim bulguları ve risk azalma trendi",
             "C) Yalnızca çalışan memnuniyeti",
             "D) Yalnızca müşteri şikayet sayısı"
           ],
           "a": 1,
-          "e": "Uyum programı etkinliği; ŞİB kalitesi, eğitim tamamlanma oranları, iç denetim bulguları ve risk profilindeki değişimle ölçülür."
+          "e": "Uyum programı etkinliği; ŞİB (şüpheli işlem bildirimi) kalitesi, eğitim tamamlanma oranları, iç denetim bulguları ve risk profilindeki değişimle ölçülür."
         },
         {
           "q": "Uyum programının temel hedefi hangi ifadeyle en doğru biçimde özetlenebilir?",
           "o": [
             "A) Kurumun kârlılığını artırmak",
             "B) Müşteri sayısını çoğaltmak",
-            "C) SGA, TF ve KİSYF risklerine karşı kurumu korumak ve yasal yükümlülükleri yerine getirmek",
+            "C) SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerine karşı kurumu korumak ve yasal yükümlülükleri yerine getirmek",
             "D) Personel devir hızını azaltmak"
           ],
           "a": 2,
-          "e": "Uyum programının temel amacı; SGA, TF ve KİSYF risklerine karşı kurumsal koruma sağlamak ve yasal yükümlülüklerin eksiksiz yerine getirilmesini güvence altına almaktır."
+          "e": "Uyum programının temel amacı; SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerine karşı kurumsal koruma sağlamak ve yasal yükümlülüklerin eksiksiz yerine getirilmesini güvence altına almaktır."
         },
         {
           "q": "İşlem izleme sisteminin temel amacı nedir?",
@@ -35190,7 +35190,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "ESG Kriterlerinin Şirket Yönetimine Entegrasyonu",
-          "content": "<ul><li><strong>Çevresel (E):</strong> İklim değişikliği riski, karbon ayak izi, doğal kaynakların kullanımı. YK faaliyet raporunda çevresel etkileri açıklama yükümlülüğü.</li><li><strong>Sosyal (S):</strong> Çalışan hakları, iş sağlığı, tedarik zinciri sorumluluğu, topluluk etkileri.</li><li><strong>Yönetişim (G):</strong> YK yapısı ve bağımsızlık, ücretlendirme şeffaflığı, rüşvet/yolsuzlukla mücadele, iç kontrol. SPK'nın kurumsal yönetim tebliğleriyle örtüşür.</li><li><strong>Türk mevzuatındaki gelişmeler:</strong> TTK md. 516 YK raporunda çevresel ve sosyal sonuçların açıklanmasını zorunlu kılmaktadır. SPK'nın sürdürülebilirlik ilkeleri tebliği halka açık şirketler için ek yükümlülükler öngörmektedir.</li></ul>"
+          "content": "<ul><li><strong>Çevresel (E):</strong> İklim değişikliği riski, karbon ayak izi, doğal kaynakların kullanımı. YK faaliyet raporunda çevresel etkileri açıklama yükümlülüğü.</li><li><strong>Sosyal (S):</strong> Çalışan hakları, iş sağlığı, tedarik zinciri sorumluluğu, topluluk etkileri.</li><li><strong>Yönetişim (G):</strong> YK yapısı ve bağımsızlık, ücretlendirme şeffaflığı, rüşvet/yolsuzlukla mücadele, iç kontrol. SPK (sermaye piyasası kurulu)'nın kurumsal yönetim tebliğleriyle örtüşür.</li><li><strong>Türk mevzuatındaki gelişmeler:</strong> TTK md. 516 YK raporunda çevresel ve sosyal sonuçların açıklanmasını zorunlu kılmaktadır. SPK (sermaye piyasası kurulu)'nın sürdürülebilirlik ilkeleri tebliği halka açık şirketler için ek yükümlülükler öngörmektedir.</li></ul>"
         },
         {
           "heading": "AB Sürdürülebilir Finans Düzenlemeleri",
@@ -35250,7 +35250,7 @@ window.__EXT = {
         },
         {
           "heading": "Sermaye Artırımı — Rüçhan Hakkı",
-          "content": "<ul><li><strong>Rüçhan (yeni pay alma) hakkı:</strong> Mevcut pay sahipleri, yeni çıkarılacak payları mevcut paylarıyla orantılı olarak satın alma önceliğine sahiptir. Bu hak kısıtlanabilir veya ortadan kaldırılabilir — bunun için GK'nın ağırlaştırılmış çoğunlukla karar alması ve nesnel bir gerekçenin bulunması şarttır.</li><li><strong>İç kaynaklardan artırım (bedelsiz):</strong> Yedek akçe veya enflasyon farkları sermayeye eklenir; pay sahipleri ek ödeme yapmaz. Pay sayısı artar; nominal değer sabit kalır.</li><li><strong>Dış kaynaklardan artırım (bedelli):</strong> Nakit veya ayni sermaye koyma karşılığında yeni paylar ihraç edilir. SPK'ya tabi şirketlerde izahname zorunluluğu.</li></ul>"
+          "content": "<ul><li><strong>Rüçhan (yeni pay alma) hakkı:</strong> Mevcut pay sahipleri, yeni çıkarılacak payları mevcut paylarıyla orantılı olarak satın alma önceliğine sahiptir. Bu hak kısıtlanabilir veya ortadan kaldırılabilir — bunun için GK'nın ağırlaştırılmış çoğunlukla karar alması ve nesnel bir gerekçenin bulunması şarttır.</li><li><strong>İç kaynaklardan artırım (bedelsiz):</strong> Yedek akçe veya enflasyon farkları sermayeye eklenir; pay sahipleri ek ödeme yapmaz. Pay sayısı artar; nominal değer sabit kalır.</li><li><strong>Dış kaynaklardan artırım (bedelli):</strong> Nakit veya ayni sermaye koyma karşılığında yeni paylar ihraç edilir. SPK (sermaye piyasası kurulu)'ya tabi şirketlerde izahname zorunluluğu.</li></ul>"
         }
       ]
     },
@@ -35294,11 +35294,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "MKK'nın Kuruluş ve Sermaye Yapısı",
-          "content": "<p>MKK, sermaye piyasası araçlarının kaydileştirilmesi, kayıtların tutulması ve hak sahiplerinin tespiti görevini yürüten Anonim Şirkettir. SPK'nın gözetim ve denetimine tabidir.</p><ul><li><strong>Sermaye yapısı kısıtları:</strong> Takasbank en fazla <strong>%75</strong>, BİST en fazla <strong>%50</strong>, TSPB en fazla <strong>%10</strong> paya sahip olabilir.</li><li>Üyelerin tamamının sahip olduğu pay oranı, kanunda belirtilen sınırları aşamaz.</li><li>MKK Yönetmeliği: 6362 sayılı Sermaye Piyasası Kanunu'nun 81. maddesine dayanılarak hazırlanmıştır.</li></ul>"
+          "content": "<p>MKK, sermaye piyasası araçlarının kaydileştirilmesi, kayıtların tutulması ve hak sahiplerinin tespiti görevini yürüten Anonim Şirkettir. SPK (sermaye piyasası kurulu)'nın gözetim ve denetimine tabidir.</p><ul><li><strong>Sermaye yapısı kısıtları:</strong> Takasbank en fazla <strong>%75</strong>, BİST en fazla <strong>%50</strong>, TSPB en fazla <strong>%10</strong> paya sahip olabilir.</li><li>Üyelerin tamamının sahip olduğu pay oranı, kanunda belirtilen sınırları aşamaz.</li><li>MKK Yönetmeliği: 6362 sayılı Sermaye Piyasası Kanunu'nun 81. maddesine dayanılarak hazırlanmıştır.</li></ul>"
         },
         {
           "heading": "MKK Hesap Türleri",
-          "content": "<ul><li><strong>Yatırımcı Hesabı:</strong> Hak sahibi adına açılmış kaydi sermaye piyasası araçlarının izlendiği hesaptır. DİBS'ler dahil, yatırımcılara ait kaydi sermaye piyasası araçları yatırımcı hesaplarında izlenir. MKK nezdinde müşterek hesap açılması da mümkün olup birden fazla kişinin müşterek hesap açtırma talepleri üzerine, üyeler tarafından müşterek mülkiyet yatırımcı hesabı açılır ve iştirak oranları da kayden izlenir.</li><li><strong>Yatırım Kuruluşu Havuz Hesabı:</strong> Yatırım kuruluşunun, hesap sahibinin vekili sıfatıyla takas işlemlerini yerine getirmesi için kullanılır. Yatırımcı hesabı, yatırım kuruluşunun işlem yapmaya yetkili olduğu hak sahipleri adına açılmış hesaplardan oluşur.</li><li><strong>Yabancı Saklama Global Hesabı:</strong> Yurtdışında yerleşik hak sahiplerine ait sermaye piyasası araçlarının yabancı merkezi saklama kuruluşları (YMSK) ve genel saklama yetkisi bulunan yatırım kuruluşları nezdinde hak sahibi ismine açılmaksızın toplu olarak tutulduğu havuz niteliğindeki hesaplardır.</li><li><strong>Merkezi Takas Kuruluşu Hesabı:</strong> Takas havuz hesabı, havuz hesabı ve yatırımcı hesabından oluşur. Takas havuz hesabı; merkezi takas kuruluşunun, vekil sıfatıyla üyelerin takas işlemlerini gerçekleştirmesi için kullanılır.</li><li><strong>TCMB Hesabı:</strong> TCMB adına açılan DİBS Genel Depo Hesabı olup MKK nezdinde hak sahipleri hesaplarında izlenmeyen EMKT sistemindeki bankalara ait depo hesaplarında bulunan kıymetlerin toplu olarak, bilgi amaçlı izlenmesini sağlamak için kullanılır.</li></ul>"
+          "content": "<ul><li><strong>Yatırımcı Hesabı:</strong> Hak sahibi adına açılmış kaydi sermaye piyasası araçlarının izlendiği hesaptır. DİBS'ler dahil, yatırımcılara ait kaydi sermaye piyasası araçları yatırımcı hesaplarında izlenir. MKK nezdinde müşterek hesap açılması da mümkün olup birden fazla kişinin müşterek hesap açtırma talepleri üzerine, üyeler tarafından müşterek mülkiyet yatırımcı hesabı açılır ve iştirak oranları da kayden izlenir.</li><li><strong>Yatırım Kuruluşu Havuz Hesabı:</strong> Yatırım kuruluşunun, hesap sahibinin vekili sıfatıyla takas işlemlerini yerine getirmesi için kullanılır. Yatırımcı hesabı, yatırım kuruluşunun işlem yapmaya yetkili olduğu hak sahipleri adına açılmış hesaplardan oluşur.</li><li><strong>Yabancı Saklama Global Hesabı:</strong> Yurtdışında yerleşik hak sahiplerine ait sermaye piyasası araçlarının yabancı merkezi saklama kuruluşları (YMSK) ve genel saklama yetkisi bulunan yatırım kuruluşları nezdinde hak sahibi ismine açılmaksızın toplu olarak tutulduğu havuz niteliğindeki hesaplardır.</li><li><strong>Merkezi Takas Kuruluşu Hesabı:</strong> Takas havuz hesabı, havuz hesabı ve yatırımcı hesabından oluşur. Takas havuz hesabı; merkezi takas kuruluşunun, vekil sıfatıyla üyelerin takas işlemlerini gerçekleştirmesi için kullanılır.</li><li><strong>TCMB (türkiye cumhuriyet merkez bankası) Hesabı:</strong> TCMB (türkiye cumhuriyet merkez bankası) adına açılan DİBS Genel Depo Hesabı olup MKK nezdinde hak sahipleri hesaplarında izlenmeyen EMKT sistemindeki bankalara ait depo hesaplarında bulunan kıymetlerin toplu olarak, bilgi amaçlı izlenmesini sağlamak için kullanılır.</li></ul>"
         },
         {
           "heading": "Kaydileştirme Süreci ve Hakların Korunması",
@@ -35334,7 +35334,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Portföy Saklama Hizmetinin Kapsamı",
-          "content": "<p>Portföy saklama hizmeti; finansal varlıkların saklanması/kayıtlarının tutulması, diğer varlıkların aidiyetinin doğrulanması/takibi ve kayıtlarının tutulması, varlık ve nakit hareketlerine ilişkin işlemlerin yerine getirilmesinin kontrolü ve SPKn madde 56'da belirtilen gözetim görevlerinin yerine getirilmesini kapsar.</p>"
+          "content": "<p>Portföy saklama hizmeti; finansal varlıkların saklanması/kayıtlarının tutulması, diğer varlıkların aidiyetinin doğrulanması/takibi ve kayıtlarının tutulması, varlık ve nakit hareketlerine ilişkin işlemlerin yerine getirilmesinin kontrolü ve SPK (sermaye piyasası kurulu)n madde 56'da belirtilen gözetim görevlerinin yerine getirilmesini kapsar.</p>"
         },
         {
           "heading": "Portföy Saklayıcısının Yükümlülükleri",
@@ -35342,7 +35342,7 @@ window.__EXT = {
         },
         {
           "heading": "Saklayıcı Değişimi ve Bağımsızlık İlkesi",
-          "content": "<ul><li><strong>90 gün kuralı:</strong> Portföy saklayıcısı değişiminde yeni saklayıcıya geçiş en az <strong>90 gün</strong> önceden bildirilmelidir.</li><li><strong>Operasyonel bağımsızlık:</strong> Aynı grup şirketi olsalar bile portföy yöneticisi ve saklayıcı arasında operasyonel bağımsızlık zorunludur.</li><li><strong>Alt saklayıcı:</strong> Alt saklayıcı kullanılsa bile hukuki sorumluluk ana saklayıcıda kalır.</li><li><strong>İhlal bildirimi:</strong> Yatırım sınırlarına aykırılık tespit eden saklayıcı derhal portföy yöneticisine ve SPK'ya bildirmekle yükümlüdür.</li><li><strong>Bağımsız denetim:</strong> Portföy saklayıcısı yılda en az bir kez bağımsız denetimden geçmek zorundadır.</li></ul>"
+          "content": "<ul><li><strong>90 gün kuralı:</strong> Portföy saklayıcısı değişiminde yeni saklayıcıya geçiş en az <strong>90 gün</strong> önceden bildirilmelidir.</li><li><strong>Operasyonel bağımsızlık:</strong> Aynı grup şirketi olsalar bile portföy yöneticisi ve saklayıcı arasında operasyonel bağımsızlık zorunludur.</li><li><strong>Alt saklayıcı:</strong> Alt saklayıcı kullanılsa bile hukuki sorumluluk ana saklayıcıda kalır.</li><li><strong>İhlal bildirimi:</strong> Yatırım sınırlarına aykırılık tespit eden saklayıcı derhal portföy yöneticisine ve SPK (sermaye piyasası kurulu)'ya bildirmekle yükümlüdür.</li><li><strong>Bağımsız denetim:</strong> Portföy saklayıcısı yılda en az bir kez bağımsız denetimden geçmek zorundadır.</li></ul>"
         }
       ]
     },
@@ -35414,7 +35414,7 @@ window.__EXT = {
         },
         {
           "heading": "Stres Testleri ve Risk Yönetimi",
-          "content": "<ul><li><strong>Geriye dönük test:</strong> Risk ölçüm modellerinin performansını ölçmeye yönelik örneklem içi veya örneklem dışı testlerdir.</li><li><strong>Stres testleri:</strong> Piyasa stres koşulları altında teminat ve garanti fonu yeterliliği test edilir; sonuçlar SPK'ya düzenli raporlanır.</li><li><strong>Risk komitesi:</strong> MKT risk yönetim çerçevesi, risk komitesinin önerisi ve Takasbank yönetim kurulunun onayıyla belirlenir.</li><li><strong>Karşılanmış riskler (covered risk):</strong> Takasbank'ın verdiği merkezi karşı taraf hizmeti nedeniyle maruz kaldığı, ancak teminatlar, garanti fonu ve Takasbank sermayesinden tahsis edilen bölüm ile korunan risklerdir.</li></ul>"
+          "content": "<ul><li><strong>Geriye dönük test:</strong> Risk ölçüm modellerinin performansını ölçmeye yönelik örneklem içi veya örneklem dışı testlerdir.</li><li><strong>Stres testleri:</strong> Piyasa stres koşulları altında teminat ve garanti fonu yeterliliği test edilir; sonuçlar SPK (sermaye piyasası kurulu)'ya düzenli raporlanır.</li><li><strong>Risk komitesi:</strong> MKT risk yönetim çerçevesi, risk komitesinin önerisi ve Takasbank yönetim kurulunun onayıyla belirlenir.</li><li><strong>Karşılanmış riskler (covered risk):</strong> Takasbank'ın verdiği merkezi karşı taraf hizmeti nedeniyle maruz kaldığı, ancak teminatlar, garanti fonu ve Takasbank sermayesinden tahsis edilen bölüm ile korunan risklerdir.</li></ul>"
         }
       ]
     }
@@ -35425,8 +35425,8 @@ window.__EXT = {
       "title": "Sermaye Piyasası Kanunu Temelleri",
       "sections": [
         {
-          "heading": "Hazırlanma Gerekçeleri ve SPK Yetkileri",
-          "content": "<ul><li><strong>6102 TTK:</strong> Pay sahibi hakları genişletildi, elektronik genel kurul düzenlendi, azınlık hakları güçlendirildi.</li><li><strong>AB uyumu:</strong> Türkiye'nin üyelik müzakereleri; 2000 sonrası kapsamlı AB reformlarına uyum.</li><li><strong>2008 kriz:</strong> Şeffaflık ve yatırımcı korumasının güçlendirilmesi ihtiyacı.</li><li><strong>SPK yetkileri:</strong> Düzenleme (ikincil mevzuat), denetim (bilgi/belge/yerinde inceleme), yaptırım (idari para cezası, faaliyet durdurma, lisans iptali), muafiyet.</li></ul>"
+          "heading": "Hazırlanma Gerekçeleri ve SPK (sermaye piyasası kurulu) Yetkileri",
+          "content": "<ul><li><strong>6102 TTK:</strong> Pay sahibi hakları genişletildi, elektronik genel kurul düzenlendi, azınlık hakları güçlendirildi.</li><li><strong>AB uyumu:</strong> Türkiye'nin üyelik müzakereleri; 2000 sonrası kapsamlı AB reformlarına uyum.</li><li><strong>2008 kriz:</strong> Şeffaflık ve yatırımcı korumasının güçlendirilmesi ihtiyacı.</li><li><strong>SPK (sermaye piyasası kurulu) yetkileri:</strong> Düzenleme (ikincil mevzuat), denetim (bilgi/belge/yerinde inceleme), yaptırım (idari para cezası, faaliyet durdurma, lisans iptali), muafiyet.</li></ul>"
         },
         {
           "heading": "Sermaye Piyasasının Unsurları",
@@ -35434,7 +35434,7 @@ window.__EXT = {
         },
         {
           "heading": "Muafiyet Mekanizması",
-          "content": "<p>SPKn'dan kaynaklanan yükümlülüklerden muafiyet tanınan durumlar:</p><ul><li>500'den az ortağa sahip, halka açık olmayan şirketler kısmen veya tamamen muaf tutulabilir.</li><li>İhraççılar ve halka açık ortaklıklar, büyüklük, faaliyet devamlılığı, ortak sayısı gibi şartların varlığı hâlinde bu Kanun'dan kaynaklanan yükümlülüklerden kısmen veya tamamen muaf tutulabilir.</li><li>Kurul muafiyet yetkisini tebliğ ve ilke kararlarıyla kullanır.</li></ul>"
+          "content": "<p>SPK (sermaye piyasası kurulu)n'dan kaynaklanan yükümlülüklerden muafiyet tanınan durumlar:</p><ul><li>500'den az ortağa sahip, halka açık olmayan şirketler kısmen veya tamamen muaf tutulabilir.</li><li>İhraççılar ve halka açık ortaklıklar, büyüklük, faaliyet devamlılığı, ortak sayısı gibi şartların varlığı hâlinde bu Kanun'dan kaynaklanan yükümlülüklerden kısmen veya tamamen muaf tutulabilir.</li><li>Kurul muafiyet yetkisini tebliğ ve ilke kararlarıyla kullanır.</li></ul>"
         }
       ]
     },
@@ -35452,7 +35452,7 @@ window.__EXT = {
         },
         {
           "heading": "Finansal Teminat Sözleşmeleri",
-          "content": "<ul><li><strong>Tanım:</strong> Taraflardan en az biri profesyonel müşteri/nitelikli yatırımcı; konu: sermaye piyasası araçları veya nakit.</li><li><strong>Teminat yöneticisi:</strong> SPK'dan yetki almış; takas/saklama kuruluşları üstlenebilir.</li><li><strong>Hukuki güvence:</strong> Netleştirme ve teminat realizasyonu mevzuatla güvence altına alınmıştır.</li></ul>"
+          "content": "<ul><li><strong>Tanım:</strong> Taraflardan en az biri profesyonel müşteri/nitelikli yatırımcı; konu: sermaye piyasası araçları veya nakit.</li><li><strong>Teminat yöneticisi:</strong> SPK (sermaye piyasası kurulu)'dan yetki almış; takas/saklama kuruluşları üstlenebilir.</li><li><strong>Hukuki güvence:</strong> Netleştirme ve teminat realizasyonu mevzuatla güvence altına alınmıştır.</li></ul>"
         }
       ]
     },
@@ -35466,7 +35466,7 @@ window.__EXT = {
         },
         {
           "heading": "Kitle Fonlaması ve Kripto Varlık",
-          "content": "<ul><li><strong>Kitle fonlaması (7061):</strong> Proje/girişim için halktan para toplama. SPK lisanslı platformlar. Borçlanmaya dayalıda bankacılık mevzuatı uygulanmaz. Halka açık ortaklıklara uygulanmaz.</li><li><strong>KVHS zimmet suçu (md.110/A):</strong> 6-12 yıl hapis; adli para cezası zarar 3 katından az olamaz. Faaliyet izni kaldırılan KVHS kontrolündekiler için şahsi iflas kararı verilebilir (md.110/B).</li></ul>"
+          "content": "<ul><li><strong>Kitle fonlaması (7061):</strong> Proje/girişim için halktan para toplama. SPK (sermaye piyasası kurulu) lisanslı platformlar. Borçlanmaya dayalıda bankacılık mevzuatı uygulanmaz. Halka açık ortaklıklara uygulanmaz.</li><li><strong>KVHS zimmet suçu (md.110/A):</strong> 6-12 yıl hapis; adli para cezası zarar 3 katından az olamaz. Faaliyet izni kaldırılan KVHS kontrolündekiler için şahsi iflas kararı verilebilir (md.110/B).</li></ul>"
         },
         {
           "heading": "Sermaye Piyasası Kurumları Sınıflandırması",
@@ -35476,7 +35476,7 @@ window.__EXT = {
     },
     {
       "num": "04",
-      "title": "SPK Denetimi ve Yaptırımlar",
+      "title": "SPK (sermaye piyasası kurulu) Denetimi ve Yaptırımlar",
       "sections": [
         {
           "heading": "Suç Tipleri Karşılaştırma Tablosu",
@@ -35538,7 +35538,7 @@ window.__EXT = {
         },
         {
           "heading": "Portföy Sınırlamaları ve Fiyatlama",
-          "content": "<ul><li><strong>%10 tek ihraççı sınırı:</strong> Fon varlıklarının %10'undan fazlası tek ihraççıya yatırılamaz (DİBS, Hazine bonosu, TCMB araçları hariç).</li><li><strong>Borsa dışı sözleşmeler:</strong> Karşı taraf yatırım dereceli; tek karşı taraf maruziyeti %10'u geçemez.</li><li><strong>İleriye dönük fiyatlama:</strong> Emir anında fiyat bilinmez; bir sonraki fiyatlama döneminin fiyatı üzerinden işlem.</li><li><strong>Geriye dönük fiyatlama yasaktır.</strong></li></ul>"
+          "content": "<ul><li><strong>%10 tek ihraççı sınırı:</strong> Fon varlıklarının %10'undan fazlası tek ihraççıya yatırılamaz (DİBS, Hazine bonosu, TCMB (türkiye cumhuriyet merkez bankası) araçları hariç).</li><li><strong>Borsa dışı sözleşmeler:</strong> Karşı taraf yatırım dereceli; tek karşı taraf maruziyeti %10'u geçemez.</li><li><strong>İleriye dönük fiyatlama:</strong> Emir anında fiyat bilinmez; bir sonraki fiyatlama döneminin fiyatı üzerinden işlem.</li><li><strong>Geriye dönük fiyatlama yasaktır.</strong></li></ul>"
         },
         {
           "heading": "Katılma Payı ve TEFAS",
@@ -35552,7 +35552,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "TSPB Yapısı ve Genel Yükümlülükler",
-          "content": "<ul><li><strong>Yasal dayanak:</strong> SPKn md.74. Yönetim Kurulu hazırlar; Genel Kurul onaylar.</li><li><strong>Üyeler:</strong> Aracı kurumlar, bankalar, menkul kıymet/girişim sermayesi/gayrimenkul yatırım ortaklıkları, PYŞ'ler.</li><li><strong>Genel yükümlülükler:</strong> Devlet ve otoritelere saygı; müşteriler/diğer üyeler/çalışanlarla adil davranış; haksız rekabetten kaçınma.</li></ul>"
+          "content": "<ul><li><strong>Yasal dayanak:</strong> SPK (sermaye piyasası kurulu)n md.74. Yönetim Kurulu hazırlar; Genel Kurul onaylar.</li><li><strong>Üyeler:</strong> Aracı kurumlar, bankalar, menkul kıymet/girişim sermayesi/gayrimenkul yatırım ortaklıkları, PYŞ'ler.</li><li><strong>Genel yükümlülükler:</strong> Devlet ve otoritelere saygı; müşteriler/diğer üyeler/çalışanlarla adil davranış; haksız rekabetten kaçınma.</li></ul>"
         },
         {
           "heading": "Müşteri Görevleri ve Davranış Kuralları",
@@ -35608,15 +35608,15 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Kıymetli Evrak – Menkul Kıymet – Sermaye Piyasası Aracı İlişkisi",
-          "content": "<ul><li><strong>Kıymetli evrak (üst kavram):</strong> Hakkın senede bağlandığı belgeler; çek, bono, poliçe ödeme/kredi aracıdır. Menkul kıymet de kıymetli evrak mahiyetindedir ancak senede bağlanma zorunluluğu kaldırılmıştır.</li><li><strong>Menkul kıymet:</strong> Yatırım aracı olarak kullanılan, ortaklık veya alacak hakkı veren kıymetli evrak. Para, çek, poliçe, bono menkul kıymet DEĞİLDİR.</li><li><strong>Sermaye piyasası aracı:</strong> Menkul kıymetler + türev araçlar + diğer araçlar. Menkul kıymetler kaydileştirilerek senede bağlanmaz; bu nedenle şeklen kıymetli evrak alanının dışına çıkmıştır.</li><li><strong>Özet kural:</strong> Kıymetli evrak ⊃ Menkul kıymet ⊃ Sermaye piyasası aracı (menkul kıymet kısmı). Her menkul kıymet kıymetli evraktır ama her kıymetli evrak menkul kıymet değildir.</li></ul><div class='hl'>Borçlanma araçları halka arz edilmeksizin (nitelikli yatırımcıya veya tahsisli) ihraç edilse dahi SPKn kapsamındadır. Bu paylardan farklıdır: payların halka arz edilmeyenleri Kanun kapsamı dışındadır.</div>"
+          "content": "<ul><li><strong>Kıymetli evrak (üst kavram):</strong> Hakkın senede bağlandığı belgeler; çek, bono, poliçe ödeme/kredi aracıdır. Menkul kıymet de kıymetli evrak mahiyetindedir ancak senede bağlanma zorunluluğu kaldırılmıştır.</li><li><strong>Menkul kıymet:</strong> Yatırım aracı olarak kullanılan, ortaklık veya alacak hakkı veren kıymetli evrak. Para, çek, poliçe, bono menkul kıymet DEĞİLDİR.</li><li><strong>Sermaye piyasası aracı:</strong> Menkul kıymetler + türev araçlar + diğer araçlar. Menkul kıymetler kaydileştirilerek senede bağlanmaz; bu nedenle şeklen kıymetli evrak alanının dışına çıkmıştır.</li><li><strong>Özet kural:</strong> Kıymetli evrak ⊃ Menkul kıymet ⊃ Sermaye piyasası aracı (menkul kıymet kısmı). Her menkul kıymet kıymetli evraktır ama her kıymetli evrak menkul kıymet değildir.</li></ul><div class='hl'>Borçlanma araçları halka arz edilmeksizin (nitelikli yatırımcıya veya tahsisli) ihraç edilse dahi SPK (sermaye piyasası kurulu)n kapsamındadır. Bu paylardan farklıdır: payların halka arz edilmeyenleri Kanun kapsamı dışındadır.</div>"
         },
         {
           "heading": "Borçlanma Araçları Türleri",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Araç</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Temel Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Not</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Düz tahvil</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sabit faiz, belirli vade</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>En yaygın borçlanma aracı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değişken faizli tahvil</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faiz referans orana bağlı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>TCMB politika faizine endeksli olabilir</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Paya dönüştürülebilir tahvil (PDT)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sahip payaya dönüştürme hakkına sahip</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Şarta bağlı sermaye artırımına yol açar</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değiştirilebilir tahvil</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Başka ortaklığın payına dönüşür</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İhraçcının değil, başka şirketin payı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Finansman bonosu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kısa vadeli (&lt;1 yıl); iskontolu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nakit akışı yönetimi için</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kıymetli maden bonosu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Altın veya gümüşe endeksli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fiziksel teslim veya nakit uzlaşı</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Araç</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Temel Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Not</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Düz tahvil</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sabit faiz, belirli vade</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>En yaygın borçlanma aracı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değişken faizli tahvil</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faiz referans orana bağlı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>TCMB (türkiye cumhuriyet merkez bankası) politika faizine endeksli olabilir</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Paya dönüştürülebilir tahvil (PDT)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Sahip payaya dönüştürme hakkına sahip</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Şarta bağlı sermaye artırımına yol açar</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Değiştirilebilir tahvil</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Başka ortaklığın payına dönüşür</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İhraçcının değil, başka şirketin payı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Finansman bonosu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kısa vadeli (&lt;1 yıl); iskontolu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Nakit akışı yönetimi için</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kıymetli maden bonosu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Altın veya gümüşe endeksli</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Fiziksel teslim veya nakit uzlaşı</td></tr></table>"
         },
         {
           "heading": "TTK'daki İhraç Yetki ve Sınırlamaları",
-          "content": "<ul><li><strong>Genel kurul kararı zorunluluğu (TTK md.504):</strong> Borçlanma araçları aksi öngörülmedikçe genel kurul kararıyla çıkarılır. Halka açık ortaklıklarda SPKn md.31/3 uyarınca YK'ya en fazla 15 ay yetki devredilebilir.</li><li><strong>Toplam sınır (TTK md.506):</strong> Borçlanma araçları toplam tutarı = ödenmiş sermaye + yedek akçeler toplamını aşamaz. SPK mevzuatı saklıdır (yani SPK daha geniş ihraç limiti belirleyebilir).</li><li><strong>Nakit ödeme şartı:</strong> Borçlanma senetlerinin bedelleri nakit olmalı ve teslim anında tamamen ödenmelidir.</li><li><strong>Yönetim kurulu devri:</strong> TTK md.504 kapsamında genel kurul ihraç yetkisini en fazla 15 ay için YK'ya bırakabilir. SPKn'de bu süre de en fazla 15 aydır.</li></ul>"
+          "content": "<ul><li><strong>Genel kurul kararı zorunluluğu (TTK md.504):</strong> Borçlanma araçları aksi öngörülmedikçe genel kurul kararıyla çıkarılır. Halka açık ortaklıklarda SPK (sermaye piyasası kurulu)n md.31/3 uyarınca YK'ya en fazla 15 ay yetki devredilebilir.</li><li><strong>Toplam sınır (TTK md.506):</strong> Borçlanma araçları toplam tutarı = ödenmiş sermaye + yedek akçeler toplamını aşamaz. SPK (sermaye piyasası kurulu) mevzuatı saklıdır (yani SPK (sermaye piyasası kurulu) daha geniş ihraç limiti belirleyebilir).</li><li><strong>Nakit ödeme şartı:</strong> Borçlanma senetlerinin bedelleri nakit olmalı ve teslim anında tamamen ödenmelidir.</li><li><strong>Yönetim kurulu devri:</strong> TTK md.504 kapsamında genel kurul ihraç yetkisini en fazla 15 ay için YK'ya bırakabilir. SPK (sermaye piyasası kurulu)n'de bu süre de en fazla 15 aydır.</li></ul>"
         }
       ]
     },
@@ -35626,11 +35626,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "İhraç Limiti ve Yetkili Organ Kararı",
-          "content": "<ul><li><strong>İhraç limiti hesabı:</strong> Başvuru tarihindeki finansal tablolara göre hesaplanır. Borsa'da işlem görenler için bağımsız denetimden geçmiş tablolar; konsolide tablo varsa konsolide esaslı. Kurulca inceleme süresince daha önce verilmiş diğer tavanlar ve itfa tutarlar hesaba katılır.</li><li><strong>Yetkili organ kararı (tablo):</strong><br>• TTK'da: Genel Kurul kararıyla YK'ya en fazla 15 ay yetki devri<br>• SPKn'de: Esas sözleşme ile YK'ya sürekli yetki veya Genel Kurul kararıyla en fazla 15 ay yetki devri<br>• Kararın içermesi gerekenler: Azami ihraç tutarı ve satış yöntemi; paya dönüştürülebilir ise türü</li><li><strong>Kurula başvuru:</strong> İzahname veya ihraç belgesi Kurul'a başvurusu ile birlikte; halka arz edilmeyenlerde sadece ihraç belgesi ile başvuru yeterli.</li></ul>"
+          "content": "<ul><li><strong>İhraç limiti hesabı:</strong> Başvuru tarihindeki finansal tablolara göre hesaplanır. Borsa'da işlem görenler için bağımsız denetimden geçmiş tablolar; konsolide tablo varsa konsolide esaslı. Kurulca inceleme süresince daha önce verilmiş diğer tavanlar ve itfa tutarlar hesaba katılır.</li><li><strong>Yetkili organ kararı (tablo):</strong><br>• TTK'da: Genel Kurul kararıyla YK'ya en fazla 15 ay yetki devri<br>• SPK (sermaye piyasası kurulu)n'de: Esas sözleşme ile YK'ya sürekli yetki veya Genel Kurul kararıyla en fazla 15 ay yetki devri<br>• Kararın içermesi gerekenler: Azami ihraç tutarı ve satış yöntemi; paya dönüştürülebilir ise türü</li><li><strong>Kurula başvuru:</strong> İzahname veya ihraç belgesi Kurul'a başvurusu ile birlikte; halka arz edilmeyenlerde sadece ihraç belgesi ile başvuru yeterli.</li></ul>"
         },
         {
           "heading": "Kredi Derecelendirmesi ve BASK",
-          "content": "<ul><li><strong>Kredi derecelendirmesi:</strong> İhraç edilecek borçlanma araçlarına ilişkin derecelendirme yapılması zorunlu olduğunda; not yılda en az bir kez güncellenir; önemli gelişmelerde derhal güncelleme şartı var. Derecelendirme notu SPK'nın sermaye piyasasında derecelendirmeye ilişkin düzenlemelerine tabidir.</li><li><strong>Borçlanma Aracı Sahipleri Kurulu (BASK):</strong> Aynı türden 100 veya daha fazla sahip olduğunda zorunlu kurulur. BASK; ihraçcıyla müzakere, temsilci atama, hak koruması işlevlerini üstlenir. İhraçcı BASK kararlarına uymakla yükümlüdür.</li><li><strong>BASK toplantısı:</strong> Yılda en az bir kez toplanır. Gündemi BASK temsilcisi veya ihraçcı belirler. Kararlar sahip sayısının salt çoğunluğuyla alınır.</li></ul>"
+          "content": "<ul><li><strong>Kredi derecelendirmesi:</strong> İhraç edilecek borçlanma araçlarına ilişkin derecelendirme yapılması zorunlu olduğunda; not yılda en az bir kez güncellenir; önemli gelişmelerde derhal güncelleme şartı var. Derecelendirme notu SPK (sermaye piyasası kurulu)'nın sermaye piyasasında derecelendirmeye ilişkin düzenlemelerine tabidir.</li><li><strong>Borçlanma Aracı Sahipleri Kurulu (BASK):</strong> Aynı türden 100 veya daha fazla sahip olduğunda zorunlu kurulur. BASK; ihraçcıyla müzakere, temsilci atama, hak koruması işlevlerini üstlenir. İhraçcı BASK kararlarına uymakla yükümlüdür.</li><li><strong>BASK toplantısı:</strong> Yılda en az bir kez toplanır. Gündemi BASK temsilcisi veya ihraçcı belirler. Kararlar sahip sayısının salt çoğunluğuyla alınır.</li></ul>"
         },
         {
           "heading": "Yeşil ve Sürdürülebilir Tahvil Esasları",
@@ -35930,14 +35930,14 @@ window.__EXT = {
   "KREDI_DERECE": [
     {
       "num": "01",
-      "title": "Derecelendirme Sistemi ve SPK Tebliği Ayrıntıları",
+      "title": "Derecelendirme Sistemi ve SPK (sermaye piyasası kurulu) Tebliği Ayrıntıları",
       "sections": [
         {
           "heading": "Derecelendirme Notu Skalaları",
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kategori</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>S&P / Fitch</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Moody's</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Açıklama</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>En yüksek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>AAA</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Aaa</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Olağanüstü kredi kalitesi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çok yüksek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>AA+/AA/AA−</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Aa1/Aa2/Aa3</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Çok güçlü ödeme kapasitesi</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yüksek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>A+/A/A−</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>A1/A2/A3</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Güçlü ödeme kapasitesi</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yatırım alt sınır</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>BBB+/BBB/BBB−</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Baa1/Baa2/Baa3</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yeterli ödeme kapasitesi</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Spekülatif</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>BB+/BB/BB−</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Ba1/Ba2/Ba3</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Spekülatif unsurlar mevcut</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yüksek spekülatif</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>B / CCC / CC</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>B / Caa / Ca</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yüksek temerrüt riski</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Temerrüt</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>D</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>C</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Temerrüt gerçekleşti</td></tr></table>"
         },
         {
-          "heading": "SPK Tebliği'nde Bağımsızlık Kuralları",
+          "heading": "SPK (sermaye piyasası kurulu) Tebliği'nde Bağımsızlık Kuralları",
           "content": "<ul><li><strong>Çıkar çatışması yasağı:</strong> Derecelendirme uzmanları ve komite üyeleri, müşteri şirkette herhangi bir menkul kıymet işlemi yapamaz.</li><li><strong>İstihdam yasağı:</strong> Derecelendirme çalışması bitiminden 2 yıl geçmeden müşteri şirkette çalışılamaz.</li><li><strong>Hizmet kısıtı:</strong> Derecelendirme hizmeti verilen döneme ait müşteriye bağımsız denetim ve değerleme hizmeti de verilemez.</li><li><strong>Ücretlendirme bağımsızlığı:</strong> Derecelendirme notu derecelendirme ücretini etkileyemez; ücret niteliğe değil iş hacmine göre belirlenir.</li><li><div class='hl'>Sınav notu: Tebliğe göre aynı kişinin hem derecelendirme uzmanı hem derecelendirme komitesi üyesi olması yasaktır.</div></li></ul>"
         }
       ]
@@ -36010,7 +36010,7 @@ window.__EXT = {
         },
         {
           "heading": "Bağımsız YK Üyeliği — Kriter Detayları",
-          "content": "<ul><li><strong>Son 5 yılda:</strong> Şirket, bağlı ortaklık, iştirak veya önemli pay sahibi şirketlerde çalışmamış. Önemli mal/hizmet ilişkisi olmamış (%5 net satış eşiği).</li><li><strong>Son 3 yılda:</strong> Denetimden sorumlu komitenin denetçisi olmamış. Çok sayıda diğer ortaklıkta bağımsız üye değil.</li><li><strong>Hiçbir zaman:</strong> Pay oranı %1 veya daha fazlası — bu tek başına engelleyici değil. %5 ve üzeri oy hakları — kritik eşik.</li><li><strong>1. Grup'ta SPK bildirimi:</strong> GK'dan 60 gün önce liste → SPK 30 gün içinde olumsuz görüş verebilir → olumsuz görüş bildirilen kişi aday gösterilemez.</li><li><div class='hl'>Sınav notu: 'Bağımsız üye' her zaman YK üyesidir; YK dışından bağımsız üye olamaz. Aday listesi SPK'ya sunulmak zorunda.</div></li></ul>"
+          "content": "<ul><li><strong>Son 5 yılda:</strong> Şirket, bağlı ortaklık, iştirak veya önemli pay sahibi şirketlerde çalışmamış. Önemli mal/hizmet ilişkisi olmamış (%5 net satış eşiği).</li><li><strong>Son 3 yılda:</strong> Denetimden sorumlu komitenin denetçisi olmamış. Çok sayıda diğer ortaklıkta bağımsız üye değil.</li><li><strong>Hiçbir zaman:</strong> Pay oranı %1 veya daha fazlası — bu tek başına engelleyici değil. %5 ve üzeri oy hakları — kritik eşik.</li><li><strong>1. Grup'ta SPK (sermaye piyasası kurulu) bildirimi:</strong> GK'dan 60 gün önce liste → SPK (sermaye piyasası kurulu) 30 gün içinde olumsuz görüş verebilir → olumsuz görüş bildirilen kişi aday gösterilemez.</li><li><div class='hl'>Sınav notu: 'Bağımsız üye' her zaman YK üyesidir; YK dışından bağımsız üye olamaz. Aday listesi SPK (sermaye piyasası kurulu)'ya sunulmak zorunda.</div></li></ul>"
         }
       ]
     },
@@ -36020,11 +36020,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Üç Grup Sınıflandırması (2024 Verileri)",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Grup</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kriter</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Yükümlülük Düzeyi</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>1. Grup</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Piyasa değeri ≥ 3 milyar TL VE dolaşım değeri ≥ 750 milyon TL</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>En kapsamlı — tüm zorunlu ilkeler + SPK bağımsız üye süreci</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>2. Grup</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Piyasa değeri ≥ 1 milyar TL VEYA dolaşım değeri ≥ 250 milyon TL</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Orta — zorunlu ilkeler ancak bağımsız üye SPK süreci yok</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>3. Grup</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Diğer Ulusal Pazar / İkinci Ulusal Pazar / Kurumsal Ürünler Pazarı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Temel düzey — bazı zorunlu ilkeler muaf</td></tr></table><p style='font-size:.8rem;margin-top:6px;opacity:.75'>2024'te 1. grupta 274, 2. grupta 144 ortaklık (2013'te sırasıyla 24 ve 24'tü).</p>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Grup</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Kriter</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Yükümlülük Düzeyi</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>1. Grup</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Piyasa değeri ≥ 3 milyar TL VE dolaşım değeri ≥ 750 milyon TL</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>En kapsamlı — tüm zorunlu ilkeler + SPK (sermaye piyasası kurulu) bağımsız üye süreci</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>2. Grup</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Piyasa değeri ≥ 1 milyar TL VEYA dolaşım değeri ≥ 250 milyon TL</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Orta — zorunlu ilkeler ancak bağımsız üye SPK (sermaye piyasası kurulu) süreci yok</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>3. Grup</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Diğer Ulusal Pazar / İkinci Ulusal Pazar / Kurumsal Ürünler Pazarı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Temel düzey — bazı zorunlu ilkeler muaf</td></tr></table><p style='font-size:.8rem;margin-top:6px;opacity:.75'>2024'te 1. grupta 274, 2. grupta 144 ortaklık (2013'te sırasıyla 24 ve 24'tü).</p>"
         },
         {
           "heading": "Zorunlu vs Gönüllü İlkeler",
-          "content": "<ul><li><strong>Zorunlu ilkeler:</strong> Esas sözleşmeye eklenme zorunluluğu olan; bağımsız üye sayısı ve niteliği, komite yapıları, ilişkili taraf işlemi kuralları, yatırımcı ilişkileri bölümü. 'Uygula'.</li><li><strong>Gönüllü (Comply-or-Explain) ilkeler:</strong> Uygulanmıyorsa faaliyet raporunda gerekçe açıklanır. Birikimli oy, kadın üye oranı hedefi.</li><li><strong>Sürdürülebilirlik ilkeleri:</strong> Tamamen gönüllü — ancak uyum durumu faaliyet raporunda raporlanır.</li><li><div class='hl'>Aykırılık yaptırımları: SPK; şirketi zorunlu genel kurul kararı almaya, esas sözleşme değişikliğine ve gerektiğinde delisting'e kadar zorlayabilir.</div></li></ul>"
+          "content": "<ul><li><strong>Zorunlu ilkeler:</strong> Esas sözleşmeye eklenme zorunluluğu olan; bağımsız üye sayısı ve niteliği, komite yapıları, ilişkili taraf işlemi kuralları, yatırımcı ilişkileri bölümü. 'Uygula'.</li><li><strong>Gönüllü (Comply-or-Explain) ilkeler:</strong> Uygulanmıyorsa faaliyet raporunda gerekçe açıklanır. Birikimli oy, kadın üye oranı hedefi.</li><li><strong>Sürdürülebilirlik ilkeleri:</strong> Tamamen gönüllü — ancak uyum durumu faaliyet raporunda raporlanır.</li><li><div class='hl'>Aykırılık yaptırımları: SPK (sermaye piyasası kurulu); şirketi zorunlu genel kurul kararı almaya, esas sözleşme değişikliğine ve gerektiğinde delisting'e kadar zorlayabilir.</div></li></ul>"
         }
       ]
     },
@@ -36091,12 +36091,12 @@ window.__EXT = {
       "title": "Para Politikası Araçları ve Aktarım",
       "sections": [
         {
-          "heading": "TCMB Para Politikası Araçları",
+          "heading": "TCMB (türkiye cumhuriyet merkez bankası) Para Politikası Araçları",
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Araç</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Daraltıcı</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Genişletici</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Açık piyasa işlemleri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tahvil sat → para arzı ↓</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Tahvil al → para arzı ↑</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Zorunlu karşılık oranı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Oran artışı → çoğaltan ↓</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Oran indirimi → çoğaltan ↑</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Politika faizi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faiz artışı → kredi ↓</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Faiz indirimi → kredi ↑</td></tr></table>"
         },
         {
-          "heading": "Enflasyon Hedeflemesi ve TCMB",
-          "content": "<ul><li><strong>Enflasyon hedeflemesi:</strong> TCMB'nin temel para politikası çerçevesi. Şeffaf, güvenilir ve beklenti çıpası sağlar. Orta vadeli hedef belirlenir.</li><li><strong>Faiz koridoru:</strong> Üst bant (geç likidite penceresi borç verme) ve alt bant (geç likidite penceresi borçlanma) arasındaki aralık. Politika faizi bu koridorun ortasında konumlanır.</li><li><strong>Niceliksel genişleme (QE):</strong> Geleneksel para politikasının yetersiz kaldığı sıfır faiz ortamında merkez bankasının varlık alımı yoluyla para arzını artırması.</li><li><div class='hl'>Para politikasının etkinliği: Keynesyen görüş — para politikası görece etkisiz (likidite tuzağı). Monetarist görüş — para arzı kontrol edilirse enflasyon kontrol edilir.</div></li></ul>"
+          "heading": "Enflasyon Hedeflemesi ve TCMB (türkiye cumhuriyet merkez bankası)",
+          "content": "<ul><li><strong>Enflasyon hedeflemesi:</strong> TCMB (türkiye cumhuriyet merkez bankası)'nin temel para politikası çerçevesi. Şeffaf, güvenilir ve beklenti çıpası sağlar. Orta vadeli hedef belirlenir.</li><li><strong>Faiz koridoru:</strong> Üst bant (geç likidite penceresi borç verme) ve alt bant (geç likidite penceresi borçlanma) arasındaki aralık. Politika faizi bu koridorun ortasında konumlanır.</li><li><strong>Niceliksel genişleme (QE):</strong> Geleneksel para politikasının yetersiz kaldığı sıfır faiz ortamında merkez bankasının varlık alımı yoluyla para arzını artırması.</li><li><div class='hl'>Para politikasının etkinliği: Keynesyen görüş — para politikası görece etkisiz (likidite tuzağı). Monetarist görüş — para arzı kontrol edilirse enflasyon kontrol edilir.</div></li></ul>"
         }
       ]
     },
@@ -36393,7 +36393,7 @@ window.__EXT = {
       "title": "BSYUE ve BSBD Tebliği Karşılaştırması",
       "sections": [
         {
-          "heading": "İki SPK Tebliğinin Karşılaştırması",
+          "heading": "İki SPK (sermaye piyasası kurulu) Tebliğinin Karşılaştırması",
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>BSYUE (VII-128.10)</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>BSBD (III-62.2)</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Konu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>BS yönetim gereklilikleri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>BS bağımsız denetim kuruluşu</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Muhatap</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Halka açık şirketler, aracı kurumlar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>BS bağımsız denetim kuruluşları</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yükümlülük</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Politika, süreç, kontrol oluşturma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yetkilendirme, metodoloji, raporlama</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Denetim konusu</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İşletmenin BS süreçleri</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Genel BS kontrolleri + Uygulama kontrolleri</td></tr></table>"
         },
         {
@@ -36506,7 +36506,7 @@ window.__EXT = {
   "GAYR_MEVZUAT": [
     {
       "num": "01",
-      "title": "SPK Tebliği III-62.3 — Bağımsızlık Kuralları ve Yasaklar Detayı",
+      "title": "SPK (sermaye piyasası kurulu) Tebliği III-62.3 — Bağımsızlık Kuralları ve Yasaklar Detayı",
       "sections": [
         {
           "heading": "Bağımsızlığı Ortadan Kaldıran Durumlar",
@@ -36614,7 +36614,7 @@ window.__EXT = {
         },
         {
           "heading": "Maliyet Yaklaşımı Formülü ve Aşınma Hesabı",
-          "content": "<ul><li><strong>Temel formül:</strong> Mülk Değeri = Arsa Değeri + (Yeniden İnşa/Yenileme Maliyeti − Birikmiş Aşınma)</li><li><strong>Yaş-ömür yöntemi:</strong> Fiziksel Aşınma = Efektif Yaş / Ekonomik Ömür × Yeniden İnşa Maliyeti. Efektif yaş ≠ gerçek yaş (iyi bakım efektif yaşı düşürür).</li><li><strong>Birim maliyet yöntemi:</strong> Yapı Maliyeti = Birim maliyet (TL/m²) × Alan (m²). SPK ve çeşitli kurumlara ait yapı yaklaşık birim maliyet tabloları kullanılır.</li><li><div class='hl'>Arsa değeri hiçbir zaman aşınmaz (yıpranmaz). Yalnızca yapı değeri aşınır. Arsa her zaman ayrıca değerlenir.</div></li></ul>"
+          "content": "<ul><li><strong>Temel formül:</strong> Mülk Değeri = Arsa Değeri + (Yeniden İnşa/Yenileme Maliyeti − Birikmiş Aşınma)</li><li><strong>Yaş-ömür yöntemi:</strong> Fiziksel Aşınma = Efektif Yaş / Ekonomik Ömür × Yeniden İnşa Maliyeti. Efektif yaş ≠ gerçek yaş (iyi bakım efektif yaşı düşürür).</li><li><strong>Birim maliyet yöntemi:</strong> Yapı Maliyeti = Birim maliyet (TL/m²) × Alan (m²). SPK (sermaye piyasası kurulu) ve çeşitli kurumlara ait yapı yaklaşık birim maliyet tabloları kullanılır.</li><li><div class='hl'>Arsa değeri hiçbir zaman aşınmaz (yıpranmaz). Yalnızca yapı değeri aşınır. Arsa her zaman ayrıca değerlenir.</div></li></ul>"
         }
       ]
     },
@@ -36628,7 +36628,7 @@ window.__EXT = {
         },
         {
           "heading": "Birincil ve İkincil Piyasa Araçları Karşılaştırması",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Araç</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Bilanço</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Türkiye</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Banka Konut Kredisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İçinde kalır</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Birincil piyasa temel aracı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>VTMK (Covered Bond)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İçinde kalır (teminat ayrılır)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>SPK düzenlemesi</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>VDMK/İDMK</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>SPV'ye devredilir (çıkar)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Menkul kıymetleştirme</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kira Sertifikası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>VKŞ'ye devredilir</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İslami finans/sukuk</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gayrimenkul Sertifikası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Proje bazlı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Proje finansmanı</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Araç</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Bilanço</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Türkiye</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Banka Konut Kredisi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İçinde kalır</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Birincil piyasa temel aracı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>VTMK (Covered Bond)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İçinde kalır (teminat ayrılır)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>SPK (sermaye piyasası kurulu) düzenlemesi</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>VDMK/İDMK</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>SPV'ye devredilir (çıkar)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Menkul kıymetleştirme</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kira Sertifikası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>VKŞ'ye devredilir</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>İslami finans/sukuk</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Gayrimenkul Sertifikası</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Proje bazlı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Proje finansmanı</td></tr></table>"
         }
       ]
     },
@@ -36765,12 +36765,12 @@ window.__EXT = {
       "title": "Bağımsız Denetim Düzenlemeleri",
       "sections": [
         {
-          "heading": "Bağımsız Denetim Yönetmeliği ve SPK Tebliği",
-          "content": "<ul><li><strong>Bağımsızlık engelleri:</strong> Denetlenen şirkete ortak olmak, son 3 yıl içinde çalışmak, muhasebe/danışmanlık hizmeti vermek, ailevi bağ. Hem denetçi hem denetim firması için geçerli.</li><li><strong>Görev süresi sınırı (rotasyon):</strong> Kilit denetim ortağı aynı müşteride en fazla 7 yıl görev yapabilir; sonradan 2 yıl bekleme. Denetim firması rotasyonu: bazı kamu yararı kuruluşlarında 10 yıl.</li><li><strong>Denetim komitesi:</strong> SPK'ya tabi halka açık şirketlerde YK bünyesinde zorunlu. Bağımsız denetçiyi seçer ve çalışmalarını izler.</li></ul>"
+          "heading": "Bağımsız Denetim Yönetmeliği ve SPK (sermaye piyasası kurulu) Tebliği",
+          "content": "<ul><li><strong>Bağımsızlık engelleri:</strong> Denetlenen şirkete ortak olmak, son 3 yıl içinde çalışmak, muhasebe/danışmanlık hizmeti vermek, ailevi bağ. Hem denetçi hem denetim firması için geçerli.</li><li><strong>Görev süresi sınırı (rotasyon):</strong> Kilit denetim ortağı aynı müşteride en fazla 7 yıl görev yapabilir; sonradan 2 yıl bekleme. Denetim firması rotasyonu: bazı kamu yararı kuruluşlarında 10 yıl.</li><li><strong>Denetim komitesi:</strong> SPK (sermaye piyasası kurulu)'ya tabi halka açık şirketlerde YK bünyesinde zorunlu. Bağımsız denetçiyi seçer ve çalışmalarını izler.</li></ul>"
         },
         {
           "heading": "Önemlilik (Materiality)",
-          "content": "<ul><li><strong>Tanım:</strong> Bir bilginin ihmal edilmesi veya yanlış beyan edilmesinin, finansal tablo kullanıcısının kararını etkileyip etkilemeyeceğinin yargısal değerlendirmesi.</li><li><strong>Önemlilik eşiği belirleme:</strong> Genellikle brüt kârın veya toplam varlıkların belirli bir yüzdesi esas alınır (sektöre göre %0,5-%5 arasında). Denetçi takdiri geniş.</li><li><strong>Performans önemliliği:</strong> Tespit edilmemiş önemsiz hataların toplamının önemlilik eşiğini aşmaması için genel önemlilik eşiğinin altında belirlenir (%50-75 oranında).</li><li><strong>SPK Seri X No:22 Tebliği:</strong> Sermaye piyasasında bağımsız denetçilerin nitelikleri, seçilme engelleri ve bağımsızlık kurallarını düzenler. KGK ile uyumlu.</li></ul>"
+          "content": "<ul><li><strong>Tanım:</strong> Bir bilginin ihmal edilmesi veya yanlış beyan edilmesinin, finansal tablo kullanıcısının kararını etkileyip etkilemeyeceğinin yargısal değerlendirmesi.</li><li><strong>Önemlilik eşiği belirleme:</strong> Genellikle brüt kârın veya toplam varlıkların belirli bir yüzdesi esas alınır (sektöre göre %0,5-%5 arasında). Denetçi takdiri geniş.</li><li><strong>Performans önemliliği:</strong> Tespit edilmemiş önemsiz hataların toplamının önemlilik eşiğini aşmaması için genel önemlilik eşiğinin altında belirlenir (%50-75 oranında).</li><li><strong>SPK (sermaye piyasası kurulu) Seri X No:22 Tebliği:</strong> Sermaye piyasasında bağımsız denetçilerin nitelikleri, seçilme engelleri ve bağımsızlık kurallarını düzenler. KGK ile uyumlu.</li></ul>"
         }
       ]
     }
@@ -36906,14 +36906,14 @@ window.__EXT = {
   "GENISMEV": [
     {
       "num": "01",
-      "title": "SPKn — Temel Kavramlar ve Yapı",
+      "title": "SPK (sermaye piyasası kurulu)n — Temel Kavramlar ve Yapı",
       "sections": [
         {
           "heading": "Sermaye Piyasası Araçları Sınıflandırması",
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Tür</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Alt Türler</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Not</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Menkul kıymetler</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Paylar, borçlanma araçları, diğer</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Para/çek/poliçe/bono hariç</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Türev araçlar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Vadeli işlem, opsiyon</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Dayanak: SP aracı, döviz, faiz, emtia</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Diğer araçlar</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kurul'ca belirlenenler</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kripto varlıklar dahil</td></tr></table>"
         },
         {
-          "heading": "SPKn Suç ve Ceza Tablosu",
+          "heading": "SPK (sermaye piyasası kurulu)n Suç ve Ceza Tablosu",
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Suç</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Madde</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Hapis</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Para Cezası</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>İçsel bilgi kullanımı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>md.106</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>2–5 yıl</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Menfaat 3 katı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Piyasa dolandırıcılığı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>md.107</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>3–5 yıl</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Menfaat 3 katı</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>İzinsiz faaliyet</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>md.108</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>2–5 yıl</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Adli para</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Uygunsuz tavsiye</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>md.109</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>1–3 yıl</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Adli para</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Kripto varlık zimmet</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>md.110/A</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>6–12 yıl</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Zarar 3 katı</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Defter usulsüzlüğü</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>md.112</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>6 ay–2 yıl</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Adli para</td></tr></table><div class='hl'>İdari para cezası (md.103): 20.000–250.000 TL. Menfaat temin edilmişse 2 katından az olamaz. Tekrarda 2 kat artırım.</div>"
         },
         {
@@ -37080,15 +37080,15 @@ window.__EXT = {
     },
     {
       "num": "05",
-      "title": "Tezgahüstü Piyasalar ve TCMB Piyasaları",
+      "title": "Tezgahüstü Piyasalar ve TCMB (türkiye cumhuriyet merkez bankası) Piyasaları",
       "sections": [
         {
           "heading": "OTC ve Organize Piyasa Karşılaştırması",
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Özellik</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Organize Piyasa</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Tezgahüstü (OTC)</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Merkezi yapı</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Var</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yok</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Standartlaşma</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yüksek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Düşük / esnek</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>Takas güvencesi</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>MKT (Takasbank)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Karşı taraf riski mevcut</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>Şeffaflık</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Yüksek</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Düşük</td></tr></table>"
         },
         {
-          "heading": "TCMB Para Politikası Araçları",
-          "content": "<ul><li><strong>Açık Piyasa İşlemleri (APİ):</strong> Repo (geçici likidite verme), ters repo (geçici likidite çekme), doğrudan alım (kalıcı likidite), doğrudan satım (kalıcı çekme), likidite senedi (kendisi ihraç ederek çekme).</li><li><strong>Faiz koridoru:</strong> Politika faizi, üst bant (borç verme faizi), alt bant (borç alma faizi). Geç likidite penceresi (LON): gün sonu son kaynak.</li><li><strong>Zorunlu karşılıklar:</strong> Bankaların TCMB nezdinde tutması gereken rezerv. Orana göre farklı varlıklar teminat olabilir. Faiz/nema ödenebilir.</li><li><strong>Rezerv Opsiyon Mekanizması (ROM):</strong> Bankalar TL zorunlu karşılıklarının bir kısmını döviz veya altın olarak tutabilir.</li></ul>"
+          "heading": "TCMB (türkiye cumhuriyet merkez bankası) Para Politikası Araçları",
+          "content": "<ul><li><strong>Açık Piyasa İşlemleri (APİ):</strong> Repo (geçici likidite verme), ters repo (geçici likidite çekme), doğrudan alım (kalıcı likidite), doğrudan satım (kalıcı çekme), likidite senedi (kendisi ihraç ederek çekme).</li><li><strong>Faiz koridoru:</strong> Politika faizi, üst bant (borç verme faizi), alt bant (borç alma faizi). Geç likidite penceresi (LON): gün sonu son kaynak.</li><li><strong>Zorunlu karşılıklar:</strong> Bankaların TCMB (türkiye cumhuriyet merkez bankası) nezdinde tutması gereken rezerv. Orana göre farklı varlıklar teminat olabilir. Faiz/nema ödenebilir.</li><li><strong>Rezerv Opsiyon Mekanizması (ROM):</strong> Bankalar TL zorunlu karşılıklarının bir kısmını döviz veya altın olarak tutabilir.</li></ul>"
         }
       ]
     },
@@ -37116,7 +37116,7 @@ window.__EXT = {
         },
         {
           "heading": "TEFAS Temerrüt ve Komisyon",
-          "content": "<ul><li><strong>Temerrüt faizi:</strong> TCMB geç likidite penceresi (LON) borç verme faiz oranı + ek faiz. Temerrüt eden üyenin teminatlarına ve garanti fonuna başvurulur.</li><li><strong>Üyelik giriş ücreti:</strong> Her fon için bir kerelik; işlem komisyonu ayrıca alınır.</li></ul>"
+          "content": "<ul><li><strong>Temerrüt faizi:</strong> TCMB (türkiye cumhuriyet merkez bankası) geç likidite penceresi (LON) borç verme faiz oranı + ek faiz. Temerrüt eden üyenin teminatlarına ve garanti fonuna başvurulur.</li><li><strong>Üyelik giriş ücreti:</strong> Her fon için bir kerelik; işlem komisyonu ayrıca alınır.</li></ul>"
         }
       ]
     },
@@ -37126,7 +37126,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "BEFAS Yapısı ve İşleyişi",
-          "content": "<ul><li><strong>Platform amacı:</strong> Bireysel Emeklilik Sistemi'nde farklı emeklilik şirketlerinin yönetimindeki fonlara tek platformdan erişim; şirket değişikliğinde fon aktarımı kolaylığı.</li><li><strong>Üyelik:</strong> Emeklilik branşında faaliyet gösteren tüm şirketler için bağlayıcı. SEDDK düzenlemelerine tabidir.</li><li><strong>İleri valörlü işlemler:</strong> Alım/satım talimatları valör tarihine kadar sistemde bekletilir; valör tarihinde işleme alınır.</li><li><strong>BEFAS vs TEFAS:</strong> TEFAS bireysel yatırım fonları (PYŞ); BEFAS emeklilik yatırım fonları. BEFAS'ta emeklilik şirketi bazlı sınırlama mevcuttur.</li></ul>"
+          "content": "<ul><li><strong>Platform amacı:</strong> Bireysel Emeklilik Sistemi'nde farklı emeklilik şirketlerinin yönetimindeki fonlara tek platformdan erişim; şirket değişikliğinde fon aktarımı kolaylığı.</li><li><strong>Üyelik:</strong> Emeklilik branşında faaliyet gösteren tüm şirketler için bağlayıcı. SEDD (güçlendirilmiş durum tespiti)K düzenlemelerine tabidir.</li><li><strong>İleri valörlü işlemler:</strong> Alım/satım talimatları valör tarihine kadar sistemde bekletilir; valör tarihinde işleme alınır.</li><li><strong>BEFAS vs TEFAS:</strong> TEFAS bireysel yatırım fonları (PYŞ); BEFAS emeklilik yatırım fonları. BEFAS'ta emeklilik şirketi bazlı sınırlama mevcuttur.</li></ul>"
         },
         {
           "heading": "İşlem Saatleri ve Takas",
@@ -37216,11 +37216,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Depo Sertifikası Türleri",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Tür</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Piyasa</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Not</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>ADR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ABD piyasaları</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>SEC kaydı; USD cinsinden</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>EDR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Avrupa piyasaları</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>EUR cinsinden</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>GDR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Uluslararası çok piyasa</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Luxemburg, Londra vb.</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TDR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Türkiye (BİST)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>TL veya döviz; SPK kaydı zorunlu</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.83rem'><tr style='background:var(--bg3)'><th style='padding:7px 10px;border:1px solid var(--bdr)'>Tür</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Piyasa</th><th style='padding:7px 10px;border:1px solid var(--bdr)'>Not</th></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>ADR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>ABD piyasaları</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>SEC kaydı; USD cinsinden</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>EDR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Avrupa piyasaları</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>EUR cinsinden</td></tr><tr><td style='padding:7px 10px;border:1px solid var(--bdr)'>GDR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Uluslararası çok piyasa</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Luxemburg, Londra vb.</td></tr><tr style='background:var(--bg3)'><td style='padding:7px 10px;border:1px solid var(--bdr)'>TDR</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>Türkiye (BİST)</td><td style='padding:7px 10px;border:1px solid var(--bdr)'>TL veya döviz; SPK (sermaye piyasası kurulu) kaydı zorunlu</td></tr></table>"
         },
         {
           "heading": "Yabancı Yatırım Fonu Payları ve Kotasyon",
-          "content": "<ul><li><strong>Yabancı fon paylarının Türkiye'de satışı:</strong> SPK'ya kayıt veya tescil zorunlu; yurt dışındaki düzenleyici onayı şartı.</li><li><strong>Yabancı sermaye piyasası araçlarının Türkiye'de kotasyonu:</strong> İzahname veya özet izahname zorunlu; borsaya başvuru; sürekli kamuyu aydınlatma.</li><li><strong>Yatırımcı hakları:</strong> TDR sahibi, temsil edilen menkul kıymetin haklarına (temettü, oy vb.) sahiptir. Ancak oy hakkı kullanımı saklama kuruluşu aracılığıyla gerçekleşir.</li><li><strong>Saklama kuruluşu:</strong> Yabancı araçların yurt dışındaki kayıtlı saklama kurumunda tutulması; TDR ihraçcısı bu kurumla sözleşme yapar.</li></ul>"
+          "content": "<ul><li><strong>Yabancı fon paylarının Türkiye'de satışı:</strong> SPK (sermaye piyasası kurulu)'ya kayıt veya tescil zorunlu; yurt dışındaki düzenleyici onayı şartı.</li><li><strong>Yabancı sermaye piyasası araçlarının Türkiye'de kotasyonu:</strong> İzahname veya özet izahname zorunlu; borsaya başvuru; sürekli kamuyu aydınlatma.</li><li><strong>Yatırımcı hakları:</strong> TDR sahibi, temsil edilen menkul kıymetin haklarına (temettü, oy vb.) sahiptir. Ancak oy hakkı kullanımı saklama kuruluşu aracılığıyla gerçekleşir.</li><li><strong>Saklama kuruluşu:</strong> Yabancı araçların yurt dışındaki kayıtlı saklama kurumunda tutulması; TDR ihraçcısı bu kurumla sözleşme yapar.</li></ul>"
         }
       ]
     },
@@ -37322,7 +37322,7 @@ window.__EXT = {
         },
         {
           "heading": "Müşteri Şikâyetleri ve Yükümlülükler",
-          "content": "<ul><li>Müşteri şikâyetleri kayıt altına alınmalı ve sistematik biçimde takip edilmeli.</li><li>Şikâyetlere en geç 60 gün içinde yazılı yanıt verilmeli.</li><li>Şikâyet kayıtları SPK denetimine her zaman açık tutulmalı.</li><li>İzinsiz sermaye piyasası faaliyetlerini tespit eden aracı kurumlar bu durumu SPK'ya bildirmekle yükümlü.</li><li>Ortaklık yapısı değişikliklerinde SPK'ya bildirim; tescil ve ilan yükümlülükleri mevcut.</li></ul>"
+          "content": "<ul><li>Müşteri şikâyetleri kayıt altına alınmalı ve sistematik biçimde takip edilmeli.</li><li>Şikâyetlere en geç 60 gün içinde yazılı yanıt verilmeli.</li><li>Şikâyet kayıtları SPK (sermaye piyasası kurulu) denetimine her zaman açık tutulmalı.</li><li>İzinsiz sermaye piyasası faaliyetlerini tespit eden aracı kurumlar bu durumu SPK (sermaye piyasası kurulu)'ya bildirmekle yükümlü.</li><li>Ortaklık yapısı değişikliklerinde SPK (sermaye piyasası kurulu)'ya bildirim; tescil ve ilan yükümlülükleri mevcut.</li></ul>"
         }
       ]
     },
@@ -37399,32 +37399,32 @@ window.__EXT = {
       ]
     }
   ],
-  "UY_MASAK": [
+  "UY_MASAK (mali suçları araştırma kurulu)": [
     {
       "num": "01",
-      "title": "MASAK'ın Kuruluşu ve Hukuki Statüsü",
+      "title": "MASAK (mali suçları araştırma kurulu)'ın Kuruluşu ve Hukuki Statüsü",
       "sections": [
         {
           "heading": "4208 ve 5549 Sayılı Kanunların Karşılaştırması",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.85rem'><tr style='background:var(--bg2)'><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Kriter</th><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>4208 sayılı Kanun (1996)</th><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>5549 sayılı Kanun (2006)</th></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Temel kavram</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Karapara</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Suç geliri</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Öncül suç koşulu</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Sayılı suç listesi</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Her türlü suçtan elde edilen gelir</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>MASAK statüsü</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ayrı kurul</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ana hizmet birimi</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Güncel dayanak</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Yürürlükten kalktı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Yürürlükte (1 sayılı CK md.231 ile)</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.85rem'><tr style='background:var(--bg2)'><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Kriter</th><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>4208 sayılı Kanun (1996)</th><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>5549 sayılı Kanun (2006)</th></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Temel kavram</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Karapara</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Suç geliri</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Öncül suç koşulu</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Sayılı suç listesi</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Her türlü suçtan elde edilen gelir</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>MASAK (mali suçları araştırma kurulu) statüsü</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ayrı kurul</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ana hizmet birimi</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Güncel dayanak</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Yürürlükten kalktı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Yürürlükte (1 sayılı CK md.231 ile)</td></tr></table>"
         },
         {
           "heading": "İdari Tip MİB'in Özellikleri",
-          "content": "<ul><li><strong>Bağımsızlık:</strong> Emniyet/jandarma veya yargı bünyesinde değildir; bağımsız idari birim olarak çalışır.</li><li><strong>Görev sınırı:</strong> Finansal analiz ve istihbarat üretimine odaklanır; soruşturma ya da kovuşturma yetkisi yoktur.</li><li><strong>Veri kaynakları:</strong> ŞİB'ler, yükümlü bildirimleri, diğer kamu kurumları ve uluslararası MİB'ler.</li><li><strong>Çıktı:</strong> İstihbarat raporu → Cumhuriyet savcılığına veya kolluk birimlerine iletilir.</li><li><strong>FATF Tavsiye 29:</strong> Her ülke operasyonel bağımsızlığı olan bir MİB kurmalıdır.</li></ul>"
+          "content": "<ul><li><strong>Bağımsızlık:</strong> Emniyet/jandarma veya yargı bünyesinde değildir; bağımsız idari birim olarak çalışır.</li><li><strong>Görev sınırı:</strong> Finansal analiz ve istihbarat üretimine odaklanır; soruşturma ya da kovuşturma yetkisi yoktur.</li><li><strong>Veri kaynakları:</strong> ŞİB (şüpheli işlem bildirimi)'ler, yükümlü bildirimleri, diğer kamu kurumları ve uluslararası MİB'ler.</li><li><strong>Çıktı:</strong> İstihbarat raporu → Cumhuriyet savcılığına veya kolluk birimlerine iletilir.</li><li><strong>FATF (finansal eylem görev gücü) Tavsiye 29:</strong> Her ülke operasyonel bağımsızlığı olan bir MİB kurmalıdır.</li></ul>"
         }
       ]
     },
     {
       "num": "02",
-      "title": "MASAK'ın Görev ve Yetki Kataloğu",
+      "title": "MASAK (mali suçları araştırma kurulu)'ın Görev ve Yetki Kataloğu",
       "sections": [
         {
           "heading": "1 Sayılı Cumhurbaşkanlığı Kararnamesi md.231 — Tam Liste",
-          "content": "<ol><li>Politika belgelerinin hazırlanması ve koordinasyon.</li><li>ŞİB'lerin alınması, analizi, kaydı; mali istihbarat üretimi.</li><li>Yükümlülük denetimleri.</li><li>Ciddi şüphe varsa Cumhuriyet savcılığına suç duyurusu.</li><li>Uluslararası kuruluşlarla iş birliği ve mutabakat muhtırası imzalanması.</li><li>Ulusal Risk Değerlendirmesi çalışmalarına koordinatörlük.</li><li>Yaptırım listelerinin yönetimi ve dondurma kararlarının izlenmesi.</li></ol>"
+          "content": "<ol><li>Politika belgelerinin hazırlanması ve koordinasyon.</li><li>ŞİB (şüpheli işlem bildirimi)'lerin alınması, analizi, kaydı; mali istihbarat üretimi.</li><li>Yükümlülük denetimleri.</li><li>Ciddi şüphe varsa Cumhuriyet savcılığına suç duyurusu.</li><li>Uluslararası kuruluşlarla iş birliği ve mutabakat muhtırası imzalanması.</li><li>Ulusal Risk Değerlendirmesi çalışmalarına koordinatörlük.</li><li>Yaptırım listelerinin yönetimi ve dondurma kararlarının izlenmesi.</li></ol>"
         },
         {
           "heading": "Mutabakat Muhtırası Prosedürü",
-          "content": "<ul><li>MASAK Başkanı imzalar → Cumhurbaşkanlığına sunulur → Cumhurbaşkanı kararıyla yürürlüğe girer.</li><li>Muhtıra, EGMONT veya FATF ağındaki yabancı MİB'lerle bilgi paylaşım çerçevesini belirler.</li><li>Gizlilik ilkesi: paylaşılan bilgiler üçüncü taraflarla aktarılamaz.</li></ul>"
+          "content": "<ul><li>MASAK (mali suçları araştırma kurulu) Başkanı imzalar → Cumhurbaşkanlığına sunulur → Cumhurbaşkanı kararıyla yürürlüğe girer.</li><li>Muhtıra, EGMONT veya FATF (finansal eylem görev gücü) ağındaki yabancı MİB'lerle bilgi paylaşım çerçevesini belirler.</li><li>Gizlilik ilkesi: paylaşılan bilgiler üçüncü taraflarla aktarılamaz.</li></ul>"
         }
       ]
     },
@@ -37434,7 +37434,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Üye Listesi ve Toplantı Takvimi",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.85rem'><tr style='background:var(--bg2)'><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Üye Kurumu</th><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Temsil Düzeyi</th></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Hazine ve Maliye Bakanlığı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Bakan Yardımcısı <em>(Başkan)</em></td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>MASAK</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Başkan</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>MİT</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Başkan Yardımcısı</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Vergi Denetim Kurulu</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Başkan</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>BDDK</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Başkan Yardımcısı</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Emniyet Genel Müdürlüğü</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Genel Müdür Yardımcısı</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Adalet Bakanlığı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ceza İşleri Genel Müdürü</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Dışişleri Bakanlığı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Araştırma ve Güvenlik İşleri GM</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ticaret Bakanlığı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Gümrükler Muhafaza Genel Müdürü</td></tr></table><br><ul><li>Olağan: <strong>Yılda en az 2 kez</strong>, Nisan ve Eylül.</li><li>Yeter sayı: Üye sayısının yarısından bir fazlası.</li><li>Karar: Katılanların çoğunluğuyla; çekimser oy yok; eşitlikte başkan 2 oy.</li></ul>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.85rem'><tr style='background:var(--bg2)'><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Üye Kurumu</th><th style='padding:6px 10px;text-align:left;border:1px solid var(--bdr)'>Temsil Düzeyi</th></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Hazine ve Maliye Bakanlığı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Bakan Yardımcısı <em>(Başkan)</em></td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>MASAK (mali suçları araştırma kurulu)</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Başkan</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>MİT</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Başkan Yardımcısı</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Vergi Denetim Kurulu</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Başkan</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>BDDK (bankacılık düzenleme ve denetleme kurumu)</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Başkan Yardımcısı</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Emniyet Genel Müdürlüğü</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Genel Müdür Yardımcısı</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Adalet Bakanlığı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ceza İşleri Genel Müdürü</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Dışişleri Bakanlığı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Araştırma ve Güvenlik İşleri GM</td></tr><tr><td style='padding:6px 10px;border:1px solid var(--bdr)'>Ticaret Bakanlığı</td><td style='padding:6px 10px;border:1px solid var(--bdr)'>Gümrükler Muhafaza Genel Müdürü</td></tr></table><br><ul><li>Olağan: <strong>Yılda en az 2 kez</strong>, Nisan ve Eylül.</li><li>Yeter sayı: Üye sayısının yarısından bir fazlası.</li><li>Karar: Katılanların çoğunluğuyla; çekimser oy yok; eşitlikte başkan 2 oy.</li></ul>"
         }
       ]
     }
@@ -37442,15 +37442,15 @@ window.__EXT = {
   "UY_INTL": [
     {
       "num": "01",
-      "title": "FATF — Tarihçe, Yapı ve Değerlendirme Süreci",
+      "title": "FATF (finansal eylem görev gücü) — Tarihçe, Yapı ve Değerlendirme Süreci",
       "sections": [
         {
-          "heading": "FATF'ın Kuruluşu ve Evrimi",
-          "content": "<ul><li>1989: G7 Paris zirvesinde uyuşturucu gelirlerinin aklanmasını durdurmak amacıyla kuruldu.</li><li>1990: İlk 40 Tavsiye yayımlandı (o dönem sadece uyuşturucu odaklı).</li><li>1996: Tavsiyeler gözden geçirildi — kapsamı genişletildi.</li><li>2001: 11 Eylül sonrası 9 Özel Tavsiye (TF) eklendi.</li><li>2012: Kapsamlı revizyon — KİSYF dahil edildi; 40 Tavsiye konsolide hale getirildi.</li><li>2019'dan itibaren kripto varlıklar için ek rehberlik.</li></ul>"
+          "heading": "FATF (finansal eylem görev gücü)'ın Kuruluşu ve Evrimi",
+          "content": "<ul><li>1989: G7 Paris zirvesinde uyuşturucu gelirlerinin aklanmasını durdurmak amacıyla kuruldu.</li><li>1990: İlk 40 Tavsiye yayımlandı (o dönem sadece uyuşturucu odaklı).</li><li>1996: Tavsiyeler gözden geçirildi — kapsamı genişletildi.</li><li>2001: 11 Eylül sonrası 9 Özel Tavsiye (TF) eklendi.</li><li>2012: Kapsamlı revizyon — KİSYF (kitle imha silahlarının yayılmasının finansmanı) dahil edildi; 40 Tavsiye konsolide hale getirildi.</li><li>2019'dan itibaren kripto varlıklar için ek rehberlik.</li></ul>"
         },
         {
           "heading": "Tavsiye Numaraları — Sınav Odaklı Özet",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>No</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Konu</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.1</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Risk Temelli Yaklaşım</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.3</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kara para aklama suçu</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.4</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Müsadere ve geçici tedbirler</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.5</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>TF suçu</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.6</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>TF hedeflenen mali yaptırımlar</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.7</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİSYF hedeflenen mali yaptırımlar</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.10</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Müşterinin tanınması (KYC/CDD)</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.20</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Şüpheli işlem bildirimi (ŞİB)</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.26</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Finansal kuruluşların düzenlenmesi/denetlenmesi</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.28</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>FOBİM'lerin düzenlenmesi/denetlenmesi</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.29</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Mali istihbarat birimleri (MİB)</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.40</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>MİB'ler arası uluslararası iş birliği</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>No</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Konu</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.1</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Risk Temelli Yaklaşım</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.3</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kara para aklama suçu</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.4</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Müsadere ve geçici tedbirler</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.5</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>TF suçu</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.6</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>TF hedeflenen mali yaptırımlar</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.7</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİSYF (kitle imha silahlarının yayılmasının finansmanı) hedeflenen mali yaptırımlar</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.10</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Müşterinin tanınması (KYC (müşteri tanıma)/CDD (müşteri durum tespiti))</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.20</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Şüpheli işlem bildirimi (ŞİB (şüpheli işlem bildirimi))</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.26</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Finansal kuruluşların düzenlenmesi/denetlenmesi</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.28</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>FOBİM (finansal olmayan belirlenmiş işletme ve meslek)'lerin düzenlenmesi/denetlenmesi</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.29</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Mali istihbarat birimleri (MİB)</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.40</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>MİB'ler arası uluslararası iş birliği</td></tr></table>"
         }
       ]
     },
@@ -37463,7 +37463,7 @@ window.__EXT = {
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kriter</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>1267 Rejimi</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>1373 Rejimi</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Liste türü</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>BMGK Komitesi listesi (merkezi)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Her ülke kendi listesini oluşturur</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Hedef</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Taliban, El Kaide, IŞİD bağlantılılar</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Her türlü terörizmle bağlantılı kişi/kuruluş</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Tedbirler</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Dondurma + seyahat yasağı + silah ambargosu</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Dondurma + TF'yi suç sayma</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Türkiye'deki uygulama</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>6415 sayılı Kanun md.6</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>6415 sayılı Kanun md.7</td></tr></table>"
         },
         {
-          "heading": "KİSYF Kapsamındaki BMGK Kararları",
+          "heading": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Kapsamındaki BMGK Kararları",
           "content": "<ul><li><strong>1718 (2006) — Kuzey Kore:</strong> Nükleer, KİS ve balistik füze programına katılanlar; kapsamlı silah ambargosu; listeye alınan kişilerin malvarlıkları dondurulur.</li><li><strong>1737 (2006) — İran:</strong> Uranyum zenginleştirme ve ağır su durdurma; ilgili kişilerin malvarlıkları dondurulur.</li><li><strong>1747 (2007) — İran:</strong> Silah satış yasağı + balistik füze programı.</li><li><strong>1929 (2010) — İran:</strong> Nükleer madencilik ve malvarlığı kısıtları.</li><li><strong>2231 (2015) — JCPOA (KOEP):</strong> İran müzakeresi çerçevesinde bazı yaptırımlar yumuşatıldı.</li></ul>"
         }
       ]
@@ -37476,7 +37476,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "URD Metodolojisi ve Süreci",
-          "content": "<ul><li>FATF Ulusal Risk Değerlendirmesi Rehberi temel alınır.</li><li>Tehdit analizi: suç türlerine göre kaynaklanan aklama/TF riski.</li><li>Açıklık analizi: yükümlü sektörlerin zayıf noktaları.</li><li>Risk matrisi: Tehdit × Açıklık → Sektörel risk skoru.</li><li>Bulgular ülke içinde kamuoyuyla paylaşılır; detaylar gizli kalır.</li></ul>"
+          "content": "<ul><li>FATF (finansal eylem görev gücü) Ulusal Risk Değerlendirmesi Rehberi temel alınır.</li><li>Tehdit analizi: suç türlerine göre kaynaklanan aklama/TF riski.</li><li>Açıklık analizi: yükümlü sektörlerin zayıf noktaları.</li><li>Risk matrisi: Tehdit × Açıklık → Sektörel risk skoru.</li><li>Bulgular ülke içinde kamuoyuyla paylaşılır; detaylar gizli kalır.</li></ul>"
         },
         {
           "heading": "En Riskli 10 Öncül Suç Kategorisi",
@@ -37486,15 +37486,15 @@ window.__EXT = {
     },
     {
       "num": "02",
-      "title": "KİSYF URD ve Strateji Belgeleri",
+      "title": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) URD ve Strateji Belgeleri",
       "sections": [
         {
-          "heading": "KİSYF URD'nin Kapsamı",
-          "content": "<ul><li>KİSYF URD, nükleer, biyolojik, kimyasal ve radyolojik (KBRN) silah programlarına finansman sağlanması riskini değerlendirir.</li><li>Sektörel risk: İkili kullanım ürünleri ticareti, finans sektörü, gümrük boşlukları.</li><li>Yaptırım uyumsuzluk riski: Kuzey Kore ve İran ile ilgili BMGK yaptırım listelerinin ihlali.</li><li>2025'te özeti kamuoyuyla paylaşılan KİSYF URD; MASAK koordinasyonunda hazırlandı.</li></ul>"
+          "heading": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) URD'nin Kapsamı",
+          "content": "<ul><li>KİSYF (kitle imha silahlarının yayılmasının finansmanı) URD, nükleer, biyolojik, kimyasal ve radyolojik (KBRN) silah programlarına finansman sağlanması riskini değerlendirir.</li><li>Sektörel risk: İkili kullanım ürünleri ticareti, finans sektörü, gümrük boşlukları.</li><li>Yaptırım uyumsuzluk riski: Kuzey Kore ve İran ile ilgili BMGK yaptırım listelerinin ihlali.</li><li>2025'te özeti kamuoyuyla paylaşılan KİSYF (kitle imha silahlarının yayılmasının finansmanı) URD; MASAK (mali suçları araştırma kurulu) koordinasyonunda hazırlandı.</li></ul>"
         },
         {
           "heading": "Strateji Belgelerinin Yapısı",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Belge</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Dönem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Odak</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>SGA/TF Strateji</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>2021–2025</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Aklama ve TF önleme; 5 stratejik amaç</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİSYF Strateji</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>2025–2029</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİSYF önleme; 5 yıllık eylem planı</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Belge</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Dönem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Odak</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>SGA/TF Strateji</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>2021–2025</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Aklama ve TF önleme; 5 stratejik amaç</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİSYF (kitle imha silahlarının yayılmasının finansmanı) Strateji</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>2025–2029</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİSYF (kitle imha silahlarının yayılmasının finansmanı) önleme; 5 yıllık eylem planı</td></tr></table>"
         }
       ]
     }
@@ -37523,7 +37523,7 @@ window.__EXT = {
           "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Durum</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Ceza</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Temel suç (TCK md.282)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>3–7 yıl hapis + adli para cezası</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kamu görevlisi / meslek sahibi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Artırım (1/2 oranında)</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Suç örgütü kapsamında</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Artırım</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>TF suçu (6415 sayılı Kanun)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>5–10 yıl hapis</td></tr></table>"
         },
         {
-          "heading": "Müsadere Türleri (FATF R.4)",
+          "heading": "Müsadere Türleri (FATF (finansal eylem görev gücü) R.4)",
           "content": "<ul><li><strong>Mahkûmiyete dayalı müsadere:</strong> Ceza mahkûmiyeti sonrasında suç geliri veya araçlarına el konulur.</li><li><strong>Mahkûmiyete dayanmayan müsadere (NCB):</strong> Sanığın cezai mahkûmiyeti olmaksızın, suç gelirine ilişkin mal varlığının müsaderesi; daha güçlü bir araçtır.</li><li><strong>Geçici tedbirler:</strong> Yargılama süresince el koyma ve dondurma kararları — CMK md.128 vd.</li></ul>"
         }
       ]
@@ -37536,7 +37536,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "AML ile TF Suçunun Karşılaştırması",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kriter</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Aklama (TCK 282)</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>TF (6415)</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Fon kaynağı</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Yasadışı (öncül suç)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Yasal veya yasadışı</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Temel unsur</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kaynağı gizleme</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Terör amacıyla kullanım</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Ceza</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>3–7 yıl hapis</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>5–10 yıl hapis</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Öncül suç koşulu</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gerekli</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gerekmez</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>FATF Tavsiyesi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.3</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.5</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kriter</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Aklama (TCK 282)</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>TF (6415)</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Fon kaynağı</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Yasadışı (öncül suç)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Yasal veya yasadışı</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Temel unsur</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kaynağı gizleme</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Terör amacıyla kullanım</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Ceza</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>3–7 yıl hapis</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>5–10 yıl hapis</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Öncül suç koşulu</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gerekli</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gerekmez</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>FATF (finansal eylem görev gücü) Tavsiyesi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.3</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>R.5</td></tr></table>"
         }
       ]
     },
@@ -37546,7 +37546,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Dondurma Yöntemleri Karşılaştırması",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Yöntem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Prosedür</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Süre</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>BMGK kararları</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Otomatik; haber vermeksizin</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gecikmeksizin</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Yabancı devlet talebi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Mütekabiliyet + Komisyon değerlendirmesi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>—</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>İç dondurma</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Komisyon → 2 Bakan → Ankara AGC Mahkemesi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>—</td></tr></table><br><ul><li>Bildirim: Dondurmadan itibaren <strong>7 gün</strong> içinde MASAK'a.</li><li>İtiraz: Ankara İdare Mahkemesi'ne başvuru hakkı vardır.</li></ul>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Yöntem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Prosedür</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Süre</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>BMGK kararları</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Otomatik; haber vermeksizin</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gecikmeksizin</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Yabancı devlet talebi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Mütekabiliyet + Komisyon değerlendirmesi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>—</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>İç dondurma</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Komisyon → 2 Bakan → Ankara AGC Mahkemesi</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>—</td></tr></table><br><ul><li>Bildirim: Dondurmadan itibaren <strong>7 gün</strong> içinde MASAK (mali suçları araştırma kurulu)'a.</li><li>İtiraz: Ankara İdare Mahkemesi'ne başvuru hakkı vardır.</li></ul>"
         }
       ]
     }
@@ -37554,14 +37554,14 @@ window.__EXT = {
   "UY_KIS": [
     {
       "num": "01",
-      "title": "KİSYF Rejimi — Kapsamlı Analiz",
+      "title": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Rejimi — Kapsamlı Analiz",
       "sections": [
         {
-          "heading": "FATF R.6 ve R.7 Karşılaştırması",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kriter</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>R.6 — TF Yaptırımları</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>R.7 — KİSYF Yaptırımları</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Liste</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>BMGK 1267/1373 + iç liste</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>BMGK 1718 (K.Kore) + 1737 (İran)</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Dondurma</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gecikmeksizin</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gecikmeksizin</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kapsam</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Terör finansmanı</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİS programı finansmanı</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Türkiye dayanağı</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>6415 sayılı Kanun md.6</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>6415 + 7262 sayılı Kanunlar</td></tr></table>"
+          "heading": "FATF (finansal eylem görev gücü) R.6 ve R.7 Karşılaştırması",
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kriter</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>R.6 — TF Yaptırımları</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>R.7 — KİSYF (kitle imha silahlarının yayılmasının finansmanı) Yaptırımları</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Liste</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>BMGK 1267/1373 + iç liste</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>BMGK 1718 (K.Kore) + 1737 (İran)</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Dondurma</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gecikmeksizin</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Gecikmeksizin</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kapsam</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Terör finansmanı</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİS programı finansmanı</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Türkiye dayanağı</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>6415 sayılı Kanun md.6</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>6415 + 7262 sayılı Kanunlar</td></tr></table>"
         },
         {
-          "heading": "KİSYF Tipoloji Örnekleri",
+          "heading": "KİSYF (kitle imha silahlarının yayılmasının finansmanı) Tipoloji Örnekleri",
           "content": "<ul><li>İkili kullanım ürünleri (ticari ve askeri amaçla kullanılabilen mallar) ihracatı üzerinden fon aktarımı.</li><li>Paravan şirketler aracılığıyla silah programına ekipman temini.</li><li>Yaptırım listesindeki kuruluşlarla dolaylı finansal ilişki kurma.</li><li>Kripto varlıklar üzerinden KİS programına bağışlama.</li></ul>"
         }
       ]
@@ -37570,7 +37570,7 @@ window.__EXT = {
   "UY_SIB": [
     {
       "num": "01",
-      "title": "ŞİB Kriterleri ve Tipoloji Analizi",
+      "title": "ŞİB (şüpheli işlem bildirimi) Kriterleri ve Tipoloji Analizi",
       "sections": [
         {
           "heading": "Aklama Şüphe Göstergeleri (Red Flags)",
@@ -37584,15 +37584,15 @@ window.__EXT = {
     },
     {
       "num": "02",
-      "title": "ŞİB Süreci ve Hukuki Çerçeve",
+      "title": "ŞİB (şüpheli işlem bildirimi) Süreci ve Hukuki Çerçeve",
       "sections": [
         {
-          "heading": "ŞİB Adımları",
-          "content": "<ol style='margin:.4rem 0 0 1.2rem'><li>Şüpheli durum tespit edilir (müşteri davranışı, işlem analizi, ekran kontrolü).</li><li>Uyum birimi değerlendirmesi yapılır.</li><li>ŞİB kararı alınır; müşteriye bildirilmez (tipping-off yasağı).</li><li>MOBESAS üzerinden MASAK'a iletilir.</li><li>Gerekirse işlem ertelemeli ŞİB gönderilir (md.19/A).</li><li>MASAK'tan geri bildirim beklenir.</li></ol>"
+          "heading": "ŞİB (şüpheli işlem bildirimi) Adımları",
+          "content": "<ol style='margin:.4rem 0 0 1.2rem'><li>Şüpheli durum tespit edilir (müşteri davranışı, işlem analizi, ekran kontrolü).</li><li>Uyum birimi değerlendirmesi yapılır.</li><li>ŞİB (şüpheli işlem bildirimi) kararı alınır; müşteriye bildirilmez (tipping-off yasağı).</li><li>MOBESAS üzerinden MASAK (mali suçları araştırma kurulu)'a iletilir.</li><li>Gerekirse işlem ertelemeli ŞİB (şüpheli işlem bildirimi) gönderilir (md.19/A).</li><li>MASAK (mali suçları araştırma kurulu)'tan geri bildirim beklenir.</li></ol>"
         },
         {
           "heading": "Hukuki Koruma ve Sorumluluk",
-          "content": "<ul><li>İyi niyetle yapılan bildirimler için hem hukuki hem cezai sorumluluk koruması.</li><li>Müşteriye tazminat borcu doğmaz.</li><li>ŞİB yapılmaması halinde: 5549 sayılı Kanun kapsamında idari para cezası.</li></ul>"
+          "content": "<ul><li>İyi niyetle yapılan bildirimler için hem hukuki hem cezai sorumluluk koruması.</li><li>Müşteriye tazminat borcu doğmaz.</li><li>ŞİB (şüpheli işlem bildirimi) yapılmaması halinde: 5549 sayılı Kanun kapsamında idari para cezası.</li></ul>"
         }
       ]
     }
@@ -37620,17 +37620,17 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Türkiye Ödeme Sistemi Ekosistemi",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kuruluş</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Sistem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>İşlev</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>TCMB</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>EFT, EMKT, FAST</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalar arası transfer ve menkul kıymet</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Takasbank</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Türev takas</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Borsa işlemleri takas ve mutabakat</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>MKK</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Merkezi saklama</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Menkul kıymet saklama ve kayıt</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>BKM</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kart ödemeleri</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalararası kart işlemleri</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Kuruluş</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Sistem</th><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>İşlev</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>TCMB (türkiye cumhuriyet merkez bankası)</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>EFT, EMKT, FAST</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalar arası transfer ve menkul kıymet</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Takasbank</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Türev takas</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Borsa işlemleri takas ve mutabakat</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>MKK</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Merkezi saklama</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Menkul kıymet saklama ve kayıt</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>BKM</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Kart ödemeleri</td><td style='padding:5px 8px;border:1px solid var(--bdr)'>Bankalararası kart işlemleri</td></tr></table>"
         }
       ]
     },
     {
       "num": "02",
-      "title": "Kripto Varlıklar — AML/CFT Yükümlülükleri",
+      "title": "Kripto Varlıklar — AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) Yükümlülükleri",
       "sections": [
         {
           "heading": "KVHS'lere Uygulanan AML Yükümlülükleri (2024 Sonrası)",
-          "content": "<ul><li>Uyum programı hazırlama ve uygulama.</li><li>Kimlik tespiti ve müşterinin tanınması (KYC/CDD).</li><li>Uzaktan kimlik tespiti imkânı.</li><li>Seyahat Kuralı: 15.000 TL eşiğinde bilgi iletimi.</li><li>Şüpheli işlem bildirimi (ŞİB) yükümlülüğü.</li><li>Privacy coins kullanımı yasağı.</li><li>Para yatırma/çekme: Kimlik uyumlu hesap zorunluluğu.</li><li>Sıkılaştırılmış tedbirler kapsamında yüksek riskli müşteri yönetimi.</li></ul>"
+          "content": "<ul><li>Uyum programı hazırlama ve uygulama.</li><li>Kimlik tespiti ve müşterinin tanınması (KYC (müşteri tanıma)/CDD (müşteri durum tespiti)).</li><li>Uzaktan kimlik tespiti imkânı.</li><li>Seyahat Kuralı: 15.000 TL eşiğinde bilgi iletimi.</li><li>Şüpheli işlem bildirimi (ŞİB (şüpheli işlem bildirimi)) yükümlülüğü.</li><li>Privacy coins kullanımı yasağı.</li><li>Para yatırma/çekme: Kimlik uyumlu hesap zorunluluğu.</li><li>Sıkılaştırılmış tedbirler kapsamında yüksek riskli müşteri yönetimi.</li></ul>"
         },
         {
           "heading": "Önemli Rakamlar — Özet",
@@ -37646,7 +37646,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Her Testteki Konu Dağılımı",
-          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Konu</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T1</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T2</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T3</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T4</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T5</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>MASAK ve Görevleri</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Uluslararası Standartlar</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Ulusal Koordinasyon</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>1</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>1</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Suç Gelirlerinin Aklanması</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Terörizmin Finansmanı</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİS</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>1</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>1</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Şüpheli İşlem Bildirimi</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>İşlem Ertelemesi</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Finansal Teknolojiler</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>4</td></tr><tr style='background:var(--bg2);font-weight:700'><td style='padding:5px 8px;border:1px solid var(--bdr)'>TOPLAM</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td></tr></table>"
+          "content": "<table style='width:100%;border-collapse:collapse;font-size:.82rem'><tr style='background:var(--bg2)'><th style='padding:5px 8px;text-align:left;border:1px solid var(--bdr)'>Konu</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T1</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T2</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T3</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T4</th><th style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>T5</th></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>MASAK (mali suçları araştırma kurulu) ve Görevleri</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Uluslararası Standartlar</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Ulusal Koordinasyon</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>1</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>1</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Suç Gelirlerinin Aklanması</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Terörizmin Finansmanı</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>KİS</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>1</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>1</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Şüpheli İşlem Bildirimi</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>İşlem Ertelemesi</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td></tr><tr><td style='padding:5px 8px;border:1px solid var(--bdr)'>Finansal Teknolojiler</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>3</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>2</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>4</td></tr><tr style='background:var(--bg2);font-weight:700'><td style='padding:5px 8px;border:1px solid var(--bdr)'>TOPLAM</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td><td style='padding:5px 8px;text-align:center;border:1px solid var(--bdr)'>20</td></tr></table>"
         }
       ]
     }
@@ -37662,7 +37662,7 @@ window.__EXT = {
         },
         {
           "heading": "Tanım",
-          "content": "<p>Uyum birimi; SGA, TF ve KİSYF alanlarındaki yasal yükümlülüklerin yerine getirilmesini koordine eden, kurumun diğer birimlerinden <strong>bağımsız</strong> çalışan organizasyonel yapıdır.</p>"
+          "content": "<p>Uyum birimi; SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) alanlarındaki yasal yükümlülüklerin yerine getirilmesini koordine eden, kurumun diğer birimlerinden <strong>bağımsız</strong> çalışan organizasyonel yapıdır.</p>"
         }
       ]
     },
@@ -37676,7 +37676,7 @@ window.__EXT = {
         },
         {
           "heading": "Küçük Ölçekli Yükümlüler",
-          "content": "<p><strong>Risk bazlı yaklaşım</strong> çerçevesinde küçük ölçekli yükümlüler, risk profilleriyle orantılı, basitleştirilmiş bir yapı oluşturabilir. Temel uyum yükümlülükleri (KYC, ŞİB vb.) bu kuruluşlar için de geçerlidir.</p>"
+          "content": "<p><strong>Risk bazlı yaklaşım</strong> çerçevesinde küçük ölçekli yükümlüler, risk profilleriyle orantılı, basitleştirilmiş bir yapı oluşturabilir. Temel uyum yükümlülükleri (KYC (müşteri tanıma — know your customer), ŞİB (şüpheli işlem bildirimi) vb.) bu kuruluşlar için de geçerlidir.</p>"
         }
       ]
     },
@@ -37685,8 +37685,8 @@ window.__EXT = {
       "title": "Uyum Biriminin Temel İşlevleri",
       "sections": [
         {
-          "heading": "ŞİB Koordinasyonu",
-          "content": "<p>Uyum birimi, şüpheli işlem bildirimlerini değerlendirir, ŞİB formunu hazırlar ve <strong>MASAK'a</strong> eksiksiz, zamanında iletilmesini sağlar. Tipping-off (ihbar riski) yasağının korunmasını güvence altına alır.</p>"
+          "heading": "ŞİB (şüpheli işlem bildirimi) Koordinasyonu",
+          "content": "<p>Uyum birimi, şüpheli işlem bildirimlerini değerlendirir, ŞİB (şüpheli işlem bildirimi) formunu hazırlar ve <strong>MASAK (mali suçları araştırma kurulu)'a</strong> eksiksiz, zamanında iletilmesini sağlar. Tipping-off (ihbar riski) yasağının korunmasını güvence altına alır.</p>"
         },
         {
           "heading": "Risk Değerlendirmesi ve İzleme",
@@ -37728,11 +37728,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Tanım",
-          "content": "<p>Uyum görevlisi; yükümlü kuruluşta SGA, TF ve KİSYF uyum programının yönetiminden birinci derecede sorumlu olan, <strong>üst düzey yönetici</strong> statüsünde görev yapan kişidir.</p>"
+          "content": "<p>Uyum görevlisi; yükümlü kuruluşta SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) uyum programının yönetiminden birinci derecede sorumlu olan, <strong>üst düzey yönetici</strong> statüsünde görev yapan kişidir.</p>"
         },
         {
           "heading": "Hukuki Dayanak",
-          "content": "<p>Uyum görevlisi atama yükümlülüğü <strong>5549 sayılı Kanun</strong> ve <strong>Tedbirler Yönetmeliği</strong> çerçevesinde düzenlenmektedir. Sermaye piyasası kuruluşlarında SPK mevzuatı da ek gereklilikler öngörmektedir.</p>"
+          "content": "<p>Uyum görevlisi atama yükümlülüğü <strong>5549 sayılı Kanun</strong> ve <strong>Tedbirler Yönetmeliği</strong> çerçevesinde düzenlenmektedir. Sermaye piyasası kuruluşlarında SPK (sermaye piyasası kurulu) mevzuatı da ek gereklilikler öngörmektedir.</p>"
         }
       ]
     },
@@ -37745,8 +37745,8 @@ window.__EXT = {
           "content": "<p>Uyum görevlisi, yükümlünün <strong>yönetim kurulu veya genel müdürü</strong> tarafından atanır. Atamada en az lisans mezuniyeti ve ilgili alanda deneyim şartı aranır.</p>"
         },
         {
-          "heading": "MASAK'a Bildirim",
-          "content": "<p>Atama ve değişiklikler <strong>MASAK'a bildirilmek</strong> zorundadır. Zamanında bildirim yapılmaması idari yaptırıma yol açabilir.</p>"
+          "heading": "MASAK (mali suçları araştırma kurulu)'a Bildirim",
+          "content": "<p>Atama ve değişiklikler <strong>MASAK (mali suçları araştırma kurulu)'a bildirilmek</strong> zorundadır. Zamanında bildirim yapılmaması idari yaptırıma yol açabilir.</p>"
         },
         {
           "heading": "Vekalet",
@@ -37760,11 +37760,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Temel Görevler",
-          "content": "<ul><li>ŞİB'lerin değerlendirilmesi ve MASAK'a iletilmesi</li><li>Personele SGA/TF/KİSYF eğitimi sağlanması</li><li>Uyum programının oluşturulması, uygulanması ve güncellenmesi</li><li>Risk değerlendirmesi ve üst yönetime raporlama</li><li>Mevzuat değişikliklerinin takibi ve kuruma bildirimi</li><li>İç denetimle koordinasyon</li></ul>"
+          "content": "<ul><li>ŞİB (şüpheli işlem bildirimi)'lerin değerlendirilmesi ve MASAK (mali suçları araştırma kurulu)'a iletilmesi</li><li>Personele SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) eğitimi sağlanması</li><li>Uyum programının oluşturulması, uygulanması ve güncellenmesi</li><li>Risk değerlendirmesi ve üst yönetime raporlama</li><li>Mevzuat değişikliklerinin takibi ve kuruma bildirimi</li><li>İç denetimle koordinasyon</li></ul>"
         },
         {
           "heading": "Yetkili Makamlarla İlişki",
-          "content": "<p>Uyum görevlisi, MASAK ve diğer denetim otoritelerinin gerçekleştirdiği inceleme ve denetim süreçlerinde kurumu temsil eden yetkili muhataptır.</p>"
+          "content": "<p>Uyum görevlisi, MASAK (mali suçları araştırma kurulu) ve diğer denetim otoritelerinin gerçekleştirdiği inceleme ve denetim süreçlerinde kurumu temsil eden yetkili muhataptır.</p>"
         }
       ]
     },
@@ -37794,7 +37794,7 @@ window.__EXT = {
         },
         {
           "heading": "Sınav Yapısı",
-          "content": "<p>Sınav <strong>iki modülden</strong> oluşur:<br><strong>Modül 1</strong>: SGA, TF ve KİSYF temel mevzuatı — uluslararası standartlar, ulusal mevzuat, suç gelirlerinin aklanması aşamaları, şüpheli işlem bildirimi, işlem ertelemesi, kripto varlıklar.<br><strong>Modül 2</strong>: Uyum yönetimi, müşterinin tanınması (KYC/CDD), yükümlülük denetimi, idari para cezaları, bilgi verme ve muhafaza yükümlülükleri.</p>"
+          "content": "<p>Sınav <strong>iki modülden</strong> oluşur:<br><strong>Modül 1</strong>: SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) temel mevzuatı — uluslararası standartlar, ulusal mevzuat, suç gelirlerinin aklanması aşamaları, şüpheli işlem bildirimi, işlem ertelemesi, kripto varlıklar.<br><strong>Modül 2</strong>: Uyum yönetimi, müşterinin tanınması (KYC (müşteri tanıma — know your customer)/CDD (müşteri durum tespiti)), yükümlülük denetimi, idari para cezaları, bilgi verme ve muhafaza yükümlülükleri.</p>"
         },
         {
           "heading": "Geçer Not Koşulu",
@@ -37816,7 +37816,7 @@ window.__EXT = {
         },
         {
           "heading": "Lisans İptali",
-          "content": "<p>Lisans ihlali veya ağır mesleki kusur hâlinde <strong>SPK lisansı iptal</strong> edebilir. Lisans kişiye özgüdür; başkasına devredilemez.</p>"
+          "content": "<p>Lisans ihlali veya ağır mesleki kusur hâlinde <strong>SPK (sermaye piyasası kurulu) lisansı iptal</strong> edebilir. Lisans kişiye özgüdür; başkasına devredilemez.</p>"
         }
       ]
     },
@@ -37826,11 +37826,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Zorunlu Lisans Kapsamı",
-          "content": "<p>SPK lisanslı aracı kurumlar, portföy yönetim şirketleri ve diğer sermaye piyasası kuruluşlarında görev yapan uyum görevlilerinin lisansa sahip olması zorunludur. Lisanssız uyum görevlisi çalıştırmak idari yaptırıma yol açar.</p>"
+          "content": "<p>SPK (sermaye piyasası kurulu) lisanslı aracı kurumlar, portföy yönetim şirketleri ve diğer sermaye piyasası kuruluşlarında görev yapan uyum görevlilerinin lisansa sahip olması zorunludur. Lisanssız uyum görevlisi çalıştırmak idari yaptırıma yol açar.</p>"
         },
         {
           "heading": "Sektörel Farklılıklar",
-          "content": "<p>Bankacılık (BDDK), sigortacılık ve diğer sektörlerdeki uyum görevlileri için ilgili düzenleyici otoriteler SPK lisansına <strong>ek gereksinimler</strong> öngörebilir.</p>"
+          "content": "<p>Bankacılık (BDDK (bankacılık düzenleme ve denetleme kurumu)), sigortacılık ve diğer sektörlerdeki uyum görevlileri için ilgili düzenleyici otoriteler SPK (sermaye piyasası kurulu) lisansına <strong>ek gereksinimler</strong> öngörebilir.</p>"
         },
         {
           "heading": "Eğitim Kayıtları",
@@ -37846,7 +37846,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Tanım",
-          "content": "<p>Uyum programı; SGA, TF ve KİSYF risklerine karşı yükümlünün alması gereken tüm önlemleri, politikaları ve prosedürleri kapsayan <strong>yazılı, sistematik çerçevedir</strong>.</p>"
+          "content": "<p>Uyum programı; SGA, TF ve KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerine karşı yükümlünün alması gereken tüm önlemleri, politikaları ve prosedürleri kapsayan <strong>yazılı, sistematik çerçevedir</strong>.</p>"
         },
         {
           "heading": "Hukuki Dayanak",
@@ -37860,7 +37860,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Temel Bileşenler",
-          "content": "<ul><li><strong>Müşterinin tanınması (KYC/CDD) politikaları</strong>: Kimlik tespiti, risk sınıflandırması, gerçek faydalanıcı tespiti</li><li><strong>Şüpheli işlem bildirimi (ŞİB) prosedürleri</strong>: Şüphenin tespiti, değerlendirilmesi ve MASAK'a iletilmesi</li><li><strong>Risk değerlendirmesi mekanizması</strong>: Müşteri, ürün, coğrafi ve işlem bazlı risk haritası</li><li><strong>Personel eğitimi planı</strong>: Düzenli eğitimler ve farkındalık faaliyetleri</li><li><strong>İşlem izleme prosedürleri</strong>: Olağandışı işlem örüntülerinin tespiti</li><li><strong>İç kontrol ve denetim mekanizması</strong>: Prosedürlerin uygulanmasının izlenmesi</li></ul>"
+          "content": "<ul><li><strong>Müşterinin tanınması (KYC (müşteri tanıma — know your customer)/CDD (müşteri durum tespiti)) politikaları</strong>: Kimlik tespiti, risk sınıflandırması, gerçek faydalanıcı tespiti</li><li><strong>Şüpheli işlem bildirimi (ŞİB (şüpheli işlem bildirimi)) prosedürleri</strong>: Şüphenin tespiti, değerlendirilmesi ve MASAK (mali suçları araştırma kurulu)'a iletilmesi</li><li><strong>Risk değerlendirmesi mekanizması</strong>: Müşteri, ürün, coğrafi ve işlem bazlı risk haritası</li><li><strong>Personel eğitimi planı</strong>: Düzenli eğitimler ve farkındalık faaliyetleri</li><li><strong>İşlem izleme prosedürleri</strong>: Olağandışı işlem örüntülerinin tespiti</li><li><strong>İç kontrol ve denetim mekanizması</strong>: Prosedürlerin uygulanmasının izlenmesi</li></ul>"
         },
         {
           "heading": "Güncelleme Zorunluluğu",
@@ -37892,7 +37892,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Yazılı Politika ve Prosedürler",
-          "content": "<p>Her yükümlü, SGA/TF/KİSYF risklerini yönetmeye yönelik <strong>yazılı iç politika ve prosedürler</strong> hazırlar. Politikalar risk bazlı yaklaşımla oluşturulur ve personele duyurulur.</p>"
+          "content": "<p>Her yükümlü, SGA/TF/KİSYF (kitle imha silahlarının yayılmasının finansmanı) risklerini yönetmeye yönelik <strong>yazılı iç politika ve prosedürler</strong> hazırlar. Politikalar risk bazlı yaklaşımla oluşturulur ve personele duyurulur.</p>"
         },
         {
           "heading": "İç Denetim",
@@ -37900,7 +37900,7 @@ window.__EXT = {
         },
         {
           "heading": "Etkinlik Ölçümü",
-          "content": "<p>Uyum programı etkinliği; doğru ŞİB sayısı, eğitim tamamlanma oranları, iç denetim bulguları ve risk profilindeki değişim ile ölçülür.</p>"
+          "content": "<p>Uyum programı etkinliği; doğru ŞİB (şüpheli işlem bildirimi) sayısı, eğitim tamamlanma oranları, iç denetim bulguları ve risk profilindeki değişim ile ölçülür.</p>"
         }
       ]
     }
@@ -37912,7 +37912,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Tanım ve Önemi",
-          "content": "<p>Risk bazlı yaklaşım (RBA); yükümlünün SGA/TF riskini belirleyerek <strong>riskle orantılı önlemler</strong> almasını gerektirir. FATF'ın temel prensibi olup tüm ulusal mevzuata yansıtılmıştır.</p>"
+          "content": "<p>Risk bazlı yaklaşım (RBA (risk bazlı yaklaşım — risk-based approach)); yükümlünün SGA/TF riskini belirleyerek <strong>riskle orantılı önlemler</strong> almasını gerektirir. FATF (finansal eylem görev gücü)'ın temel prensibi olup tüm ulusal mevzuata yansıtılmıştır.</p>"
         },
         {
           "heading": "Orantılılık İlkesi",
@@ -37926,7 +37926,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Risk Faktörleri",
-          "content": "<ul><li><strong>Müşteri riski</strong>: Müşterinin profili, mesleği, PEP statüsü, ülkesi</li><li><strong>Ürün/hizmet riski</strong>: Anonimlik, karmaşıklık, kötüye kullanım potansiyeli</li><li><strong>Coğrafi risk</strong>: FATF listelerindeki ülkeler, off-shore merkezler</li><li><strong>Dağıtım kanalı riski</strong>: Uzaktan müşteri kabulü, dijital kanallar</li></ul>"
+          "content": "<ul><li><strong>Müşteri riski</strong>: Müşterinin profili, mesleği, PEP (siyasi açıdan maruz kalmış kişi) statüsü, ülkesi</li><li><strong>Ürün/hizmet riski</strong>: Anonimlik, karmaşıklık, kötüye kullanım potansiyeli</li><li><strong>Coğrafi risk</strong>: FATF (finansal eylem görev gücü) listelerindeki ülkeler, off-shore merkezler</li><li><strong>Dağıtım kanalı riski</strong>: Uzaktan müşteri kabulü, dijital kanallar</li></ul>"
         },
         {
           "heading": "Güncelleme",
@@ -37954,7 +37954,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Üç Katmanlı Kontrol",
-          "content": "<ul><li><strong>Önleyici kontroller</strong>: Risk değerlendirmesi, müşteri kabulü, işlem limitleri</li><li><strong>Tespit edici kontroller</strong>: İşlem izleme, uyarı sistemleri, periyodik gözden geçirme</li><li><strong>Düzeltici kontroller</strong>: ŞİB, işlem durdurma, müşteri ilişkisini sonlandırma</li></ul>"
+          "content": "<ul><li><strong>Önleyici kontroller</strong>: Risk değerlendirmesi, müşteri kabulü, işlem limitleri</li><li><strong>Tespit edici kontroller</strong>: İşlem izleme, uyarı sistemleri, periyodik gözden geçirme</li><li><strong>Düzeltici kontroller</strong>: ŞİB (şüpheli işlem bildirimi), işlem durdurma, müşteri ilişkisini sonlandırma</li></ul>"
         },
         {
           "heading": "Risk Raporlaması",
@@ -37970,11 +37970,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Yükümlü Tanımı",
-          "content": "<p>5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun kapsamında <strong>yükümlü</strong>, AML/CFT (Kara Para Aklamanın ve Terörün Finansmanının Önlenmesi) yükümlülüklerine tabi tutulan kişi ve kuruluşları ifade eder. Bu kavram, hem finansal hem de finansal olmayan belirli sektörleri kapsar.</p>"
+          "content": "<p>5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun kapsamında <strong>yükümlü</strong>, AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine tabi tutulan kişi ve kuruluşları ifade eder. Bu kavram, hem finansal hem de finansal olmayan belirli sektörleri kapsar.</p>"
         },
         {
           "heading": "Yükümlülerin Temel Sorumlulukları",
-          "content": "<p>Yükümlüler şu temel sorumluluklara sahiptir: (1) <strong>Müşteri kimlik tespiti (KYC):</strong> Her müşteri için risk bazlı kimlik doğrulama. (2) <strong>Şüpheli işlem bildirimi (ŞİB):</strong> MASAK'a şüpheli durumlarda zamanında bildirim. (3) <strong>Kayıt tutma:</strong> İşlem belgelerinin 5 yıl süreyle muhafazası. (4) <strong>Personel eğitimi:</strong> AML/CFT konularında düzenli eğitim.</p>"
+          "content": "<p>Yükümlüler şu temel sorumluluklara sahiptir: (1) <strong>Müşteri kimlik tespiti (KYC (müşteri tanıma — know your customer)):</strong> Her müşteri için risk bazlı kimlik doğrulama. (2) <strong>Şüpheli işlem bildirimi (ŞİB (şüpheli işlem bildirimi)):</strong> MASAK (mali suçları araştırma kurulu)'a şüpheli durumlarda zamanında bildirim. (3) <strong>Kayıt tutma:</strong> İşlem belgelerinin 5 yıl süreyle muhafazası. (4) <strong>Personel eğitimi:</strong> AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) konularında düzenli eğitim.</p>"
         }
       ]
     },
@@ -37984,7 +37984,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Bankacılık Sektörü",
-          "content": "<p>Mevduat bankaları, katılım bankaları, kalkınma bankaları ve yatırım bankaları tüm banka türleriyle birlikte yükümlü kapsamındadır. Bankalar, yüksek işlem hacmi nedeniyle AML/CFT uyum süreçlerinde kritik rol oynar.</p>"
+          "content": "<p>Mevduat bankaları, katılım bankaları, kalkınma bankaları ve yatırım bankaları tüm banka türleriyle birlikte yükümlü kapsamındadır. Bankalar, yüksek işlem hacmi nedeniyle AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) uyum süreçlerinde kritik rol oynar.</p>"
         },
         {
           "heading": "Sermaye Piyasası Kurumları",
@@ -37998,19 +37998,19 @@ window.__EXT = {
     },
     {
       "num": "03",
-      "title": "FOBİM — Finansal Olmayan Belirli İş ve Meslekler",
+      "title": "FOBİM (finansal olmayan belirlenmiş işletme ve meslek) — Finansal Olmayan Belirli İş ve Meslekler",
       "sections": [
         {
-          "heading": "FOBİM Nedir?",
-          "content": "<p><strong>FOBİM</strong>, finansal sektörün dışında kalmakla birlikte kara para aklamasına araç olabilecek sektörleri kapsar. FATF'ın 40 Tavsiyesi'nde bu kategoriye özel önlemler öngörülmüştür.</p>"
+          "heading": "FOBİM (finansal olmayan belirlenmiş işletme ve meslek) Nedir?",
+          "content": "<p><strong>FOBİM (finansal olmayan belirlenmiş işletme ve meslek)</strong>, finansal sektörün dışında kalmakla birlikte kara para aklamasına araç olabilecek sektörleri kapsar. FATF (finansal eylem görev gücü)'ın 40 Tavsiyesi'nde bu kategoriye özel önlemler öngörülmüştür.</p>"
         },
         {
-          "heading": "FOBİM Örnekleri",
-          "content": "<p>Başlıca FOBİM kategorileri şunlardır: <strong>Gayrimenkul acenteleri ve danışmanları, mücevher/değerli taş satıcıları, avukatlar ve noterler (finansal işlemlerde), muhasebeciler ve mali müşavirler, güven ve şirket hizmeti sağlayıcıları.</strong> Bu gruplar nakit para yoğunluğu veya yüksek değerli işlemler nedeniyle AML riski taşır.</p>"
+          "heading": "FOBİM (finansal olmayan belirlenmiş işletme ve meslek) Örnekleri",
+          "content": "<p>Başlıca FOBİM (finansal olmayan belirlenmiş işletme ve meslek) kategorileri şunlardır: <strong>Gayrimenkul acenteleri ve danışmanları, mücevher/değerli taş satıcıları, avukatlar ve noterler (finansal işlemlerde), muhasebeciler ve mali müşavirler, güven ve şirket hizmeti sağlayıcıları.</strong> Bu gruplar nakit para yoğunluğu veya yüksek değerli işlemler nedeniyle AML (kara para aklamanın önlenmesi) riski taşır.</p>"
         },
         {
-          "heading": "Türkiye'de FOBİM Uygulaması",
-          "content": "<p>Türkiye'de bazı FOBİM kategorileri 5549 sayılı Kanun kapsamına alınmıştır. Uygulamalar kademeli genişlemekte; noterler, muhasebeciler ve gayrimenkul acenteleri gibi gruplar için yükümlülükler güçlendirilmektedir.</p>"
+          "heading": "Türkiye'de FOBİM (finansal olmayan belirlenmiş işletme ve meslek) Uygulaması",
+          "content": "<p>Türkiye'de bazı FOBİM (finansal olmayan belirlenmiş işletme ve meslek) kategorileri 5549 sayılı Kanun kapsamına alınmıştır. Uygulamalar kademeli genişlemekte; noterler, muhasebeciler ve gayrimenkul acenteleri gibi gruplar için yükümlülükler güçlendirilmektedir.</p>"
         }
       ]
     },
@@ -38019,8 +38019,8 @@ window.__EXT = {
       "title": "Denetim ve Yaptırımlar",
       "sections": [
         {
-          "heading": "MASAK Denetimi",
-          "content": "<p><strong>MASAK (Mali Suçları Araştırma Kurulu)</strong>, yükümlülerin AML/CFT yükümlülüklerine uyumunu denetleme konusunda birincil yetkili kurumdur. Denetimler hem yerinde inceleme hem de uzaktan gözetim yoluyla gerçekleştirilebilir.</p>"
+          "heading": "MASAK (mali suçları araştırma kurulu) Denetimi",
+          "content": "<p><strong>MASAK (Mali Suçları Araştırma Kurulu)</strong>, yükümlülerin AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) yükümlülüklerine uyumunu denetleme konusunda birincil yetkili kurumdur. Denetimler hem yerinde inceleme hem de uzaktan gözetim yoluyla gerçekleştirilebilir.</p>"
         },
         {
           "heading": "Yaptırım Türleri",
@@ -38036,11 +38036,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Yetkili Denetim Kurumları",
-          "content": "<p>AML/CFT uyum denetimleri; <strong>MASAK</strong> (birincil otorite), <strong>BDDK</strong> (bankacılık), <strong>SPK</strong> (sermaye piyasası), <strong>Sigortacılık Genel Müdürlüğü</strong> ve <strong>Hazine &amp; Maliye Bakanlığı</strong> tarafından ilgili mevzuat çerçevesinde yürütülür.</p>"
+          "content": "<p>AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) uyum denetimleri; <strong>MASAK (mali suçları araştırma kurulu)</strong> (birincil otorite), <strong>BDDK (bankacılık düzenleme ve denetleme kurumu)</strong> (bankacılık), <strong>SPK (sermaye piyasası kurulu)</strong> (sermaye piyasası), <strong>Sigortacılık Genel Müdürlüğü</strong> ve <strong>Hazine &amp; Maliye Bakanlığı</strong> tarafından ilgili mevzuat çerçevesinde yürütülür.</p>"
         },
         {
           "heading": "Yerinde ve Uzaktan Denetim",
-          "content": "<p><strong>Yerinde denetim:</strong> Denetçilerin kurumda bulunarak KYC dosyaları, ŞİB kayıtları, eğitim belgeleri ve yönetim kurulu kararlarını incelemesi. Üç aşamalıdır: hazırlık → denetim → raporlama.<br><strong>Uzaktan gözetim:</strong> Kurum merkezine gidilmeksizin periyodik raporlar ve veri setleri üzerinden yürütülür; anormal örüntüler tespit edildiğinde yerinde denetime geçilebilir.</p>"
+          "content": "<p><strong>Yerinde denetim:</strong> Denetçilerin kurumda bulunarak KYC (müşteri tanıma — know your customer) dosyaları, ŞİB (şüpheli işlem bildirimi) kayıtları, eğitim belgeleri ve yönetim kurulu kararlarını incelemesi. Üç aşamalıdır: hazırlık → denetim → raporlama.<br><strong>Uzaktan gözetim:</strong> Kurum merkezine gidilmeksizin periyodik raporlar ve veri setleri üzerinden yürütülür; anormal örüntüler tespit edildiğinde yerinde denetime geçilebilir.</p>"
         }
       ]
     },
@@ -38050,15 +38050,15 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Değerlendirme Kriterleri",
-          "content": "<p>Denetimde şu unsurlar değerlendirilir: (1) KYC/CDD süreçlerinin etkinliği. (2) ŞİB kalitesi ve zamanında bildirim. (3) Eğitim programlarının varlığı ve düzenliliği. (4) Risk bazlı yaklaşımın (RBA) kurumsal risk iştahıyla uyumu. (5) Üst yönetim ve yönetim kurulunun uyum taahhüdü.</p>"
+          "content": "<p>Denetimde şu unsurlar değerlendirilir: (1) KYC (müşteri tanıma — know your customer)/CDD (müşteri durum tespiti) süreçlerinin etkinliği. (2) ŞİB (şüpheli işlem bildirimi) kalitesi ve zamanında bildirim. (3) Eğitim programlarının varlığı ve düzenliliği. (4) Risk bazlı yaklaşımın (RBA (risk bazlı yaklaşım — risk-based approach)) kurumsal risk iştahıyla uyumu. (5) Üst yönetim ve yönetim kurulunun uyum taahhüdü.</p>"
         },
         {
           "heading": "Bulgular ve Takip Süreci",
           "content": "<p>Denetim bulguları resmi raporla tebliğ edilir. Kurumdan <strong>eylem planı</strong> talep edilebilir. Hafif bulgular yazılı uyarıyla sonuçlanırken, ciddi veya tekrarlayan ihlaller idari yaptırım aşamasına taşınır. Belirlenen sürede eksikliklerin giderilmemesi ek yaptırım doğurur.</p>"
         },
         {
-          "heading": "FATF Karşılıklı Değerlendirme",
-          "content": "<p>FATF, üye ülkelerin AML/CFT sistemlerini belirli aralıklarla <strong>karşılıklı değerlendirme (mutual evaluation)</strong> süreciyle inceler. Değerlendirme raporları kamuoyuyla paylaşılır ve ülkelerin gri/siyah listeye alınmasını etkileyebilir.</p>"
+          "heading": "FATF (finansal eylem görev gücü) Karşılıklı Değerlendirme",
+          "content": "<p>FATF (finansal eylem görev gücü), üye ülkelerin AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) sistemlerini belirli aralıklarla <strong>karşılıklı değerlendirme (mutual evaluation)</strong> süreciyle inceler. Değerlendirme raporları kamuoyuyla paylaşılır ve ülkelerin gri/siyah listeye alınmasını etkileyebilir.</p>"
         }
       ]
     }
@@ -38070,11 +38070,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Yasal Dayanak ve Uygulama",
-          "content": "<p>5549 sayılı Kanun'un ilgili maddeleri, AML/CFT ihlalleri için idari para cezası öngörür. Cezalar <strong>MASAK</strong> kararıyla verilir; her yıl yeniden değerleme oranıyla güncellenir ve Resmî Gazete'de yayımlanarak yürürlüğe girer.</p>"
+          "content": "<p>5549 sayılı Kanun'un ilgili maddeleri, AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) ihlalleri için idari para cezası öngörür. Cezalar <strong>MASAK (mali suçları araştırma kurulu)</strong> kararıyla verilir; her yıl yeniden değerleme oranıyla güncellenir ve Resmî Gazete'de yayımlanarak yürürlüğe girer.</p>"
         },
         {
           "heading": "Ceza Türleri",
-          "content": "<p>(1) <strong>Kimlik tespiti eksikliği:</strong> Her işlem için ayrı ceza. (2) <strong>ŞİB yapılmaması:</strong> Daha yüksek tutarlarda ceza. (3) <strong>Kayıt muhafaza ihlali.</strong> (4) <strong>Eğitim yükümlülüğü ihlali.</strong></p>"
+          "content": "<p>(1) <strong>Kimlik tespiti eksikliği:</strong> Her işlem için ayrı ceza. (2) <strong>ŞİB (şüpheli işlem bildirimi) yapılmaması:</strong> Daha yüksek tutarlarda ceza. (3) <strong>Kayıt muhafaza ihlali.</strong> (4) <strong>Eğitim yükümlülüğü ihlali.</strong></p>"
         }
       ]
     },
@@ -38088,7 +38088,7 @@ window.__EXT = {
         },
         {
           "heading": "Lisans İptali ve Cezai Kovuşturma",
-          "content": "<p>Ağır ve tekrarlayan ihlallerde <strong>faaliyet izni iptali</strong> gündeme gelebilir. Sorumlu yöneticilere bireysel ceza uygulanabilir. Kasıtlı ihlallerde MASAK savcılığa suç duyurusunda bulunabilir.</p>"
+          "content": "<p>Ağır ve tekrarlayan ihlallerde <strong>faaliyet izni iptali</strong> gündeme gelebilir. Sorumlu yöneticilere bireysel ceza uygulanabilir. Kasıtlı ihlallerde MASAK (mali suçları araştırma kurulu) savcılığa suç duyurusunda bulunabilir.</p>"
         }
       ]
     },
@@ -38102,7 +38102,7 @@ window.__EXT = {
         },
         {
           "heading": "Kamuoyu Açıklaması",
-          "content": "<p>Cezaların kamuoyuyla paylaşılması (<em>name &amp; shame</em>) kuruma ciddi itibar kaybı yaşatabilir. AML/CFT uyumu yalnızca hukuki değil, itibar güvencesidir de.</p>"
+          "content": "<p>Cezaların kamuoyuyla paylaşılması (<em>name &amp; shame</em>) kuruma ciddi itibar kaybı yaşatabilir. AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) uyumu yalnızca hukuki değil, itibar güvencesidir de.</p>"
         }
       ]
     }
@@ -38114,11 +38114,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Bilgi Verme Yükümlülüğü",
-          "content": "<p>Yükümlüler, <strong>MASAK</strong> ve yetkili makamların yazılı ya da elektronik taleplerini yanıt süresi içinde karşılamak zorundadır. Talep kapsamı müşteri bilgileri, işlem kayıtları ve iç raporları içerir. Bilgi vermekten kaçınmak ya da yanıltıcı bilgi sunmak idari ve cezai yaptırım gerektirir.</p>"
+          "content": "<p>Yükümlüler, <strong>MASAK (mali suçları araştırma kurulu)</strong> ve yetkili makamların yazılı ya da elektronik taleplerini yanıt süresi içinde karşılamak zorundadır. Talep kapsamı müşteri bilgileri, işlem kayıtları ve iç raporları içerir. Bilgi vermekten kaçınmak ya da yanıltıcı bilgi sunmak idari ve cezai yaptırım gerektirir.</p>"
         },
         {
           "heading": "Tipping-Off Yasağı ve Yasal Koruma",
-          "content": "<p>ŞİB yapıldığında ilgili müşteri veya üçüncü kişiler <strong>kesinlikle bilgilendirilemez</strong> (tipping-off yasağı). İyi niyetli bildirim yapan çalışan ve kurumlar yasal koruma altındadır; bildirimden dolayı hukuki sorumluluk doğmaz. Yasak ihlali cezai yaptırıma konu olur.</p>"
+          "content": "<p>ŞİB (şüpheli işlem bildirimi) yapıldığında ilgili müşteri veya üçüncü kişiler <strong>kesinlikle bilgilendirilemez</strong> (tipping-off yasağı). İyi niyetli bildirim yapan çalışan ve kurumlar yasal koruma altındadır; bildirimden dolayı hukuki sorumluluk doğmaz. Yasak ihlali cezai yaptırıma konu olur.</p>"
         }
       ]
     },
@@ -38142,11 +38142,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Grup İçi ve Uluslararası Paylaşım",
-          "content": "<p>Finansal grup şirketleri AML/CFT amaçlı bilgi paylaşabilir; paylaşılan bilgiler yalnızca bu amaçla kullanılabilir. Uluslararası paylaşım <strong>ikili anlaşmalar</strong> ve <strong>EGMONT Grubu</strong> kanalıyla gerçekleştirilir.</p>"
+          "content": "<p>Finansal grup şirketleri AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) amaçlı bilgi paylaşabilir; paylaşılan bilgiler yalnızca bu amaçla kullanılabilir. Uluslararası paylaşım <strong>ikili anlaşmalar</strong> ve <strong>EGMONT Grubu (mali istihbarat birimleri uluslararası ağı) Grubu (mali istihbarat birimleri uluslararası ağı) Grubu</strong> kanalıyla gerçekleştirilir.</p>"
         },
         {
           "heading": "İç Bildirim Hiyerarşisi",
-          "content": "<p>Çalışan şüpheli durumu <strong>uyum görevlisine</strong> iç bildirim yoluyla iletir. Uyum görevlisi değerlendirip MASAK'a ŞİB yapar ya da yapmama kararını gerekçesiyle kayıt altına alır. İç bildirim sistemi gizli, erişilebilir ve işlevsel olmalıdır.</p>"
+          "content": "<p>Çalışan şüpheli durumu <strong>uyum görevlisine</strong> iç bildirim yoluyla iletir. Uyum görevlisi değerlendirip MASAK (mali suçları araştırma kurulu)'a ŞİB (şüpheli işlem bildirimi) yapar ya da yapmama kararını gerekçesiyle kayıt altına alır. İç bildirim sistemi gizli, erişilebilir ve işlevsel olmalıdır.</p>"
         }
       ]
     }
@@ -38154,11 +38154,11 @@ window.__EXT = {
   "UY2_KIM": [
     {
       "num": "01",
-      "title": "KYC Süreci ve Zorunlu Durumlar",
+      "title": "KYC (müşteri tanıma) Süreci ve Zorunlu Durumlar",
       "sections": [
         {
-          "heading": "KYC Nedir?",
-          "content": "<p><strong>Kimlik Tespiti (KYC — Know Your Customer)</strong>, yükümlülerin müşterilerini tanıma, kimliklerini doğrulama ve sürekli izleme sürecidir. 5549 sayılı Kanun ve ilgili yönetmelikler kapsamında zorunludur.</p>"
+          "heading": "KYC (müşteri tanıma) Nedir?",
+          "content": "<p><strong>Kimlik Tespiti (KYC (müşteri tanıma — know your customer) — Know Your Customer)</strong>, yükümlülerin müşterilerini tanıma, kimliklerini doğrulama ve sürekli izleme sürecidir. 5549 sayılı Kanun ve ilgili yönetmelikler kapsamında zorunludur.</p>"
         },
         {
           "heading": "Kimlik Tespiti Gereken Durumlar",
@@ -38216,7 +38216,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Gerçek Faydalanıcı Kavramı",
-          "content": "<p><strong>Gerçek faydalanıcı</strong>, bir işlem veya yapı üzerinde nihai kontrolü ya da mülkiyeti elinde bulunduran gerçek kişidir. FATF eşiği tüzel kişilerde <strong>yüzde 25</strong> veya üzeri pay ya da kontrol hakkıdır.</p>"
+          "content": "<p><strong>Gerçek faydalanıcı</strong>, bir işlem veya yapı üzerinde nihai kontrolü ya da mülkiyeti elinde bulunduran gerçek kişidir. FATF (finansal eylem görev gücü) eşiği tüzel kişilerde <strong>yüzde 25</strong> veya üzeri pay ya da kontrol hakkıdır.</p>"
         },
         {
           "heading": "Tespit Yöntemleri",
@@ -38224,7 +38224,7 @@ window.__EXT = {
         },
         {
           "heading": "Şeffaf Olmayan Yapılar",
-          "content": "<p>Anonim hisse senetleri, taşıyıcı hisse senetleri, tröstler, vakıflar ve offshore yapılar gerçek faydalanıcıyı gizlemek amacıyla kullanılabilir. Bu yapılara karşı <strong>artırılmış müşteri kimlik tespiti (EDD)</strong> uygulanmalıdır. FATF, taşıyıcı hisse senetlerinin kısıtlanmasını tavsiye eder.</p>"
+          "content": "<p>Anonim hisse senetleri, taşıyıcı hisse senetleri, tröstler, vakıflar ve offshore yapılar gerçek faydalanıcıyı gizlemek amacıyla kullanılabilir. Bu yapılara karşı <strong>artırılmış müşteri kimlik tespiti (EDD (artırılmış durum tespiti — enhanced due diligence))</strong> uygulanmalıdır. FATF (finansal eylem görev gücü), taşıyıcı hisse senetlerinin kısıtlanmasını tavsiye eder.</p>"
         }
       ]
     },
@@ -38250,7 +38250,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Özel Dikkat Kapsamı",
-          "content": "<p>FATF 20. Tavsiye uyarınca yükümlüler, <strong>ekonomik ya da meşru amacı olmayan işlemlere</strong> özel dikkat göstermelidir. Bu kapsamda büyük nakit hareketleri, alışılmadık işlem örüntüleri ve riskli ülkelerle yapılan işlemler yer alır. Arka plan araştırması yapılmalı ve gerektiğinde ŞİB yoluna gidilmelidir.</p>"
+          "content": "<p>FATF (finansal eylem görev gücü) 20. Tavsiye uyarınca yükümlüler, <strong>ekonomik ya da meşru amacı olmayan işlemlere</strong> özel dikkat göstermelidir. Bu kapsamda büyük nakit hareketleri, alışılmadık işlem örüntüleri ve riskli ülkelerle yapılan işlemler yer alır. Arka plan araştırması yapılmalı ve gerektiğinde ŞİB (şüpheli işlem bildirimi) yoluna gidilmelidir.</p>"
         },
         {
           "heading": "İşlem İzleme Sistemleri",
@@ -38264,7 +38264,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Muhabir Bankacılık",
-          "content": "<p>Bir bankanın başka bir bankaya yurt içi veya uluslararası hizmet sunması olan <strong>muhabir bankacılık</strong> ilişkisi kurulmadan önce karşı tarafın AML/CFT standartları değerlendirilmelidir. FATF 13. Tavsiye bu yükümlülükleri düzenler.</p>"
+          "content": "<p>Bir bankanın başka bir bankaya yurt içi veya uluslararası hizmet sunması olan <strong>muhabir bankacılık</strong> ilişkisi kurulmadan önce karşı tarafın AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) standartları değerlendirilmelidir. FATF (finansal eylem görev gücü) 13. Tavsiye bu yükümlülükleri düzenler.</p>"
         },
         {
           "heading": "Kabuk Banka Yasağı",
@@ -38277,12 +38277,12 @@ window.__EXT = {
       "title": "Yüksek Riskli Ülkelerle İşlemler",
       "sections": [
         {
-          "heading": "FATF Listeleri",
-          "content": "<p>FATF <strong>kara listesi</strong> (yüksek risk, çağrı yapılan ülkeler) ve <strong>gri listesi</strong> (artırılmış izleme altındaki ülkeler) düzenli olarak yayımlanır. Bu ülkelerle işlemlerde artırılmış tedbirler uygulanır.</p>"
+          "heading": "FATF (finansal eylem görev gücü) Listeleri",
+          "content": "<p>FATF (finansal eylem görev gücü) <strong>kara listesi</strong> (yüksek risk, çağrı yapılan ülkeler) ve <strong>gri listesi</strong> (artırılmış izleme altındaki ülkeler) düzenli olarak yayımlanır. Bu ülkelerle işlemlerde artırılmış tedbirler uygulanır.</p>"
         },
         {
           "heading": "Pratik Tedbirler",
-          "content": "<p>Yüksek riskli ülkelerden gelen fon transferlerinde kaynak araştırılır. Gerektiğinde işlem reddedilebilir ya da ŞİB yapılır. Ülke risk derecelendirmeleri düzenli izlenir ve güncellenir.</p>"
+          "content": "<p>Yüksek riskli ülkelerden gelen fon transferlerinde kaynak araştırılır. Gerektiğinde işlem reddedilebilir ya da ŞİB (şüpheli işlem bildirimi) yapılır. Ülke risk derecelendirmeleri düzenli izlenir ve güncellenir.</p>"
         }
       ]
     }
@@ -38294,11 +38294,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Travel Rule Nedir?",
-          "content": "<p>FATF'ın <strong>16. Tavsiyesi</strong> ile düzenlenen Travel Rule (Seyahat Kuralı), EFT işlemlerinde <strong>gönderen ve alıcıya ait isim, hesap numarası ve adres bilgilerinin</strong> aktarılmasını zorunlu kılar. 1.000 EUR/USD altında basitleştirilmiş kural uygulanabilir. Bilgi eksikliğinde aracı kuruluş işlemi askıya alabilir veya reddedebilir.</p>"
+          "content": "<p>FATF (finansal eylem görev gücü)'ın <strong>16. Tavsiyesi</strong> ile düzenlenen Travel Rule (Seyahat Kuralı), EFT işlemlerinde <strong>gönderen ve alıcıya ait isim, hesap numarası ve adres bilgilerinin</strong> aktarılmasını zorunlu kılar. 1.000 EUR/USD altında basitleştirilmiş kural uygulanabilir. Bilgi eksikliğinde aracı kuruluş işlemi askıya alabilir veya reddedebilir.</p>"
         },
         {
           "heading": "Kripto Varlık Transferlerinde Travel Rule",
-          "content": "<p>Travel Rule kripto varlık transferlerine de uygulanır. <strong>VASP'tan VASP'a</strong> transferlerde 1.000 USD/EUR eşiğini aşan işlemlerde gönderici ve alıcı bilgileri paylaşılmalıdır. Unhosted wallet işlemleri ekstra belgeleme gerektirir.</p>"
+          "content": "<p>Travel Rule kripto varlık transferlerine de uygulanır. <strong>VASP (kripto/sanal varlık hizmet sağlayıcısı)'tan VASP (kripto varlık hizmet sağlayıcısı)'a</strong> transferlerde 1.000 USD/EUR eşiğini aşan işlemlerde gönderici ve alıcı bilgileri paylaşılmalıdır. Unhosted wallet işlemleri ekstra belgeleme gerektirir.</p>"
         }
       ]
     },
@@ -38308,11 +38308,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "VASP Yükümlülükleri",
-          "content": "<p>VASP'lar; <strong>müşteri kimlik tespiti, ŞİB ve kayıt tutma</strong> yükümlülüklerine tabidir. Türkiye'de 7518 sayılı Kanun ile SPK lisansına tabi kılınmışlardır. Lisanssız faaliyet idari ve cezai yaptırıma konu olur.</p>"
+          "content": "<p>VASP (kripto/sanal varlık hizmet sağlayıcısı)'lar; <strong>müşteri kimlik tespiti, ŞİB (şüpheli işlem bildirimi) ve kayıt tutma</strong> yükümlülüklerine tabidir. Türkiye'de 7518 sayılı Kanun ile SPK (sermaye piyasası kurulu) lisansına tabi kılınmışlardır. Lisanssız faaliyet idari ve cezai yaptırıma konu olur.</p>"
         },
         {
           "heading": "Risk Faktörleri",
-          "content": "<p>Kripto varlıklarda başlıca AML riskleri: <strong>anonimlik ve takma adlılık, mixer/tumbler servisleri, privacy coinler, DeFi protokolleri.</strong> Blockchain analiz araçları şüpheli işlem tespitinde kritik rol oynar.</p>"
+          "content": "<p>Kripto varlıklarda başlıca AML (kara para aklamanın önlenmesi) riskleri: <strong>anonimlik ve takma adlılık, mixer/tumbler servisleri, privacy coinler, DeFi protokolleri.</strong> Blockchain analiz araçları şüpheli işlem tespitinde kritik rol oynar.</p>"
         }
       ]
     },
@@ -38322,7 +38322,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Yasal Çerçeve",
-          "content": "<p>7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK denetimine alınmıştır. VASP'lar SPK'ya kayıt olmak, KYC uygulamak ve ŞİB yapmak zorundadır. MASAK kripto varlık alanındaki AML/CFT uyumunu izler.</p>"
+          "content": "<p>7518 sayılı Kanun ile kripto varlık hizmet sağlayıcıları SPK (sermaye piyasası kurulu) denetimine alınmıştır. VASP (kripto/sanal varlık hizmet sağlayıcısı)'lar SPK (sermaye piyasası kurulu)'ya kayıt olmak, KYC (müşteri tanıma — know your customer) uygulamak ve ŞİB (şüpheli işlem bildirimi) yapmak zorundadır. MASAK (mali suçları araştırma kurulu) kripto varlık alanındaki AML/CFT (kara para aklama ve terörün finansmanıyla mücadele) uyumunu izler.</p>"
         }
       ]
     }
@@ -38334,7 +38334,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Hukuki Dayanak ve Kapsam",
-          "content": "<p>Risk bazlı yaklaşım (RBA) çerçevesinde düşük riskli müşteri ve ürünlere <strong>Basitleştirilmiş Müşteri Kimlik Tespiti (SDD — Simplified Due Diligence)</strong> uygulanabilir. 5549 sayılı Kanun ve MASAK yönetmelikleri koşulları belirler. SDD sıfır tedbir anlamına gelmez; temel KYC unsurları korunur.</p>"
+          "content": "<p>Risk bazlı yaklaşım (RBA (risk bazlı yaklaşım — risk-based approach)) çerçevesinde düşük riskli müşteri ve ürünlere <strong>Basitleştirilmiş Müşteri Kimlik Tespiti (SDD (basitleştirilmiş durum tespiti — simplified due diligence) — Simplified Due Diligence)</strong> uygulanabilir. 5549 sayılı Kanun ve MASAK (mali suçları araştırma kurulu) yönetmelikleri koşulları belirler. SDD (basitleştirilmiş durum tespiti) sıfır tedbir anlamına gelmez; temel KYC (müşteri tanıma — know your customer) unsurları korunur.</p>"
         },
         {
           "heading": "Düşük Riskli Kategoriler",
@@ -38344,15 +38344,15 @@ window.__EXT = {
     },
     {
       "num": "02",
-      "title": "SDD Uygulaması ve Standart KYC ile Farkları",
+      "title": "SDD (basitleştirilmiş durum tespiti) Uygulaması ve Standart KYC (müşteri tanıma) ile Farkları",
       "sections": [
         {
-          "heading": "SDD'nin Özellikleri",
-          "content": "<p>SDD'de kimlik bilgilerinin toplanması ertelenebilir; ancak iş ilişkisi başlamadan önce tamamlanmalıdır. İzleme sıklığı ve derinliği azaltılabilir; tamamen kaldırılamaz. Periyodik gözden geçirme yükümlülüğü korunur.</p>"
+          "heading": "SDD (basitleştirilmiş durum tespiti)'nin Özellikleri",
+          "content": "<p>SDD (basitleştirilmiş durum tespiti — simplified due diligence)'de kimlik bilgilerinin toplanması ertelenebilir; ancak iş ilişkisi başlamadan önce tamamlanmalıdır. İzleme sıklığı ve derinliği azaltılabilir; tamamen kaldırılamaz. Periyodik gözden geçirme yükümlülüğü korunur.</p>"
         },
         {
           "heading": "Dikkat Gereken Hususlar",
-          "content": "<p>SDD kararı <strong>gerekçesiyle birlikte belgelenmelidir.</strong> Şüphe belirdiğinde standart KYC veya EDD'ye geçilmelidir. SDD uygulanan müşteri kategorileri yazılı politikalarda açıkça tanımlanmalıdır. FATF, risk düşük olduğunda SDD'ye olanak tanır ancak standart dışı uygulamalara izin vermez.</p>"
+          "content": "<p>SDD (basitleştirilmiş durum tespiti — simplified due diligence) kararı <strong>gerekçesiyle birlikte belgelenmelidir.</strong> Şüphe belirdiğinde standart KYC (müşteri tanıma — know your customer) veya EDD (artırılmış durum tespiti — enhanced due diligence)'ye geçilmelidir. SDD (basitleştirilmiş durum tespiti) uygulanan müşteri kategorileri yazılı politikalarda açıkça tanımlanmalıdır. FATF (finansal eylem görev gücü), risk düşük olduğunda SDD (basitleştirilmiş durum tespiti)'ye olanak tanır ancak standart dışı uygulamalara izin vermez.</p>"
         }
       ]
     }
@@ -38360,43 +38360,43 @@ window.__EXT = {
   "UY2_SIKT": [
     {
       "num": "01",
-      "title": "EDD ve PEP Kavramları",
+      "title": "EDD (güçlendirilmiş durum tespiti) ve PEP (siyasi nüfuz sahibi kişi) Kavramları",
       "sections": [
         {
-          "heading": "Artırılmış Müşteri Kimlik Tespiti (EDD)",
-          "content": "<p><strong>EDD (Enhanced Due Diligence)</strong>, yüksek riskli müşteri ve işlemler için standart KYC'nin ötesinde uygulanan kapsamlı doğrulama sürecidir. Temel unsurları: <strong>üst yönetim onayı, fon kaynağı ve servet kaynağının belgelenmesi, artırılmış izleme.</strong> FATF 19. Tavsiye EDD yükümlülüklerini düzenler.</p>"
+          "heading": "Artırılmış Müşteri Kimlik Tespiti (EDD (güçlendirilmiş durum tespiti))",
+          "content": "<p><strong>EDD (Enhanced Due Diligence)</strong>, yüksek riskli müşteri ve işlemler için standart KYC (müşteri tanıma — know your customer)'nin ötesinde uygulanan kapsamlı doğrulama sürecidir. Temel unsurları: <strong>üst yönetim onayı, fon kaynağı ve servet kaynağının belgelenmesi, artırılmış izleme.</strong> FATF (finansal eylem görev gücü) 19. Tavsiye EDD (artırılmış durum tespiti — enhanced due diligence) yükümlülüklerini düzenler.</p>"
         },
         {
-          "heading": "PEP Tanımı ve Kapsamı",
-          "content": "<p><strong>PEP (Politically Exposed Person — Siyasi Açıdan Maruz Kalmış Kişi)</strong>; devlet başkanı, bakan, milletvekili, yargıç ve üst düzey kamu görevlileri gibi siyasi nüfuza sahip kişilerdir. Yurt içi PEP, yabancı PEP ve uluslararası kuruluş yöneticilerinin tamamı bu kapsama girer. PEP statüsünün sona ermesi yükümlülükleri hemen kaldırmaz.</p>"
+          "heading": "PEP (siyasi nüfuz sahibi kişi) Tanımı ve Kapsamı",
+          "content": "<p><strong>PEP (Politically Exposed Person — Siyasi Açıdan Maruz Kalmış Kişi)</strong>; devlet başkanı, bakan, milletvekili, yargıç ve üst düzey kamu görevlileri gibi siyasi nüfuza sahip kişilerdir. Yurt içi PEP (siyasi açıdan maruz kalmış kişi), yabancı PEP (siyasi açıdan maruz kalmış kişi) ve uluslararası kuruluş yöneticilerinin tamamı bu kapsama girer. PEP (siyasi nüfuz sahibi kişi) statüsünün sona ermesi yükümlülükleri hemen kaldırmaz.</p>"
         }
       ]
     },
     {
       "num": "02",
-      "title": "PEP ve İlişkili Kişilere Uygulanacak Tedbirler",
+      "title": "PEP (siyasi nüfuz sahibi kişi) ve İlişkili Kişilere Uygulanacak Tedbirler",
       "sections": [
         {
-          "heading": "PEP'lere Tedbirler",
+          "heading": "PEP (siyasi nüfuz sahibi kişi)'lere Tedbirler",
           "content": "<p>(1) İş ilişkisi öncesi <strong>üst yönetim onayı.</strong> (2) Fon ve servet kaynağının belgelenmesi. (3) Artırılmış izleme. (4) Periyodik risk profili güncellemesi.</p>"
         },
         {
           "heading": "İlişkili Kişiler",
-          "content": "<p>PEP'lerin <strong>aile üyeleri</strong> (eş, çocuk, ebeveyn) ve <strong>yakın iş ortakları</strong> da EDD kapsamındadır. Doğrudan PEP olmayan bu kişiler, PEP'e yakınlıkları nedeniyle yüksek risk taşır.</p>"
+          "content": "<p>PEP (siyasi açıdan maruz kalmış kişi)'lerin <strong>aile üyeleri</strong> (eş, çocuk, ebeveyn) ve <strong>yakın iş ortakları</strong> da EDD (artırılmış durum tespiti — enhanced due diligence) kapsamındadır. Doğrudan PEP (siyasi açıdan maruz kalmış kişi) olmayan bu kişiler, PEP (siyasi nüfuz sahibi kişi)'e yakınlıkları nedeniyle yüksek risk taşır.</p>"
         }
       ]
     },
     {
       "num": "03",
-      "title": "EDD Gerektiren Diğer Durumlar",
+      "title": "EDD (güçlendirilmiş durum tespiti) Gerektiren Diğer Durumlar",
       "sections": [
         {
           "heading": "Tetikleyici Faktörler",
-          "content": "<p>EDD gerektiren diğer durumlar: <strong>yüksek riskli ülkelerle işlemler, karmaşık ve açıklanamayan yüksek tutarlı işlemler, tröst/offshore/anonim yapılar, yeni teknolojiler ve anonim işlem kanalları.</strong></p>"
+          "content": "<p>EDD (artırılmış durum tespiti — enhanced due diligence) gerektiren diğer durumlar: <strong>yüksek riskli ülkelerle işlemler, karmaşık ve açıklanamayan yüksek tutarlı işlemler, tröst/offshore/anonim yapılar, yeni teknolojiler ve anonim işlem kanalları.</strong></p>"
         },
         {
-          "heading": "EDD Süreci",
-          "content": "<p>EDD kapsamında işlemin arka planı araştırılıp belgelenir; gerektiğinde ŞİB yapılır. Tüm kararlar ve gerekçeler kayıt altına alınmalıdır.</p>"
+          "heading": "EDD (güçlendirilmiş durum tespiti) Süreci",
+          "content": "<p>EDD (artırılmış durum tespiti — enhanced due diligence) kapsamında işlemin arka planı araştırılıp belgelenir; gerektiğinde ŞİB (şüpheli işlem bildirimi) yapılır. Tüm kararlar ve gerekçeler kayıt altına alınmalıdır.</p>"
         }
       ]
     }
@@ -38408,7 +38408,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "UKT Nedir?",
-          "content": "<p><strong>UKT (Uluslararası Yaptırımlar ve Kara Para ile Terörün Finansmanının Önlenmesi)</strong>, Türkiye'nin uluslararası yaptırım rejimine uyum sürecini kapsar. Başlıca kaynaklar: <strong>BM Güvenlik Konseyi kararları, AB yaptırımları, OFAC listeleri.</strong> Türkiye'de listeler MASAK ve Hazine & Maliye Bakanlığı kanalıyla yayımlanır.</p>"
+          "content": "<p><strong>UKT (Uluslararası Yaptırımlar ve Kara Para ile Terörün Finansmanının Önlenmesi)</strong>, Türkiye'nin uluslararası yaptırım rejimine uyum sürecini kapsar. Başlıca kaynaklar: <strong>BM Güvenlik Konseyi kararları, AB yaptırımları, OFAC (ABD yabancı varlıklar kontrol ofisi) listeleri.</strong> Türkiye'de listeler MASAK (mali suçları araştırma kurulu) ve Hazine & Maliye Bakanlığı kanalıyla yayımlanır.</p>"
         },
         {
           "heading": "Tarama Yükümlülüğü",
@@ -38422,11 +38422,11 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Varlık Dondurma",
-          "content": "<p>Listede yer alan kişi/kuruluşa ait varlıklar <strong>derhal ve önceden izin alınmaksızın dondurulur.</strong> Dondurma işlemi MASAK ve ilgili makamlara derhal bildirilmelidir. Dondurma (varlıkları saklamak) ile işlem reddi (işlemi yapmamak) farklı kavramlardır.</p>"
+          "content": "<p>Listede yer alan kişi/kuruluşa ait varlıklar <strong>derhal ve önceden izin alınmaksızın dondurulur.</strong> Dondurma işlemi MASAK (mali suçları araştırma kurulu) ve ilgili makamlara derhal bildirilmelidir. Dondurma (varlıkları saklamak) ile işlem reddi (işlemi yapmamak) farklı kavramlardır.</p>"
         },
         {
           "heading": "Terörün Finansmanının Önlenmesi",
-          "content": "<p><strong>7262 sayılı Kanun</strong> terörün finansmanını düzenler. Terör örgütü üyelerine veya yararına işlem yapmak suçtur. Şüpheli terör finansmanı işlemlerinde derhal ŞİB yapılmalıdır. Yüksek riskli kişi/kuruluşlarla EDD uygulanır.</p>"
+          "content": "<p><strong>7262 sayılı Kanun</strong> terörün finansmanını düzenler. Terör örgütü üyelerine veya yararına işlem yapmak suçtur. Şüpheli terör finansmanı işlemlerinde derhal ŞİB (şüpheli işlem bildirimi) yapılmalıdır. Yüksek riskli kişi/kuruluşlarla EDD (artırılmış durum tespiti — enhanced due diligence) uygulanır.</p>"
         }
       ]
     },
@@ -38436,7 +38436,7 @@ window.__EXT = {
       "sections": [
         {
           "heading": "Artırılmış Tedbirler",
-          "content": "<p>Yaptırım listelerine yakın risk kategorilerinde ve yüksek riskli ülke vatandaşlarıyla ilgili işlemlerde <strong>EDD</strong> uygulanır. Karmaşık yapılar ve terör riski yüksek işlemlerde arka plan araştırması ve belgeleme zorunludur.</p>"
+          "content": "<p>Yaptırım listelerine yakın risk kategorilerinde ve yüksek riskli ülke vatandaşlarıyla ilgili işlemlerde <strong>EDD (artırılmış durum tespiti — enhanced due diligence)</strong> uygulanır. Karmaşık yapılar ve terör riski yüksek işlemlerde arka plan araştırması ve belgeleme zorunludur.</p>"
         },
         {
           "heading": "Kurumsal Yükümlülükler",
