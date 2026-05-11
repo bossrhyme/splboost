@@ -35151,7 +35151,14 @@ window.__C = {
           "e": "Risk izleme ve kontrolün nihai amacı; SGA ve TF suçlarının kurumun kanalları üzerinden gerçekleşmesini önlemek, oluşan şüpheleri tespit etmek ve yetkili makamlara bildirmektir."
         }
       ]
-    }
+    },
+    "summary": [
+      {
+        "num": "01",
+        "title": "Karma Test — 16 Konudan 100 Soru",
+        "body": "<ul><li><strong>Bu bölüm nedir?</strong> Modül 2'nin 16 konusundan derlenen 100 soruyu 5 farklı 20'lik testte sunar.</li><li><strong>Kapsam:</strong> Uyum Birimi, Uyum Görevlisi, Lisanslama, Uyum Programı, Risk-İzleme-Kontrol, Yükümlüler/FOBİM (finansal olmayan belirlenmiş işletme ve meslek)ler, Denetim, İdari Para Cezaları, Bilgi Verme, Kimlik Tespiti, Gerçek Faydalanıcılık, Özel Dikkat/Muhabirlik, Kripto Varlık Transferleri, Basitleştirilmiş Tedbirler, Sıkılaştırılmış Tedbirler/PEP (siyasi nüfuz sahibi kişi), UKT (uluslararası koordinasyon tedbirleri).</li><li><strong>Kullanım önerisi:</strong> Önce konu testlerini, ardından karma testlerle genel tekrar yapın.</li><li><strong>Her test:</strong> 20 soru, tüm konulardan dengeli dağılım, karışık sıralama.</li></ul>"
+      }
+    ]
   }
 };
 window.__EXT = {
