@@ -677,11 +677,13 @@ function renderTopic(){
   const tabs=$$('vtabs'),panels=$$('vpanels');
   if(!con){tabs.innerHTML='';panels.innerHTML='<div class="soon-p"><h3>Hazırlanıyor</h3><p>İçerik yakında eklenecektir.</p></div>';return}
   const availTests=['t1','t2','t3','t4','t5'].filter(tid=>con?.tests?.[tid]);
+  const isKarma=availTests.length>1;
   const td=[{id:'ozet',label:'📚 Konu Özeti'},{id:'ozet-gen',label:'📖 Genişletilmiş Özet'},...availTests.map((tid,i)=>({id:tid,label:'Test '+(i+1)}))];
-  tabs.innerHTML=td.map((t,i)=>`<button class="vtab${i===0?' on':''}" data-vid="${t.id}">${t.label}</button>`).join('');
-  panels.innerHTML=td.map((t,i)=>`<div class="vpanel${i===0?' on':''}" id="vp-${t.id}"></div>`).join('');
+  const defaultIdx=isKarma?2:0;
+  tabs.innerHTML=td.map((t,i)=>`<button class="vtab${i===defaultIdx?' on':''}" data-vid="${t.id}">${t.label}</button>`).join('');
+  panels.innerHTML=td.map((t,i)=>`<div class="vpanel${i===defaultIdx?' on':''}" id="vp-${t.id}"></div>`).join('');
   tabs.querySelectorAll('.vtab').forEach(btn=>{btn.onclick=()=>{tabs.querySelectorAll('.vtab').forEach(b=>b.classList.remove('on'));panels.querySelectorAll('.vpanel').forEach(p=>p.classList.remove('on'));btn.classList.add('on');$$('vp-'+btn.dataset.vid).classList.add('on')}});
-  $$('vp-ozet').innerHTML=con.summary.map((s,i)=>{
+  $$('vp-ozet').innerHTML=(con.summary||[]).map((s,i)=>{
     const acc=`<div class="acc"><div class="ach" onclick="this.closest('.acc').classList.toggle('op')"><div class="ach-l"><span class="ach-num">${s.num}</span><h3>${s.title}</h3></div><span class="ach-arr">▾</span></div><div class="acb">${s.body}</div></div>`;
     const adAfter=(i===2||i===5)?`<div class="ad-slot ad-slot-inline">Reklam · Native Kart</div>`:'';
     return acc+adAfter;
